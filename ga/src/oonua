@@ -1,0 +1,41 @@
+#!/bin/bash
+if [ $# -ne 1 ]; then
+	echo 'Usage: oonua <currentcompendiumversion>'
+ 	exit
+fi
+COMPVERSION="${1}"
+UTFCOMP="./OOo-${COMPVERSION}.po"
+rm -f aistriuchan.log
+find pot -name '*.po' | xargs rm -f
+rm -Rf po
+find pot -name '*.pot' |
+while read pofile
+do
+	TARGET=`echo "${pofile}" | sed 's/t$//'`
+	echo "Translating ${TARGET}..."
+	TEMPPOT=$pofile
+#	TEMPPOT=`mktemp`
+# fix two msgids in readlicense_oo.pot with utf8
+#	perl -i -p -e 's/\\([A-Zopi])/ $1/g;' ${pofile}
+#	sed -i 's/\\\\"/\\"/g; s/\\\././g; s/\\%/%/g' ${pofile}
+#	sed -i "s/\\\\'/'/g" ${pofile}
+#	msguniq "${pofile}" > ${TEMPPOT}
+	if msgmerge -N -C "${UTFCOMP}" -o "${TARGET}" /dev/null "${TEMPPOT}" > /dev/null 2>&1
+	then
+		echo "merged fine."
+	else
+		echo "PROBLEM TRANSLATING ${pofile}!!!" >> aistriuchan.log
+		msgmerge -N -C "${UTFCOMP}" -o "${TARGET}" /dev/null "${TEMPPOT}" > aistriuchan.log 2>&1
+	fi
+# shouldn't need to use Pofake to default to English since 
+# PO compendium is supposed to have everything!
+#   but if help content not in main compend, this is nec.
+	Pofake ${TARGET} > tempe.po
+	mv -f tempe.po ${TARGET}
+	sed -i '/charset=ISO-8859-1/s/.*/"Content-Type: text\/plain; charset=UTF-8\\n"/' ${TARGET}
+	echo
+#	rm -f ${TEMPPOT} # ${pofile}
+done
+cp -Rf pot po
+find po -name '*.pot' | xargs rm -f
+find pot -name '*.po' | xargs rm -f
