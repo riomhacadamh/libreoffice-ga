@@ -1,5 +1,5 @@
 # OOo pot file for Irish.
-#   CURRENT VERSION = SRC680_m85
+#   CURRENT VERSION = SRC680_m87
 # First version produced Sept. 2004 by Kevin Scannell using the oo2po
 # scripts by David Fraser et al
 msgid ""
@@ -23009,6 +23009,11 @@ msgstr ""
 msgid "~Zoom"
 msgstr "~Súmáil"
 
+#: mmlayoutpage.src#DLG_MM_LAYOUT_PAGE.LB_ZOOM.1.stringlist.text
+#: swframeposstrings.src#RID_SVXSW_FRAMEPOSITIONS.STR_REL_PG_FRAME.string.text
+msgid "Entire page"
+msgstr "Leathanach ar fad"
+
 #: mmmergepage.src#DLG_MM_MERGE_PAGE.FI_HEADER.fixedtext.text
 msgid "Personalize the mail merge documents"
 msgstr ""
@@ -28639,7 +28644,6 @@ msgid "DDE manual"
 msgstr ""
 
 #: fldui.src#FLD_EU_ABK.string.text fldui.src#FMT_AUTHOR_SCUT.string.text
-#: wizard.src#TP_USER.FT_USER_INITIALS.fixedtext.text
 #: addresstemplate.src#STR_FIELD_INITIALS.string.text
 #: template.src#CorrespondenceFields_12.string.text
 msgid "Initials"
@@ -42091,10 +42095,6 @@ msgstr ""
 msgid "Outer paragraph border"
 msgstr ""
 
-#: swframeposstrings.src#RID_SVXSW_FRAMEPOSITIONS.STR_REL_PG_FRAME.string.text
-msgid "Entire page"
-msgstr "Leathanach ar fad"
-
 #: swframeposstrings.src#RID_SVXSW_FRAMEPOSITIONS.STR_REL_PG_PRTAREA.string.text
 msgid "Page text area"
 msgstr ""
@@ -45232,13 +45232,11 @@ msgid "Foreign"
 msgstr "Iasachta"
 
 #: chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.3.stringlist.text
-#: wizard.src#TP_USER.FT_USER_FIRST.fixedtext.text
 #: addresstemplate.src#STR_FIELD_FIRSTNAME.string.text
 msgid "First name"
 msgstr "Ainm baiste"
 
 #: chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.4.stringlist.text
-#: wizard.src#TP_USER.FT_USER_LAST.fixedtext.text
 #: addresstemplate.src#STR_FIELD_LASTNAME.string.text
 msgid "Last name"
 msgstr "Ainm sloinne"
@@ -48142,7 +48140,7 @@ msgid ""
 msgstr ""
 
 #: table.src#STR_TBL_COLUMN_IS_KEYCOLUMN_TITLE.string.text
-msgid "Primary Key Effected"
+msgid "Primary Key Affected"
 msgstr ""
 
 #: table.src#STR_QRY_CONTINUE.string.text
@@ -51238,9 +51236,8 @@ msgstr ""
 
 #: app.src#RID_XMLSEC_QUERY_SAVEBEFORESIGN.querybox.text
 msgid ""
-"This document must be saved in OpenDocument file format before it can be "
-"digitally signed.\\nDo you want to save in the OpenDocument file format and "
-"continue signing?\\n"
+"The document has to be saved before it can be signed.\\nDo you want to save "
+"the document?"
 msgstr ""
 
 #: app.src#RID_XMLSEC_INFO_WRONGDOCFORMAT.infobox.text
@@ -51250,6 +51247,7 @@ msgid ""
 msgstr ""
 
 #: app.src#RID_XMLSEC_DOCUMENTSIGNED.string.text
+#: basidesh.src#RID_STR_SIGNED.string.text
 msgid "(Signed)"
 msgstr "(Sínithe)"
 
@@ -52382,11 +52380,11 @@ msgid ""
 msgstr ""
 
 #: wizard.src#TP_LICENSE.FT_LICENSE_BODY_2_TXT.fixedtext.text
-msgid "Click 'Accept' to accept the terms of the Agreement. "
+msgid "Click 'Accept' to accept the terms of the Agreement."
 msgstr ""
 
 #: wizard.src#TP_LICENSE.PB_LICENSE_DOWN.pushbutton.text
-msgid "Scroll ~Down"
+msgid "Scroll Do~wn"
 msgstr "Scrollaigh ~Síos"
 
 #: wizard.src#STR_LICENSE_DECLINE.string.text
@@ -52417,9 +52415,21 @@ msgid ""
 "you record changes made to documents."
 msgstr ""
 
+#: wizard.src#TP_USER.FT_USER_FIRST.fixedtext.text
+msgid "~First name"
+msgstr ""
+
+#: wizard.src#TP_USER.FT_USER_LAST.fixedtext.text
+msgid "~Last name"
+msgstr ""
+
+#: wizard.src#TP_USER.FT_USER_INITIALS.fixedtext.text
+msgid "~Initials"
+msgstr ""
+
 #: wizard.src#TP_USER.FT_USER_FATHER.fixedtext.text
-msgid "Father's name"
-msgstr "Ainm d'athair"
+msgid "~Father's name"
+msgstr "~Ainm d'athair"
 
 #: wizard.src#TP_REGISTRATION.FT_REGISTRATION_HEADER.fixedtext.text
 #: registrationdlg.src#DLG_REGISTRATION_REQUEST.modaldialog.text
@@ -60258,6 +60268,10 @@ msgstr "~Ríomh"
 msgid "~Field Names"
 msgstr "Ainmneacha ~Réimse"
 
+#: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_RemoveDirectCharFormats.Label.value.text
+msgid "Remove Direct Character Formats"
+msgstr ""
+
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Popups..uno_TableAutoFitMenu.Label.value.text
 msgid "A~utofit"
 msgstr "~Uathoiriúnaigh"
@@ -65573,6 +65587,12 @@ msgstr "StarMath 2.0 - 5.0"
 msgid "WordPerfect (Win) 6.0 - 7.0"
 msgstr "WordPerfect (Win) 6.0 - 7.0"
 
+#: warnbox.src#RID_XMLSECWB_NO_MOZILLA_PROFILE.warningbox.text
+msgid ""
+"Digital signatures functionality could not be used, because no Mozilla user "
+"profile was found. Please check the Mozilla installation."
+msgstr ""
+
 #: certificatechooser.src#RID_XMLSECDLG_CERTCHOOSER.FT_HINT_SELECT.fixedtext.text
 msgid "Select the certificate you want to use for signing"
 msgstr ""
@@ -68116,7 +68136,7 @@ msgstr ""
 
 #: abspilot.src#RID_PAGE_FINAL.tabpage.text
 msgid "Data Source Name"
-msgstr "Ainm an Fhoinse Sonraí"
+msgstr "Ainm na Foinse Sonraí"
 
 #: abspilot.src#RID_PAGE_FINAL.FT_FINISH_EXPL.fixedtext.text
 msgid ""
@@ -71356,7 +71376,7 @@ msgid "The format of the selected file is not supported."
 msgstr ""
 
 #: readme.xrm#ooo_readme.Welcome.A2.a.readmeitem.text
-msgid "Last updated $Date: 2005-03-11 23:04:50 $"
+msgid "Last updated $Date: 2005-03-18 21:45:09 $"
 msgstr ""
 
 #: readme.xrm#ooo_readme.Welcome.A3.a.readmeitem.text
