@@ -46,7 +46,7 @@ OOo.po-update : FORCE
 	find pot -name '*.pot' | egrep -v '^pot/helpcontent2' | xargs msgcat -t utf-8 | iconv -f utf8 -t iso-8859-1 | sed 's/plain; charset=UTF-8/plain; charset=ISO-8859-1/' > bigole.pot
 	msgmerge -N -C OOo-$(PREVIOUS).ga.po -o OOo-$(VERSION).ga.po /dev/null bigole.pot
 	rm -f bigole.pot ${HOME}/gaeilge/gnu/gnu/OOo-2.0.ga.po
-	ln -s  OOo-$(VERSION).ga.po ${HOME}/gaeilge/gnu/gnu/OOo-2.0.ga.po
+	ln -s ${HOME}/seal/OOo/ga/src/OOo-$(VERSION).ga.po ${HOME}/gaeilge/gnu/gnu/OOo-2.0.ga.po
 	echo 'Previous:'
 	msgfmt --statistics -o /dev/null OOo-$(PREVIOUS).ga.po
 	echo 'New:'
