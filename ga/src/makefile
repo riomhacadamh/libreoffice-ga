@@ -1,17 +1,21 @@
 #    Instructions upon new OOo release
-# get tarball with the latest POT files and latest en-US.rdf,
-# and update the PREVIOUS/VERSION variables below.
-#
-# $ rm -Rf pot en-US.sdf
+# (1) Get tarball with the latest POT files and latest en-US.rdf,
+# and update the VERSION variable below to the new milestone number.
+# (2)  Then
+# $ rm -Rf pot en-US.sdf   [ before tar command below! ]
 # $ wget ftp://ftp.linux.cz/pub/localization/OpenOffice.org/devel/POT/OpenOffice.org-SRC680_m79-POT.tar.gz
 # $ gunzip OpenOffice.org-SRC680_m79-POT.tar.gz
 # $ tar xvf OpenOffice.org-SRC680_m79-POT.tar
 # $ rm -f OpenOffice.org-SRC680_m79-POT.tar
 # $ make OOo.po-update
-#   correct utf-8 msgids to iso-8859-1...  BÃ.zier, etc.
+# $ diff -u OOo-latest.ga.po OOo-SRC680_m79.ga.po | more
+#    and look for +msgstr ""  caused by fuzzying, or else easy ones 
+# Fix these, then update the
+# "CURRENT VERSION" at the top of OOo-SRC680_m79.ga.po, mv -f it to OOo-latest
+# $ cvs commit OOo-latest.ga.po
+#    and give current translation counts, version number in log entry
 
-PREVIOUS=1.1.3-0
-VERSION=SRC680_m79
+VERSION=SRC680_m85
 
 all : OOo-$(VERSION)-ga-GSI.sdf
 
@@ -24,17 +28,17 @@ all : OOo-$(VERSION)-ga-GSI.sdf
 #     to create a sh script "language pack" that should be installable
 #     on top of a clean English binary install of this snapshot
 #   tools->options->language, choose "ga" and restart
-OOo-$(VERSION)-ga-GSI.sdf : OOo-$(VERSION).po
-	bash oonua $(VERSION)
+OOo-$(VERSION)-ga-GSI.sdf : OOo-latest.po
+	bash oonua
 	po2oo -l ga -t en-US.sdf -i po -o $@
 
 # this is the compendium to be used to create the finished GSI/SDF,
 # obtained by converting to utf-8
 # used to do Pofake too, but now this is done in oonua with msgmerge
 # Pofake OOo-$(VERSION).ga.po | msgcat - > OOotemp.po
-OOo-$(VERSION).po : OOo-$(VERSION).ga.po
+OOo-latest.po : OOo-latest.ga.po
 	rm -f $@
-	cp -f OOo-$(VERSION).ga.po OOotemp.po
+	cp -f OOo-latest.ga.po OOotemp.po
 	iconv -f iso-8859-1 -t utf-8 OOotemp.po > $@
 	chmod 400 $@
 	rm -f OOotemp.po
@@ -44,16 +48,15 @@ OOo-$(VERSION).po : OOo-$(VERSION).ga.po
 #  only latin1/non-ascii are things like "Bézier"
 OOo.po-update : FORCE
 	find pot -name '*.pot' | egrep -v '^pot/helpcontent2' | xargs msgcat -t utf-8 | iconv -f utf8 -t iso-8859-1 | sed 's/plain; charset=UTF-8/plain; charset=ISO-8859-1/' > bigole.pot
-	msgmerge -N -C OOo-$(PREVIOUS).ga.po -o OOo-$(VERSION).ga.po /dev/null bigole.pot
-	rm -f bigole.pot ${HOME}/gaeilge/gnu/gnu/OOo-2.0.ga.po
-	ln -s ${HOME}/seal/OOo/ga/src/OOo-$(VERSION).ga.po ${HOME}/gaeilge/gnu/gnu/OOo-2.0.ga.po
+	msgmerge -N -C OOo-latest.ga.po -o OOo-$(VERSION).ga.po /dev/null bigole.pot
+	rm -f bigole.pot
 	echo 'Previous:'
-	msgfmt --statistics -o /dev/null OOo-$(PREVIOUS).ga.po
+	msgfmt --statistics -o /dev/null OOo-latest.ga.po
 	echo 'New:'
 	msgfmt --statistics -o /dev/null OOo-$(VERSION).ga.po
 
 clean :
-	rm -f OOo-*-ga-GSI.sdf OOo-$(VERSION).po messages.mo
+	rm -f OOo-*-ga-GSI.sdf OOo-latest.po messages.mo
 	rm -fR po
 
 FORCE :
