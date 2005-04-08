@@ -1,5 +1,5 @@
 # OOo pot file for Irish.
-#   CURRENT VERSION = SRC680_m87
+#   CURRENT VERSION = SRC680_m91
 # First version produced Sept. 2004 by Kevin Scannell using the oo2po
 # scripts by David Fraser et al
 msgid ""
@@ -220,7 +220,7 @@ msgstr ""
 #: tbxopdlg.src#TP_CONFIG_OBJECTBAR.STR_TEXT.string.text
 #: app.src#GID_TEXT.string.text
 #: datefunc.src#RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_Rot13.2.string.text
-#: Text.xcu#Text.UIName.value.text
+#: Text_ui.xcu#Text.UIName.value.text
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_TextToolbox.Label.value.text
 #: DrawWindowState.xcu#..DrawWindowState.UIElements.States.private_resource/toolbar/textbar.UIName.value.text
 #: ImpressWindowState.xcu#..ImpressWindowState.UIElements.States.private_resource/toolbar/textbar.UIName.value.text
@@ -2963,6 +2963,7 @@ msgstr "Scála"
 #: optlingu.src#RID_SFXPAGE_LINGU.PB_LINGU_DICS_EDIT_DIC.pushbutton.text
 #: optpath.src#RID_SFXPAGE_PATH.BTN_PATH.pushbutton.text
 #: optspell.src#RID_SFXPAGE_SPELL.BTN_BOOK.pushbutton.text
+#: datanavi.src#RID_SVXWIN_DATANAVIGATOR.MB_INSTANCES.MID_INSTANCES_EDIT.menuitem.text
 #: datanavi.src#RID_SVXDLG_NAMESPACE_ITEM.PB_EDIT_NAMESPACE.pushbutton.text
 #: autocdlg.src#RID_OFAPAGE_AUTOFMT_APPLY.PB_EDIT.pushbutton.text
 #: tabarea.src#RID_SVXPAGE_COLOR.BTN_WORK_ON.pushbutton.text
@@ -5745,7 +5746,6 @@ msgstr "Colú~n"
 #: menue.src#RID_OBJECTMENU_EDIT.SUBMENU_TAB.FID_TAB_MENU_RENAME.menuitem.text
 #: customizeaddresslistdialog.src#DLG_MM_CUSTOMIZE_ADDRESS_LIST.PB_RENAME.pushbutton.text
 #: datanavi.src#RID_SVXWIN_DATANAVIGATOR.MB_MODELS.MID_MODELS_EDIT.menuitem.text
-#: datanavi.src#RID_SVXWIN_DATANAVIGATOR.MB_INSTANCES.MID_INSTANCES_EDIT.menuitem.text
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Commands..uno_RenameTable.Label.value.text
 msgid "~Rename..."
 msgstr "~Athainmnigh..."
@@ -14685,6 +14685,7 @@ msgstr "Seo~l"
 #: glossary.src#DLG_GLOSSARY.MNU_EDIT.FN_GL_EDIT.menuitem.text
 #: DropDownFieldDialog.src#DLG_FLD_DROPDOWN.PB_EDIT.pushbutton.text
 #: filtnav.src#RID_FM_FILTER_MENU.SID_FM_FILTER_EDIT.menuitem.text
+#: datanavi.src#RID_STR_DATANAV_LINKWARN_BUTTON.string.text
 #: scriptdlg.src#RID_DLG_SCRIPTORGANIZER.SF_PB_EDIT.pushbutton.text
 #: doc.src#STR_EDITOBJECT.string.text
 #: doctdlg.src#DLG_DOC_TEMPLATE.BT_EDIT.pushbutton.text
@@ -16395,7 +16396,7 @@ msgid "Convert selected object to curve?"
 msgstr ""
 
 #: strings.src#STR_TEMPLATE.string.text
-#: StarImpress_4_0_Vorlage.xcu#StarImpress_4.0_Vorlage.UIName.value.text
+#: StarImpress_4_0_Vorlage_ui.xcu#StarImpress_4.0_Vorlage.UIName.value.text
 msgid "StarImpress 4.0 Template"
 msgstr "Teimpléad StarImpress 4.0"
 
@@ -21827,6 +21828,7 @@ msgstr "Príobháideach"
 
 #: label.src#DLG_LAB.1.TP_BUSINESS_DATA.pageitem.text
 #: chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.8.stringlist.text
+#: TableWizard.xcu#..TableWizard.TableWizard.business.Name.value.text
 msgid "Business"
 msgstr "Gnó"
 
@@ -28019,12 +28021,12 @@ msgid "To ~Paragraph"
 msgstr ""
 
 #: mn.src#MN_ANCHOR.FN_TOOL_ANKER.FN_TOOL_ANKER_AT_CHAR.menuitem.text
-#: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_SetAnchorToChar.ContextLabel.value.text
+#: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_SetAnchorAtChar.ContextLabel.value.text
 msgid "To ~Character"
 msgstr ""
 
 #: mn.src#MN_ANCHOR.FN_TOOL_ANKER.FN_TOOL_ANKER_CHAR.menuitem.text
-#: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_SetAnchorAtChar.ContextLabel.value.text
+#: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_SetAnchorToChar.ContextLabel.value.text
 msgid "As C~haracter"
 msgstr "Mar C~harachtar"
 
@@ -32322,7 +32324,8 @@ msgstr ""
 
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_HTML.fixedtext.text
 #: folderitem_writer.ulf#STR_FI_NAME_HTMLDOKUMENT.LngText.text
-#: doc.src#STR_DOCTYPENAME_SWWEB.string.text HTML.xcu#HTML.UIName.value.text
+#: doc.src#STR_DOCTYPENAME_SWWEB.string.text
+#: HTML_ui.xcu#HTML.UIName.value.text
 msgid "HTML Document"
 msgstr "Cáipéis HTML"
 
@@ -36336,6 +36339,25 @@ msgstr ""
 msgid "Do you really want to delete the attribute '$ATTRIBUTENAME'?"
 msgstr ""
 
+#: datanavi.src#RID_QRY_REMOVE_SUBMISSION.querybox.text
+msgid ""
+"Deleting the submission '$SUBMISSIONNAME' affects all controls currently "
+"bound to this submission.\\n\\nDo you really want to delete this submission?"
+msgstr ""
+
+#: datanavi.src#RID_QRY_REMOVE_BINDING.querybox.text
+msgid ""
+"Deleting the binding '$BINDINGNAME' affects all controls currently bound to "
+"this binding.\\n\\nDo you really want to delete this binding?"
+msgstr ""
+
+#: datanavi.src#RID_QRY_LINK_WARNING.messbox.text
+msgid ""
+"This instance is linked with the form.\\n\\nThe changes you make to this "
+"instance will be lost when the form is reloaded.\\n\\nHow do you want to "
+"proceed?"
+msgstr ""
+
 #: datanavi.src#RID_ERR_INVALID_XMLNAME.errorbox.text
 msgid "The name '%1' is not valid in XML. Please enter a different name."
 msgstr ""
@@ -36346,6 +36368,10 @@ msgstr ""
 
 #: datanavi.src#RID_ERR_DOUBLE_MODELNAME.errorbox.text
 msgid "The name '%1' already exists. Please enter a new name."
+msgstr ""
+
+#: datanavi.src#RID_ERR_EMPTY_SUBMISSIONNAME.errorbox.text
+msgid "The submission must have a name."
 msgstr ""
 
 #: datanavi.src#RID_SVXDLG_ADD_DATAITEM.FL_ITEM.fixedline.text
@@ -36387,6 +36413,7 @@ msgid "Attribute"
 msgstr "Tréithe"
 
 #: datanavi.src#RID_SVXDLG_ADD_DATAITEM.STR_FIXEDLINE_BINDING.string.text
+#: xforms.src#RID_STR_XFORMS_BINDING_UI_NAME.string.text
 #: formres.src#RID_STR_BINDING_UI_NAME.string.text
 msgid "Binding"
 msgstr "Ceangal"
@@ -36490,8 +36517,8 @@ msgid "~Link instance"
 msgstr ""
 
 #: datanavi.src#RID_SVXDLG_ADD_INSTANCE.STR_EDIT_TEXT.string.text
-msgid "Rename Instance"
-msgstr "Athainmnigh Ásc"
+msgid "Edit Instance"
+msgstr "Cuir Ásc in Eagar"
 
 #: datanavi.src#RID_SVXDLG_ADD_INSTANCE.modaldialog.text
 msgid "Add Instance"
@@ -39184,6 +39211,8 @@ msgid "Basque"
 msgstr "Bascais"
 
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_BULGARIAN.pairedlist.text
+#: Langpack.ulf#OOO_LANGPACK_NAME_1026.LngText.text
+#: dbwizres.src#RID_LETTERWIZARDLANGUAGE_START___13.string.text
 msgid "Bulgarian"
 msgstr "Bulgáiris"
 
@@ -39231,6 +39260,7 @@ msgstr "Seicis"
 
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_DANISH.pairedlist.text
 #: setup.ulf#_LANGUAGE_DA_.LngText.text
+#: dbwizres.src#RID_LETTERWIZARDLANGUAGE_START___14.string.text
 msgid "Danish"
 msgstr "Danmhairgis"
 
@@ -39298,6 +39328,7 @@ msgstr "Béarla (Filipíneach)"
 
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_ESTONIAN.pairedlist.text
 #: setup.ulf#_LANGUAGE_ET_.LngText.text
+#: Langpack.ulf#OOO_LANGPACK_NAME_1061.LngText.text
 msgid "Estonian"
 msgstr "Eastóinis"
 
@@ -41233,13 +41264,14 @@ msgid "~Macros"
 msgstr "~Macraí"
 
 #: scriptdlg.src#RID_DLG_SCRIPTORGANIZER.SF_CTRL_SCRIPTSBOX.STR_MYMACROS.string.text
+#: cfg.src#STR_MYMACROS.string.text
 #: basidesh.src#RID_STR_USERMACROS.string.text
 msgid "My Macros"
 msgstr "Mo Chuid Macraí"
 
 #: scriptdlg.src#RID_DLG_SCRIPTORGANIZER.SF_CTRL_SCRIPTSBOX.STR_PRODMACROS.string.text
 #: selector.src#STR_SELECTOR_MACROS.string.text
-#: dialog.src#STR_MACROS.string.text
+#: cfg.src#STR_PRODMACROS.string.text dialog.src#STR_MACROS.string.text
 #: basidesh.src#RID_STR_SHAREMACROS.string.text
 msgid "%PRODUCTNAME Macros"
 msgstr "Macraí %PRODUCTNAME"
@@ -43474,7 +43506,7 @@ msgid ""
 msgstr ""
 
 #: docrecovery.src#RID_SVXPAGE_ERR_REP_SEND.FT_ERRSEND_USING.fixedtext.text
-msgid "~How were you using %PRODUCTNAME when the error occured? (optional)"
+msgid "~How were you using %PRODUCTNAME when the error occurred? (optional)"
 msgstr ""
 
 #: docrecovery.src#RID_SVXPAGE_ERR_REP_SEND.BTN_ERRSEND_SHOWREP.pushbutton.text
@@ -44772,10 +44804,6 @@ msgstr ""
 msgid "Perspective On/Off"
 msgstr ""
 
-#: float3d.src#RID_SVXFLOAT_3D.FL_SEGMENTS.fixedline.text
-msgid "Segments"
-msgstr "Mírlínte"
-
 #: float3d.src#RID_SVXFLOAT_3D.FT_PERCENT_DIAGONAL.fixedtext.text
 msgid "R~ounded edges"
 msgstr ""
@@ -44796,6 +44824,14 @@ msgstr " céim"
 #: float3d.src#RID_SVXFLOAT_3D.FT_DEPTH.fixedtext.text
 msgid "~Depth"
 msgstr "~Doimhneacht"
+
+#: float3d.src#RID_SVXFLOAT_3D.FL_SEGMENTS.fixedline.text
+msgid "Segments"
+msgstr "Mírlínte"
+
+#: float3d.src#RID_SVXFLOAT_3D.FL_NORMALS.fixedline.text
+msgid "Normals"
+msgstr ""
 
 #: float3d.src#RID_SVXFLOAT_3D.BTN_NORMALS_OBJ.imagebutton.quickhelptext
 #: float3d.src#RID_SVXFLOAT_3D.BTN_TEX_OBJECT_X.imagebutton.quickhelptext
@@ -44820,10 +44856,6 @@ msgstr ""
 
 #: float3d.src#RID_SVXFLOAT_3D.BTN_TWO_SIDED_LIGHTING.imagebutton.quickhelptext
 msgid "Double-Sided Illumination"
-msgstr ""
-
-#: float3d.src#RID_SVXFLOAT_3D.FL_NORMALS.fixedline.text
-msgid "Normals"
 msgstr ""
 
 #: float3d.src#RID_SVXFLOAT_3D.BTN_DOUBLE_SIDED.imagebutton.quickhelptext
@@ -44851,15 +44883,19 @@ msgstr ""
 msgid "S~urface angle"
 msgstr ""
 
-#: float3d.src#RID_SVXFLOAT_3D.FT_FOCAL_LENGTH.fixedtext.text
-msgid "~Focal length"
-msgstr "~Fad fócais"
-
 #: float3d.src#RID_SVXFLOAT_3D.FL_CAMERA.fixedline.text
 #: TableWizard.xcu#..TableWizard.TableWizard.private.Tables.miniaturefilms.Fields.camera.Name.value.text
 #: TableWizard.xcu#..TableWizard.TableWizard.private.Tables.miniaturefilms.Fields.camera.ShortName.value.text
 msgid "Camera"
 msgstr "Ceamara"
+
+#: float3d.src#RID_SVXFLOAT_3D.FT_FOCAL_LENGTH.fixedtext.text
+msgid "~Focal length"
+msgstr "~Fad fócais"
+
+#: float3d.src#RID_SVXFLOAT_3D.FT_LIGHTSOURCE.fixedtext.text
+msgid "~Light source"
+msgstr "Foinse so~lais"
 
 #: float3d.src#RID_SVXFLOAT_3D.BTN_LIGHT_1.imagebutton.quickhelptext
 msgid "Light Source 1"
@@ -44900,10 +44936,6 @@ msgstr "Foinse Solais 8"
 #: float3d.src#RID_SVXFLOAT_3D.BTN_SPECULAR_COLOR.imagebutton.quickhelptext
 msgid "Colors Dialog"
 msgstr ""
-
-#: float3d.src#RID_SVXFLOAT_3D.FT_LIGHTSOURCE.fixedtext.text
-msgid "~Light source"
-msgstr "Foinse so~lais"
 
 #: float3d.src#RID_SVXFLOAT_3D.FT_AMBIENTLIGHT.fixedtext.text
 msgid "~Ambient light"
@@ -44975,13 +45007,13 @@ msgstr ""
 msgid "~Illumination color"
 msgstr ""
 
-#: float3d.src#RID_SVXFLOAT_3D.FT_MAT_SPECULAR_INTENSITY.fixedtext.text
-msgid "I~ntensity"
-msgstr "Déi~ne"
-
 #: float3d.src#RID_SVXFLOAT_3D.FL_MAT_SPECULAR.fixedline.text
 msgid "Specular"
 msgstr "Spéaclach"
+
+#: float3d.src#RID_SVXFLOAT_3D.FT_MAT_SPECULAR_INTENSITY.fixedtext.text
+msgid "I~ntensity"
+msgstr "Déi~ne"
 
 #: float3d.src#RID_SVXFLOAT3D_FAVORITE.string.text
 msgid "Favorite"
@@ -46337,6 +46369,10 @@ msgid ""
 "The configuration data source '$(ARG1)' is unavailable. Without this data "
 "some functions may not operate correctly.\\nDo you want to continue startup "
 "of %PRODUCTNAME without the missing configuration data?"
+msgstr ""
+
+#: ids.src#RID_UUI_ERRHDL._ERRCODE_UUI_INVALID_XFORMS_SUBMISSION_DATA___ERRCODE_RES_MASK_.string.text
+msgid "The form contains invalid data. Do you still want to continue?"
 msgstr ""
 
 #: logindlg.src#DLG_UUI_LOGIN.GB_LOGIN_ERROR.fixedline.text
@@ -49148,27 +49184,27 @@ msgstr ""
 #: registryitem_writer.ulf#STR_REG_VAL_OO_WRITER.LngText.text
 #: documents.ulf#oasis_text.LngText.text
 #: imagemgr.src#STR_DESCRIPTION_OO_WRITER_DOC.string.text
-#: writer8.xcu#writer8.UIName.value.text
+#: writer8_ui.xcu#writer8.UIName.value.text
 msgid "OpenDocument Text"
 msgstr "Téacs OpenDocument"
 
 #: registryitem_writer.ulf#STR_REG_VAL_OO_WRITER_TEMPLATE.LngText.text
 #: documents.ulf#oasis_text_template.LngText.text
 #: imagemgr.src#STR_DESCRIPTION_OO_WRITER_TEMPLATE.string.text
-#: writer8_template.xcu#writer8_template.UIName.value.text
+#: writer8_template_ui.xcu#writer8_template.UIName.value.text
 msgid "OpenDocument Text Template"
 msgstr ""
 
 #: registryitem_writer.ulf#STR_REG_VAL_OO_MASTERDOC.LngText.text
 #: documents.ulf#oasis_master_document.LngText.text
 #: imagemgr.src#STR_DESCRIPTION_OO_GLOBAL_DOC.string.text
-#: writerglobal8.xcu#writerglobal8.UIName.value.text
+#: writerglobal8_ui.xcu#writerglobal8.UIName.value.text
 msgid "OpenDocument Master Document"
 msgstr "Máistircháipéis OpenDocument"
 
 #: registryitem_writer.ulf#STR_REG_VAL_OO_WEBDOC.LngText.text
 #: documents.ulf#oasis_web_template.LngText.text
-#: writerweb8_writer_template.xcu#writerweb8_writer_template.UIName.value.text
+#: writerweb8_writer_template_ui.xcu#writerweb8_writer_template.UIName.value.text
 msgid "HTML Document Template"
 msgstr ""
 
@@ -49209,14 +49245,14 @@ msgstr "Teimpléad Líníochta %PRODUCTNAME %SXWFORMATVERSION"
 #: registryitem_draw.ulf#STR_REG_VAL_OO_DRAW.LngText.text
 #: documents.ulf#oasis_drawing.LngText.text
 #: imagemgr.src#STR_DESCRIPTION_OO_DRAW_DOC.string.text
-#: draw8.xcu#draw8.UIName.value.text
+#: draw8_ui.xcu#draw8.UIName.value.text
 msgid "OpenDocument Drawing"
 msgstr "Líníocht OpenDocument"
 
 #: registryitem_draw.ulf#STR_REG_VAL_OO_DRAW_TEMPLATE.LngText.text
 #: documents.ulf#oasis_drawing_template.LngText.text
 #: imagemgr.src#STR_DESCRIPTION_OO_DRAW_TEMPLATE.string.text
-#: draw8_template.xcu#draw8_template.UIName.value.text
+#: draw8_template_ui.xcu#draw8_template.UIName.value.text
 msgid "OpenDocument Drawing Template"
 msgstr "Teimpléad Líníochta OpenDocument"
 
@@ -49276,14 +49312,14 @@ msgstr ""
 #: registryitem_calc.ulf#STR_REG_VAL_OO_CALC.LngText.text
 #: documents.ulf#oasis_spreadsheet.LngText.text
 #: imagemgr.src#STR_DESCRIPTION_OO_CALC_DOC.string.text
-#: calc8.xcu#calc8.UIName.value.text
+#: calc8_ui.xcu#calc8.UIName.value.text
 msgid "OpenDocument Spreadsheet"
 msgstr "Scarbhileog OpenDocument"
 
 #: registryitem_calc.ulf#STR_REG_VAL_OO_CALC_TEMPLATE.LngText.text
 #: documents.ulf#oasis_spreadsheet_template.LngText.text
 #: imagemgr.src#STR_DESCRIPTION_OO_CALC_TEMPLATE.string.text
-#: calc8_template.xcu#calc8_template.UIName.value.text
+#: calc8_template_ui.xcu#calc8_template.UIName.value.text
 msgid "OpenDocument Spreadsheet Template"
 msgstr "Teimpléad Scarbhileoige OpenDocument"
 
@@ -49339,7 +49375,7 @@ msgstr "Foirmle StarOffice 5.0"
 #: registryitem_math.ulf#STR_REG_VAL_OO_FORMULA.LngText.text
 #: documents.ulf#oasis_formula.LngText.text
 #: imagemgr.src#STR_DESCRIPTION_OO_MATH_DOC.string.text
-#: math8.xcu#math8.UIName.value.text
+#: math8_ui.xcu#math8.UIName.value.text
 msgid "OpenDocument Formula"
 msgstr "Foirmle OpenDocument"
 
@@ -49518,14 +49554,14 @@ msgstr "Teimpléad Láithreoireachta %PRODUCTNAME %SXWFORMATVERSION"
 #: registryitem_impress.ulf#STR_REG_VAL_OO_PRESENT.LngText.text
 #: documents.ulf#oasis_presentation.LngText.text
 #: imagemgr.src#STR_DESCRIPTION_OO_IMPRESS_DOC.string.text
-#: impress8.xcu#impress8.UIName.value.text
+#: impress8_ui.xcu#impress8.UIName.value.text
 msgid "OpenDocument Presentation"
 msgstr "Láithreoireacht OpenDocument"
 
 #: registryitem_impress.ulf#STR_REG_VAL_OO_PRESENT_TEMPLATE.LngText.text
 #: documents.ulf#oasis_presentation_template.LngText.text
 #: imagemgr.src#STR_DESCRIPTION_OO_IMPRESS_TEMPLATE.string.text
-#: impress8_template.xcu#impress8_template.UIName.value.text
+#: impress8_template_ui.xcu#impress8_template.UIName.value.text
 msgid "OpenDocument Presentation Template"
 msgstr "Teimpléad Láithreoireachta OpenDocument"
 
@@ -49682,7 +49718,7 @@ msgstr "Teimpléad StarOffice 5.0"
 #: registryitem_ooo.ulf#STR_REG_VAL_OO_DATABASE.LngText.text
 #: documents.ulf#oasis_database.LngText.text
 #: imagemgr.src#STR_DESCRIPTION_OO_DATABASE_DOC.string.text
-#: StarOffice_XML__Base_.xcu#StarOffice_XML__Base_.UIName.value.text
+#: StarOffice_XML__Base__ui.xcu#StarOffice_XML__Base_.UIName.value.text
 msgid "OpenDocument Database"
 msgstr "Bunachar Sonraí OpenDocument"
 
@@ -50924,9 +50960,9 @@ msgstr ""
 msgid ""
 "This document may contain formatting or content that cannot be saved in the %"
 "FORMATNAME file format. Do you want to save the document in this format "
-"anyway?\\n\\n- Click 'Yes' to keep the same file format.\\n- Click 'No' to "
-"use the latest OpenDocument file format and be sure all formatting and "
-"content is saved correctly."
+"anyway?\\n\\n- Click 'Yes' to save in %FORMATNAME file format.\\n- Click "
+"'No' to use the latest OpenDocument file format and be sure all formatting "
+"and content is saved correctly."
 msgstr ""
 
 #: alienwarn.src#RID_DLG_ALIEN_WARNING.PB_MOREINFO.helpbutton.text
@@ -51330,6 +51366,10 @@ msgstr ""
 
 #: newhelp.src#RID_INFO_NOSEARCHTEXTFOUND.infobox.text
 msgid "The text you entered was not found."
+msgstr ""
+
+#: newhelp.src#RID_HELP_ONSTARTUP_TEXT.string.text
+msgid "~Display %PRODUCTNAME %MODULENAME Help at Startup"
 msgstr ""
 
 #: sfx.src#STR_NONE.string.text
@@ -52399,11 +52439,9 @@ msgstr "Aistrigh sonraí pearsanta"
 
 #: wizard.src#TP_MIGRATION.FT_MIGRATION_BODY.fixedtext.text
 msgid ""
-"Personal data from %OLDPRODUCT installation can be used in %PRODUCTNAME %"
-"PRODUCTVERSION.\\n\\nUnmark the check box below if you do not want data such "
-"as templates, dictionaries and Gallery themes to be copied to %PRODUCTNAME %"
-"PRODUCTVERSION. To migrate all your personal data from the previous version "
-"of  %PRODUCTNAME, follow the guidelines in the Readme file."
+"Most personal data from %OLDPRODUCT installation can be reused in %"
+"PRODUCTNAME %PRODUCTVERSION.\\n\\nIf you do not want to reuse any settings "
+"in %PRODUCTNAME %PRODUCTVERSION, unmark the check box."
 msgstr ""
 
 #: wizard.src#TP_USER.FT_USER_HEADER.fixedtext.text
@@ -52638,12 +52676,17 @@ msgid "Dynamic Link No. "
 msgstr ""
 
 #: basic.src#IDD_TT_ABOUT_DIALOG.1.fixedtext.text
-msgid "OpenOffice.org TestTool"
-msgstr "TestTool OpenOffice.org"
+#: basic.src#IDS_APPNAME2.string.text
+msgid "VCLTestTool"
+msgstr "VCLTestTool"
 
 #: basic.src#IDD_TT_ABOUT_DIALOG.4.fixedtext.text
-msgid "(c)1995-2004 Sun Microsystems, Inc."
-msgstr "© 1995-2004 Sun Microsystems, Inc."
+msgid "©1995-2005 Sun Microsystems, Inc."
+msgstr "©1995-2005 Sun Microsystems, Inc."
+
+#: basic.src#IDD_TT_ABOUT_DIALOG.modaldialog.text
+msgid "About VCLTestTool"
+msgstr "Eolas faoi VCLTestTool"
 
 #: basic.src#IDD_FIND_DIALOG.modaldialog.text
 msgid "Testtool: Find Text"
@@ -52758,10 +52801,6 @@ msgstr "Rabhadh: "
 #: basic.src#IDS_EDIT_VAR.string.text
 msgid "Edit ($Arg1)"
 msgstr "Cuir ($Arg1) in Eagar"
-
-#: basic.src#IDS_APPNAME2.string.text
-msgid "TestTool"
-msgstr "TestTool"
 
 #: basic.src#IDS_NONAME.string.text
 msgid "Unnamed"
@@ -53270,6 +53309,26 @@ msgstr ""
 
 #: svtmsg.src#S_NO_SAX_PARSER.string.text
 msgid "No SAX Parser when using ($Arg1). Initialize with 'SAXReadFile' first."
+msgstr ""
+
+#: svtmsg.src#S_CANNOT_CREATE_DIRECTORY.string.text
+msgid "Cannot create Directory: \"($Arg1)\""
+msgstr ""
+
+#: svtmsg.src#S_DIRECTORY_NOT_EMPTY.string.text
+msgid "Directory has to be Empty to unpack to. Directory: \"($Arg1)\""
+msgstr ""
+
+#: svtmsg.src#S_DEPRECATED.string.text
+msgid "Deprecated! Please change the script."
+msgstr ""
+
+#: svtmsg.src#S_SIZE_BELOW_MINIMUM.string.text
+msgid "The Size is below the minimum. x=($Arg1) ,y=($Arg2)"
+msgstr ""
+
+#: svtmsg.src#S_CANNOT_FIND_FLOATING_WIN.string.text
+msgid "Cannot find FloatingWindow for floating DockingWindow at ($Arg1)."
 msgstr ""
 
 #: testtool.src#S_INVALID_KEYCODE.string.text
@@ -58077,238 +58136,238 @@ msgstr "~Comhad le déanaí"
 msgid "Test XML Filter: %s"
 msgstr ""
 
-#: HTML_MasterDoc.xcu#HTML_MasterDoc.UIName.value.text
+#: HTML_MasterDoc_ui.xcu#HTML_MasterDoc.UIName.value.text
 msgid "HTML Document (%productname% Master Document)"
-msgstr ""
+msgstr "Cáipéis HTML (Máistircháipéis %productname%)"
 
-#: HTML__StarCalc_.xcu#HTML__StarCalc_.UIName.value.text
-msgid "HTML Document (%productname% Calc)"
-msgstr ""
+#: HTML__StarCalc__ui.xcu#HTML__StarCalc_.UIName.value.text
+msgid "HTML Document (StarOffice Calc)"
+msgstr "Cáipéis HTML (StarOffice Calc)"
 
-#: HTML__StarWriter_.xcu#HTML__StarWriter_.UIName.value.text
-msgid "HTML Document (%productname% Writer)"
-msgstr ""
+#: HTML__StarWriter__ui.xcu#HTML__StarWriter_.UIName.value.text
+msgid "HTML Document (StarOffice Writer)"
+msgstr "Cáipéis HTML (StarOffice Writer)"
 
-#: MS_Excel_2003_XML.xcu#MS_Excel_2003_XML.UIName.value.text
+#: MS_Excel_2003_XML_ui.xcu#MS_Excel_2003_XML.UIName.value.text
 msgid "Microsoft Excel 2003 XML"
-msgstr ""
+msgstr "Microsoft Excel 2003 XML"
 
-#: MS_Excel_4_0_Vorlage_Template.xcu#MS_Excel_4.0_Vorlage/Template.UIName.value.text
+#: MS_Excel_4_0_Vorlage_Template_ui.xcu#MS_Excel_4.0_Vorlage/Template.UIName.value.text
 msgid "Microsoft Excel 4.0 Template"
 msgstr "Teimpléad Microsoft Excel 4.0"
 
-#: MS_Excel_5_0_95_Vorlage_Template.xcu#MS_Excel_5.0/95_Vorlage/Template.UIName.value.text
+#: MS_Excel_5_0_95_Vorlage_Template_ui.xcu#MS_Excel_5.0/95_Vorlage/Template.UIName.value.text
 msgid "Microsoft Excel 5.0 Template"
 msgstr "Teimpléad Microsoft Excel 5.0"
 
-#: MS_Excel_95_Vorlage_Template.xcu#MS_Excel_95_Vorlage/Template.UIName.value.text
+#: MS_Excel_95_Vorlage_Template_ui.xcu#MS_Excel_95_Vorlage/Template.UIName.value.text
 msgid "Microsoft Excel 95 Template"
 msgstr "Teimpléad Microsoft Excel 95"
 
-#: MS_Excel_97_Vorlage_Template.xcu#MS_Excel_97_Vorlage/Template.UIName.value.text
+#: MS_Excel_97_Vorlage_Template_ui.xcu#MS_Excel_97_Vorlage/Template.UIName.value.text
 msgid "Microsoft Excel 97/2000/XP Template"
-msgstr ""
+msgstr "Teimpléad Microsoft Excel 97/2000/XP"
 
-#: MS_PowerPoint_97_Vorlage.xcu#MS_PowerPoint_97_Vorlage.UIName.value.text
+#: MS_PowerPoint_97_Vorlage_ui.xcu#MS_PowerPoint_97_Vorlage.UIName.value.text
 msgid "Microsoft PowerPoint 97/2000/XP Template"
-msgstr ""
+msgstr "Teimpléad Microsoft PowerPoint 97/2000/XP"
 
-#: MS_Word_2003_XML.xcu#MS_Word_2003_XML.UIName.value.text
+#: MS_Word_2003_XML_ui.xcu#MS_Word_2003_XML.UIName.value.text
 msgid "Microsoft Word 2003 XML"
-msgstr ""
+msgstr "Microsoft Word 2003 XML"
 
-#: MS_Word_95_Vorlage.xcu#MS_Word_95_Vorlage.UIName.value.text
+#: MS_Word_95_Vorlage_ui.xcu#MS_Word_95_Vorlage.UIName.value.text
 msgid "Microsoft Word 95 Template"
-msgstr ""
+msgstr "Teimpléad Microsoft Word 95"
 
-#: MS_Word_97_Vorlage.xcu#MS_Word_97_Vorlage.UIName.value.text
+#: MS_Word_97_Vorlage_ui.xcu#MS_Word_97_Vorlage.UIName.value.text
 msgid "Microsoft Word 97/2000/XP Template"
-msgstr ""
+msgstr "Teimpléad Microsoft Word 97/2000/XP"
 
-#: StarCalc_3_0_Vorlage_Template.xcu#StarCalc_3.0_Vorlage/Template.UIName.value.text
+#: StarCalc_3_0_Vorlage_Template_ui.xcu#StarCalc_3.0_Vorlage/Template.UIName.value.text
 msgid "StarCalc 3.0 Template"
 msgstr "Teimpléad StarCalc 3.0"
 
-#: StarCalc_4_0_Vorlage_Template.xcu#StarCalc_4.0_Vorlage/Template.UIName.value.text
+#: StarCalc_4_0_Vorlage_Template_ui.xcu#StarCalc_4.0_Vorlage/Template.UIName.value.text
 msgid "StarCalc 4.0 Template"
 msgstr "Teimpléad StarCalc 4.0"
 
-#: StarCalc_5_0_Vorlage_Template.xcu#StarCalc_5.0_Vorlage/Template.UIName.value.text
+#: StarCalc_5_0_Vorlage_Template_ui.xcu#StarCalc_5.0_Vorlage/Template.UIName.value.text
 msgid "StarCalc 5.0 Template"
 msgstr "Teimpléad StarCalc 5.0"
 
-#: StarDraw_3_0_Vorlage.xcu#StarDraw_3.0_Vorlage.UIName.value.text
+#: StarDraw_3_0_Vorlage__StarImpress__ui.xcu#StarDraw_3.0_Vorlage__StarImpress_.UIName.value.text
+msgid "StarDraw 3.0 Template (StarOffice Impress)"
+msgstr "Teimpléad StarDraw 3.0 (StarOffice Impress)"
+
+#: StarDraw_3_0_Vorlage_ui.xcu#StarDraw_3.0_Vorlage.UIName.value.text
 msgid "StarDraw 3.0 Template"
 msgstr "Teimpléad StarDraw 3.0"
 
-#: StarDraw_3_0_Vorlage__StarImpress_.xcu#StarDraw_3.0_Vorlage__StarImpress_.UIName.value.text
-msgid "StarDraw 3.0 Template (%productname% Impress)"
-msgstr "Teimpléad StarDraw 3.0 (%productname% Impress)"
+#: StarDraw_5_0_Vorlage__StarImpress__ui.xcu#StarDraw_5.0_Vorlage__StarImpress_.UIName.value.text
+msgid "StarDraw 5.0 Template (StarOffice Impress)"
+msgstr "Teimpléad StarDraw 5.0 (StarOffice Impress)"
 
-#: StarDraw_5_0_Vorlage.xcu#StarDraw_5.0_Vorlage.UIName.value.text
+#: StarDraw_5_0_Vorlage_ui.xcu#StarDraw_5.0_Vorlage.UIName.value.text
 msgid "StarDraw 5.0 Template"
 msgstr "Teimpléad StarDraw 5.0"
 
-#: StarDraw_5_0_Vorlage__StarImpress_.xcu#StarDraw_5.0_Vorlage__StarImpress_.UIName.value.text
-msgid "StarDraw 5.0 Template (%productname% Impress)"
-msgstr "Teimpléad StarDraw 5.0 (%productname% Impress)"
-
-#: StarImpress_5_0_Vorlage.xcu#StarImpress_5.0_Vorlage.UIName.value.text
+#: StarImpress_5_0_Vorlage_ui.xcu#StarImpress_5.0_Vorlage.UIName.value.text
 msgid "StarImpress 5.0 Template"
 msgstr "Teimpléad StarImpress 5.0"
 
-#: StarImpress_5_0__packed_.xcu#StarImpress_5.0__packed_.UIName.value.text
+#: StarImpress_5_0__packed__ui.xcu#StarImpress_5.0__packed_.UIName.value.text
 msgid "StarImpress 5.0 Packed"
 msgstr ""
 
-#: StarOffice_XML__Calc_.xcu#StarOffice_XML__Calc_.UIName.value.text
-msgid "%productname% %formatversion% Spreadsheet"
-msgstr "Scarbhileog %productname% %formatversion%"
+#: StarOffice_XML__Calc__ui.xcu#StarOffice_XML__Calc_.UIName.value.text
+msgid "StarOffice 6.0/7 Spreadsheet"
+msgstr "Scarbhileog StarOffice 6.0/7"
 
-#: StarOffice_XML__Chart_.xcu#StarOffice_XML__Chart_.UIName.value.text
-msgid "%productname% %formatversion% Chart"
-msgstr "Cairt %productname% %formatversion%"
+#: StarOffice_XML__Chart__ui.xcu#StarOffice_XML__Chart_.UIName.value.text
+msgid "StarOffice 6.0/7 Chart"
+msgstr "Cairt StarOffice 6.0/7"
 
-#: StarOffice_XML__Draw_.xcu#StarOffice_XML__Draw_.UIName.value.text
-msgid "%productname% %formatversion% Drawing"
-msgstr "Líníocht %productname% %formatversion%"
+#: StarOffice_XML__Draw__ui.xcu#StarOffice_XML__Draw_.UIName.value.text
+msgid "StarOffice 6.0/7 Drawing"
+msgstr "Líníocht StarOffice 6.0/7"
 
-#: StarOffice_XML__Impress_.xcu#StarOffice_XML__Impress_.UIName.value.text
-msgid "%productname% %formatversion% Presentation"
-msgstr "Láithreoireacht %productname% %formatversion%"
+#: StarOffice_XML__Impress__ui.xcu#StarOffice_XML__Impress_.UIName.value.text
+msgid "StarOffice 6.0/7 Presentation"
+msgstr "Láithreoireacht StarOffice 6.0/7"
 
-#: StarOffice_XML__Math_.xcu#StarOffice_XML__Math_.UIName.value.text
-msgid "%productname% %formatversion% Formula"
+#: StarOffice_XML__Math__ui.xcu#StarOffice_XML__Math_.UIName.value.text
+msgid "StarOffice 6.0/7 Formula"
+msgstr "Foirmle StarOffice 6.0/7"
+
+#: StarOffice_XML__Writer__ui.xcu#StarOffice_XML__Writer_.UIName.value.text
+#: writer_globaldocument_StarOffice_XML_Writer_ui.xcu#writer_globaldocument_StarOffice_XML_Writer.UIName.value.text
+msgid "StarOffice 6.0/7 Text Document"
 msgstr ""
 
-#: StarOffice_XML__Writer_.xcu#StarOffice_XML__Writer_.UIName.value.text
-#: writer_globaldocument_StarOffice_XML_Writer.xcu#writer_globaldocument_StarOffice_XML_Writer.UIName.value.text
-msgid "%productname% %formatversion% Text Document"
-msgstr ""
-
-#: StarWriter_3_0_Vorlage_Template.xcu#StarWriter_3.0_Vorlage/Template.UIName.value.text
+#: StarWriter_3_0_Vorlage_Template_ui.xcu#StarWriter_3.0_Vorlage/Template.UIName.value.text
 msgid "StarWriter 3.0 Template"
 msgstr "Teimpléad StarWriter 3.0"
 
-#: StarWriter_3_0__StarWriter_GlobalDocument_.xcu#StarWriter_3.0__StarWriter/GlobalDocument_.UIName.value.text
+#: StarWriter_3_0__StarWriter_GlobalDocument__ui.xcu#StarWriter_3.0__StarWriter/GlobalDocument_.UIName.value.text
 msgid "StarWriter 3.0 "
 msgstr "StarWriter 3.0 "
 
-#: StarWriter_4_0_GlobalDocument.xcu#StarWriter_4.0/GlobalDocument.UIName.value.text
+#: StarWriter_4_0_GlobalDocument_ui.xcu#StarWriter_4.0/GlobalDocument.UIName.value.text
 msgid "StarWriter 4.0 Master Document"
-msgstr ""
+msgstr "Máistircháipéis StarWriter 4.0"
 
-#: StarWriter_4_0_Vorlage_Template.xcu#StarWriter_4.0_Vorlage/Template.UIName.value.text
+#: StarWriter_4_0_Vorlage_Template_ui.xcu#StarWriter_4.0_Vorlage/Template.UIName.value.text
 msgid "StarWriter 4.0 Template"
 msgstr "Teimpléad StarWriter 4.0"
 
-#: StarWriter_4_0__StarWriter_GlobalDocument_.xcu#StarWriter_4.0__StarWriter/GlobalDocument_.UIName.value.text
+#: StarWriter_4_0__StarWriter_GlobalDocument__ui.xcu#StarWriter_4.0__StarWriter/GlobalDocument_.UIName.value.text
 msgid "StarWriter 4.0 "
 msgstr "StarWriter 4.0 "
 
-#: StarWriter_5_0_GlobalDocument.xcu#StarWriter_5.0/GlobalDocument.UIName.value.text
+#: StarWriter_5_0_GlobalDocument_ui.xcu#StarWriter_5.0/GlobalDocument.UIName.value.text
 msgid "StarWriter 5.0 Master Document"
-msgstr ""
+msgstr "Máistircháipéis StarWriter 5.0"
 
-#: StarWriter_5_0_Vorlage_Template.xcu#StarWriter_5.0_Vorlage/Template.UIName.value.text
+#: StarWriter_5_0_Vorlage_Template_ui.xcu#StarWriter_5.0_Vorlage/Template.UIName.value.text
 msgid "StarWriter 5.0 Template"
 msgstr "Teimpléad StarWriter 5.0"
 
-#: StarWriter_5_0__StarWriter_GlobalDocument_.xcu#StarWriter_5.0__StarWriter/GlobalDocument_.UIName.value.text
+#: StarWriter_5_0__StarWriter_GlobalDocument__ui.xcu#StarWriter_5.0__StarWriter/GlobalDocument_.UIName.value.text
 msgid "StarWriter 5.0 "
 msgstr "StarWriter 5.0 "
 
-#: StarWriter_Web_4_0_Vorlage_Template.xcu#StarWriter/Web_4.0_Vorlage/Template.UIName.value.text
+#: StarWriter_Web_4_0_Vorlage_Template_ui.xcu#StarWriter/Web_4.0_Vorlage/Template.UIName.value.text
 msgid "StarWriter/Web 4.0 Template"
 msgstr "Teimpléad StarWriter/Web 4.0"
 
-#: StarWriter_Web_5_0_Vorlage_Template.xcu#StarWriter/Web_5.0_Vorlage/Template.UIName.value.text
+#: StarWriter_Web_5_0_Vorlage_Template_ui.xcu#StarWriter/Web_5.0_Vorlage/Template.UIName.value.text
 msgid "StarWriter/Web 5.0 Template"
 msgstr "Teimpléad StarWriter/Web 5.0"
 
-#: Text__StarWriter_Web_.xcu#Text__StarWriter/Web_.UIName.value.text
-msgid "Text (%productname% Writer/Web)"
-msgstr ""
+#: Text__StarWriter_Web__ui.xcu#Text__StarWriter/Web_.UIName.value.text
+msgid "Text (StarOffice Writer/Web)"
+msgstr "Téacs (StarOffice Writer/Web)"
 
-#: Text___txt___csv__StarCalc_.xcu#Text___txt___csv__StarCalc_.UIName.value.text
+#: Text___txt___csv__StarCalc__ui.xcu#Text___txt___csv__StarCalc_.UIName.value.text
 msgid "Text CSV"
 msgstr "Téacs CSV"
 
-#: Text__encoded_.xcu#Text__encoded_.UIName.value.text
+#: Text__encoded___StarWriter_GlobalDocument__ui.xcu#Text__encoded___StarWriter/GlobalDocument_.UIName.value.text
+msgid "Text Encoded (StarOffice Master Document)"
+msgstr ""
+
+#: Text__encoded___StarWriter_Web__ui.xcu#Text__encoded___StarWriter/Web_.UIName.value.text
+msgid "Text Encoded (StarOffice Writer/Web)"
+msgstr ""
+
+#: Text__encoded__ui.xcu#Text__encoded_.UIName.value.text
 msgid "Text Encoded"
 msgstr ""
 
-#: Text__encoded___StarWriter_GlobalDocument_.xcu#Text__encoded___StarWriter/GlobalDocument_.UIName.value.text
-msgid "Text Encoded (%productname% Master Document)"
+#: calc_HTML_WebQuery_ui.xcu#calc_HTML_WebQuery.UIName.value.text
+msgid "Web Page Query (StarOffice Calc)"
 msgstr ""
 
-#: Text__encoded___StarWriter_Web_.xcu#Text__encoded___StarWriter/Web_.UIName.value.text
-msgid "Text Encoded (%productname% Writer/Web)"
+#: calc_StarOffice_XML_Calc_Template_ui.xcu#calc_StarOffice_XML_Calc_Template.UIName.value.text
+msgid "StarOffice 6.0/7 Spreadsheet Template"
 msgstr ""
 
-#: calc_HTML_WebQuery.xcu#calc_HTML_WebQuery.UIName.value.text
-msgid "Web Page Query (%productname% Calc)"
-msgstr ""
-
-#: calc_StarOffice_XML_Calc_Template.xcu#calc_StarOffice_XML_Calc_Template.UIName.value.text
-msgid "%productname% %formatversion% Spreadsheet Template"
-msgstr ""
-
-#: chart8.xcu#chart8.UIName.value.text
+#: chart8_ui.xcu#chart8.UIName.value.text
 msgid "OpenDocument Chart"
 msgstr "Cairt OpenDocument"
 
-#: draw_StarOffice_XML_Draw_Template.xcu#draw_StarOffice_XML_Draw_Template.UIName.value.text
-msgid "%productname% %formatversion% Drawing Template"
-msgstr "Teimpléad Líníochta %productname% %formatversion%"
+#: draw_StarOffice_XML_Draw_Template_ui.xcu#draw_StarOffice_XML_Draw_Template.UIName.value.text
+msgid "StarOffice 6.0/7 Drawing Template"
+msgstr ""
 
-#: draw_html_Export.xcu#draw_html_Export.UIName.value.text
-msgid "HTML Document (%productname% Draw)"
-msgstr "Cáipéis HTML (%productname% Draw)"
+#: draw_html_Export_ui.xcu#draw_html_Export.UIName.value.text
+msgid "HTML Document (StarOffice Draw)"
+msgstr "Cáipéis HTML (StarOffice Draw)"
 
-#: impress8_draw.xcu#impress8_draw.UIName.value.text
+#: impress8_draw_ui.xcu#impress8_draw.UIName.value.text
 msgid "OpenDocument Drawing (Impress)"
 msgstr "Líníocht OpenDocument (Impress)"
 
-#: impress_StarOffice_XML_Draw.xcu#impress_StarOffice_XML_Draw.UIName.value.text
-msgid "%productname% %formatversion% Drawing (%productname% Impress)"
-msgstr "Líníocht %productname% %formatversion% (%productname% Impress)"
+#: impress_StarOffice_XML_Draw_ui.xcu#impress_StarOffice_XML_Draw.UIName.value.text
+msgid "StarOffice 6.0/7 Drawing (StarOffice Impress)"
+msgstr "Líníocht StarOffice 6.0/7 (StarOffice Impress)"
 
-#: impress_StarOffice_XML_Impress_Template.xcu#impress_StarOffice_XML_Impress_Template.UIName.value.text
-msgid "%productname% %formatversion% Presentation Template"
-msgstr "Teimpléad Láithreoireachta %productname% %formatversion%"
+#: impress_StarOffice_XML_Impress_Template_ui.xcu#impress_StarOffice_XML_Impress_Template.UIName.value.text
+msgid "StarOffice 6.0/7 Presentation Template"
+msgstr ""
 
-#: impress_html_Export.xcu#impress_html_Export.UIName.value.text
-msgid "HTML Document (%productname% Impress)"
-msgstr "Cáipéis HTML (%productname% Impress)"
+#: impress_html_Export_ui.xcu#impress_html_Export.UIName.value.text
+msgid "HTML Document (StarOffice Impress)"
+msgstr "Cáipéis HTML (StarOffice Impress)"
 
-#: writer_JustSystem_Ichitaro_10_template.xcu#writer_JustSystem_Ichitaro_10_template.UIName.value.text
+#: writer_JustSystem_Ichitaro_10_template_ui.xcu#writer_JustSystem_Ichitaro_10_template.UIName.value.text
 msgid "Ichitaro 8/9/10/11 Template"
 msgstr "Teimpléad Ichitaro 8/9/10/11"
 
-#: writer_StarOffice_XML_Writer_Template.xcu#writer_StarOffice_XML_Writer_Template.UIName.value.text
-msgid "%productname% %formatversion% Text Document Template"
+#: writer_StarOffice_XML_Writer_Template_ui.xcu#writer_StarOffice_XML_Writer_Template.UIName.value.text
+msgid "StarOffice 6.0/7 Text Document Template"
 msgstr ""
 
-#: writer_globaldocument_StarOffice_XML_Writer_GlobalDocument.xcu#writer_globaldocument_StarOffice_XML_Writer_GlobalDocument.UIName.value.text
-msgid "%productname% %formatversion% Master Document"
+#: writer_globaldocument_StarOffice_XML_Writer_GlobalDocument_ui.xcu#writer_globaldocument_StarOffice_XML_Writer_GlobalDocument.UIName.value.text
+msgid "StarOffice 6.0/7 Master Document"
+msgstr "Máistircháipéis StarOffice 6.0/7"
+
+#: writer_web_StarOffice_XML_Writer_Web_Template_ui.xcu#writer_web_StarOffice_XML_Writer_Web_Template.UIName.value.text
+msgid "StarOffice 6.0/7 HTML Template"
+msgstr "Teimpléad HTML StarOffice 6.0/7"
+
+#: writer_web_StarOffice_XML_Writer_ui.xcu#writer_web_StarOffice_XML_Writer.UIName.value.text
+msgid "StarOffice Text Document (StarOffice Writer/Web)"
 msgstr ""
 
-#: writer_web_StarOffice_XML_Writer.xcu#writer_web_StarOffice_XML_Writer.UIName.value.text
-msgid "%productname% Text Document (%productname% Writer/Web)"
-msgstr ""
-
-#: writer_web_StarOffice_XML_Writer_Web_Template.xcu#writer_web_StarOffice_XML_Writer_Web_Template.UIName.value.text
-msgid "%productname% %formatversion% HTML Template"
-msgstr ""
-
-#: writerglobal8_writer.xcu#writerglobal8_writer.UIName.value.text
+#: writerglobal8_writer_ui.xcu#writerglobal8_writer.UIName.value.text
 msgid "Open Office Text"
 msgstr "Téacs OpenOffice"
 
-#: writerweb8_writer.xcu#writerweb8_writer.UIName.value.text
-msgid "Open Office Text (%productname% Writer/Web)"
-msgstr ""
+#: writerweb8_writer_ui.xcu#writerweb8_writer.UIName.value.text
+msgid "Open Office Text (StarOffice Writer/Web)"
+msgstr "Téacs Open Office (StarOffice Writer/Web)"
 
 #: impdialog.src#WORKARROUND.#define.text
 msgid "PDF Options"
@@ -59241,12 +59300,12 @@ msgid "Symbol Shapes"
 msgstr ""
 
 #: CalcWindowState.xcu#..CalcWindowState.UIElements.States.private_resource/toolbar/fontworkshapetypes.UIName.value.text
-#: DrawWindowState.xcu#..DrawWindowState.UIElements.States.private_resource/toolbar/fontworkshapetypes.UIName.value.text
+#: DrawWindowState.xcu#..DrawWindowState.UIElements.States.private_resource/toolbar/fontworkshapetype.UIName.value.text
 #: ImpressWindowState.xcu#..ImpressWindowState.UIElements.States.private_resource/toolbar/fontworkshapetypes.UIName.value.text
 #: WriterGlobalWindowState.xcu#..WriterGlobalWindowState.UIElements.States.private_resource/toolbar/fontworkshapetypes.UIName.value.text
 #: WriterWebWindowState.xcu#..WriterWebWindowState.UIElements.States.private_resource/toolbar/fontworkshapetypes.UIName.value.text
 #: WriterWindowState.xcu#..WriterWindowState.UIElements.States.private_resource/toolbar/fontworkshapetypes.UIName.value.text
-#: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_FontworkShapeTypes.Label.value.text
+#: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_FontworkShapeType.Label.value.text
 msgid "Fontwork Shape"
 msgstr ""
 
@@ -63187,6 +63246,7 @@ msgstr ""
 
 #: TableWizard.xcu#..TableWizard.TableWizard.business.Tables.suppliers.Fields.phonenumber.ShortName.value.text
 #: TableWizard.xcu#..TableWizard.TableWizard.business.Tables.mailinglist.Fields.phonenumber.ShortName.value.text
+#: TableWizard.xcu#..TableWizard.TableWizard.business.Tables.contacts.Fields.phonenumber.ShortName.value.text
 #: TableWizard.xcu#..TableWizard.TableWizard.business.Tables.customers.Fields.phonenumber.ShortName.value.text
 #: TableWizard.xcu#..TableWizard.TableWizard.business.Tables.employees.Fields.phonenumber.ShortName.value.text
 #: TableWizard.xcu#..TableWizard.TableWizard.private.Tables.addresses.Fields.phonenumber.ShortName.value.text
@@ -63209,6 +63269,18 @@ msgstr ""
 #: TableWizard.xcu#..TableWizard.TableWizard.business.Tables.employees.Fields.faxnumber.ShortName.value.text
 #: TableWizard.xcu#..TableWizard.TableWizard.private.Tables.addresses.Fields.faxnumber.ShortName.value.text
 msgid "FaxNo"
+msgstr ""
+
+#: TableWizard.xcu#..TableWizard.TableWizard.business.Tables.suppliers.Fields.paymentterms.Name.value.text
+#: TableWizard.xcu#..TableWizard.TableWizard.business.Tables.payments.Fields.paymentterms.Name.value.text
+#: TableWizard.xcu#..TableWizard.TableWizard.business.Tables.invoicedetails.Fields.paymentterms.Name.value.text
+msgid "PaymentTerms"
+msgstr ""
+
+#: TableWizard.xcu#..TableWizard.TableWizard.business.Tables.suppliers.Fields.paymentterms.ShortName.value.text
+#: TableWizard.xcu#..TableWizard.TableWizard.business.Tables.payments.Fields.paymentterms.ShortName.value.text
+#: TableWizard.xcu#..TableWizard.TableWizard.business.Tables.invoicedetails.Fields.paymentterms.ShortName.value.text
+msgid "PaymntTerm"
 msgstr ""
 
 #: TableWizard.xcu#..TableWizard.TableWizard.business.Tables.suppliers.Fields.emailaddress.Name.value.text
@@ -63523,6 +63595,21 @@ msgstr ""
 #: TableWizard.xcu#..TableWizard.TableWizard.business.Tables.employees.Fields.extension.ShortName.value.text
 msgid "Extension"
 msgstr "Eisínteacht"
+
+#: TableWizard.xcu#..TableWizard.TableWizard.business.Tables.employees.Fields.datehired.Name.value.text
+#: TableWizard.xcu#..TableWizard.TableWizard.business.Tables.employees.Fields.datehired.ShortName.value.text
+msgid "DateHired"
+msgstr ""
+
+#: TableWizard.xcu#..TableWizard.TableWizard.business.Tables.employees.Fields.departmentID.Name.value.text
+#: TableWizard.xcu#..TableWizard.TableWizard.business.Tables.assets.Fields.departmentID.Name.value.text
+msgid "DepartmentID"
+msgstr ""
+
+#: TableWizard.xcu#..TableWizard.TableWizard.business.Tables.employees.Fields.departmentID.ShortName.value.text
+#: TableWizard.xcu#..TableWizard.TableWizard.business.Tables.assets.Fields.departmentID.ShortName.value.text
+msgid "DeprtmntID"
+msgstr ""
 
 #: TableWizard.xcu#..TableWizard.TableWizard.business.Tables.employees.Fields.salary.Name.value.text
 #: TableWizard.xcu#..TableWizard.TableWizard.business.Tables.employees.Fields.salary.ShortName.value.text
@@ -63923,14 +64010,6 @@ msgstr ""
 
 #: TableWizard.xcu#..TableWizard.TableWizard.business.Tables.invoicedetails.Fields.invoicedetailID.ShortName.value.text
 msgid "InvoiDetID"
-msgstr ""
-
-#: TableWizard.xcu#..TableWizard.TableWizard.business.Tables.invoicedetails.Fields.paymentterms.Name.value.text
-msgid "PaymentTerms"
-msgstr ""
-
-#: TableWizard.xcu#..TableWizard.TableWizard.business.Tables.invoicedetails.Fields.paymentterms.ShortName.value.text
-msgid "PaymntTerm"
 msgstr ""
 
 #: TableWizard.xcu#..TableWizard.TableWizard.business.Tables.projects.Name.value.text
@@ -64342,12 +64421,9 @@ msgstr ""
 msgid "AssetCatID"
 msgstr ""
 
-#: TableWizard.xcu#..TableWizard.TableWizard.business.Tables.assets.Fields.departmentID.Name.value.text
-msgid "DepartmentID"
-msgstr ""
-
-#: TableWizard.xcu#..TableWizard.TableWizard.business.Tables.assets.Fields.departmentID.ShortName.value.text
-msgid "DeprtmntID"
+#: TableWizard.xcu#..TableWizard.TableWizard.business.Tables.assets.Fields.statusID.Name.value.text
+#: TableWizard.xcu#..TableWizard.TableWizard.business.Tables.assets.Fields.statusID.ShortName.value.text
+msgid "StatusID"
 msgstr ""
 
 #: TableWizard.xcu#..TableWizard.TableWizard.business.Tables.assets.Fields.vendorID.Name.value.text
@@ -64827,6 +64903,13 @@ msgstr "Grianghraif"
 msgid "PhotoID"
 msgstr ""
 
+#: TableWizard.xcu#..TableWizard.TableWizard.private.Tables.photographs.Fields.filmID.Name.value.text
+#: TableWizard.xcu#..TableWizard.TableWizard.private.Tables.photographs.Fields.filmID.ShortName.value.text
+#: TableWizard.xcu#..TableWizard.TableWizard.private.Tables.miniaturefilms.Fields.filmID.Name.value.text
+#: TableWizard.xcu#..TableWizard.TableWizard.private.Tables.miniaturefilms.Fields.filmID.ShortName.value.text
+msgid "FilmID"
+msgstr ""
+
 #: TableWizard.xcu#..TableWizard.TableWizard.private.Tables.photographs.Fields.datetaken.Name.value.text
 #: TableWizard.xcu#..TableWizard.TableWizard.private.Tables.photographs.Fields.datetaken.ShortName.value.text
 msgid "DateTaken"
@@ -64872,11 +64955,6 @@ msgstr ""
 
 #: TableWizard.xcu#..TableWizard.TableWizard.private.Tables.miniaturefilms.Name.value.text
 msgid "MiniatureFilms"
-msgstr ""
-
-#: TableWizard.xcu#..TableWizard.TableWizard.private.Tables.miniaturefilms.Fields.filmID.Name.value.text
-#: TableWizard.xcu#..TableWizard.TableWizard.private.Tables.miniaturefilms.Fields.filmID.ShortName.value.text
-msgid "FilmID"
 msgstr ""
 
 #: TableWizard.xcu#..TableWizard.TableWizard.private.Tables.miniaturefilms.Fields.photosensitivity.Name.value.text
@@ -71234,6 +71312,10 @@ msgstr "Difríochtaí"
 msgid "Disk Size"
 msgstr ""
 
+#: Langpack.ulf#OOO_LANGPACK_NAME_TOP.LngText.text
+msgid "Additional language packs"
+msgstr ""
+
 #: Langpack.ulf#OOO_LANGPACK_DESC_1033.LngText.text
 msgid "Installs English support in %PRODUCTNAME %PRODUCTVERSION"
 msgstr ""
@@ -71314,10 +71396,6 @@ msgstr ""
 msgid "Installs Korean support in %PRODUCTNAME %PRODUCTVERSION"
 msgstr ""
 
-#: Langpack.ulf#OOO_LANGPACK_DESC_1107.LngText.text
-msgid "Installs Khmer support in %PRODUCTNAME %PRODUCTVERSION"
-msgstr ""
-
 #: Langpack.ulf#OOO_LANGPACK_DESC_2052.LngText.text
 msgid "Installs Chinese (simplified) support in %PRODUCTNAME %PRODUCTVERSION"
 msgstr ""
@@ -71328,6 +71406,26 @@ msgstr ""
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_1029.LngText.text
 msgid "Installs Czech support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#: Langpack.ulf#OOO_LANGPACK_NAME_1051.LngText.text
+msgid "Slovak"
+msgstr "Slóvaicis"
+
+#: Langpack.ulf#OOO_LANGPACK_DESC_1051.LngText.text
+msgid "Installs Slovak support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#: Langpack.ulf#OOO_LANGPACK_DESC_1061.LngText.text
+msgid "Installs Estonian support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#: Langpack.ulf#OOO_LANGPACK_DESC_1026.LngText.text
+msgid "Installs Bulgarian support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#: Langpack.ulf#OOO_LANGPACK_DESC_1107.LngText.text
+msgid "Installs Khmer support in %PRODUCTNAME %PRODUCTVERSION"
 msgstr ""
 
 #: LaunchCo.ulf#OOO_LAUNCH_1.LngText.text
@@ -71377,7 +71475,7 @@ msgid "The format of the selected file is not supported."
 msgstr ""
 
 #: readme.xrm#ooo_readme.Welcome.A2.a.readmeitem.text
-msgid "Last updated $Date: 2005-04-08 14:29:03 $"
+msgid "Last updated $Date: 2005-04-08 14:30:42 $"
 msgstr ""
 
 #: readme.xrm#ooo_readme.Welcome.A3.a.readmeitem.text
@@ -72114,7 +72212,7 @@ msgstr "Ar a~ghaidh >>"
 #: importwi.src#sWelcometextLabel1.string.text
 msgid ""
 "This wizards converts documents in the old StarOffice format and Microsoft "
-"Office documents to the new %PRODUCTNAME XML format."
+"Office documents to the new OpenDocument format."
 msgstr ""
 
 #: importwi.src#sWelcometextLabel2.string.text
@@ -73845,7 +73943,7 @@ msgstr ""
 #: dbwizres.src#RID_DB_TABLE_WIZARD_START___35.string.text
 msgid ""
 "Congratulations. You have entered all the information needed to create your "
-"table"
+"table."
 msgstr ""
 
 #: dbwizres.src#RID_DB_TABLE_WIZARD_START___36.string.text
