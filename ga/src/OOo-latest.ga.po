@@ -1437,7 +1437,7 @@ msgstr "~Feidhm "
 
 #: consdlg.src#RID_SCDLG_CONSOLIDATE.FT_CONSAREAS.fixedtext.text
 msgid "~Consolidation ranges"
-msgstr ""
+msgstr "Raonta ~daingnithe"
 
 #: consdlg.src#RID_SCDLG_CONSOLIDATE.FT_DATA_AREA.fixedtext.text
 msgid "~Source data range"
@@ -4106,7 +4106,7 @@ msgstr "Earráid agus sonraí á n-iompórtáil!"
 
 #: globstr.src#RID_GLOBSTR.STR_DATABASE_NOTFOUND.string.text
 msgid "The database '#' could not be opened."
-msgstr ""
+msgstr "Níorbh fhéidir an bunachar sonraí '#' a oscailt."
 
 #: globstr.src#RID_GLOBSTR.STR_QUERY_NOTFOUND.string.text
 msgid "The query '#' could not be opened."
@@ -4205,7 +4205,7 @@ msgstr "Seiceáil an litriú"
 
 #: globstr.src#RID_GLOBSTR.STR_MOVE_TO_END.string.text
 msgid "- move to end position -"
-msgstr ""
+msgstr "- téigh go dtí an deireadh -"
 
 #: globstr.src#RID_GLOBSTR.STR_BOX_YNI.string.text
 msgid "Not implemented in this build."
@@ -4434,7 +4434,7 @@ msgstr "Ainm neamhbhailí bileoige."
 
 #: globstr.src#RID_GLOBSTR.STR_SCENARIO.string.text
 msgid "Scenario"
-msgstr ""
+msgstr "Cnámhscéal"
 
 #: globstr.src#RID_GLOBSTR.STR_FUN_TEXT_COUNT2.string.text
 #: stbctrls.src#RID_SVXMNU_PSZ_FUNC.PSZ_FUNC_COUNT2.menuitem.text
@@ -4447,7 +4447,7 @@ msgstr ""
 
 #: globstr.src#RID_GLOBSTR.STR_FUN_TEXT_VAR.string.text
 msgid "Var"
-msgstr ""
+msgstr "Athr"
 
 #: globstr.src#RID_GLOBSTR.STR_NOCHARTATCURSOR.string.text
 msgid "No chart found at this position."
@@ -4510,7 +4510,7 @@ msgstr ""
 
 #: globstr.src#RID_GLOBSTR.STR_READONLYERR.string.text
 msgid "Document opened in read-only mode."
-msgstr ""
+msgstr "Cáipéis oscailte i mód léimh amháin."
 
 #: globstr.src#RID_GLOBSTR.STR_MATRIXFRAGMENTERR.string.text
 msgid "You cannot change only part of an array."
@@ -4522,7 +4522,7 @@ msgstr "Earráid: Argóint neamhbhailí"
 
 #: globstr.src#RID_GLOBSTR.STR_LONG_ERR_ILL_PAR.string.text
 msgid "Error in parameter list"
-msgstr ""
+msgstr "Earráid sa liosta paraiméadar"
 
 #: globstr.src#RID_GLOBSTR.STR_LONG_ERR_ILL_FPO.string.text
 msgid "Error: Invalid floating point operation"
@@ -4538,7 +4538,7 @@ msgstr "Earráid: Leathstad neamhbhailí"
 
 #: globstr.src#RID_GLOBSTR.STR_LONG_ERR_PAIR.string.text
 msgid "Error: in bracketing"
-msgstr ""
+msgstr "Earráid: lúibíní"
 
 #: globstr.src#RID_GLOBSTR.STR_LONG_ERR_OP_EXP.string.text
 msgid "Error: Operator missing"
@@ -4558,7 +4558,7 @@ msgstr "Earráid: Teaghrán thar maoil"
 
 #: globstr.src#RID_GLOBSTR.STR_LONG_ERR_STACK_OVF.string.text
 msgid "Error: Internal overflow"
-msgstr ""
+msgstr "Earráid: Maolán inmheánach thar maoil"
 
 #: globstr.src#RID_GLOBSTR.STR_LONG_ERR_SYNTAX.string.text
 msgid "Internal syntactical error"
@@ -4574,7 +4574,7 @@ msgstr "Earráid: Ainm neamhbhailí"
 
 #: globstr.src#RID_GLOBSTR.STR_LONG_ERR_NO_ADDIN.string.text
 msgid "Error: Add-in not found"
-msgstr ""
+msgstr "Earráid: Breiseán gan aimsiú"
 
 #: globstr.src#RID_GLOBSTR.STR_LONG_ERR_NO_MACRO.string.text
 msgid "Error: Macro not found"
@@ -4598,7 +4598,7 @@ msgstr "Earráid: Níl luach ar fáil"
 
 #: globstr.src#RID_GLOBSTR.STR_ODER_SO.string.text
 msgid "%s or similar"
-msgstr ""
+msgstr "%s nó cosúil le sin"
 
 #: globstr.src#RID_GLOBSTR.STR_GRIDCOLOR.string.text
 #: pggrid.src#TP_TEXTGRID_PAGE.FT_COLOR.fixedtext.text
@@ -4780,6 +4780,7 @@ msgstr ""
 #: globstr.src#RID_GLOBSTR.STR_QUERY_DELSCENARIO.string.text
 msgid "Are you sure you want to delete the selected scenario?"
 msgstr ""
+"An bhfuil tú cinnte gur mian leat an cnámhscéal roghnaithe a scriosadh?"
 
 #: globstr.src#RID_GLOBSTR.STR_EXPORT_ASCII_WARNING.string.text
 msgid "Thesaurus is not available"
@@ -4931,7 +4932,7 @@ msgstr "Cóipeáil Bileog"
 
 #: globstr.src#RID_GLOBSTR.STR_UNDO_APPEND_TAB.string.text
 msgid "Append sheet"
-msgstr ""
+msgstr "Iarcheangail bileog"
 
 #: globstr.src#RID_GLOBSTR.STR_UNDO_SHOWTAB.string.text
 #: miscdlgs.src#RID_SCDLG_SHOW_TAB.modaldialog.text
@@ -4945,7 +4946,7 @@ msgstr "Folaigh bileog"
 
 #: globstr.src#RID_GLOBSTR.STR_UNDO_TAB_RTL.string.text
 msgid "Flip sheet"
-msgstr ""
+msgstr "Smeach an bhileog"
 
 #: globstr.src#RID_GLOBSTR.STR_CHART_MAINTITLE.string.text
 #: strings.src#STR_CHART_MAINTITLE.string.text
@@ -4992,7 +4993,7 @@ msgstr ""
 
 #: globstr.src#RID_GLOBSTR.STR_ERR_AUTOFILTER.string.text
 msgid "AutoFilter not possible"
-msgstr ""
+msgstr "Ní féidir uathscagadh"
 
 #: globstr.src#RID_GLOBSTR.STR_MSSG_SEARCHANDREPLACE_1.string.text
 msgid ""
@@ -5038,7 +5039,7 @@ msgstr ""
 
 #: globstr.src#RID_GLOBSTR.STR_SCENARIO_NOTFOUND.string.text
 msgid "Scenario not found"
-msgstr ""
+msgstr "Cnámhscéal gan aimsiú"
 
 #: globstr.src#RID_GLOBSTR.STR_QUERY_DELENTRY.string.text
 msgid "Do you really want to delete the entry #?"
@@ -5055,7 +5056,7 @@ msgstr "Cairteacha"
 
 #: globstr.src#RID_GLOBSTR.STR_VOBJ_DRAWINGS.string.text
 msgid "Drawing Objects"
-msgstr ""
+msgstr "Réada Líníochta"
 
 #: globstr.src#RID_GLOBSTR.STR_VOBJ_MODE_SHOW.string.text
 #: optdlg.src#RID_SCPAGE_CONTENT.LB_OBJGRF.1.stringlist.text
@@ -5078,7 +5079,7 @@ msgstr "Ionadchoinneálaithe"
 #: globstr.src#RID_GLOBSTR.STR_SCATTR_PAGE_TOPDOWN.string.text
 #: scstring.src#SCSTR_ORIENTATION_TOPBOTTOM.string.text
 msgid "Top to bottom"
-msgstr ""
+msgstr "Barr go bun"
 
 #: globstr.src#RID_GLOBSTR.STR_SCATTR_PAGE_LEFTRIGHT.string.text
 #: column.src#TP_COLUMN.LB_TEXTDIRECTION.1.stringlist.text
@@ -5107,7 +5108,7 @@ msgstr "Greille"
 
 #: globstr.src#RID_GLOBSTR.STR_SCATTR_PAGE_HEADERS.string.text
 msgid "Row & Column Headers"
-msgstr ""
+msgstr "Ceanntásca Colúin/Ró"
 
 #: globstr.src#RID_GLOBSTR.STR_SCATTR_PAGE_NULLVALS.string.text
 msgid "Zero Values"
@@ -5179,7 +5180,7 @@ msgstr "Staitistic"
 
 #: globstr.src#RID_GLOBSTR.STR_LINKERROR.string.text
 msgid "The link could not be updated."
-msgstr ""
+msgstr "Níorbh fhéidir an nasc a nuashonrú."
 
 #: globstr.src#RID_GLOBSTR.STR_LINKERRORFILE.string.text
 msgid "File:"
@@ -5269,11 +5270,11 @@ msgstr ""
 
 #: globstr.src#RID_GLOBSTR.STR_TABINSERT_ERROR.string.text
 msgid "The table could not be inserted."
-msgstr ""
+msgstr "Níorbh fhéidir an tábla a ionsá."
 
 #: globstr.src#RID_GLOBSTR.STR_TABREMOVE_ERROR.string.text
 msgid "The sheets could not be deleted."
-msgstr ""
+msgstr "Níorbh fhéidir na bileoga a scriosadh."
 
 #: globstr.src#RID_GLOBSTR.STR_PASTE_ERROR.string.text
 msgid "The contents of the clipboard could not be pasted."
@@ -5397,7 +5398,7 @@ msgstr "Réimse DataPilot"
 
 #: globstr.src#RID_GLOBSTR.STR_PIVOT_STYLE_TOP.string.text
 msgid "DataPilot Corner"
-msgstr ""
+msgstr "Cúinne DataPilot"
 
 #: globstr.src#RID_GLOBSTR.STR_OPERATION_NONE.string.text
 #: strings.src#STR_NULL.string.text
@@ -5447,11 +5448,11 @@ msgstr "Airde:"
 
 #: globstr.src#RID_GLOBSTR.STR_ERR_INSERTOBJ.string.text
 msgid "The object could not be inserted."
-msgstr ""
+msgstr "Níorbh fhéidir an réad a ionsá."
 
 #: globstr.src#RID_GLOBSTR.STR_CHANGED_CELL.string.text
 msgid "Cell #1 changed from '#2' to '#3'"
-msgstr ""
+msgstr "D'athraigh cill #1 ó '#2' go '#3'"
 
 #: globstr.src#RID_GLOBSTR.STR_CHANGED_INSERT.string.text
 msgid "#1 inserted"
@@ -5477,7 +5478,7 @@ msgstr ""
 
 #: globstr.src#RID_GLOBSTR.STR_CLOSE_ERROR_LINK.string.text
 msgid "The document can not be closed while a link is being updated."
-msgstr ""
+msgstr "Ní féidir an cháipéis a dhúnadh agus nasc á nuashonrú."
 
 #: globstr.src#RID_GLOBSTR.STR_UNDO_RESIZEMATRIX.string.text
 msgid "Adapt array area"
@@ -5830,7 +5831,7 @@ msgstr "Rao~nta Priontála"
 #: menue.src#RID_OBJECTMENU_CELLS.SID_STYLE_CATALOG.menuitem.text
 #: menue.src#RID_OBJECTMENU_EDIT.SID_STYLE_CATALOG.menuitem.text
 msgid "S~tyle Catalog..."
-msgstr ""
+msgstr "Catalóg na S~tíleanna..."
 
 #: menue.src#RID_OBJECTMENU_CELLS.SID_OPENDLG_CONDFRMT.menuitem.text
 #: menue.src#RID_OBJECTMENU_EDIT.SID_OPENDLG_CONDFRMT.menuitem.text
@@ -5840,11 +5841,11 @@ msgstr "Formáidiú C~oinníollach..."
 
 #: miscdlgs.src#RID_SCDLG_DELCELL.BTN_DELCOLS.radiobutton.text
 msgid "Delete entire ~column(s)"
-msgstr ""
+msgstr "Scrios ~colúin iomlána"
 
 #: miscdlgs.src#RID_SCDLG_DELCELL.BTN_DELROWS.radiobutton.text
 msgid "Delete entire ~row(s)"
-msgstr ""
+msgstr "Scrios ~rónna iomlána"
 
 #: miscdlgs.src#RID_SCDLG_DELCELL.BTN_CELLSLEFT.radiobutton.text
 msgid "Shift cells ~left"
@@ -5954,7 +5955,7 @@ msgstr "Oibríochtaí"
 
 #: miscdlgs.src#RID_SCDLG_INSCONT.BTN_SKIP_EMPTY.checkbox.text
 msgid "S~kip empty cells"
-msgstr ""
+msgstr "Ná ba~c le cealla folmha"
 
 #: miscdlgs.src#RID_SCDLG_INSCONT.BTN_TRANSPOSE.checkbox.text
 msgid "~Transpose"
@@ -5973,7 +5974,7 @@ msgstr "~Nasc"
 
 #: miscdlgs.src#RID_SCDLG_INSCONT.BTN_MV_NONE.radiobutton.text
 msgid "Don't sh~ift"
-msgstr ""
+msgstr "Ná ha~istrigh"
 
 #: miscdlgs.src#RID_SCDLG_INSCONT.BTN_MV_DOWN.radiobutton.text
 msgid "Do~wn"
@@ -6104,11 +6105,11 @@ msgstr "Dá~ta"
 
 #: miscdlgs.src#RID_SCDLG_FILLSERIES.BTN_AUTOFILL.radiobutton.text
 msgid "~AutoFill"
-msgstr ""
+msgstr "U~athLíon"
 
 #: miscdlgs.src#RID_SCDLG_FILLSERIES.FL_TYPE.fixedline.text
 msgid "Series type"
-msgstr ""
+msgstr "Cineál sratha"
 
 #: miscdlgs.src#RID_SCDLG_FILLSERIES.FT_START_VALUE.fixedtext.text
 #: tabarea.src#RID_SVXPAGE_TRANSPARENCE.FT_TRGR_START_VALUE.fixedtext.text
@@ -6199,15 +6200,15 @@ msgstr "Ionsáigh Ainm"
 
 #: miscdlgs.src#RID_SCDLG_TEAM.floatingwindow.text
 msgid "The %PRODUCTNAME Calc Team"
-msgstr ""
+msgstr "Foireann %PRODUCTNAME Calc"
 
 #: miscdlgs.src#RID_SCDLG_CHARTCOLROW.1.checkbox.text
 msgid "First ~column as label"
-msgstr ""
+msgstr "An ~chéad cholún mar lipéad"
 
 #: miscdlgs.src#RID_SCDLG_CHARTCOLROW.2.checkbox.text
 msgid "First ~row as label"
-msgstr ""
+msgstr "An chéad ~ró mar lipéad"
 
 #: miscdlgs.src#RID_SCDLG_CHARTCOLROW.6.fixedline.text
 #: label.src#LABEL_STRING.#define.text label.src#STR_DOC_TITLE.string.text
@@ -6217,7 +6218,7 @@ msgstr "Lipéid"
 
 #: miscdlgs.src#RID_SCDLG_CHARTCOLROW.modaldialog.text
 msgid "Change Source Data Range"
-msgstr ""
+msgstr "Athraigh Raon Sonraí Foinseacha"
 
 #: namedlg.src#RID_SCDLG_NAMES.FL_ASSIGN.fixedline.text
 msgid "Assigned to"
@@ -6341,7 +6342,7 @@ msgstr ""
 
 #: optdlg.src#RID_SCPAGE_CALC.BTN_REGEX.checkbox.text
 msgid "~Enable regular expressions in formulas"
-msgstr ""
+msgstr "~Cumasaigh sloinn ionadaíochta i bhfoirmlí"
 
 #: optdlg.src#RID_SCPAGE_CALC.BTN_LOOKUP.checkbox.text
 msgid "~Automatically find column and row labels "
@@ -60033,7 +60034,7 @@ msgstr ""
 #: StartModuleCommands.xcu#..StartModuleCommands.UserInterface.Commands..uno_ExtendedHelp.Label.value.text
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_ExtendedHelp.Label.value.text
 msgid "What's ~This?"
-msgstr ""
+msgstr "Cad É ~Seo?"
 
 #: StartModuleCommands.xcu#..StartModuleCommands.UserInterface.Commands..uno_HelpIndex.Label.value.text
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_HelpIndex.Label.value.text
@@ -60043,7 +60044,7 @@ msgstr "Cab~hair %PRODUCTNAME"
 #: StartModuleCommands.xcu#..StartModuleCommands.UserInterface.Commands..uno_NewDoc.Label.value.text
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_NewDoc.Label.value.text
 msgid "New Document From Template"
-msgstr ""
+msgstr "Cáipéis Nua Ó Theimpléad"
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_EditGlossary.Label.value.text
 msgid "AutoTe~xt..."
@@ -60084,7 +60085,7 @@ msgstr "~Innéacsanna agus Táblaí..."
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_UpdateAllIndexes.Label.value.text
 msgid "~All Indexes and Tables"
-msgstr ""
+msgstr "G~ach Innéacs agus Tábla"
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_UpdateCurIndex.Label.value.text
 msgid "Current ~Index"
@@ -60124,7 +60125,7 @@ msgstr "~Eile..."
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_ChangeDatabaseField.Label.value.text
 msgid "Exc~hange Database..."
-msgstr ""
+msgstr "Malartaig~h Bunachar Sonraí..."
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_InsertCaptionDialog.Label.value.text
 msgid "Caption..."
@@ -60168,15 +60169,15 @@ msgstr ""
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_AutoFormatRedlineApply.Label.value.text
 msgid "Apply and Edit ~Changes"
-msgstr ""
+msgstr "~Cuir Athruithe i bhFeidhm/in Eagar"
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_SendOutlineToStarImpress.Label.value.text
 msgid "Outline to ~Presentation"
-msgstr ""
+msgstr "Imlíne go ~Láithreoireacht"
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_SendOutlineToClipboard.Label.value.text
 msgid "Outline to ~Clipboard"
-msgstr ""
+msgstr "Imlíne go ~Gearrthaisce"
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_NewHtmlDoc.Label.value.text
 msgid "Create ~HTML Document"
@@ -60200,7 +60201,7 @@ msgstr ""
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_NameGroup.Label.value.text
 msgid "Name Group..."
-msgstr ""
+msgstr "Ainmnigh Grúpa..."
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_FormatColumns.Label.value.text
 msgid "Co~lumns..."
@@ -60232,11 +60233,11 @@ msgstr "Téa~cs <-> Tábla..."
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_ConvertTableToText.Label.value.text
 msgid "T~able to Text..."
-msgstr ""
+msgstr "Tábl~a go Téacs..."
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_ConvertTextToTable.Label.value.text
 msgid "~Text to Table..."
-msgstr ""
+msgstr "~Téacs go Tábla..."
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_HeadingRowsRepeat.Label.value.text
 msgid "Heading rows repeat"
@@ -60464,7 +60465,7 @@ msgstr "Litreoireacht Daite"
 #: Effects.xcu#..Effects.UserInterface.Effects.ooo_entrance_movie_credits.Label.value.text
 #: Effects.xcu#..Effects.UserInterface.Effects.ooo_exit_movie_credits.Label.value.text
 msgid "Movie Credits"
-msgstr ""
+msgstr "Teidil Chreidiúna"
 
 #: Effects.xcu#..Effects.UserInterface.Effects.ooo_entrance_ease_in.Label.value.text
 msgid "Ease In"
@@ -60488,7 +60489,7 @@ msgstr ""
 #: Effects.xcu#..Effects.UserInterface.Effects.ooo_entrance_pinwheel.Label.value.text
 #: Effects.xcu#..Effects.UserInterface.Effects.ooo_exit_pinwheel.Label.value.text
 msgid "Pinwheel"
-msgstr ""
+msgstr "Muileann Gaoithe"
 
 #: Effects.xcu#..Effects.UserInterface.Effects.ooo_entrance_rise_up.Label.value.text
 msgid "Rise Up"
@@ -60995,7 +60996,7 @@ msgstr "Línte agus Cuair"
 
 #: Effects.xcu#..Effects.UserInterface.Properties.in.Label.value.text
 msgid "In"
-msgstr ""
+msgstr "Isteach"
 
 #: Effects.xcu#..Effects.UserInterface.Properties.across.Label.value.text
 msgid "Across"
@@ -71475,7 +71476,7 @@ msgid "The format of the selected file is not supported."
 msgstr ""
 
 #: readme.xrm#ooo_readme.Welcome.A2.a.readmeitem.text
-msgid "Last updated $Date: 2005-04-09 03:33:19 $"
+msgid "Last updated $Date: 2005-04-14 04:21:28 $"
 msgstr ""
 
 #: readme.xrm#ooo_readme.Welcome.A3.a.readmeitem.text
