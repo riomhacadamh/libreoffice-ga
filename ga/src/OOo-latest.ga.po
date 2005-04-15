@@ -6433,7 +6433,7 @@ msgstr "~Dath"
 
 #: optdlg.src#RID_SCPAGE_CONTENT.CB_PAGEBREAKS.checkbox.text
 msgid "~Page breaks"
-msgstr ""
+msgstr "~Bristeacha leathanaigh"
 
 #: optdlg.src#RID_SCPAGE_CONTENT.CB_GUIDELINE.checkbox.text
 #: optdlg.src#TP_CONTENT_OPT.CB_CROSS.checkbox.text
@@ -6467,7 +6467,7 @@ msgstr ""
 
 #: optdlg.src#RID_SCPAGE_CONTENT.CB_ANNOT.checkbox.text
 msgid "~Note indicator"
-msgstr ""
+msgstr "Táscaire ~nóta"
 
 #: optdlg.src#RID_SCPAGE_CONTENT.CB_VALUE.checkbox.text
 msgid "Value h~ighlighting"
@@ -6485,7 +6485,7 @@ msgstr "Téa~cs thar maoil"
 
 #: optdlg.src#RID_SCPAGE_CONTENT.CB_RFIND.checkbox.text
 msgid "Show references in color"
-msgstr ""
+msgstr "Taispeáin tagairtí i ndath"
 
 #: optdlg.src#RID_SCPAGE_CONTENT.GB_OBJECT.fixedline.text
 #: strings.src#STR_OBJECTS.string.text fldui.src#FLD_STAT_OBJ.string.text
@@ -6524,11 +6524,11 @@ msgstr ""
 
 #: optdlg.src#RID_SCPAGE_CONTENT.CB_OUTLINE.checkbox.text
 msgid "~Outline symbols"
-msgstr ""
+msgstr "Si~ombailí imlíneacha"
 
 #: optdlg.src#RID_SCPAGE_LAYOUT.GB_UNIT.fixedline.text
 msgid "Metrics"
-msgstr ""
+msgstr "Méadraigh"
 
 #: optdlg.src#RID_SCPAGE_LAYOUT.FT_UNIT.fixedtext.text
 msgid "Measurement ~unit"
@@ -6617,7 +6617,7 @@ msgstr "I g~Cónaí"
 #: optdlg.src#RID_SCPAGE_LAYOUT.RB_REQUEST.radiobutton.text
 #: optload.src#TP_OPTLOAD_PAGE.RB_REQUEST.radiobutton.text
 msgid "~On request"
-msgstr ""
+msgstr "Á ~iarraidh"
 
 #: optdlg.src#RID_SCPAGE_LAYOUT.RB_NEVER.radiobutton.text
 #: optload.src#TP_OPTLOAD_PAGE.RB_NEVER.radiobutton.text
@@ -6714,7 +6714,7 @@ msgstr ""
 
 #: optdlg.src#RID_SCPAGE_PRINT.BTN_SKIPEMPTYPAGES.checkbox.text
 msgid "~Suppress output of empty pages"
-msgstr ""
+msgstr "Ná ha~schuir leathanaigh fholmha"
 
 #: optdlg.src#RID_SCPAGE_PRINT.FL_SHEETS.fixedline.text
 #: navipi.src#SCSTR_CONTENT_TABLE.string.text
@@ -6782,7 +6782,7 @@ msgstr "~Bileog Deas-Go-Clé"
 
 #: popup.src#RID_POPUP_PIVOT.string.text
 msgid "DataPilot pop-up menu"
-msgstr ""
+msgstr "Roghchlár aníos DataPilot"
 
 #: popup.src#RID_POPUP_PIVOT.SID_OPENDLG_PIVOTTABLE.menuitem.text
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Commands..uno_DataDataPilotRun.Label.value.text
@@ -6886,7 +6886,7 @@ msgstr "Ionsáigh Briseadh ~Colún"
 
 #: popup.src#RID_POPUP_PAGEBREAK.FID_DEL_MANUALBREAKS.menuitem.text
 msgid "Delete All Manual Breaks"
-msgstr ""
+msgstr "Scrios Gach Briseadh Láimhe"
 
 #: popup.src#RID_POPUP_PAGEBREAK.FID_RESET_PRINTZOOM.menuitem.text
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Commands..uno_ResetPrintZoom.Label.value.text
@@ -6903,7 +6903,7 @@ msgstr "Cuir Raon Priontála Leis"
 
 #: popup.src#RID_POPUP_PAGEBREAK.SID_DELETE_PRINTAREA.menuitem.text
 msgid "Undo Print Range"
-msgstr ""
+msgstr "Cealaigh an Raon Priontála"
 
 #: popup.src#RID_POPUP_PAGEBREAK.SID_FORMATPAGE.menuitem.text
 msgid "Page Format..."
@@ -6911,7 +6911,7 @@ msgstr "Formáid Leathanaigh..."
 
 #: scerrors.src#RID_ERRHDLSC.SCERR_IMPORT_CONNECT___ERRCODE_RES_MASK.string.text
 msgid "Impossible to connect to the file."
-msgstr ""
+msgstr "Ní féidir nasc leis an gcomhad."
 
 #: scerrors.src#RID_ERRHDLSC.SCERR_IMPORT_OPEN___ERRCODE_RES_MASK.string.text
 msgid "File could not be opened."
@@ -6927,7 +6927,7 @@ msgstr ""
 
 #: scerrors.src#RID_ERRHDLSC.SCERR_IMPORT_UNKNOWN_WK___ERRCODE_RES_MASK.string.text
 msgid "Unknown Lotus1-2-3 file format."
-msgstr ""
+msgstr "Formáid anaithnid chomhaid Lotus1-2-3."
 
 #: scerrors.src#RID_ERRHDLSC.SCERR_IMPORT_FORMAT___ERRCODE_RES_MASK.string.text
 msgid "Error in file structure while importing."
@@ -6947,7 +6947,7 @@ msgstr ""
 
 #: scerrors.src#RID_ERRHDLSC.SCERR_IMPORT_FILEPASSWD___ERRCODE_RES_MASK.string.text
 msgid "This file is password-protected."
-msgstr ""
+msgstr "Tá an comhad seo á chosaint le focal faire."
 
 #: scerrors.src#RID_ERRHDLSC.SCERR_IMPORT_INTERNAL___ERRCODE_RES_MASK.string.text
 msgid "Internal import error."
@@ -11195,15 +11195,15 @@ msgstr "Réada grafaice"
 #: scstring.src#SCSTR_DRAWTEXTSHELL.string.text
 #: tpoption.src#TP_OPTIONS_MISC.GRP_TEXT.fixedline.text
 msgid "Text objects"
-msgstr ""
+msgstr "Réada téacs"
 
 #: scstring.src#SCSTR_DRAWFORMSHELL.string.text
 msgid "Form objects"
-msgstr ""
+msgstr "Réada foirme"
 
 #: scstring.src#SCSTR_CHARTSHELL.string.text
 msgid "Chart objects"
-msgstr ""
+msgstr "Réada cairte"
 
 #: scstring.src#SCSTR_OLEOBJECTSHELL.string.text
 #: navipi.src#SCSTR_CONTENT_OLEOBJECT.string.text
@@ -11243,11 +11243,11 @@ msgstr "- folamh -"
 
 #: scstring.src#SCSTR_NOTEMPTY.string.text
 msgid "- not empty -"
-msgstr ""
+msgstr "- ní folamh -"
 
 #: scstring.src#SCSTR_NEWTABLE.string.text
 msgid "- new sheet -"
-msgstr ""
+msgstr "- bileog nua -"
 
 #: scstring.src#SCSTR_ALL.string.text
 msgid "- all -"
@@ -11280,12 +11280,12 @@ msgstr "Raonta"
 #: scstring.src#SCSTR_APDTABLE.string.text
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Commands..uno_Add.Label.value.text
 msgid "Append Sheet"
-msgstr ""
+msgstr "Iarcheangail Bileog"
 
 #: scstring.src#SCSTR_RENAMEOBJECT.string.text
 #: strings.src#STR_TITLE_NAMEGROUP.string.text
 msgid "Name object"
-msgstr ""
+msgstr "Cuir ainm ar réad"
 
 #: scstring.src#STR_INSERTGRAPHIC.string.text
 msgid "Insert Picture"
@@ -11324,7 +11324,7 @@ msgstr "Comhfhadaigh"
 #: scstring.src#SCSTR_HOR_JUSTIFY_REPEAT.string.text
 #: svxitems.src#RID_SVXITEMS_HORJUST_REPEAT.string.text
 msgid "Repeat alignment"
-msgstr ""
+msgstr "Ailínigh arís"
 
 #: scstring.src#SCSTR_HOR_JUSTIFY_STANDARD.string.text
 #: svxitems.src#RID_SVXITEMS_HORJUST_STANDARD.string.text
@@ -11355,7 +11355,7 @@ msgstr ""
 #: scstring.src#SCSTR_ORIENTATION_BOTTOMTOP.string.text
 #: svxitems.src#RID_SVXITEMS_ORI_BOTTOMTOP.string.text
 msgid "Bottom to Top"
-msgstr ""
+msgstr "Bun go Barr"
 
 #: scstring.src#SCSTR_ORIENTATION_STANDARD.string.text
 #: svxitems.src#RID_SVXITEMS_ORI_STANDARD.string.text
@@ -11376,7 +11376,7 @@ msgstr "Cosain Taifid"
 
 #: scstring.src#SCSTR_CHG_UNPROTECT.string.text
 msgid "Unprotect Records"
-msgstr ""
+msgstr "Díchosain Taifid"
 
 #: scstring.src#SCSTR_PASSWORD.string.text euro.src#MESSAGES___16.string.text
 msgid "Password:"
@@ -11426,7 +11426,7 @@ msgstr "Roghanna an Chórais"
 
 #: scstring.src#SCSTR_CFG_DOC.string.text
 msgid "Document Options"
-msgstr ""
+msgstr "Roghanna Cáipéise"
 
 #: scstring.src#SCSTR_CFG_VIEW.string.text
 msgid "View Options"
@@ -11434,7 +11434,7 @@ msgstr "Roghanna Amhairc"
 
 #: scstring.src#SCSTR_CFG_INPUT.string.text
 msgid "Input Options"
-msgstr ""
+msgstr "Roghanna Ionchuir"
 
 #: scstring.src#SCSTR_CFG_SPELLCHECK.string.text
 msgid "Spelling Options"
@@ -11483,7 +11483,7 @@ msgstr ""
 
 #: scstring.src#SCSTR_FIELDSEP.string.text
 msgid ",\\t44\\t;\\t59\\t:\\t58\\t{Tab}\\t9\\t{space}\\t32 "
-msgstr ""
+msgstr ",\\t44\\t;\\t59\\t:\\t58\\t{Táb}\\t9\\t{spás}\\t32 "
 
 #: scstring.src#SCSTR_FORMULA_AUTOCORRECTION.string.text
 msgid ""
@@ -11493,11 +11493,11 @@ msgstr ""
 
 #: scstring.src#SCSTR_GRFILTER_OPENERROR.string.text
 msgid "Graphics file can not be opened"
-msgstr ""
+msgstr "Ní féidir an comhad grafach a oscailt"
 
 #: scstring.src#SCSTR_GRFILTER_IOERROR.string.text
 msgid "Graphics file can not be read"
-msgstr ""
+msgstr "Ní féidir an comhad grafach a léamh"
 
 #: scstring.src#SCSTR_GRFILTER_FORMATERROR.string.text
 #: shells.src#STR_GRFILTER_FORMATERROR.string.text
@@ -11516,7 +11516,7 @@ msgstr ""
 #: impgrf.src#RID_SVXRES_IMPORTGRAPHIC.STR_GRFILTER_FILTERERROR.string.text
 #: sdstring.src#RID_SVXSTR_GRFILTER_FILTERERROR.string.text
 msgid "Graphics filter not found"
-msgstr ""
+msgstr "Ní bhfuarthas an scagaire grafach"
 
 #: scstring.src#SCSTR_GRFILTER_TOOBIG.string.text
 msgid "Not enough memory available to insert graphics."
@@ -11524,7 +11524,7 @@ msgstr ""
 
 #: scstring.src#SCSTR_UNDO_GRAFFILTER.string.text
 msgid "Graphics Filter"
-msgstr ""
+msgstr "Scagaire Grafach"
 
 #: scstring.src#STR_DLG_SELECTTABLES_TITLE.string.text
 msgid "Select Sheets"
@@ -11596,19 +11596,19 @@ msgstr ""
 
 #: scstring.src#STR_ACC_CENTERAREA_NAME.string.text
 msgid "Center area"
-msgstr ""
+msgstr "Achar sa lár"
 
 #: scstring.src#STR_ACC_RIGHTAREA_NAME.string.text
 msgid "Right area"
-msgstr ""
+msgstr "Achar ar dheis"
 
 #: scstring.src#STR_ACC_HEADER_NAME.string.text
 msgid "Header of page %1"
-msgstr ""
+msgstr "Ceanntásc de leathanach %1"
 
 #: scstring.src#STR_ACC_FOOTER_NAME.string.text
 msgid "Footer of page %1"
-msgstr ""
+msgstr "Buntásc de leathanach %1"
 
 #: scstring.src#STR_ACC_EDITLINE_NAME.string.text
 #: toolbox.src#SCSTR_QHELP_INPUTWND.string.text
@@ -11650,11 +11650,11 @@ msgstr ""
 #: WriterWebWindowState.xcu#..WriterWebWindowState.UIElements.States.private_resource/toolbar/mediaobjectbar.UIName.value.text
 #: WriterWindowState.xcu#..WriterWindowState.UIElements.States.private_resource/toolbar/mediaobjectbar.UIName.value.text
 msgid "Media Playback"
-msgstr ""
+msgstr "Athsheinm Meán"
 
 #: scwarngs.src#RID_WRNHDLSC.ERRCODE_SC_EXPORT_WRN_ASCII___SH_MAX.string.text
 msgid "Only the active sheet could be saved."
-msgstr ""
+msgstr "Ní féidir ach an bhileog reatha a shábháil."
 
 #: scwarngs.src#RID_WRNHDLSC.ERRCODE_SC_IMPORT_WRN_RNGOVRFLW___SH_MAX.string.text
 msgid ""
@@ -11759,11 +11759,11 @@ msgstr ""
 
 #: sortdlg.src#RID_SCPAGE_SORT_OPTIONS.BTN_FORMATS.checkbox.text
 msgid "Include ~formats"
-msgstr ""
+msgstr "Cuir ~formáidí san áireamh"
 
 #: sortdlg.src#RID_SCPAGE_SORT_OPTIONS.BTN_COPYRESULT.checkbox.text
 msgid "~Copy sort results to:"
-msgstr ""
+msgstr "~Cóipeáil na torthaí sórtála go:"
 
 #: sortdlg.src#RID_SCPAGE_SORT_OPTIONS.BTN_SORT_USER.checkbox.text
 msgid "Custom sort ~order"
@@ -11785,7 +11785,7 @@ msgstr "~Roghanna"
 
 #: sortdlg.src#RID_SCPAGE_SORT_OPTIONS.BTN_TOP_DOWN.radiobutton.text
 msgid "~Top to bottom (sort rows)"
-msgstr ""
+msgstr "~Barr go bun (sórtáil rónna)"
 
 #: sortdlg.src#RID_SCPAGE_SORT_OPTIONS.BTN_LEFT_RIGHT.radiobutton.text
 msgid "L~eft to right (sort columns)"
@@ -11793,7 +11793,7 @@ msgstr ""
 
 #: sortdlg.src#RID_SCPAGE_SORT_OPTIONS.FT_AREA_LABEL.fixedtext.text
 msgid "Data area:"
-msgstr ""
+msgstr "Achar sonraí:"
 
 #: sortdlg.src#RID_SCDLG_SORT.1.TP_FIELDS.pageitem.text
 msgid "Sort Criteria"
@@ -11805,7 +11805,7 @@ msgstr "Grúpaí"
 
 #: subtdlg.src#RID_SCPAGE_SUBT_OPTIONS.BTN_PAGEBREAK.checkbox.text
 msgid "~Page break between groups"
-msgstr ""
+msgstr "~Briseadh leathanaigh idir grúpaí"
 
 #: subtdlg.src#RID_SCPAGE_SUBT_OPTIONS.BTN_SORT.checkbox.text
 msgid "Pre-~sort area according to groups"
@@ -11813,7 +11813,7 @@ msgstr ""
 
 #: subtdlg.src#RID_SCPAGE_SUBT_OPTIONS.BTN_FORMATS.checkbox.text
 msgid "I~nclude formats"
-msgstr ""
+msgstr "Cuir formáidí sa~n áireamh"
 
 #: subtdlg.src#RID_SCPAGE_SUBT_OPTIONS.BTN_USERDEF.checkbox.text
 msgid "C~ustom sort order"
@@ -11821,7 +11821,7 @@ msgstr "Ord ~saincheaptha sórtála"
 
 #: subtdlg.src#RID_SUBTBASE.FT_COLUMNS.fixedtext.text
 msgid "~Calculate subtotals for"
-msgstr ""
+msgstr "~Ríomh fo-iomláin le haghaidh"
 
 #: subtdlg.src#RID_SUBTBASE.FT_FUNCTIONS.fixedtext.text
 msgid "Use ~function"
@@ -11849,15 +11849,15 @@ msgstr ""
 
 #: tabopdlg.src#RID_SCDLG_TABOP.STR_NOFORMULA.string.text
 msgid "No formula specified."
-msgstr ""
+msgstr "Níor sonraíodh foirmle."
 
 #: tabopdlg.src#RID_SCDLG_TABOP.STR_NOCOLROW.string.text
 msgid "Neither row or column specified."
-msgstr ""
+msgstr "Níor sonraíodh ró ná colún."
 
 #: tabopdlg.src#RID_SCDLG_TABOP.STR_WRONGFORMULA.string.text
 msgid "Undefined name or range."
-msgstr ""
+msgstr "Ainm nó raon gan sainmhíniú."
 
 #: tabopdlg.src#RID_SCDLG_TABOP.STR_WRONGROWCOL.string.text
 msgid "Undefined name or wrong cell reference."
@@ -11950,7 +11950,7 @@ msgstr "Ainmbhosca"
 #: toolbox.src#SCSTR_QHELP_BTNCALC.string.text
 #: formdlgs.src#RID_SCDLG_FORMULA.STR_TITLE1.string.text
 msgid "Function Wizard"
-msgstr ""
+msgstr "Draoi Feidhme"
 
 #: toolbox.src#SCSTR_QHELP_BTNOK.string.text
 #: preload.src#RID_DLG_OEMWIZARD.ST_ACCEPT.string.text
@@ -12035,7 +12035,7 @@ msgstr "Scoránaigh"
 
 #: navipi.src#RID_SCDLG_NAVIGATOR.TBX_CMD.IID_SCENARIOS.toolboxitem.text
 msgid "Scenarios"
-msgstr ""
+msgstr "Cnámhscéalta"
 
 #: navipi.src#RID_SCDLG_NAVIGATOR.TBX_CMD.IID_DROPMODE.toolboxitem.text
 #: navipi.src#RID_SCDLG_NAVIGATOR.STR_DRAGMODE.string.text
@@ -12043,7 +12043,7 @@ msgstr ""
 #: navipi.src#TB_CONTENT.FN_DROP_REGION.toolboxitem.text
 #: navipi.src#ST_DRAGMODE.string.text
 msgid "Drag Mode"
-msgstr ""
+msgstr "Mód Tarraingthe"
 
 #: navipi.src#RID_SCDLG_NAVIGATOR.STR_ACTIVE.string.text
 #: navipi.src#ST_ACTIVE.string.text
@@ -12067,7 +12067,7 @@ msgstr "Fuinneog Ghníomhach"
 
 #: navipi.src#RID_SCDLG_NAVIGATOR.STR_QHLP_SCEN_LISTBOX.string.text
 msgid "Scenario Name"
-msgstr ""
+msgstr "Ainm an Chnámhscéil"
 
 #: navipi.src#RID_SCDLG_NAVIGATOR.STR_QHLP_SCEN_COMMENT.string.text
 #: cnttab.src#DLG_CREATE_AUTOMARK.BB_ENTRIES.ST_COMMENT.string.text
@@ -12087,7 +12087,7 @@ msgstr "Nóta"
 #: navipi.src#DLG_NAVIGATION_PI.window.text
 #: dialog.src#SID_NAVIGATOR.string.text
 msgid "Navigator"
-msgstr ""
+msgstr "Loingseoir"
 
 #: navipi.src#SCSTR_CONTENT_RANGENAME.string.text
 msgid "Range names"
@@ -12099,12 +12099,12 @@ msgstr ""
 
 #: navipi.src#SCSTR_CONTENT_AREALINK.string.text
 msgid "Linked areas"
-msgstr ""
+msgstr "Achair nasctha"
 
 #: navipi.src#SCSTR_CONTENT_DRAWING.string.text
 #: dlgegif.src#DLG_EXPORT_GIF.GRP_DRAW.fixedline.text
 msgid "Drawing objects"
-msgstr ""
+msgstr "Réada líníochta"
 
 #: navipi.src#RID_POPUP_DROPMODE.RID_DROPMODE_URL.menuitem.text
 #: navipi.src#ST_HYPERLINK.string.text
@@ -12119,7 +12119,7 @@ msgstr "Ionsáigh mar Nasc"
 #: navipi.src#RID_POPUP_DROPMODE.RID_DROPMODE_COPY.menuitem.text
 #: navipi.src#ST_COPY_REGION.string.text
 msgid "Insert as Copy"
-msgstr ""
+msgstr "Ionsáigh mar Chóip"
 
 #: navipi.src#RID_POPUP_NAVIPI_SCENARIO.RID_NAVIPI_SCENARIO_EDIT.menuitem.text
 #: imapdlg.src#RID_SVXDLG_IMAP.TBX_IMAPDLG1.TBI_PROPERTY.toolboxitem.text
@@ -12193,7 +12193,7 @@ msgstr "Breiseán"
 
 #: dwfunctr.src#FID_FUNCTION_BOX.IMB_INSERT.imagebutton.quickhelptext
 msgid "Insert Function into calculation sheet"
-msgstr ""
+msgstr "Ionsáigh Feidhm i mbileog áirimh"
 
 #: dwfunctr.src#FID_FUNCTION_BOX.dockingwindow.text
 #: formdlgs.src#RID_SCDLG_FORMULA.TC_FUNCTION.TP_FUNCTION.pageitem.text
@@ -12250,7 +12250,7 @@ msgstr "Foir~mle"
 
 #: formdlgs.src#RID_SCDLG_FORMULA.FT_RESULT.fixedtext.text
 msgid "Function result"
-msgstr ""
+msgstr "Toradh feidhme"
 
 #: formdlgs.src#RID_SCDLG_FORMULA.RB_REF.imagebutton.quickhelptext
 #: helptext.src#SV_HELPTEXT_MAXIMIZE.string.text
@@ -12268,7 +12268,7 @@ msgstr "<< ~Ar Ais"
 
 #: formdlgs.src#RID_SCDLG_FORMULA.STR_TITLE2.string.text
 msgid "Function Wizard  -"
-msgstr ""
+msgstr "Draoi Feidhme  -"
 
 #: parawin.src#RID_SCTAB_PARAMETER.FT_EDITDESC.fixedtext.text
 msgid "Function not known"
@@ -13410,7 +13410,7 @@ msgstr "Uas."
 
 #: animobjs.src#FLT_WIN_ANIMATION.BTN_GET_ONE_OBJECT.imagebutton.quickhelptext
 msgid "Apply Object"
-msgstr ""
+msgstr "Cuir Réad i bhFeidhm"
 
 #: animobjs.src#FLT_WIN_ANIMATION.BTN_GET_ALL_OBJECTS.imagebutton.quickhelptext
 msgid "Apply Objects Individually"
@@ -13484,7 +13484,7 @@ msgstr "Cruthaigh"
 
 #: animobjs.src#FLT_WIN_ANIMATION.GRP_ANIMATION_GROUP.fixedline.text
 msgid "Animation group"
-msgstr ""
+msgstr "Grúpa beochana"
 
 #: animobjs.src#FLT_WIN_ANIMATION.dockingwindow.text
 #: textanim.src#RID_SVXPAGE_TEXTANIMATION.tabpage.text
@@ -13497,11 +13497,11 @@ msgstr "Meiteachomhad á phróiseáil:"
 
 #: brkdlg.src#DLG_BREAK.FT_ACT_INFO.fixedtext.text
 msgid "Broken down metaobjects:"
-msgstr ""
+msgstr "Meitiréada miondealaithe:"
 
 #: brkdlg.src#DLG_BREAK.FT_INS_INFO.fixedtext.text
 msgid "Inserted drawing objects:"
-msgstr ""
+msgstr "Réada líníochta ionsáite:"
 
 #: brkdlg.src#DLG_BREAK.modaldialog.text
 #: basic.src#IDS_APPMODE_BREAK.string.text
@@ -13649,7 +13649,7 @@ msgstr "~Cóipeáil"
 
 #: custsdlg.src#DLG_CUSTOMSHOW.CBX_USE_CUSTOMSHOW.checkbox.text
 msgid "~Use Custom Slide Show"
-msgstr ""
+msgstr "Ú~sáid Taispeántas Saincheaptha Sleamhnán"
 
 #: custsdlg.src#DLG_CUSTOMSHOW.modaldialog.text
 msgid "Custom Slide Shows"
@@ -13665,7 +13665,7 @@ msgstr "Sleamhnáin roghnaithe"
 
 #: custsdlg.src#DLG_DEFINE_CUSTOMSHOW.modaldialog.text
 msgid "Define Custom Slide Show"
-msgstr ""
+msgstr "Sainigh Taispeántas Saincheaptha Sleamhnán"
 
 #: dlg_char.src#TAB_CHAR.1.pushbutton.text
 #: dlgpage.src#TAB_PAGE.1.pushbutton.text
@@ -13683,7 +13683,7 @@ msgstr "~Réamhamharc"
 
 #: dlgass.src#DLG_ASS.CB_STARTWITH.checkbox.text
 msgid "~Do not show this wizard again"
-msgstr ""
+msgstr "Ná taispeáin an ~draoi seo arís"
 
 #: dlgass.src#DLG_ASS.RB_PAGE1_EMPTY.radiobutton.text
 msgid "~Empty presentation"
@@ -13704,7 +13704,7 @@ msgstr ""
 
 #: dlgass.src#DLG_ASS.FL_PAGE2_OUTPUTTYPES.fixedline.text
 msgid "Select an output medium"
-msgstr ""
+msgstr "Roghnaigh meán aschurtha"
 
 #: dlgass.src#DLG_ASS.RB_PAGE2_MEDIUM5.radiobutton.text
 #: tabarea.src#RID_SVXPAGE_AREA.TSB_ORIGINAL.tristatebox.text
@@ -13745,7 +13745,7 @@ msgstr "Lua~s"
 
 #: dlgass.src#DLG_ASS.FL_PAGE3_PRESTYPE.fixedline.text
 msgid "Select the presentation type"
-msgstr ""
+msgstr "Roghnaigh cineál na láithreoireachta"
 
 #: dlgass.src#DLG_ASS.FT_PAGE3_TIME.fixedtext.text
 msgid "D~uration of page"
@@ -13765,7 +13765,7 @@ msgstr ""
 
 #: dlgass.src#DLG_ASS.FT_PAGE4_ASKNAME.fixedtext.text
 msgid "What is your name or the name of your company?"
-msgstr ""
+msgstr "Cad is ainm duit, nó do do chomhlacht?"
 
 #: dlgass.src#DLG_ASS.FT_PAGE4_ASKTOPIC.fixedtext.text
 msgid "What is the subject of your presentation?"
@@ -13821,7 +13821,7 @@ msgstr "Urchair"
 #: prltempl.src#TAB_PRES_LAYOUT_TEMPLATE_3.1.RID_SVXPAGE_PICK_SINGLE_NUM.pageitem.text
 #: num.src#DLG_SVXTEST_NUM_BULLET.1.RID_SVXPAGE_PICK_SINGLE_NUM.pageitem.text
 msgid "Numbering type"
-msgstr ""
+msgstr "Stíl uimhrithe"
 
 #: dlgolbul.src#TAB_OUTLINEBULLET.1.RID_SVXPAGE_NUM_OPTIONS.pageitem.text
 #: prltempl.src#TAB_PRES_LAYOUT_TEMPLATE_3.1.RID_SVXPAGE_NUM_OPTIONS.pageitem.text
@@ -13835,7 +13835,7 @@ msgstr "Saincheap"
 #: WriterWebWindowState.xcu#..WriterWebWindowState.UIElements.States.private_resource/toolbar/numobjectbar.UIName.value.text
 #: WriterWindowState.xcu#..WriterWindowState.UIElements.States.private_resource/toolbar/numobjectbar.UIName.value.text
 msgid "Bullets and Numbering"
-msgstr ""
+msgstr "Urchair agus Uimhriú"
 
 #: dlgpage.src#TAB_PAGE.tabdialog.text
 msgid "Page Setup"
@@ -13886,7 +13886,7 @@ msgstr "Ceanntásc agus Buntásc"
 
 #: headerfooterdlg.src#RID_SD_TABPAGE_HEADERFOOTER.FL_INCLUDE_ON_PAGE.fixedline.text
 msgid "Include on slide"
-msgstr ""
+msgstr "Cuir ar shleamhnán"
 
 #: headerfooterdlg.src#RID_SD_TABPAGE_HEADERFOOTER.FT_HEADER.fixedtext.text
 msgid "Header text"
@@ -13915,11 +13915,11 @@ msgstr ""
 
 #: headerfooterdlg.src#RID_SD_TABPAGE_HEADERFOOTER.CB_NOTONTITLE.checkbox.text
 msgid "Do not show on first slide"
-msgstr ""
+msgstr "Ná taispeáin ar an chéad shleamhnán"
 
 #: headerfooterdlg.src#RID_SD_TABPAGE_HEADERFOOTER.BT_APPLYTOALL.pushbutton.text
 msgid "Apply to All"
-msgstr ""
+msgstr "Cuir i bhFeidhm ar Gach Rud"
 
 #: headerfooterdlg.src#RID_SD_TABPAGE_HEADERFOOTER.BT_APPLY.pushbutton.text
 #: fldvar.src#TP_FLD_VAR.TBX_VARNEWDEL.BT_VARAPPLY.toolboxitem.text
@@ -14025,7 +14025,7 @@ msgstr "Ionsáigh Sleamhnáin"
 
 #: inspagob.src#DLG_INSERT_PAGES_OBJS.CBX_CHECK_MASTERS.checkbox.text
 msgid "Delete unused backg~rounds"
-msgstr ""
+msgstr "Sc~rios cúlraí gan úsáid"
 
 #: inspagob.src#DLG_INSERT_PAGES_OBJS.modaldialog.text
 msgid "Insert Slides/Objects"
@@ -14037,7 +14037,7 @@ msgstr "Dáta/am"
 
 #: masterlayoutdlg.src#RID_SD_DLG_MASTER_LAYOUT.STR_MASTER_LAYOUT_TITLE.string.text
 msgid "Master Elements"
-msgstr ""
+msgstr "Máistireilimintí"
 
 #: morphdlg.src#DLG_MORPH.FT_STEPS.fixedtext.text
 #: tabarea.src#RID_SVXPAGE_AREA.FL_STEPCOUNT.fixedline.text
@@ -14155,11 +14155,11 @@ msgstr "Pointeoir luiche in~fheicthe"
 
 #: present.src#DLG_START_PRESENTATION.CBX_PEN.checkbox.text
 msgid "Mouse pointer as ~pen"
-msgstr ""
+msgstr "Pointeoir luiche mar ~pheann"
 
 #: present.src#DLG_START_PRESENTATION.CBX_NAVIGATOR.checkbox.text
 msgid "~Navigator visible"
-msgstr ""
+msgstr "Loi~ngseoir infheicthe"
 
 #: present.src#DLG_START_PRESENTATION.CBX_ANIMATION_ALLOWED.checkbox.text
 msgid "~Animations allowed"
@@ -14171,7 +14171,7 @@ msgstr ""
 
 #: present.src#DLG_START_PRESENTATION.CBX_ALWAYS_ON_TOP.checkbox.text
 msgid "Presentation always ~on top"
-msgstr ""
+msgstr "Láithre~oireacht chun tosaigh i gcónaí"
 
 #: present.src#DLG_START_PRESENTATION.modaldialog.text
 #: CustomAnimationSchemesPane.src#DLG_CUSTOMANIMATION_SCHEMES_PANE.3.pushbutton.text
@@ -14191,11 +14191,11 @@ msgstr ""
 
 #: printdlg.src#DLG_PRINT_WARNINGS.RBT_POSTER.radiobutton.text
 msgid "~Print on multiple pages"
-msgstr ""
+msgstr "~Priontáil ar leathanaigh iomadúla"
 
 #: printdlg.src#DLG_PRINT_WARNINGS.RBT_CUT.radiobutton.text
 msgid "~Trim"
-msgstr ""
+msgstr "~Bearr"
 
 #: printdlg.src#DLG_PRINT_WARNINGS.FI_INFO.fixedtext.text
 msgid ""
@@ -14326,7 +14326,7 @@ msgstr "Roghanna leathanaigh"
 
 #: prntopts.src#TP_PRINT_OPTIONS.RBT_PAGESIZE.radiobutton.text
 msgid "~Fit to page"
-msgstr ""
+msgstr "~Laghdaigh go dtí an leathanach"
 
 #: prntopts.src#TP_PRINT_OPTIONS.RBT_PAGETILE.radiobutton.text
 msgid "~Tile pages"
@@ -14544,7 +14544,7 @@ msgstr ""
 
 #: tpoption.src#TP_OPTIONS_MISC.CBX_START_WITH_ACTUAL_PAGE.checkbox.text
 msgid "Always with current page"
-msgstr ""
+msgstr "Leis an leathanach reatha i gcónaí"
 
 #: tpoption.src#TP_OPTIONS_MISC.FT_COMPATIBILITY.fixedline.text
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_EDITOPTIONS.12.itemlist.text
@@ -14561,11 +14561,11 @@ msgstr ""
 
 #: tpoption.src#TP_OPTIONS_MISC.FT_EQUIVALENT.fixedtext.text
 msgid "Equivalent to"
-msgstr ""
+msgstr "Ar comhbhrí le"
 
 #: tpoption.src#TP_OPTIONS_MISC.FT_SCALE.fixedtext.text
 msgid "~Drawing scale"
-msgstr ""
+msgstr "~Scála líníochta"
 
 #: tpoption.src#TP_OPTIONS_MISC.FT_PAGEWIDTH.fixedtext.text
 msgid "Page ~width"
@@ -14601,11 +14601,11 @@ msgstr "Méid na dtíleanna:"
 
 #: vectdlg.src#DLG_VECTORIZE.FT_ORIGINAL.fixedtext.text
 msgid "Source picture:"
-msgstr ""
+msgstr "Pictiúr foinseach:"
 
 #: vectdlg.src#DLG_VECTORIZE.FT_VECTORIZED.fixedtext.text
 msgid "Vectorized image:"
-msgstr ""
+msgstr "Íomhá veicteoirithe:"
 
 #: vectdlg.src#DLG_VECTORIZE.GRP_PRGS.fixedtext.text
 #: padialog.src#RID_PROGRESS_DLG.RID_PROGRESS_PROGRESS_TXT.fixedtext.text
@@ -14629,7 +14629,7 @@ msgstr ""
 
 #: accessibility.src#SID_SD_A11Y_I_DRAWVIEW_D.string.text
 msgid "This is where you create and edit slides."
-msgstr ""
+msgstr "Is é seo an áit ina gcruthaíonn tú sleamhnáin."
 
 #: accessibility.src#SID_SD_A11Y_I_OUTLINEVIEW_N.string.text
 #: glob.src#STR_OUTLINEVIEWSHELL.string.text
@@ -14642,15 +14642,15 @@ msgstr ""
 
 #: accessibility.src#SID_SD_A11Y_I_SLIDEVIEW_N.string.text
 msgid "Slides View"
-msgstr ""
+msgstr "Amharc Sleamhnán"
 
 #: accessibility.src#SID_SD_A11Y_I_SLIDEVIEW_D.string.text
 msgid "This is where you sort slides."
-msgstr ""
+msgstr "Is é seo an áit ina sórtálann tú sleamhnáin."
 
 #: accessibility.src#SID_SD_A11Y_I_NOTESVIEW_N.string.text
 msgid "Notes View"
-msgstr ""
+msgstr "Amharc Nótaí"
 
 #: accessibility.src#SID_SD_A11Y_I_NOTESVIEW_D.string.text
 msgid "This is where you enter and view notes."
@@ -14658,7 +14658,7 @@ msgstr ""
 
 #: accessibility.src#SID_SD_A11Y_I_HANDOUTVIEW_N.string.text
 msgid "Handout View"
-msgstr ""
+msgstr "Amharc Dáileán"
 
 #: accessibility.src#SID_SD_A11Y_I_HANDOUTVIEW_D.string.text
 msgid "This is where you decide on the layout for handouts."
@@ -14771,11 +14771,11 @@ msgstr "~Rialóirí"
 
 #: menuids2_tmpl.src#MN_NOTESMODE.SID_NOTESMODE.menuitem.text
 msgid "~Notes View"
-msgstr ""
+msgstr "Amharc ~Nótaí"
 
 #: menuids2_tmpl.src#MN_HANDOUTMODE.SID_HANDOUTMODE.menuitem.text
 msgid "~Handout View"
-msgstr ""
+msgstr "Am~harc Dáileán"
 
 #: menuids2_tmpl.src#MN_PIXELMODE.SID_PIXELMODE.menuitem.text
 msgid "~Pixel mode"
@@ -14788,7 +14788,7 @@ msgstr "S~leamhnán"
 #: menuids2_tmpl.src#MN_SLIDE_MASTERPAGE.SID_SLIDE_MASTERPAGE.menuitem.text
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_SlideMasterPage.Label.value.text
 msgid "~Slide Master"
-msgstr ""
+msgstr "Máistir~shleamhnán"
 
 #: menuids2_tmpl.src#MN_HANDOUT_MASTERPAGE.SID_HANDOUT_MASTERPAGE.menuitem.text
 msgid "~Handout"
@@ -14842,7 +14842,7 @@ msgstr "Sl~eamhnán"
 #: menuids2_tmpl.src#MN_DUPLICATE_PAGE.SID_DUPLICATE_PAGE.menuitem.text
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_DuplicatePage.Label.value.text
 msgid "D~uplicate Slide"
-msgstr ""
+msgstr "~Sleamhnán Dúblach"
 
 #: menuids2_tmpl.src#MN_EXPAND_PAGE.SID_EXPAND_PAGE.menuitem.text
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_ExpandPage.Label.value.text
@@ -15000,7 +15000,7 @@ msgstr "~Seiceáil..."
 #: menuids2_tmpl.src#MN_AUTOSPELL_CHECK.SID_AUTOSPELL_CHECK.menuitem.text
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_SpellOnline.Label.value.text
 msgid "~AutoSpellcheck"
-msgstr ""
+msgstr "U~athsheiceáil an Litriú"
 
 #: menuids2_tmpl.src#MN_THESAURUS.SID_THESAURUS.menuitem.text
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_ThesaurusDialog.Label.value.text
@@ -15022,7 +15022,7 @@ msgstr "U~athCheartaigh..."
 #: menuids2_tmpl.src#MN_PRESENTATION_DLG.SID_PRESENTATION_DLG.menuitem.text
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_PresentationDialog.Label.value.text
 msgid "~Slide Show Settings..."
-msgstr ""
+msgstr "~Socruithe an Taispeántais Sleamhnán..."
 
 #: menuids2_tmpl.src#MN_CUSTOMSHOW_DLG.SID_CUSTOMSHOW_DLG.menuitem.text
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_CustomShowDialog.Label.value.text
@@ -15072,12 +15072,12 @@ msgstr ""
 #: menuids_tmpl.src#MN_POSITION.SID_POSITION.SID_REVERSE_ORDER.menuitem.text
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_ReverseOrder.Label.value.text
 msgid "~Reverse"
-msgstr ""
+msgstr "D~roim ar ais"
 
 #: menuids2_tmpl.src#MN_BMPMASK.SID_BMPMASK.menuitem.text
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_BmpMask.Label.value.text
 msgid "~Eyedropper"
-msgstr ""
+msgstr "Titim~eán Súile"
 
 #: menuids2_tmpl.src#MN_GALLERY.SID_GALLERY.menuitem.text
 #: globlmn_tmpl.hrc#ITEM_INSERT_GALLERY.#define.text
@@ -15119,7 +15119,7 @@ msgstr "Mód Réa~mhamhairc"
 #: menuids3_tmpl.src#MN_CHANGEBEZIER.SID_CHANGEBEZIER.menuitem.text
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_ChangeBezier.Label.value.text
 msgid "To ~Curve"
-msgstr ""
+msgstr "Go ~Cuar"
 
 #: menuids3_tmpl.src#MN_CHANGEPOLYGON.SID_CHANGEPOLYGON.menuitem.text
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_ChangePolygon.Label.value.text
@@ -15223,12 +15223,12 @@ msgstr "Mionathraigh Sra~ith..."
 
 #: popup.src#RID_TASKPANE_MASTERPAGESSELECTOR_POPUP.SID_TP_APPLY_TO_ALL_SLIDES.menuitem.text
 msgid "~Apply to All Slides"
-msgstr ""
+msgstr "~Cuir i bhFeidhm ar Gach Sleamhnán"
 
 #: popup.src#RID_TASKPANE_MASTERPAGESSELECTOR_POPUP.SID_TP_APPLY_TO_SELECTED_SLIDES.menuitem.text
 #: popup.src#RID_TASKPANE_LAYOUTMENU_POPUP.SID_TP_APPLY_TO_SELECTED_SLIDES.menuitem.text
 msgid "Apply to ~Selected Slides"
-msgstr ""
+msgstr "Cuir i bhFeidhm ar ~Shleamhnáin Roghnaithe"
 
 #: popup.src#RID_TASKPANE_MASTERPAGESSELECTOR_POPUP.SID_TP_SHOW_LARGE_PREVIEW.menuitem.text
 msgid "Show ~Large Preview"
@@ -71476,7 +71476,7 @@ msgid "The format of the selected file is not supported."
 msgstr ""
 
 #: readme.xrm#ooo_readme.Welcome.A2.a.readmeitem.text
-msgid "Last updated $Date: 2005-04-14 04:21:28 $"
+msgid "Last updated $Date: 2005-04-15 04:12:21 $"
 msgstr ""
 
 #: readme.xrm#ooo_readme.Welcome.A3.a.readmeitem.text
