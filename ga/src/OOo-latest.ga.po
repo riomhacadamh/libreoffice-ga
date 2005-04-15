@@ -11330,7 +11330,7 @@ msgstr "Ailínigh arís"
 #: scstring.src#SCSTR_HOR_JUSTIFY_STANDARD.string.text
 #: svxitems.src#RID_SVXITEMS_HORJUST_STANDARD.string.text
 msgid "Horizontal alignment default"
-msgstr ""
+msgstr "Ailíniú cothrománach réamhshocraithe"
 
 #: scstring.src#SCSTR_VER_JUSTIFY_TOP.string.text
 #: svxitems.src#RID_SVXITEMS_VERJUST_TOP.string.text
@@ -11351,7 +11351,7 @@ msgstr ""
 #: scstring.src#SCSTR_VER_JUSTIFY_STANDARD.string.text
 #: svxitems.src#RID_SVXITEMS_VERJUST_STANDARD.string.text
 msgid "Vertical alignment default"
-msgstr ""
+msgstr "Ailíniú ingearach réamhshocraithe"
 
 #: scstring.src#SCSTR_ORIENTATION_BOTTOMTOP.string.text
 #: svxitems.src#RID_SVXITEMS_ORI_BOTTOMTOP.string.text
@@ -11521,7 +11521,7 @@ msgstr "Ní bhfuarthas an scagaire grafach"
 
 #: scstring.src#SCSTR_GRFILTER_TOOBIG.string.text
 msgid "Not enough memory available to insert graphics."
-msgstr ""
+msgstr "Ní féidir grafaic a ionsá: cuimhne ídithe"
 
 #: scstring.src#SCSTR_UNDO_GRAFFILTER.string.text
 msgid "Graphics Filter"
@@ -11593,7 +11593,7 @@ msgstr "Réamhamharc"
 
 #: scstring.src#STR_ACC_LEFTAREA_NAME.string.text
 msgid "Left area"
-msgstr ""
+msgstr "Achar ar clé"
 
 #: scstring.src#STR_ACC_CENTERAREA_NAME.string.text
 msgid "Center area"
@@ -11614,11 +11614,11 @@ msgstr "Buntásc de leathanach %1"
 #: scstring.src#STR_ACC_EDITLINE_NAME.string.text
 #: toolbox.src#SCSTR_QHELP_INPUTWND.string.text
 msgid "Input line"
-msgstr ""
+msgstr "Líne an ionchuir"
 
 #: scstring.src#STR_ACC_EDITLINE_DESCR.string.text
 msgid "This is where you enter or edit text, numbers and formulas."
-msgstr ""
+msgstr "Is í seo an áit ina n-iontrálann tú téacs, uimhreacha agus foirmlí."
 
 #: scstring.src#STR_ACC_DATAPILOT_ROW_DESCR.string.text
 msgid ""
@@ -13294,7 +13294,7 @@ msgstr "Sleamhnáin"
 
 #: PaneDockingWindow.src#FLT_RIGHT_PANE_DOCKING_WINDOW.dockingwindow.text
 msgid "Task Panel"
-msgstr ""
+msgstr "Painéal na dTascanna"
 
 #: animobjs.src#FLT_WIN_ANIMATION.BTN_FIRST.imagebutton.quickhelptext
 msgid "First Image"
@@ -13316,7 +13316,7 @@ msgstr "Seinn"
 
 #: animobjs.src#FLT_WIN_ANIMATION.BTN_LAST.imagebutton.quickhelptext
 msgid "Last Image"
-msgstr ""
+msgstr "Íomhá Is Déanaí"
 
 #: animobjs.src#FLT_WIN_ANIMATION.NUM_FLD_BITMAP.numericfield.quickhelptext
 msgid "Image Number"
@@ -13415,7 +13415,7 @@ msgstr "Cuir Réad i bhFeidhm"
 
 #: animobjs.src#FLT_WIN_ANIMATION.BTN_GET_ALL_OBJECTS.imagebutton.quickhelptext
 msgid "Apply Objects Individually"
-msgstr ""
+msgstr "Cuir Réada i bhFeidhm go hAonánach"
 
 #: animobjs.src#FLT_WIN_ANIMATION.BTN_REMOVE_BITMAP.imagebutton.quickhelptext
 msgid "Delete Current Image"
@@ -13726,7 +13726,7 @@ msgstr "~Sleamhnán"
 
 #: dlgass.src#DLG_ASS.RB_PAGE2_MEDIUM3.radiobutton.text
 msgid "O~verhead sheet"
-msgstr ""
+msgstr "Tré~shoilseán"
 
 #: dlgass.src#DLG_ASS.RB_PAGE2_MEDIUM4.radiobutton.text
 msgid "P~aper"
@@ -14051,7 +14051,7 @@ msgstr "Tréithe traschéimnithe"
 
 #: morphdlg.src#DLG_MORPH.CBX_ORIENTATION.checkbox.text
 msgid "Same orientation"
-msgstr ""
+msgstr "Treoshuíomh céanna"
 
 #: morphdlg.src#DLG_MORPH.modaldialog.text
 #: strings.src#STR_EFFECT_FADEFROM.string.text
@@ -14411,7 +14411,7 @@ msgstr "Scáthú"
 
 #: tabtempl.src#TAB_TEMPLATE.1.RID_SVXPAGE_CHAR_EFFECTS.pageitem.text
 msgid "Font Effect"
-msgstr ""
+msgstr "Maisíocht an Chló"
 
 #: tabtempl.src#TAB_TEMPLATE.1.RID_SVXPAGE_TEXTANIMATION.pageitem.text
 #: CustomAnimationDialog.src#DLG_CUSTOMANIMATION.1.RID_TP_CUSTOMANIMATION_TEXT.pageitem.text
@@ -14480,7 +14480,7 @@ msgstr "Ionadchoinneálaithe ~téacs"
 
 #: tpoption.src#TP_OPTIONS_CONTENTS.CBX_HAIRLINEMODE.checkbox.text
 msgid "~Line contour only"
-msgstr ""
+msgstr "~Comhrian amháin"
 
 #: tpoption.src#TP_OPTIONS_CONTENTS.CBX_RULER.checkbox.text
 msgid "~Rulers visible"
@@ -14488,7 +14488,7 @@ msgstr "~Rialóirí infheicthe"
 
 #: tpoption.src#TP_OPTIONS_CONTENTS.CBX_HELPLINES.checkbox.text
 msgid "~Guides when moving"
-msgstr ""
+msgstr "~Treoracha le linn bogadh"
 
 #: tpoption.src#TP_OPTIONS_CONTENTS.CBX_HANDLES_BEZIER.checkbox.text
 msgid "~All control points in Bézier editor"
@@ -14500,7 +14500,7 @@ msgstr ""
 
 #: tpoption.src#TP_OPTIONS_MISC.CBX_QUICKEDIT.checkbox.text
 msgid "Allow quick editing"
-msgstr ""
+msgstr "Ceadaigh eagarthóireacht tapa"
 
 #: tpoption.src#TP_OPTIONS_MISC.CBX_PICKTHROUGH.checkbox.text
 msgid "Only text area selectable"
@@ -14521,15 +14521,15 @@ msgstr "Úsáid taisce cúlra"
 
 #: tpoption.src#TP_OPTIONS_MISC.CBX_COPY.checkbox.text
 msgid "Copy when moving"
-msgstr ""
+msgstr "Cóipeáil le linn bogadh"
 
 #: tpoption.src#TP_OPTIONS_MISC.CBX_MARKED_HIT_MOVES_ALWAYS.checkbox.text
 msgid "Objects always moveable"
-msgstr ""
+msgstr "Is féidir réada a bhogadh i gcónaí"
 
 #: tpoption.src#TP_OPTIONS_MISC.CBX_CROOK_NO_CONTORTION.checkbox.text
 msgid "Do not distort objects in curve"
-msgstr ""
+msgstr "Ná díchum réada i gcuar"
 
 #: tpoption.src#TP_OPTIONS_MISC.FT_METRIC.fixedtext.text
 msgid "Unit of ~measurement"
@@ -14541,7 +14541,7 @@ msgstr "~Tábstopanna"
 
 #: tpoption.src#TP_OPTIONS_MISC.GRP_START_WITH_ACTUAL_PAGE.fixedline.text
 msgid "Start presentation"
-msgstr ""
+msgstr "Tosaigh an Láithreoireacht"
 
 #: tpoption.src#TP_OPTIONS_MISC.CBX_START_WITH_ACTUAL_PAGE.checkbox.text
 msgid "Always with current page"
@@ -14558,7 +14558,7 @@ msgstr ""
 
 #: tpoption.src#TP_OPTIONS_MISC.CB_MERGE_PARA_DIST.checkbox.text
 msgid "Add ~spacing between paragraphs and tables (in current document)"
-msgstr ""
+msgstr "Cuir ~spás idir ailt agus táblaí (sa cháipéis reatha)"
 
 #: tpoption.src#TP_OPTIONS_MISC.FT_EQUIVALENT.fixedtext.text
 msgid "Equivalent to"
@@ -14594,7 +14594,7 @@ msgstr "Ísliú pointe:"
 
 #: vectdlg.src#DLG_VECTORIZE.CB_FILLHOLES.checkbox.text
 msgid "~Fill holes:"
-msgstr ""
+msgstr "~Líon poill:"
 
 #: vectdlg.src#DLG_VECTORIZE.FT_FILLHOLES.fixedtext.text
 msgid "Tile size:"
@@ -14710,7 +14710,7 @@ msgstr "~Eagar"
 #: menuids2_tmpl.src#MN_COPYOBJECTS.SID_COPYOBJECTS.menuitem.text
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_CopyObjects.Label.value.text
 msgid "Duplicat~e..."
-msgstr ""
+msgstr "~Dúbláil..."
 
 #: menuids2_tmpl.src#MN_POLYGON_MORPHING.SID_POLYGON_MORPHING.menuitem.text
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_Morphing.Label.value.text
@@ -14925,7 +14925,7 @@ msgstr "Ó ~Chomhad..."
 
 #: menuids2_tmpl.src#MN_INSERT_IMAGE.SID_INSERT_IMAGE.menuitem.text
 msgid "From ~Image Editor..."
-msgstr ""
+msgstr "Ó Eagarthó~ir Íomhá..."
 
 #: menuids2_tmpl.src#MN_INSERT_INSERT_DIAGRAM.SID_INSERT_DIAGRAM.menuitem.text
 #: strings.src#STR_DIAGRAM.string.text strings.src#STR_GRAPHIC.string.text
@@ -15067,7 +15067,7 @@ msgstr ""
 #: menuids_tmpl.src#MN_POSITION.SID_POSITION.SID_BEHIND_OBJ.menuitem.text
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_BehindObject.Label.value.text
 msgid "Be~hind Object"
-msgstr ""
+msgstr "Taob~h Thiar de Réad"
 
 #: menuids2_tmpl.src#MN_REVERSE_ORDER.SID_REVERSE_ORDER.menuitem.text
 #: menuids_tmpl.src#MN_POSITION.SID_POSITION.SID_REVERSE_ORDER.menuitem.text
@@ -15110,7 +15110,7 @@ msgstr "Ardc~hodarsnacht"
 
 #: menuids2_tmpl.src#MNSUB_OUTPUT_QUALITY.MN_SUB_OUTPUT_QUALITY.menuitem.text
 msgid "~Display Quality"
-msgstr ""
+msgstr "Cáilíocht ~Taispeána"
 
 #: menuids2_tmpl.src#MNSUB_PREVIEW_OUTPUT_QUALITY.MN_SUB_PREVIEW_OUTPUT_QUALITY.menuitem.text
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Popups..uno_PreviewDisplayQualityMenu.Label.value.text
@@ -15217,16 +15217,16 @@ msgstr "~Amharc Líníochta"
 
 #: menuids_tmpl.src#MN_OUTLINEMODE.SID_OUTLINEMODE.menuitem.text
 msgid "~Outline View"
-msgstr ""
+msgstr "~Amharc Imlíneach"
 
 #: menuids_tmpl.src#MN_DIAMODE.SID_DIAMODE.menuitem.text
 msgid "~Slide Sorter"
-msgstr ""
+msgstr "~Sórtálaí Sleamhnán"
 
 #: menuids_tmpl.src#MN_PRESENTATION.SID_PRESENTATION.menuitem.text
 #: CustomAnimationPane.src#DLG_CUSTOMANIMATIONPANE.PB_SLIDE_SHOW.pushbutton.text
 msgid "Slide Sho~w"
-msgstr ""
+msgstr "~Taispeántas Sleamhnán"
 
 #: menuids_tmpl.src#MN_CAPTUREPOINT.SID_CAPTUREPOINT.menuitem.text
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_CapturePoint.Label.value.text
@@ -15235,7 +15235,7 @@ msgstr ""
 
 #: menuids_tmpl.src#MN_MODIFY_PAGE.SID_MODIFYPAGE.menuitem.text
 msgid "~Slide Layout"
-msgstr ""
+msgstr "Leagan Amach ~Sleamhnán"
 
 #: menuids_tmpl.src#MN_FORMAT_PAGE.SID_PAGESETUP.menuitem.text
 msgid "~Page Setup..."
@@ -15247,7 +15247,7 @@ msgstr "Sleamhnán ~Nua"
 
 #: menuids_tmpl.src#MN_INSERT_MASTER.SID_INSERT_MASTER_PAGE.menuitem.text
 msgid "~New Master"
-msgstr ""
+msgstr "Máistir ~Nua"
 
 #: menuids_tmpl.src#MN_INSERT_PAGE.SID_INSERTPAGE.menuitem.text
 msgid "~New Page"
@@ -15255,11 +15255,11 @@ msgstr "Leathanach ~Nua"
 
 #: menuids_tmpl.src#MN_INSERT_PAGE.MN_DISPLAY_MASTER_BACKGROUND.SID_DISPLAY_MASTER_BACKGROUND.menuitem.text
 msgid "Display Background of Master"
-msgstr ""
+msgstr "Taispeáin Cúlra an Mháistir"
 
 #: menuids_tmpl.src#MN_INSERT_PAGE.MN_DISPLAY_MASTER_BACKGROUND.MN_DISPLAY_MASTER_OBJECTS.SID_DISPLAY_MASTER_OBJECTS.menuitem.text
 msgid "Display Objects from Master"
-msgstr ""
+msgstr "Taispeáin Réada ón Mháistir"
 
 #: menuids_tmpl.src#MN_PAGE_MENU.DUMMY_3.menuitem.text
 msgid "Pag~e"
@@ -15312,14 +15312,14 @@ msgstr "~Téacs..."
 
 #: menuids_tmpl.src#MN_NEW_ROUTING.SID_CONNECTION_NEW_ROUTING.menuitem.text
 msgid "Reset ~Routing"
-msgstr ""
+msgstr "Athshocraigh ~Ródú"
 
 #: menuids_tmpl.src#MN_TRANSFORM.SID_ATTR_TRANSFORM.menuitem.text
 #: globlmn_tmpl.hrc#ITEM_FORMAT_ATTR_TRANSFORM.#define.text
 #: MenuItems_tmpl.hrc#MN_TRANSFORM.SID_ATTR_TRANSFORM.menuitem.text
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_TransformDialog.Label.value.text
 msgid "Position and Si~ze..."
-msgstr ""
+msgstr "Ionad agus ~Méid..."
 
 #: menuids_tmpl.src#MN_EDIT_POINTS.SID_BEZIER_EDIT.menuitem.text
 #: menuids_tmpl.src#MN_BEZIER.SID_BEZIER_EDIT.menuitem.text
@@ -15614,7 +15614,7 @@ msgstr "Ío~mhá"
 
 #: menuids_tmpl.src#MN_NAVIGATOR.SID_NAVIGATOR.menuitem.text
 msgid "Na~vigator"
-msgstr ""
+msgstr "~Loingseoir"
 
 #: menuids_tmpl.src#MN_GLUE_INSERT_POINT.SID_GLUE_INSERT_POINT.menuitem.text
 msgid "Insert ~Point"
@@ -15655,7 +15655,7 @@ msgstr "Greille In~fheicthe"
 #: menuids_tmpl.src#MN_GRID_USE.SID_GRID_USE.menuitem.text
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_GridUse.Label.value.text
 msgid "Snap to Grid"
-msgstr ""
+msgstr "Léim go Greille"
 
 #: menuids_tmpl.src#MN_GRID_FRONT.SID_GRID_FRONT.menuitem.text
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_GridFront.Label.value.text
@@ -15692,11 +15692,11 @@ msgstr "A~iríonna..."
 
 #: menuids_tmpl.src#MN_CONVERT_TO_1BIT_THRESHOLD.SID_CONVERT_TO_1BIT_THRESHOLD.menuitem.text
 msgid "1Bit ~Threshold"
-msgstr ""
+msgstr "~Tairseach 1-Ghiotán"
 
 #: menuids_tmpl.src#MN_CONVERT_TO_1BIT_MATRIX.SID_CONVERT_TO_1BIT_MATRIX.menuitem.text
 msgid "1 Bit ~Dithering"
-msgstr ""
+msgstr "~Díodán 1-Ghiotán"
 
 #: menuids_tmpl.src#MN_CONVERT_TO_4BIT_GRAYS.SID_CONVERT_TO_4BIT_GRAYS.menuitem.text
 msgid "4 Bit G~rayscales"
@@ -15704,7 +15704,7 @@ msgstr "Liath~scálaí 4-giotán"
 
 #: menuids_tmpl.src#MN_CONVERT_TO_4BIT_COLORS.SID_CONVERT_TO_4BIT_COLORS.menuitem.text
 msgid "4 Bit ~Color Palette"
-msgstr ""
+msgstr "Pailéad ~Dathanna 4-Ghiotán"
 
 #: menuids_tmpl.src#MN_CONVERT_TO_8BIT_GRAYS.SID_CONVERT_TO_8BIT_GRAYS.menuitem.text
 msgid "8 Bit Gr~ayscales"
@@ -15712,7 +15712,7 @@ msgstr "Liathscál~aí 8-giotán"
 
 #: menuids_tmpl.src#MN_CONVERT_TO_8BIT_COLORS.SID_CONVERT_TO_8BIT_COLORS.menuitem.text
 msgid "8 Bit C~olor Palette"
-msgstr ""
+msgstr "Pailéad Dathann~a 8-Giotán"
 
 #: menuids_tmpl.src#MN_CONVERT_TO_24BIT.SID_CONVERT_TO_24BIT.menuitem.text
 msgid "24 Bit ~True Colors"
@@ -15766,7 +15766,7 @@ msgstr "Poi~ntí"
 #: menuids_tmpl.src#MN_GLUE_EDITMODE.SID_GLUE_EDITMODE.menuitem.text
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_GlueEditMode.Label.value.text
 msgid "~Glue Points"
-msgstr ""
+msgstr "~Gliúphointí"
 
 #: menuportal_tmpl.src#SD_MENU_PORTAL.MN_SUB_TOOLBAR.menuitem.text
 #: tbxcust.src#RID_TOOLBOXCUSTOMIZE.FT_TB_TOOLBARS.fixedtext.text
@@ -15828,7 +15828,7 @@ msgstr "Grádán"
 
 #: sdstring.src#STR_DESC_GRADIENT.string.text
 msgid "Please enter a name for the new gradient:"
-msgstr ""
+msgstr "Iontráil an t-ainm ar an ghrádán nua:"
 
 #: sdstring.src#STR_DEL_GRADIENT.string.text
 #: sdstring.src#RID_SVXSTR_DEL_GRADIENT.string.text
@@ -15860,7 +15860,7 @@ msgstr "Mapa Giotáin"
 
 #: sdstring.src#STR_DESC_NEW_BITMAP.string.text
 msgid "Please enter a name for the new bitmap:"
-msgstr "Roghnaigh ainm don mhapa giotáin nua:"
+msgstr "Iontráil an t-ainm ar an mhapa giotáin nua:"
 
 #: sdstring.src#STR_DESC_EXT_BITMAP.string.text
 msgid "Please enter the name of the external bitmap:"
@@ -15890,7 +15890,7 @@ msgstr "Stíl Líne"
 #: sdstring.src#STR_DESC_LINESTYLE.string.text
 #: strings.src#STR_DESC_LINESTYLE.string.text
 msgid "Please enter a name for the new line style:"
-msgstr ""
+msgstr "Iontráil an t-ainm ar an stíl nua líne:"
 
 #: sdstring.src#STR_DEL_LINESTYLE.string.text
 #: strings.src#STR_DEL_LINESTYLE.string.text
@@ -71495,7 +71495,7 @@ msgid "The format of the selected file is not supported."
 msgstr ""
 
 #: readme.xrm#ooo_readme.Welcome.A2.a.readmeitem.text
-msgid "Last updated $Date: 2005-04-15 14:00:00 $"
+msgid "Last updated $Date: 2005-04-15 15:49:59 $"
 msgstr ""
 
 #: readme.xrm#ooo_readme.Welcome.A3.a.readmeitem.text
@@ -71669,7 +71669,8 @@ msgstr "Riachtanais Chórais:"
 
 #: readme.xrm#ooo_readme.Installation.WNT2.a.readmeitem.text
 msgid "Microsoft Windows 98, ME, NT (Service Pack 6 or higher), 2000 or XP"
-msgstr "Microsoft Windows 98, ME, NT (Service Pack 6 nó níos airde), 2000 nó XP"
+msgstr ""
+"Microsoft Windows 98, ME, NT (Service Pack 6 nó níos airde), 2000 nó XP"
 
 #: readme.xrm#ooo_readme.Installation.WNT2.utzu6.readmeitem.text
 #: readme.xrm#ooo_readme.Installation.Linuxi2.s2etfseg.readmeitem.text
@@ -71785,7 +71786,9 @@ msgstr "córas Solaris 7: 106327-11, 106300-16 (64-giotán amháin)"
 
 #: readme.xrm#ooo_readme.Installation.Sols_Patch.xch3.readmeitem.text
 msgid "for Solaris 8: 108434-04, 108773-13, 108435-04 (only 64 bit), 109147-14"
-msgstr "córas Solaris 8: 108434-04, 108773-13, 108435-04 (64-giotán amháin), 109147-14"
+msgstr ""
+"córas Solaris 8: 108434-04, 108773-13, 108435-04 (64-giotán amháin), 109147-"
+"14"
 
 #: readme.xrm#ooo_readme.Installation.Soli_Patch.bg4.readmeitem.text
 msgid "for Solaris 7: 106328-08"
