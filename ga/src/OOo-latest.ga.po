@@ -1991,7 +1991,7 @@ msgstr "Íos - "
 
 #: pivot.src#RID_SCDLG_PIVOT_LAYOUT.PIVOTSTR_PROD.string.text
 msgid "Product - "
-msgstr "Toradh - "
+msgstr "Iolrach - "
 
 #: pivot.src#RID_SCDLG_PIVOT_LAYOUT.PIVOTSTR_DEV.string.text
 msgid "StDev - "
@@ -2431,7 +2431,7 @@ msgstr "Slánuimhreacha"
 #: svxitems.src#RID_SVXITEMS_TAB_ADJUST_DECIMAL.string.text
 #: xforms.src#RID_STR_DATATYPE_DECIMAL.string.text
 msgid "Decimal"
-msgstr "Deachúil"
+msgstr "Deachúlach"
 
 #: validate.src#TP_VALIDATION_VALUES.LB_ALLOW.5.stringlist.text
 #: hfedtdlg.src#RID_HFBASE.BTN_TIME.imagebutton.quickhelptext
@@ -3889,7 +3889,7 @@ msgstr ""
 
 #: globstr.src#RID_GLOBSTR.STR_UNDO_IMPORTDATA.string.text
 msgid "Importing"
-msgstr "Ag Iompórtáil"
+msgstr "Á Iompórtáil"
 
 #: globstr.src#RID_GLOBSTR.STR_UNDO_REPEATDB.string.text
 msgid "Refresh range"
@@ -4444,7 +4444,7 @@ msgstr ""
 
 #: globstr.src#RID_GLOBSTR.STR_FUN_TEXT_STDDEV.string.text
 msgid "StDev"
-msgstr ""
+msgstr "DiallCaighd"
 
 #: globstr.src#RID_GLOBSTR.STR_FUN_TEXT_VAR.string.text
 msgid "Var"
@@ -6157,7 +6157,7 @@ msgstr "~Rónna"
 
 #: miscdlgs.src#RID_SCDLG_GROUP.STR_GROUP.string.text
 msgid "Include"
-msgstr ""
+msgstr "Cuir san áireamh"
 
 #: miscdlgs.src#RID_SCDLG_GROUP.STR_UNGROUP.string.text
 msgid "Deactivate for"
@@ -6883,7 +6883,7 @@ msgstr "Ionsáigh B~riseadh Ró"
 
 #: popup.src#RID_POPUP_PAGEBREAK.FID_INS_COLBRK.menuitem.text
 msgid "Insert ~Column Break"
-msgstr "Ionsáigh Briseadh ~Colún"
+msgstr "Ionsáigh Briseadh ~Colúin"
 
 #: popup.src#RID_POPUP_PAGEBREAK.FID_DEL_MANUALBREAKS.menuitem.text
 msgid "Delete All Manual Breaks"
@@ -9626,7 +9626,7 @@ msgstr ""
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_BINOM_DIST.4.string.text
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_KRIT_BINOM.2.string.text
 msgid "trials"
-msgstr ""
+msgstr "trialacha"
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_B.3.string.text
 msgid "The number of trials."
@@ -10807,7 +10807,7 @@ msgstr ""
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_SEARCH.6.string.text
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_REPLACE.4.string.text
 msgid "position"
-msgstr "suíomh"
+msgstr "ionad"
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_FIND.7.string.text
 msgid "The position in the text from which the search starts."
@@ -12265,7 +12265,7 @@ msgstr "Uasmhéadaigh"
 #: importwi.src#sBackButton.string.text
 #: dbwizres.src#RID_DB_COMMON_START___2.string.text
 msgid "<< ~Back"
-msgstr "<< ~Ar Ais"
+msgstr "<< ~Siar"
 
 #: formdlgs.src#RID_SCDLG_FORMULA.STR_TITLE2.string.text
 msgid "Function Wizard  -"
@@ -12613,7 +12613,7 @@ msgstr "FOIRMLE"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_ARABIC.string.text
 msgid "ARABIC"
-msgstr "ARABIC"
+msgstr "ARABACH"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_ARC_TAN_2.string.text
 msgid "ATAN2"
@@ -12842,7 +12842,7 @@ msgstr "CUMPRINC"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_EFFEKTIV.string.text
 msgid "EFFECTIVE"
-msgstr "EFFECTIVE"
+msgstr "ÉIFEACHTACH"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_NOMINAL.string.text
 #: analysis_funcnames.src#RID_ANALYSIS_FUNCTION_NAMES.ANALYSIS_FUNCNAME_Nominal.string.text
@@ -12851,7 +12851,7 @@ msgstr "NOMINAL"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_SUB_TOTAL.string.text
 msgid "SUBTOTAL"
-msgstr "SUBTOTAL"
+msgstr "FO-IOMLÁN"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_DB_SUM.string.text
 msgid "DSUM"
@@ -14341,6 +14341,7 @@ msgstr "B~róisiúr"
 msgid "Fr~ont"
 msgstr ""
 
+# not "Siar" here
 #: prntopts.src#TP_PRINT_OPTIONS.CBX_BACK.checkbox.text
 msgid "Ba~ck"
 msgstr "~Cúl"
@@ -14616,7 +14617,7 @@ msgstr "Dul chun cinn"
 
 #: vectdlg.src#DLG_VECTORIZE.modaldialog.text
 msgid "Convert to Polygon"
-msgstr "Athraigh go Polagán"
+msgstr "Tiontaigh go Polagán"
 
 #: accessibility.src#SID_SD_A11Y_D_DRAWVIEW_N.string.text
 #: accessibility.src#SID_SD_A11Y_I_DRAWVIEW_N.string.text
@@ -16360,7 +16361,7 @@ msgstr "Leath-uathoibríoch"
 #: svuidlg.src#MD_UPDATE_BASELINKS.STR_MANUALLINK.string.text
 #: optinet2.src#RID_SVXPAGE_INET_PROXY.LB_PROXYMODE.3.stringlist.text
 msgid "Manual"
-msgstr "Ag an úsáideoir"
+msgstr "De Láimh"
 
 #: strings.src#STR_BASIC_IDE.string.text
 msgid "Basic IDE"
@@ -16806,7 +16807,7 @@ msgstr "Mar Réad"
 #: iodlg.src#STR_FILTERNAME_ALL.string.text
 #: mediawindow.src#AVMEDIA_STR_ALL_FILES.string.text
 msgid "All files (*.*)"
-msgstr "Comhaid Uile (*.*)"
+msgstr "Gach comhad (*.*)"
 
 #: strings.src#STR_UNDO_INSERT_TEXTFRAME.string.text
 msgid "Insert text frame"
@@ -16832,12 +16833,12 @@ msgstr "Ionsáigh sleamhnáin ón imlíne"
 #: strings.src#STR_WRITE_DATA_ERROR.string.text
 #: sdstring.src#RID_SVXSTR_WRITE_DATA_ERROR.string.text
 msgid "The file could not be saved!"
-msgstr "Níorbh féidir an comhad a shábháil!"
+msgstr "Níorbh fhéidir an comhad a shábháil!"
 
 #: strings.src#STR_READ_DATA_ERROR.string.text
 #: sdstring.src#RID_SVXSTR_READ_DATA_ERROR.string.text
 msgid "The file could not be loaded!"
-msgstr "Níorbh féidir an comhad seo a luchtú!"
+msgstr "Níorbh fhéidir an comhad seo a luchtú!"
 
 #: strings.src#STR_SCALE_OBJECTS.string.text
 msgid ""
@@ -18361,7 +18362,7 @@ msgstr "An-mhall"
 
 #: CustomAnimation.src#STR_CUSTOMANIMATION_DURATION_VERY_FAST.string.text
 msgid "Very fast"
-msgstr "An-thapa"
+msgstr "An-tapa"
 
 #: CustomAnimation.src#STR_CUSTOMANIMATION_REPEAT_NONE.string.text
 #: svxitems.src#RID_SVXITEMS_EMPHASIS_NONE_STYLE.string.text
@@ -19147,7 +19148,7 @@ msgstr "Bog sleamhnáin"
 
 #: glob.src#STR_NOT_ENOUGH_MEMORY.string.text
 msgid "Not enough memory!\\nThe action will be aborted."
-msgstr "Cuimhne ídithe!\\nTobscorfar an gníomh."
+msgstr "Cuimhne ídithe!\\nTobscoirfear an gníomh."
 
 #: glob.src#STR_POOLSHEET_MEASURE.string.text
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_MeasureLine.Label.value.text
@@ -19228,7 +19229,7 @@ msgstr "Luchtaigh Cáipéis"
 #: app.src#STR_EVENT_SAVEDOC.string.text
 #: documentlist.src#RID_DOCUMENTS_POPUP.ID_SAVE.menuitem.text
 msgid "Save Document"
-msgstr "Sábháil Cáipéis"
+msgstr "Sábháil an Cháipéis"
 
 #: glob.src#RID_SD_ERRHDL.ERR_CODE___ERRCODE_CLASS_READ___ERR_FORMAT_FILE_ROWCOL__.string.text
 #: glob.src#RID_SD_ERRHDL.ERR_CODE___ERRCODE_CLASS_READ___WARN_FORMAT_FILE_ROWCOL__.string.text
@@ -19753,7 +19754,7 @@ msgstr "Go dtí an Réimse Ionchuir Roimhe Seo"
 #: swslots.src#FN_GOTO_PREV_MARK.sfxslotinfo.text
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_GotoPrevPlacemarker.Label.value.text
 msgid "To Previous Placeholder"
-msgstr "Go dtí an Ionadchoinneálaí Roimhe Seo"
+msgstr "Go dtí an tIonadchoinneálaí Roimhe Seo"
 
 #: swslots.src#FN_GOTO_PREV_OBJ.sfxslotinfo.text
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_GotoPrevObject.Label.value.text
@@ -20277,7 +20278,7 @@ msgstr "An Fonóta Roimhe Seo"
 #: swslots.src#FN_PREV_PARA.sfxslotinfo.text
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_GoToPrevPara.Label.value.text
 msgid "To Previous Paragraph"
-msgstr "Go dtí an Alt Roimhe Seo"
+msgstr "Go dtí an tAlt Roimhe Seo"
 
 #: swslots.src#FN_PREV_SENT.sfxslotinfo.text
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_GoToPrevSentence.Label.value.text
@@ -21161,7 +21162,7 @@ msgstr "Aird~e"
 #: labdlg.src#RID_SVXPAGE_CAPTION.FT_ANSATZ_REL.fixedtext.text
 #: tabarea.src#RID_SVXPAGE_SHADOW.FT_POSITION.fixedtext.text
 msgid "~Position"
-msgstr "~Suíomh"
+msgstr "~Ionad"
 
 #: column.src#TP_COLUMN.FL_LINETYPE.fixedline.text
 #: pgfnote.src#TP_FOOTNOTE_PAGE.FL_LINE.fixedline.text
@@ -21539,7 +21540,7 @@ msgstr "~Clár Ábhair"
 #: frmpage.src#TP_FRM_ADD.CB_PROTECT_FRAME.checkbox.text
 #: transfrm.src#RID_SVXPAGE_POSITION_SIZE.FT_ORIENT.fixedtext.text
 msgid "P~osition"
-msgstr "Suí~omh"
+msgstr "I~onad"
 
 #: frmpage.src#TP_FRM_ADD.FL_PROTECT.fixedline.text
 #: swpossizetabpage.src#RID_SVXPAGE_SWPOSSIZE.FL_PROTECTION.fixedline.text
@@ -21985,7 +21986,7 @@ msgstr "Leathanach ~Baile / r-phost"
 
 #: labfmt.src#TP_LAB_FMT.TXT_HDIST.fixedtext.text
 msgid "Hori~zontal pitch"
-msgstr "Fána ~cothrománach"
+msgstr "Fána ~chothrománach"
 
 #: labfmt.src#TP_LAB_FMT.TXT_VDIST.fixedtext.text
 msgid "~Vertical pitch"
@@ -22016,7 +22017,7 @@ msgstr "~Sábháil..."
 
 #: labfmt.src#STR_HDIST.string.text
 msgid "H. Pitch"
-msgstr "Fána C."
+msgstr "Fána Ch."
 
 #: labfmt.src#STR_VDIST.string.text
 msgid "V. Pitch"
@@ -23044,7 +23045,7 @@ msgstr ""
 
 #: mmmergepage.src#DLG_MM_MERGE_PAGE.FT_FIND.fixedtext.text
 msgid "~Search for:"
-msgstr "~Cuardaigh ar:"
+msgstr "~Déan cuardach ar:"
 
 #: mmmergepage.src#DLG_MM_MERGE_PAGE.CB_WHOLEWORDS.checkbox.text
 #: srchdlg.src#RID_SVXDLG_SEARCH.CB_WHOLE_WORDS.checkbox.text
@@ -26012,7 +26013,7 @@ msgstr ""
 
 #: utlui.src#STR_EVENT_FRM_RESIZE.string.text
 msgid "Resize frame"
-msgstr ""
+msgstr "Athraigh méid an fhráma"
 
 #: utlui.src#STR_EVENT_FRM_MOVE.string.text
 msgid "Move frame"
@@ -26574,7 +26575,7 @@ msgstr ""
 #: idxmrk.src#IDX_DIALOG_WINDOW.WIN_DLG.CB_WORDONLY.checkbox.text
 #: srchdlg.src#RID_DLG_SEARCH.CB_WHOLEWORDS.checkbox.text
 msgid "~Whole words only"
-msgstr "~Focail iomláin amháin"
+msgstr "~Focail iomlána amháin"
 
 #: idxmrk.src#DLG_NEW_USER_IDX.FL_NAME.fixedline.text
 msgid "New user index"
@@ -28131,19 +28132,19 @@ msgstr "%PRODUCTNAME 5.0 HTML"
 
 #: web.src#STR_WRITER_WEBDOC_FULLTYPE.string.text
 msgid "%PRODUCTNAME %PRODUCTVERSION HTML Document"
-msgstr ""
+msgstr "Cáipéis HTML %PRODUCTNAME %PRODUCTVERSION"
 
 #: web.src#STR_SHELLNAME_WEBTEXT.string.text
 msgid "Text/Web"
-msgstr "Téacs/Líon"
+msgstr "Téacs/Gréasán"
 
 #: web.src#STR_SHELLNAME_WEBFRAME.string.text
 msgid "Frame/Web"
-msgstr "Fráma/Líon"
+msgstr "Fráma/Gréasán"
 
 #: web.src#RID_WEBTOOLS_TOOLBOX.string.text
 msgid "Main Toolbar/Web"
-msgstr "Príomhbharra Uirlisí/Líon"
+msgstr "Príomhbharra Uirlisí/Gréasán"
 
 #: web.src#RID_WEBTEXT_TOOLBOX.string.text
 msgid "Text Object Bar/Web"
@@ -28159,7 +28160,7 @@ msgstr ""
 
 #: web.src#RID_WEBOLE_TOOLBOX.string.text
 msgid "Object/Web"
-msgstr "Réad/Líon"
+msgstr "Réad/Gréasán"
 
 #: pview.src#DLG_PAGEPREVIEW_PRINTOPTIONS.FL_ROWCOL.fixedline.text
 #: dstribut.src#RID_SVXPAGE_DISTRIBUTE.tabpage.text
@@ -30278,7 +30279,7 @@ msgstr "Greillí"
 #: datdescr.src#DLG_DATA_DESCR.FL_DESCR.fixedline.text
 #: dlg_InsertDataLabel.src#DLG_DATA_DESCR.FL_DESCR.fixedline.text
 msgid "Data labels"
-msgstr "Lipéid sonraí"
+msgstr "Lipéid shonraí"
 
 #: dgrdata.src#FLTWIN_DIAGRAM_DATA.TBX_DATA.TBI_DATA_SWAP_COL.toolboxitem.text
 msgid "Switch Columns"
@@ -32817,7 +32818,7 @@ msgstr ""
 
 #: optinet2.src#RID_SVXPAGE_INET_SECURITY.FL_SEC_MACROSEC.fixedline.text
 msgid "Macro security"
-msgstr "Slándáil macra"
+msgstr "Slándáil mhacra"
 
 #: optinet2.src#RID_SVXPAGE_INET_SECURITY.FI_SEC_MACROSEC.fixedtext.text
 msgid ""
@@ -33688,7 +33689,7 @@ msgstr "Rombais"
 
 #: svdstr.src#STR_ObjNameSingulRECTRND.string.text
 msgid "Rounded rectangle"
-msgstr "Dronuilleog cruinn"
+msgstr "Dronuilleog chruinn"
 
 #: svdstr.src#STR_ObjNamePluralRECTRND.string.text
 msgid "Rounded Rectangles"
@@ -33741,7 +33742,7 @@ msgstr "Teascóg"
 
 #: svdstr.src#STR_ObjNamePluralSECT.string.text
 msgid "Circle sectors"
-msgstr ""
+msgstr "Teascóga"
 
 #: svdstr.src#STR_ObjNamePluralCARC.string.text
 msgid "Arcs"
@@ -37762,7 +37763,7 @@ msgstr "Tamailis"
 #: charmap.src#RID_SUBSETMAP.RID_SUBSETSTR_TELUGU.string.text
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_TELUGU.pairedlist.text
 msgid "Telugu"
-msgstr "Teileagúilis"
+msgstr "Teileagúis"
 
 #: charmap.src#RID_SUBSETMAP.RID_SUBSETSTR_KANNADA.string.text
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_KANNADA.pairedlist.text
@@ -38409,11 +38410,11 @@ msgstr ""
 
 #: docrecovery.src#RID_SVXPAGE_DOCRECOVERY_SAVE.CB_SAVE_LAUNCHAUTO.checkbox.text
 msgid "Launch %PRODUCTNAME automatically"
-msgstr "Lainseáil %PRODUCTNAME go huathoibríoch"
+msgstr "Tosaigh %PRODUCTNAME go huathoibríoch"
 
 #: docrecovery.src#RID_SVX_MDLG_DOCRECOVERY_PROGR.FT_SAVEPROGR_HINT.fixedtext.text
 msgid "Documents are being saved."
-msgstr ""
+msgstr "Cáipéisí á sábháil."
 
 #: docrecovery.src#RID_SVX_MDLG_DOCRECOVERY_PROGR.FT_SAVEPROGR_PROGR.fixedtext.text
 msgid "Progress of saving: "
@@ -38451,15 +38452,15 @@ msgstr "~Ar Aghaidh >"
 
 #: docrecovery.src#RID_SVXPAGE_DOCRECOVERY_RECOVER.STR_SUCCESSRECOV.string.text
 msgid "Successfully recovered"
-msgstr ""
+msgstr "D'éirigh leis an athshlánú"
 
 #: docrecovery.src#RID_SVXPAGE_DOCRECOVERY_RECOVER.STR_ORIGDOCRECOV.string.text
 msgid "Original document recovered"
-msgstr ""
+msgstr "Athshlánaíodh an bhuncháipéis"
 
 #: docrecovery.src#RID_SVXPAGE_DOCRECOVERY_RECOVER.STR_RECOVFAILED.string.text
 msgid "Recovery failed"
-msgstr ""
+msgstr "Theip ar athshlánú"
 
 #: docrecovery.src#RID_SVXPAGE_DOCRECOVERY_RECOVER.STR_RECOVINPROGR.string.text
 msgid "Recovery in progress"
@@ -38482,7 +38483,7 @@ msgstr ""
 
 #: docrecovery.src#RID_SVX_MDLG_DOCRECOVERY_BROKEN.FT_BROKEN_SAVEDIR.fixedtext.text
 msgid "~Save to"
-msgstr ""
+msgstr "~Sábháil go"
 
 #: docrecovery.src#RID_SVX_MDLG_DOCRECOVERY_BROKEN.BTN_BROKEN_SAVEDIR.pushbutton.text
 msgid "Chan~ge..."
@@ -39534,7 +39535,7 @@ msgstr "Bulgáiris"
 
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_BELARUSIAN.pairedlist.text
 msgid "Byelorussian"
-msgstr "Bílearúisis"
+msgstr "Bealarúisis"
 
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_CATALAN.pairedlist.text
 msgid "Catalan"
@@ -39760,7 +39761,7 @@ msgstr "Caismíris (An India)"
 
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_KAZAK.pairedlist.text
 msgid "Kazak"
-msgstr "Casacstáis"
+msgstr "Casaicis"
 
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_KONKANI.pairedlist.text
 msgid "Konkani"
@@ -40076,7 +40077,7 @@ msgstr "Seipidis"
 
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_GAELIC_SCOTLAND.pairedlist.text
 msgid "Gaelic (Scotland)"
-msgstr "Gàidhlig (Albain)"
+msgstr "Gaeilge na hAlban"
 
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_USER_INTERLINGUA.pairedlist.text
 msgid "Interlingua"
@@ -40423,7 +40424,7 @@ msgstr ""
 #: macropg.src#RID_SVXSTR_EVENT_TEXTCHANGED.string.text
 #: formres.src#RID_STR_EVT_TEXTCHANGED.string.text
 msgid "Text modified"
-msgstr "Téacs athraithe"
+msgstr "Téacs mionathraithe"
 
 #: macropg.src#RID_SVXSTR_EVENT_UNLOADING.string.text
 #: formres.src#RID_STR_EVT_UNLOADING.string.text
@@ -40466,7 +40467,7 @@ msgstr ""
 
 #: measure.src#RID_SVXPAGE_MEASURE.FT_POSITION.fixedtext.text
 msgid "~Text position"
-msgstr "Suíomh an Téacs"
+msgstr "Ionad an ~téacs"
 
 #: measure.src#RID_SVXPAGE_MEASURE.TSB_AUTOPOSV.tristatebox.text
 msgid "~AutoVertical"
@@ -40901,7 +40902,7 @@ msgstr "~Comhéadan Úsáideora"
 
 #: optgdlg.src#OFA_TP_LANGUAGES.FT_LOCALESETTING.fixedtext.text
 msgid "Locale setting"
-msgstr "Socrú réigiúnda"
+msgstr "Socrú réigiúnach"
 
 #: optgdlg.src#OFA_TP_LANGUAGES.FT_DECIMALSEPARATOR.fixedtext.text
 msgid "Decimal separator key"
@@ -43241,7 +43242,7 @@ msgstr ""
 
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SB_STARBASEOPTIONS.2.itemlist.text
 msgid "Connections"
-msgstr "Ceangail"
+msgstr "Naisc"
 
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SB_STARBASEOPTIONS.3.itemlist.text
 msgid "Databases"
@@ -44685,7 +44686,7 @@ msgstr " (léamh amháin)"
 
 #: gallery.src#RID_SVXSTR_GALLERY_ALLFILES.string.text
 msgid "<All Files>"
-msgstr "<Comhaid Uile>"
+msgstr "<Gach Comhad>"
 
 #: gallery.src#RID_SVXSTR_GALLERY_DIALOGID.string.text
 msgid "Assign ID"
@@ -45547,7 +45548,7 @@ msgstr "S~coir"
 
 #: globlmn_tmpl.hrc#ITEM_FILE_LOGOUT.#define.text
 msgid "Logout"
-msgstr "Logáil As"
+msgstr "Logáil Amach"
 
 #: globlmn_tmpl.hrc#ITEM_FILE_BACKTOWEBTOP.#define.text
 msgid "Back to Webtop"
@@ -46493,7 +46494,7 @@ msgstr ""
 
 #: query.src#STR_QUERY_UNDO_TABFIELDMOVED.string.text
 msgid "Move column"
-msgstr ""
+msgstr "Bog colún"
 
 #: query.src#STR_QUERY_UNDO_TABFIELDCREATE.string.text
 msgid "Add Column"
@@ -46549,7 +46550,7 @@ msgstr "Ainm Tábla"
 #: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBViewAliases.Label.value.text
 #: dbwizres.src#RID_DB_QUERY_WIZARD_START___20.string.text
 msgid "Alias"
-msgstr "Leasainm"
+msgstr "Ailias"
 
 #: query.src#RID_QUERYFUNCTION_POPUPMENU.ID_QUERY_DISTINCT.menuitem.text
 #: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBDistinctValues.Label.value.text
@@ -46974,7 +46975,7 @@ msgstr ""
 
 #: ConnectionPage.src#STR_MSACCESS_FILTERNAME.string.text
 msgid "MS Access file"
-msgstr "Comhad MS Access"
+msgstr "Comhad Microsoft Access"
 
 #: RelationDlg.src#DLG_REL_PROPERTIES.FL_CASC_UPD.fixedline.text
 msgid "Update options"
@@ -47067,7 +47068,7 @@ msgstr ""
 #: adtabdlg.src#DLG_JOIN_TABADD.FT_TABLE.fixedtext.text
 #: dbwizres.src#RID_DB_COMMON_START___5.string.text
 msgid "~Table name"
-msgstr "Ainm ar an d~tábla"
+msgstr "Ainm ar an ~tábla"
 
 #: adtabdlg.src#DLG_JOIN_TABADD.STR_DEFAULT.string.text
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__142.string.text
@@ -50113,7 +50114,7 @@ msgstr "Oideachas"
 
 #: doctempl.src#TEMPLATE_LONG_NAMES_ARY.8.itemlist.text
 msgid "Presentation Backgrounds"
-msgstr "Cúlraí Léiriúcháin"
+msgstr "Cúlraí Láithreoireachta"
 
 #: doctempl.src#TEMPLATE_LONG_NAMES_ARY.9.itemlist.text
 #: UI.xcu#..UI.FilterClassification.GlobalFilters.Classes.com.sun.star.presentation.PresentationDocument.DisplayName.value.text
@@ -51937,16 +51938,16 @@ msgstr ""
 
 #: explorer.src#STR_SFX_WORD_DOC.string.text
 msgid "MS Word Document"
-msgstr "Cáipéis MS Word"
+msgstr "Cáipéis Microsoft Word"
 
 #: explorer.src#STR_SFX_EXCEL_DOC.string.text
 msgid "MS Excel Document"
-msgstr "Cáipéis MS Excel"
+msgstr "Cáipéis Microsoft Excel"
 
 #: explorer.src#STR_SFX_EXCEL_TEMPLATE_DOC.string.text
 #: mediatyp.src#STR_SVT_MIMETYPE_APP_MSEXCEL_TEMPL.string.text
 msgid "MS Excel Template"
-msgstr "Teimpléad MS Excel"
+msgstr "Teimpléad Microsoft Excel"
 
 #: explorer.src#STR_SFX_SOFFICE_TEMPLATE_DOC.string.text
 #: mediatyp.src#STR_SVT_MIMETYPE_APP_TEMPLATE.string.text
@@ -55748,7 +55749,7 @@ msgstr "DIOSCA"
 
 #: analysis_funcnames.src#RID_ANALYSIS_FUNCTION_NAMES.ANALYSIS_FUNCNAME_Effect.string.text
 msgid "EFFECT"
-msgstr "EFFECT"
+msgstr "ÉIFEACHT"
 
 #: analysis_funcnames.src#RID_ANALYSIS_FUNCTION_NAMES.ANALYSIS_FUNCNAME_Price.string.text
 msgid "PRICE"
@@ -56431,7 +56432,7 @@ msgstr "~Teideal..."
 #: MainMenu.src#RID_MENU.WORKAROUND_22.SID_INSERT_DESCRIPTION.menuitem.text
 #: ChartCommands.xcu#..ChartCommands.UserInterface.Commands..uno_InsertDescription.Label.value.text
 msgid "~Data Labels..."
-msgstr "Lipéi~d Sonraí..."
+msgstr "Lipéi~d Shonraí..."
 
 #: MainMenu.src#RID_MENU.WORKAROUND_22.SID_INSERT_AXIS.menuitem.text
 #: ChartCommands.xcu#..ChartCommands.UserInterface.Commands..uno_InsertAxis.Label.value.text
@@ -57167,7 +57168,7 @@ msgstr ""
 
 #: imagemgr.src#STR_DESCRIPTION_WORD_DOC.string.text
 msgid "MS Word document"
-msgstr "Cáipéis MS Word"
+msgstr "Cáipéis Microsoft Word"
 
 #: imagemgr.src#STR_DESCRIPTION_SDATABASE_DOC.string.text
 msgid "%STAROFFICE Database"
@@ -57188,11 +57189,11 @@ msgstr "Teimpléad %STAROFFICE 3.0 - 5.0"
 #: imagemgr.src#STR_DESCRIPTION_EXCEL_DOC.string.text
 #: mediatyp.src#STR_SVT_MIMETYPE_APP_MSEXCEL.string.text
 msgid "MS Excel document"
-msgstr "Cáipéis MS Excel"
+msgstr "Cáipéis Microsoft Excel"
 
 #: imagemgr.src#STR_DESCRIPTION_EXCEL_TEMPLATE_DOC.string.text
 msgid "MS Excel template"
-msgstr "Teimpléad MS Excel"
+msgstr "Teimpléad Microsoft Excel"
 
 #: imagemgr.src#STR_DESCRIPTION_CALC_TEMPLATE.string.text
 msgid "%PRODUCTNAME %PRODUCTXMLFILEFORMATVERSION Spreadsheet Template"
@@ -57236,11 +57237,11 @@ msgstr "Cáipéis Microsoft PowerPoint"
 
 #: imagemgr.src#STR_DESCRIPTION_POWERPOINT_TEMPLATE.string.text
 msgid "MS PowerPoint Template"
-msgstr "Teimpléad MS PowerPoint"
+msgstr "Teimpléad Microsoft PowerPoint"
 
 #: imagemgr.src#STR_DESCRIPTION_POWERPOINT_SHOW.string.text
 msgid "MS PowerPoint Show"
-msgstr "Seó MS PowerPoint"
+msgstr "Seó Microsoft PowerPoint"
 
 #: imagemgr.src#STR_DESCRIPTION_SXMATH_DOC.string.text
 #: mediatyp.src#STR_SVT_MIMETYPE_APP_SXMATH.string.text
@@ -57302,7 +57303,7 @@ msgstr "Comhad RTF"
 
 #: mediatyp.src#STR_SVT_MIMETYPE_APP_MSWORD.string.text
 msgid "MS-Word document"
-msgstr "Cáipéis MS-Word"
+msgstr "Cáipéis Microsoft-Word"
 
 #: mediatyp.src#STR_SVT_MIMETYPE_APP_STARIMAGE.string.text
 msgid "%PRODUCTNAME Image"
@@ -57480,7 +57481,7 @@ msgstr ""
 
 #: mediatyp.src#STR_SVT_MIMETYPE_APP_MSPPOINT.string.text
 msgid "MS PowerPoint document"
-msgstr "Cáipéis MS PowerPoint"
+msgstr "Cáipéis Microsoft PowerPoint"
 
 #: mediatyp.src#STR_SVT_MIMETYPE_TEXT_VCALENDAR.string.text
 msgid "vCalendar-file"
@@ -61584,7 +61585,7 @@ msgstr ""
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_HelpIndex.Label.value.text
 #: StartModuleCommands.xcu#..StartModuleCommands.UserInterface.Commands..uno_HelpIndex.Label.value.text
 msgid "%PRODUCTNAME ~Help"
-msgstr "Cab~hair %PRODUCTNAME"
+msgstr "Cab~hair le %PRODUCTNAME"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_FontHeight.Label.value.text
 msgid "Font Size"
@@ -61845,7 +61846,7 @@ msgstr "Cnaipe URL"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_ModifiedStatus.Label.value.text
 msgid "Document Modified"
-msgstr "Cáipéis Athraithe"
+msgstr "Athraíodh an Cháipéis"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_TestMode.Label.value.text
 msgid "Test Mode On/Off"
@@ -62536,7 +62537,7 @@ msgstr "Athraigh an ~Cás"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Popups..uno_ArrangeMenu.Label.value.text
 msgid "A~rrange"
-msgstr "Soc~raigh"
+msgstr "~Réitigh"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Popups..uno_AnchorMenu.Label.value.text
 msgid "A~nchor"
@@ -66335,11 +66336,11 @@ msgstr ""
 
 #: padialog.src#RID_TXT_FONT_ULTRABOLD.string.text
 msgid "Ultrabold"
-msgstr ""
+msgstr "Ultratrom"
 
 #: padialog.src#RID_TXT_FONT_ULTRACONDENSED.string.text
 msgid "Ultracondensed"
-msgstr "Ultrachomhdhlúite"
+msgstr "Ultra-chomhdhlúite"
 
 #: padialog.src#RID_TXT_FONT_EXTRACONDENSED.string.text
 msgid "Extracondensed"
@@ -67268,7 +67269,7 @@ msgstr "Cló Iodálach"
 
 #: smres.src#RID_TOOLBOXWINDOW.6.RID_SIZEXY.toolboxitem.text
 msgid "Resize"
-msgstr "Athmhéadaigh"
+msgstr "Athraigh an méid"
 
 #: smres.src#RID_TOOLBOXWINDOW.7.RID_LRPARENTX.toolboxitem.text
 msgid "Round Brackets"
@@ -67477,7 +67478,7 @@ msgstr ""
 
 #: smres.src#RID_ALLFILESSTR.string.text
 msgid "All Files (*.*)"
-msgstr "Comhaid Uile (*.*)"
+msgstr "Gach Comhad (*.*)"
 
 #: smres.src#RID_ERR_IDENT.string.text
 msgid "ERROR : "
@@ -68635,15 +68636,15 @@ msgstr "Anailísigh ordú SQL"
 
 #: formres.src#RID_STR_POSITIONX.string.text
 msgid "PositionX"
-msgstr "SuíomhX"
+msgstr "IonadX"
 
 #: formres.src#RID_STR_POSITIONY.string.text
 msgid "PositionY"
-msgstr "SuíomhY"
+msgstr "IonadY"
 
 #: formres.src#RID_STR_STEP.string.text
 msgid "Page (step)"
-msgstr ""
+msgstr "Leathanach (céim)"
 
 #: formres.src#RID_STR_PROGRESSVALUE.string.text
 msgid "Progress value"
@@ -70141,11 +70142,11 @@ msgstr ""
 
 #: Control.ulf#OOO_CONTROL_195.LngText.text
 msgid "Launch the program"
-msgstr "Lainseáil an clár"
+msgstr "Tosaigh an clár"
 
 #: Control.ulf#OOO_CONTROL_196.LngText.text
 msgid "Show the readme file"
-msgstr ""
+msgstr "Taispeáin an comhad LÉIGHMÉ"
 
 #: Control.ulf#OOO_CONTROL_199.LngText.text
 msgid ""
@@ -70768,7 +70769,7 @@ msgstr "Theip ar shuiteáil."
 
 #: Error.ulf#OOO_ERROR_84.LngText.text
 msgid "Product: [2] -- [3]"
-msgstr ""
+msgstr "Táirge: [2] -- [3]"
 
 #: Error.ulf#OOO_ERROR_85.LngText.text
 msgid ""
@@ -71503,7 +71504,7 @@ msgid "The format of the selected file is not supported."
 msgstr ""
 
 #: readme.xrm#ooo_readme.Welcome.A2.a.readmeitem.text
-msgid "Last updated $Date: 2005-04-15 17:32:21 $"
+msgid "Last updated $Date: 2005-04-15 19:14:25 $"
 msgstr ""
 
 #: readme.xrm#ooo_readme.Welcome.A3.a.readmeitem.text
@@ -73638,7 +73639,7 @@ msgstr ""
 
 #: dbwizres.src#RID_DB_QUERY_WIZARD_START___86.string.text
 msgid "Aliases"
-msgstr "Leasainmneacha"
+msgstr "Ailiasanna"
 
 #: dbwizres.src#RID_DB_QUERY_WIZARD_START___88.string.text
 msgid ""
