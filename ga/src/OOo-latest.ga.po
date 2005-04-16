@@ -25993,7 +25993,7 @@ msgstr ""
 
 #: utlui.src#STR_EVENT_IMAGE_LOAD.string.text
 msgid "Graphics load successful"
-msgstr ""
+msgstr "D'éirigh leis an luchtú grafaice"
 
 #: utlui.src#STR_EVENT_IMAGE_ABORT.string.text
 msgid "Graphics load terminated"
@@ -26001,7 +26001,7 @@ msgstr ""
 
 #: utlui.src#STR_EVENT_IMAGE_ERROR.string.text
 msgid "Graphics load faulty"
-msgstr ""
+msgstr "Luchtú fabhtach grafaice"
 
 #: utlui.src#STR_EVENT_FRM_KEYINPUT_A.string.text
 msgid "Input of alphanumeric characters"
@@ -26059,7 +26059,7 @@ msgstr "Tagairtí"
 
 #: utlui.src#STR_CONTENT_TYPE_DRAWOBJECT.string.text
 msgid "Draw objects"
-msgstr ""
+msgstr "Réada líníochta"
 
 #: utlui.src#STR_CONTENT_TYPE_SINGLE_BOOKMARK.string.text
 #: workctrl.src#RID_SCROLL_NAVIGATION_WIN.ST_BKM.string.text
@@ -26069,7 +26069,7 @@ msgstr "Leabharmharc"
 
 #: utlui.src#STR_CONTENT_TYPE_SINGLE_DRAWOBJECT.string.text
 msgid "Draw object"
-msgstr ""
+msgstr "Réad líníochta"
 
 #: utlui.src#STR_DEFINE_NUMBERFORMAT.string.text
 msgid "Additional formats..."
@@ -26081,11 +26081,11 @@ msgstr "[Córas]"
 
 #: utlui.src#STR_MULT_INTERACT_SPELL_WARN.string.text
 msgid "The interactive spellcheck is already active\\nin a different document"
-msgstr ""
+msgstr "Is beo é an seiceálaí litrithe idirghníomhach\\ni gcáipéis difriúil"
 
 #: utlui.src#STR_MULT_INTERACT_HYPH_WARN.string.text
 msgid "The interactive hyphenation is already active\\nin a different document"
-msgstr ""
+msgstr "Is beo é an fleiscíniú idirghníomhach\\ni gcáipéis difriúil"
 
 #: utlui.src#STR_HYPERCTRL_SEL.string.text
 msgid "SEL"
@@ -26101,7 +26101,7 @@ msgstr "Leibhéal "
 
 #: cnttab.src#STR_FILE_NOT_FOUND.string.text
 msgid "The file, \"%1\" in the \"%2\" path could not be found."
-msgstr ""
+msgstr "Comhad \"%1\" gan aimsiú sa chonair \"%2\"."
 
 #: cnttab.src#DLG_MULTI_TOX.1.TP_TOX_SELECT.pageitem.text
 msgid "Index/Table"
@@ -26135,7 +26135,7 @@ msgstr "Cineál agus teideal"
 
 #: cnttab.src#TP_TOX_SELECT.CB_READONLY.checkbox.text
 msgid "Protected against manual changes"
-msgstr ""
+msgstr "Cosanta ar athruithe láimhe"
 
 #: cnttab.src#TP_TOX_SELECT.FL_AREA.fixedline.text
 msgid "Create index/table"
@@ -26147,7 +26147,7 @@ msgstr "do"
 
 #: cnttab.src#TP_TOX_SELECT.LB_AREA.1.stringlist.text
 msgid "Entire document"
-msgstr ""
+msgstr "Cáipéis iomlán"
 
 #: cnttab.src#TP_TOX_SELECT.FT_LEVEL.fixedtext.text
 msgid "Evaluate up to level"
@@ -26163,7 +26163,7 @@ msgstr "Stíleann~a Breise"
 
 #: cnttab.src#TP_TOX_SELECT.CB_TOXMARKS.checkbox.text
 msgid "Inde~x marks"
-msgstr ""
+msgstr "Marcanna innéa~cs"
 
 #: cnttab.src#TP_TOX_SELECT.RB_FROMCAPTIONS.radiobutton.text
 msgid "Captions"
@@ -26181,19 +26181,19 @@ msgstr ""
 
 #: cnttab.src#TP_TOX_SELECT.RB_FROMOBJECTNAMES.radiobutton.text
 msgid "Object names"
-msgstr ""
+msgstr "Ainmneacha réada"
 
 #: cnttab.src#TP_TOX_SELECT.CB_COLLECTSAME.checkbox.text
 msgid "Combine identical entries"
-msgstr ""
+msgstr "Comhshnaidhm iontrálacha ionanna"
 
 #: cnttab.src#TP_TOX_SELECT.CB_USEFF.checkbox.text
 msgid "Combine identical entries with p or ~pp"
-msgstr ""
+msgstr "Comhshnaidhm iontrálacha ionanna le p nó ~pp"
 
 #: cnttab.src#TP_TOX_SELECT.CB_USE_DASH.checkbox.text
 msgid "Combine with -"
-msgstr ""
+msgstr "Comhshnaidhm le -"
 
 #: cnttab.src#TP_TOX_SELECT.CB_CASESENSITIVE.checkbox.text
 msgid "Case sensitive"
@@ -26201,11 +26201,11 @@ msgstr "Cásíogair"
 
 #: cnttab.src#TP_TOX_SELECT.CB_INITIALCAPS.checkbox.text
 msgid "AutoCapitalize entries"
-msgstr ""
+msgstr "Scríobh le ceannlitreacha go huathoibríoch"
 
 #: cnttab.src#TP_TOX_SELECT.CB_KEYASENTRY.checkbox.text
 msgid "Keys as separate entries"
-msgstr ""
+msgstr "Eochracha mar iontrálacha faoi leith"
 
 #: cnttab.src#TP_TOX_SELECT.CB_FROMFILE.checkbox.text
 msgid "~Concordance file"
@@ -26233,7 +26233,7 @@ msgstr "~Comhad"
 
 #: cnttab.src#TP_TOX_SELECT.CB_FROMFRAMES.checkbox.text
 msgid "Te~xt frames"
-msgstr ""
+msgstr "Frámaí téa~cs"
 
 #: cnttab.src#TP_TOX_SELECT.CB_LEVELFROMCHAPTER.checkbox.text
 msgid "Use level from source chapter"
@@ -26258,11 +26258,11 @@ msgstr "%PRODUCTNAME Draw/%PRODUCTNAME Impress"
 
 #: cnttab.src#TP_TOX_SELECT.FL_FROMOBJ.fixedline.text
 msgid "Create from the following objects"
-msgstr ""
+msgstr "Cruthaigh as an réada a leanas"
 
 #: cnttab.src#TP_TOX_SELECT.CB_SEQUENCE.checkbox.text
 msgid "~Number entries"
-msgstr ""
+msgstr "Io~ntrálacha uimhreach"
 
 #: cnttab.src#TP_TOX_SELECT.FT_BRACKET.fixedtext.text
 #: commands.src#RID_COMMANDMENU.RID_BRACKETS_MENU.menuitem.text
@@ -26275,7 +26275,7 @@ msgstr "[neamhní]"
 
 #: cnttab.src#FL_AUTHORITY.fixedline.text
 msgid "Formatting of the entries"
-msgstr ""
+msgstr "Formáidiú na n-iontrálacha"
 
 #: cnttab.src#ST_AUTOMARK_TYPE.string.text
 msgid "Selection file for the alphabetical index (*.sdi)"
@@ -26344,15 +26344,15 @@ msgstr ""
 
 #: cnttab.src#TP_TOX_ENTRY.WIN_TOKEN.STR_TOKEN_HELP_LINK_START.string.text
 msgid "Hyperlink start"
-msgstr ""
+msgstr "Tosach an hipearnaisc"
 
 #: cnttab.src#TP_TOX_ENTRY.WIN_TOKEN.STR_TOKEN_HELP_LINK_END.string.text
 msgid "Hyperlink end"
-msgstr ""
+msgstr "Deireadh an hipearnaisc"
 
 #: cnttab.src#TP_TOX_ENTRY.WIN_TOKEN.STR_TOKEN_HELP_AUTHORITY.string.text
 msgid "Bibliography entry: "
-msgstr ""
+msgstr "Iontráil bhibleagrafaíochta: "
 
 #: cnttab.src#TP_TOX_ENTRY.WIN_TOKEN.STR_CHARSTYLE.string.text
 msgid "Character Style: "
@@ -26364,7 +26364,7 @@ msgstr ""
 
 #: cnttab.src#TP_TOX_ENTRY.PB_ENTRY.pushbutton.text
 msgid "Entry text"
-msgstr ""
+msgstr "Téacs na hiontrála"
 
 #: cnttab.src#TP_TOX_ENTRY.PB_CHAPTERINFO.pushbutton.text
 msgid "~Chapter info"
@@ -26382,7 +26382,7 @@ msgstr "~Hipearnasc"
 #: cnttab.src#TP_TOX_ENTRY.FT_FILLCHAR.fixedtext.text
 #: tabstpge.src#RID_SVXPAGE_TABULATOR.FL_FILLCHAR.fixedline.text
 msgid "Fill character"
-msgstr ""
+msgstr "Carachtar líonta"
 
 #: cnttab.src#TP_TOX_ENTRY.FT_CHAPTERENTRY.fixedtext.text
 msgid "Chapter entry"
@@ -26390,7 +26390,7 @@ msgstr ""
 
 #: cnttab.src#TP_TOX_ENTRY.LB_CHAPTERENTRY.1.stringlist.text
 msgid "Number range only"
-msgstr ""
+msgstr "Raon uimhreach amháin"
 
 #: cnttab.src#TP_TOX_ENTRY.LB_CHAPTERENTRY.2.stringlist.text
 msgid "Description only"
@@ -26487,11 +26487,11 @@ msgstr ""
 
 #: cnttab.src#DLG_CREATE_AUTOMARK.BB_ENTRIES.ST_SEARCH.string.text
 msgid "Search term"
-msgstr ""
+msgstr "Téarma cuardaigh"
 
 #: cnttab.src#DLG_CREATE_AUTOMARK.BB_ENTRIES.ST_ALTERNATIVE.string.text
 msgid "Alternative entry"
-msgstr ""
+msgstr "Iontráil mhalartach"
 
 #: cnttab.src#DLG_CREATE_AUTOMARK.BB_ENTRIES.ST_PRIMKEY.string.text
 msgid "1st key"
@@ -26517,7 +26517,7 @@ msgstr "Cuir Comhad Comhchordachta in Eagar"
 
 #: idxmrk.src#IDX_PHONETIC_LISTBOX_DESCRIPTION.#define.text
 msgid "Phonetic reading"
-msgstr ""
+msgstr "Léamh foghrach"
 
 #: idxmrk.src#IDX_DIALOG_WINDOW.WIN_DLG.BT_CANCEL.cancelbutton.text
 #: idxmrk.src#AUTH_DIALOG_WINDOW.WIN_DLG.PB_CANCEL.cancelbutton.text
@@ -26550,7 +26550,7 @@ msgstr "Dún"
 
 #: idxmrk.src#IDX_DIALOG_WINDOW.WIN_DLG.BT_NEW.imagebutton.quickhelptext
 msgid "New User-defined Index"
-msgstr ""
+msgstr "Innéacs Nua Saincheaptha"
 
 #: idxmrk.src#IDX_DIALOG_WINDOW.WIN_DLG.LBL_ENTRY.fixedtext.text
 msgid "~Entry"
@@ -26570,7 +26570,7 @@ msgstr "Prío~mhiontráil"
 
 #: idxmrk.src#IDX_DIALOG_WINDOW.WIN_DLG.CB_APPLY_TO_ALL.checkbox.text
 msgid "~Apply to all similar texts."
-msgstr ""
+msgstr "Cuir i bhfeidhm ~ar gach téacs cosúil le seo."
 
 #: idxmrk.src#IDX_DIALOG_WINDOW.WIN_DLG.CB_WORDONLY.checkbox.text
 #: srchdlg.src#RID_DLG_SEARCH.CB_WHOLEWORDS.checkbox.text
@@ -26579,19 +26579,19 @@ msgstr "~Focail iomlána amháin"
 
 #: idxmrk.src#DLG_NEW_USER_IDX.FL_NAME.fixedline.text
 msgid "New user index"
-msgstr ""
+msgstr "Innéacs nua úsáideora"
 
 #: idxmrk.src#DLG_NEW_USER_IDX.modaldialog.text
 msgid "Create New User-defined Index"
-msgstr ""
+msgstr "Cruthaigh Innéacs Nua Saincheaptha"
 
 #: idxmrk.src#STR_IDXMRK_EDIT.string.text
 msgid "Edit Index Entry"
-msgstr ""
+msgstr "Cuir Iontráil Innéacs in Eagar"
 
 #: idxmrk.src#STR_IDXMRK_INSERT.string.text
 msgid "Insert Index Entry"
-msgstr ""
+msgstr "Ionsáigh Iontráil Innéacs"
 
 #: idxmrk.src#AUTH_DIALOG_WINDOW.WIN_DLG.RB_FROMCOMPONENT.radiobutton.text
 msgid "From bibliography ~database"
@@ -26607,11 +26607,11 @@ msgstr "Ai~nm gearr"
 
 #: idxmrk.src#DLG_CREATE_AUTH_ENTRY.FL_ENTRIES.fixedline.text
 msgid "Entry data"
-msgstr ""
+msgstr "Sonraí na hiontrála"
 
 #: idxmrk.src#DLG_CREATE_AUTH_ENTRY.modaldialog.text
 msgid "Define Bibliography Entry"
-msgstr ""
+msgstr "Sonraigh Iontráil Bhibleagrafaíochta"
 
 #: idxmrk.src#DLG_CHANGE_AUTH_ENTRY.querybox.text
 msgid ""
@@ -26621,7 +26621,7 @@ msgstr ""
 
 #: multmrk.src#DLG_MULTMRK.modaldialog.text
 msgid "Index Markings"
-msgstr ""
+msgstr "Marcálacha Innéacs"
 
 #: wrtsh.src#STR_DDEERROR_APP1.string.text
 msgid "Application ["
@@ -26629,7 +26629,7 @@ msgstr "Feidhmchlár ["
 
 #: wrtsh.src#STR_DDEERROR_APP2.string.text
 msgid "] is not responding."
-msgstr ""
+msgstr "] gan freagairt."
 
 #: wrtsh.src#STR_DDEERROR_DATA1.string.text
 msgid "Data for ["
@@ -26653,7 +26653,7 @@ msgstr ""
 
 #: docfnote.src#DLG_DOC_FOOTNOTE.tabdialog.text
 msgid "Footnote Settings"
-msgstr ""
+msgstr "Socruithe Fonóta"
 
 #: docfnote.src#TP_FOOTNOTEOPTION.FL_NUM.fixedline.text
 #: docfnote.src#TP_ENDNOTEOPTION.FL_NUM.fixedline.text
@@ -26670,15 +26670,15 @@ msgstr "Ái~reamh"
 
 #: docfnote.src#TP_FOOTNOTEOPTION.LB_NUMCOUNT.1.stringlist.text
 msgid "Per page"
-msgstr ""
+msgstr "Sa leathanach"
 
 #: docfnote.src#TP_FOOTNOTEOPTION.LB_NUMCOUNT.2.stringlist.text
 msgid "Per chapter"
-msgstr ""
+msgstr "Sa chaibidil"
 
 #: docfnote.src#TP_FOOTNOTEOPTION.LB_NUMCOUNT.3.stringlist.text
 msgid "Per document"
-msgstr ""
+msgstr "Sa cháipéis"
 
 #: docfnote.src#TP_FOOTNOTEOPTION.FT_SUFFIX.fixedtext.text
 #: docfnote.src#FT_SUFFIX.fixedtext.text
@@ -26716,12 +26716,12 @@ msgstr "Limistéar téa~cs"
 
 #: docfnote.src#TP_FOOTNOTEOPTION.FT_TEXT_CHARFMT.fixedtext.text
 msgid "~Footnote area"
-msgstr ""
+msgstr "Achar ~fonóta"
 
 #: docfnote.src#TP_FOOTNOTEOPTION.FL_CONT.fixedline.text
 #: docfnote.src#FL_CONT.fixedline.text
 msgid "Continuation notice"
-msgstr ""
+msgstr "Fógra leanúna"
 
 #: docfnote.src#TP_FOOTNOTEOPTION.FT_CONT.fixedtext.text
 msgid "End ~of footnote"
@@ -26729,7 +26729,7 @@ msgstr ""
 
 #: docfnote.src#TP_FOOTNOTEOPTION.FT_CONT_FROM.fixedtext.text
 msgid "Star~t of next page"
-msgstr ""
+msgstr "~Tosach an chéad leathanaigh eile"
 
 #: docfnote.src#RB_POS_PAGE.radiobutton.text
 msgid "End ~of page"
@@ -26741,11 +26741,11 @@ msgstr "~Deireadh na cáipéise"
 
 #: docfnote.src#FT_TEXT_CHARFMT.fixedtext.text
 msgid "~Endnote area"
-msgstr ""
+msgstr "Achar ~iarnóta"
 
 #: docfnote.src#FT_CONT.fixedtext.text
 msgid "~Following page"
-msgstr ""
+msgstr "Leathanach ~seo chugainn"
 
 #: glosbib.src#DLG_BIB_BASE.FT_SELECT.fixedtext.text
 msgid "Selection list"
@@ -26753,7 +26753,7 @@ msgstr ""
 
 #: glosbib.src#DLG_BIB_BASE.modaldialog.text
 msgid "Edit Categories"
-msgstr ""
+msgstr "Cuir Catagóirí in Eagar"
 
 #: glossary.src#DLG_GLOSSARY.CB_INSERT_TIP.checkbox.text
 msgid "~Display remainder of name as suggestion while typing"
@@ -26845,6 +26845,7 @@ msgstr "UathThéacs"
 #: glossary.src#MSG_DOUBLE_SHORTNAME.infobox.text
 msgid "Shortcut name already exists. Please choose another name."
 msgstr ""
+"Tá aicearra ann leis an ainm seo cheana. Roghnaigh ainm eile, le do thoil."
 
 #: glossary.src#MSG_QUERY_DELETE.querybox.text
 msgid "Delete AutoText?"
@@ -26852,7 +26853,7 @@ msgstr "Scrios UathThéacs?"
 
 #: glossary.src#STR_QUERY_DELETE_GROUP1.string.text
 msgid "Delete the category "
-msgstr ""
+msgstr "Scrios an chatagóir "
 
 #: glossary.src#STR_QUERY_DELETE_GROUP2.string.text
 msgid "?"
@@ -26932,11 +26933,11 @@ msgstr "Línte bána"
 
 #: linenum.src#TP_LINENUMBERING.CB_COUNT_FRAMELINES.checkbox.text
 msgid "Lines in text frames"
-msgstr ""
+msgstr "Línte i bhfrámaí téacs"
 
 #: linenum.src#TP_LINENUMBERING.CB_RESTART_PAGE.checkbox.text
 msgid "~Restart every new page"
-msgstr ""
+msgstr "~Atosaigh le gach leathanach nua"
 
 #: linenum.src#TP_LINENUMBERING.tabpage.text
 msgid "Line Numbering"
@@ -26979,7 +26980,7 @@ msgstr "A, B, C, ..."
 #: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_FMT.3.stringlist.text
 #: page.src#RID_SVXPAGE_PAGE.LB_NUMBER_FORMAT.2.stringlist.text
 msgid "a, b, c, ..."
-msgstr ""
+msgstr "a, b, c, ..."
 
 #: numberingtypelistbox.src#STRRES_NUMTYPES.1.4.itemlist.text
 #: page.src#RID_SVXPAGE_PAGE.LB_NUMBER_FORMAT.3.stringlist.text
@@ -26989,7 +26990,7 @@ msgstr "I, II, III, ..."
 #: numberingtypelistbox.src#STRRES_NUMTYPES.1.5.itemlist.text
 #: page.src#RID_SVXPAGE_PAGE.LB_NUMBER_FORMAT.4.stringlist.text
 msgid "i, ii, iii, ..."
-msgstr ""
+msgstr "i, ii, iii, ..."
 
 #: numberingtypelistbox.src#STRRES_NUMTYPES.1.6.itemlist.text
 msgid "A, .., AA, .., AAA, ..."
@@ -26998,7 +26999,7 @@ msgstr "A, .., AA, .., AAA, ..."
 #: numberingtypelistbox.src#STRRES_NUMTYPES.1.7.itemlist.text
 #: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_FMT.7.stringlist.text
 msgid "a, .., aa, .., aaa, ..."
-msgstr ""
+msgstr "a, .., aa, .., aaa, ..."
 
 #: numberingtypelistbox.src#STRRES_NUMTYPES.1.8.itemlist.text
 #: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_FMT.8.stringlist.text
@@ -27088,7 +27089,7 @@ msgstr ""
 
 #: pgfnote.src#TP_FOOTNOTE_PAGE.RB_MAXHEIGHT.radiobutton.text
 msgid "Maximum footnote ~height"
-msgstr ""
+msgstr "~Uasairde fonóta"
 
 #: pgfnote.src#TP_FOOTNOTE_PAGE.FT_DIST.fixedtext.text
 #: drpcps.src#TP_DROPCAPS.TXT_DISTANCE.fixedtext.text
@@ -27097,7 +27098,7 @@ msgstr ""
 
 #: pgfnote.src#TP_FOOTNOTE_PAGE.FL_FOOTNOTE_SIZE.fixedline.text
 msgid "Footnote area"
-msgstr ""
+msgstr "Achar fonóta"
 
 #: pgfnote.src#TP_FOOTNOTE_PAGE.FT_LINETYPE.fixedtext.text
 #: smres.src#RID_DISTANCEDIALOG.4.3.string.text
@@ -71504,7 +71505,7 @@ msgid "The format of the selected file is not supported."
 msgstr ""
 
 #: readme.xrm#ooo_readme.Welcome.A2.a.readmeitem.text
-msgid "Last updated $Date: 2005-04-15 19:14:25 $"
+msgid "Last updated $Date: 2005-04-16 21:04:06 $"
 msgstr ""
 
 #: readme.xrm#ooo_readme.Welcome.A3.a.readmeitem.text
