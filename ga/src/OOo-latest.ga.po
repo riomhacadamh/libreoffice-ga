@@ -1900,7 +1900,7 @@ msgstr ""
 
 #: pivot.src#RID_SCDLG_PIVOT_LAYOUT.STR_SELECT.string.text
 msgid "Selection area"
-msgstr "Achar roghnaithe"
+msgstr "Limistéar roghnaithe"
 
 #: pivot.src#RID_SCDLG_PIVOT_LAYOUT.FT_INFO.fixedtext.text
 msgid "Drag the fields from the right into the desired position."
@@ -3864,7 +3864,7 @@ msgstr "Roghnaigh leibhéal imlíne"
 
 #: globstr.src#RID_GLOBSTR.STR_UNDO_REMOVEALLOTLNS.string.text
 msgid "Clear Outline"
-msgstr "Bánaigh Imlíne"
+msgstr "Glan an Imlíne"
 
 #: globstr.src#RID_GLOBSTR.STR_UNDO_AUTOOUTLINE.string.text
 msgid "AutoOutline"
@@ -4527,7 +4527,7 @@ msgstr "Earráid sa liosta paraiméadar"
 
 #: globstr.src#RID_GLOBSTR.STR_LONG_ERR_ILL_FPO.string.text
 msgid "Error: Invalid floating point operation"
-msgstr "Earráid: Oibríocht shnámhphointe neamhbhailí"
+msgstr "Earráid: Oibríocht snámhphointe neamhbhailí"
 
 #: globstr.src#RID_GLOBSTR.STR_LONG_ERR_ILL_CHAR.string.text
 msgid "Error: Invalid character"
@@ -11593,15 +11593,15 @@ msgstr "Réamhamharc"
 
 #: scstring.src#STR_ACC_LEFTAREA_NAME.string.text
 msgid "Left area"
-msgstr "Achar ar clé"
+msgstr "Limistéar ar clé"
 
 #: scstring.src#STR_ACC_CENTERAREA_NAME.string.text
 msgid "Center area"
-msgstr "Achar sa lár"
+msgstr "Limistéar sa lár"
 
 #: scstring.src#STR_ACC_RIGHTAREA_NAME.string.text
 msgid "Right area"
-msgstr "Achar ar dheis"
+msgstr "Limistéar ar dheis"
 
 #: scstring.src#STR_ACC_HEADER_NAME.string.text
 msgid "Header of page %1"
@@ -11794,7 +11794,7 @@ msgstr ""
 
 #: sortdlg.src#RID_SCPAGE_SORT_OPTIONS.FT_AREA_LABEL.fixedtext.text
 msgid "Data area:"
-msgstr "Achar sonraí:"
+msgstr "Limistéar sonraí:"
 
 #: sortdlg.src#RID_SCDLG_SORT.1.TP_FIELDS.pageitem.text
 msgid "Sort Criteria"
@@ -12100,7 +12100,7 @@ msgstr ""
 
 #: navipi.src#SCSTR_CONTENT_AREALINK.string.text
 msgid "Linked areas"
-msgstr "Achair nasctha"
+msgstr "Limistéir nasctha"
 
 #: navipi.src#SCSTR_CONTENT_DRAWING.string.text
 #: dlgegif.src#DLG_EXPORT_GIF.GRP_DRAW.fixedline.text
@@ -15305,7 +15305,7 @@ msgstr "~Líne..."
 #: globlmn_tmpl.hrc#ITEM_FORMAT_ATTRIBUTES_AREA.#define.text
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_FormatArea.Label.value.text
 msgid "A~rea..."
-msgstr "Acha~r..."
+msgstr "Limistéa~r..."
 
 #: menuids_tmpl.src#MN_TEXTATTR.SID_TEXTATTR_DLG.menuitem.text
 msgid "~Text..."
@@ -18086,15 +18086,15 @@ msgstr ""
 
 #: strings.src#STR_PLACEHOLDER_DESCRIPTION_FOOTER.string.text
 msgid "Footer Area"
-msgstr "Achar Buntásca"
+msgstr "Limistéar Buntásca"
 
 #: strings.src#STR_PLACEHOLDER_DESCRIPTION_HEADER.string.text
 msgid "Header Area"
-msgstr "Achar Ceanntásca"
+msgstr "Limistéar Ceanntásca"
 
 #: strings.src#STR_PLACEHOLDER_DESCRIPTION_DATETIME.string.text
 msgid "Date Area"
-msgstr "Achar Dáta"
+msgstr "Limistéar Dáta"
 
 #: strings.src#STR_PLACEHOLDER_DESCRIPTION_SLIDE.string.text
 msgid "Slide Number Area"
@@ -18122,7 +18122,7 @@ msgstr "<uimhir>"
 
 #: strings.src#STR_PLACEHOLDER_DESCRIPTION_NOTES.string.text
 msgid "Notes Area"
-msgstr "Achar Nótaí"
+msgstr "Limistéar Nótaí"
 
 #: strings.src#STR_RIGHT_PANE_TITLE.string.text app.src#STR_TASKS.string.text
 #: TableWizard.xcu#..TableWizard.TableWizard.business.Tables.tasks.Name.value.text
@@ -18170,7 +18170,7 @@ msgstr "Úsáidte le Déanaí"
 
 #: strings.src#STR_TASKPANEL_ALL_MASTER_PAGES_TITLE.string.text
 msgid "Available for Use"
-msgstr "Ar Fáil lena Úsáid"
+msgstr "Ar Fáil lena nÚsáid"
 
 #: strings.src#STR_TASKPANEL_NOT_AVAILABLE_SUBSTITUTION.string.text
 msgid "Preview not available"
@@ -19237,7 +19237,7 @@ msgid ""
 "Format error discovered in the file in sub-document $(ARG1) at position "
 "$(ARG2)(row,col)"
 msgstr ""
-"D'aimsigh earráid fhormáide sa chomhad, i bhfo-cháipéis $(ARG1) ag $(ARG2)"
+"D'aimsigh earráid fhormáide sa chomhad, i bhfocháipéis $(ARG1) ag $(ARG2)"
 "(row,col)"
 
 #: glob.src#STR_3DOBJECTBARSHELL.string.text
@@ -19508,7 +19508,7 @@ msgstr "Go Deireadh an Leathanaigh Roimhe Seo"
 #: swslots.src#FN_END_OF_PREV_PAGE_SEL.sfxslotinfo.text
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_GoToEndOfPrevPageSel.Label.value.text
 msgid "Select to End of Previous Page"
-msgstr "Rogthnaigh Go Deireadh an Leathanaigh Roimhe Seo"
+msgstr "Roghnaigh Go Deireadh an Leathanaigh Roimhe Seo"
 
 #: swslots.src#FN_END_TABLE.sfxslotinfo.text
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_GoToEnd.Label.value.text
@@ -19528,7 +19528,7 @@ msgstr "Rith Réimse Macra"
 #: swslots.src#FN_EXPAND_GLOSSARY.sfxslotinfo.text
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_ExpandGlossary.Label.value.text
 msgid "Run AutoText Entry"
-msgstr "Rith Iontráil Uath-Théacs"
+msgstr "Rith Iontráil UathThéacs"
 
 #: swslots.src#FN_FLIP_HORZ_GRAFIC.sfxslotinfo.text
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Commands..uno_ObjectMirrorVertical.Label.value.text
@@ -19954,7 +19954,7 @@ msgstr "Ionsáigh Rannán"
 
 #: swslots.src#FN_INSERT_SMA.sfxslotinfo.text
 msgid "Insert %PRODUCTNAME Math object"
-msgstr "Ionsáigh réad  %PRODUCTNAME Math"
+msgstr "Ionsáigh réad %PRODUCTNAME Math"
 
 #: swslots.src#FN_INSERT_SOFT_HYPHEN.sfxslotinfo.text
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_InsertSoftHyphen.Label.value.text
@@ -26081,11 +26081,11 @@ msgstr "[Córas]"
 
 #: utlui.src#STR_MULT_INTERACT_SPELL_WARN.string.text
 msgid "The interactive spellcheck is already active\\nin a different document"
-msgstr "Is beo é an seiceálaí litrithe idirghníomhach\\ni gcáipéis difriúil"
+msgstr "Is beo é an litreoir idirghníomhach\\ni gcáipéis dhifriúil"
 
 #: utlui.src#STR_MULT_INTERACT_HYPH_WARN.string.text
 msgid "The interactive hyphenation is already active\\nin a different document"
-msgstr "Is beo é an fleiscíniú idirghníomhach\\ni gcáipéis difriúil"
+msgstr "Is beo é an fleiscíniú idirghníomhach\\ni gcáipéis dhifriúil"
 
 #: utlui.src#STR_HYPERCTRL_SEL.string.text
 msgid "SEL"
@@ -26185,11 +26185,11 @@ msgstr "Ainmneacha réada"
 
 #: cnttab.src#TP_TOX_SELECT.CB_COLLECTSAME.checkbox.text
 msgid "Combine identical entries"
-msgstr "Comhshnaidhm iontrálacha ionanna"
+msgstr "Comhshnaidhm iontrálacha comhionanna"
 
 #: cnttab.src#TP_TOX_SELECT.CB_USEFF.checkbox.text
 msgid "Combine identical entries with p or ~pp"
-msgstr "Comhshnaidhm iontrálacha ionanna le p nó ~pp"
+msgstr "Comhshnaidhm iontrálacha comhionanna le p nó ~pp"
 
 #: cnttab.src#TP_TOX_SELECT.CB_USE_DASH.checkbox.text
 msgid "Combine with -"
@@ -26258,7 +26258,7 @@ msgstr "%PRODUCTNAME Draw/%PRODUCTNAME Impress"
 
 #: cnttab.src#TP_TOX_SELECT.FL_FROMOBJ.fixedline.text
 msgid "Create from the following objects"
-msgstr "Cruthaigh as an réada a leanas"
+msgstr "Cruthaigh as na réada a leanas"
 
 #: cnttab.src#TP_TOX_SELECT.CB_SEQUENCE.checkbox.text
 msgid "~Number entries"
@@ -26716,7 +26716,7 @@ msgstr "Limistéar téa~cs"
 
 #: docfnote.src#TP_FOOTNOTEOPTION.FT_TEXT_CHARFMT.fixedtext.text
 msgid "~Footnote area"
-msgstr "Achar ~fonóta"
+msgstr "Limistéar ~fonóta"
 
 #: docfnote.src#TP_FOOTNOTEOPTION.FL_CONT.fixedline.text
 #: docfnote.src#FL_CONT.fixedline.text
@@ -26741,11 +26741,11 @@ msgstr "~Deireadh na cáipéise"
 
 #: docfnote.src#FT_TEXT_CHARFMT.fixedtext.text
 msgid "~Endnote area"
-msgstr "Achar ~iarnóta"
+msgstr "Limistéar ~iarnóta"
 
 #: docfnote.src#FT_CONT.fixedtext.text
 msgid "~Following page"
-msgstr "Leathanach ~seo chugainn"
+msgstr "An leathanach ~seo chugainn"
 
 #: glosbib.src#DLG_BIB_BASE.FT_SELECT.fixedtext.text
 msgid "Selection list"
@@ -27098,7 +27098,7 @@ msgstr ""
 
 #: pgfnote.src#TP_FOOTNOTE_PAGE.FL_FOOTNOTE_SIZE.fixedline.text
 msgid "Footnote area"
-msgstr "Achar fonóta"
+msgstr "Limistéar fonóta"
 
 #: pgfnote.src#TP_FOOTNOTE_PAGE.FT_LINETYPE.fixedtext.text
 #: smres.src#RID_DISTANCEDIALOG.4.3.string.text
@@ -27398,7 +27398,7 @@ msgstr "~Tosaigh le"
 
 #: numpara.src#TP_NUMPARA.CB_COUNT_PARA.tristatebox.text
 msgid "~Include this paragraph in line numbering"
-msgstr ""
+msgstr "Cu~ir an t-alt seo san áireamh agus na línte á n-uimhriú"
 
 #: numpara.src#TP_NUMPARA.CB_RESTART_PARACOUNT.tristatebox.text
 msgid "Rest~art at this paragraph"
@@ -27475,11 +27475,11 @@ msgstr ""
 #: app.src#DLG_STYLE_DESIGNER.Absatzvorlagen.7.filterlist.text
 #: app.src#DLG_STYLE_DESIGNER.Listenformatvorlagen.sfxstylefamilyitem.text
 msgid "List Styles"
-msgstr ""
+msgstr "Stíleanna Liosta"
 
 #: app.src#DLG_STYLE_DESIGNER.Absatzvorlagen.8.filterlist.text
 msgid "Index Styles"
-msgstr ""
+msgstr "Stíleanna Innéacs"
 
 #: app.src#DLG_STYLE_DESIGNER.Absatzvorlagen.9.filterlist.text
 msgid "Special Styles"
@@ -27495,7 +27495,7 @@ msgstr "Stíleanna Coinníollacha"
 
 #: app.src#DLG_STYLE_DESIGNER.Rahmenvorlagen.sfxstylefamilyitem.text
 msgid "Frame Styles"
-msgstr ""
+msgstr "Stíleanna Fráma"
 
 #: app.src#STR_WRITER_DOCUMENT_FULLTYPE.string.text
 msgid "%PRODUCTNAME %PRODUCTVERSION Text Document"
@@ -28248,7 +28248,7 @@ msgstr "Níorbh fhéidir cáipéisí a chumasc."
 
 #: view.src#MSG_ERR_SRCSTREAM.infobox.text
 msgid "The source cannot be loaded."
-msgstr "Ní féidir an foinse a luchtú."
+msgstr "Ní féidir an fhoinse a luchtú."
 
 #: view.src#MSG_ERR_NO_FAX.infobox.text
 msgid "No fax printer has been set under Tools/Options/%1/Print."
@@ -28837,7 +28837,7 @@ msgstr "Airíonna"
 
 #: chartins.src#DLG_INSERT_CHART.FT_RANGE.fixedtext.text
 msgid "A~rea"
-msgstr "Acha~r"
+msgstr "Limistéa~r"
 
 #: chartins.src#DLG_INSERT_CHART.CB_FIRST_ROW.checkbox.text
 msgid "~First row as caption"
@@ -29183,7 +29183,7 @@ msgstr "Tangant"
 #: inputwin.src#MN_CALC_POPUP.MN_POP_FUNC.MN_CALC_ASIN.menuitem.text
 #: smres.src#RID_TOOLBOXWINDOW.4.RID_ARCSINX.toolboxitem.text
 msgid "Arcsine"
-msgstr "Arcsín"
+msgstr "Arcsíneas"
 
 #: inputwin.src#MN_CALC_POPUP.MN_POP_FUNC.MN_CALC_ACOS.menuitem.text
 #: smres.src#RID_TOOLBOXWINDOW.4.RID_ARCCOSX.toolboxitem.text
@@ -29240,7 +29240,7 @@ msgstr "Foirmle tábla"
 
 #: workctrl.src#RID_SCROLL_NAVIGATION_WIN.ST_TABLE_FORMULA_ERROR.string.text
 msgid "Wrong table formula"
-msgstr "Foirmle tábla mhícheart"
+msgstr "Foirmle mhícheart tábla"
 
 #: workctrl.src#STR_IMGBTN_TBL_DOWN.string.text
 msgid "Next table"
@@ -29669,7 +29669,7 @@ msgstr "Mionathraigh na roghanna fonóta"
 
 #: undo.src#STR_UNDO_ENDNOTEINFO.string.text
 msgid "Modify endnote settings"
-msgstr "Mionathraigh na socraithe iarnóta"
+msgstr "Mionathraigh na socruithe iarnóta"
 
 #: undo.src#STR_UNDO_COMPAREDOC.string.text
 msgid "Compare Document"
@@ -31054,7 +31054,7 @@ msgstr "Cúlú líneach"
 #: strings.src#STR_REGRESSION_LOG.string.text
 #: Strings_Statistic.src#STR_REGRESSION_LOG.string.text
 msgid "Logarithm regression"
-msgstr "Aischéimniú logartamach"
+msgstr "Cúlú logartamach"
 
 #: strings.src#STR_REGRESSION_EXP.string.text
 #: Strings_Statistic.src#STR_REGRESSION_EXP.string.text
@@ -31064,7 +31064,7 @@ msgstr "Cúlú Easpónantúil"
 #: strings.src#STR_REGRESSION_POWER.string.text
 #: Strings_Statistic.src#STR_REGRESSION_POWER.string.text
 msgid "Power regression"
-msgstr "Aischéimniú iltéarmach"
+msgstr "Cúlú iltéarmach"
 
 #: strings.src#STR_STATISTICS_IN_LEGEND.string.text
 msgid "$(STATTYP), $(ROWNAME) "
@@ -31579,7 +31579,7 @@ msgstr "Réad %PRODUCTNAME 6.0 Writer/Web"
 
 #: formats.src#STR_FORMAT_ID_STARWRITERGLOB_60.string.text
 msgid "%PRODUCTNAME 6.0 Writer/Master object"
-msgstr ""
+msgstr "Réad %PRODUCTNAME 6.0 Writer/Master"
 
 #: formats.src#STR_FORMAT_ID_STARDRAW_60.string.text
 msgid "%PRODUCTNAME 6.0 Draw object"
@@ -31595,11 +31595,11 @@ msgstr "Réad %PRODUCTNAME 6.0 Calc"
 
 #: formats.src#STR_FORMAT_ID_STARCHART_60.string.text
 msgid "%PRODUCTNAME 6.0 Chart object"
-msgstr ""
+msgstr "Réad %PRODUCTNAME 6.0 Chart"
 
 #: formats.src#STR_FORMAT_ID_STARMATH_60.string.text
 msgid "%PRODUCTNAME 6.0 Math object"
-msgstr ""
+msgstr "Réad %PRODUCTNAME 6.0 Math"
 
 #: formats.src#STR_FORMAT_ID_WMF.string.text
 msgid "Windows metafile"
@@ -31885,7 +31885,7 @@ msgstr "Níorbh fhéidir an réad ón chomhad % a ionsá."
 #: nocode.src#STR_ERROR_OBJNOCREATE_PLUGIN.string.text
 #: so3res.src#STR_ERROR_OBJNOCREATE_PLUGIN.string.text
 msgid "Plug-in from document % could not be inserted."
-msgstr ""
+msgstr "Níorbh fhéidir an breiseán ó cháipéis % a ionsá."
 
 #: nocode.src#STR_QUERYUPDATELINKS.string.text
 #: app.src#STR_QUERY_UPDATE_LINKS.string.text
@@ -31974,12 +31974,12 @@ msgstr "Níl ar Fáil"
 #: svuidlg.src#MD_UPDATE_BASELINKS.STR_CLOSELINKMSG.string.text
 #: svuidlg.src#MD_UPDATE_BASELINKS.STR_CLOSELINKMSG_MULTI.string.text
 msgid "Are you sure you want to remove the selected link?"
-msgstr ""
+msgstr "An bhfuil tú cinnte gur mian leat an nasc roghnaithe a bhaint?"
 
 #: svuidlg.src#MD_UPDATE_BASELINKS.STR_WAITINGLINK.string.text
 #: prnsetup.src#STR_SVT_PRNDLG_WAITING.string.text
 msgid "Waiting"
-msgstr ""
+msgstr "Ar Feitheamh"
 
 #: svuidlg.src#MD_UPDATE_BASELINKS.modaldialog.text
 msgid "Edit Links"
@@ -32013,7 +32013,7 @@ msgstr "Mionathraigh Nasc"
 
 #: svuidlg.src#MD_LINKEDIT.2.fixedtext.text
 msgid "Exchange source:"
-msgstr ""
+msgstr "Malartaigh foinse:"
 
 #: svuidlg.src#MD_INSERT_OLEOBJECT.RB_NEW_OBJECT.radiobutton.text
 msgid "~Create new"
@@ -32065,6 +32065,8 @@ msgid ""
 "Alpha\\nCopyright 2000 Sun Microsystems, Inc. All rights reserved.\\nUse is "
 "subject to license terms. "
 msgstr ""
+"Alfa\\nCóipcheart 2000 Sun Microsystems, Inc. Gach ceart cosanta.\\nÚsáid de "
+"réir téarmaí an cheadúnais. "
 
 #: iso.src#RID_DEFAULTABOUT.ABOUT_FTXT_COPYRIGHT.fixedtext.text
 msgid ""
@@ -32104,7 +32106,7 @@ msgstr "Roghnaigh Conairí"
 
 #: multipat.src#RID_MULTIPATH_DBL_ERR.string.text
 msgid "The path %1 already exists."
-msgstr ""
+msgstr "Tá an chonair %1 ann cheana."
 
 #: multipat.src#RID_SVXSTR_FILE_TITLE.string.text
 msgid "Select files"
@@ -32143,11 +32145,11 @@ msgstr ""
 
 #: optaccessibility.src#RID_SVXPAGE_ACCESSIBILITYCONFIG.CB_ANIMATED_GRAPHICS.checkbox.text
 msgid "Allow animated ~graphics"
-msgstr ""
+msgstr "Ceadaigh ~grafaicí beoite"
 
 #: optaccessibility.src#RID_SVXPAGE_ACCESSIBILITYCONFIG.CB_ANIMATED_TEXTS.checkbox.text
 msgid "Allow animated ~text"
-msgstr ""
+msgstr "Ceadaigh ~téacs beoite"
 
 #: optaccessibility.src#RID_SVXPAGE_ACCESSIBILITYCONFIG.CB_TIPHELP.checkbox.text
 msgid "~Help tips disappear after "
@@ -46819,7 +46821,7 @@ msgstr ""
 
 #: AdabasStat.src#STR_ADABAS_HELP_MEMORYUSING.string.text
 msgid "Currently used memory"
-msgstr "Cuimhne úsáidte faoi láthair"
+msgstr "Cuimhne in úsáid faoi láthair"
 
 #: AdabasStat.src#STR_ADABAS_ERROR_SYSTEMTABLES.string.text
 msgid ""
@@ -71510,7 +71512,7 @@ msgid "The format of the selected file is not supported."
 msgstr ""
 
 #: readme.xrm#ooo_readme.Welcome.A2.a.readmeitem.text
-msgid "Last updated $Date: 2005-04-17 17:31:23 $"
+msgid "Last updated $Date: 2005-04-17 18:08:42 $"
 msgstr ""
 
 #: readme.xrm#ooo_readme.Welcome.A3.a.readmeitem.text
