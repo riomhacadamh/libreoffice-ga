@@ -1,5 +1,5 @@
 # OOo pot file for Irish.
-#   CURRENT VERSION = SRC680_m93
+#   CURRENT VERSION = SRC680_m94
 # First version produced Sept. 2004 by Kevin Scannell using the oo2po
 # scripts by David Fraser et al
 msgid ""
@@ -3713,12 +3713,12 @@ msgstr "Ionsáigh"
 #: basic.src#RID_TP_PROFILE.RID_PD_DEL_PROFILE.pushbutton.text
 #: basidesh.src#RID_POPUP_TABBAR.SID_BASICIDE_DELETECURRENT.menuitem.text
 #: brkdlg.src#RID_BASICIDE_BREAKPOINTDLG.RID_PB_DEL.pushbutton.text
+#: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_DeleteLayer.Label.value.text
 #: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBDelete.Label.value.text
 #: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBTableDelete.Label.value.text
 #: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBQueryDelete.Label.value.text
 #: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBFormDelete.Label.value.text
 #: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBReportDelete.Label.value.text
-#: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_DeleteLayer.Label.value.text
 msgid "Delete"
 msgstr "Scrios"
 
@@ -5688,10 +5688,10 @@ msgstr ""
 
 #: hdrcont.src#RID_POPUP_COLHEADER.FID_PASTE_CONTENTS.menuitem.text
 #: menuids2_tmpl.src#MN_PASTE2.SID_PASTE2.menuitem.text
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_PasteSpecial.Label.value.text
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Commands..uno_PasteSpecial.Label.value.text
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_PasteClipboard.Label.value.text
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_PasteSpecial.Label.value.text
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_PasteSpecial.Label.value.text
 msgid "Paste ~Special..."
 msgstr "Greamú ~Speisialta..."
 
@@ -5969,7 +5969,7 @@ msgstr "~Trasuigh"
 #: backgrnd.src#RID_SVXPAGE_BACKGROUND.BTN_LINK.checkbox.text
 #: impgrf.src#RID_SVXRES_IMPORTGRAPHIC.STR_LINK.string.text
 #: filedlghelper.src#STR_CB_INSERT_AS_LINK.string.text
-#: filepicker.src#STR_SVT_FILEPICKER_INSERT_AS_LINK.string.text
+#: OfficeFilePicker.src#STR_SVT_FILEPICKER_INSERT_AS_LINK.string.text
 msgid "~Link"
 msgstr "~Nasc"
 
@@ -11559,9 +11559,9 @@ msgstr ""
 #: connect.src#RID_SVXPAGE_CONNECTION.CTL_PREVIEW.control.quickhelptext
 #: app.src#STR_PREVIEW.string.text
 #: templwin.src#TB_SVT_FRAMEWIN.TI_DOCTEMPLATE_PREVIEW.toolboxitem.text
+#: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_Preview.Label.value.text
 #: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBQueryPreview.Label.value.text
 #: DbuCommands.xcu#..DbuCommands.UserInterface.Popups..uno_DBPreview.Label.value.text
-#: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_Preview.Label.value.text
 #: dlgeps.src#DLG_EXPORT_EPS.GRP_PREVIEW.fixedline.text
 #: sanedlg.src#RID_SANE_DIALOG.RID_PREVIEW_BOX.fixedline.text
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__128.string.text
@@ -16645,7 +16645,7 @@ msgstr "~Airíonna..."
 #: impgrf.src#RID_SVXRES_IMPORTGRAPHIC.STR_PREVIEW.string.text
 #: gallery.src#RID_SVXTABPAGE_GALLERYTHEME_FILES.CBX_PREVIEW.checkbox.text
 #: filedlghelper.src#STR_CB_SHOW_PREVIEW.string.text
-#: filepicker.src#STR_SVT_FILEPICKER_SHOW_PREVIEW.string.text
+#: OfficeFilePicker.src#STR_SVT_FILEPICKER_SHOW_PREVIEW.string.text
 msgid "Pr~eview"
 msgstr "Réamh~amharc"
 
@@ -16995,7 +16995,7 @@ msgstr ""
 #: strings.src#STR_PLAY.string.text
 #: CustomAnimationPane.src#DLG_CUSTOMANIMATIONPANE.PB_PLAY.pushbutton.text
 #: filedlghelper.src#STR_PB_PLAY.string.text
-#: filepicker.src#STR_SVT_FILEPICKER_PLAY.string.text
+#: OfficeFilePicker.src#STR_SVT_FILEPICKER_PLAY.string.text
 msgid "~Play"
 msgstr "~Seinn"
 
@@ -24471,7 +24471,7 @@ msgstr "Roghanna Scagaire ASCII"
 #: dialog.src#CB_READ_ONLY.checkbox.text
 #: dinfdlg.src#TP_DOCINFODOC.CB_FILE_READONLY.checkbox.text
 #: filedlghelper.src#STR_CB_READONLY.string.text
-#: filepicker.src#STR_SVT_FILEPICKER_READONLY.string.text
+#: OfficeFilePicker.src#STR_SVT_FILEPICKER_READONLY.string.text
 #: iodlg.src#DLG_SVT_EXPLORERFILE.CB_EXPLORERFILE_READONLY.checkbox.text
 msgid "~Read-only"
 msgstr "~Léamh amháin"
@@ -27940,8 +27940,8 @@ msgstr "Spásáil go ~Cothrom"
 
 #: mn.src#MN_TAB2.MN_SUB_TBLROW.FN_TABLE_SELECT_ROW.menuitem.text
 #: mn.src#MN_TAB2.MN_SUB_TBLCOL.FN_TABLE_SELECT_COL.menuitem.text
-#: iodlg.src#DLG_SVT_EXPLORERFILE.STR_BUTTONSELECT.string.text
 #: testtool.src#TT_INLINE_TRANSLATION.TT_PB_SELECT.pushbutton.text
+#: iodlg.src#DLG_SVT_EXPLORERFILE.STR_BUTTONSELECT.string.text
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Popups..uno_TableSelectMenu.Label.value.text
 msgid "~Select"
 msgstr "~Roghnaigh"
@@ -31732,8 +31732,8 @@ msgstr "Gan stóráil"
 
 #: nocode.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_FALSE_S_MAX.string.text
 #: svxitems.src#RID_SVXITEMS_FALSE.string.text
-#: basic.src#IDD_EDIT_VAR.RID_RB_NEW_BOOL_F.radiobutton.text
 #: format.src#STR_BASICKEY_FORMAT_FALSE.string.text
+#: basic.src#IDD_EDIT_VAR.RID_RB_NEW_BOOL_F.radiobutton.text
 #: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_FALSE_S_MAX.string.text
 msgid "False"
 msgstr "Falsa"
@@ -39160,7 +39160,7 @@ msgstr "Cineál ~comhaid"
 
 #: hyperdlg.src#RID_SVXPAGE_HYPERLINK_NEWDOCUMENT.BTN_CREATE.imagebutton.text
 #: hyperdlg.src#RID_SVXPAGE_HYPERLINK_NEWDOCUMENT.BTN_CREATE.imagebutton.quickhelptext
-#: filepicker.src#STR_SVT_FOLDERPICKER_DEFAULT_TITLE.string.text
+#: OfficeFilePicker.src#STR_SVT_FOLDERPICKER_DEFAULT_TITLE.string.text
 msgid "Select Path"
 msgstr "Roghnaigh Conair"
 
@@ -39735,6 +39735,7 @@ msgstr "Eabhrais"
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_HUNGARIAN.pairedlist.text
 #: setup.ulf#_LANGUAGE_HU_.LngText.text
 #: Langpack.ulf#OOO_LANGPACK_NAME_1038.LngText.text
+#: dbwizres.src#RID_LETTERWIZARDLANGUAGE_START___15.string.text
 msgid "Hungarian"
 msgstr "Ungáiris"
 
@@ -41631,7 +41632,7 @@ msgstr "Ionsáigh nóta"
 
 #: prtqry.src#RID_SVXSTR_QRY_PRINT_SELECTION.string.text
 #: filedlghelper.src#STR_CB_SELECTION.string.text
-#: filepicker.src#STR_SVT_FILEPICKER_SELECTION.string.text
+#: OfficeFilePicker.src#STR_SVT_FILEPICKER_SELECTION.string.text
 #: impdialog.src#RID_PDF_EXPORT_DLG.RB_SELECTION.radiobutton.text
 msgid "~Selection"
 msgstr "~Rogha"
@@ -43731,8 +43732,8 @@ msgid ""
 msgstr ""
 
 #: svxitems.src#RID_SVXITEMS_TRUE.string.text
-#: basic.src#IDD_EDIT_VAR.RID_RB_NEW_BOOL_T.radiobutton.text
 #: format.src#STR_BASICKEY_FORMAT_TRUE.string.text
+#: basic.src#IDD_EDIT_VAR.RID_RB_NEW_BOOL_T.radiobutton.text
 msgid "True"
 msgstr "Fíor"
 
@@ -50688,7 +50689,7 @@ msgid "Current version"
 msgstr "Leagan Reatha"
 
 #: filedlghelper.src#STR_CB_AUTO_EXTENSION.string.text
-#: filepicker.src#STR_SVT_FILEPICKER_AUTO_EXTENSION.string.text
+#: OfficeFilePicker.src#STR_SVT_FILEPICKER_AUTO_EXTENSION.string.text
 #: iodlg.src#DLG_SVT_EXPLORERFILE.CB_AUTO_EXTENSION.checkbox.text
 msgid "~Automatic file name extension"
 msgstr ""
@@ -50703,7 +50704,7 @@ msgid "Edit ~filter settings"
 msgstr "Cuir na socruithe ~scagaire in eagar"
 
 #: filedlghelper.src#STR_LB_IMAGE_TEMPLATE.string.text
-#: filepicker.src#STR_SVT_FILEPICKER_IMAGE_TEMPLATE.string.text
+#: OfficeFilePicker.src#STR_SVT_FILEPICKER_IMAGE_TEMPLATE.string.text
 msgid "Style:"
 msgstr "Stíl:"
 
@@ -50712,7 +50713,7 @@ msgid "~Templates:"
 msgstr "~Teimpléid:"
 
 #: filedlghelper.src#STR_LB_VERSION.string.text
-#: filepicker.src#STR_SVT_FILEPICKER_VERSION.string.text
+#: OfficeFilePicker.src#STR_SVT_FILEPICKER_VERSION.string.text
 msgid "~Version:"
 msgstr "~Leagan:"
 
@@ -52701,6 +52702,10 @@ msgid ""
 "This Evaluation Version has expired. To find out more about %PRODUCTNAME,"
 "\\nvisit www.sun.com/%PRODUCTNAME."
 msgstr ""
+
+#: format.src#STR_BASICKEY_FORMAT_CURRENCY.string.text
+msgid "@0.00 $;@(0.00 $)"
+msgstr "@0.00 $;@(0.00 $)"
 
 #: basic.src#RID_CALLDLG.modaldialog.text
 msgid "Dynamic Link No. "
@@ -56460,50 +56465,6 @@ msgstr "~Greillí..."
 msgid "~Statistics..."
 msgstr "~Staitistic..."
 
-#: format.src#STR_BASICKEY_FORMAT_CURRENCY.string.text
-msgid "@0.00 $;@(0.00 $)"
-msgstr "@0.00 $;@(0.00 $)"
-
-#: cstitem.src#STR_CSTAT_NEVER_UPD.string.text
-msgid "No update has occurred"
-msgstr ""
-
-#: cstitem.src#STR_CSTAT_IN_UPD.string.text
-msgid "Updating in progress"
-msgstr "Nuashonrú ar siúl anois"
-
-#: cstitem.src#STR_CSTAT_UPD_NEWER.string.text
-msgid "Changes discovered"
-msgstr ""
-
-#: cstitem.src#STR_CSTAT_UPD_NOT_NEWER.string.text
-msgid "No changes discovered"
-msgstr ""
-
-#: cstitem.src#STR_CSTAT_UPD_CANCEL.string.text
-msgid "Canceled by user"
-msgstr ""
-
-#: cstitem.src#STR_CSTAT_UPD_IMMEDIATELY.string.text
-msgid "Updating immediately"
-msgstr "Ag nuashonrú ar an toirt"
-
-#: cstitem.src#STR_CSTAT_ERR_OFFLINE.string.text
-msgid "failed, you have not been online"
-msgstr ""
-
-#: cstitem.src#STR_CSTAT_ERR_GENERAL.string.text
-msgid "General error"
-msgstr "Earráid ghinearálta"
-
-#: cstitem.src#STR_CSTAT_ERR_NOTEXISTS.string.text
-msgid "Server does not exist"
-msgstr ""
-
-#: cstitem.src#STR_CSTAT_ERR_NOTREACHED.string.text
-msgid "Server not available"
-msgstr "Níl an freastalaí ar fáil"
-
 #: calendar.src#STR_SVT_CALENDAR_WEEK.string.text
 msgid "Week"
 msgstr "Seachtain"
@@ -56686,6 +56647,46 @@ msgstr ""
 #: templwin.src#STR_SVT_SAMPLES_HELP.string.text
 msgid "Contains a selection of sample letters, reports and other documents"
 msgstr ""
+
+#: cstitem.src#STR_CSTAT_NEVER_UPD.string.text
+msgid "No update has occurred"
+msgstr ""
+
+#: cstitem.src#STR_CSTAT_IN_UPD.string.text
+msgid "Updating in progress"
+msgstr "Nuashonrú ar siúl anois"
+
+#: cstitem.src#STR_CSTAT_UPD_NEWER.string.text
+msgid "Changes discovered"
+msgstr ""
+
+#: cstitem.src#STR_CSTAT_UPD_NOT_NEWER.string.text
+msgid "No changes discovered"
+msgstr ""
+
+#: cstitem.src#STR_CSTAT_UPD_CANCEL.string.text
+msgid "Canceled by user"
+msgstr ""
+
+#: cstitem.src#STR_CSTAT_UPD_IMMEDIATELY.string.text
+msgid "Updating immediately"
+msgstr "Ag nuashonrú ar an toirt"
+
+#: cstitem.src#STR_CSTAT_ERR_OFFLINE.string.text
+msgid "failed, you have not been online"
+msgstr ""
+
+#: cstitem.src#STR_CSTAT_ERR_GENERAL.string.text
+msgid "General error"
+msgstr "Earráid ghinearálta"
+
+#: cstitem.src#STR_CSTAT_ERR_NOTEXISTS.string.text
+msgid "Server does not exist"
+msgstr ""
+
+#: cstitem.src#STR_CSTAT_ERR_NOTREACHED.string.text
+msgid "Server not available"
+msgstr "Níl an freastalaí ar fáil"
 
 #: dlgejpg.src#DLG_EXPORT_JPG.FI_DESCR.fixedtext.text
 #: impswfdialog.src#DLG_OPTIONS.FI_DESCR.fixedtext.text
@@ -57300,6 +57301,27 @@ msgid ""
 "and dashes."
 msgstr ""
 
+#: unoifac2.src#RID_CONTEXTMENU.RID_OPEN_LINK_NEW.menuitem.text
+msgid "Open in New ~Window"
+msgstr "Oscail i bh~Fuinneog Nua"
+
+#: unoifac2.src#RID_CONTEXTMENU.RID_DOWNLOAD.menuitem.text
+msgid "~Download..."
+msgstr "Íos~luchtaigh..."
+
+#: unoifac2.src#RID_CONTEXTMENU.RID_ADD_BOOKMARK.menuitem.text
+msgid "Add ~Link"
+msgstr "~Nasc Nua"
+
+#: unoifac2.src#RID_CONTEXTMENU.RID_COPY_LINK.menuitem.text
+msgid "Cop~y Link"
+msgstr "~Cóipeáil Nasc"
+
+#: accessiblelistboxentry.src#STR_SVT_ACC_ACTION_EXPAND.string.text
+#: Effects.xcu#..Effects.UserInterface.Effects.ooo_entrance_expand.Label.value.text
+msgid "Expand"
+msgstr "Leathnaigh"
+
 #: mediatyp.src#STR_SVT_MIMETYPE_APP_OCTSTREAM.string.text
 msgid "Binary file"
 msgstr "Comhad dénártha"
@@ -57537,27 +57559,6 @@ msgstr "multipart/mixed"
 #: mediatyp.src#STR_SVT_MIMETYPE_APP_SXIPACKED.string.text
 msgid "%PRODUCTNAME %PRODUCTXMLFILEFORMATVERSION Presentation (packed)"
 msgstr "Láithreoireacht %PRODUCTNAME %PRODUCTXMLFILEFORMATVERSION (pacáilte)"
-
-#: unoifac2.src#RID_CONTEXTMENU.RID_OPEN_LINK_NEW.menuitem.text
-msgid "Open in New ~Window"
-msgstr "Oscail i bh~Fuinneog Nua"
-
-#: unoifac2.src#RID_CONTEXTMENU.RID_DOWNLOAD.menuitem.text
-msgid "~Download..."
-msgstr "Íos~luchtaigh..."
-
-#: unoifac2.src#RID_CONTEXTMENU.RID_ADD_BOOKMARK.menuitem.text
-msgid "Add ~Link"
-msgstr "~Nasc Nua"
-
-#: unoifac2.src#RID_CONTEXTMENU.RID_COPY_LINK.menuitem.text
-msgid "Cop~y Link"
-msgstr "~Cóipeáil Nasc"
-
-#: accessiblelistboxentry.src#STR_SVT_ACC_ACTION_EXPAND.string.text
-#: Effects.xcu#..Effects.UserInterface.Effects.ooo_entrance_expand.Label.value.text
-msgid "Expand"
-msgstr "Leathnaigh"
 
 #: addresstemplate.src#DLG_ADDRESSBOOKSOURCE.FL_DATASOURCEFRAME.fixedline.text
 msgid "Address Book Source"
@@ -57877,54 +57878,6 @@ msgstr ""
 msgid "<< Bac~k"
 msgstr "<< Ar ~Ais"
 
-#: filepicker.src#STR_SVT_FILEPICKER_PASSWORD.string.text
-#: iodlg.src#DLG_SVT_EXPLORERFILE.CB_EXPLORERFILE_PASSWORD.checkbox.text
-msgid "Save with password"
-msgstr "Sábháil le focal faire"
-
-#: filepicker.src#STR_SVT_FILEPICKER_FILTER_OPTIONS.string.text
-msgid "Edit filter settings"
-msgstr "Cuir na socruithe scagaire in eagar"
-
-#: filepicker.src#STR_SVT_FILEPICKER_TEMPLATES.string.text
-msgid "S~tyles:"
-msgstr "S~tíleanna:"
-
-#: filepicker.src#STR_SVT_FOLDERPICKER_DEFAULT_DESCRIPTION.string.text
-msgid "Please select a folder."
-msgstr ""
-
-#: iodlg.src#DLG_SVT_EXPLORERFILE.BTN_EXPLORERFILE_STANDARD.menubutton.quickhelptext
-msgid "Default Directory"
-msgstr "Comhadlann Réamhshocraithe"
-
-#: iodlg.src#DLG_SVT_EXPLORERFILE.FT_EXPLORERFILE_FILETYPE.fixedtext.text
-msgid "File ~type:"
-msgstr "Cineál ~comhaid:"
-
-#: iodlg.src#DLG_SVT_EXPLORERFILE.STR_EXPLORERFILE_SAVE.string.text
-#: dbwizres.src#RID_DB_REPORT_WIZARD_START___44.string.text
-msgid "Save as"
-msgstr "Sábháil mar"
-
-#: iodlg.src#DLG_SVT_EXPLORERFILE.STR_PATHSELECT.string.text
-msgid "Select path"
-msgstr "Roghnaigh conair"
-
-#: iodlg.src#DLG_SVT_QUERYFOLDERNAME.FL_SVT_QUERYFOLDERNAME_DLG_NAME.fixedline.text
-msgid "Create new folder"
-msgstr "Cruthaigh fillteán nua"
-
-#: iodlg.src#RID_FILEOPEN_INVALIDFOLDER.string.text
-msgid "$name$ does not exist."
-msgstr ""
-
-#: iodlg.src#RID_FILEOPEN_NOTEXISTENTFILE.string.text
-msgid ""
-"The file $name$ does not exist.\\nMake sure you have entered the correct "
-"file name."
-msgstr ""
-
 #: testtool.src#DisplayHidToolBox.TT_SHOW.toolboxitem.text
 msgid "Display IDs"
 msgstr ""
@@ -57983,6 +57936,54 @@ msgstr ""
 
 #: testtool.src#TT_ALTERNATE_CAPTION.string.text
 msgid "HelpID does not match UniqueID: "
+msgstr ""
+
+#: OfficeFilePicker.src#STR_SVT_FILEPICKER_PASSWORD.string.text
+#: iodlg.src#DLG_SVT_EXPLORERFILE.CB_EXPLORERFILE_PASSWORD.checkbox.text
+msgid "Save with password"
+msgstr "Sábháil le focal faire"
+
+#: OfficeFilePicker.src#STR_SVT_FILEPICKER_FILTER_OPTIONS.string.text
+msgid "Edit filter settings"
+msgstr "Cuir na socruithe scagaire in eagar"
+
+#: OfficeFilePicker.src#STR_SVT_FILEPICKER_TEMPLATES.string.text
+msgid "S~tyles:"
+msgstr "S~tíleanna:"
+
+#: OfficeFilePicker.src#STR_SVT_FOLDERPICKER_DEFAULT_DESCRIPTION.string.text
+msgid "Please select a folder."
+msgstr ""
+
+#: iodlg.src#DLG_SVT_EXPLORERFILE.BTN_EXPLORERFILE_STANDARD.menubutton.quickhelptext
+msgid "Default Directory"
+msgstr "Comhadlann Réamhshocraithe"
+
+#: iodlg.src#DLG_SVT_EXPLORERFILE.FT_EXPLORERFILE_FILETYPE.fixedtext.text
+msgid "File ~type:"
+msgstr "Cineál ~comhaid:"
+
+#: iodlg.src#DLG_SVT_EXPLORERFILE.STR_EXPLORERFILE_SAVE.string.text
+#: dbwizres.src#RID_DB_REPORT_WIZARD_START___44.string.text
+msgid "Save as"
+msgstr "Sábháil mar"
+
+#: iodlg.src#DLG_SVT_EXPLORERFILE.STR_PATHSELECT.string.text
+msgid "Select path"
+msgstr "Roghnaigh conair"
+
+#: iodlg.src#DLG_SVT_QUERYFOLDERNAME.FL_SVT_QUERYFOLDERNAME_DLG_NAME.fixedline.text
+msgid "Create new folder"
+msgstr "Cruthaigh fillteán nua"
+
+#: iodlg.src#RID_FILEOPEN_INVALIDFOLDER.string.text
+msgid "$name$ does not exist."
+msgstr ""
+
+#: iodlg.src#RID_FILEOPEN_NOTEXISTENTFILE.string.text
+msgid ""
+"The file $name$ does not exist.\\nMake sure you have entered the correct "
+"file name."
 msgstr ""
 
 #: impswfdialog.src#DLG_OPTIONS.modaldialog.text
@@ -58443,123 +58444,6 @@ msgstr ""
 #: impdialog.src#BT_OK.okbutton.text
 msgid "E~xport"
 msgstr "Ea~spórtáil"
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBClearQuery.Label.value.text
-msgid "Clear Query"
-msgstr "Glan an tIarratas"
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBAddRelation.Label.value.text
-msgid "New Relation..."
-msgstr ""
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBAddTable.Label.value.text
-msgid "Add Tables..."
-msgstr "Táblaí Nua..."
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBIndexDesign.Label.value.text
-msgid "~Index Design..."
-msgstr ""
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBChangeDesignMode.Label.value.text
-msgid "Switch Design View On/Off"
-msgstr ""
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBOpen.Label.value.text
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBTableOpen.Label.value.text
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBQueryOpen.Label.value.text
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBFormOpen.Label.value.text
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBReportOpen.Label.value.text
-msgid "Open Database Object..."
-msgstr ""
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBNewTableAutoPilot.Label.value.text
-msgid "Table Wizard..."
-msgstr "Draoi Tábla..."
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBNewQueryAutoPilot.Label.value.text
-msgid "Query Wizard..."
-msgstr ""
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBDSConnectionType.Label.value.text
-msgid "Connection Type..."
-msgstr "Cineál Naisc..."
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBDSAdvancedSettings.Label.value.text
-msgid "Advanced Settings..."
-msgstr "Ardsocruithe..."
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBNewQuery.Label.value.text
-msgid "Query (Design View)..."
-msgstr ""
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBNewQuerySql.Label.value.text
-msgid "Query (SQL View)..."
-msgstr ""
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBNewTable.Label.value.text
-msgid "Table Design..."
-msgstr ""
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBNewView.Label.value.text
-msgid "View Design..."
-msgstr ""
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBNewFolder.Label.value.text
-msgid "Folder..."
-msgstr "Fillteán..."
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBRelationDesign.Label.value.text
-msgid "Relationships..."
-msgstr ""
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBUserAdmin.Label.value.text
-msgid "User Administration..."
-msgstr ""
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBTableFilter.Label.value.text
-msgid "Table Filter..."
-msgstr "Scagaire Tábla..."
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBRefreshTables.Label.value.text
-msgid "Refresh Tables"
-msgstr ""
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBDirectSQL.Label.value.text
-msgid "SQL..."
-msgstr "SQL..."
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DSBEditDoc.Label.value.text
-msgid "Edit Data"
-msgstr "Cuir na Sonraí in Eagar"
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DSBFormLetter.Label.value.text
-#: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_MergeDialog.Label.value.text
-msgid "~Mail Merge..."
-msgstr "Postchu~masc..."
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DSBInsertColumns.Label.value.text
-msgid "Data to Text..."
-msgstr ""
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DSBInsertContent.Label.value.text
-msgid "Data to Fields"
-msgstr ""
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DSBDocumentDataSource.Label.value.text
-msgid "Data Source of Current Document"
-msgstr ""
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBSendReportAsMail.Label.value.text
-msgid "Report As E-Mail..."
-msgstr ""
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBSendReportToWriter.Label.value.text
-msgid "Report to Text Document..."
-msgstr ""
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Popups..uno_DBDatabaseObjectsMenu.Label.value.text
-msgid "Database Objects"
-msgstr ""
 
 #: BasicIDEWindowState.xcu#..BasicIDEWindowState.UIElements.States.private_resource/toolbar/insertcontrolsbar.UIName.value.text
 msgid "Toolbox"
@@ -62663,6 +62547,11 @@ msgstr "Frá~ma..."
 msgid "~Entry..."
 msgstr "~Iontráil..."
 
+#: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_MergeDialog.Label.value.text
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DSBFormLetter.Label.value.text
+msgid "~Mail Merge..."
+msgstr "Postchu~masc..."
+
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_MailMergeWizard.Label.value.text
 msgid "~Mail Merge Wizard..."
 msgstr "Draoi Postchu~maisc..."
@@ -62871,6 +62760,118 @@ msgstr "Réad-OLE"
 #: WriterWindowState.xcu#..WriterWindowState.UIElements.States.private_resource/toolbar/drawtextobjectbar.UIName.value.text
 msgid "Text Object"
 msgstr "Réad Téacs"
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBClearQuery.Label.value.text
+msgid "Clear Query"
+msgstr "Glan an tIarratas"
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBAddRelation.Label.value.text
+msgid "New Relation..."
+msgstr ""
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBAddTable.Label.value.text
+msgid "Add Tables..."
+msgstr "Táblaí Nua..."
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBIndexDesign.Label.value.text
+msgid "~Index Design..."
+msgstr ""
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBChangeDesignMode.Label.value.text
+msgid "Switch Design View On/Off"
+msgstr ""
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBOpen.Label.value.text
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBTableOpen.Label.value.text
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBQueryOpen.Label.value.text
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBFormOpen.Label.value.text
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBReportOpen.Label.value.text
+msgid "Open Database Object..."
+msgstr ""
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBNewTableAutoPilot.Label.value.text
+msgid "Table Wizard..."
+msgstr "Draoi Tábla..."
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBNewQueryAutoPilot.Label.value.text
+msgid "Query Wizard..."
+msgstr ""
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBDSConnectionType.Label.value.text
+msgid "Connection Type..."
+msgstr "Cineál Naisc..."
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBDSAdvancedSettings.Label.value.text
+msgid "Advanced Settings..."
+msgstr "Ardsocruithe..."
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBNewQuery.Label.value.text
+msgid "Query (Design View)..."
+msgstr ""
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBNewQuerySql.Label.value.text
+msgid "Query (SQL View)..."
+msgstr ""
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBNewTable.Label.value.text
+msgid "Table Design..."
+msgstr ""
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBNewView.Label.value.text
+msgid "View Design..."
+msgstr ""
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBNewFolder.Label.value.text
+msgid "Folder..."
+msgstr "Fillteán..."
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBRelationDesign.Label.value.text
+msgid "Relationships..."
+msgstr ""
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBUserAdmin.Label.value.text
+msgid "User Administration..."
+msgstr ""
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBTableFilter.Label.value.text
+msgid "Table Filter..."
+msgstr "Scagaire Tábla..."
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBRefreshTables.Label.value.text
+msgid "Refresh Tables"
+msgstr ""
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBDirectSQL.Label.value.text
+msgid "SQL..."
+msgstr "SQL..."
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DSBEditDoc.Label.value.text
+msgid "Edit Data"
+msgstr "Cuir na Sonraí in Eagar"
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DSBInsertColumns.Label.value.text
+msgid "Data to Text..."
+msgstr ""
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DSBInsertContent.Label.value.text
+msgid "Data to Fields"
+msgstr ""
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DSBDocumentDataSource.Label.value.text
+msgid "Data Source of Current Document"
+msgstr ""
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBSendReportAsMail.Label.value.text
+msgid "Report As E-Mail..."
+msgstr ""
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBSendReportToWriter.Label.value.text
+msgid "Report to Text Document..."
+msgstr ""
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Popups..uno_DBDatabaseObjectsMenu.Label.value.text
+msgid "Database Objects"
+msgstr ""
 
 #: Common.xcu#..Common.Menus.New.m0.Title.value.text
 msgid "~Text Document"
@@ -71515,7 +71516,7 @@ msgid "The format of the selected file is not supported."
 msgstr ""
 
 #: readme.xrm#ooo_readme.Welcome.A2.a.readmeitem.text
-msgid "Last updated $Date: 2005-04-18 01:32:20 $"
+msgid "Last updated $Date: 2005-04-18 03:17:14 $"
 msgstr ""
 
 #: readme.xrm#ooo_readme.Welcome.A3.a.readmeitem.text
