@@ -1276,7 +1276,7 @@ msgstr "~Aonleithid"
 
 #: asciiopt.src#RID_SCDLG_ASCII.RB_SEPARATED.radiobutton.text
 msgid "~Separated by"
-msgstr "~Dealaithe le"
+msgstr "~Deighilte le"
 
 #: asciiopt.src#RID_SCDLG_ASCII.FT_CHARSET.fixedtext.text
 msgid "Ch~aracter set"
@@ -5044,7 +5044,7 @@ msgstr "Cnámhscéal gan aimsiú"
 
 #: globstr.src#RID_GLOBSTR.STR_QUERY_DELENTRY.string.text
 msgid "Do you really want to delete the entry #?"
-msgstr "An bhfuil tú cinnte gur mhaith leat an iontráil seo a dhealú #?"
+msgstr "An bhfuil tú cinnte gur mhaith leat an iontráil seo a scriosadh #?"
 
 #: globstr.src#RID_GLOBSTR.STR_VOBJ_OBJECT.string.text
 msgid "Objects/graphics"
@@ -15839,7 +15839,7 @@ msgstr "Scrios grádán"
 #: sdstring.src#STR_ASK_DEL_GRADIENT.string.text
 #: sdstring.src#RID_SVXSTR_ASK_DEL_GRADIENT.string.text
 msgid "Do you want to delete the gradient?"
-msgstr "An bhfuil tú cinnte gur mhaith leat an grádán seo a dhealú?"
+msgstr "An bhfuil tú cinnte gur mhaith leat an grádán seo a scriosadh?"
 
 #: sdstring.src#STR_ASK_CHANGE_GRADIENT.string.text
 msgid ""
@@ -15874,7 +15874,7 @@ msgstr "Scrios an mapa giotáin"
 
 #: sdstring.src#STR_ASK_DEL_BITMAP.string.text
 msgid "Do you want to delete the bitmap?"
-msgstr "An bhfuil tú cinnte gur mhaith leat an mapa giotáin a dhealú?"
+msgstr "An bhfuil tú cinnte gur mhaith leat an mapa giotáin a scriosadh?"
 
 #: sdstring.src#STR_ASK_CHANGE_BITMAP.string.text
 msgid ""
@@ -16764,7 +16764,7 @@ msgstr ""
 
 #: strings.src#STR_ASK_DELETE_ALL_PICTURES.string.text
 msgid "Do you really want to delete all images?"
-msgstr "An bhfuil tú cinnte gur mhaith leat gach íomhá a dhealú?"
+msgstr "An bhfuil tú cinnte gur mhaith leat gach íomhá a scriosadh?"
 
 #: strings.src#STR_UNDO_CHANGE_TITLE_AND_LAYOUT.string.text
 msgid "Modify title and outline"
@@ -16904,7 +16904,7 @@ msgstr "Scrios an deilbhín"
 
 #: strings.src#STR_WARN_DEL_SHAPE.string.text
 msgid "Are you sure you want to delete this symbol?"
-msgstr "An bhfuil tú cinnte go dteastaíonn uait an shiombail seo a dhealú?"
+msgstr "An bhfuil tú cinnte go dteastaíonn uait an shiombail seo a scriosadh?"
 
 #: strings.src#STR_WARN_MODIFY_SHAPE.string.text
 msgid "Are you sure you want to modify the symbol?"
@@ -20957,7 +20957,7 @@ msgstr "Ionsá"
 
 #: shells.src#STR_REDLINE_DELETED.string.text
 msgid "Deletion"
-msgstr "Dealú"
+msgstr "Scriosadh"
 
 #: shells.src#STR_REDLINE_FORMATED.string.text
 #: smres.src#RID_TOOLBOXWINDOW.10.RID_FORMAT_CAT.toolboxitem.text
@@ -26422,7 +26422,7 @@ msgstr "Teormharcóir aibítreach"
 
 #: cnttab.src#TP_TOX_ENTRY.CB_COMMASEPARATED.checkbox.text
 msgid "Key separated by commas"
-msgstr ""
+msgstr "Eochair deighilte le camóga"
 
 #: cnttab.src#TP_TOX_ENTRY.RB_DOCPOS.radiobutton.text
 msgid "Document ~position "
@@ -28873,7 +28873,7 @@ msgstr ""
 
 #: convert.src#DLG_CONV_TEXT_TABLE.FL_DELIM.fixedline.text
 msgid "Separate text at"
-msgstr ""
+msgstr "Deighil téacs ag"
 
 #: convert.src#DLG_CONV_TEXT_TABLE.CB_REPEAT_HEADER.checkbox.text
 #: instable.src#DLG_INSERT_TABLE.CB_REPEAT_HEADER.checkbox.text
@@ -32907,7 +32907,7 @@ msgstr "~giorrúcháin (yo-on, sokuon)"
 
 #: optjsearch.src#RID_SVXPAGE_JSEARCH_OPTIONS.CB_MATCH_MINUS_DASH_CHOON.checkbox.text
 msgid "~minus/dash/cho-on"
-msgstr "~míneas/fleasc/cho-on"
+msgstr "~míneas/dais/cho-on"
 
 #: optjsearch.src#RID_SVXPAGE_JSEARCH_OPTIONS.CB_MATCH_REPEAT_CHAR_MARKS.checkbox.text
 msgid "'re~peat character' marks"
@@ -33080,7 +33080,7 @@ msgstr "Fleiscínigh réigiúin speisialta"
 
 #: optlingu.src#RID_SFXQB_DELDICT.querybox.text
 msgid "Do you want to delete the dictionary?"
-msgstr "An bhfuil tú cinnte gur mhaith leat an foclóir a dhealú?"
+msgstr "An bhfuil tú cinnte gur mhaith leat an foclóir a scriosadh?"
 
 #: optlingu.src#RID_SFXQB_DEL_IGNORELIST.querybox.text
 msgid "Do you want to delete the ignore list?"
@@ -36564,15 +36564,15 @@ msgstr "roimh slonn \"#\"."
 
 #: fmstring.src#RID_STR_SVT_SQL_SYNTAX_VALUE_NO_LIKE.string.text
 msgid "The value #1 cannot be used with LIKE!"
-msgstr ""
+msgstr "Ní féidir an luach #1 a úsáid le LIKE!"
 
 #: fmstring.src#RID_STR_SVT_SQL_SYNTAX_FIELD_NO_LIKE.string.text
 msgid "LIKE cannot be used with this field."
-msgstr ""
+msgstr "Ní féidir LIKE a úsáid leis an réimse seo."
 
 #: fmstring.src#RID_STR_SVT_SQL_SYNTAX_NO_NUM.string.text
 msgid "The field cannot be compared with a string."
-msgstr ""
+msgstr "Ní féidir an réimse a chur i gcomparáid le teaghrán."
 
 #: fmstring.src#RID_STR_SVT_SQL_SYNTAX_ACCESS_DAT_NO_VALID.string.text
 msgid ""
@@ -36582,23 +36582,24 @@ msgstr ""
 
 #: fmstring.src#RID_STR_SVT_SQL_SYNTAX_INT_NO_VALID.string.text
 msgid "The field cannot be compared with an integer."
-msgstr ""
+msgstr "Ní féidir an réimse a chur i gcomparáid le slánuimhir."
 
 #: fmstring.src#RID_STR_SVT_SQL_SYNTAX_TABLE.string.text
 msgid "The table \"#\" is unknown in the database."
-msgstr ""
+msgstr "Is anaithnid é an tábla \"#\" sa bhunachar sonraí."
 
 #: fmstring.src#RID_STR_SVT_SQL_SYNTAX_COLUMN.string.text
 msgid "The column \"#\" is unknown in the table \"#\"!"
-msgstr ""
+msgstr "Is anaithnid é an colún \"#\" sa tábla \"#\"!"
 
 #: fmstring.src#RID_STR_SVT_SQL_SYNTAX_REAL_NO_VALID.string.text
 msgid "The field cannot be compared with a floating point number."
-msgstr ""
+msgstr "Ní féidir an réimse a chur i gcomparáid le huimhir shnámhphointe."
 
 #: fmstring.src#RID_STR_SVT_SQL_SYNTAX_CRIT_NO_COMPARE.string.text
 msgid "The entered criterion cannot be compared with this field."
 msgstr ""
+"Ní féidir an critéar iontráilte a chur i gcomparáid leis an réimse seo."
 
 #: fmstring.src#RID_STR_DATANAVIGATOR.string.text
 msgid "Data Navigator"
@@ -36624,7 +36625,7 @@ msgstr "%PRODUCTNAME XML (Draw)"
 
 #: app.src#STR_SD_STAROFFICE_XML_IMPRESS.string.text
 msgid "%PRODUCTNAME XML (Impress)"
-msgstr ""
+msgstr "XML %PRODUCTNAME (Impress)"
 
 #: SpellDialog.src#RID_SVXDLG_SPELLCHECK.FT_NOTINDICT.fixedtext.text
 msgid "~Not in dictionary"
@@ -36637,7 +36638,7 @@ msgstr "~Moltaí"
 
 #: SpellDialog.src#RID_SVXDLG_SPELLCHECK.FT_LANGUAGE.fixedtext.text
 msgid "Dictionary languag~e"
-msgstr ""
+msgstr "T~eanga an fhoclóra"
 
 #: SpellDialog.src#RID_SVXDLG_SPELLCHECK.PB_IGNORE.pushbutton.text
 msgid "~Ignore Once"
@@ -36691,7 +36692,7 @@ msgstr "Ailíniú téacs"
 
 #: align.src#RID_SVXPAGE_ALIGNMENT.LB_HORALIGN.6.stringlist.text
 msgid "Filled"
-msgstr ""
+msgstr "Líonta"
 
 #: align.src#RID_SVXPAGE_ALIGNMENT.FT_INDENT.fixedtext.text
 msgid "I~ndent"
@@ -36798,7 +36799,7 @@ msgstr ""
 
 #: autocdlg.src#RID_OFAPAGE_AUTOFMT_APPLY.ST_DEL_EMPTY_PARA.string.text
 msgid "Remove blank paragraphs"
-msgstr ""
+msgstr "Bain ailt fholmha amach"
 
 #: autocdlg.src#RID_OFAPAGE_AUTOFMT_APPLY.ST_BULLET.string.text
 msgid "Replace bullets with: "
@@ -36874,7 +36875,7 @@ msgstr ""
 
 #: autocdlg.src#RID_OFAPAGE_AUTOCORR_QUOTE.FL_SINGLE.fixedline.text
 msgid "Single quotes"
-msgstr ""
+msgstr "Carachtar singil athfhriotail"
 
 #: autocdlg.src#RID_OFAPAGE_AUTOCORR_QUOTE.FT_SGL_STARTQUOTE.fixedtext.text
 msgid "~Start quote:"
@@ -36910,28 +36911,29 @@ msgstr ""
 
 #: autocdlg.src#RID_OFAPAGE_AUTOCOMPLETE_OPTIONS.CB_ACTIV.checkbox.text
 msgid "Enable word ~completion"
-msgstr ""
+msgstr "~Cumasaigh comhlánú téacs"
 
 #: autocdlg.src#RID_OFAPAGE_AUTOCOMPLETE_OPTIONS.CB_APPEND_SPACE.checkbox.text
 msgid "~Append space"
-msgstr ""
+msgstr "I~archeangail spás"
 
 #: autocdlg.src#RID_OFAPAGE_AUTOCOMPLETE_OPTIONS.CB_AS_TIP.checkbox.text
 msgid "~Show as tip"
-msgstr ""
+msgstr "Tai~speáin mar leid"
 
 #: autocdlg.src#RID_OFAPAGE_AUTOCOMPLETE_OPTIONS.CB_COLLECT.checkbox.text
 msgid "C~ollect words"
-msgstr ""
+msgstr "Cnuasaigh f~ocail"
 
 #: autocdlg.src#RID_OFAPAGE_AUTOCOMPLETE_OPTIONS.CB_KEEP_LIST.checkbox.text
 msgid ""
 "~When closing a document, save the list for later use in other documents."
 msgstr ""
+"Agus cáipéis á dúnadh, sábháil an liosta chun é a úsáid i gcáipéisí eile."
 
 #: autocdlg.src#RID_OFAPAGE_AUTOCOMPLETE_OPTIONS.FT_EXPAND_KEY.fixedtext.text
 msgid "Acc~ept with"
-msgstr ""
+msgstr "Glac l~e"
 
 #: autocdlg.src#RID_OFAPAGE_AUTOCOMPLETE_OPTIONS.FT_MIN_WORDLEN.fixedtext.text
 msgid "Mi~n. word length"
@@ -36943,11 +36945,11 @@ msgstr ""
 
 #: autocdlg.src#RID_OFAPAGE_AUTOCOMPLETE_OPTIONS.PB_ENTRIES.pushbutton.text
 msgid "~Delete Entry"
-msgstr ""
+msgstr "Scrios ~Iontráil"
 
 #: backgrnd.src#UNLINKED_IMAGE.#define.text
 msgid "Unlinked graphic"
-msgstr ""
+msgstr "Grafaic dínasctha"
 
 #: backgrnd.src#RID_SVXPAGE_BACKGROUND.FT_SELECTOR.fixedtext.text
 msgid "A~s"
@@ -36972,7 +36974,7 @@ msgstr "~Trédhearcacht"
 
 #: backgrnd.src#RID_SVXPAGE_BACKGROUND.BTN_AREA.radiobutton.text
 msgid "Ar~ea"
-msgstr ""
+msgstr "~Limistéar"
 
 #: backgrnd.src#RID_SVXPAGE_BACKGROUND.BTN_PREVIEW.checkbox.text
 #: new.src#DLG_NEW_FILE.BTN_PREVIEW.checkbox.text
@@ -36982,7 +36984,7 @@ msgstr "Réamha~mharc"
 
 #: backgrnd.src#RID_SVXPAGE_BACKGROUND.STR_BROWSE.string.text
 msgid "Find graphics"
-msgstr ""
+msgstr "Aimsigh grafaicí"
 
 #: bbdlg.src#RID_SVXDLG_BBDLG.tabdialog.text
 msgid "Border / Background"
@@ -37018,7 +37020,7 @@ msgstr ""
 
 #: border.src#RID_SVXPAGE_BORDER.FL_BORDER.fixedline.text
 msgid "Line arrangement"
-msgstr ""
+msgstr "Leagan amach na línte"
 
 #: border.src#RID_SVXPAGE_BORDER.CB_SYNC.checkbox.text
 msgid "Synchronize"
@@ -37045,7 +37047,7 @@ msgstr "Scáthstíl"
 
 #: border.src#RID_SVXPAGE_BORDER.CB_MERGEWITHNEXT.checkbox.text
 msgid "~Merge with next paragraph"
-msgstr ""
+msgstr "Cu~maisc leis an chéad alt eile"
 
 #: border.src#RID_SVXPAGE_BORDER.CB_MERGEADJACENTBORDERS.checkbox.text
 msgid "~Merge adjacent line styles"
@@ -37073,7 +37075,7 @@ msgstr ""
 
 #: border.src#RID_SVXSTR_PARA_PRESET_DIAGONAL.string.text
 msgid "Set Diagonal Lines Only"
-msgstr ""
+msgstr "Socraigh Línte Trasnánacha Amháin"
 
 #: border.src#RID_SVXSTR_PARA_PRESET_ALL.string.text
 msgid "Set All Four Borders"
@@ -37161,7 +37163,7 @@ msgstr "Roghchlár"
 
 #: cfg.src#TEXT_BEGIN_GROUP.#define.text
 msgid "Begin a Group"
-msgstr ""
+msgstr "Tosaigh Grúpa"
 
 #: cfg.src#TEXT_DELETE.#define.text
 #: dialog.src#MN_CONTEXT_TEMPLDLG.ID_DELETE.menuitem.text
@@ -37186,7 +37188,7 @@ msgstr "Téacs amháin"
 
 #: cfg.src#TEXT_TOOLBAR_NAME.#define.text
 msgid "Toolbar Name"
-msgstr ""
+msgstr "Ainm an Bharra Uirlisí"
 
 #: cfg.src#TEXT_SAVE_IN.#define.text
 #: eventdlg.src#RID_SVXPAGE_EVENTS.TXT_SAVEIN.fixedtext.text
@@ -37216,7 +37218,7 @@ msgstr "Cuir Leis..."
 
 #: cfg.src#MODIFY_ENTRY.ID_ADD_SUBMENU.menuitem.text
 msgid "Add Submenu..."
-msgstr ""
+msgstr "Cuir Fo-Roghchlár Leis..."
 
 #: cfg.src#MODIFY_TOOLBAR.ID_ICONS_ONLY.menuitem.text
 msgid "Icons Only"
@@ -37267,7 +37269,7 @@ msgstr "Ainm roghchláir"
 
 #: cfg.src#MD_MENU_ORGANISER.TXT_MENU.fixedtext.text
 msgid "Menu position"
-msgstr ""
+msgstr "Ionad an roghchláir"
 
 #: cfg.src#MD_MENU_ORGANISER.modaldialog.text
 msgid "New Menu"
@@ -37320,6 +37322,7 @@ msgstr "Ordú"
 #: cfg.src#QBX_CONFIRM_DELETE_MENU.querybox.text
 msgid "Are you sure you want to delete the '%MENUNAME' menu?"
 msgstr ""
+"An bhfuil tú cinnte go dteastaíonn uait an roghchlár '%MENUNAME' a scriosadh?"
 
 #: cfg.src#QBX_CONFIRM_DELETE_TOOLBAR.querybox.text
 msgid ""
@@ -37395,7 +37398,7 @@ msgstr "Dath ~cló"
 
 #: chardlg.src#RID_SVXPAGE_CHAR_NAME.STR_CHARNAME_NOSTYLE.string.text
 msgid "No %s"
-msgstr ""
+msgstr "Gan %s"
 
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.FT_UNDERLINE.fixedtext.text
 msgid "Underlining"
@@ -37452,19 +37455,19 @@ msgstr "Dais Fhada (Trom)"
 
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE.11.stringlist.text
 msgid "Dot Dash"
-msgstr ""
+msgstr "Ponc Dais"
 
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE.12.stringlist.text
 msgid "Dot Dash (Bold)"
-msgstr ""
+msgstr "Ponc Dais (Trom)"
 
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE.13.stringlist.text
 msgid "Dot Dot Dash"
-msgstr ""
+msgstr "Ponc Ponc Dais"
 
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE.14.stringlist.text
 msgid "Dot Dot Dash (Bold)"
-msgstr ""
+msgstr "Ponc Ponc Dais (Trom)"
 
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE.15.stringlist.text
 #: Effects.xcu#..Effects.UserInterface.Effects.ooo_emphasis_wave.Label.value.text
@@ -37475,11 +37478,11 @@ msgstr "Tonn"
 
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE.16.stringlist.text
 msgid "Wave (Bold)"
-msgstr ""
+msgstr "Tonn (Trom)"
 
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE.17.stringlist.text
 msgid "Double Wave"
-msgstr ""
+msgstr "Tonn Dúbailte"
 
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_STRIKEOUT.5.stringlist.text
 msgid "With /"
@@ -37514,11 +37517,11 @@ msgstr "Aiceann"
 
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_POSITION.1.stringlist.text
 msgid "Above text"
-msgstr ""
+msgstr "Os cionn téacs"
 
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_POSITION.2.stringlist.text
 msgid "Below text"
-msgstr ""
+msgstr "Faoi théacs"
 
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_EFFECTS2.2.stringlist.text
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.STR_EFFECTS_CAPITALS.string.text
@@ -37764,7 +37767,7 @@ msgstr "Gúisearáitis"
 #: charmap.src#RID_SUBSETMAP.RID_SUBSETSTR_ORIYA.string.text
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_ORIYA.pairedlist.text
 msgid "Oriya"
-msgstr "Oriya"
+msgstr "Oirísis"
 
 #: charmap.src#RID_SUBSETMAP.RID_SUBSETSTR_TAMIL.string.text
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_TAMIL.pairedlist.text
@@ -38147,7 +38150,7 @@ msgstr ""
 
 #: commonlingui.src#RID_SVX_WND_COMMON_LINGU.FT_WORD.fixedtext.text
 msgid "Origi~nal"
-msgstr ""
+msgstr "Bu~núsach"
 
 #: commonlingui.src#RID_SVX_WND_COMMON_LINGU.BTN_IGNORE.pushbutton.text
 #: btntext.src#SV_BUTTONTEXT_IGNORE.string.text
@@ -38290,7 +38293,7 @@ msgstr ""
 
 #: contdlg.src#STR_CONTOURDLG_NEWPIPETTE.string.text
 msgid "Do you want to create a new contour?"
-msgstr ""
+msgstr "Ar mhaith leat comhrian nua a chruthú?"
 
 #: contdlg.src#STR_CONTOURDLG_WORKPLACE.string.text
 msgid ""
@@ -38320,7 +38323,7 @@ msgstr "ó"
 
 #: ctredlin.src#SID_REDLIN_FILTER_PAGE.LB_DATE.3.stringlist.text
 msgid "equal to "
-msgstr ""
+msgstr "cothom le "
 
 #: ctredlin.src#SID_REDLIN_FILTER_PAGE.LB_DATE.6.stringlist.text
 msgid "since saving"
@@ -38366,7 +38369,7 @@ msgstr "Ainm cláraithe"
 
 #: dbregister.src#RID_SFXPAGE_DBREGISTER.FT_PATH.fixedtext.text
 msgid "Database file"
-msgstr ""
+msgstr "Comhad bunachair sonraí"
 
 #: dbregister.src#RID_SFXPAGE_DBREGISTER.GB_STD.fixedline.text
 #: dbregister.src#RID_SFXPAGE_DBREGISTER.tabpage.text
@@ -38375,7 +38378,7 @@ msgstr "Bunachair sonraí cláraithe"
 
 #: doclinkdialog.src#DLG_DOCUMENTLINK.FT_URL.fixedtext.text
 msgid "~Database file"
-msgstr ""
+msgstr "Comha~d bunachair sonraí"
 
 #: doclinkdialog.src#DLG_DOCUMENTLINK.FT_NAME.fixedtext.text
 msgid "Registered ~name"
@@ -38391,7 +38394,7 @@ msgstr ""
 
 #: doclinkdialog.src#STR_LINKEDDOC_DOESNOTEXIST.string.text
 msgid "The file\\n$file$\\ndoes not exist."
-msgstr ""
+msgstr "Níl an comhad\\n$file$\\nann."
 
 #: doclinkdialog.src#STR_NAME_CONFLICT.string.text
 msgid ""
@@ -38401,12 +38404,12 @@ msgstr ""
 
 #: doclinkdialog.src#QUERY_DELETE_CONFIRM.querybox.text
 msgid "Do you want to delete the entry?"
-msgstr ""
+msgstr "An bhfuil tú cinnte gur mhaith leat an iontráil a scriosadh?"
 
 #: docrecovery.src#RID_SVXPAGE_DOCRECOVERY_SAVE.FT_SAVE_TITLE.fixedtext.text
 #: docrecovery.src#RID_SVXPAGE_DOCRECOVERY_RECOVER.FT_RECOV_TITLE.fixedtext.text
 msgid "%PRODUCTNAME Document Recovery"
-msgstr ""
+msgstr "Athshlánú Cáipéise %PRODUCTNAME"
 
 #: docrecovery.src#RID_SVXPAGE_DOCRECOVERY_SAVE.FT_SAVE_DESCR.fixedtext.text
 msgid ""
@@ -38441,7 +38444,7 @@ msgstr ""
 
 #: docrecovery.src#RID_SVXPAGE_DOCRECOVERY_RECOVER.FT_RECOV_PROGR.fixedtext.text
 msgid "Recovering document:"
-msgstr ""
+msgstr "Cáipéis á hathshlánú:"
 
 #: docrecovery.src#RID_SVXPAGE_DOCRECOVERY_RECOVER.FT_RECOV_FILELIST.fixedtext.text
 msgid "Status of recovered documents:"
@@ -38449,11 +38452,11 @@ msgstr ""
 
 #: docrecovery.src#RID_SVXPAGE_DOCRECOVERY_RECOVER.STR_HEADERBAR.string.text
 msgid "Document Name\\tStatus"
-msgstr ""
+msgstr "Ainm na Cáipéise\\tStádas"
 
 #: docrecovery.src#RID_SVXPAGE_DOCRECOVERY_RECOVER.BTN_RECOV_NEXT.pushbutton.text
 msgid "~Start Recovery >"
-msgstr ""
+msgstr "Ath~shlánaigh >"
 
 #: docrecovery.src#RID_SVXPAGE_DOCRECOVERY_RECOVER.STR_RECOVERY_NEXT.string.text
 #: docrecovery.src#RID_SVXPAGE_ERR_REP_WELCOME.BTN_RECOV_NEXT.okbutton.text
@@ -38484,6 +38487,8 @@ msgstr ""
 #: docrecovery.src#RID_SVXQB_EXIT_RECOVERY.querybox.text
 msgid "Are you sure you want to cancel the %PRODUCTNAME document recovery?"
 msgstr ""
+"An bhfuil tú cinnte gur mian leat an t-athshlánú cáipéise %PRODUCTNAME a "
+"chealú?"
 
 #: docrecovery.src#RID_SVX_MDLG_DOCRECOVERY_BROKEN.FT_BROKEN_DESCR.fixedtext.text
 msgid ""
@@ -38559,7 +38564,7 @@ msgstr ""
 
 #: docrecovery.src#RID_SVXPAGE_ERR_REP_SEND.FT_ERRSEND_EMAILADDR.fixedtext.text
 msgid "~Please enter your e-mail address"
-msgstr ""
+msgstr "Iontráil do sheoladh ríomh~phoist, le do thoil"
 
 #: docrecovery.src#RID_SVXPAGE_ERR_REP_SEND.BTN_RECOV_NEXT.okbutton.text
 #: mail.src#RID_STR_CLOSE_BTN_SEND.string.text
@@ -38591,7 +38596,7 @@ msgstr "Úsáid nasc ~díreach leis an Idirlíon"
 #: docrecovery.src#RID_SVX_MDLG_ERR_REP_OPTIONS.BTN_ERROPT_MANUAL.radiobutton.text
 #: crashrep.ulf#_PROXY_SETTINGS_MANUAL_.LngText.text
 msgid "Use ~manual settings"
-msgstr ""
+msgstr "Úsáid socruithe lái~mhe"
 
 #: docrecovery.src#RID_SVX_MDLG_ERR_REP_OPTIONS.FT_ERROPT_PROXYSERVER.fixedtext.text
 #: crashrep.ulf#_PROXY_SETTINGS_ADDRESS_.LngText.text
@@ -41903,7 +41908,7 @@ msgstr "Scrios an dath"
 
 #: sdstring.src#RID_SVXSTR_ASK_DEL_COLOR.string.text
 msgid "Do you want to delete the color?"
-msgstr "An bhfuil tú cinnte gur mhaith leat an dath a dhealú?"
+msgstr "An bhfuil tú cinnte gur mhaith leat an dath a scriosadh?"
 
 #: sdstring.src#RID_SVXSTR_ASK_CHANGE_COLOR.string.text
 msgid ""
@@ -47989,7 +47994,7 @@ msgstr ""
 
 #: AutoControls_tmpl.hrc#AUTO_SEPARATORCONTROLGROUP_AUTO_Y_AUTOPAGE_X_.RB_AUTOACCESSCCSVFILES.radiobutton.text
 msgid "'Comma separated value' files (*.csv)"
-msgstr ""
+msgstr "Comhad 'luachanna deighilte le camóga' (*.csv)"
 
 #: AutoControls_tmpl.hrc#AUTO_SEPARATORCONTROLGROUP_AUTO_Y_AUTOPAGE_X_.RB_AUTOACCESSOTHERS.radiobutton.text
 msgid "Custom:"
@@ -51323,7 +51328,7 @@ msgstr "(Sínithe)"
 #: minbox.src#RID_DELETE_MAIL_QBX.querybox.text
 msgid "Are you sure you want to delete this message?"
 msgstr ""
-"An bhfuil tú cinnte go dteastaíonn uait an theachtaireacht seo a dhealú?"
+"An bhfuil tú cinnte go dteastaíonn uait an theachtaireacht seo a scriosadh?"
 
 #: minbox.src#RID_MAIL_INBOX.dockingwindow.text
 #: explorer.src#STR_SFX_MAILSRV_INBOX.string.text
@@ -56178,24 +56183,25 @@ msgstr ""
 
 #: basidesh.src#RID_STR_QUERYDELMACRO.string.text
 msgid "Do you want to delete the macro XX ?"
-msgstr "An bhfuil tú cinnte gur mhaith leat an macra XX a dhealú ?"
+msgstr "An bhfuil tú cinnte gur mhaith leat an macra XX a scriosadh ?"
 
 #: basidesh.src#RID_STR_QUERYDELDIALOG.string.text
 msgid "Do you want to delete the XX dialog?"
-msgstr "An bhfuil tú cinnte gur mhaith leat an dialóg XX a dhealú?"
+msgstr "An bhfuil tú cinnte gur mhaith leat an dialóg XX a scriosadh?"
 
 #: basidesh.src#RID_STR_QUERYDELLIB.string.text
 msgid "Do you want to delete the XX library?"
-msgstr "An bhfuil tú cinnte gur mhaith leat an leabharlann XX a dhealú"
+msgstr "An bhfuil tú cinnte gur mhaith leat an leabharlann XX a scriosadh"
 
 #: basidesh.src#RID_STR_QUERYDELLIBREF.string.text
 msgid "Do you want to delete the reference to the XX library?"
 msgstr ""
-"An bhfuil tú cinnte gur mhaith leat an tagairt don leabharlann XX a dhealú?"
+"An bhfuil tú cinnte gur mhaith leat an tagairt don leabharlann XX a "
+"scriosadh?"
 
 #: basidesh.src#RID_STR_QUERYDELMODULE.string.text
 msgid "Do you want to delete the XX module?"
-msgstr "An bhfuil tú cinnte gur mhaith leat an modúl XX a dhealú?"
+msgstr "An bhfuil tú cinnte gur mhaith leat an modúl XX a scriosadh?"
 
 #: basidesh.src#RID_STR_OBJNOTFOUND.string.text
 msgid "Object or method not found"
@@ -71516,7 +71522,7 @@ msgid "The format of the selected file is not supported."
 msgstr ""
 
 #: readme.xrm#ooo_readme.Welcome.A2.a.readmeitem.text
-msgid "Last updated $Date: 2005-04-18 03:17:14 $"
+msgid "Last updated $Date: 2005-04-18 03:46:42 $"
 msgstr ""
 
 #: readme.xrm#ooo_readme.Welcome.A3.a.readmeitem.text
