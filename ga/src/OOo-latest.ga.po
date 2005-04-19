@@ -46280,11 +46280,11 @@ msgstr ""
 
 #: ids.src#RID_UUI_ERRHDL._ERRCODE_UUI_IO_ISWILDCARD___ERRCODE_RES_MASK_.string.text
 msgid "The operation cannot be performed because $(ARG1) contains wildcards"
-msgstr ""
+msgstr "Ní féidir an oibríocht a dhéanamh toisc go bhfuil saoróga i $(ARG1)"
 
 #: ids.src#RID_UUI_ERRHDL._ERRCODE_UUI_IO_LOCKVIOLATION___ERRCODE_RES_MASK_.string.text
 msgid "Error during shared access to $(ARG1)."
-msgstr ""
+msgstr "Earráid le linn comhrochtana ar $(ARG1)."
 
 #: ids.src#RID_UUI_ERRHDL._ERRCODE_UUI_IO_MISPLACEDCHAR___ERRCODE_RES_MASK_.string.text
 msgid "$(ARG1) contains misplaced characters"
@@ -46292,11 +46292,11 @@ msgstr ""
 
 #: ids.src#RID_UUI_ERRHDL._ERRCODE_UUI_IO_NAMETOOLONG___ERRCODE_RES_MASK_.string.text
 msgid "The name $(ARG1) contains too many characters"
-msgstr ""
+msgstr "An iomarca carachtar san ainm $(ARG1)"
 
 #: ids.src#RID_UUI_ERRHDL._ERRCODE_UUI_IO_NOTEXISTSPATH___ERRCODE_RES_MASK_.string.text
 msgid "The path $(ARG1) does not exist"
-msgstr ""
+msgstr "Níl an chonair $(ARG1) ann"
 
 #: ids.src#RID_UUI_ERRHDL._ERRCODE_UUI_IO_NOTSUPPORTED___ERRCODE_RES_MASK_.string.text
 msgid "The operation on $(ARG1) is not supported on this operating system"
@@ -46304,11 +46304,11 @@ msgstr ""
 
 #: ids.src#RID_UUI_ERRHDL._ERRCODE_UUI_IO_NOTADIRECTORY___ERRCODE_RES_MASK_.string.text
 msgid "$(ARG1) is not a directory"
-msgstr ""
+msgstr "$(ARG1): ní comhadlann é"
 
 #: ids.src#RID_UUI_ERRHDL._ERRCODE_UUI_IO_NOTAFILE___ERRCODE_RES_MASK_.string.text
 msgid "$(ARG1) is not a file"
-msgstr ""
+msgstr "$(ARG1): ní comhad é"
 
 #: ids.src#RID_UUI_ERRHDL._ERRCODE_UUI_IO_OUTOFSPACE___ERRCODE_RES_MASK_.string.text
 msgid "There is no space left on device $(ARG1)"
@@ -46319,6 +46319,8 @@ msgid ""
 "The operation on $(ARG1) cannot be performed because too many files are "
 "already open"
 msgstr ""
+"Ní féidir an oibríocht ar $(ARG1) a dhéanamh toisc go bhfuil an iomarca "
+"comhad oscailte ann"
 
 #: ids.src#RID_UUI_ERRHDL._ERRCODE_UUI_IO_OUTOFMEMORY___ERRCODE_RES_MASK_.string.text
 msgid ""
@@ -46332,15 +46334,15 @@ msgstr ""
 
 #: ids.src#RID_UUI_ERRHDL._ERRCODE_UUI_IO_RECURSIVE___ERRCODE_RES_MASK_.string.text
 msgid "$(ARG1) cannot be copied into itself"
-msgstr ""
+msgstr "Ní féidir $(ARG1) a chóipeáil air féin"
 
 #: ids.src#RID_UUI_ERRHDL._ERRCODE_UUI_IO_UNKNOWN___ERRCODE_RES_MASK_.string.text
 msgid "Unknown input/output error while accessing $(ARG1)"
-msgstr ""
+msgstr "Earráid anaithnid ionchuir/aschuir agus $(ARG1) á rochtain"
 
 #: ids.src#RID_UUI_ERRHDL._ERRCODE_UUI_IO_WRITEPROTECTED___ERRCODE_RES_MASK_.string.text
 msgid "$(ARG1) is write protected"
-msgstr ""
+msgstr "Tá $(ARG1) cosanta ar scríobh"
 
 #: ids.src#RID_UUI_ERRHDL._ERRCODE_UUI_IO_WRONGFORMAT___ERRCODE_RES_MASK_.string.text
 msgid "$(ARG1) is not in the correct format"
@@ -46348,23 +46350,23 @@ msgstr "Níl $(ARG1) san fhormáid cheart"
 
 #: ids.src#RID_UUI_ERRHDL._ERRCODE_UUI_IO_WRONGVERSION___ERRCODE_RES_MASK_.string.text
 msgid "The version of $(ARG1) is not correct"
-msgstr ""
+msgstr "Tá an leagan de $(ARG1) mícheart"
 
 #: ids.src#RID_UUI_ERRHDL._ERRCODE_UUI_IO_NOTEXISTS_VOLUME___ERRCODE_RES_MASK_.string.text
 msgid "Drive $(ARG1) does not exist"
-msgstr ""
+msgstr "Níl an tiomántán $(ARG1) ann"
 
 #: ids.src#RID_UUI_ERRHDL._ERRCODE_UUI_IO_NOTEXISTS_FOLDER___ERRCODE_RES_MASK_.string.text
 msgid "Folder $(ARG1) does not exist"
-msgstr ""
+msgstr "Níl an fillteán $(ARG1) ann"
 
 #: ids.src#RID_UUI_ERRHDL._ERRCODE_UUI_WRONGJAVA___ERRCODE_RES_MASK_.string.text
 msgid "The installed Java version is not supported"
-msgstr ""
+msgstr "Ní thacaítear leis an leagan Java atá suiteáilte"
 
 #: ids.src#RID_UUI_ERRHDL._ERRCODE_UUI_WRONGJAVA_VERSION___ERRCODE_RES_MASK_.string.text
 msgid "The installed Java version $(ARG1) is not supported"
-msgstr ""
+msgstr "Ní thacaítear leis an leagan Java ($(ARG1)) atá suiteáilte"
 
 #: ids.src#RID_UUI_ERRHDL._ERRCODE_UUI_WRONGJAVA_MIN___ERRCODE_RES_MASK_.string.text
 msgid ""
@@ -46388,23 +46390,23 @@ msgstr ""
 
 #: ids.src#RID_UUI_ERRHDL._ERRCODE_UUI_IO_NOTREADY_VOLUME___ERRCODE_RES_MASK_.string.text
 msgid "Volume $(ARG1) is not ready"
-msgstr ""
+msgstr "Níl imleabhar $(ARG1) ullamh"
 
 #: ids.src#RID_UUI_ERRHDL._ERRCODE_UUI_IO_NOTREADY_REMOVABLE___ERRCODE_RES_MASK_.string.text
 msgid "$(ARG1) is not ready; please insert a storage medium"
-msgstr ""
+msgstr "Ní $(ARG1) ullamh; ionsáigh meán stórála le do thoil"
 
 #: ids.src#RID_UUI_ERRHDL._ERRCODE_UUI_IO_NOTREADY_VOLUME_REMOVABLE___ERRCODE_RES_MASK_.string.text
 msgid "Volume $(ARG1) is not ready; please insert a storage medium"
-msgstr ""
+msgstr "Níl imleabhar $(ARG1) ullamh; ionsáigh meán stórála le do thoil"
 
 #: ids.src#RID_UUI_ERRHDL._ERRCODE_UUI_WRONGMEDIUM___ERRCODE_RES_MASK_.string.text
 msgid "Please insert disk $(ARG1)"
-msgstr ""
+msgstr "Ionsáigh diosca $(ARG1) le do thoil"
 
 #: ids.src#RID_UUI_ERRHDL._ERRCODE_UUI_IO_CANTCREATE_NONAME___ERRCODE_RES_MASK_.string.text
 msgid "The object cannot be created in directory $(ARG1)"
-msgstr ""
+msgstr "Ní féidir an réad a chruthú i gcomhadlann $(ARG1)"
 
 #: ids.src#RID_UUI_ERRHDL._ERRCODE_UUI_IO_UNSUPPORTEDOVERWRITE___ERRCODE_RES_MASK_.string.text
 msgid ""
@@ -46452,12 +46454,12 @@ msgstr ""
 
 #: ids.src#RID_UUI_ERRHDL._ERRCODE_UUI_INVALID_XFORMS_SUBMISSION_DATA___ERRCODE_RES_MASK_.string.text
 msgid "The form contains invalid data. Do you still want to continue?"
-msgstr ""
+msgstr "Tá sonraí neamhbhailí san fhoirm. Ar mhaith leat dul ar aghaidh?"
 
 #: logindlg.src#DLG_UUI_LOGIN.GB_LOGIN_ERROR.fixedline.text
 #: logindlg.src#DLG_LOGIN.GB_LOGIN_ERROR.fixedline.text
 msgid "Message from server"
-msgstr ""
+msgstr "Teachtaireacht ón fhreastalaí"
 
 #: logindlg.src#DLG_UUI_LOGIN.INFO_LOGIN_REQUEST.fixedtext.text
 msgid "Enter the user name and password for %1 here."
@@ -46499,7 +46501,7 @@ msgstr "~Dearbhaigh an príomhfhocal faire"
 #: masterpasscrtdlg.src#DLG_UUI_MASTERPASSWORD_CRT.modaldialog.text
 #: masterpassworddlg.src#DLG_UUI_MASTERPASSWORD.modaldialog.text
 msgid "Enter Master Password"
-msgstr ""
+msgstr "Iontráil an Príomhfhocal Faire"
 
 #: passcrtdlg.src#DLG_UUI_PASSWORD_CRT.FT_PASSWORD_CRT.fixedtext.text
 msgid "~Enter password"
@@ -46521,16 +46523,16 @@ msgstr "Iontráil focal faire"
 
 #: passworderrs.src#STR_ERROR_PASSWORD_WRONG.string.text
 msgid "An incorrect password was entered. Please enter it again."
-msgstr ""
+msgstr "Bhí an focal faire mícheart. Triail arís é, le do thoil."
 
 #: passworderrs.src#STR_ERROR_MASTERPASSWORD_WRONG.string.text
 msgid "An incorrect master password was entered. Please enter it again."
-msgstr ""
+msgstr "Bhí an príomhfhocal faire mícheart. Triail arís é, le do thoil."
 
 #: passworderrs.src#STR_ERROR_PASSWORDS_NOT_IDENTICAL.string.text
 #: UserAdmin.src#STR_ERROR_PASSWORDS_NOT_IDENTICAL.string.text
 msgid "The passwords do not match. Please enter the password again."
-msgstr ""
+msgstr "Ní ionann na focail fhaire. Triail arís é, le do thoil."
 
 #: query.src#STR_QUERY_UNDO_TABWINSHOW.string.text
 msgid "Add Table Window"
@@ -46550,7 +46552,7 @@ msgstr ""
 
 #: query.src#STR_QUERY_UNDO_SIZETABWIN.string.text
 msgid "Resize table window"
-msgstr ""
+msgstr "Athraigh méid na fuinneoige tábla"
 
 #: query.src#STR_QUERY_UNDO_TABFIELDMOVED.string.text
 msgid "Move column"
@@ -46562,11 +46564,11 @@ msgstr "Cuir Colún Leis"
 
 #: query.src#RID_STR_TABLE_DOESNT_EXIST.string.text
 msgid "Invalid expression, table '$name$' does not exist!"
-msgstr ""
+msgstr "Slonn neamhbhailí, níl tábla '$name$' ann!"
 
 #: query.src#RID_STR_FIELD_DOESNT_EXIST.string.text
 msgid "Invalid expression, field name '$name$' does not exist."
-msgstr ""
+msgstr "Slonn neamhbhailí, níl ainm réimse '$name$' ann."
 
 #: query.src#RID_STR_TOMUCHTABLES.string.text
 msgid ""
@@ -46576,7 +46578,7 @@ msgstr ""
 
 #: query.src#STR_QUERY_UNDO_TABWINDELETE.string.text
 msgid "Delete Table Window"
-msgstr ""
+msgstr "Scrios Fuinneog Thábla"
 
 #: query.src#STR_QUERY_UNDO_MODIFY_CELL.string.text
 msgid "Edit Column Description"
@@ -46584,19 +46586,19 @@ msgstr ""
 
 #: query.src#STR_QUERY_UNDO_SIZE_COLUMN.string.text
 msgid "Adjust column width"
-msgstr ""
+msgstr "Coigeartaigh leithead colúin"
 
 #: query.src#STR_QUERY_SORTTEXT.string.text
 msgid "(not sorted);ascending;descending"
-msgstr ""
+msgstr "(gan sórtáil);ardaitheach;íslitheach"
 
 #: query.src#STR_QUERY_FUNCTIONS.string.text
 msgid "(no function);Average;Count;Maximum;Minimum;Sum;Group"
-msgstr ""
+msgstr "(gan feidhm);Meán;Líon;Uasmhéid;Íosmhéid;Suim;Grúpa"
 
 #: query.src#STR_QUERY_NOTABLE.string.text
 msgid "(no table)"
-msgstr ""
+msgstr "(gan tábla)"
 
 #: query.src#STR_QRY_ORDERBY_UNRELATED.string.text
 msgid "The database only supports sorting for visible fields."
@@ -46615,35 +46617,35 @@ msgstr "Ailias"
 #: query.src#RID_QUERYFUNCTION_POPUPMENU.ID_QUERY_DISTINCT.menuitem.text
 #: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBDistinctValues.Label.value.text
 msgid "Distinct Values"
-msgstr ""
+msgstr "Luachanna Faoi Leith"
 
 #: query.src#STR_QUERY_HANDLETEXT.string.text
 msgid "Field;Alias;Table;Sort;Visible;Function;Criterion;Or;Or"
-msgstr ""
+msgstr "Réimse;Ailias;Tábla;Sórtáil;Infheicthe;Feidhm;Critéar;Nó;Nó"
 
 #: query.src#STR_QRY_TOO_MANY_COLUMNS.string.text
 msgid "There are too many columns."
-msgstr ""
+msgstr "An iomarca colún."
 
 #: query.src#ERR_QRY_CRITERIA_ON_ASTERISK.errorbox.text
 msgid "A condition cannot be applied to field [*]"
-msgstr ""
+msgstr "Ní féidir coinníoll a chur i bhfeidhm ar réimse [*]"
 
 #: query.src#STR_QRY_TOO_LONG_STATEMENT.string.text
 msgid "The SQL statement created is too long."
-msgstr ""
+msgstr "Tá an ráiteas SQL rófhada."
 
 #: query.src#STR_QRY_TOOCOMPLEX.string.text
 msgid "Query is too complex"
-msgstr ""
+msgstr "Tá an t-iarratas róchasta"
 
 #: query.src#STR_QRY_NOSELECT.string.text
 msgid "Nothing has been selected!"
-msgstr ""
+msgstr "Níl aon rud roghnaithe agat!"
 
 #: query.src#STR_QRY_TOOMANYCOND.string.text
 msgid "Too many search criteria"
-msgstr ""
+msgstr "An iomarca critéar cuardaigh"
 
 #: query.src#STR_QRY_SYNTAX.string.text
 msgid "SQL syntax error"
@@ -46651,11 +46653,11 @@ msgstr "Earráid chomhréire SQL"
 
 #: query.src#ERR_QRY_ORDERBY_ON_ASTERISK.errorbox.text
 msgid "[*] cannot be used as a sort criterion."
-msgstr ""
+msgstr "Ní féidir [*] a úsáid mar chritéar sórtála."
 
 #: query.src#STR_QRY_TOO_MANY_TABLES.string.text
 msgid "There are too many tables."
-msgstr ""
+msgstr "An iomarca táblaí."
 
 #: query.src#STR_QRY_NATIVE.string.text
 msgid ""
@@ -46665,7 +46667,7 @@ msgstr ""
 
 #: query.src#ERR_QRY_AMB_FIELD.errorbox.text
 msgid "Field name not found or not unique"
-msgstr ""
+msgstr "Níor aimsíodh an t-ainm réimse, nó ní uathúil é"
 
 #: query.src#STR_QRY_ILLEGAL_JOIN.string.text
 msgid "Join could not be processed"
@@ -46674,6 +46676,8 @@ msgstr ""
 #: query.src#STR_QUERY_SAVEMODIFIED.string.text
 msgid "$object$ has been changed.\\nDo you want to save the changes?"
 msgstr ""
+"Athraíodh $object$.\n"
+"An mian leat na hathruithe a shábháil?"
 
 #: query.src#RSC_QUERY_OBJECT_TYPE.1.string.text
 msgid "The query"
@@ -46681,7 +46685,7 @@ msgstr "An t-iarratas"
 
 #: query.src#RSC_QUERY_OBJECT_TYPE.2.string.text
 msgid "The table view"
-msgstr ""
+msgstr "An t-amharc tábla"
 
 #: query.src#RSC_QUERY_OBJECT_TYPE.3.string.text
 msgid "The SQL statement"
@@ -46693,15 +46697,15 @@ msgstr ""
 
 #: query.src#STR_QUERYDESIGN_NO_VIEW_ASK.string.text
 msgid "Do you want to create a query instead?"
-msgstr ""
+msgstr "Ar mhaith leat iarratas a chruthú in áit sin?"
 
 #: query.src#ERR_QRY_NOSTATEMENT.errorbox.text
 msgid "No query could be created."
-msgstr ""
+msgstr "Ní féidir iarratas a chruthú."
 
 #: query.src#ERR_QRY_NOCRITERIA.errorbox.text
 msgid "No query could be created because no fields were selected."
-msgstr ""
+msgstr "Ní féidir iarratas a chruthú toisc nach raibh aon réimse roghnaithe."
 
 #: query.src#STR_DATASOURCE_DELETED.string.text
 msgid ""
@@ -46711,7 +46715,7 @@ msgstr ""
 
 #: query.src#STR_QRY_COLUMN_NOT_FOUND.string.text
 msgid "The column '$name$' is unknown."
-msgstr ""
+msgstr "Colún anaithnid '$name$'."
 
 #: query.src#STR_QRY_JOIN_COLUMN_COMPARE.string.text
 msgid "Columns can only be compared using '='."
@@ -46726,6 +46730,8 @@ msgid ""
 "The column could not be found. Please note that the database is case-"
 "sensitive."
 msgstr ""
+"Níor aimsíodh an colún. Tabhair faoi deara go bhfuil an bunachar sonraí "
+"cásíogair."
 
 #: query.src#STR_QUERYDESIGN.string.text
 msgid " - %PRODUCTNAME Base: Query Design"
@@ -46747,23 +46753,23 @@ msgstr ""
 
 #: querydlg.src#DLG_QRY_JOIN.LB_JOINTYPE.1.stringlist.text
 msgid "Inner join"
-msgstr ""
+msgstr "Comhcheangal istigh"
 
 #: querydlg.src#DLG_QRY_JOIN.LB_JOINTYPE.2.stringlist.text
 msgid "Left join"
-msgstr ""
+msgstr "Comhcheangail ar chlé"
 
 #: querydlg.src#DLG_QRY_JOIN.LB_JOINTYPE.3.stringlist.text
 msgid "Right join"
-msgstr ""
+msgstr "Comhcheangail ar dheis"
 
 #: querydlg.src#DLG_QRY_JOIN.LB_JOINTYPE.4.stringlist.text
 msgid "Full (outer) join"
-msgstr ""
+msgstr "Comhcheangal iomlán (amuigh)"
 
 #: querydlg.src#DLG_QRY_JOIN.modaldialog.text
 msgid "Join Properties"
-msgstr ""
+msgstr "Airíonna Comhcheangail"
 
 #: querydlg.src#STR_JOIN_TYPE_HINT.string.text
 msgid "Please note that some databases may not support this join type."
@@ -46788,12 +46794,12 @@ msgstr ""
 #: AdabasPage.src#TAB_PAG_ADABAS_SETTINGS.FT_CACHE_SIZE.fixedtext.text
 #: dbadmin.src#PAGE_ADABAS.FT_CACHE_SIZE.fixedtext.text
 msgid "Data ~buffer size (MB)"
-msgstr ""
+msgstr "Méid an ~mhaoláin shonraí (MB)"
 
 #: AdabasPage.src#TAB_PAG_ADABAS_SETTINGS.FT_DATA_INCREMENT.fixedtext.text
 #: dbadmin.src#PAGE_ADABAS.FT_DATA_INCREMENT.fixedtext.text
 msgid "~Data increment (MB)"
-msgstr ""
+msgstr "~Incrimint shonraí (MB)"
 
 #: AdabasPage.src#TAB_PAG_ADABAS_SETTINGS.FT_CTRLUSERNAME.fixedtext.text
 #: dbadmin.src#PAGE_ADABAS.FT_CTRLUSERNAME.fixedtext.text
@@ -46808,7 +46814,7 @@ msgstr ""
 #: AdabasPage.src#TAB_PAG_ADABAS_SETTINGS.CB_SHUTDB.checkbox.text
 #: dbadmin.src#PAGE_ADABAS.CB_SHUTDB.checkbox.text
 msgid "~Shut down service when closing %PRODUCTNAME"
-msgstr ""
+msgstr "~Múch an tseirbhís agus %PRODUCTNAME á dhúnadh"
 
 #: AdabasPage.src#TAB_PAG_ADABAS_SETTINGS.PB_STAT.pushbutton.text
 #: dbadmin.src#PAGE_ADABAS.PB_STAT.pushbutton.text
@@ -46817,7 +46823,7 @@ msgstr "B~reisithe..."
 
 #: AdabasStat.src#DLG_ADABASSTAT.FL_FILES.fixedline.text
 msgid "Database files"
-msgstr ""
+msgstr "Comhaid bhunachair sonraí"
 
 #: AdabasStat.src#DLG_ADABASSTAT.FT_SYSDEVSPACE.fixedtext.text
 msgid "S~YSDEVSPACE:"
@@ -46841,11 +46847,11 @@ msgstr "Mé~id (MB):"
 
 #: AdabasStat.src#DLG_ADABASSTAT.FT_FREESIZE.fixedtext.text
 msgid "~Free memory space (MB):"
-msgstr ""
+msgstr "~Cuimhne saor (MB):"
 
 #: AdabasStat.src#DLG_ADABASSTAT.FT_MEMORYUSING.fixedtext.text
 msgid "~Memory utilization (in %):"
-msgstr ""
+msgstr "Cui~mhne in úsáid (%):"
 
 #: AdabasStat.src#DLG_ADABASSTAT.modaldialog.text
 msgid "Database Statistics"
@@ -46883,17 +46889,17 @@ msgstr ""
 
 #: AdabasStatDlg.src#DLG_DATABASE_ADABASADMIN.STR_PAGETITLE_ADABAS_STATISTIC.string.text
 msgid "Adabas D Statistics"
-msgstr ""
+msgstr "Staitisticí Adabas D"
 
 #: AdabasStatDlg.src#DLG_DATABASE_ADABASADMIN.tabdialog.text
 #: AdvancedPageDlg.src#DLG_DATABASE_ADVANCED.tabdialog.text
 #: dbadmin.src#DLG_DATABASE_ADMINISTRATION.STR_PAGETITLE_GENERAL.string.text
 msgid "Advanced Properties"
-msgstr ""
+msgstr "Airíonna Casta"
 
 #: AdvancedPageDlg.src#DLG_DATABASE_ADVANCED.STR_GENERATED_VALUE.string.text
 msgid "Generated Values"
-msgstr ""
+msgstr "Luachanna Ginte"
 
 #: AdvancedPageDlg.src#DLG_DATABASE_ADVANCED.STR_DS_BEHAVIOUR.string.text
 msgid "Special Settings"
@@ -46913,23 +46919,23 @@ msgstr ""
 
 #: AutoControls.src#STR_NAME_OF_ODBC_DATASOURCE.string.text
 msgid "Name of the ODBC data source on your system"
-msgstr ""
+msgstr "Ainm na foinse shonraí ODBC ar do chóras"
 
 #: AutoControls.src#STR_MYSQL_DATABASE_NAME.string.text
 msgid "Name of the MySQL database"
-msgstr ""
+msgstr "Ainm an bhunachair sonraí MySQL"
 
 #: AutoControls.src#STR_ORACLE_DATABASE_NAME.string.text
 msgid "Name of the Oracle database"
-msgstr ""
+msgstr "Ainm an bhunachair sonraí Oracle"
 
 #: AutoControls.src#STR_ADABAS_DATABASE_NAME.string.text
 msgid "Name of the Adabas D database"
-msgstr ""
+msgstr "Ainm an bhunachair sonraí Adabas D"
 
 #: AutoControls.src#STR_MSACCESS_MDB_FILE.string.text
 msgid "Microsoft Access database file"
-msgstr ""
+msgstr "Comhad bunachair sonraí Microsoft Access"
 
 #: AutoControls.src#STR_NO_ADDITIONAL_SETTINGS.string.text
 msgid ""
@@ -46939,7 +46945,7 @@ msgstr ""
 
 #: AutoControls.src#STR_COMMONURL.string.text
 msgid "Datasource URL"
-msgstr ""
+msgstr "URL na foinse sonraí"
 
 #: AutoControls.src#STR_HOSTNAME.string.text
 #: ConnectionPage.src#PAGE_CONNECTION.FT_HOSTNAME.fixedtext.text
@@ -46995,19 +47001,19 @@ msgstr "Airíonna JDBC"
 
 #: ConnectionPage.src#PAGE_CONNECTION.FT_JDBCDRIVERCLASS.fixedtext.text
 msgid "~JDBC driver class"
-msgstr ""
+msgstr "Aicme thiománaí ~JDBC"
 
 #: ConnectionPage.src#PAGE_CONNECTION.PB_TESTDRIVERCLASS.pushbutton.text
 msgid "Test Class"
-msgstr ""
+msgstr "Aicme Thástála"
 
 #: ConnectionPage.src#PAGE_CONNECTION.PB_TESTCONNECTION.pushbutton.text
 msgid "Test Connection"
-msgstr ""
+msgstr "Nasc Tástála"
 
 #: ConnectionPage.src#STR_NO_ADABASE_DATASOURCES.string.text
 msgid "No Adabas D data sources were found on your system."
-msgstr ""
+msgstr "Níor aimsíodh foinsí sonraí Adabas D ar do chóras."
 
 #: ConnectionPage.src#STR_CONNECTION_TEST.string.text
 msgid "Connection Test"
@@ -47015,23 +47021,23 @@ msgstr ""
 
 #: ConnectionPage.src#STR_CONNECTION_SUCCESS.string.text
 msgid "The connection was established successfully."
-msgstr ""
+msgstr "D'éirigh leis an gceangal."
 
 #: ConnectionPage.src#STR_CONNECTION_NO_SUCCESS.string.text
 msgid "The connection could not be established successfully."
-msgstr ""
+msgstr "Theip ar an gceangal."
 
 #: ConnectionPage.src#STR_JDBCDRIVER_TEST.string.text
 msgid "JDBC Driver Test"
-msgstr ""
+msgstr "Tástáil Tiománaí JDBC"
 
 #: ConnectionPage.src#STR_JDBCDRIVER_SUCCESS.string.text
 msgid "The JDBC driver was loaded successfully."
-msgstr ""
+msgstr "D'éirigh le luchtú an tiománaí JDBC."
 
 #: ConnectionPage.src#STR_JDBCDRIVER_NO_SUCCESS.string.text
 msgid "The JDBC driver could not be loaded."
-msgstr ""
+msgstr "Níorbh fhéidir an tiománaí JDBC a luchtú."
 
 #: ConnectionPage.src#STR_MSACCESS_FILTERNAME.string.text
 msgid "MS Access file"
@@ -47048,7 +47054,7 @@ msgstr ""
 
 #: RelationDlg.src#DLG_REL_PROPERTIES.RB_CASC_UPD.radiobutton.text
 msgid "~Update cascade"
-msgstr ""
+msgstr "N~uashonraigh an chascáid"
 
 #: RelationDlg.src#DLG_REL_PROPERTIES.RB_CASC_UPD_NULL.radiobutton.text
 #: RelationDlg.src#DLG_REL_PROPERTIES.RB_CASC_DEL_NULL.radiobutton.text
@@ -47066,16 +47072,16 @@ msgstr "Scrios roghanna"
 
 #: RelationDlg.src#DLG_REL_PROPERTIES.RB_CASC_DEL.radiobutton.text
 msgid "Delete ~cascade"
-msgstr ""
+msgstr "Scrios ~cascáid"
 
 #: RelationDlg.src#DLG_REL_PROPERTIES.modaldialog.text
 #: smres.src#RID_TOOLBOXWINDOW.10.RID_RELATIONS_CAT.toolboxitem.text
 msgid "Relations"
-msgstr ""
+msgstr "Gaolta"
 
 #: UserAdmin.src#TAB_PAGE_USERADMIN.FL_USER.fixedline.text
 msgid "User selection"
-msgstr ""
+msgstr "Roghnú úsáideora"
 
 #: UserAdmin.src#TAB_PAGE_USERADMIN.FT_USER.fixedtext.text
 msgid "Us~er:"
@@ -47095,11 +47101,11 @@ msgstr "~Scrios Úsáideoir..."
 
 #: UserAdmin.src#TAB_PAGE_USERADMIN.FL_TABLE_GRANTS.fixedline.text
 msgid "Access rights for selected user"
-msgstr ""
+msgstr "Cearta rochtana don úsáideoir roghnaithe"
 
 #: UserAdmin.src#QUERY_USERADMIN_DELETE_USER.querybox.text
 msgid "Do you really want to delete the user?"
-msgstr ""
+msgstr "An bhfuil tú cinnte gur mhaith leat an t-úsáideoir a scriosadh?"
 
 #: UserAdmin.src#STR_USERADMIN_NOT_AVAILABLE.string.text
 msgid "The database does not support user administration."
@@ -47123,7 +47129,7 @@ msgstr "Socruithe Úsáideora"
 
 #: UserAdminDlg.src#DLG_DATABASE_USERADMIN.tabdialog.text
 msgid "User administration"
-msgstr ""
+msgstr "Riar na n-úsáideorí"
 
 #: adtabdlg.src#DLG_JOIN_TABADD.FT_TABLE.fixedtext.text
 #: dbwizres.src#RID_DB_COMMON_START___5.string.text
@@ -47145,7 +47151,7 @@ msgstr ""
 
 #: dbadmin.src#AUTO_IGNOREINDEXAPPENDIX_AUTO_Y_.CB_IGNOREINDEXAPPENDIX.checkbox.text
 msgid "Create index with ASC or DESC statement"
-msgstr ""
+msgstr "Cruthaigh innéacs le ráiteas ASC nó DESC"
 
 #: dbadmin.src#AUTO_SUPPRESVERSIONCOLUMN_AUTO_Y_.CB_SUPPRESVERSIONCL.checkbox.text
 msgid "Display version columns (when available)"
@@ -47157,19 +47163,19 @@ msgstr ""
 
 #: dbadmin.src#AUTO_DOSLINEENDS_AUTO_Y_.CB_DOSLINEENDS.checkbox.text
 msgid "End text lines with CR+LF"
-msgstr ""
+msgstr "Críochnaigh línte téacs le CR+LF"
 
 #: dbadmin.src#AUTO_SCHEMA_AUTO_Y_.CB_SCHEMA.checkbox.text
 msgid "Use schema name in SELECT statements"
-msgstr ""
+msgstr "Úsáid ainm an scéimre i ráitis SELECT"
 
 #: dbadmin.src#AUTO_CATALOG_AUTO_Y_.CB_CATALOG.checkbox.text
 msgid "Use catalog name in SELECT statements"
-msgstr ""
+msgstr "Úsáid ainm na catalóige i ráitis SELECT"
 
 #: dbadmin.src#AUTO_BOOLEANCOMPARISON_AUTO_Y_.FT_BOOLEANCOMPARISON.fixedtext.text
 msgid "Comparison of Boolean values"
-msgstr ""
+msgstr "Comparáid idir luachanna Boole"
 
 #: dbadmin.src#AUTO_IGNOREDRIVER_PRIV_AUTO_Y_.CB_IGNOREDRIVER_PRIV.checkbox.text
 msgid "Ignore the privileges from the database driver"
@@ -47177,7 +47183,7 @@ msgstr ""
 
 #: dbadmin.src#AUTO_SQL92CHECK_AUTO_Y_.CB_SQL92CHECK.checkbox.text
 msgid "Use SQL92 naming constraints"
-msgstr ""
+msgstr "Úsáid iallach SQL92 ar ainmniú"
 
 #: dbadmin.src#AUTO_USECATALOG_AUTO_Y_.CB_USECATALOG.checkbox.text
 msgid "Use catalog for file-based databases"
@@ -47185,11 +47191,11 @@ msgstr ""
 
 #: dbadmin.src#AUTO_PARAMETERNAMESUBST_AUTO_Y_.CB_PARAMETERNAMESUBST.checkbox.text
 msgid "Replace named parameters with '?'"
-msgstr ""
+msgstr "Cuir '?' in ionad paraiméadar le hainmneacha"
 
 #: dbadmin.src#AUTO_INCREMENT_CONTROLS_AUTO_Y_.CB_RETRIEVE_AUTO.checkbox.text
 msgid "Re~trieve generated values"
-msgstr ""
+msgstr "Ais~ghabh luachanna ginte"
 
 #: dbadmin.src#AUTO_INCREMENT_CONTROLS_AUTO_Y_.FT_AUTOINCREMENTVALUE.fixedtext.text
 msgid "~Auto-increment statement"
@@ -47244,20 +47250,20 @@ msgstr ""
 
 #: dbadmin.src#PAGE_GENERAL.FT_DATASOURCEHEADER.fixedtext.text
 msgid "What do you want to do?"
-msgstr ""
+msgstr "Cad ba mhaith leat a dhéanamh?"
 
 #: dbadmin.src#PAGE_GENERAL.RB_CREATEDBDATABASE.radiobutton.text
 msgid "Create a n~ew database"
-msgstr ""
+msgstr "Cruthaigh bunachar sonraí ~nua"
 
 #: dbadmin.src#PAGE_GENERAL.RB_GETEXISTINGDATABASE.radiobutton.text
 msgid "Connect to an e~xisting database"
-msgstr ""
+msgstr "Nasc le bunachar sonraí atá ann"
 
 #: dbadmin.src#PAGE_GENERAL.FT_DATASOURCETYPE_PRE.fixedtext.text
 msgid ""
 "Select the type of database to which you want to establish a connection."
-msgstr ""
+msgstr "Roghnaigh cineál an bhunachair sonraí lenar mhaith leat nascadh."
 
 #: dbadmin.src#PAGE_GENERAL.FT_DATATYPE.fixedtext.text
 msgid "Database ~type "
@@ -47275,7 +47281,7 @@ msgstr "MySQL"
 
 #: dbadmin.src#PAGE_GENERAL.STR_PARENTTITLE.string.text
 msgid "Data Source Properties: #"
-msgstr ""
+msgstr "Airíonna na Foinse Sonraí: #"
 
 #: dbadmin.src#PAGE_GENERAL.STR_COULDNOTLOAD_ODBCLIB.string.text
 msgid ""
@@ -47296,7 +47302,7 @@ msgstr "Socruithe roghnacha"
 
 #: dbadmin.src#PAGE_DBASE.CB_SHOWDELETEDROWS.checkbox.text
 msgid "Display deleted records as well"
-msgstr ""
+msgstr "Taispeáin taifid scriosta fosta"
 
 #: dbadmin.src#PAGE_DBASE.FT_SPECIAL_MESSAGE.fixedtext.text
 msgid ""
@@ -47356,7 +47362,7 @@ msgstr ""
 #: dbadmin.src#PAGE_ORACLE_JDBC.PB_TESTDRIVERCLASS.pushbutton.text
 #: AutoControls_tmpl.hrc#AUTO_JDBCDRIVERCLASSGROUP_AUTO_Y__AUTO_HID_.PB_AUTOTESTDRIVERCLASS.pushbutton.text
 msgid "Test class"
-msgstr ""
+msgstr "Aicme thástála"
 
 #: dbadmin.src#PAGE_ORACLE_JDBC.FT_JDBCDRIVERCLASS.fixedtext.text
 msgid "Oracle JDBC d~river class"
@@ -47368,7 +47374,7 @@ msgstr ""
 
 #: dbadmin.src#PAGE_LDAP.CB_USESSL.checkbox.text
 msgid "Use secure connection(SSL)"
-msgstr ""
+msgstr "Úsáid nasc daingean(SSL)"
 
 #: dbadmin.src#PAGE_LDAP.FT_LDAPROWCOUNT.fixedtext.text
 msgid "Maximum number of ~records"
@@ -47387,11 +47393,13 @@ msgstr "Óst~ainm"
 
 #: dbadmin.src#PAGE_USERDRIVER.FT_OPTIONS.fixedtext.text
 msgid "~Driver settings"
-msgstr ""
+msgstr "Socruithe ~tiománaí"
 
 #: dbadmin2.src#STR_ENTER_CONNECTION_PASSWORD.string.text
 msgid "A password is needed to connect to the data source \"$name$\"."
 msgstr ""
+"Is gá focal faire a sholáthar chun nasc a dhéanamh leis an bhfoinse sonraí "
+"\"$name$\"."
 
 #: dbadmin2.src#STR_QUERY_DROP_ALL.string.text
 msgid "Do you want to delete all selected items?"
@@ -47399,7 +47407,7 @@ msgstr "Ar mhaith leat gach mír roghnaithe a scriosadh?"
 
 #: dbadmin2.src#STR_ASK_FOR_DIRECTORY_CREATION.string.text
 msgid "The directory\\n\\n$path$\\n\\ndoes not exist. Should it be created?"
-msgstr ""
+msgstr "Níl an chomhadlann\\n\\n$path$\\n\\nann. Cruthaigh?"
 
 #: dbadmin2.src#STR_COULD_NOT_CREATE_DIRECTORY.string.text
 msgid "The directory $name$ could not be created."
@@ -47431,7 +47439,7 @@ msgstr "Leabhar seoltaí LDAP"
 
 #: dbadmin2.src#STR_HINT_READONLY_CONNECTION.string.text
 msgid "(Connection is read-only)"
-msgstr ""
+msgstr "(Nasc léamh amháin)"
 
 #: dbadmin2.src#STR_HINT_CONNECTION_NOT_CAPABLE.string.text
 msgid "(Not supported by this connection)"
@@ -47447,7 +47455,7 @@ msgstr "Tiontaigh Bunachar Sonraí"
 
 #: dbadmin2.src#PAGE_TABLESUBSCRIPTION.FL_SEPARATOR1.fixedline.text
 msgid "Tables and table filter"
-msgstr ""
+msgstr "Táblaí agus scagaire tábla"
 
 #: dbadmin2.src#PAGE_TABLESUBSCRIPTION.FT_FILTER_EXPLANATION.fixedtext.text
 msgid "Mark the tables that should be visible for the applications."
@@ -47468,48 +47476,48 @@ msgstr "Roghnaigh bunachar sonraí"
 
 #: dbadminsetup.src#DLG_DATABASE_WIZARD.STR_PAGETITLE_DBASE.string.text
 msgid "Set up dBASE connection"
-msgstr ""
+msgstr "Socraigh nasc le dBASE"
 
 #: dbadminsetup.src#DLG_DATABASE_WIZARD.STR_PAGETITLE_TEXT.string.text
 #: dbadminsetup.src#PAGE_DBWIZARD_TEXT.STR_TEXT_HEADERTEXT.string.text
 msgid "Set up a connection to text files"
-msgstr ""
+msgstr "Socraigh nasc le téacschomhaid"
 
 #: dbadminsetup.src#DLG_DATABASE_WIZARD.STR_PAGETITLE_MSACCESS.string.text
 msgid "Set up Microsoft Access connection"
-msgstr ""
+msgstr "Socraigh nasc le Microsoft Access"
 
 #: dbadminsetup.src#DLG_DATABASE_WIZARD.STR_PAGETITLE_LDAP.string.text
 msgid "Set up LDAP connection"
-msgstr ""
+msgstr "Socraigh nasc LDAP"
 
 #: dbadminsetup.src#DLG_DATABASE_WIZARD.STR_PAGETITLE_ADABAS.string.text
 msgid "Set up Adabas D connection"
-msgstr ""
+msgstr "Socraigh nasc Adabas D"
 
 #: dbadminsetup.src#DLG_DATABASE_WIZARD.STR_PAGETITLE_ADO.string.text
 msgid "Set up ADO connection"
-msgstr ""
+msgstr "Socraigh nasc ADO"
 
 #: dbadminsetup.src#DLG_DATABASE_WIZARD.STR_PAGETITLE_JDBC.string.text
 msgid "Set up JDBC connection"
-msgstr ""
+msgstr "Socraigh nasc JDBC"
 
 #: dbadminsetup.src#DLG_DATABASE_WIZARD.STR_PAGETITLE_ORACLE.string.text
 msgid "Set up Oracle database connection"
-msgstr ""
+msgstr "Socraigh nasc le Oracle"
 
 #: dbadminsetup.src#DLG_DATABASE_WIZARD.STR_PAGETITLE_MYSQL.string.text
 msgid "Set up MySQL connection"
-msgstr ""
+msgstr "Socraigh nasc MySQL"
 
 #: dbadminsetup.src#DLG_DATABASE_WIZARD.STR_PAGETITLE_ODBC.string.text
 msgid "Set up ODBC connection"
-msgstr ""
+msgstr "Socraigh nasc ODBC"
 
 #: dbadminsetup.src#DLG_DATABASE_WIZARD.STR_PAGETITLE_SPREADSHEET.string.text
 msgid "Set up Spreadsheet connection"
-msgstr ""
+msgstr "Socraigh nasc le Scarbhileog"
 
 #: dbadminsetup.src#DLG_DATABASE_WIZARD.STR_PAGETITLE_AUTHENTIFICATION.string.text
 msgid "Set up user authentication"
@@ -47517,7 +47525,7 @@ msgstr ""
 
 #: dbadminsetup.src#DLG_DATABASE_WIZARD.STR_PAGETITLE_FINAL.string.text
 msgid "Save and proceed"
-msgstr ""
+msgstr "Sábháil agus téigh ar aghaidh"
 
 #: dbadminsetup.src#STR_DATABASEDEFAULTNAME.string.text
 msgid "New Database"
@@ -47525,7 +47533,7 @@ msgstr "Bunachar Sonraí Nua"
 
 #: dbadminsetup.src#PAGE_DBWIZARD_MYSQL_INTRO.FT_MYSQL_HEADERTEXT.fixedtext.text
 msgid "Set up a connection to a MySQL database"
-msgstr ""
+msgstr "Socraigh nasc le bunachar sonraí MySQL"
 
 #: dbadminsetup.src#PAGE_DBWIZARD_MYSQL_INTRO.FT_MYSQL_HELPTEXT.fixedtext.text
 msgid ""
@@ -47540,11 +47548,11 @@ msgstr ""
 
 #: dbadminsetup.src#PAGE_DBWIZARD_MYSQL_INTRO.RB_CONNECTVIAODBC.radiobutton.text
 msgid "Connect using ODBC (Open Database Connectivity)"
-msgstr ""
+msgstr "Nasc trí ODBC (Open Database Connectivity)"
 
 #: dbadminsetup.src#PAGE_DBWIZARD_MYSQL_INTRO.RB_CONNECTVIAJDBC.radiobutton.text
 msgid "Connect using JDBC (Java Database Connectivity)"
-msgstr ""
+msgstr "Nasc trí JDBC (Java Database Connectivity)"
 
 #: dbadminsetup.src#PAGE_DBWIZARD_AUTHENTIFICATION.FT_AUTHENTIFICATIONHEADERTEXT.fixedtext.text
 msgid "Set up the user authentication"
@@ -47560,7 +47568,7 @@ msgstr "Focal faire de ~dhíth"
 
 #: dbadminsetup.src#PAGE_DBWIZARD_AUTHENTIFICATION.PB_TESTCONNECTION.pushbutton.text
 msgid "~Test Connection"
-msgstr ""
+msgstr "Nasc ~Tástála"
 
 #: dbadminsetup.src#PAGE_DBWIZARD_FINAL.FT_FINALHEADER.fixedtext.text
 msgid "Decide how to proceed after saving the database"
@@ -47572,11 +47580,11 @@ msgstr ""
 
 #: dbadminsetup.src#PAGE_DBWIZARD_FINAL.RB_REGISTERDATASOURCE.radiobutton.text
 msgid "~Yes, register the database for me"
-msgstr ""
+msgstr "~Cláraigh"
 
 #: dbadminsetup.src#PAGE_DBWIZARD_FINAL.RB_DONTREGISTERDATASOURCE.radiobutton.text
 msgid "N~o, do not register the database"
-msgstr ""
+msgstr "~Ná Cláraigh"
 
 #: dbadminsetup.src#PAGE_DBWIZARD_FINAL.FT_ADDITIONALSETTINGS.fixedtext.text
 msgid "~After the database file has been saved, what do you want to do?"
@@ -47584,19 +47592,19 @@ msgstr ""
 
 #: dbadminsetup.src#PAGE_DBWIZARD_FINAL.CB_OPENAFTERWARDS.checkbox.text
 msgid "Open the database for editing"
-msgstr ""
+msgstr "Oscail an bunachar sonraí chun é a chur in eagar"
 
 #: dbadminsetup.src#PAGE_DBWIZARD_FINAL.CB_STARTTABLEWIZARD.checkbox.text
 msgid "Create tables using the table wizard"
-msgstr ""
+msgstr "Cruthaigh táblaí leis an draoi tábla"
 
 #: dbadminsetup.src#PAGE_DBWIZARD_FINAL.FT_FINALTEXT.fixedtext.text
 msgid "Click 'Finish' to save the database."
-msgstr ""
+msgstr "Cliceáil 'Críochnaigh' chun an bunachar sonraí a shábháil."
 
 #: dbadminsetup.src#PAGE_DBWIZARD_MYSQL_JDBC.STR_MYSQLJDBC_HEADERTEXT.string.text
 msgid "Set up connection to a MySQL database using JDBC"
-msgstr ""
+msgstr "Nasc le bunachar sonraí MySQL trí JDBC"
 
 #: dbadminsetup.src#PAGE_DBWIZARD_MYSQL_JDBC.STR_MYSQLJDBC_HELPTEXT.string.text
 msgid ""
@@ -47616,7 +47624,7 @@ msgstr "Réamhshocrú: 3306"
 
 #: dbadminsetup.src#PAGE_DBWIZARD_DBASE.STR_DBASE_HEADERTEXT.string.text
 msgid "Set up a connection to dBASE files"
-msgstr ""
+msgstr "Socraigh nasc le comhaid dBASE"
 
 #: dbadminsetup.src#PAGE_DBWIZARD_DBASE.STR_DBASE_HELPTEXT.string.text
 msgid "Select the folder where the dBASE files are stored."
@@ -47634,7 +47642,7 @@ msgstr ""
 
 #: dbadminsetup.src#PAGE_DBWIZARD_MSACCESS.STR_MSACCESS_HEADERTEXT.string.text
 msgid "Set up a connection to a Microsoft Access database"
-msgstr ""
+msgstr "Socraigh nasc le bunachar sonraí Microsoft Access"
 
 #: dbadminsetup.src#PAGE_DBWIZARD_MSACCESS.STR_MSACCESS_HELPTEXT.string.text
 msgid "Please select the Microsoft Access file you want to access."
@@ -47642,7 +47650,7 @@ msgstr ""
 
 #: dbadminsetup.src#PAGE_DBWIZARD_LDAP.FT_LDAP_HEADERTEXT.fixedtext.text
 msgid "Set up a connection to an LDAP directory"
-msgstr ""
+msgstr "Socraigh nasc le comhadlann LDAP"
 
 #: dbadminsetup.src#PAGE_DBWIZARD_LDAP.FT_LDAP_HELPTEXT.fixedtext.text
 msgid ""
@@ -47657,11 +47665,11 @@ msgstr "Réamhshocrú: 389"
 
 #: dbadminsetup.src#PAGE_DBWIZARD_LDAP.CB_USESSL.checkbox.text
 msgid "Use ~secure connection (SSL)"
-msgstr ""
+msgstr "Úsáid na~sc daingean (SSL)"
 
 #: dbadminsetup.src#PAGE_DBWIZARD_ADABAS.STR_ADABAS_HEADERTEXT.string.text
 msgid "Set up a connection to an Adabas D database"
-msgstr ""
+msgstr "Socraigh nasc le bunachar sonraí Adabas D"
 
 #: dbadminsetup.src#PAGE_DBWIZARD_ADABAS.STR_ADABAS_HELPTEXT.string.text
 msgid ""
@@ -47672,7 +47680,7 @@ msgstr ""
 
 #: dbadminsetup.src#PAGE_DBWIZARD_ADO.STR_ADO_HEADERTEXT.string.text
 msgid "Set up a connection to an ADO database"
-msgstr ""
+msgstr "Socraigh nasc le bunachar sonraí ADO"
 
 #: dbadminsetup.src#PAGE_DBWIZARD_ADO.STR_ADO_HELPTEXT.string.text
 msgid ""
@@ -47683,7 +47691,7 @@ msgstr ""
 
 #: dbadminsetup.src#PAGE_DBWIZARD_ODBC.STR_ODBC_HEADERTEXT.string.text
 msgid "Set up a connection to an ODBC database"
-msgstr ""
+msgstr "Socraigh nasc le bunachar sonraí ODBC"
 
 #: dbadminsetup.src#PAGE_DBWIZARD_ODBC.STR_ODBC_HELPTEXT.string.text
 msgid ""
@@ -47695,7 +47703,7 @@ msgstr ""
 
 #: dbadminsetup.src#PAGE_DBWIZARD_JDBC.STR_JDBC_HEADERTEXT.string.text
 msgid "Set up a connection to a JDBC database"
-msgstr ""
+msgstr "Socraigh nasc le bunachar sonraí JDBC"
 
 #: dbadminsetup.src#PAGE_DBWIZARD_JDBC.STR_JDBC_HELPTEXT.string.text
 msgid ""
@@ -47706,7 +47714,7 @@ msgstr ""
 
 #: dbadminsetup.src#PAGE_DBWIZARD_ORACLE.STR_ORACLE_HEADERTEXT.string.text
 msgid "Set up a connection to an Oracle database"
-msgstr ""
+msgstr "Socraigh nasc le bunachar sonraí Oracle"
 
 #: dbadminsetup.src#PAGE_DBWIZARD_ORACLE.STR_ORACLE_DEFAULT.string.text
 msgid "Default: 1521"
@@ -47726,7 +47734,7 @@ msgstr ""
 
 #: dbadminsetup.src#PAGE_DBWIZARD_SPREADSHEET.STR_SPREADSHEET_HEADERTEXT.string.text
 msgid "Set up a connection to spreadsheets"
-msgstr ""
+msgstr "Socraigh nasc le scarbhileoga"
 
 #: dbadminsetup.src#PAGE_DBWIZARD_SPREADSHEET.STR_SPREADSHEET_HELPTEXT.string.text
 msgid ""
@@ -47736,7 +47744,7 @@ msgstr ""
 
 #: dbadminsetup.src#PAGE_DBWIZARD_SPREADSHEET.STR_SPREADSHEETPATH.string.text
 msgid "~Location and file name"
-msgstr ""
+msgstr "~Suíomh agus ainm comhaid"
 
 #: dbadminsetup.src#PAGE_DBWIZARD_SPREADSHEET.CB_SPREADSHEETPASSWORDREQUIRED.checkbox.text
 msgid "~Password required"
@@ -47777,11 +47785,11 @@ msgstr "Orduithe roimhe seo"
 
 #: directsql.src#DLG_DIRECTSQL.modaldialog.text
 msgid "Execute SQL Statement"
-msgstr ""
+msgstr "Rith ráiteas SQL"
 
 #: directsql.src#STR_COMMAND_EXECUTED_SUCCESSFULLY.string.text
 msgid "Command successfully executed."
-msgstr ""
+msgstr "D'éirigh leis an ordú."
 
 #: directsql.src#STR_DIRECTSQL_CONNECTIONLOST.string.text
 msgid ""
@@ -47794,11 +47802,11 @@ msgstr "~Siar"
 
 #: dlgattr.src#DLG_ATTR.tabdialog.text
 msgid "Field Format"
-msgstr ""
+msgstr "Formáid Réimse"
 
 #: dlgsave.src#DLG_SAVE_AS.FT_DESCRIPTION.fixedtext.text
 msgid "Please enter a name for the object to be created:"
-msgstr ""
+msgstr "Iontráil ainm ar an réad atá le cruthú:"
 
 #: dlgsave.src#DLG_SAVE_AS.FT_CATALOG.fixedtext.text
 msgid "~Catalog"
@@ -47818,11 +47826,11 @@ msgstr ""
 
 #: dlgsave.src#DLG_SAVE_AS.STR_QRY_LABEL.string.text
 msgid "~Query name"
-msgstr ""
+msgstr "~Ainm an iarratais"
 
 #: dlgsave.src#DLG_SAVE_AS.STR_OBJECT_EXISTS_ALREADY.string.text
 msgid "The name '$#$' already exists.\\nPlease enter another name."
-msgstr ""
+msgstr "Tá an t-ainm '$#$' ann cheana.\\nIontráil ainm eile le do thoil."
 
 #: dlgsave.src#DLG_SAVE_AS.STR_OBJECT_EXISTS_ALREADY_OVERWRITE.string.text
 msgid "The name '$#$' already exists.\\nDo you want to overwrite it?"
@@ -47830,7 +47838,7 @@ msgstr ""
 
 #: dlgsave.src#DLG_SAVE_AS.STR_TITLE_RENAME.string.text
 msgid "Rename to"
-msgstr ""
+msgstr "Athainmnigh"
 
 #: dlgsave.src#DLG_SAVE_AS.STR_TITLE_PASTE_AS.string.text
 msgid "Insert as"
@@ -47838,7 +47846,7 @@ msgstr "Ionsáigh mar"
 
 #: dsselect.src#DLG_DATASOURCE_SELECTION.FT_DESCRIPTION.fixedtext.text
 msgid "Choose a data source:"
-msgstr ""
+msgstr "Roghnaigh foinse sonraí:"
 
 #: dsselect.src#DLG_DATASOURCE_SELECTION.PB_MANAGE.pushbutton.text
 msgid "Organize..."
@@ -47963,13 +47971,13 @@ msgstr ""
 #: queryorder.src#DLG_ORDERCRIT.LB_ORDERVALUE2.1.stringlist.text
 #: queryorder.src#DLG_ORDERCRIT.LB_ORDERVALUE3.1.stringlist.text
 msgid "ascending"
-msgstr "ag dul suas"
+msgstr "ardaitheach"
 
 #: queryorder.src#DLG_ORDERCRIT.LB_ORDERVALUE1.2.stringlist.text
 #: queryorder.src#DLG_ORDERCRIT.LB_ORDERVALUE2.2.stringlist.text
 #: queryorder.src#DLG_ORDERCRIT.LB_ORDERVALUE3.2.stringlist.text
 msgid "descending"
-msgstr "ag dul síos"
+msgstr "íslitheach"
 
 #: queryorder.src#DLG_ORDERCRIT.FT_ORDERAFTER1.fixedtext.text
 #: queryorder.src#DLG_ORDERCRIT.FT_ORDERAFTER2.fixedtext.text
@@ -48033,7 +48041,7 @@ msgstr ""
 
 #: AutoControls_tmpl.hrc#AUTO_SEPARATORCONTROLGROUP_AUTO_Y_AUTOPAGE_X_.RB_AUTOACCESSCTEXTFILES.radiobutton.text
 msgid "Plain text files (*.txt)"
-msgstr ""
+msgstr "Téacschomhaid (*.txt)"
 
 #: AutoControls_tmpl.hrc#AUTO_SEPARATORCONTROLGROUP_AUTO_Y_AUTOPAGE_X_.RB_AUTOACCESSCCSVFILES.radiobutton.text
 msgid "'Comma separated value' files (*.csv)"
@@ -71563,7 +71571,7 @@ msgid "The format of the selected file is not supported."
 msgstr ""
 
 #: readme.xrm#ooo_readme.Welcome.A2.a.readmeitem.text
-msgid "Last updated $Date: 2005-04-19 04:34:31 $"
+msgid "Last updated $Date: 2005-04-19 20:20:45 $"
 msgstr ""
 
 #: readme.xrm#ooo_readme.Welcome.A3.a.readmeitem.text
