@@ -57164,7 +57164,7 @@ msgstr ""
 
 #: errtxt.src#RID_ERRHDL.ERRCODE_INET_GENERAL.string.text
 msgid "General Internet error has occurred"
-msgstr ""
+msgstr "Tharla earráid ghinearálta Idirlín"
 
 #: errtxt.src#RID_ERRHDL.ERRCODE_INET_OFFLINE.string.text
 msgid ""
@@ -57178,7 +57178,7 @@ msgstr ""
 
 #: errtxt.src#RID_ERRHDL.ERRCODE_SFX_NOFILTER.string.text
 msgid "A filter has not been found"
-msgstr ""
+msgstr "Níor aimsíodh scagaire"
 
 #: errtxt.src#RID_ERRHDL.ERRCODE_SFX_CANTFINDORIGINAL.string.text
 msgid "The original could not be determined."
@@ -57190,11 +57190,11 @@ msgstr ""
 
 #: errtxt.src#RID_ERRHDL.ERRCODE_SFX_CANTCREATELINK.string.text
 msgid "The link could not be created."
-msgstr ""
+msgstr "Níorbh fhéidir an nasc a chruthú."
 
 #: errtxt.src#RID_ERRHDL.ERRCODE_SFX_WRONGBMKFORMAT.string.text
 msgid "The link format is invalid."
-msgstr ""
+msgstr "Formáid neamhbhailí naisc."
 
 #: errtxt.src#RID_ERRHDL.ERRCODE_SFX_WRONGICONFILE.string.text
 msgid "The configuration of the icon display is invalid."
@@ -57214,7 +57214,7 @@ msgstr ""
 
 #: errtxt.src#RID_ERRHDL.ERRCODE_SFX_INVALIDBMKPATH.string.text
 msgid "The bookmark folder is invalid."
-msgstr ""
+msgstr "Filltéan neamhbhailí leabharmharcanna."
 
 #: errtxt.src#RID_ERRHDL.ERRCODE_SFX_CANTWRITEURLCFGFILE.string.text
 msgid "The configuration of the URLs to be saved locally could not be saved"
@@ -57238,7 +57238,7 @@ msgstr ""
 
 #: errtxt.src#RID_ERRHDL.ERRCODE_SFX_NOTRESTORABLE.string.text
 msgid "The entry could not be restored"
-msgstr ""
+msgstr "Ní féidir an iontráil a athchóiriú"
 
 #: errtxt.src#RID_ERRHDL.ERRCODE_IO_NAMETOOLONG.string.text
 msgid "The file name is too long for the target file system."
@@ -57252,7 +57252,7 @@ msgstr ""
 #: errtxt.src#RID_ERRHDL.ERRCODE_SFX_CANTCREATEFOLDER.string.text
 #: errtxt.src#RID_ERRHDL.ERRCODE_SFX_CANTRENAMEFOLDER.string.text
 msgid "The input syntax is invalid."
-msgstr ""
+msgstr "Comhréir neamhbhailí ionchuir."
 
 #: errtxt.src#RID_ERRHDL.ERRCODE_SFX_WRONG_CDF_FORMAT.string.text
 msgid "The channel document has an invalid format."
@@ -57260,7 +57260,7 @@ msgstr ""
 
 #: errtxt.src#RID_ERRHDL.ERRCODE_SFX_EMPTY_SERVER.string.text
 msgid "The server must not be empty"
-msgstr ""
+msgstr "Ní cheadaítear freastalaí folamh"
 
 #: errtxt.src#RID_ERRHDL.ERRCODE_SFX_NO_ABOBOX.string.text
 msgid "A subscription folder is required to install a Channel."
@@ -57281,7 +57281,7 @@ msgstr ""
 
 #: errtxt.src#RID_ERRHDL.ERRCODE_IO_INVALIDLENGTH.string.text
 msgid "Invalid data length."
-msgstr ""
+msgstr "Fad neamhbhailí na sonraí."
 
 #: errtxt.src#RID_ERRHDL.ERRCODE_IO_CURRENTDIR.string.text
 msgid "Function not possible: path contains current directory."
@@ -57293,7 +57293,7 @@ msgstr ""
 
 #: errtxt.src#RID_ERRHDL.ERRCODE_IO_DEVICENOTREADY.string.text
 msgid "Device (drive) not ready."
-msgstr ""
+msgstr "Níl an gléas (tiomántán) ullamh."
 
 #: errtxt.src#RID_ERRHDL.ERRCODE_IO_BADCRC.string.text
 msgid "Wrong check amount."
@@ -57309,7 +57309,7 @@ msgstr "Bunchód"
 
 #: imagemgr.src#STR_DESCRIPTION_DATABASE_TABLE.string.text
 msgid "Database table"
-msgstr ""
+msgstr "Tábla bunachair sonraí"
 
 #: imagemgr.src#STR_DESCRIPTION_WORD_DOC.string.text
 msgid "MS Word document"
@@ -57321,7 +57321,7 @@ msgstr "Bunachar Sonraí %STAROFFICE"
 
 #: imagemgr.src#STR_DESCRIPTION_GLOBALDOC.string.text
 msgid "StarWriter 4.0 / 5.0 Master Document"
-msgstr ""
+msgstr "Máistircháipéis StarWriter 4.0 / 5.0"
 
 #: imagemgr.src#STR_DESCRIPTION_SIMAGE_DOC.string.text
 msgid "%STAROFFICE Image"
@@ -57354,7 +57354,7 @@ msgstr "Teimpléad Láithreoireachta %PRODUCTNAME %PRODUCTXMLFILEFORMATVERSION"
 
 #: imagemgr.src#STR_DESCRIPTION_WRITER_TEMPLATE.string.text
 msgid "%PRODUCTNAME %PRODUCTXMLFILEFORMATVERSION Text Document Template"
-msgstr ""
+msgstr "Teimpléad Téacs %PRODUCTNAME %PRODUCTXMLFILEFORMATVERSION"
 
 #: imagemgr.src#STR_DESCRIPTION_LOCALE_VOLUME.string.text
 #: mediatyp.src#STR_SVT_MIMETYPE_CNT_REMOV_VOL.string.text
@@ -57369,7 +57369,7 @@ msgstr "Tiomántán diosca"
 #: imagemgr.src#STR_DESCRIPTION_CDROM_VOLUME.string.text
 #: mediatyp.src#STR_SVT_MIMETYPE_CNT_CDROM.string.text
 msgid "CD-ROM drive"
-msgstr ""
+msgstr "Tiomántán CD-ROM"
 
 #: imagemgr.src#STR_DESCRIPTION_REMOTE_VOLUME.string.text
 #: mediatyp.src#STR_SVT_MIMETYPE_CNT_REM_VOL.string.text
@@ -57421,7 +57421,7 @@ msgstr "Cáipéis Téacs %PRODUCTNAME %PRODUCTXMLFILEFORMATVERSION"
 #: imagemgr.src#STR_DESCRIPTION_SXGLOBAL_DOC.string.text
 #: mediatyp.src#STR_SVT_MIMETYPE_APP_SXGLOBAL.string.text
 msgid "%PRODUCTNAME %PRODUCTXMLFILEFORMATVERSION Master Document"
-msgstr ""
+msgstr "Máistircháipéis %PRODUCTNAME %PRODUCTXMLFILEFORMATVERSION"
 
 #: imagemgr.src#STR_DESCRIPTION_MATHML_DOC.string.text
 msgid "MathML Document"
@@ -57565,7 +57565,7 @@ msgstr "Tionscadal"
 
 #: mediatyp.src#STR_SVT_MIMETYPE_CNT_SUBSCRBOX.string.text
 msgid "Subscriptions"
-msgstr ""
+msgstr "Síntiúis"
 
 #: mediatyp.src#STR_SVT_MIMETYPE_CNT_BOOKMARK.string.text
 msgid "Bookmark subscription"
@@ -57607,7 +57607,7 @@ msgstr "Tiomántán téipe"
 
 #: mediatyp.src#STR_SVT_MIMETYPE_APP_GAL_THEME.string.text
 msgid "Gallery theme"
-msgstr ""
+msgstr "Téama an ghailearaí"
 
 #: mediatyp.src#STR_SVT_MIMETYPE_SCHEDULE.string.text
 msgid "Tasks & Events"
@@ -57643,7 +57643,7 @@ msgstr "Fillteán córais"
 
 #: mediatyp.src#STR_SVT_MIMETYPE_CNT_SFSYSFILE.string.text
 msgid "System object"
-msgstr ""
+msgstr "Réad an chórais"
 
 #: mediatyp.src#STR_SVT_MIMETYPE_APP_MSPPOINT.string.text
 msgid "MS PowerPoint document"
@@ -57667,7 +57667,7 @@ msgstr ""
 
 #: mediatyp.src#STR_SVT_MIMETYPE_INET_MSG_RFC822.string.text
 msgid "message/rfc822"
-msgstr ""
+msgstr "message/rfc822"
 
 #: mediatyp.src#STR_SVT_MIMETYPE_INET_MULTI_ALTERNATIVE.string.text
 msgid "multipart/alternative"
@@ -57683,7 +57683,7 @@ msgstr "multipart/parallel"
 
 #: mediatyp.src#STR_SVT_MIMETYPE_INET_MULTI_RELATED.string.text
 msgid "multipart/related"
-msgstr ""
+msgstr "multipart/related"
 
 #: mediatyp.src#STR_SVT_MIMETYPE_INET_MULTI_MIXED.string.text
 msgid "multipart/mixed"
@@ -57709,7 +57709,7 @@ msgstr "~Riarachán..."
 
 #: addresstemplate.src#DLG_ADDRESSBOOKSOURCE.FT_FIELDS.fixedtext.text
 msgid "Field assignment"
-msgstr ""
+msgstr "Sannadh réimsí"
 
 #: addresstemplate.src#DLG_ADDRESSBOOKSOURCE.modaldialog.text
 msgid "Templates: Address Book Assignment"
@@ -57767,7 +57767,7 @@ msgstr "Fón: Eile"
 #: addresstemplate.src#STR_FIELD_INVITE.string.text
 #: template.src#CorrespondenceFields_31.string.text
 msgid "Invite"
-msgstr ""
+msgstr "Tabhair cuireadh"
 
 #: colrdlg.src#DLG_COLOR.FT_CYAN.fixedtext.text
 msgid "~Cyan"
@@ -57831,7 +57831,7 @@ msgstr "Ní féidir an chomhadlann a oscailt"
 
 #: filedlg2.src#STR_FILEDLG_OVERWRITE.string.text
 msgid "This file already exists. \\nOverwrite ?"
-msgstr ""
+msgstr "Tá an comhad seo ann cheana. \\nForscríobh ?"
 
 #: filedlg2.src#STR_FILEDLG_DRIVES.string.text
 msgid "D~rive"
@@ -57847,7 +57847,7 @@ msgstr "Cruthaigh Comhadlann"
 
 #: filedlg2.src#STR_FILEDLG_ASKNEWDIR.string.text
 msgid "Do you want the directory %s to be created ?"
-msgstr ""
+msgstr "Ar mhaith leat comhadlann %s a chruthú ?"
 
 #: logindlg.src#DLG_LOGIN.INFO_LOGIN_REQUEST.fixedtext.text
 msgid "Please enter user name and password for %1."
@@ -57896,7 +57896,7 @@ msgstr "Moillithe"
 
 #: prnsetup.src#STR_SVT_PRNDLG_PENDING.string.text
 msgid "Pending deletion"
-msgstr ""
+msgstr "Ag fanacht le scriosadh"
 
 #: prnsetup.src#STR_SVT_PRNDLG_BUSY.string.text
 msgid "Busy"
@@ -57928,7 +57928,7 @@ msgstr "Tranglam páipéir"
 
 #: prnsetup.src#STR_SVT_PRNDLG_PAPER_OUT.string.text
 msgid "Not enough paper"
-msgstr ""
+msgstr "Níl go leor páipéar ann"
 
 #: prnsetup.src#STR_SVT_PRNDLG_MANUAL_FEED.string.text
 msgid "Manual feed"
@@ -57936,11 +57936,11 @@ msgstr "Fotha láimhe"
 
 #: prnsetup.src#STR_SVT_PRNDLG_PAPER_PROBLEM.string.text
 msgid "Paper problem"
-msgstr ""
+msgstr "Fadhb le páipéar"
 
 #: prnsetup.src#STR_SVT_PRNDLG_IO_ACTIVE.string.text
 msgid "I/O active"
-msgstr ""
+msgstr "I/A gníomhach"
 
 #: prnsetup.src#STR_SVT_PRNDLG_OUTPUT_BIN_FULL.string.text
 msgid "Output bin full"
@@ -57960,7 +57960,7 @@ msgstr "Scrios Leathanach"
 
 #: prnsetup.src#STR_SVT_PRNDLG_USER_INTERVENTION.string.text
 msgid "User intervention necessary"
-msgstr ""
+msgstr "Idirghabháil úsáideora de dhíth"
 
 #: prnsetup.src#STR_SVT_PRNDLG_DOOR_OPEN.string.text
 msgid "Cover open"
@@ -58029,7 +58029,7 @@ msgstr "Taispeáin gach fuinneog"
 
 #: testtool.src#DisplayHidToolBox.TT_KURZNAME.toolboxitem.text
 msgid "Show short names (if available)"
-msgstr ""
+msgstr "Taispeáin ainmneacha gearra (má tá siad ar fáil)"
 
 #: testtool.src#DisplayHidToolBox.TT_LANGNAME.toolboxitem.text
 msgid "Always show long-name"
@@ -58053,7 +58053,7 @@ msgstr "Cui~r Ar Ais"
 
 #: testtool.src#TT_INLINE_TRANSLATION.workwindow.text
 msgid "Inplace Translation"
-msgstr ""
+msgstr "Aistriú ina Ionad"
 
 #: testtool.src#TT_DISCARD_CHANGED_DATA.messbox.text
 msgid "The Translation will be lost. Proceed anyway?"
@@ -58065,7 +58065,7 @@ msgstr ""
 
 #: testtool.src#TT_GPF.string.text
 msgid "GPF occurred"
-msgstr ""
+msgstr "Tharla GPF"
 
 #: testtool.src#TT_ALTERNATE_CAPTION.string.text
 msgid "HelpID does not match UniqueID: "
@@ -58086,7 +58086,7 @@ msgstr "S~tíleanna:"
 
 #: OfficeFilePicker.src#STR_SVT_FOLDERPICKER_DEFAULT_DESCRIPTION.string.text
 msgid "Please select a folder."
-msgstr ""
+msgstr "Roghnaigh fillteán le do thoil."
 
 #: iodlg.src#DLG_SVT_EXPLORERFILE.BTN_EXPLORERFILE_STANDARD.menubutton.quickhelptext
 msgid "Default Directory"
@@ -58111,13 +58111,15 @@ msgstr "Cruthaigh fillteán nua"
 
 #: iodlg.src#RID_FILEOPEN_INVALIDFOLDER.string.text
 msgid "$name$ does not exist."
-msgstr ""
+msgstr "Níl $name$ ann."
 
 #: iodlg.src#RID_FILEOPEN_NOTEXISTENTFILE.string.text
 msgid ""
 "The file $name$ does not exist.\\nMake sure you have entered the correct "
 "file name."
 msgstr ""
+"Níl an comhad $name$ ann.\\nCinntigh go bhfuil an t-ainm ceart iontráilte "
+"agat."
 
 #: impswfdialog.src#DLG_OPTIONS.modaldialog.text
 msgid "Macromedia Flash (SWF) Options"
@@ -58129,7 +58131,7 @@ msgstr "~Bailíochtú"
 
 #: xmlfileview.src#DLG_XML_SOURCE_FILE_DIALOG.workwindow.text
 msgid "XML Filter output"
-msgstr ""
+msgstr "Aschur an Scagaire XML"
 
 #: xmlfilterdialogstrings.src#STR_IMPORT_ONLY.string.text
 msgid "import filter"
@@ -58165,11 +58167,13 @@ msgstr ""
 
 #: xmlfilterdialogstrings.src#STR_ERROR_DTD_NOT_FOUND.string.text
 msgid "The DTD could not be found. Please enter a valid path."
-msgstr ""
+msgstr "Níorbh fhéidir an DTD a aimsiú. Iontráil conair bhailí le do thoil."
 
 #: xmlfilterdialogstrings.src#STR_ERROR_EXPORT_XSLT_NOT_FOUND.string.text
 msgid "The XSLT for export cannot be found. Please enter a valid path."
 msgstr ""
+"Ní féidir an XSLT a aimsiú le heaspórtáil. Iontráil conair bhailí le do "
+"thoil."
 
 #: xmlfilterdialogstrings.src#STR_ERROR_IMPORT_XSLT_NOT_FOUND.string.text
 msgid "The XSLT for import cannot be found. Please enter a valid path."
@@ -58178,6 +58182,8 @@ msgstr ""
 #: xmlfilterdialogstrings.src#STR_ERROR_IMPORT_TEMPLATE_NOT_FOUND.string.text
 msgid "The given import template cannot be found. Please enter a valid path."
 msgstr ""
+"Ní féidir an teimpléad iompórtála a aimsiú. Iontráil conair bhailí le do "
+"thoil."
 
 #: xmlfilterdialogstrings.src#STR_NOT_SPECIFIED.string.text
 msgid "Not specified"
@@ -58193,7 +58199,7 @@ msgstr "scagaire gan sainmhíniú"
 
 #: xmlfilterdialogstrings.src#STR_FILTER_HAS_BEEN_SAVED.string.text
 msgid "The XML filter '%s' has been saved as package '%s'. "
-msgstr ""
+msgstr "Sábháladh scagaire XML '%s' mar phacáiste '%s. "
 
 #: xmlfilterdialogstrings.src#STR_FILTERS_HAVE_BEEN_SAVED.string.text
 msgid "%s XML filters have been saved in the package '%s'."
@@ -58201,11 +58207,11 @@ msgstr ""
 
 #: xmlfilterdialogstrings.src#STR_FILTER_PACKAGE.string.text
 msgid "XSLT filter package"
-msgstr ""
+msgstr "Pacáiste scagaire XSLT"
 
 #: xmlfilterdialogstrings.src#STR_FILTER_INSTALLED.string.text
 msgid "The XML filter '%s' has been installed successfully."
-msgstr ""
+msgstr "D'éirigh le suiteáil an scagaire XML '%s'."
 
 #: xmlfilterdialogstrings.src#STR_FILTERS_INSTALLED.string.text
 msgid "%s XML filters have been installed successfully."
@@ -58231,7 +58237,7 @@ msgstr "~Oscail Pacáiste..."
 
 #: xmlfiltersettingsdialog.src#DLG_XML_FILTER_SETTINGS_DIALOG.workwindow.text
 msgid "XML Filter Settings"
-msgstr ""
+msgstr "Socruithe an Scagaire XML"
 
 #: xmlfiltertabdialog.src#DLG_XML_FILTER_TABDIALOG.1.RID_XML_FILTER_TABPAGE_XSLT.pageitem.text
 #: xmlfiltertabpagexslt.src#RID_XML_FILTER_TABPAGE_XSLT.tabpage.text
@@ -58383,7 +58389,7 @@ msgstr "Teimpléad StarImpress 5.0"
 
 #: StarImpress_5_0__packed__ui.xcu#StarImpress_5.0__packed_.UIName.value.text
 msgid "StarImpress 5.0 Packed"
-msgstr ""
+msgstr "StarImpress 5.0 Pacáilte"
 
 #: StarOffice_XML__Calc__ui.xcu#StarOffice_XML__Calc_.UIName.value.text
 msgid "StarOffice 6.0/7 Spreadsheet"
@@ -58476,7 +58482,7 @@ msgstr ""
 
 #: calc_StarOffice_XML_Calc_Template_ui.xcu#calc_StarOffice_XML_Calc_Template.UIName.value.text
 msgid "StarOffice 6.0/7 Spreadsheet Template"
-msgstr ""
+msgstr "Teimpléad Scarbhileoige StarOffice 6.0/7"
 
 #: chart8_ui.xcu#chart8.UIName.value.text
 msgid "OpenDocument Chart"
@@ -58484,7 +58490,7 @@ msgstr "Cairt OpenDocument"
 
 #: draw_StarOffice_XML_Draw_Template_ui.xcu#draw_StarOffice_XML_Draw_Template.UIName.value.text
 msgid "StarOffice 6.0/7 Drawing Template"
-msgstr ""
+msgstr "Teimpléad Líníochta StarOffice 6.0/7"
 
 #: draw_html_Export_ui.xcu#draw_html_Export.UIName.value.text
 msgid "HTML Document (StarOffice Draw)"
@@ -58500,7 +58506,7 @@ msgstr "Líníocht StarOffice 6.0/7 (StarOffice Impress)"
 
 #: impress_StarOffice_XML_Impress_Template_ui.xcu#impress_StarOffice_XML_Impress_Template.UIName.value.text
 msgid "StarOffice 6.0/7 Presentation Template"
-msgstr ""
+msgstr "Teimpléad Láithreoireachta StarOffice 6.0/7"
 
 #: impress_html_Export_ui.xcu#impress_html_Export.UIName.value.text
 msgid "HTML Document (StarOffice Impress)"
@@ -58512,7 +58518,7 @@ msgstr "Teimpléad Ichitaro 8/9/10/11"
 
 #: writer_StarOffice_XML_Writer_Template_ui.xcu#writer_StarOffice_XML_Writer_Template.UIName.value.text
 msgid "StarOffice 6.0/7 Text Document Template"
-msgstr ""
+msgstr "Teimpléad Téacs StarOffice 6.0/7"
 
 #: writer_globaldocument_StarOffice_XML_Writer_GlobalDocument_ui.xcu#writer_globaldocument_StarOffice_XML_Writer_GlobalDocument.UIName.value.text
 msgid "StarOffice 6.0/7 Master Document"
@@ -71649,7 +71655,7 @@ msgid "The format of the selected file is not supported."
 msgstr ""
 
 #: readme.xrm#ooo_readme.Welcome.A2.a.readmeitem.text
-msgid "Last updated $Date: 2005-04-20 16:42:02 $"
+msgid "Last updated $Date: 2005-04-20 21:14:41 $"
 msgstr ""
 
 #: readme.xrm#ooo_readme.Welcome.A3.a.readmeitem.text
