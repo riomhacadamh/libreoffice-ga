@@ -50792,7 +50792,7 @@ msgstr "~Cáipéis"
 #: filedlghelper.src#STR_SFX_FILEDLG_ACTUALVERSION.string.text
 #: iodlg.src#DLG_SVT_EXPLORERFILE.STR_ACTUALVERSION.string.text
 msgid "Current version"
-msgstr "Leagan Reatha"
+msgstr "Leagan reatha"
 
 #: filedlghelper.src#STR_CB_AUTO_EXTENSION.string.text
 #: OfficeFilePicker.src#STR_SVT_FILEPICKER_AUTO_EXTENSION.string.text
@@ -51797,23 +51797,23 @@ msgstr "bain"
 
 #: fsetview.src#MSG_QUERY_INCOMPLETEFRAME.querybox.text
 msgid "FrameSet is incomplete.\\nReject?"
-msgstr ""
+msgstr "Frámadán neamhiomlán.\\nDiúltaigh?"
 
 #: fsetview.src#RID_FRAMESET_MENU.SID_SPLIT_HORIZONTAL.menuitem.text
 msgid "Split Horizontally"
-msgstr ""
+msgstr "Roinn Go Cothrománach"
 
 #: fsetview.src#RID_FRAMESET_MENU.SID_SPLIT_VERTICAL.menuitem.text
 msgid "Split Vertically"
-msgstr ""
+msgstr "Roinn Go hIngearach"
 
 #: fsetview.src#RID_FRAMESET_MENU.SID_SPLIT_PARENT_HORIZONTAL.menuitem.text
 msgid "Insert Horizontal"
-msgstr ""
+msgstr "Ionsáigh go Cothrománach"
 
 #: fsetview.src#RID_FRAMESET_MENU.SID_SPLIT_PARENT_VERTICAL.menuitem.text
 msgid "Insert Vertical"
-msgstr ""
+msgstr "Ionsáigh go hIngearach"
 
 #: fsetview.src#STR_SAVE_FRAMESET.string.text
 msgid "~Save FrameSet"
@@ -51844,10 +51844,13 @@ msgstr "Cáipéis Fhrámadáin"
 #: view.src#STR_NODEFPRINTER.string.text
 msgid "No default printer found.\\nPlease choose a printer and try again."
 msgstr ""
+"Níl aon phrintéir réamhshocraithe agat.\\nRoghnaigh printéir agus triail "
+"arís, le do thoil."
 
 #: view.src#STR_NOSTARTPRINTER.string.text
 msgid "Could not start printer.\\nPlease check your printer configuration."
 msgstr ""
+"Níorbh fhéidir an printéir a thosú.\\nSeiceáil cumraíocht do printéara."
 
 #: view.src#STR_PRINTER_NOTAVAIL.string.text
 msgid ""
@@ -51895,7 +51898,7 @@ msgstr ""
 
 #: view.src#RID_EXPLORERTOOLSTOOLBOX.string.text
 msgid "Desktop Toolbar"
-msgstr ""
+msgstr "Barra Uirlisí na Deisce"
 
 #: view.src#STR_PREVIEW_DOCINFO.string.text
 msgid ""
@@ -51903,21 +51906,27 @@ msgid ""
 "b><dd>$(TITEL)<dt><b>Subject:</b><dd>$(THEME)<dt><b>Keywords:</b><dd>"
 "$(KEYWORDS)<dt><b>Description:</b><dd>$(TEXT)</dl></font></body></html>"
 msgstr ""
+"<html><body BGCOLOR=\"#c0c0c0\"><font FACE=\"Arial\"><dl><dt><b>Teideal:</"
+"b><dd>$(TITEL)<dt><b>Ábhar:</b><dd>$(THEME)<dt><b>Eochairfhocail:</b><dd>"
+"$(KEYWORDS)<dt><b>Cur Síos:</b><dd>$(TEXT)</dl></font></body></html>"
 
 #: view.src#STR_PREVIEW_NODOCINFO.string.text
 msgid ""
 "<HTML><BODY BGCOLOR=\"#c0c0c0\"><BR><BR><P><FONT FACE=\"Arial\"><B>No "
 "document properties found.</B></FONT></P></BODY></HTML>"
 msgstr ""
+"<HTML><BODY BGCOLOR=\"#c0c0c0\"><BR><BR><P><FONT FACE=\"Arial\"><B>Níor "
+"aimsíodh airíonna na cáipéise.</B></FONT></P></BODY></HTML>"
 
 #: view.src#MSG_CANT_CLOSE.infobox.text
 msgid ""
 "The document cannot be closed because a\\n print job is being carried out."
 msgstr ""
+"Ní féidir an cháipéis a dhúnadh toisc go\\n bhfuil jab priontála ar bun."
 
 #: view.src#DLG_PRINTMONITOR_TEXT.#define.text
 msgid "Print Monitor"
-msgstr ""
+msgstr "Monatóir Priontála"
 
 #: view.src#MSG_ERROR_SEND_MAIL.infobox.text
 msgid ""
@@ -51945,6 +51954,8 @@ msgid ""
 "This document cannot be edited, possibly due to missing access rights. Do "
 "you want to edit a copy of the document?"
 msgstr ""
+"Ní féidir an cháipéis a chur in eagar; is dócha nach bhfuil cead rochtana "
+"agat. Ar mhaith leat cóip den cháipéis a chur in eagar?"
 
 #: view.src#STR_FRAMESIZE.string.text
 msgid "Frame Size"
@@ -51956,7 +51967,7 @@ msgstr ""
 
 #: view.src#STR_REPAIREDDOCUMENT.string.text
 msgid " (repaired document)"
-msgstr ""
+msgstr " (cáipéis dheisithe)"
 
 #: explorer.src#RID_SFX_HORIZONTALEXPLORERDOCKWND.dockingwindow.text
 msgid "Beamer: "
@@ -51970,7 +51981,7 @@ msgstr "Iontráil:"
 #: explorer.src#DLG_SFX_QUERYDELETE.TXT_QUERYMSG.fixedtext.text
 #: fileview.src#DLG_SVT_QUERYDELETE.TXT_QUERYMSG.fixedtext.text
 msgid "Are you sure you want to delete the selected data?"
-msgstr ""
+msgstr "An bhfuil tú cinnte gur mian leat na sonraí roghnaithe a scriosadh?"
 
 #: explorer.src#DLG_SFX_QUERYDELETE.BTN_NO.pushbutton.text
 #: fileview.src#DLG_SVT_QUERYDELETE.BTN_NO.pushbutton.text
@@ -51984,7 +51995,7 @@ msgstr "Dearbhaigh an dealú"
 
 #: explorer.src#DLG_SFX_QUERYOVERWRITE.TXT_QUERYOVERWRITE_FLD.fixedtext.text
 msgid "The folder already exists. Overwrite?"
-msgstr ""
+msgstr "Tá an filltéan ann cheana. Forscríobh?"
 
 #: explorer.src#DLG_SFX_QUERYOVERWRITE.TXT_TARGETFILELABEL.fixedtext.text
 msgid "Destination:"
@@ -52061,7 +52072,7 @@ msgstr "Pictiúr (%PRODUCTNAME)"
 
 #: explorer.src#STR_SFX_GLOBALDOC.string.text
 msgid "%PRODUCTNAME Text Master Document"
-msgstr ""
+msgstr "Máistircháipéis Téacs %PRODUCTNAME"
 
 #: explorer.src#STR_SFX_WORD_DOC.string.text
 msgid "MS Word Document"
@@ -52092,7 +52103,7 @@ msgstr "Comhad cabhrach"
 
 #: explorer.src#STR_SFX_DATABASE_TABLE.string.text
 msgid "Database Table"
-msgstr ""
+msgstr "Tábla Bunachair Sonraí"
 
 #: explorer.src#STR_SFX_LOGFILE.string.text
 #: imagemgr.src#STR_DESCRIPTION_LOGFILE.string.text
@@ -52114,7 +52125,7 @@ msgstr "Cáipéis %PRODUCTNAME"
 
 #: documentlist.src#STR_MODIFIEDDOCS.string.text
 msgid "List of modified documents"
-msgstr ""
+msgstr "Liosta de cháipéisí athraithe"
 
 #: documentlist.src#RID_DOCUMENTS_POPUP.ID_DISCARD.menuitem.text
 msgid "Discard Changes"
@@ -52134,11 +52145,11 @@ msgstr "Ga~n seachfhreastalaí"
 
 #: logindialog.src#RID_DLG_LOGIN.RID_RB_USEBROWSERPROXY.radiobutton.text
 msgid "Use ~web browser proxy settings"
-msgstr ""
+msgstr "Úsáid socruithe sheachfhreastalaí an ~bhrabhsálaí"
 
 #: logindialog.src#RID_DLG_LOGIN.RID_RB_USECUSTOMPROXY.radiobutton.text
 msgid "Use ~custom proxy settings"
-msgstr ""
+msgstr "Úsáid so~cruithe sheachfhreastalaí shaincheaptha"
 
 #: logindialog.src#RID_DLG_LOGIN.RID_FT_SECURITYPROXY.fixedtext.text
 msgid "Se~curity Proxy"
@@ -52184,11 +52195,11 @@ msgstr ""
 
 #: resource.src#STR_NODOCUMENT.string.text
 msgid "No documents"
-msgstr ""
+msgstr "Gan cáipéis"
 
 #: resource.src#STR_TOOLBAR_TITLE_ADDON.string.text
 msgid "Add-On %num%"
-msgstr ""
+msgstr "Breiseán %num%"
 
 #: resource.src#DLG_LICENSE.FT_INFO1.fixedtext.text
 #: preload.src#RID_TP_LICENSE.FT_INFO1.fixedtext.text
@@ -52221,7 +52232,7 @@ msgstr "2."
 #: resource.src#DLG_LICENSE.FT_INFO3.fixedtext.text
 #: preload.src#RID_TP_LICENSE.FT_INFO3.fixedtext.text
 msgid "Accept the License Agreement."
-msgstr ""
+msgstr "Glac leis an Chomhaontú um Cheadúnas."
 
 #: resource.src#DLG_LICENSE.LICENSE_NOTACCEPT.string.text
 #: preload.src#RID_TP_LICENSE.LICENCE_NOTACCEPT.string.text
@@ -52257,7 +52268,7 @@ msgstr "Cealaíodh socrú"
 #: setup.ulf#_REQUIRES_ADMIN_PRIV_.LngText.text
 msgid ""
 "Administrator privileges are required for upgrading the Windows Installer."
-msgstr ""
+msgstr "Ceadanna an riarthóra de dhíth chun an Suiteálaí Windows a uasghrádú."
 
 #: setup.ulf#_FILE_NOT_FOUND_.LngText.text
 msgid "Setup was unable to find the file '%s'."
@@ -52286,11 +52297,11 @@ msgstr ""
 
 #: setup.ulf#_UNKNOWN_ERROR_.LngText.text
 msgid "An Unknown Error occured!"
-msgstr ""
+msgstr "Tharla Earráid Anaithnid!"
 
 #: setup.ulf#_INVALID_PROFILE_.LngText.text
 msgid "Invalid or incomplete profile."
-msgstr ""
+msgstr "Próifíl neamhbhailí nó neamhiomlán."
 
 #: setup.ulf#_UNKNOWN_LANG_.LngText.text
 msgid "Unknown Language: %d"
@@ -52313,7 +52324,7 @@ msgstr "Pacáiste á Chóipeáil: "
 
 #: dp_manager.src#RID_STR_ERROR_WHILE_ADDING.string.text
 msgid "Error while adding package: "
-msgstr ""
+msgstr "Earráid agus an pacáiste á chur leis: "
 
 #: dp_manager.src#RID_STR_ERROR_WHILE_REMOVING.string.text
 msgid "Error while removing package: "
@@ -52325,11 +52336,11 @@ msgstr ""
 
 #: dp_manager.src#RID_STR_NO_SUCH_PACKAGE.string.text
 msgid "There is no such package deployed: "
-msgstr ""
+msgstr "Níl a leithéid de phacáiste ann: "
 
 #: dp_gui_dialog.src#RID_DLG_PACKAGE_MANAGER.RID_FT_PACKAGES.fixedtext.text
 msgid "Browse packages"
-msgstr ""
+msgstr "Brabhsáil pacáistí"
 
 #: dp_gui_dialog.src#RID_DLG_PACKAGE_MANAGER.RID_BTN_DISABLE.pushbutton.text
 #: dp_gui_dialog.src#RID_CTX_ITEM_DISABLE.string.text
@@ -52380,7 +52391,7 @@ msgstr "Easpórtáil Pacáistí go..."
 
 #: dp_gui_dialog.src#RID_STR_ADDING_PACKAGES.string.text
 msgid "Adding Package(s)"
-msgstr ""
+msgstr "Pacáistí á gCur Leis"
 
 #: dp_gui_dialog.src#RID_STR_REMOVING_PACKAGES.string.text
 msgid "Removing Package(s)"
@@ -52412,19 +52423,19 @@ msgstr ""
 
 #: dp_registry.src#RID_STR_UNSUPPORTED_MEDIA_TYPE.string.text
 msgid "This media-type is not supported: "
-msgstr ""
+msgstr "Ní thacaítear leis an media-type seo: "
 
 #: dp_registry.src#RID_STR_ERROR_WHILE_REGISTERING.string.text
 msgid "An error occurred while enabling the package: "
-msgstr ""
+msgstr "Tharla earráid agus an pacáiste á chumasú: "
 
 #: dp_registry.src#RID_STR_ERROR_WHILE_REVOKING.string.text
 msgid "An error occurred while disabling the package: "
-msgstr ""
+msgstr "Tharla earráid agus an pacáiste á dhíchumasú: "
 
 #: dp_package.src#RID_STR_PACKAGE_BUNDLE.string.text
 msgid "UNO Package Bundle"
-msgstr ""
+msgstr "Beart Pacáiste UNO"
 
 #: dp_component.src#RID_STR_DYN_COMPONENT.string.text
 msgid "UNO Dynamic Library Component"
@@ -52432,11 +52443,11 @@ msgstr ""
 
 #: dp_component.src#RID_STR_JAVA_COMPONENT.string.text
 msgid "UNO Java Component"
-msgstr ""
+msgstr "Comhpháirt Java UNO"
 
 #: dp_component.src#RID_STR_PYTHON_COMPONENT.string.text
 msgid "UNO Python Component"
-msgstr ""
+msgstr "Comhpháirt Python UNO"
 
 #: dp_component.src#RID_STR_RDB_TYPELIB.string.text
 msgid "UNO RDB Type Library"
@@ -52460,7 +52471,7 @@ msgstr "Bunleabharlann %PRODUCTNAME"
 
 #: dp_script.src#RID_STR_DIALOG_LIB.string.text
 msgid "Dialog Library"
-msgstr ""
+msgstr "Leabharlann Dialóg"
 
 #: dp_script.src#RID_STR_CANNOT_DETERMINE_LIBNAME.string.text
 msgid "The library name could not be determined."
@@ -52469,6 +52480,7 @@ msgstr ""
 #: dp_script.src#RID_STR_LIBNAME_ALREADY_EXISTS.string.text
 msgid "This library name already exists. Please choose a different name."
 msgstr ""
+"Tá leabharlann ann leis an ainm seo cheana. Roghnaigh ainm eile, le do thoil."
 
 #: dp_sfwk.src#RID_STR_SFWK_LIB.string.text
 msgid "%MACROLANG Library"
@@ -52477,7 +52489,7 @@ msgstr "Leabharlann %MACROLANG"
 #: wizard.src#DLG_FIRSTSTART_WIZARD.modaldialog.text
 #: wizard.src#TP_WELCOME.FT_WELCOME_HEADER.fixedtext.text
 msgid "Welcome to %PRODUCTNAME %PRODUCTVERSION"
-msgstr ""
+msgstr "Fáilte go %PRODUCTNAME %PRODUCTVERSION"
 
 #: wizard.src#STR_STATE_WELCOME.string.text
 #: preload.src#RID_TP_WELCOME.tabpage.text
@@ -52546,10 +52558,12 @@ msgid ""
 "An error occurred in starting the web browser.\\nPlease check the %"
 "PRODUCTNAME and web browser settings."
 msgstr ""
+"Tharla earráid agus an brabhsálaí á thosú.\\nSeiceáil socruithe %PRODUCTNAME "
+"agus socruithe an bhrabhsálaí."
 
 #: wizard.src#QB_ASK_DECLINE.querybox.text
 msgid "Do you really want to decline?"
-msgstr ""
+msgstr "An bhfuil tú cinnte go dteastaíonn uait diúltú?"
 
 #: wizard.src#TP_WELCOME.FT_WELCOME_BODY.fixedtext.text
 msgid ""
@@ -52570,6 +52584,8 @@ msgstr ""
 #: wizard.src#TP_LICENSE.FT_LICENSE_BODY_2_TXT.fixedtext.text
 msgid "Click 'Accept' to accept the terms of the Agreement."
 msgstr ""
+"Cliceáil 'Glac Leis' chun glacadh leis na coinníollacha an Chomhaontú um "
+"Cheadúnas."
 
 #: wizard.src#TP_LICENSE.PB_LICENSE_DOWN.pushbutton.text
 msgid "Scroll Do~wn"
@@ -52593,7 +52609,7 @@ msgstr ""
 
 #: wizard.src#TP_USER.FT_USER_HEADER.fixedtext.text
 msgid "Provide your full name and initials below"
-msgstr ""
+msgstr "Tabhair d'ainm iomlán agus d'inisealacha thíos"
 
 #: wizard.src#TP_USER.FT_USER_BODY.fixedtext.text
 msgid ""
@@ -52603,15 +52619,15 @@ msgstr ""
 
 #: wizard.src#TP_USER.FT_USER_FIRST.fixedtext.text
 msgid "~First name"
-msgstr ""
+msgstr "Ainm ~baiste"
 
 #: wizard.src#TP_USER.FT_USER_LAST.fixedtext.text
 msgid "~Last name"
-msgstr ""
+msgstr "Ainm s~loinne"
 
 #: wizard.src#TP_USER.FT_USER_INITIALS.fixedtext.text
 msgid "~Initials"
-msgstr ""
+msgstr "~Inisealacha"
 
 #: wizard.src#TP_USER.FT_USER_FATHER.fixedtext.text
 msgid "~Father's name"
@@ -52631,11 +52647,11 @@ msgstr ""
 
 #: wizard.src#TP_REGISTRATION.RB_REGISTRATION_NOW.radiobutton.text
 msgid "I want to register ~now"
-msgstr ""
+msgstr "Ba mhaith liom clárú a~nois"
 
 #: wizard.src#TP_REGISTRATION.RB_REGISTRATION_LATER.radiobutton.text
 msgid "I want to register ~later"
-msgstr ""
+msgstr "Ba mhaith liom c~lárú amach anseo"
 
 #: wizard.src#TP_REGISTRATION.RB_REGISTRATION_NEVER.radiobutton.text
 msgid "I do not want to ~register"
@@ -52643,7 +52659,7 @@ msgstr ""
 
 #: wizard.src#TP_REGISTRATION.RB_REGISTRATION_REG.radiobutton.text
 msgid "I have ~already registered"
-msgstr ""
+msgstr "Chláraigh mé che~ana"
 
 #: wizard.src#TP_REGISTRATION.FT_REGISTRATION_END.fixedtext.text
 msgid ""
@@ -52692,31 +52708,31 @@ msgstr ""
 
 #: desktop.src#STR_BOOTSTRAP_ERR_CANNOT_START.string.text
 msgid "The application cannot be started. "
-msgstr ""
+msgstr "Ní féidir an feidhmchlár a thosú. "
 
 #: desktop.src#STR_BOOTSTRAP_ERR_DIR_MISSING.string.text
 msgid "The configuration directory \"$1\" could not be found."
-msgstr ""
+msgstr "Níor aimsíodh comhadlann chumraíochta \"$1\"."
 
 #: desktop.src#STR_BOOTSTRAP_ERR_PATH_INVALID.string.text
 msgid "The installation path is invalid."
-msgstr ""
+msgstr "Conair neamhbhailí shuiteála."
 
 #: desktop.src#STR_BOOTSTRAP_ERR_NO_PATH.string.text
 msgid "The installation path is not available."
-msgstr ""
+msgstr "Níl an chonair shuiteála ar fáil."
 
 #: desktop.src#STR_BOOTSTRAP_ERR_INTERNAL.string.text
 msgid "An internal error occurred."
-msgstr ""
+msgstr "Tharla earráid inmheánach."
 
 #: desktop.src#STR_BOOTSTRAP_ERR_FILE_CORRUPT.string.text
 msgid "The configuration file \"$1\" is corrupt."
-msgstr ""
+msgstr "Is truaillithe é comhad cumraíochta \"$1\"."
 
 #: desktop.src#STR_BOOTSTRAP_ERR_FILE_MISSING.string.text
 msgid "The configuration file \"$1\" was not found."
-msgstr ""
+msgstr "Níor aimsíodh comhad cumraíochta \"$1\"."
 
 #: desktop.src#STR_BOOTSTRAP_ERR_NO_SUPPORT.string.text
 msgid "The configuration file \"$1\" does not support the current version."
@@ -52724,11 +52740,11 @@ msgstr ""
 
 #: desktop.src#STR_BOOTSTRAP_ERR_NO_SERVICE.string.text
 msgid "The component manager is not available."
-msgstr ""
+msgstr "Níl bainisteoir na gcomhpháirteanna ar fáil."
 
 #: desktop.src#STR_BOOTSTRAP_ERR_NO_CFG_SERVICE.string.text
 msgid "The configuration service is not available."
-msgstr ""
+msgstr "Níl an tseirbhís chumraíochta ar fáil."
 
 #: desktop.src#STR_ASK_START_SETUP_REPAIR.string.text
 msgid "Do you want to start the setup application to repair your installation?"
@@ -52765,7 +52781,7 @@ msgstr ""
 
 #: desktop.src#STR_CONFIG_ERR_ACCESS_GENERAL.string.text
 msgid "A general error occurred while accessing your central configuration. "
-msgstr ""
+msgstr "Tharla earráid ghinearálta agus do chumraíocht lárnach á rochtain. "
 
 #: desktop.src#STR_CONFIG_ERR_NO_WRITE_ACCESS.string.text
 msgid ""
@@ -52775,7 +52791,7 @@ msgstr ""
 
 #: desktop.src#STR_WARNING_JAVANOTFOUND.string.text
 msgid "JRE Required"
-msgstr ""
+msgstr "JRE De Dhíth"
 
 #: desktop.src#STR_WARNING_INVALIDJAVASETTINGS.string.text
 msgid "Select JRE"
@@ -52801,7 +52817,7 @@ msgstr ""
 
 #: desktop.src#STR_INTERNAL_ERRMSG.string.text
 msgid "The following internal error has occurred: "
-msgstr ""
+msgstr "Tharla an earráid inmheánach a leanas: "
 
 #: desktop.src#QBX_USERDATALOCKED.querybox.text
 msgid ""
@@ -52857,7 +52873,7 @@ msgstr ""
 
 #: basic.src#IDS_CANTLOAD.errorbox.text
 msgid "Library cannot be loaded!"
-msgstr ""
+msgstr "Ní féidir an leabharlann a luchtú!"
 
 #: basic.src#IDS_CANTLOAD.errorbox.title basic.src#IDS_CANTSAVE.errorbox.title
 #: basic.src#IDS_NOMAINPGM.errorbox.title
@@ -52890,15 +52906,15 @@ msgstr "Eochair chuardaigh gan aimsiú!"
 
 #: basic.src#IDS_INVALID_VALUE.errorbox.text
 msgid "The value is invalid and cannot be set."
-msgstr ""
+msgstr "Is neamhbhailí é an luach, agus ní féidir é a shocrú."
 
 #: basic.src#IDS_ASKSAVEERROR.querybox.text
 msgid "Error saving files! Run anyway?"
-msgstr ""
+msgstr "Earráid agus comhaid á sábháil! Rith mar sin féin?"
 
 #: basic.src#IDS_ASK_DIRTY_SAVE.querybox.text
 msgid "File has been changed. Save?"
-msgstr ""
+msgstr "Athraíodh an comhad. Sábháil?"
 
 #: basic.src#IDS_ASK_DIRTY_AND_DISKCHANGE_SAVE.querybox.text
 msgid "File has been changed on data medium\\nand in the Editor. Save?"
@@ -52918,7 +52934,7 @@ msgstr ""
 
 #: basic.src#IDS_RUNNING.querybox.text
 msgid "BASIC is still running! Exit anyway?"
-msgstr ""
+msgstr "Tá BASIC ag rith fós! Scoir mar sin féin?"
 
 #: basic.src#IDS_LOSS_OF_INFORMATION.querybox.text
 msgid "Saving in an external format causes information loss."
@@ -52926,7 +52942,7 @@ msgstr ""
 
 #: basic.src#IDS_NOT_YET_IMPLEMENTED.infobox.text
 msgid "Not yet implemented"
-msgstr ""
+msgstr "Níl ar fáil fós"
 
 #: basic.src#IDS_WARNING1.string.text
 msgid "Warning "
@@ -52938,7 +52954,7 @@ msgstr "Earráid "
 
 #: basic.src#IDS_ERROR2.string.text
 msgid " in line "
-msgstr ""
+msgstr " ar líne "
 
 #: basic.src#IDS_NO_LONGNAME.string.text
 msgid "No entries in Hid.Lst"
@@ -53099,7 +53115,7 @@ msgstr "Próifíl"
 
 #: basic.src#RID_TP_PROFILE.FL_DIRECTORIES.fixedline.text
 msgid "Profile settings"
-msgstr ""
+msgstr "Socruithe phróifíl"
 
 #: basic.src#RID_TP_PROFILE.LOG_TEXT.fixedtext.text
 msgid "Log base directory"
@@ -53163,7 +53179,7 @@ msgstr "Taispeáin HId"
 
 #: basic.src#IDD_EDIT_VAR.RID_FT_NEW_CONTENT.fixedtext.text
 msgid "New content"
-msgstr ""
+msgstr "Ábhar nua"
 
 #: basic.src#IDD_EDIT_VAR.RID_FT_NAME_VALUE.fixedtext.text
 msgid "Name of variable"
@@ -53191,7 +53207,7 @@ msgstr "Comhaid chumraíochta á léamh"
 
 #: basmsg.src#S_PROG_START.string.text
 msgid "Program start: ($Arg1); ($Arg2)"
-msgstr ""
+msgstr "Tosach an chláir: ($Arg1); ($Arg2)"
 
 #: basmsg.src#S_ERROR_OUTSIDE_TESTCASE.string.text
 msgid "Error outside of test case"
@@ -53199,7 +53215,7 @@ msgstr ""
 
 #: svtmsg.src#S_GPF_ABORT.string.text
 msgid "Program aborted with GPF"
-msgstr ""
+msgstr "Clár tobscortha le GPF"
 
 #: svtmsg.src#S_APP_SHUTDOWN.string.text
 msgid "Application has been shut down"
@@ -53219,7 +53235,7 @@ msgstr ""
 
 #: svtmsg.src#S_RESETAPPLICATION_FAILED_COMPLEX.string.text
 msgid "ResetApplication failed: too complex"
-msgstr ""
+msgstr "Theip ar ResetApplication: róchasta"
 
 #: svtmsg.src#S_RESETAPPLICATION_FAILED_UNKNOWN.string.text
 msgid "ResetApplication failed: unknown window type"
@@ -53227,7 +53243,7 @@ msgstr ""
 
 #: svtmsg.src#S_NO_ACTIVE_WINDOW.string.text
 msgid "No active window found (GetNextCloseWindow)"
-msgstr ""
+msgstr "Níor aimsíodh fuinneog ghníomhach (GetNextCloseWindow)"
 
 #: svtmsg.src#S_NO_DIALOG_IN_GETACTIVE.string.text
 msgid "GetActive does not return a dialog! Inform development"
@@ -53255,7 +53271,7 @@ msgstr ""
 
 #: svtmsg.src#S_UNKNOWN_METHOD.string.text
 msgid "Unknown method '($Arg1)' on ($Arg2)"
-msgstr ""
+msgstr "Modh anaithnid '($Arg1)' ar ($Arg2)"
 
 #: svtmsg.src#S_INVALID_PARAMETERS.string.text
 msgid "Invalid Parameters"
@@ -53271,15 +53287,15 @@ msgstr "Ordú anaithnid '($Arg1)'"
 
 #: svtmsg.src#S_WIN_NOT_FOUND.string.text
 msgid "($Arg1) could not be found"
-msgstr ""
+msgstr "Níorbh fhéidir ($Arg1) a aimsiú"
 
 #: svtmsg.src#S_WIN_INVISIBLE.string.text
 msgid "($Arg1) is not visible"
-msgstr ""
+msgstr "($Arg1) dofheicthe"
 
 #: svtmsg.src#S_WIN_DISABLED.string.text
 msgid "($Arg1) could not be accessed."
-msgstr ""
+msgstr "Níorbh fhéidir ($Arg1) a rochtain."
 
 #: svtmsg.src#S_NUMBER_TOO_BIG.string.text
 msgid "Entry number ($Arg2) is too large in ($Arg1). Max. allowed is ($Arg3)"
@@ -53296,11 +53312,11 @@ msgstr ""
 
 #: svtmsg.src#S_ERROR_SAVING_IMAGE.string.text
 msgid "Error #($Arg1) when saving the image"
-msgstr ""
+msgstr "Earráid #($Arg1) agus an íomhá á sábháil"
 
 #: svtmsg.src#S_INVALID_POSITION.string.text
 msgid "Invalid positon at ($Arg1)"
-msgstr ""
+msgstr "Ionad neamhbhailí ag ($Arg1)"
 
 #: svtmsg.src#S_SPLITWIN_NOT_FOUND.string.text
 msgid "SplitWindow not found at ($Arg1)"
@@ -53308,7 +53324,7 @@ msgstr ""
 
 #: svtmsg.src#S_INTERNAL_ERROR.string.text
 msgid "Internal error at ($Arg1)"
-msgstr ""
+msgstr "Earráid inmheánach ag ($Arg1)"
 
 #: svtmsg.src#S_NO_STATUSBAR.string.text
 msgid "No status bar at ($Arg1)"
@@ -53340,11 +53356,11 @@ msgstr ""
 
 #: svtmsg.src#S_ENTRY_NOT_FOUND.string.text
 msgid "\"($Arg2)\" entry at ($Arg1) not found"
-msgstr ""
+msgstr "\"($Arg2)\" iontráil ag ($Arg1) gan aimsiú"
 
 #: svtmsg.src#S_METHOD_FAILED.string.text
 msgid "($Arg1) of entry \"($Arg2)\" failed"
-msgstr ""
+msgstr "Theip ar ($Arg1) d'iontráil \"($Arg2)\""
 
 #: svtmsg.src#S_HELPID_ON_TOOLBOX_NOT_FOUND.string.text
 msgid "HelpID in ToolBox not found at ($Arg1)"
@@ -71630,7 +71646,7 @@ msgid "The format of the selected file is not supported."
 msgstr ""
 
 #: readme.xrm#ooo_readme.Welcome.A2.a.readmeitem.text
-msgid "Last updated $Date: 2005-04-20 03:28:14 $"
+msgid "Last updated $Date: 2005-04-20 04:26:10 $"
 msgstr ""
 
 #: readme.xrm#ooo_readme.Welcome.A3.a.readmeitem.text
