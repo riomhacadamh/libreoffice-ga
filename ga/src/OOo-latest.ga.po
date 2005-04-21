@@ -19674,7 +19674,7 @@ msgstr "Scáthánaigh Réad ar Leathanaigh Chothroma"
 #: swslots.src#FN_FRAME_NOWRAP.sfxslotinfo.text
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_WrapOff.Label.value.text
 msgid "Wrap Off"
-msgstr ""
+msgstr "Timfhilleadh As"
 
 #: swslots.src#FN_FRAME_TO_ANCHOR.sfxslotinfo.text
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_GoToAnchor.Label.value.text
@@ -19693,7 +19693,7 @@ msgstr "Tabhair Chun Tosaigh"
 
 #: swslots.src#FN_FRAME_WRAP.sfxslotinfo.text
 msgid "Wrap On"
-msgstr ""
+msgstr "Timfhilleadh As"
 
 #: swslots.src#FN_FRAME_WRAP_CONTOUR.sfxslotinfo.text
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_WrapContour.Label.value.text
@@ -20156,7 +20156,7 @@ msgstr ""
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_DefaultNumbering.Label.value.text
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_NumberOrNoNumber.Label.value.text
 msgid "Numbering On/Off"
-msgstr ""
+msgstr "Uimhriú Ann/As"
 
 #: swslots.src#FN_NUMBER_BULLETS.sfxslotinfo.text
 msgid "Edit Numbering"
@@ -20332,7 +20332,7 @@ msgstr "Réamhamharc Súmála"
 
 #: swslots.src#FN_PRINT_LAYOUT.sfxslotinfo.text
 msgid "Print Layout On/Off"
-msgstr ""
+msgstr "Leagan Amach Priontála Ann/As"
 
 #: swslots.src#FN_PRINT_PAGEPREVIEW.sfxslotinfo.text
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_PrintPagePreView.Label.value.text
@@ -20382,7 +20382,7 @@ msgstr "Cuardaigh Arís"
 
 #: swslots.src#FN_RULER.sfxslotinfo.text
 msgid "Ruler On/Off"
-msgstr ""
+msgstr "Rialóir Ann/As"
 
 #: swslots.src#FN_SELECT_PARA.sfxslotinfo.text
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_SelectText.Label.value.text
@@ -20397,7 +20397,7 @@ msgstr "Roghnaigh Focal"
 #: swslots.src#FN_SET_ADD_MODE.sfxslotinfo.text
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_SetMultiSelection.Label.value.text
 msgid "MultiSelection On"
-msgstr ""
+msgstr "Ilroghnú Ann"
 
 #: swslots.src#FN_SET_EXT_MODE.sfxslotinfo.text
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_SetExtSelection.Label.value.text
@@ -20423,7 +20423,7 @@ msgstr "Forscript"
 #: swslots.src#FN_SHADOWCURSOR.sfxslotinfo.text
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_ShadowCursor.Label.value.text
 msgid "Direct Cursor On/Off"
-msgstr ""
+msgstr "Cúrsóir Díreach Ann/As"
 
 #: swslots.src#FN_SHOW_MULTIPLE_PAGES.sfxslotinfo.text
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_ShowMultiplePages.Label.value.text
@@ -20754,12 +20754,12 @@ msgstr ""
 
 #: swslots.src#FN_VIEW_FIELDNAME.sfxslotinfo.text
 msgid "Field Names On/Off"
-msgstr ""
+msgstr "Ainmneacha na Réimsí Ann/As"
 
 #: swslots.src#FN_VIEW_GRAPHIC.sfxslotinfo.text
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_Graphic.Label.value.text
 msgid "Graphics On/Off"
-msgstr ""
+msgstr "Graificí Ann/As"
 
 #: swslots.src#FN_VIEW_HIDDEN_PARA.sfxslotinfo.text
 msgid "Hidden Paragraphs"
@@ -23419,7 +23419,7 @@ msgstr "Iarnóta $(ARG1)"
 
 #: access.src#STR_ACCESS_TABLE_DESC.string.text
 msgid "$(ARG1) on page $(ARG2)"
-msgstr ""
+msgstr "$(ARG1) ar leathanach $(ARG2)"
 
 #: access.src#STR_ACCESS_PAGE_NAME.string.text
 msgid "Page $(ARG1)"
@@ -25204,7 +25204,7 @@ msgstr ""
 
 #: navipi.src#TB_CONTENT.FN_SHOW_CONTENT_BOX.toolboxitem.text
 msgid "List Box On/Off"
-msgstr ""
+msgstr "Bosca Liosta Ann/As"
 
 #: navipi.src#TB_CONTENT.FN_SHOW_ROOT.toolboxitem.text
 msgid "Content View"
@@ -29548,7 +29548,7 @@ msgstr "Ionsáigh réad líníochta: $1"
 
 #: undo.src#STR_NUMORNONUM.string.text
 msgid "Number On/Off"
-msgstr ""
+msgstr "Uimhir Ann/As"
 
 #: undo.src#STR_DEC_LEFTMARGIN.string.text
 msgid "Decrease indent"
@@ -30938,7 +30938,7 @@ msgstr "Socraigh soilsiú 3T"
 
 #: strings.src#STR_UNDO_TOGGLE_TITLE.string.text
 msgid "Title on/off"
-msgstr ""
+msgstr "Teideal ann/as"
 
 #: strings.src#STR_UNDO_TOGGLE_LEGEND.string.text
 msgid "Legend on/off"
@@ -30954,11 +30954,11 @@ msgstr ""
 
 #: strings.src#STR_UNDO_TOGGLE_GRID_HORZ.string.text
 msgid "Horizontal grid on/off"
-msgstr ""
+msgstr "Greille cothrománach ann/as"
 
 #: strings.src#STR_UNDO_TOGGLE_GRID_VERT.string.text
 msgid "Vertical grid on/off"
-msgstr ""
+msgstr "Greille ingearach ann/as"
 
 #: strings.src#STR_UNDO_DATA_IN_ROWS.string.text
 #: ChartCommands.xcu#..ChartCommands.UserInterface.Commands..uno_DataInRows.Label.value.text
@@ -39005,7 +39005,7 @@ msgstr "~Imeall ar dheis"
 
 #: hdft.src#RID_SVXPAGE_HEADER.CB_TURNON.checkbox.text
 msgid "Hea~der on"
-msgstr ""
+msgstr "~Ceanntásc ann"
 
 #: hdft.src#RID_SVXPAGE_HEADER.CB_SHARED.checkbox.text
 #: hdft.src#RID_SVXPAGE_FOOTER.CB_SHARED.checkbox.text
@@ -39024,7 +39024,7 @@ msgstr "U~athoiriúnaigh airde"
 
 #: hdft.src#RID_SVXPAGE_FOOTER.CB_TURNON.checkbox.text
 msgid "~Footer on"
-msgstr ""
+msgstr "~Buntásc ann"
 
 #: hdft.src#RID_SVXQBX_DELETE_HEADFOOT.querybox.text
 msgid ""
@@ -44875,7 +44875,7 @@ msgstr "Tiontaigh go Réad Deilte"
 
 #: float3d.src#RID_SVXFLOAT_3D.BTN_PERSPECTIVE.imagebutton.quickhelptext
 msgid "Perspective On/Off"
-msgstr ""
+msgstr "Peirspictíocht Ann/As"
 
 #: float3d.src#RID_SVXFLOAT_3D.FT_PERCENT_DIAGONAL.fixedtext.text
 msgid "R~ounded edges"
@@ -45050,7 +45050,7 @@ msgstr "~Scagadh"
 
 #: float3d.src#RID_SVXFLOAT_3D.BTN_TEX_FILTER.imagebutton.quickhelptext
 msgid "Filtering On/Off"
-msgstr ""
+msgstr "Scagadh Ann/As"
 
 #: float3d.src#RID_SVXFLOAT_3D.FT_MAT_FAVORITES.fixedtext.text
 msgid "~Favorites"
@@ -51739,19 +51739,19 @@ msgstr "líne nua"
 
 #: statbar.src#RID_DICTATION_COMMANDS.3.itemlist.text
 msgid "bold on"
-msgstr ""
+msgstr "trom ann"
 
 #: statbar.src#RID_DICTATION_COMMANDS.4.itemlist.text
 msgid "bold off"
-msgstr ""
+msgstr "trom as"
 
 #: statbar.src#RID_DICTATION_COMMANDS.5.itemlist.text
 msgid "italic on"
-msgstr ""
+msgstr "iodálach ann"
 
 #: statbar.src#RID_DICTATION_COMMANDS.6.itemlist.text
 msgid "italic off"
-msgstr ""
+msgstr "iodálach as"
 
 #: statbar.src#RID_DICTATION_COMMANDS.7.itemlist.text
 msgid "underscore on"
@@ -51763,11 +51763,11 @@ msgstr ""
 
 #: statbar.src#RID_DICTATION_COMMANDS.9.itemlist.text
 msgid "numbering on"
-msgstr ""
+msgstr "uimhriú ann"
 
 #: statbar.src#RID_DICTATION_COMMANDS.10.itemlist.text
 msgid "numbering off"
-msgstr ""
+msgstr "uimhriú as"
 
 #: statbar.src#RID_DICTATION_COMMANDS.15.itemlist.text
 msgid "undo"
@@ -59375,7 +59375,7 @@ msgstr "Cuir Greille in Eagar"
 
 #: ChartCommands.xcu#..ChartCommands.UserInterface.Commands..uno_ToggleTitle.Label.value.text
 msgid "Title On/Off"
-msgstr ""
+msgstr "Teideal Ann/As"
 
 #: ChartCommands.xcu#..ChartCommands.UserInterface.Commands..uno_ToggleLegend.Label.value.text
 msgid "Legend On/Off"
@@ -59391,11 +59391,11 @@ msgstr ""
 
 #: ChartCommands.xcu#..ChartCommands.UserInterface.Commands..uno_ToggleGridHorizontal.Label.value.text
 msgid "Horizontal Grid On/Off"
-msgstr ""
+msgstr "Greille Cothrománach Ann/As"
 
 #: ChartCommands.xcu#..ChartCommands.UserInterface.Commands..uno_ToggleGridVertical.Label.value.text
 msgid "Vertical Grid On/Off"
-msgstr ""
+msgstr "Greille Ingearach Ann/As"
 
 #: ChartCommands.xcu#..ChartCommands.UserInterface.Commands..uno_ToolSelect.Label.value.text
 msgid "Select Tool"
@@ -61587,7 +61587,7 @@ msgstr "Ionadaigh le Barra Nascleanúna"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_ToggleBreakPoint.Label.value.text
 msgid "Breakpoint On/Off"
-msgstr ""
+msgstr "Brisphointe Ann/As"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_LaunchStarImage.Label.value.text
 msgid "Start Image Editor"
@@ -61615,7 +61615,7 @@ msgstr ""
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_HelpOnHelp.Label.value.text
 msgid "Help on Help"
-msgstr ""
+msgstr "Cabhair le Cabhair"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_HelpIndex.Label.value.text
 #: StartModuleCommands.xcu#..StartModuleCommands.UserInterface.Commands..uno_HelpIndex.Label.value.text
@@ -61728,7 +61728,7 @@ msgstr ""
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_DefaultBullet.Label.value.text
 msgid "Bullets On/Off"
-msgstr ""
+msgstr "Urchair Ann/As"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_ChooseControls.Label.value.text
 msgid "Insert Controls"
@@ -61764,7 +61764,7 @@ msgstr "Céim Síos"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_OutlineFormat.Label.value.text
 msgid "Formatting On/Off"
-msgstr ""
+msgstr "Formáidiú Ann/As"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_OutlineCollapseAll.Label.value.text
 msgid "First Level"
@@ -61885,7 +61885,7 @@ msgstr "Athraíodh an Cháipéis"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_TestMode.Label.value.text
 msgid "Test Mode On/Off"
-msgstr ""
+msgstr "Mód Tástála Ann/As"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_FrameLineColor.Label.value.text
 msgid "Line Color (of the border)"
@@ -62230,7 +62230,7 @@ msgstr ""
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_MenuBarVisible.Label.value.text
 msgid "Menu On/Off"
-msgstr ""
+msgstr "Roghchlár Ann/As"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_StopRecording.Label.value.text
 msgid "Stop Recording"
@@ -62440,7 +62440,7 @@ msgstr "Aimsigh Taifead..."
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_UseWizards.Label.value.text
 msgid "Wizards On/Off"
-msgstr ""
+msgstr "Draoithe Ann/As"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_FormFilter.Label.value.text
 msgid "Form-Based Filters"
@@ -62528,11 +62528,11 @@ msgstr ""
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_DSBrowserExplorer.Label.value.text
 msgid "Explorer On/Off"
-msgstr ""
+msgstr "Taiscéalaí Ann/As"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_ExtrusionToggle.Label.value.text
 msgid "Extrusion On/Off"
-msgstr ""
+msgstr "Easbhrú Ann/As"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_ExtrusionLightingFloater.Label.value.text
 msgid "Lighting"
@@ -71656,7 +71656,7 @@ msgid "The format of the selected file is not supported."
 msgstr ""
 
 #: readme.xrm#ooo_readme.Welcome.A2.a.readmeitem.text
-msgid "Last updated $Date: 2005-04-21 03:50:24 $"
+msgid "Last updated $Date: 2005-04-21 22:32:44 $"
 msgstr ""
 
 #: readme.xrm#ooo_readme.Welcome.A3.a.readmeitem.text
