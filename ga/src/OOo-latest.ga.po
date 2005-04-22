@@ -19693,7 +19693,7 @@ msgstr "Tabhair Chun Tosaigh"
 
 #: swslots.src#FN_FRAME_WRAP.sfxslotinfo.text
 msgid "Wrap On"
-msgstr "Timfhilleadh As"
+msgstr "Timfhilleadh Ann"
 
 #: swslots.src#FN_FRAME_WRAP_CONTOUR.sfxslotinfo.text
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_WrapContour.Label.value.text
@@ -60763,7 +60763,7 @@ msgstr ""
 
 #: Effects.xcu#..Effects.UserInterface.Transitions.venetian_blinds_horizontal.Label.value.text
 msgid "Venetian Blinds Horizontal"
-msgstr ""
+msgstr "Dallóga Veinéiseacha Cothrománacha"
 
 #: Effects.xcu#..Effects.UserInterface.Transitions.venetian_blinds_vertical.Label.value.text
 msgid "Venetian Blinds Vertical"
@@ -60779,19 +60779,19 @@ msgstr "Bosca Amach"
 
 #: Effects.xcu#..Effects.UserInterface.Transitions.checkerboard_across.Label.value.text
 msgid "Checkerboard Across"
-msgstr ""
+msgstr "Clár Táiplise Trasna"
 
 #: Effects.xcu#..Effects.UserInterface.Transitions.checkerboard_down.Label.value.text
 msgid "Checkerboard Down"
-msgstr ""
+msgstr "Clár Táiplise Síos"
 
 #: Effects.xcu#..Effects.UserInterface.Transitions.comb_horizontal.Label.value.text
 msgid "Comb Horizontal"
-msgstr ""
+msgstr "Cíor Chothrománach"
 
 #: Effects.xcu#..Effects.UserInterface.Transitions.comb_vertical.Label.value.text
 msgid "Comb Vertical"
-msgstr ""
+msgstr "Cíor Ingearach"
 
 #: Effects.xcu#..Effects.UserInterface.Transitions.cover_down.Label.value.text
 msgid "Cover Down"
@@ -60859,11 +60859,11 @@ msgstr ""
 
 #: Effects.xcu#..Effects.UserInterface.Transitions.random_bars_horizontal.Label.value.text
 msgid "Random Bars Horizontal"
-msgstr ""
+msgstr "Barraí Randamacha Cothománacha"
 
 #: Effects.xcu#..Effects.UserInterface.Transitions.random_bars_vertical.Label.value.text
 msgid "Random Bars Vertical"
-msgstr ""
+msgstr "Barraí Randamacha Ingearacha"
 
 #: Effects.xcu#..Effects.UserInterface.Transitions.shape_circle.Label.value.text
 msgid "Shape Circle"
@@ -60883,15 +60883,15 @@ msgstr ""
 
 #: Effects.xcu#..Effects.UserInterface.Transitions.split_horizontal_out.Label.value.text
 msgid "Split Horizontal Out"
-msgstr ""
+msgstr "Roinn go Cothrománach Amach"
 
 #: Effects.xcu#..Effects.UserInterface.Transitions.split_vertical_in.Label.value.text
 msgid "Split Vertical In"
-msgstr ""
+msgstr "Roinn go hIngearach Isteach"
 
 #: Effects.xcu#..Effects.UserInterface.Transitions.split_vertical_out.Label.value.text
 msgid "Split Vertical Out"
-msgstr ""
+msgstr "Roinn go hIngearach Amach"
 
 #: Effects.xcu#..Effects.UserInterface.Transitions.diagonal_squares_left_down.Label.value.text
 msgid "Diagonal Squares Left-Down"
@@ -60911,7 +60911,7 @@ msgstr ""
 
 #: Effects.xcu#..Effects.UserInterface.Transitions.uncover_down.Label.value.text
 msgid "Uncover Down"
-msgstr ""
+msgstr "Nocht Síos"
 
 #: Effects.xcu#..Effects.UserInterface.Transitions.uncover_left.Label.value.text
 msgid "Uncover Left"
@@ -60923,7 +60923,7 @@ msgstr ""
 
 #: Effects.xcu#..Effects.UserInterface.Transitions.uncover_up.Label.value.text
 msgid "Uncover Up"
-msgstr ""
+msgstr "Nocht Suas"
 
 #: Effects.xcu#..Effects.UserInterface.Transitions.uncover_left_down.Label.value.text
 msgid "Uncover Left-Down"
@@ -61019,7 +61019,7 @@ msgstr "Ionsáigh Ordú"
 
 #: MathCommands.xcu#..MathCommands.UserInterface.Commands..uno_TextStatus.Label.value.text
 msgid "Text Status"
-msgstr ""
+msgstr "Stádas an Téacs"
 
 #: MathCommands.xcu#..MathCommands.UserInterface.Commands..uno_NextError.Label.value.text
 msgid "Ne~xt Error"
@@ -61082,11 +61082,11 @@ msgstr "Réaltaí"
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_BasicShapes.round_rectangle.Label.value.text
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_Rect_Rounded.Label.value.text
 msgid "Rectangle, Rounded"
-msgstr ""
+msgstr "Dronuilleog, Cruinn"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_BasicShapes.round_quadrat.Label.value.text
 msgid "Square, Rounded"
-msgstr ""
+msgstr "Cearnóg, Cruinn"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_BasicShapes.isosceles_triangle.Label.value.text
 msgid "Isosceles Triangle"
@@ -61110,7 +61110,7 @@ msgstr ""
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_BasicShapes.paper.Label.value.text
 msgid "Folded Corner"
-msgstr ""
+msgstr "Cúinne Fillte"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_SymbolShapes.smiley.Label.value.text
 msgid "Smiley Face"
@@ -61135,7 +61135,7 @@ msgstr "Scamall"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_SymbolShapes.forbidden.Label.value.text
 msgid "\"Prohibited\" Symbol"
-msgstr ""
+msgstr "Siombail \"Coiscthe\""
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_SymbolShapes.puzzle.Label.value.text
 msgid "Puzzle"
@@ -61143,15 +61143,15 @@ msgstr "Puzal"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_SymbolShapes.bracket_pair.Label.value.text
 msgid "Double Bracket"
-msgstr ""
+msgstr "Lúibín Dúbailte"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_SymbolShapes.left_bracket.Label.value.text
 msgid "Left Bracket"
-msgstr ""
+msgstr "Lúibín Ar Chlé"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_SymbolShapes.right_bracket.Label.value.text
 msgid "Right Bracket"
-msgstr ""
+msgstr "Lúibín Ar Dheis"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_SymbolShapes.brace_pair.Label.value.text
 msgid "Double Brace"
@@ -61203,7 +61203,7 @@ msgstr ""
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_ArrowShapes.up_down_arrow.Label.value.text
 msgid "Up and Down Arrow"
-msgstr ""
+msgstr "Saighead Suas agus Síos"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_ArrowShapes.up_right_arrow.Label.value.text
 msgid "Up and Right Arrow"
@@ -61679,7 +61679,7 @@ msgstr ""
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_Line_Diagonal.Label.value.text
 msgid "Line (45°)"
-msgstr ""
+msgstr "Líne (45°)"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_BezierEliminatePoints.Label.value.text
 msgid "Eliminate Points"
@@ -61692,7 +61692,7 @@ msgstr "Cáipéis Nua Ó Theimpléad"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_BezierFill.Label.value.text
 msgid "Curve, Filled"
-msgstr ""
+msgstr "Cuar, Líonta"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_BezierClose.Label.value.text
 msgid "Close Bézier"
@@ -61704,7 +61704,7 @@ msgstr "Priontáil Comhad Go Díreach"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_BezierSmooth.Label.value.text
 msgid "Smooth Transition"
-msgstr ""
+msgstr "Trasdul Réidh"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_InsertAnnotation.Label.value.text
 msgid "Not~e"
@@ -61797,7 +61797,7 @@ msgstr ""
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_FillStyle.Label.value.text
 msgid "Area Style / Filling"
-msgstr ""
+msgstr "Stíl Limistéir / Líonadh"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_AutoPilotAddressDataSource.Label.value.text
 msgid "AutoPilot: Address Data Source"
@@ -61813,7 +61813,7 @@ msgstr "Cuir Stíl i bhFeidhm"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_LineDash.Label.value.text
 msgid "Line Dash/Dot"
-msgstr ""
+msgstr "Líne Dais/Ponc"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_LineWidth.Label.value.text
 msgid "Line Width"
@@ -61821,7 +61821,7 @@ msgstr ""
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_XLineColor.Label.value.text
 msgid "Line Color"
-msgstr "Dath Líne"
+msgstr "Dath na Líne"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_InsertObjectFloatingFrame.Label.value.text
 msgid "Float~ing Frame"
@@ -62138,23 +62138,23 @@ msgstr "Roghanna Idirlín"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_AutoPilotPresentations.Label.value.text
 msgid "AutoPilot: Presentation"
-msgstr "AutoPilot: Láithreoireacht"
+msgstr "UathPhíolóta: Láithreoireacht"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_AutoPilotAgenda.Label.value.text
 msgid "AutoPilot: Agenda"
-msgstr "AutoPilot: Clár Oibre"
+msgstr "UathPhíolóta: Clár Oibre"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_AutoPilotFax.Label.value.text
 msgid "AutoPilot: Fax"
-msgstr "AutoPilot: Facs"
+msgstr "UathPhíolóta: Facs"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_AutoPilotLetter.Label.value.text
 msgid "AutoPilot: Letter"
-msgstr "AutoPilot: Litir"
+msgstr "UathPhíolóta: Litir"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_AutoPilotMemo.Label.value.text
 msgid "AutoPilot: Memo"
-msgstr "AutoPilot: Meamram"
+msgstr "UathPhíolóta: Meamram"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_CompareDocuments.Label.value.text
 msgid "Co~mpare Document..."
@@ -71656,7 +71656,7 @@ msgid "The format of the selected file is not supported."
 msgstr ""
 
 #: readme.xrm#ooo_readme.Welcome.A2.a.readmeitem.text
-msgid "Last updated $Date: 2005-04-21 22:32:44 $"
+msgid "Last updated $Date: 2005-04-22 02:01:56 $"
 msgstr ""
 
 #: readme.xrm#ooo_readme.Welcome.A3.a.readmeitem.text
@@ -72976,7 +72976,7 @@ msgstr "Tá an cháipéis léimh amháin!"
 
 #: euro.src#MESSAGES___24.string.text
 msgid "Cancel AutoPilot"
-msgstr ""
+msgstr "Cealaigh UathPhíolóta"
 
 #: euro.src#CURRENCIES.string.text
 msgid "Portuguese Escudo"
