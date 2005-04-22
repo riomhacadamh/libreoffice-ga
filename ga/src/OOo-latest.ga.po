@@ -1,5 +1,5 @@
 # OOo pot file for Irish.
-#   CURRENT VERSION = SRC680_m94
+#   CURRENT VERSION = SRC680_m96
 # First version produced Sept. 2004 by Kevin Scannell using the oo2po
 # scripts by David Fraser et al
 msgid ""
@@ -22549,7 +22549,7 @@ msgstr "Cáipéisí á gcruthú..."
 msgid "%X of %Y"
 msgstr "%X as %Y"
 
-#: mailmergechildwindow.src#DLG_MAILMERGECHILD.TB_BACK.Zur_ck_zum_Serienbrief_Assistenten.toolboxitem.text
+#: mailmergechildwindow.src#WORKAROUND.#define.text
 msgid "Return to Mail Merge Wizard"
 msgstr ""
 
@@ -32073,15 +32073,23 @@ msgstr ""
 
 #: iso.src#RID_DEFAULTABOUT.ABOUT_FTXT_COPYRIGHT.fixedtext.text
 msgid ""
-"Copyright © 2004 Sun Microsystems, Inc. All rights reserved. U.S. Government "
-"Rights - Commercial software. Government users are subject to the Sun "
-"Microsystems, Inc. standard license agreement and applicable provisions of "
-"the FAR and its supplements. Use is subject to license terms. This "
-"distribution may include materials developed by third parties.Sun, Sun "
-"Microsystems, the Sun logo, Java, Solaris and StarOffice are trademarks or "
-"registered trademarks of Sun Microsystems, Inc. in the U.S. and other "
-"countries. UNIX is a registered trademark in the U.S. and other countries, "
-"exclusively licensed through X/Open Company, Ltd."
+"Copyright © 2005 Sun Microsystems, Inc. All rights reserved. Sun "
+"Microsystems, Inc. has intellectual property rights relating to technology "
+"embodied in the product that is described in this document. In particular, "
+"and without limitation, these intellectual property rights may include one "
+"or more of the U.S. patents listed at http://www.sun.com/patents and one or "
+"more additional patents or pending patent applications in the U.S. and in "
+"other countries. U.S. Government Rights - Commercial software. Government "
+"users are subject to the Sun Microsystems, Inc. standard license agreement "
+"and applicable provisions of the FAR and its supplements. Use is subject to "
+"license terms. This distribution may include materials developed by third "
+"parties. Sun, Sun Microsystems, the Sun logo, Java, Solaris and StarOffice "
+"are trademarks or registered trademarks of Sun Microsystems, Inc. in the U."
+"S. and other countries. All SPARC trademarks are used under license and are "
+"trademarks or registered trademarks of SPARC International, Inc. in the U.S. "
+"and other countries. UNIX is a registered trademark in the U.S. and other "
+"countries, exclusively licensed through X/Open Company, Ltd.\\n\\nThis "
+"product is based on the OpenOffice.org project."
 msgstr ""
 
 #: ooo.src#RID_DEFAULTABOUT.ABOUT_FTXT_COPYRIGHT.fixedtext.text
@@ -41698,6 +41706,7 @@ msgid "~Macros"
 msgstr "~Macraí"
 
 #: scriptdlg.src#RID_DLG_SCRIPTORGANIZER.SF_CTRL_SCRIPTSBOX.STR_MYMACROS.string.text
+#: selector.src#RID_DLG_SCRIPTSELECTOR.BOX_SELECTOR_CATEGORIES.STR_MYMACROS.string.text
 #: cfg.src#STR_MYMACROS.string.text
 #: basidesh.src#RID_STR_USERMACROS.string.text
 msgid "My Macros"
@@ -41705,6 +41714,7 @@ msgstr "Mo Chuid Macraí"
 
 #: scriptdlg.src#RID_DLG_SCRIPTORGANIZER.SF_CTRL_SCRIPTSBOX.STR_PRODMACROS.string.text
 #: selector.src#STR_SELECTOR_MACROS.string.text
+#: selector.src#RID_DLG_SCRIPTSELECTOR.BOX_SELECTOR_CATEGORIES.STR_PRODMACROS.string.text
 #: cfg.src#STR_PRODMACROS.string.text dialog.src#STR_MACROS.string.text
 #: basidesh.src#RID_STR_SHAREMACROS.string.text
 msgid "%PRODUCTNAME Macros"
@@ -49305,6 +49315,7 @@ msgstr "Teimpléad Téacs %PRODUCTNAME %SXWFORMATVERSION"
 #: documents.ulf#oasis_text.LngText.text
 #: imagemgr.src#STR_DESCRIPTION_OO_WRITER_DOC.string.text
 #: writer8_ui.xcu#writer8.UIName.value.text
+#: writerglobal8_writer_ui.xcu#writerglobal8_writer.UIName.value.text
 msgid "OpenDocument Text"
 msgstr "Téacs OpenDocument"
 
@@ -58259,11 +58270,11 @@ msgstr ""
 
 #: xmlfiltertabpagebasic.src#RID_XML_FILTER_TABPAGE_BASIC.FT_XML_EXTENSION.fixedtext.text
 msgid "File extension"
-msgstr ""
+msgstr "Sínteán"
 
 #: xmlfiltertabpagexslt.src#RID_XML_FILTER_TABPAGE_XSLT.FT_XML_DOCTYPE.fixedtext.text
 msgid "DocType"
-msgstr ""
+msgstr "DocType"
 
 #: xmlfiltertabpagexslt.src#RID_XML_FILTER_TABPAGE_XSLT.FT_XML_DTD_SCHEMA.fixedtext.text
 msgid "DTD"
@@ -58313,12 +58324,12 @@ msgid "HTML Document (%productname% Master Document)"
 msgstr "Cáipéis HTML (Máistircháipéis %productname%)"
 
 #: HTML__StarCalc__ui.xcu#HTML__StarCalc_.UIName.value.text
-msgid "HTML Document (StarOffice Calc)"
-msgstr "Cáipéis HTML (StarOffice Calc)"
+msgid "HTML Document (%productname% Calc)"
+msgstr "Cáipéis HTML (%productname% Calc)"
 
 #: HTML__StarWriter__ui.xcu#HTML__StarWriter_.UIName.value.text
-msgid "HTML Document (StarOffice Writer)"
-msgstr "Cáipéis HTML (StarOffice Writer)"
+msgid "HTML Document (%productname% Writer)"
+msgstr "Cáipéis HTML (%productname% Writer)"
 
 #: MS_Excel_2003_XML_ui.xcu#MS_Excel_2003_XML.UIName.value.text
 msgid "Microsoft Excel 2003 XML"
@@ -58369,16 +58380,16 @@ msgid "StarCalc 5.0 Template"
 msgstr "Teimpléad StarCalc 5.0"
 
 #: StarDraw_3_0_Vorlage__StarImpress__ui.xcu#StarDraw_3.0_Vorlage__StarImpress_.UIName.value.text
-msgid "StarDraw 3.0 Template (StarOffice Impress)"
-msgstr "Teimpléad StarDraw 3.0 (StarOffice Impress)"
+msgid "StarDraw 3.0 Template (%productname% Impress)"
+msgstr "Teimpléad StarDraw 3.0 (%productname% Impress)"
 
 #: StarDraw_3_0_Vorlage_ui.xcu#StarDraw_3.0_Vorlage.UIName.value.text
 msgid "StarDraw 3.0 Template"
 msgstr "Teimpléad StarDraw 3.0"
 
 #: StarDraw_5_0_Vorlage__StarImpress__ui.xcu#StarDraw_5.0_Vorlage__StarImpress_.UIName.value.text
-msgid "StarDraw 5.0 Template (StarOffice Impress)"
-msgstr "Teimpléad StarDraw 5.0 (StarOffice Impress)"
+msgid "StarDraw 5.0 Template (%productname% Impress)"
+msgstr "Teimpléad StarDraw 5.0 (%productname% Impress)"
 
 #: StarDraw_5_0_Vorlage_ui.xcu#StarDraw_5.0_Vorlage.UIName.value.text
 msgid "StarDraw 5.0 Template"
@@ -58393,37 +58404,33 @@ msgid "StarImpress 5.0 Packed"
 msgstr "StarImpress 5.0 Pacáilte"
 
 #: StarOffice_XML__Calc__ui.xcu#StarOffice_XML__Calc_.UIName.value.text
-msgid "StarOffice 6.0/7 Spreadsheet"
-msgstr "Scarbhileog StarOffice 6.0/7"
+msgid "%productname% %formatversion% Spreadsheet"
+msgstr "Scarbhileog %productname% %formatversion%"
 
 #: StarOffice_XML__Chart__ui.xcu#StarOffice_XML__Chart_.UIName.value.text
-msgid "StarOffice 6.0/7 Chart"
-msgstr "Cairt StarOffice 6.0/7"
+msgid "%productname% %formatversion% Chart"
+msgstr "Cairt %productname% %formatversion%"
 
 #: StarOffice_XML__Draw__ui.xcu#StarOffice_XML__Draw_.UIName.value.text
-msgid "StarOffice 6.0/7 Drawing"
-msgstr "Líníocht StarOffice 6.0/7"
+msgid "%productname% %formatversion% Drawing"
+msgstr "Líníocht %productname% %formatversion%"
 
 #: StarOffice_XML__Impress__ui.xcu#StarOffice_XML__Impress_.UIName.value.text
-msgid "StarOffice 6.0/7 Presentation"
-msgstr "Láithreoireacht StarOffice 6.0/7"
+msgid "%productname% %formatversion% Presentation"
+msgstr "Láithreoireacht %productname% %formatversion%"
 
 #: StarOffice_XML__Math__ui.xcu#StarOffice_XML__Math_.UIName.value.text
-msgid "StarOffice 6.0/7 Formula"
-msgstr "Foirmle StarOffice 6.0/7"
+msgid "%productname% %formatversion% Formula"
+msgstr "Foirmle %productname% %formatversion%"
 
 #: StarOffice_XML__Writer__ui.xcu#StarOffice_XML__Writer_.UIName.value.text
 #: writer_globaldocument_StarOffice_XML_Writer_ui.xcu#writer_globaldocument_StarOffice_XML_Writer.UIName.value.text
-msgid "StarOffice 6.0/7 Text Document"
-msgstr "Cáipéis Téacs StarOffice 6.0/7"
+msgid "%productname% %formatversion% Text Document"
+msgstr "Cáipéis Téacs %productname% %formatversion%"
 
 #: StarWriter_3_0_Vorlage_Template_ui.xcu#StarWriter_3.0_Vorlage/Template.UIName.value.text
 msgid "StarWriter 3.0 Template"
 msgstr "Teimpléad StarWriter 3.0"
-
-#: StarWriter_3_0__StarWriter_GlobalDocument__ui.xcu#StarWriter_3.0__StarWriter/GlobalDocument_.UIName.value.text
-msgid "StarWriter 3.0 "
-msgstr "StarWriter 3.0 "
 
 #: StarWriter_4_0_GlobalDocument_ui.xcu#StarWriter_4.0/GlobalDocument.UIName.value.text
 msgid "StarWriter 4.0 Master Document"
@@ -58433,10 +58440,6 @@ msgstr "Máistircháipéis StarWriter 4.0"
 msgid "StarWriter 4.0 Template"
 msgstr "Teimpléad StarWriter 4.0"
 
-#: StarWriter_4_0__StarWriter_GlobalDocument__ui.xcu#StarWriter_4.0__StarWriter/GlobalDocument_.UIName.value.text
-msgid "StarWriter 4.0 "
-msgstr "StarWriter 4.0 "
-
 #: StarWriter_5_0_GlobalDocument_ui.xcu#StarWriter_5.0/GlobalDocument.UIName.value.text
 msgid "StarWriter 5.0 Master Document"
 msgstr "Máistircháipéis StarWriter 5.0"
@@ -58444,10 +58447,6 @@ msgstr "Máistircháipéis StarWriter 5.0"
 #: StarWriter_5_0_Vorlage_Template_ui.xcu#StarWriter_5.0_Vorlage/Template.UIName.value.text
 msgid "StarWriter 5.0 Template"
 msgstr "Teimpléad StarWriter 5.0"
-
-#: StarWriter_5_0__StarWriter_GlobalDocument__ui.xcu#StarWriter_5.0__StarWriter/GlobalDocument_.UIName.value.text
-msgid "StarWriter 5.0 "
-msgstr "StarWriter 5.0 "
 
 #: StarWriter_Web_4_0_Vorlage_Template_ui.xcu#StarWriter/Web_4.0_Vorlage/Template.UIName.value.text
 msgid "StarWriter/Web 4.0 Template"
@@ -58458,88 +58457,84 @@ msgid "StarWriter/Web 5.0 Template"
 msgstr "Teimpléad StarWriter/Web 5.0"
 
 #: Text__StarWriter_Web__ui.xcu#Text__StarWriter/Web_.UIName.value.text
-msgid "Text (StarOffice Writer/Web)"
-msgstr "Téacs (StarOffice Writer/Web)"
+msgid "Text (%productname% Writer/Web)"
+msgstr "Téacs (%productname% Writer/Web)"
 
 #: Text___txt___csv__StarCalc__ui.xcu#Text___txt___csv__StarCalc_.UIName.value.text
 msgid "Text CSV"
 msgstr "Téacs CSV"
 
 #: Text__encoded___StarWriter_GlobalDocument__ui.xcu#Text__encoded___StarWriter/GlobalDocument_.UIName.value.text
-msgid "Text Encoded (StarOffice Master Document)"
-msgstr ""
+msgid "Text Encoded (%productname% Master Document)"
+msgstr "Téacs Ionchódaithe (Máistircháipéis %productname%)"
 
 #: Text__encoded__ui.xcu#Text__encoded_.UIName.value.text
 msgid "Text Encoded"
-msgstr ""
+msgstr "Téacs Ionchódaithe"
 
 #: Text__encoded___StarWriter_Web__ui.xcu#Text__encoded___StarWriter/Web_.UIName.value.text
-msgid "Text Encoded (StarOffice Writer/Web)"
-msgstr ""
+msgid "Text Encoded (%productname% Writer/Web)"
+msgstr "Téacs Ionchódaithe (%productname% Writer/Web)"
 
 #: calc_HTML_WebQuery_ui.xcu#calc_HTML_WebQuery.UIName.value.text
-msgid "Web Page Query (StarOffice Calc)"
+msgid "Web Page Query (%productname% Calc)"
 msgstr ""
 
 #: calc_StarOffice_XML_Calc_Template_ui.xcu#calc_StarOffice_XML_Calc_Template.UIName.value.text
-msgid "StarOffice 6.0/7 Spreadsheet Template"
-msgstr "Teimpléad Scarbhileoige StarOffice 6.0/7"
+msgid "%productname% %formatversion% Spreadsheet Template"
+msgstr "Teimpléad Scarbhileoige %productname% %formatversion%"
 
 #: chart8_ui.xcu#chart8.UIName.value.text
 msgid "OpenDocument Chart"
 msgstr "Cairt OpenDocument"
 
 #: draw_StarOffice_XML_Draw_Template_ui.xcu#draw_StarOffice_XML_Draw_Template.UIName.value.text
-msgid "StarOffice 6.0/7 Drawing Template"
-msgstr "Teimpléad Líníochta StarOffice 6.0/7"
+msgid "%productname% %formatversion% Drawing Template"
+msgstr "Teimpléad Líníochta %productname% %formatversion%"
 
 #: draw_html_Export_ui.xcu#draw_html_Export.UIName.value.text
-msgid "HTML Document (StarOffice Draw)"
-msgstr "Cáipéis HTML (StarOffice Draw)"
+msgid "HTML Document (%productname% Draw)"
+msgstr "Cáipéis HTML (%productname% Draw)"
 
 #: impress8_draw_ui.xcu#impress8_draw.UIName.value.text
 msgid "OpenDocument Drawing (Impress)"
 msgstr "Líníocht OpenDocument (Impress)"
 
 #: impress_StarOffice_XML_Draw_ui.xcu#impress_StarOffice_XML_Draw.UIName.value.text
-msgid "StarOffice 6.0/7 Drawing (StarOffice Impress)"
-msgstr "Líníocht StarOffice 6.0/7 (StarOffice Impress)"
+msgid "%productname% %formatversion% Drawing (%productname% Impress)"
+msgstr "Líníocht %productname% %formatversion% (%productname% Impress)"
 
 #: impress_StarOffice_XML_Impress_Template_ui.xcu#impress_StarOffice_XML_Impress_Template.UIName.value.text
-msgid "StarOffice 6.0/7 Presentation Template"
-msgstr "Teimpléad Láithreoireachta StarOffice 6.0/7"
+msgid "%productname% %formatversion% Presentation Template"
+msgstr "Teimpléad Láithreoireachta %productname% %formatversion%"
 
 #: impress_html_Export_ui.xcu#impress_html_Export.UIName.value.text
-msgid "HTML Document (StarOffice Impress)"
-msgstr "Cáipéis HTML (StarOffice Impress)"
+msgid "HTML Document (%productname% Impress)"
+msgstr "Cáipéis HTML (%productname% Impress)"
 
 #: writer_JustSystem_Ichitaro_10_template_ui.xcu#writer_JustSystem_Ichitaro_10_template.UIName.value.text
 msgid "Ichitaro 8/9/10/11 Template"
 msgstr "Teimpléad Ichitaro 8/9/10/11"
 
 #: writer_StarOffice_XML_Writer_Template_ui.xcu#writer_StarOffice_XML_Writer_Template.UIName.value.text
-msgid "StarOffice 6.0/7 Text Document Template"
-msgstr "Teimpléad Téacs StarOffice 6.0/7"
+msgid "%productname% %formatversion% Text Document Template"
+msgstr "Teimpléad Téacs %productname% %formatversion%"
 
 #: writer_globaldocument_StarOffice_XML_Writer_GlobalDocument_ui.xcu#writer_globaldocument_StarOffice_XML_Writer_GlobalDocument.UIName.value.text
-msgid "StarOffice 6.0/7 Master Document"
-msgstr "Máistircháipéis StarOffice 6.0/7"
+msgid "%productname% %formatversion% Master Document"
+msgstr "Máistircháipéis %productname% %formatversion%"
 
 #: writer_web_StarOffice_XML_Writer_Web_Template_ui.xcu#writer_web_StarOffice_XML_Writer_Web_Template.UIName.value.text
-msgid "StarOffice 6.0/7 HTML Template"
-msgstr "Teimpléad HTML StarOffice 6.0/7"
+msgid "%productname% %formatversion% HTML Template"
+msgstr "Teimpléad HTML %productname% %formatversion%"
 
 #: writer_web_StarOffice_XML_Writer_ui.xcu#writer_web_StarOffice_XML_Writer.UIName.value.text
-msgid "StarOffice Text Document (StarOffice Writer/Web)"
-msgstr "Cáipéis Téacs StarOffice (StarOffice Writer/Web)"
-
-#: writerglobal8_writer_ui.xcu#writerglobal8_writer.UIName.value.text
-msgid "Open Office Text"
-msgstr "Téacs OpenOffice"
+msgid "%productname% %formatversion% Text Document (%productname% Writer/Web)"
+msgstr "Cáipéis Téacs %productname% %formatversion% (%productname% Writer/Web)"
 
 #: writerweb8_writer_ui.xcu#writerweb8_writer.UIName.value.text
-msgid "Open Office Text (StarOffice Writer/Web)"
-msgstr "Téacs Open Office (StarOffice Writer/Web)"
+msgid "%productname% Text (%productname% Writer/Web)"
+msgstr "Téacs %productname% (%productname% Writer/Web)"
 
 #: impdialog.src#WORKARROUND.#define.text
 msgid "PDF Options"
@@ -71656,7 +71651,7 @@ msgid "The format of the selected file is not supported."
 msgstr ""
 
 #: readme.xrm#ooo_readme.Welcome.A2.a.readmeitem.text
-msgid "Last updated $Date: 2005-04-22 02:01:56 $"
+msgid "Last updated $Date: 2005-04-22 21:25:25 $"
 msgstr ""
 
 #: readme.xrm#ooo_readme.Welcome.A3.a.readmeitem.text
