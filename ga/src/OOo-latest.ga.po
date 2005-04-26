@@ -1,5 +1,5 @@
 # OOo pot file for Irish.
-#   CURRENT VERSION = SRC680_m96
+#   CURRENT VERSION = SRC680_m97
 # First version produced Sept. 2004 by Kevin Scannell using the oo2po
 # scripts by David Fraser et al
 msgid ""
@@ -71638,6 +71638,70 @@ msgstr "Difríochtaí"
 msgid "Disk Size"
 msgstr "Méid an Diosca"
 
+#: Nsis.ulf#SetupCaption.LngText.text
+msgid "%PRODUCTNAME %PRODUCTVERSION Installation Preparation"
+msgstr ""
+
+#: Nsis.ulf#MUI_TEXT_WELCOME_INFO_TITLE.LngText.text
+msgid "Thank you for downloading %PRODUCTNAME %PRODUCTVERSION."
+msgstr "Go raibh maith agat as íosluchú %PRODUCTNAME %PRODUCTVERSION."
+
+#: Nsis.ulf#MUI_TEXT_WELCOME_INFO_TEXT.LngText.text
+msgid ""
+"The installation files must be unpacked and copied to your hard disk in "
+"preparation for the installation. After that, the %PRODUCTNAME installation "
+"will start automatically.\\r\\n\\r\\nClick \\'Next\\' to continue."
+msgstr ""
+
+#: Nsis.ulf#MUI_TEXT_DIRECTORY_TITLE.LngText.text
+msgid "Select Folder"
+msgstr "Roghnaigh Fillteán"
+
+#: Nsis.ulf#MUI_TEXT_DIRECTORY_SUBTITLE.LngText.text
+msgid "Select the folder in which to save the unpacked files."
+msgstr "Roghnaigh an fillteán ina sábhálfar na comhaid dhíphacáilte."
+
+#: Nsis.ulf#InstallBtn.LngText.text
+msgid "&Unpack"
+msgstr "&Díphacáil"
+
+#: Nsis.ulf#DirText.LngText.text
+msgid ""
+"The %PRODUCTNAME %PRODUCTVERSION installation files will be unpacked and "
+"saved in the folder shown below. If you would like to save %PRODUCTNAME to a "
+"different folder, click \\'Browse\\' to select another folder."
+msgstr ""
+
+#: Nsis.ulf#DirSubText.LngText.text
+msgid "Destination Folder"
+msgstr "Sprioc-Chomhadlann"
+
+#: Nsis.ulf#SpaceRequired.LngText.text
+msgid "Space required: "
+msgstr "Spás de dhíth: "
+
+#: Nsis.ulf#SpaceAvailable.LngText.text
+msgid "Space available: "
+msgstr "Spás le fáil: "
+
+#: Nsis.ulf#MUI_TEXT_INSTALLING_TITLE.LngText.text
+msgid "Unpacking"
+msgstr "Á Dhíphacáil"
+
+#: Nsis.ulf#MUI_TEXT_INSTALLING_SUBTITLE.LngText.text
+msgid "Please wait while the installation files are being unpacked."
+msgstr ""
+
+#: Nsis.ulf#Extract.LngText.text
+msgid "Extract: "
+msgstr "Bain Amach: "
+
+#: Nsis.ulf#MUI_TEXT_ABORTWARNING.LngText.text
+msgid ""
+"Are you sure you want to quit the %PRODUCTNAME %PRODUCTVERSION Installation "
+"Preparation"
+msgstr ""
+
 #: mediacontrol.src#AVMEDIA_STR_PAUSE.string.text
 msgid "Pause"
 msgstr "Sos"
@@ -71679,8 +71743,8 @@ msgid "The format of the selected file is not supported."
 msgstr "Ní thacaítear le formáid an chomhaid roghnaithe."
 
 #: readme.xrm#ooo_readme.Welcome.A2.a.readmeitem.text
-msgid "Last updated $Date: 2005-04-26 19:26:04 $"
-msgstr ""
+msgid "Last updated $Date: 2005-04-26 19:45:27 $"
+msgstr "Nuashonrú is déanaí $Date: 2005-04-26 19:45:27 $"
 
 #: readme.xrm#ooo_readme.Welcome.A3.a.readmeitem.text
 msgid "OpenOffice.org 2.0 ReadMe"
