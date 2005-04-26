@@ -1,23 +1,22 @@
 #    Instructions upon new OOo release
-# (1) Get tarball with the latest POT files and latest en-US.rdf,
-# and update the VERSION variable below to the new milestone number.
+# (1) Update the VERSION variable below to the new milestone number.
 # (2)  Then
-# $ rm -Rf pot en-US.sdf   [ before tar command below! ]
+# $ rm -Rf pot *.sdf
 # $ wget ftp://ftp.linux.cz/pub/localization/OpenOffice.org/devel/POT/OpenOffice.org-SRC680_m79-POT.tar.gz
 # $ gunzip OpenOffice.org-SRC680_m79-POT.tar.gz
 # $ tar xvf OpenOffice.org-SRC680_m79-POT.tar
 # $ rm -f OpenOffice.org-SRC680_m79-POT.tar
 # $ make OOo.po-update
-# $ diff -u OOo-latest.ga.po OOo-SRC680_m79.ga.po | more
-#    and look for +msgstr ""  caused by fuzzying, or else easy ones 
-# Fix these, then update the
+# Then update the
 # "CURRENT VERSION" at the top of OOo-SRC680_m79.ga.po, mv -f it to OOo-latest
+# $ tunnel  (in another window)
 # $ cvs commit OOo-latest.ga.po
 #    and give current translation counts, version number in log entry
 
-VERSION=SRC680_m85
+VERSION=SRC680_m97
 
 all : OOo-$(VERSION)-ga-GSI.sdf
+	cp -f OOo-$(VERSION)-ga-GSI.sdf ${HOME}/public_html/obair
 
 # murf: 18 Feb 2005 on dev mailing list:
 # create GA locale file and put it in with other locale defs
@@ -48,7 +47,7 @@ OOo-latest.po : OOo-latest.ga.po
 #  only latin1/non-ascii are things like "Bézier"
 OOo.po-update : FORCE
 	find pot -name '*.pot' | egrep -v '^pot/helpcontent2' | xargs msgcat -t utf-8 | iconv -f utf8 -t iso-8859-1 | sed 's/plain; charset=UTF-8/plain; charset=ISO-8859-1/' > bigole.pot
-	msgmerge -N -C OOo-latest.ga.po -o OOo-$(VERSION).ga.po /dev/null bigole.pot
+	msgmerge -C OOo-latest.ga.po -o OOo-$(VERSION).ga.po /dev/null bigole.pot
 	rm -f bigole.pot
 	echo 'Previous:'
 	msgfmt --statistics -o /dev/null OOo-latest.ga.po
