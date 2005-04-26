@@ -62137,7 +62137,7 @@ msgstr "UathPhíolóta: Láithreoireacht"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_AutoPilotAgenda.Label.value.text
 msgid "AutoPilot: Agenda"
-msgstr "UathPhíolóta: Clár Oibre"
+msgstr "UathPhíolóta: Clár Gnó"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_AutoPilotFax.Label.value.text
 msgid "AutoPilot: Fax"
@@ -63054,7 +63054,7 @@ msgstr "~Facs..."
 
 #: Common.xcu#..Common.Menus.Wizard.m2.Title.value.text
 msgid "~Agenda..."
-msgstr "Clár ~Oibre..."
+msgstr "Clár ~Gnó..."
 
 #: Common.xcu#..Common.Menus.Wizard.m5.Title.value.text
 msgid "~Presentation..."
@@ -71679,7 +71679,7 @@ msgid "The format of the selected file is not supported."
 msgstr "Ní thacaítear le formáid an chomhaid roghnaithe."
 
 #: readme.xrm#ooo_readme.Welcome.A2.a.readmeitem.text
-msgid "Last updated $Date: 2005-04-26 16:14:31 $"
+msgid "Last updated $Date: 2005-04-26 19:26:04 $"
 msgstr ""
 
 #: readme.xrm#ooo_readme.Welcome.A3.a.readmeitem.text
