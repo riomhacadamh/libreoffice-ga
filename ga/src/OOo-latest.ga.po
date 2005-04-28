@@ -23385,11 +23385,11 @@ msgstr "Máistircháipéis"
 
 #: globdoc.src#STR_WRITER_GLOBALDOC_FULLTYPE.string.text
 msgid "%PRODUCTNAME %PRODUCTVERSION Master Document"
-msgstr ""
+msgstr "Máistircháipéis %PRODUCTNAME %PRODUCTVERSION"
 
 #: access.src#STR_ACCESS_HEADING_WITH_NUM_DESC.string.text
 msgid "Heading number $(ARG2): $(ARG1)"
-msgstr ""
+msgstr "Ceannteideal uimhir a $(ARG2): $(ARG1)"
 
 #: access.src#STR_ACCESS_HEADER_NAME.string.text
 msgid "Header $(ARG1)"
@@ -23397,7 +23397,7 @@ msgstr "Ceanntásc $(ARG1)"
 
 #: access.src#STR_ACCESS_HEADER_DESC.string.text
 msgid "Header page $(ARG1)"
-msgstr ""
+msgstr "Leathanach ceanntáisc $(ARG1)"
 
 #: access.src#STR_ACCESS_FOOTER_NAME.string.text
 msgid "Footer $(ARG1)"
@@ -23405,7 +23405,7 @@ msgstr "Buntásc $(ARG1)"
 
 #: access.src#STR_ACCESS_FOOTER_DESC.string.text
 msgid "Footer page $(ARG1)"
-msgstr ""
+msgstr "Leathanach buntáisc $(ARG1)"
 
 #: access.src#STR_ACCESS_FOOTNOTE_NAME.string.text
 #: access.src#STR_ACCESS_FOOTNOTE_DESC.string.text
@@ -23490,7 +23490,7 @@ msgstr "Cóipeáil ~Nasc"
 
 #: docvw.src#MN_READONLY_POPUP.MN_READONLY_COPYGRAPHIC.menuitem.text
 msgid "Copy ~Graphics"
-msgstr ""
+msgstr "Cóipeáil ~Grafaic"
 
 #: docvw.src#MN_READONLY_POPUP.MN_READONLY_LOADGRAPHIC.menuitem.text
 msgid "Load Graphics"
@@ -23498,16 +23498,16 @@ msgstr "Luchtaigh Grafaic"
 
 #: docvw.src#MN_READONLY_POPUP.MN_READONLY_GRAPHICOFF.menuitem.text
 msgid "Graphics Off"
-msgstr ""
+msgstr "Graificí As"
 
 #: docvw.src#MN_READONLY_POPUP.MN_READONLY_PLUGINOFF.menuitem.text
 msgid "Plug-ins Off"
-msgstr ""
+msgstr "Breiseáin As"
 
 #: docvw.src#MN_READONLY_POPUP.SID_WIN_FULLSCREEN.menuitem.text
 #: menu.src#SID_WIN_FULLSCREEN.string.text
 msgid "Leave Full-Screen Mode"
-msgstr ""
+msgstr "Éirigh as an scáileán iomlán"
 
 #: docvw.src#STR_EXPORT_GRAFIK_TITLE.string.text
 msgid "Graphics Export"
@@ -23515,23 +23515,23 @@ msgstr "Easpórtáil Grafaic"
 
 #: docvw.src#STR_CHAIN_OK.string.text
 msgid "Click the left mouse button to link the frames."
-msgstr ""
+msgstr "Cliceáil an cnaipe ar chlé chun na frámaí a nascadh."
 
 #: docvw.src#STR_CHAIN_NOT_EMPTY.string.text
 msgid "Target frame not empty."
-msgstr ""
+msgstr "Níl an spriocfhráma folamh."
 
 #: docvw.src#STR_CHAIN_IS_IN_CHAIN.string.text
 msgid "Target frame is already linked."
-msgstr ""
+msgstr "Tá an spriocfhráma nasctha cheana."
 
 #: docvw.src#STR_CHAIN_WRONG_AREA.string.text
 msgid "The target frame for the link is in an invalid area."
-msgstr ""
+msgstr "Is limistéar neamhbhailí é an spriocfhráma."
 
 #: docvw.src#STR_CHAIN_NOT_FOUND.string.text
 msgid "Target frame not found at current position."
-msgstr ""
+msgstr "Spriocfhráma gan aimsiú ag an ionad reatha."
 
 #: docvw.src#STR_CHAIN_SOURCE_CHAINED.string.text
 msgid "The source frame is already the source of a link."
@@ -23539,7 +23539,7 @@ msgstr ""
 
 #: docvw.src#STR_CHAIN_SELF.string.text
 msgid "A closed link is not possible."
-msgstr ""
+msgstr "Ní cheadaítear nasc dúnta."
 
 #: docvw.src#STR_REDLINE_INSERT.string.text
 msgid "Inserted"
@@ -23556,7 +23556,7 @@ msgstr "Formáidithe"
 #: docvw.src#STR_REDLINE_TABLE.string.text
 #: undo.src#STR_REDLINE_TABLE.string.text
 msgid "Table changed"
-msgstr ""
+msgstr "Athraíodh an tábla"
 
 #: docvw.src#STR_ENDNOTE.string.text
 msgid "Endnote: "
@@ -23569,26 +23569,27 @@ msgstr "Fonóta: "
 #: docvw.src#MSG_READONLY_CONTENT.infobox.text
 msgid "Readonly content cannot be changed.\\nNo modifications will be accepted"
 msgstr ""
+"Ní féidir ábhar léimh-amháin a athrú.\\nNí ghlacfar le mionathrú ar bith"
 
 #: docvw.src#STR_TABLE_COL_ADJUST.string.text
 msgid "Adjust table column"
-msgstr ""
+msgstr "Coigeartaigh colún tábla"
 
 #: docvw.src#STR_TABLE_ROW_ADJUST.string.text
 msgid "Adjust table row"
-msgstr ""
+msgstr "Coigeartaigh ró tábla"
 
 #: docvw.src#STR_TABLE_SELECT_ALL.string.text
 msgid "Select whole table"
-msgstr ""
+msgstr "Roghnaigh an tábla iomlán"
 
 #: docvw.src#STR_TABLE_SELECT_ROW.string.text
 msgid "Select table row"
-msgstr ""
+msgstr "Roghnaigh ró tábla"
 
 #: docvw.src#STR_TABLE_SELECT_COL.string.text
 msgid "Select table column"
-msgstr ""
+msgstr "Roghnaigh colún tábla"
 
 #: mailconfigpage.src#TP_MAILCONFIG.FL_IDENTITY.fixedline.text
 msgid "User information"
@@ -23604,15 +23605,15 @@ msgstr "Ríomhsh~eoladh"
 
 #: mailconfigpage.src#TP_MAILCONFIG.CB_REPLYTO.checkbox.text
 msgid "Send replies to ~different e-mail address"
-msgstr ""
+msgstr "Seol freagraí chuig seoltaí ~difriúla ríomhphoist"
 
 #: mailconfigpage.src#TP_MAILCONFIG.FT_REPLYTO.fixedtext.text
 msgid "~Reply address"
-msgstr ""
+msgstr "Seoladh f~reagra"
 
 #: mailconfigpage.src#TP_MAILCONFIG.FL_SMTP.fixedline.text
 msgid "Outgoing server (SMTP) Settings"
-msgstr ""
+msgstr "Socruithe (SMTP) an fhreastalaí ríomhphoist amach"
 
 #: mailconfigpage.src#TP_MAILCONFIG.FT_SERVER.fixedtext.text
 msgid "~Server name"
@@ -23627,7 +23628,7 @@ msgstr "~Port"
 
 #: mailconfigpage.src#TP_MAILCONFIG.CB_SECURE.checkbox.text
 msgid "~Use secure connection (SSL)"
-msgstr ""
+msgstr "Ú~sáid nasc daingean (SSL)"
 
 #: mailconfigpage.src#TP_MAILCONFIG.PB_AUTHENTICATION.pushbutton.text
 msgid "Server Au~thentication"
@@ -23635,12 +23636,12 @@ msgstr "Fíordheimhniú den Fhreas~talaí"
 
 #: mailconfigpage.src#TP_MAILCONFIG.PB_TEST.pushbutton.text
 msgid "Test S~ettings..."
-msgstr ""
+msgstr "Tástáil na Socruith~e..."
 
 #: mailconfigpage.src#TP_MAILCONFIG.tabpage.text
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_EDITOPTIONS.14.itemlist.text
 msgid "Mail Merge E-mail"
-msgstr ""
+msgstr "Postchumasc\""
 
 #: mailconfigpage.src#DLG_MM_TESTACCOUNTSETTINGS.FI_INFO.fixedtext.text
 msgid "%PRODUCTNAME is testing the e-mail account settings..."
@@ -23652,19 +23653,19 @@ msgstr "Earráidí"
 
 #: mailconfigpage.src#DLG_MM_TESTACCOUNTSETTINGS.modaldialog.text
 msgid "Test Account Settings"
-msgstr ""
+msgstr "Tástáil Socruithe an Chuntais"
 
 #: mailconfigpage.src#ST_ESTABLISH.string.text
 msgid "Establish network connection"
-msgstr ""
+msgstr "Bunaigh nasc líonra"
 
 #: mailconfigpage.src#ST_FINDSERVER.string.text
 msgid "Find outgoing mail server"
-msgstr ""
+msgstr "Aimsigh freastalaí ríomhphoist amach"
 
 #: mailconfigpage.src#ST_COMPLETED.string.text
 msgid "Successful"
-msgstr ""
+msgstr "D'éirigh leis"
 
 #: mailconfigpage.src#ST_FAILED.string.text
 msgid "Failed"
@@ -23679,7 +23680,7 @@ msgstr ""
 
 #: mailconfigpage.src#DLG_MM_SERVERAUTHENTICATION.CB_AUTHENTICATION.checkbox.text
 msgid "The outgoing mail server (SMTP) requires au~thentication"
-msgstr ""
+msgstr "Éilíonn an freas~talaí ríomhphoist amach fíordheimhniú"
 
 #: mailconfigpage.src#DLG_MM_SERVERAUTHENTICATION.RB_SEP_AUTHENTICATION.radiobutton.text
 msgid "The outgoing mail server (SMTP) requires ~separate authentication"
@@ -23742,11 +23743,11 @@ msgstr "Fíordheimhniú den Fhreastalaí"
 
 #: optcomp.src#TP_OPTCOMPATIBILITY_PAGE.FL_MAIN.fixedline.text
 msgid "Compatibility options for %DOCNAME"
-msgstr ""
+msgstr "Roghanna comhoiriúnachta i gcomhair %DOCNAME"
 
 #: optcomp.src#TP_OPTCOMPATIBILITY_PAGE.FT_FORMATTING.fixedtext.text
 msgid "Recommended ~formatting options for"
-msgstr ""
+msgstr "Roghanna molta ~formáidithe i gcomhair"
 
 #: optcomp.src#TP_OPTCOMPATIBILITY_PAGE.FT_OPTIONS.fixedtext.text
 #: optlingu.src#RID_SFXPAGE_LINGU.FT_LINGU_OPTIONS.fixedtext.text
@@ -23775,7 +23776,7 @@ msgstr ""
 
 #: optcomp.src#TP_OPTCOMPATIBILITY_PAGE.STR_PRINTER_METRICS.string.text
 msgid "Use printer metrics for document formatting"
-msgstr ""
+msgstr "Úsáid méadraigh phrintéara le haghaidh formáidiú na gcáipéisí"
 
 #: optcomp.src#TP_OPTCOMPATIBILITY_PAGE.STR_MERGE_PARA_DIST.string.text
 msgid "Add spacing between paragraphs and tables (in current document)"
@@ -23787,11 +23788,11 @@ msgstr ""
 
 #: optcomp.src#TP_OPTCOMPATIBILITY_PAGE.STR_TAB_ALIGNMENT.string.text
 msgid "Use %WRITERCOMPATIBILITYVERSIONOOO11 tabstop formatting"
-msgstr ""
+msgstr "Formáidigh tábstopanna i stíl %WRITERCOMPATIBILITYVERSIONOOO11"
 
 #: optcomp.src#TP_OPTCOMPATIBILITY_PAGE.STR_EXTERNAL_LEADING.string.text
 msgid "Do not add leading (extra space) between lines of text"
-msgstr ""
+msgstr "Ná cuir spás breise idir línte téacs"
 
 #: optcomp.src#TP_OPTCOMPATIBILITY_PAGE.STR_LINE_SPACING.string.text
 msgid "Use %WRITERCOMPATIBILITYVERSIONOOO11 line spacing"
@@ -71743,8 +71744,8 @@ msgid "The format of the selected file is not supported."
 msgstr "Ní thacaítear le formáid an chomhaid roghnaithe."
 
 #: readme.xrm#ooo_readme.Welcome.A2.a.readmeitem.text
-msgid "Last updated $Date: 2005-04-26 19:45:27 $"
-msgstr "Nuashonrú is déanaí $Date: 2005-04-26 19:45:27 $"
+msgid "Last updated $Date: 2005-04-28 20:28:15 $"
+msgstr "Nuashonrú is déanaí $Date: 2005-04-28 20:28:15 $"
 
 #: readme.xrm#ooo_readme.Welcome.A3.a.readmeitem.text
 msgid "OpenOffice.org 2.0 ReadMe"
