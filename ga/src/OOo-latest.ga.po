@@ -33675,11 +33675,11 @@ msgstr "réada grúpa"
 
 #: svdstr.src#STR_ObjNameSingulGRUPEMPTY.string.text
 msgid "blank group object"
-msgstr ""
+msgstr "réad bán grúpa"
 
 #: svdstr.src#STR_ObjNamePluralGRUPEMPTY.string.text
 msgid "Blank group objects"
-msgstr ""
+msgstr "Réada bána grúpa"
 
 #: svdstr.src#STR_ObjNameSingulLINE_Hori.string.text
 msgid "horizontal line"
@@ -33926,15 +33926,15 @@ msgstr "Réad bán grafaice"
 
 #: svdstr.src#STR_ObjNamePluralGRAFNONE.string.text
 msgid "Blank graphic objects"
-msgstr ""
+msgstr "Réada bána grafaice"
 
 #: svdstr.src#STR_ObjNameSingulGRAFNONELNK.string.text
 msgid "Blank linked graphic"
-msgstr ""
+msgstr "Grafaic bhán nasctha"
 
 #: svdstr.src#STR_ObjNamePluralGRAFNONELNK.string.text
 msgid "Blank linked graphics"
-msgstr ""
+msgstr "Grafaicí bána nasctha"
 
 #: svdstr.src#STR_ObjNameSingulGRAFMTF.string.text
 msgid "Metafile"
@@ -34137,7 +34137,7 @@ msgstr "Bog %O ar aghaidh"
 
 #: svdstr.src#STR_EditMovToBtm.string.text
 msgid "Move %O further back"
-msgstr ""
+msgstr "Cuir %O siar"
 
 #: svdstr.src#STR_EditPutToTop.string.text
 msgid "Move %O to front"
@@ -34149,7 +34149,7 @@ msgstr ""
 
 #: svdstr.src#STR_EditRevOrder.string.text
 msgid "Reverse order of %O"
-msgstr ""
+msgstr "Cuir %O san ord droim ar ais"
 
 #: svdstr.src#STR_EditMirrorHori.string.text
 #: svdstr.src#STR_DragMethMirrorHori.string.text
@@ -34206,11 +34206,11 @@ msgstr "Dún %O"
 
 #: svdstr.src#STR_EditSetGlueEscDir.string.text
 msgid "Set exit direction for %O"
-msgstr ""
+msgstr "Socraigh an treo scortha do %O"
 
 #: svdstr.src#STR_EditSetGluePercent.string.text
 msgid "Set relative attribute at %O"
-msgstr ""
+msgstr "Socraigh tréith choibhneasta ag %O"
 
 #: svdstr.src#STR_EditSetGlueAlign.string.text
 msgid "Set reference point for %O"
@@ -34227,7 +34227,7 @@ msgstr "Díghrúpáil %O"
 
 #: svdstr.src#STR_EditSetAttributes.string.text
 msgid "Apply attributes to %O"
-msgstr ""
+msgstr "Cuir tréithe i bhfeidhm ar %O"
 
 #: svdstr.src#STR_EditSetStylesheet.string.text
 msgid "Apply Styles to %O"
@@ -34267,11 +34267,11 @@ msgstr "Ailínigh %O"
 
 #: svdstr.src#STR_EditAlignVTop.string.text
 msgid "Align %O to top"
-msgstr ""
+msgstr "Ailínigh %O leis an mbarr"
 
 #: svdstr.src#STR_EditAlignVBottom.string.text
 msgid "Align %O to bottom"
-msgstr ""
+msgstr "Ailínigh %O leis an mbun"
 
 #: svdstr.src#STR_EditAlignVCenter.string.text
 msgid "Horizontally center %O"
@@ -34339,7 +34339,7 @@ msgstr "Tarraing agus Scaoil %O"
 
 #: svdstr.src#STR_ExchangeDDPaste.string.text
 msgid "Insert Drag and Drop"
-msgstr ""
+msgstr "Ionsáigh \"Tarraing agus Scaoil\""
 
 #: svdstr.src#STR_DragInsertPoint.string.text
 msgid "Insert point to %O"
@@ -34359,11 +34359,11 @@ msgstr "Athraigh %O go geoiméadrach"
 
 #: svdstr.src#STR_DragMethGradient.string.text
 msgid "Interactive gradient for %O"
-msgstr ""
+msgstr "Grádán idirghníomhach do %O"
 
 #: svdstr.src#STR_DragMethTransparence.string.text
 msgid "Interactive transparency for %O"
-msgstr ""
+msgstr "Trédhearcacht idirghníomhach do %O"
 
 #: svdstr.src#STR_DragRectEckRad.string.text
 msgid "Alter radius by %O"
@@ -34408,11 +34408,11 @@ msgstr "%N gliúphointe ó %O"
 
 #: svdstr.src#STR_ViewMarkObjs.string.text
 msgid "Mark objects"
-msgstr ""
+msgstr "Marcáil réada"
 
 #: svdstr.src#STR_ViewMarkMoreObjs.string.text
 msgid "Mark additional objects"
-msgstr ""
+msgstr "Marcáil réada breise"
 
 #: svdstr.src#STR_ViewMarkPoints.string.text
 msgid "Mark points"
@@ -34448,7 +34448,7 @@ msgstr ""
 
 #: svdstr.src#STR_UndoObjSetText.string.text
 msgid "Edit text of %O"
-msgstr ""
+msgstr "Cuir an téacs de %O in eagar"
 
 #: svdstr.src#STR_UndoNewPage.string.text
 msgid "Insert page"
@@ -34624,7 +34624,7 @@ msgstr "laistigh (láraithe)"
 
 #: svdstr.src#STR_ItemValMEASURE_TEXTRIGHTOUTSID.string.text
 msgid "right outside"
-msgstr ""
+msgstr "amuigh ar dheis"
 
 #: svdstr.src#STR_ItemValMEASURE_ABOVE.string.text
 msgid "on the line"
@@ -34706,7 +34706,7 @@ msgstr "Treo scortha"
 
 #: svdstr.src#STR_ItemNam_CAPTIONESCISREL.string.text
 msgid "Relative exit position"
-msgstr ""
+msgstr "Ionad coibhneasta scortha"
 
 #: svdstr.src#STR_ItemNam_CAPTIONESCREL.string.text
 #: svdstr.src#STR_ItemNam_CAPTIONESCABS.string.text
@@ -34719,7 +34719,7 @@ msgstr "Fad na líne"
 
 #: svdstr.src#STR_ItemNam_CAPTIONFITLINELEN.string.text
 msgid "Auto line length"
-msgstr ""
+msgstr "Fad uathoibríoch na líne"
 
 #: svdstr.src#STR_ItemNam_ECKENRADIUS.string.text
 #: svdstr.src#SIP_SA_ECKENRADIUS.string.text
@@ -34730,35 +34730,35 @@ msgstr ""
 
 #: svdstr.src#STR_ItemNam_TEXT_LEFTDIST.string.text
 msgid "Left border spacing"
-msgstr ""
+msgstr "Spásáil na himlíne ar chlé"
 
 #: svdstr.src#STR_ItemNam_TEXT_RIGHTDIST.string.text
 msgid "Right border spacing"
-msgstr ""
+msgstr "Spásáil na himlíne ar dheis"
 
 #: svdstr.src#STR_ItemNam_TEXT_UPPERDIST.string.text
 msgid "Upper border spacing"
-msgstr ""
+msgstr "Spásáil na himlíne thuas"
 
 #: svdstr.src#STR_ItemNam_TEXT_LOWERDIST.string.text
 msgid "Lower border spacing"
-msgstr ""
+msgstr "Spásáil na himlíne thíos"
 
 #: svdstr.src#STR_ItemNam_TEXT_AUTOGROWHEIGHT.string.text
 msgid "AutoFit frame height"
-msgstr ""
+msgstr "Uathoiriúnaigh airde an fhráma"
 
 #: svdstr.src#STR_ItemNam_TEXT_MINFRAMEHEIGHT.string.text
 msgid "Min. frame height"
-msgstr ""
+msgstr "Íosairde an fhráma"
 
 #: svdstr.src#STR_ItemNam_TEXT_MAXFRAMEHEIGHT.string.text
 msgid "Max. frame height"
-msgstr ""
+msgstr "Uasairde an fhráma"
 
 #: svdstr.src#STR_ItemNam_TEXT_AUTOGROWWIDTH.string.text
 msgid "AutoFit frame width"
-msgstr ""
+msgstr "Uathoiriúnaigh leithead an fhráma"
 
 #: svdstr.src#STR_ItemNam_TEXT_MINFRAMEWIDTH.string.text
 msgid "Min. frame width"
@@ -34771,12 +34771,12 @@ msgstr ""
 #: svdstr.src#STR_ItemNam_TEXT_VERTADJUST.string.text
 #: svdstr.src#SIP_SA_TEXT_VERTADJUST.string.text
 msgid "Vertical text anchor"
-msgstr ""
+msgstr "Ancaire ingearach téacs"
 
 #: svdstr.src#STR_ItemNam_TEXT_HORZADJUST.string.text
 #: svdstr.src#SIP_SA_TEXT_HORZADJUST.string.text
 msgid "Horizontal text anchor"
-msgstr ""
+msgstr "Ancaire cothrománach téacs"
 
 #: svdstr.src#STR_ItemNam_TEXT_FITTOSIZE.string.text
 #: svdstr.src#SIP_SA_TEXT_FITTOSIZE.string.text
@@ -34803,7 +34803,7 @@ msgstr "Ná priontáil"
 
 #: svdstr.src#STR_ItemNam_LAYERID.string.text
 msgid "Layer Indicator"
-msgstr ""
+msgstr "Táscaire Sratha"
 
 #: svdstr.src#STR_ItemNam_LAYERNAME.string.text
 msgid "Le~vel"
@@ -34839,7 +34839,7 @@ msgstr "Uillinn rothlaithe"
 
 #: svdstr.src#STR_ItemNam_SHEARANGLE.string.text
 msgid "Shear angle"
-msgstr ""
+msgstr "Uillinn fhiartha"
 
 #: svdstr.src#SIP_UNKNOWN_ATTR.string.text
 msgid "Unknown attribute"
@@ -34871,7 +34871,7 @@ msgstr ""
 
 #: svdstr.src#SIP_XA_LINESTARTCENTER.string.text
 msgid "Center arrowhead"
-msgstr ""
+msgstr "Ceann saighde sa lár"
 
 #: svdstr.src#SIP_XA_LINEENDCENTER.string.text
 msgid "Center arrowend"
@@ -34915,7 +34915,7 @@ msgstr "Stíl líonta"
 
 #: svdstr.src#SIP_XA_FILLCOLOR.string.text
 msgid "Fillcolor"
-msgstr ""
+msgstr "Dath líonta"
 
 #: svdstr.src#SIP_XA_FILLBITMAP.string.text
 msgid "Fillbitmap"
@@ -34999,7 +34999,7 @@ msgstr ""
 
 #: svdstr.src#SIP_XA_FILLBACKGROUND.string.text
 msgid "Background fill"
-msgstr ""
+msgstr "Líonadh an chúlra"
 
 #: svdstr.src#SIP_XA_FILLRESERVED10.string.text
 msgid "Fill reserved for 10"
@@ -35099,7 +35099,7 @@ msgstr ""
 
 #: svdstr.src#SIP_SA_CAPTIONTYPE.string.text
 msgid "Type of legend"
-msgstr ""
+msgstr "Cineál na heochrach eolais"
 
 #: svdstr.src#SIP_SA_CAPTIONFIXEDANGLE.string.text
 msgid "Fixed legend angle"
@@ -35107,11 +35107,11 @@ msgstr ""
 
 #: svdstr.src#SIP_SA_CAPTIONANGLE.string.text
 msgid "Legend angle"
-msgstr ""
+msgstr "Uillinn na heochrach eolais"
 
 #: svdstr.src#SIP_SA_CAPTIONGAP.string.text
 msgid "Legend lines spacing"
-msgstr ""
+msgstr "Spásáil idir línte na heochrach eolais"
 
 #: svdstr.src#SIP_SA_CAPTIONESCDIR.string.text
 msgid "Legend exit alignment"
@@ -35136,19 +35136,19 @@ msgstr ""
 
 #: svdstr.src#SIP_SA_TEXT_MINFRAMEHEIGHT.string.text
 msgid "Minimal frame height"
-msgstr ""
+msgstr "Íosairde an fhráma"
 
 #: svdstr.src#SIP_SA_TEXT_AUTOGROWHEIGHT.string.text
 msgid "AutoFit height"
-msgstr ""
+msgstr "Uathoiriúnaigh airde"
 
 #: svdstr.src#SIP_SA_TEXT_LEFTDIST.string.text
 msgid "Left text frame spacing"
-msgstr ""
+msgstr "Spásáil an fhráma téacs ar chlé"
 
 #: svdstr.src#SIP_SA_TEXT_RIGHTDIST.string.text
 msgid "Right text frame spacing"
-msgstr ""
+msgstr "Spásáil an fhráma téacs ar dheis"
 
 #: svdstr.src#SIP_SA_TEXT_UPPERDIST.string.text
 msgid "Upper text frame spacing"
@@ -35160,7 +35160,7 @@ msgstr ""
 
 #: svdstr.src#SIP_SA_TEXT_MAXFRAMEHEIGHT.string.text
 msgid "Maximal frame height"
-msgstr ""
+msgstr "Uasairde an fhráma"
 
 #: svdstr.src#SIP_SA_TEXT_MINFRAMEWIDTH.string.text
 msgid "Minimal frame width"
@@ -35172,15 +35172,15 @@ msgstr ""
 
 #: svdstr.src#SIP_SA_TEXT_AUTOGROWWIDTH.string.text
 msgid "AutoFit width"
-msgstr ""
+msgstr "Uathoiriúnaigh leithead"
 
 #: svdstr.src#SIP_SA_TEXT_ANIKIND.string.text
 msgid "Ticker"
-msgstr ""
+msgstr "Teilitéip"
 
 #: svdstr.src#SIP_SA_TEXT_ANIDIRECTION.string.text
 msgid "Ticker direction"
-msgstr ""
+msgstr "Treo na teilitéipe"
 
 #: svdstr.src#SIP_SA_TEXT_ANISTARTINSIDE.string.text
 msgid "Ticker start inside"
@@ -35196,7 +35196,7 @@ msgstr ""
 
 #: svdstr.src#SIP_SA_TEXT_ANIDELAY.string.text
 msgid "Speed of ticker"
-msgstr ""
+msgstr "Luas na teilitéipe"
 
 #: svdstr.src#SIP_SA_TEXT_ANIAMOUNT.string.text
 msgid "Ticker step size"
@@ -71763,8 +71763,8 @@ msgid "The format of the selected file is not supported."
 msgstr "Ní thacaítear le formáid an chomhaid roghnaithe."
 
 #: readme.xrm#ooo_readme.Welcome.A2.a.readmeitem.text
-msgid "Last updated $Date: 2005-04-29 14:33:28 $"
-msgstr "Nuashonrú is déanaí $Date: 2005-04-29 14:33:28 $"
+msgid "Last updated $Date: 2005-04-29 16:48:45 $"
+msgstr "Nuashonrú is déanaí $Date: 2005-04-29 16:48:45 $"
 
 #: readme.xrm#ooo_readme.Welcome.A3.a.readmeitem.text
 msgid "OpenOffice.org 2.0 ReadMe"
