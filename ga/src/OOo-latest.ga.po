@@ -3231,7 +3231,7 @@ msgstr "UathFhormáid"
 #: chartdlg.src#RID_SCDLG_CHARTRANGE.STR_CHANGETITLE.string.text
 #: globstr.src#RID_GLOBSTR.STR_UNDO_CHARTDATA.string.text
 msgid "Modify chart data range"
-msgstr ""
+msgstr "Mionathraigh raon sonraí na cairte"
 
 #: chartdlg.src#RID_SCDLG_CHARTRANGE.FT_TEXT.fixedtext.text
 #: chartins.src#DLG_INSERT_CHART.FT_TEXT.fixedtext.text
@@ -23848,7 +23848,7 @@ msgstr "Rialóir ~ingearach"
 
 #: optdlg.src#TP_CONTENT_OPT.CB_VRULER_RIGHT.checkbox.text
 msgid "Right-aligned"
-msgstr "Áilínithe ar dheis"
+msgstr "Ailínithe ar dheis"
 
 #: optdlg.src#TP_CONTENT_OPT.CB_SMOOTH_SCROLL.checkbox.text
 msgid "S~mooth scroll"
@@ -24674,7 +24674,7 @@ msgstr "Y-comhordanáid:"
 
 #: attrdesc.src#STR_VERT_TOP.string.text
 msgid "at top"
-msgstr "go dtí an barr"
+msgstr "ag an mbarr"
 
 #: attrdesc.src#STR_VERT_BOTTOM.string.text
 msgid "at bottom"
@@ -24697,11 +24697,11 @@ msgstr ""
 
 #: attrdesc.src#STR_HORI_RIGHT.string.text
 msgid "at the right"
-msgstr ""
+msgstr "ar dheis"
 
 #: attrdesc.src#STR_HORI_LEFT.string.text
 msgid "at the left"
-msgstr ""
+msgstr "ar chlé"
 
 #: attrdesc.src#STR_HORI_INSIDE.string.text
 msgid "inside"
@@ -24742,7 +24742,7 @@ msgstr "agus "
 
 #: attrdesc.src#STR_LINECOUNT.string.text
 msgid "Count lines"
-msgstr ""
+msgstr "Áirigh línte"
 
 #: attrdesc.src#STR_DONTLINECOUNT.string.text
 msgid "don't count lines"
@@ -25197,7 +25197,7 @@ msgstr "Ar Aghaidh"
 
 #: navipi.src#TB_CONTENT.FN_ITEM_UP.toolboxitem.text
 msgid "Promote Chapter"
-msgstr ""
+msgstr "Ardaigh Caibidil"
 
 #: navipi.src#TB_CONTENT.FN_ITEM_DOWN.toolboxitem.text
 msgid "Demote Chapter"
@@ -25627,19 +25627,19 @@ msgstr "Liosta 5: Ar Lean."
 
 #: poolfmt.src#STR_POOLCOLL_HEADERL.string.text
 msgid "Header left"
-msgstr ""
+msgstr "Ceanntásc ar chlé"
 
 #: poolfmt.src#STR_POOLCOLL_HEADERR.string.text
 msgid "Header right"
-msgstr ""
+msgstr "Ceanntásc ar dheis"
 
 #: poolfmt.src#STR_POOLCOLL_FOOTERL.string.text
 msgid "Footer left"
-msgstr ""
+msgstr "Buntásc ar chlé"
 
 #: poolfmt.src#STR_POOLCOLL_FOOTERR.string.text
 msgid "Footer right"
-msgstr ""
+msgstr "Buntásc ar dheis"
 
 # NOT table of contents!
 #: poolfmt.src#STR_POOLCOLL_TABLE.string.text
@@ -25648,7 +25648,7 @@ msgstr "Ábhar an Tábla"
 
 #: poolfmt.src#STR_POOLCOLL_TABLE_HDLN.string.text
 msgid "Table Heading"
-msgstr ""
+msgstr "Ceannteideal Tábla"
 
 #: poolfmt.src#STR_POOLCOLL_FRAME.string.text
 msgid "Frame contents"
@@ -25670,7 +25670,7 @@ msgstr "Iarnóta"
 #: Writer.xcu#..Writer.Insert.Caption.OfficeObject.Impress.Settings.Category.value.text
 #: Writer.xcu#..Writer.Insert.Caption.OfficeObject.OLEMisc.Settings.Category.value.text
 msgid "Illustration"
-msgstr ""
+msgstr "Léaráid"
 
 #: poolfmt.src#STR_POOLCOLL_TOX_IDXH.string.text
 msgid "Index Heading"
@@ -25794,7 +25794,7 @@ msgstr ""
 
 #: poolfmt.src#STR_POOLCOLL_TOX_OBJECT1.string.text
 msgid "Object index 1"
-msgstr ""
+msgstr "Innéacs réada 1"
 
 #: poolfmt.src#STR_POOLCOLL_TOX_TABLESH.string.text
 msgid "Table index heading"
@@ -25802,11 +25802,11 @@ msgstr ""
 
 #: poolfmt.src#STR_POOLCOLL_TOX_TABLES1.string.text
 msgid "Table index 1"
-msgstr ""
+msgstr "Innéacs tábla 1"
 
 #: poolfmt.src#STR_POOLCOLL_TOX_AUTHORITIESH.string.text
 msgid "Bibliography Heading"
-msgstr ""
+msgstr "Ceannteideal an Leabharliosta"
 
 #: poolfmt.src#STR_POOLCOLL_TOX_AUTHORITIES1.string.text
 msgid "Bibliography 1"
@@ -25818,7 +25818,7 @@ msgstr "Athfhriotail"
 
 #: poolfmt.src#STR_POOLCOLL_HTML_PRE.string.text
 msgid "Preformatted Text"
-msgstr ""
+msgstr "Téacs Réamhfhormáidithe"
 
 #: poolfmt.src#STR_POOLCOLL_HTML_HR.string.text
 #: tbxctl.src#RID_TOOLBOX.SID_INSERT_HFIXEDLINE.toolboxitem.text
@@ -25832,7 +25832,7 @@ msgstr ""
 
 #: poolfmt.src#STR_POOLCOLL_HTML_DT.string.text
 msgid "List Heading"
-msgstr ""
+msgstr "Ceannteideal an Liosta"
 
 #: poolfmt.src#STR_POOLPAGE_FIRST.string.text
 #: newhelp.src#STR_HELP_BUTTON_START.string.text
@@ -25842,11 +25842,11 @@ msgstr "An Chéad Leathanach"
 
 #: poolfmt.src#STR_POOLPAGE_LEFT.string.text
 msgid "Left Page"
-msgstr ""
+msgstr "Leathanach ar Chlé"
 
 #: poolfmt.src#STR_POOLPAGE_RIGHT.string.text
 msgid "Right Page"
-msgstr ""
+msgstr "Leathanach Ar Dheis"
 
 #: poolfmt.src#STR_POOLCHR_RUBYTEXT.string.text
 msgid "Rubies"
@@ -25854,7 +25854,7 @@ msgstr ""
 
 #: poolfmt.src#STR_POOLCHR_VERT_NUM.string.text
 msgid "Vertical Numbering Symbols"
-msgstr ""
+msgstr "Siombailí Ingearacha Uimhrithe"
 
 #: unotools.src#DLG_RENAME_XNAMED.FT_NEW_NAME.fixedtext.text
 msgid "New name"
@@ -25870,29 +25870,29 @@ msgstr "Athainmnigh: "
 
 #: unotools.src#STR_SERVICE_UNAVAILABLE.string.text
 msgid "The following service is not available: "
-msgstr ""
+msgstr "Níl aon fháil ar an seirbhís a leanas: "
 
 #: unotools.src#RES_FRMEX_MENU.1.2.itemlist.text
 msgid "~Upwards"
-msgstr ""
+msgstr "~Aníos"
 
 #: unotools.src#RES_FRMEX_MENU.1.3.itemlist.text
 msgid "Do~wnwards"
-msgstr ""
+msgstr "~Anuas"
 
 #: utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_DEL_EMPTY_PARA_1.string.text
 msgid "Remove empty paragraphs"
-msgstr ""
+msgstr "Bain na hailt fholmha"
 
 #: utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_USE_REPLACE_1.string.text
 #: autocdlg.src#COMMON_CLB_ENTRIES.ST_USE_REPLACE.string.text
 msgid "Use replacement table"
-msgstr ""
+msgstr "Úsáid tábla ionadaithe"
 
 #: utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_CPTL_STT_WORD_1.string.text
 #: autocdlg.src#COMMON_CLB_ENTRIES.ST_CPTL_STT_WORD.string.text
 msgid "Correct TWo INitial CApitals"
-msgstr ""
+msgstr "Ceartaigh DHá CHeannlitreacha THosaigh"
 
 #: utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_CPTL_STT_SENT_1.string.text
 msgid "Capitalize first letter of sentences"
@@ -25902,19 +25902,21 @@ msgstr ""
 #: autocdlg.src#RID_OFAPAGE_AUTOFMT_APPLY.ST_TYPO.string.text
 msgid "Replace \"standard\" quotes with %1custom%2 quotes"
 msgstr ""
+"Úsáid comharthaí %1saincheaptha%2 athfhriotail in ionad cinn \"caighdeánacha"
+"\""
 
 #: utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_USER_STYLE_1.string.text
 #: autocdlg.src#RID_OFAPAGE_AUTOFMT_APPLY.ST_USER_STYLE.string.text
 msgid "Replace Custom Styles"
-msgstr ""
+msgstr "Ionadaigh Stíleanna Saincheaptha"
 
 #: utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_BULLET_1.string.text
 msgid "Bullets replaced"
-msgstr ""
+msgstr "Urchair ionadaithe"
 
 #: utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_UNDER_1.string.text
 msgid "Automatic _underline_"
-msgstr ""
+msgstr "_Líne faoi_ go huathoibríoch"
 
 #: utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_BOLD_1.string.text
 msgid "Automatic *bold*"
@@ -25923,21 +25925,21 @@ msgstr "*trom* uathoibríoch"
 #: utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_FRACTION_1.string.text
 #: autocdlg.src#COMMON_CLB_ENTRIES.ST_FRACTION.string.text
 msgid "Replace 1/2 ... with ½ ..."
-msgstr ""
+msgstr "Cuir ½ ... in ionad 1/2 ..."
 
 #: utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_DETECT_URL_1.string.text
 msgid "URL recognition"
-msgstr ""
+msgstr "Aithint URL"
 
 #: utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_DASH_1.string.text
 #: autocdlg.src#COMMON_CLB_ENTRIES.ST_DASH.string.text
 msgid "Replace dashes"
-msgstr ""
+msgstr "Ionadaigh daiseanna"
 
 #: utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_ORDINAL_1.string.text
 #: autocdlg.src#COMMON_CLB_ENTRIES.ST_ORDINAL.string.text
 msgid "Replace 1st... with 1^st..."
-msgstr ""
+msgstr "Cuir 1^st... in ionad 1st..."
 
 #: utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_RIGHT_MARGIN_1.string.text
 msgid "Combine single line paragraphs"
@@ -25966,11 +25968,11 @@ msgstr ""
 
 #: utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_DEL_MORELINES__1.string.text
 msgid "Combine paragraphs"
-msgstr ""
+msgstr "Comhshnaidhm ailt"
 
 #: utlui.src#STR_EVENT_OBJECT_SELECT.string.text
 msgid "Click object"
-msgstr ""
+msgstr "Cliceáil réad"
 
 #: utlui.src#STR_EVENT_START_INS_GLOSSARY.string.text
 msgid "Before inserting AutoText"
@@ -25988,7 +25990,7 @@ msgstr ""
 #: utlui.src#STR_EVENT_MOUSECLICK_OBJECT.string.text
 #: hyperdlg.src#RID_SVXSTR_HYPDLG_MACROACT2.string.text
 msgid "Trigger hyperlink"
-msgstr ""
+msgstr "Gníomhachtaigh hipearnasc"
 
 #: utlui.src#STR_EVENT_MOUSEOUT_OBJECT.string.text
 #: hyperdlg.src#RID_SVXSTR_HYPDLG_MACROACT3.string.text
@@ -25997,7 +25999,7 @@ msgstr ""
 
 #: utlui.src#STR_EVENT_IMAGE_LOAD.string.text
 msgid "Graphics load successful"
-msgstr "D'éirigh leis an luchtú grafaice"
+msgstr "D'éirigh le luchtú na grafaice"
 
 #: utlui.src#STR_EVENT_IMAGE_ABORT.string.text
 msgid "Graphics load terminated"
@@ -26009,11 +26011,11 @@ msgstr "Luchtú fabhtach grafaice"
 
 #: utlui.src#STR_EVENT_FRM_KEYINPUT_A.string.text
 msgid "Input of alphanumeric characters"
-msgstr ""
+msgstr "Ionchur de charachtair alfa-uimhriúla"
 
 #: utlui.src#STR_EVENT_FRM_KEYINPUT_NOA.string.text
 msgid "Input of non-alphanumeric characters"
-msgstr ""
+msgstr "Ionchur de charachtair nach alfa-uimhriúil"
 
 #: utlui.src#STR_EVENT_FRM_RESIZE.string.text
 msgid "Resize frame"
@@ -26181,7 +26183,7 @@ msgstr "Catagóir agus Uimhir"
 #: cnttab.src#TP_TOX_SELECT.LB_DISPLAYTYPE.3.stringlist.text
 #: fldui.src#FMT_REF_ONLYCAPTION.string.text
 msgid "Caption Text"
-msgstr ""
+msgstr "Téacs na Foscríbhinne"
 
 #: cnttab.src#TP_TOX_SELECT.RB_FROMOBJECTNAMES.radiobutton.text
 msgid "Object names"
@@ -26241,7 +26243,7 @@ msgstr "Frámaí téa~cs"
 
 #: cnttab.src#TP_TOX_SELECT.CB_LEVELFROMCHAPTER.checkbox.text
 msgid "Use level from source chapter"
-msgstr ""
+msgstr "Úsáid leibhéal ón chaibidil fhoinseach"
 
 #: cnttab.src#TP_TOX_SELECT.RES_SRCTYPES.1.1.itemlist.text
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SM_EDITOPTIONS.1.itemlist.text
@@ -26328,7 +26330,7 @@ msgstr "A"
 #: cnttab.src#TP_TOX_ENTRY.WIN_TOKEN.STR_TOKEN_HELP_ENTRY_NO.string.text
 #: fldui.src#FMT_CHAPTER_NO.string.text
 msgid "Chapter number"
-msgstr ""
+msgstr "Uimhir na caibidle"
 
 #: cnttab.src#TP_TOX_ENTRY.WIN_TOKEN.STR_TOKEN_HELP_ENTRY.string.text
 #: idxmrk.src#AUTH_DIALOG_WINDOW.WIN_DLG.FL_ENTRY.fixedline.text
@@ -26344,7 +26346,7 @@ msgstr "Tábstop"
 
 #: cnttab.src#TP_TOX_ENTRY.WIN_TOKEN.STR_TOKEN_HELP_CHAPTER_INFO.string.text
 msgid "Chapter info"
-msgstr ""
+msgstr "Eolas faoin chaibidil"
 
 #: cnttab.src#TP_TOX_ENTRY.WIN_TOKEN.STR_TOKEN_HELP_LINK_START.string.text
 msgid "Hyperlink start"
@@ -26364,7 +26366,7 @@ msgstr "Stíl Carachtair: "
 
 #: cnttab.src#TP_TOX_ENTRY.PB_ENTRYNO.pushbutton.text
 msgid "Chapter no."
-msgstr ""
+msgstr "Uimh. na caibidle"
 
 #: cnttab.src#TP_TOX_ENTRY.PB_ENTRY.pushbutton.text
 msgid "Entry text"
@@ -26372,11 +26374,11 @@ msgstr "Téacs na hiontrála"
 
 #: cnttab.src#TP_TOX_ENTRY.PB_CHAPTERINFO.pushbutton.text
 msgid "~Chapter info"
-msgstr ""
+msgstr "Eolas faoin ~chaibidil"
 
 #: cnttab.src#TP_TOX_ENTRY.PB_PAGENO.pushbutton.text
 msgid "Page no."
-msgstr ""
+msgstr "Uimh. an leathanaigh"
 
 #: cnttab.src#TP_TOX_ENTRY.PB_HYPERLINK.pushbutton.text
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_EditHyperlink.Label.value.text
@@ -26402,11 +26404,11 @@ msgstr "Cur síos amháin"
 
 #: cnttab.src#TP_TOX_ENTRY.LB_CHAPTERENTRY.3.stringlist.text
 msgid "Number range and description"
-msgstr ""
+msgstr "Raon uimhreach agus cur síos"
 
 #: cnttab.src#TP_TOX_ENTRY.FT_TABPOS.fixedtext.text
 msgid "Tab stop position"
-msgstr ""
+msgstr "Ionad an tábstop"
 
 #: cnttab.src#TP_TOX_ENTRY.FL_ENTRY.fixedline.text
 msgid "Structure and Formatting"
@@ -26418,7 +26420,7 @@ msgstr ""
 
 #: cnttab.src#TP_TOX_ENTRY.FT_MAIN_ENTRY_STYLE.fixedtext.text
 msgid "Character Style for main entries"
-msgstr ""
+msgstr "Stíl Charachtair i gcomhair príomhiontrálacha"
 
 #: cnttab.src#TP_TOX_ENTRY.CB_ALPHADELIM.checkbox.text
 msgid "Alphabetical delimiter"
@@ -26430,7 +26432,7 @@ msgstr "Eochair deighilte le camóga"
 
 #: cnttab.src#TP_TOX_ENTRY.RB_DOCPOS.radiobutton.text
 msgid "Document ~position "
-msgstr ""
+msgstr "Ionad na ~cáipéise "
 
 #: cnttab.src#TP_TOX_ENTRY.RB_SORTCONTENT.radiobutton.text
 msgid "~Content"
@@ -26483,11 +26485,11 @@ msgstr "Sannadh"
 
 #: cnttab.src#DLG_ADD_IDX_STYLES.ST_HB_FIRST.string.text
 msgid "Not applied"
-msgstr ""
+msgstr "Nach i bhfeidhm"
 
 #: cnttab.src#DLG_ADD_IDX_STYLES.modaldialog.text
 msgid "Assign Styles"
-msgstr ""
+msgstr "Sann Stíleanna"
 
 #: cnttab.src#DLG_CREATE_AUTOMARK.BB_ENTRIES.ST_SEARCH.string.text
 msgid "Search term"
@@ -26603,7 +26605,7 @@ msgstr "Ó bhunachar sonraí ~bibleagrafaíochta"
 
 #: idxmrk.src#AUTH_DIALOG_WINDOW.WIN_DLG.RB_FROMDOCCONTENT.radiobutton.text
 msgid "~From document content"
-msgstr ""
+msgstr "Ó ábhar na ~cáipéise"
 
 #: idxmrk.src#AUTH_DIALOG_WINDOW.WIN_DLG.FT_ENTRY.fixedtext.text
 msgid "Short ~name"
@@ -26662,7 +26664,7 @@ msgstr "Socruithe Fonóta"
 #: docfnote.src#TP_FOOTNOTEOPTION.FL_NUM.fixedline.text
 #: docfnote.src#TP_ENDNOTEOPTION.FL_NUM.fixedline.text
 msgid "AutoNumbering"
-msgstr ""
+msgstr "UathUimhriú"
 
 #: docfnote.src#TP_FOOTNOTEOPTION.FT_NUMTYPE.fixedtext.text
 msgid "Num~bering"
@@ -26729,7 +26731,7 @@ msgstr "Fógra leanúna"
 
 #: docfnote.src#TP_FOOTNOTEOPTION.FT_CONT.fixedtext.text
 msgid "End ~of footnote"
-msgstr ""
+msgstr "Deireadh an fh~onóta"
 
 #: docfnote.src#TP_FOOTNOTEOPTION.FT_CONT_FROM.fixedtext.text
 msgid "Star~t of next page"
@@ -26737,7 +26739,7 @@ msgstr "~Tosach an chéad leathanaigh eile"
 
 #: docfnote.src#RB_POS_PAGE.radiobutton.text
 msgid "End ~of page"
-msgstr ""
+msgstr "Deireadh an ~leathanaigh"
 
 #: docfnote.src#RB_POS_CHAPTER.radiobutton.text
 msgid "End of ~document"
@@ -26753,7 +26755,7 @@ msgstr "An leathanach ~seo chugainn"
 
 #: glosbib.src#DLG_BIB_BASE.FT_SELECT.fixedtext.text
 msgid "Selection list"
-msgstr ""
+msgstr "Liosta roghnúchán"
 
 #: glosbib.src#DLG_BIB_BASE.modaldialog.text
 msgid "Edit Categories"
@@ -26761,7 +26763,7 @@ msgstr "Cuir Catagóirí in Eagar"
 
 #: glossary.src#DLG_GLOSSARY.CB_INSERT_TIP.checkbox.text
 msgid "~Display remainder of name as suggestion while typing"
-msgstr ""
+msgstr "~Taispeáin an cuid eile den ainm mar mholadh le linn clóscríofa"
 
 #: glossary.src#DLG_GLOSSARY.FT_SHORTNAME.fixedtext.text
 #: glossary.src#DLG_RENAME_GLOS.FT_NS.fixedtext.text
@@ -26881,7 +26883,7 @@ msgstr "Sábháil UathThéacs"
 
 #: glossary.src#MSG_NO_GLOSSARIES.infobox.text
 msgid "There is no AutoText in this file."
-msgstr ""
+msgstr "Níl aon UathThéacs sa chomhad seo."
 
 #: insfnote.src#DLG_INS_FOOTNOTE.RB_NUMBER_CHAR.radiobutton.text
 #: srtdlg.src#DLG_SORTING.RB_TABCH.radiobutton.text
@@ -26945,7 +26947,7 @@ msgstr "~Atosaigh le gach leathanach nua"
 
 #: linenum.src#TP_LINENUMBERING.tabpage.text
 msgid "Line Numbering"
-msgstr ""
+msgstr "Uimhriú na Línte"
 
 #: num.src#TP_NUM_POSITION.FL_POSITION.fixedline.text
 #: numpages.src#RID_SVXPAGE_NUM_POSITION.FL_POSITION.fixedline.text
@@ -26960,7 +26962,7 @@ msgstr "Coi~bhneasta"
 
 #: num.src#TP_NUM_POSITION.FT_INDENT.fixedtext.text
 msgid "Space to te~xt"
-msgstr ""
+msgstr "Spás go téa~cs"
 
 #: num.src#TP_NUM_POSITION.FT_NUMDIST.fixedtext.text
 msgid "~Minimum space numbering <-> text"
@@ -27098,7 +27100,7 @@ msgstr "~Uasairde fonóta"
 #: pgfnote.src#TP_FOOTNOTE_PAGE.FT_DIST.fixedtext.text
 #: drpcps.src#TP_DROPCAPS.TXT_DISTANCE.fixedtext.text
 msgid "Space to text"
-msgstr ""
+msgstr "Spás go téacs"
 
 #: pgfnote.src#TP_FOOTNOTE_PAGE.FL_FOOTNOTE_SIZE.fixedline.text
 msgid "Footnote area"
@@ -27122,7 +27124,7 @@ msgstr ""
 
 #: pggrid.src#TP_TEXTGRID_PAGE.FL_LAYOUT.fixedline.text
 msgid "Grid layout"
-msgstr ""
+msgstr "Leagan amach na greille"
 
 #: pggrid.src#TP_TEXTGRID_PAGE.FT_LINESPERPAGE.fixedtext.text
 msgid "Lines per page"
@@ -27130,7 +27132,7 @@ msgstr "Línte sa leathanach"
 
 #: pggrid.src#TP_TEXTGRID_PAGE.FT_TEXTSIZE.fixedtext.text
 msgid "Max. base text size"
-msgstr ""
+msgstr "Uasmhéid an bhuntéacs"
 
 #: pggrid.src#TP_TEXTGRID_PAGE.FT_CHARSPERLINE.fixedtext.text
 msgid "Characters per line"
@@ -27138,7 +27140,7 @@ msgstr "Carachtair sa líne"
 
 #: pggrid.src#TP_TEXTGRID_PAGE.FT_RUBYSIZE.fixedtext.text
 msgid "Max. Ruby text size"
-msgstr ""
+msgstr "Uasmhéid an téacs Ruby"
 
 #: pggrid.src#TP_TEXTGRID_PAGE.CB_RUBYBELOW.checkbox.text
 msgid "Ruby text below/left from base text"
@@ -27146,7 +27148,7 @@ msgstr ""
 
 #: pggrid.src#TP_TEXTGRID_PAGE.FL_DISPLAY.fixedline.text
 msgid "Grid display"
-msgstr ""
+msgstr "Taispeáint na greille"
 
 #: pggrid.src#TP_TEXTGRID_PAGE.CB_DISPLAY.checkbox.text
 msgid "Display grid"
@@ -27200,7 +27202,7 @@ msgstr "Socrú"
 
 #: srtdlg.src#MSG_SRTERR.infobox.text
 msgid "Cannot sort selection"
-msgstr ""
+msgstr "Ní féidir an roghnúchán a shórtáil"
 
 #: ccoll.src#TP_CONDCOLL.CB_CONDITION.checkbox.text
 msgid "~Conditional Style"
@@ -27474,7 +27476,7 @@ msgstr "Stíleanna Téacs"
 
 #: app.src#DLG_STYLE_DESIGNER.Absatzvorlagen.6.filterlist.text
 msgid "Chapter Styles"
-msgstr ""
+msgstr "Stíleanna Caibidle"
 
 #: app.src#DLG_STYLE_DESIGNER.Absatzvorlagen.7.filterlist.text
 #: app.src#DLG_STYLE_DESIGNER.Listenformatvorlagen.sfxstylefamilyitem.text
@@ -27602,7 +27604,7 @@ msgstr "Innéacs á Nuashonrú..."
 
 #: app.src#STR_STATSTR_SUMMARY.string.text
 msgid "Creating abstract..."
-msgstr ""
+msgstr "Coimriú á chruthú..."
 
 #: app.src#STR_STATSTR_SWGPRTOLENOTIFY.string.text
 msgid "Adapt Objects..."
@@ -27690,6 +27692,8 @@ msgid ""
 "The data source \\'%1\\' was not found.\\nCheck the settings in \\'Tools - "
 "Data Sources...\\'"
 msgstr ""
+"Níor aimsíodh foinse sonraí \\'%1\\'.\\nSeiceáil na socruithe i \\'Uirlisí - "
+"Foinsí Sonraí...\\'"
 
 #: app.src#MSG_DATA_SOURCES_UNAVAILABLE.warningbox.text
 msgid ""
@@ -27712,7 +27716,7 @@ msgstr ""
 #: error.src#STR_COMCORE_READERROR.string.text
 #: errtxt.src#RID_ERRHDL.ERRCODE_CLASS_READ.string.text
 msgid "Read-Error"
-msgstr ""
+msgstr "Earráid sa Léamh"
 
 #: error.src#STR_COMCORE_CANT_SHOW.string.text
 msgid "Graphic cannot be displayed."
@@ -27724,7 +27728,7 @@ msgstr "Tharla earráid le linn cóipeála go dtí an ghearrthaisce."
 
 #: error.src#ERR_CLPBRD_READ.infobox.text
 msgid "Error reading from the clipboard."
-msgstr ""
+msgstr "Earráid agus sonraí á léamh ón ghearrthaisce."
 
 #: error.src#RID_SW_ERRHDL.ERR_CODE___ERRCODE_CLASS_READ___ERR_SWG_FILE_FORMAT_ERROR__.string.text
 msgid "File format error found"
@@ -27733,11 +27737,11 @@ msgstr ""
 #: error.src#RID_SW_ERRHDL.ERR_CODE___ERRCODE_CLASS_READ___ERR_SWG_READ_ERROR__.string.text
 #: errtxt.src#RID_ERRHDL.ERRCODE_SFX_DOLOADFAILED.string.text
 msgid "Error reading file "
-msgstr ""
+msgstr "Earráid agus comhad á léamh "
 
 #: error.src#RID_SW_ERRHDL.ERR_CODE___ERRCODE_CLASS_READ___ERR_SW6_INPUT_FILE__.string.text
 msgid "Input file error"
-msgstr ""
+msgstr "Earráid agus inchomhad á léamh"
 
 #: error.src#RID_SW_ERRHDL.ERR_CODE___ERRCODE_CLASS_READ___ERR_SW6_NOWRITER_FILE__.string.text
 msgid "This is not a %PRODUCTNAME Writer file"
@@ -27768,11 +27772,11 @@ msgstr "Earráid agus comhad sealadach á scríobh"
 
 #: error.src#RID_SW_ERRHDL.ERR_CODE___ERRCODE_CLASS_READ___ERR_EXCLOT_WRONG_RANGE__.string.text
 msgid "Inserted section in ini file too large"
-msgstr ""
+msgstr "Is rómhór é an rannán ionsáite sa chomhad ini"
 
 #: error.src#RID_SW_ERRHDL.ERR_CODE___ERRCODE_CLASS_READ___ERR_SWG_NEW_VERSION__.string.text
 msgid "File has been written in a newer version"
-msgstr ""
+msgstr "Scríobhadh an comhad i leagan níos nuaí"
 
 #: error.src#RID_SW_ERRHDL.ERR_CODE___ERRCODE_CLASS_READ___ERR_WW8_NO_WW8_FILE_ERR__.string.text
 msgid "This is not a WinWord97 file"
@@ -27780,11 +27784,11 @@ msgstr "Ní comhad WinWord97 é seo"
 
 #: error.src#RID_SW_ERRHDL.ERR_CODE___ERRCODE_CLASS_WRITE___ERR_SWG_WRITE_ERROR__.string.text
 msgid "Error writing file "
-msgstr ""
+msgstr "Earráid agus comhad á scríobh "
 
 #: error.src#RID_SW_ERRHDL.ERR_CODE___ERRCODE_CLASS_WRITE___ERR_SWG_OLD_GLOSSARY__.string.text
 msgid "Wrong AutoText document version"
-msgstr ""
+msgstr "Leagan mícheart de cháipéis UathThéacs"
 
 #: error.src#RID_SW_ERRHDL.ERR_CODE___ERRCODE_CLASS_WRITE___ERR_SWG_CANNOT_WRITE__.string.text
 msgid "The document cannot be created"
@@ -27842,7 +27846,7 @@ msgstr "Níl $(ARG1) ann"
 
 #: error.src#RID_SW_ERRHDL.ERR_CODE___ERRCODE_CLASS_NONE___ERR_TBLSPLIT_ERROR__.string.text
 msgid "Cells cannot be further split"
-msgstr ""
+msgstr "Ní féidir cealla a roinnt a thuilleadh"
 
 #: error.src#RID_SW_ERRHDL.ERR_CODE___ERRCODE_CLASS_NONE___ERR_TBLINSCOL_ERROR__.string.text
 msgid "Additional columns cannot be inserted"
@@ -27850,7 +27854,7 @@ msgstr "Ní féidir níos mó colúin a ionsá"
 
 #: error.src#RID_SW_ERRHDL.ERR_CODE___ERRCODE_CLASS_NONE___ERR_TBLDDECHG_ERROR__.string.text
 msgid "The structure of a linked table cannot be modified"
-msgstr ""
+msgstr "Ní féidir struchtúr de thábla nasctha a mhionathrú"
 
 #: error.src#RID_SW_ERRHDL.WARN_CODE___ERRCODE_CLASS_READ___WARN_SWG_NO_DRAWINGS__.string.text
 msgid "No drawings could be read"
@@ -27858,11 +27862,11 @@ msgstr "Ní féidir aon líníocht a léamh"
 
 #: error.src#RID_SW_ERRHDL.WARN_CODE___ERRCODE_CLASS_READ___WARN_SWG_FEATURES_LOST__.string.text
 msgid "Not all attributes could be read"
-msgstr ""
+msgstr "Níorbh fhéidir gach tréith a léamh"
 
 #: error.src#RID_SW_ERRHDL.WARN_CODE___ERRCODE_CLASS_WRITE___WARN_SWG_FEATURES_LOST__.string.text
 msgid "Not all attributes could be recorded"
-msgstr ""
+msgstr "Níor fhéidir gach tréith a thaifeadadh"
 
 #: error.src#RID_SW_ERRHDL.WARN_CODE___ERRCODE_CLASS_READ___WARN_SWG_OLE__.string.text
 msgid "Some OLE objects could only be loaded as graphics"
@@ -27967,7 +27971,7 @@ msgstr "~Fráma..."
 #: mn.src#MN_TAB_POPUPMENU.FN_VIEW_TABLEGRID.menuitem.text
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_TableBoundaries.Label.value.text
 msgid "Table Boundaries"
-msgstr ""
+msgstr "Teorainneacha Tábla"
 
 #: mn.src#MN_TAB_POPUPMENU.FN_SET_MODOPT_TBLNUMFMT.menuitem.text
 msgid "~Number Recognition"
@@ -27999,7 +28003,7 @@ msgstr "Timfhilleadh ~Optamach Leathanaigh"
 #: mn.src#MN_WRAP_DRAW.MN_WRAP.FN_FRAME_WRAPTHRU.menuitem.text
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_WrapThrough.Label.value.text
 msgid "~Wrap Through"
-msgstr ""
+msgstr "~Timfhill Trí"
 
 #: mn.src#MN_MOUSE_FRAME_BEGIN.MN_WRAP.FN_FRAME_WRAPTHRU_TRANSP.menuitem.text
 #: mn.src#MN_WRAP_DRAW.MN_WRAP.FN_FRAME_WRAPTHRU_TRANSP.menuitem.text
@@ -28101,11 +28105,11 @@ msgstr "Déan neamhshuim ar gach"
 
 #: olmenu.src#STR_WORD.string.text
 msgid "Word is "
-msgstr ""
+msgstr "Focal: "
 
 #: olmenu.src#STR_PARAGRAPH.string.text
 msgid "Paragraph is "
-msgstr ""
+msgstr "Alt: "
 
 #: olmenu.src#STR_HYP_OK.string.text
 msgid "Hyphenation completed"
@@ -28128,7 +28132,7 @@ msgstr "Greille Téacs"
 #: tmpdlg.src#DLG_TEMPLATE_3.tabdialog.text
 #: svxitems.src#RID_SVXITEMS_SEARCHSTYL_FRAME.string.text
 msgid "Frame Style"
-msgstr ""
+msgstr "Stíl Fhráma"
 
 #: web.src#STR_WRITER_WEBDOC_FULLTYPE_40.string.text
 msgid "%PRODUCTNAME 4.0 HTML"
@@ -28281,7 +28285,7 @@ msgstr "Níor sonraíodh foinse."
 
 #: view.src#STR_ERROR_NOLANG.string.text
 msgid "No language is selected in the proofed section."
-msgstr ""
+msgstr "Níl aon teanga roghnaithe sa rannán seiceáilte."
 
 #: view.src#STR_EDIT_FOOTNOTE.string.text
 msgid "Edit Footnote"
@@ -28289,7 +28293,7 @@ msgstr "Cuir Fonóta in Eagar"
 
 #: view.src#STR_NB_REPLACED.string.text
 msgid "Search key replaced XX times."
-msgstr ""
+msgstr "Athchuireadh an eochair chuardaigh XX uair."
 
 #: view.src#RID_TOOLS_TOOLBOX.string.text app.src#RID_DRAW_TOOLBOX.string.text
 #: tbxopdlg.src#STR_TOOLBAR.string.text
@@ -28309,12 +28313,12 @@ msgstr "Colún "
 #: view.src#STR_PRINT_TITLE.string.text
 #: prtqry.src#RID_SVXSTR_QRY_PRINT_TITLE.string.text
 msgid "Printing selection"
-msgstr ""
+msgstr "Roghnúchán á phriontáil"
 
 #: view.src#STR_PRINT_MSG.string.text
 #: prtqry.src#RID_SVXSTR_QRY_PRINT_MSG.string.text
 msgid "Do you want to print the selection or the entire document?"
-msgstr ""
+msgstr "Ar mhaith leat an roghnúchán nó an cháipéis iomlán a phriontáil?"
 
 #: view.src#STR_SAVEAS_SRC.string.text
 msgid "~Export source..."
@@ -28374,7 +28378,7 @@ msgstr ""
 
 #: changedb.src#DLG_CHANGE_DB.FT_DOCDBTEXT.fixedtext.text
 msgid "Database applied to document:"
-msgstr ""
+msgstr "Bunachar sonraí curtha i bhfeidhm ar cháipéis:"
 
 #: changedb.src#DLG_CHANGE_DB.FT_DOCDBNAME.fixedtext.text
 msgid "Addresses.Addresses"
@@ -28397,7 +28401,7 @@ msgstr "~Coinníoll"
 #: flddb.src#TP_FLD_DB.FT_DBSETNUMBER.fixedtext.text
 #: fldui.src#STR_DBSETNUMBERFLD.string.text fldui.src#STR_SETNO.string.text
 msgid "Record number"
-msgstr ""
+msgstr "Uimhir an taifid"
 
 #: flddb.src#TP_FLD_DB.FT_DBSELECTION.fixedtext.text
 msgid "Database s~election"
@@ -28430,7 +28434,7 @@ msgstr "Dáta Am Údar"
 #: flddinf.src#TP_FLD_DOKINF.CB_DOKINFFIXEDCONTENT.checkbox.text
 #: flddok.src#TP_FLD_DOK.CB_DOKFIXEDCONTENT.checkbox.text
 msgid "~Fixed content"
-msgstr ""
+msgstr "Á~bhar seasta"
 
 #: flddinf.src#TP_FLD_DOKINF.STR_DOKINF_INFO.string.text
 msgid "Info"
@@ -28449,11 +28453,11 @@ msgstr "~Fritháireamh"
 
 #: flddok.src#TP_FLD_DOK.STR_DOKDATEOFF.string.text
 msgid "Offs~et in days"
-msgstr ""
+msgstr "Fritháir~eamh (laethanta)"
 
 #: flddok.src#TP_FLD_DOK.STR_DOKTIMEOFF.string.text
 msgid "Offs~et in minutes"
-msgstr ""
+msgstr "Fritháir~eamh (nóiméid)"
 
 #: fldfunc.src#TP_FLD_FUNC.FT_FUNCCOND1.fixedtext.text
 msgid "Then"
@@ -28574,11 +28578,11 @@ msgstr "Luchtaigh URL"
 
 #: fldui.src#STR_COMBINED_CHARS.string.text
 msgid "Combine characters"
-msgstr ""
+msgstr "Comhshnaidhm carachtair"
 
 #: fldui.src#STR_DROPDOWN.string.text
 msgid "Input list"
-msgstr ""
+msgstr "Liosta ionchurtha"
 
 #: fldui.src#STR_SETREFFLD.string.text
 #: ctredlin.src#SID_REDLIN_FILTER_PAGE.BTN_REF.pushbutton.quickhelptext
@@ -28691,15 +28695,15 @@ msgstr "múchta"
 
 #: fldui.src#FMT_CHAPTER_NAME.string.text
 msgid "Chapter name"
-msgstr ""
+msgstr "Ainm na caibidle"
 
 #: fldui.src#FMT_CHAPTER_NO_NOSEPARATOR.string.text
 msgid "Chapter number without separator"
-msgstr ""
+msgstr "Uimhir na caibidle gan deighilteoir"
 
 #: fldui.src#FMT_CHAPTER_NAMENO.string.text
 msgid "Chapter number and name"
-msgstr ""
+msgstr "Uimhir agus ainm na caibidle"
 
 #: fldui.src#FMT_NUM_ROMAN.string.text
 msgid "Roman (I II III)"
@@ -28729,7 +28733,7 @@ msgstr "Ansin, Nó"
 
 #: fldui.src#STR_DDE_CMD.string.text
 msgid "DDE Statement"
-msgstr ""
+msgstr "Ráiteas DDE"
 
 #: fldui.src#STR_INSTEXT.string.text
 msgid "Hidden t~ext"
@@ -28873,7 +28877,7 @@ msgstr "~Eile: "
 
 #: convert.src#DLG_CONV_TEXT_TABLE.CB_KEEPCOLUMN.checkbox.text
 msgid "Equal width for all columns"
-msgstr ""
+msgstr "Gach colún den leithead céanna"
 
 #: convert.src#DLG_CONV_TEXT_TABLE.FL_DELIM.fixedline.text
 msgid "Separate text at"
@@ -28882,13 +28886,13 @@ msgstr "Deighil téacs ag"
 #: convert.src#DLG_CONV_TEXT_TABLE.CB_REPEAT_HEADER.checkbox.text
 #: instable.src#DLG_INSERT_TABLE.CB_REPEAT_HEADER.checkbox.text
 msgid "Repeat heading"
-msgstr ""
+msgstr "Athdhéan an ceannteideal"
 
 #: convert.src#DLG_CONV_TEXT_TABLE.FT_REPEAT_HEADER.fixedtext.text
 #: instable.src#DLG_INSERT_TABLE.FT_REPEAT_HEADER.fixedtext.text
 #: tabledlg.src#TP_TABLE_TEXTFLOW.FT_REPEAT_HEADER.fixedtext.text
 msgid "The first%POSITION_OF_CONTROLrows"
-msgstr ""
+msgstr "An chéad%POSITION_OF_CONTROLró"
 
 #: convert.src#DLG_CONV_TEXT_TABLE.CB_DONT_SPLIT.checkbox.text
 #: instable.src#DLG_INSERT_TABLE.CB_DONT_SPLIT.checkbox.text
@@ -28926,7 +28930,7 @@ msgstr " Colún"
 
 #: mergetbl.src#DLG_MERGE_TABLE.RB_MERGE_PREV.radiobutton.text
 msgid "Join with ~previous table"
-msgstr ""
+msgstr "Ceangail leis an tábla ~roimhe seo"
 
 #: mergetbl.src#DLG_MERGE_TABLE.RB_MERGE_NEXT.radiobutton.text
 msgid "Join with ~next table"
@@ -29013,7 +29017,7 @@ msgstr "~Thíos"
 
 #: tabledlg.src#TP_TABLE_COLUMN.CB_MOD_TBL.checkbox.text
 msgid "Adapt table ~width"
-msgstr ""
+msgstr "Oiriúnaigh ~leithead an tábla"
 
 #: tabledlg.src#TP_TABLE_COLUMN.CB_PROP.checkbox.text
 msgid "Ad~just columns proportionally"
@@ -29056,7 +29060,7 @@ msgstr "~Coinnigh leis an chéad alt eile"
 
 #: tabledlg.src#TP_TABLE_TEXTFLOW.CB_HEADLINE.checkbox.text
 msgid "R~epeat heading"
-msgstr ""
+msgstr "Athdhéan an c~eannteideal"
 
 #: tabledlg.src#TP_TABLE_TEXTFLOW.FT_VERTORIENT.fixedtext.text
 msgid "~Vertical alignment"
@@ -29130,7 +29134,7 @@ msgstr "Níos Mó"
 
 #: inputwin.src#MN_CALC_POPUP.MN_POP_OPS.MN_CALC_OR.menuitem.text
 msgid "Boolean Or"
-msgstr ""
+msgstr "Or Boole"
 
 #: inputwin.src#MN_CALC_POPUP.MN_POP_OPS.MN_CALC_XOR.menuitem.text
 msgid "Boolean Xor"
@@ -29533,11 +29537,11 @@ msgstr "Ionsáigh uimhriú"
 
 #: undo.src#STR_NUMUP.string.text
 msgid "Promote level"
-msgstr ""
+msgstr "Ardaigh leibhéal"
 
 #: undo.src#STR_NUMDOWN.string.text
 msgid "Demote level"
-msgstr ""
+msgstr "Ísligh leibhéal"
 
 #: undo.src#STR_MOVENUM.string.text
 msgid "Move paragraphs"
@@ -29777,7 +29781,7 @@ msgstr "athruithe iomadúla"
 
 #: undo.src#STR_N_REDLINES.string.text
 msgid "$1 changes"
-msgstr ""
+msgstr "$1 athrú"
 
 #: undo.src#STR_UNDO_PAGEDESC.string.text
 msgid "Change page style: $1"
@@ -30127,7 +30131,7 @@ msgstr "~Spásáil"
 #: attrib3.src#TP_OPTIONS.CB_CONNECTOR.checkbox.text
 #: tp_SeriesToAxis.src#TP_OPTIONS.CB_CONNECTOR.checkbox.text
 msgid "Connection Lines"
-msgstr ""
+msgstr "Línte Ceangail"
 
 #: attrib4.src#TP_DATA_DESCR.CB_VALUE.checkbox.text
 #: datdescr.src#DLG_DATA_DESCR.CB_VALUE.checkbox.text
@@ -30147,7 +30151,7 @@ msgstr "mar ~chéatadán"
 #: attrib4.src#TP_DATA_DESCR.CB_TEXT.checkbox.text
 #: datdescr.src#DLG_DATA_DESCR.CB_TEXT.checkbox.text
 msgid "Sho~w label text"
-msgstr ""
+msgstr "Taispeáin téacs an ~lipéid"
 
 #: attrib4.src#TP_DATA_DESCR.CB_SYMBOL.checkbox.text
 #: datdescr.src#DLG_DATA_DESCR.CB_SYMBOL.checkbox.text
@@ -30291,11 +30295,11 @@ msgstr "Lipéid shonraí"
 
 #: dgrdata.src#FLTWIN_DIAGRAM_DATA.TBX_DATA.TBI_DATA_SWAP_COL.toolboxitem.text
 msgid "Switch Columns"
-msgstr ""
+msgstr "Malartaigh Colúin"
 
 #: dgrdata.src#FLTWIN_DIAGRAM_DATA.TBX_DATA.TBI_DATA_SWAP_ROW.toolboxitem.text
 msgid "Switch Rows"
-msgstr ""
+msgstr "Malartaigh Rónna"
 
 #: dgrdata.src#FLTWIN_DIAGRAM_DATA.TBX_DATA.TBI_DATA_SORT_ROW.toolboxitem.text
 msgid "Sort Columns"
@@ -30319,7 +30323,7 @@ msgstr "Cuir i bhFeidhm ar an gCairt"
 
 #: dgrdata.src#FLTWIN_DIAGRAM_DATA.floatingwindow.text
 msgid "Chart Data"
-msgstr "Sonraí Cairte"
+msgstr "Sonraí na Cairte"
 
 #: diagrtyp.src#DLG_DIAGRAM_TYPE.FL_DIMENSION.fixedline.text
 #: dlg_ChartType.src#DLG_DIAGRAM_TYPE.FL_DIMENSION.fixedline.text
@@ -30344,12 +30348,12 @@ msgstr "Cineál cair~te"
 #: diagrtyp.src#DLG_DIAGRAM_TYPE.FT_VARIANT.fixedtext.text
 #: dlg_ChartType.src#DLG_DIAGRAM_TYPE.FT_VARIANT.fixedtext.text
 msgid "~Variants:"
-msgstr ""
+msgstr "~Foirmeacha Malartacha:"
 
 #: diagrtyp.src#DLG_DIAGRAM_TYPE.FT_DEEP.fixedtext.text
 #: dlg_ChartType.src#DLG_DIAGRAM_TYPE.FT_DEEP.fixedtext.text
 msgid "~Data points order"
-msgstr ""
+msgstr "Or~d na bpointí sonraí"
 
 #: diagrtyp.src#DLG_DIAGRAM_TYPE.FT_NUM_OF_LINES.fixedtext.text
 #: dlg_ChartType.src#DLG_DIAGRAM_TYPE.FT_NUM_OF_LINES.fixedtext.text
@@ -30378,12 +30382,12 @@ msgstr "Roghnaigh ~cineál cairte"
 
 #: dlggraut.src#DLG_CHART_WIZ.FT_2_CHARTVARIANT.fixedtext.text
 msgid "Choose a ~variant"
-msgstr ""
+msgstr "Roghnaigh ~foirm mhalartach"
 
 #: dlggraut.src#DLG_CHART_WIZ.FL_2_GRID.fixedline.text
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_CALCGRID.fixedtext.text
 msgid "Grid lines"
-msgstr ""
+msgstr "Línte greille"
 
 #: dlggraut.src#DLG_CHART_WIZ.CB_3_TEXTTITLE.checkbox.text
 msgid "Chart ~title"
@@ -30636,36 +30640,36 @@ msgstr "A~is"
 #: MenuItems_tmpl.hrc#MN_DIAGRAM_GRID.SID_DIAGRAM_GRID.SID_DIAGRAM_GRID_X_MAIN.menuitem.text
 #: ChartCommands.xcu#..ChartCommands.UserInterface.Commands..uno_DiagramGridYMain.Label.value.text
 msgid "~X Axis Main Grid..."
-msgstr ""
+msgstr "Príomhghreille ar ~X-Ais..."
 
 #: menuids_tmpl.src#MN_DIAGRAM_GRID.SID_DIAGRAM_GRID.SID_DIAGRAM_GRID_X_MAIN.menuitem.text
 #: MenuItems_tmpl.hrc#MN_DIAGRAM_GRID.SID_DIAGRAM_GRID.SID_DIAGRAM_GRID_Y_MAIN.menuitem.text
 #: ChartCommands.xcu#..ChartCommands.UserInterface.Commands..uno_DiagramGridXMain.Label.value.text
 msgid "~Y Axis Main Grid..."
-msgstr ""
+msgstr "Príomhghreille ar ~Y-Ais..."
 
 #: menuids_tmpl.src#MN_DIAGRAM_GRID.SID_DIAGRAM_GRID.SID_DIAGRAM_GRID_Z_MAIN.menuitem.text
 #: MenuItems_tmpl.hrc#MN_DIAGRAM_GRID.SID_DIAGRAM_GRID.SID_DIAGRAM_GRID_Z_MAIN.menuitem.text
 #: ChartCommands.xcu#..ChartCommands.UserInterface.Commands..uno_DiagramGridZMain.Label.value.text
 msgid "~Z Axis Main Grid..."
-msgstr ""
+msgstr "Príomhghreille ar ~Z-Ais..."
 
 #: menuids_tmpl.src#MN_DIAGRAM_GRID.SID_DIAGRAM_GRID.SID_DIAGRAM_GRID_Y_HELP.menuitem.text
 #: MenuItems_tmpl.hrc#MN_DIAGRAM_GRID.SID_DIAGRAM_GRID.SID_DIAGRAM_GRID_X_HELP.menuitem.text
 msgid "~X Axis ~Minor Grid..."
-msgstr ""
+msgstr "~Mionghreille ar ~X-Ais..."
 
 #: menuids_tmpl.src#MN_DIAGRAM_GRID.SID_DIAGRAM_GRID.SID_DIAGRAM_GRID_X_HELP.menuitem.text
 #: MenuItems_tmpl.hrc#MN_DIAGRAM_GRID.SID_DIAGRAM_GRID.SID_DIAGRAM_GRID_Y_HELP.menuitem.text
 #: ChartCommands.xcu#..ChartCommands.UserInterface.Commands..uno_DiagramGridXHelp.Label.value.text
 msgid "Y Axis Minor ~Grid..."
-msgstr ""
+msgstr "Mion~ghreille ar Y-Ais..."
 
 #: menuids_tmpl.src#MN_DIAGRAM_GRID.SID_DIAGRAM_GRID.SID_DIAGRAM_GRID_Z_HELP.menuitem.text
 #: MenuItems_tmpl.hrc#MN_DIAGRAM_GRID.SID_DIAGRAM_GRID.SID_DIAGRAM_GRID_Z_HELP.menuitem.text
 #: ChartCommands.xcu#..ChartCommands.UserInterface.Commands..uno_DiagramGridZHelp.Label.value.text
 msgid "Z Ax~is Minor Grid..."
-msgstr ""
+msgstr "M~ionghreille ar Z-Ais..."
 
 #: menuids_tmpl.src#MN_DIAGRAM_GRID.SID_DIAGRAM_GRID.SID_DIAGRAM_GRID_ALL.menuitem.text
 #: MenuItems_tmpl.hrc#MN_DIAGRAM_GRID.SID_DIAGRAM_GRID.SID_DIAGRAM_GRID_ALL.menuitem.text
@@ -30689,7 +30693,7 @@ msgstr ""
 #: MenuItems_tmpl.hrc#MN_DIAGRAM_AREA.SID_DIAGRAM_AREA.menuitem.text
 #: ChartCommands.xcu#..ChartCommands.UserInterface.Commands..uno_DiagramArea.Label.value.text
 msgid "C~hart Area..."
-msgstr ""
+msgstr "Limistéar ~Cairte..."
 
 #: menuids_tmpl.src#MN_DIAGRAM_TYPE.SID_DIAGRAM_TYPE.menuitem.text
 #: MenuItems_tmpl.hrc#MN_DIAGRAM_TYPE.SID_DIAGRAM_TYPE.menuitem.text
@@ -30713,7 +30717,7 @@ msgstr "Lea~gan Amach"
 #: MenuItems_tmpl.hrc#MN_DIAGRAM_DATA.SID_DIAGRAM_DATA.menuitem.text
 #: ChartCommands.xcu#..ChartCommands.UserInterface.Commands..uno_DiagramData.Label.value.text
 msgid "~Chart Data"
-msgstr ""
+msgstr "~Sonraí na Cairte"
 
 #: strings.src#STR_BARS.string.text
 #: Strings_ChartTypes.src#STR_BARS.string.text
@@ -30723,7 +30727,7 @@ msgstr "Barraí"
 #: strings.src#STR_AREAS.string.text
 #: Strings_ChartTypes.src#STR_AREAS.string.text
 msgid "Areas"
-msgstr ""
+msgstr "Limistéir"
 
 #: strings.src#STR_CIRCLES.string.text
 #: Strings_ChartTypes.src#STR_CIRCLES.string.text
@@ -30866,7 +30870,7 @@ msgstr "Cineál Líne"
 
 #: strings.src#STR_UNDO_DIAGRAM_DATA.string.text
 msgid "Edit chart data"
-msgstr "Cuir na sonraí cairte in eagar"
+msgstr "Cuir sonraí na cairte in eagar"
 
 #: strings.src#STR_UNDO_EDIT_TITLE.string.text
 #: strings.src#STR_UNDO_TITLE.string.text
@@ -71744,8 +71748,8 @@ msgid "The format of the selected file is not supported."
 msgstr "Ní thacaítear le formáid an chomhaid roghnaithe."
 
 #: readme.xrm#ooo_readme.Welcome.A2.a.readmeitem.text
-msgid "Last updated $Date: 2005-04-28 22:16:26 $"
-msgstr "Nuashonrú is déanaí $Date: 2005-04-28 22:16:26 $"
+msgid "Last updated $Date: 2005-04-29 02:21:44 $"
+msgstr "Nuashonrú is déanaí $Date: 2005-04-29 02:21:44 $"
 
 #: readme.xrm#ooo_readme.Welcome.A3.a.readmeitem.text
 msgid "OpenOffice.org 2.0 ReadMe"
