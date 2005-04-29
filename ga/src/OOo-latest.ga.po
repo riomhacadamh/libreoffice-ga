@@ -30770,12 +30770,12 @@ msgstr "Cruachta"
 #: strings.src#STR_LINE_COLUMN.string.text
 #: Strings_ChartTypes.src#STR_LINE_COLUMN.string.text
 msgid "Combination Chart: Lines and Columns"
-msgstr ""
+msgstr "Cairt Teaglama: Línte agus Colúin"
 
 #: strings.src#STR_LINE_STACKEDCOLUMN.string.text
 #: Strings_ChartTypes.src#STR_LINE_STACKEDCOLUMN.string.text
 msgid "Combination Chart: Lines and stacked columns"
-msgstr ""
+msgstr "Cairt Teaglama: Línte agus colúin chruachta"
 
 #: strings.src#STR_DEEP.string.text
 #: Strings_ChartTypes.src#STR_DEEP.string.text
@@ -30818,27 +30818,27 @@ msgstr "Z-Ais"
 
 #: strings.src#STR_DIAGRAM_X_GRID_MAIN.string.text
 msgid "X axis main grid"
-msgstr ""
+msgstr "Príomhghreille ar X-Ais"
 
 #: strings.src#STR_DIAGRAM_Y_GRID_MAIN.string.text
 msgid "Y main grid"
-msgstr ""
+msgstr "Príomhghreille ar Y-ais"
 
 #: strings.src#STR_DIAGRAM_Z_GRID_MAIN.string.text
 msgid "Z main grid"
-msgstr ""
+msgstr "Príomhghreille ar Z-ais"
 
 #: strings.src#STR_DIAGRAM_X_GRID_HELP.string.text
 msgid "Minor X Grid"
-msgstr ""
+msgstr "Mionghreille X"
 
 #: strings.src#STR_DIAGRAM_Y_GRID_HELP.string.text
 msgid "Y minor grid"
-msgstr ""
+msgstr "Mionghreille Y"
 
 #: strings.src#STR_DIAGRAM_Z_GRID_HELP.string.text
 msgid "Z minor grid"
-msgstr ""
+msgstr "Mionghreille Z"
 
 #: strings.src#STR_DIAGRAM_ROW.string.text
 msgid "Data Series $(ROW)"
@@ -30846,11 +30846,11 @@ msgstr "Sraith Sonraí $(ROW)"
 
 #: strings.src#STR_DIAGRAM_DESCR_ROW.string.text
 msgid "Data rows label"
-msgstr ""
+msgstr "Lipéad ar na rónna sonraí"
 
 #: strings.src#STR_DIAGRAM_DESCR_COL.string.text
 msgid "Data columns label"
-msgstr ""
+msgstr "Lipéad ar na colúin sonraí"
 
 #: strings.src#STR_LEGEND_SYMBOL_ROW.string.text
 msgid "Data series symbol"
@@ -30883,7 +30883,7 @@ msgstr "Ionsáigh teideal"
 
 #: strings.src#STR_UNDO_INSERT_LEGEND.string.text
 msgid "Insert legend"
-msgstr ""
+msgstr "Ionsáigh eochair eolais"
 
 #: strings.src#STR_UNDO_INSERT_DESCR.string.text
 msgid "Insert data label"
@@ -30907,7 +30907,7 @@ msgstr "Cuir pointe sonraí in eagar"
 
 #: strings.src#STR_UNDO_LEGEND.string.text
 msgid "Edit legend"
-msgstr ""
+msgstr "Cuir eochair eolais in eagar"
 
 #: strings.src#STR_UNDO_DIAGRAM_AXIS.string.text
 msgid "Edit axis"
@@ -30947,15 +30947,15 @@ msgstr "Teideal ann/as"
 
 #: strings.src#STR_UNDO_TOGGLE_LEGEND.string.text
 msgid "Legend on/off"
-msgstr ""
+msgstr "Eochair eolais ann/as"
 
 #: strings.src#STR_UNDO_TOGGLE_AXIS_TITLE.string.text
 msgid "Axis titles on/off"
-msgstr ""
+msgstr "Teidil na n-aiseanna ann/as"
 
 #: strings.src#STR_UNDO_TOGGLE_AXIS_DESCR.string.text
 msgid "Axis labels on/off"
-msgstr ""
+msgstr "Lipéid na n-aiseanna ann/as"
 
 #: strings.src#STR_UNDO_TOGGLE_GRID_HORZ.string.text
 msgid "Horizontal grid on/off"
@@ -30981,11 +30981,11 @@ msgstr "Uimhir neamhbhailí"
 
 #: strings.src#STR_MINVALUE_LT_MAXVALUE.string.text
 msgid "Minimum must be lower than maximum."
-msgstr ""
+msgstr "Caithfidh an t-íosmhéid a bheith níos lú ná an t-uasmhéid."
 
 #: strings.src#STR_STEP_GT_ZERO.string.text
 msgid "Interval must be greater than 0."
-msgstr ""
+msgstr "Caithfidh an t-eatramh a bheith níos mó ná 0."
 
 #: strings.src#STR_STEPMAIN_LT_MAXVALUE.string.text
 msgid "Major interval must not be larger than the range definition."
@@ -30993,11 +30993,13 @@ msgstr ""
 
 #: strings.src#STR_STEPHELP_LT_STEPMAIN.string.text
 msgid "Minor interval must be smaller than the major interval."
-msgstr ""
+msgstr "Caithfidh an mioneatramh a bheith níos lú ná an príomheatramh."
 
 #: strings.src#STR_BAD_LOGARITHM.string.text
 msgid "In logarithm view, the origin and minimum must be greater than 0\\n."
 msgstr ""
+"San amharc logartamach, caithfidh an bunphointe agus an t-íosluach a bheith "
+"níos mó ná 0\\n."
 
 #: strings.src#STR_WRONG_ORIGIN.string.text
 msgid "The coordinate origin is less/greater than the\\nminimum/maximum value."
@@ -31289,7 +31291,7 @@ msgstr ""
 
 #: strings.src#STR_AVERAGEVALUE.string.text
 msgid "average value line"
-msgstr ""
+msgstr "líne ag an meánluach"
 
 #: strings.src#STR_DIAGRAM_ERROR.string.text
 msgid "error indicator"
@@ -31367,6 +31369,7 @@ msgstr "Ró $(N)"
 #: glob.src#STR_NO_LOGARITHMIC_MIN_VALUES.string.text
 msgid "Negative and zero values cannot be logarithmicaly portrayed."
 msgstr ""
+"Ní féidir luachanna diúltacha (nó 0) a thaispeáint ar chairt logartamach."
 
 #: glob.src#STR_NO_MIN_VALUES.string.text
 msgid "The selected chart type cannot portay negative values."
@@ -31406,7 +31409,7 @@ msgstr "SVXB (mapa giotáin/beochan StarView)"
 
 #: formats.src#STR_FORMAT_ID_INTERNALLINK_STATE.string.text
 msgid "Status Info from Svx Internal Link"
-msgstr ""
+msgstr "Eolas Stádais ó Nasc Inmheánach Svx"
 
 #: formats.src#STR_FORMAT_ID_SOLK.string.text
 msgid "SOLK (%PRODUCTNAME Link)"
@@ -31418,7 +31421,7 @@ msgstr "Leabharmharc Netscape"
 
 #: formats.src#STR_FORMAT_ID_STARSERVER.string.text
 msgid "Star server format"
-msgstr ""
+msgstr "Formáid Star server"
 
 #: formats.src#STR_FORMAT_ID_STAROBJECT.string.text
 msgid "Star object format"
@@ -31527,7 +31530,7 @@ msgstr "Réad StarMath 5.0"
 
 #: formats.src#STR_FORMAT_ID_STAROBJECT_PAINTDOC.string.text
 msgid "StarObject Paint object"
-msgstr ""
+msgstr "Réad StarObject Paint"
 
 #: formats.src#STR_FORMAT_ID_HTML.string.text
 msgid "HTML (HyperText Markup Language)"
@@ -31646,7 +31649,7 @@ msgstr "Ní féidir nasc a bhunú leis an réad."
 #: nocode.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_NOCACHE_UPDATED_S_MAX.string.text
 #: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_NOCACHE_UPDATED_S_MAX.string.text
 msgid "No cache files were updated"
-msgstr ""
+msgstr "Níor nuashonraíodh comhad taisce ar bith"
 
 #: nocode.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_SOMECACHES_NOTUPDATED_S_MAX.string.text
 #: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_SOMECACHES_NOTUPDATED_S_MAX.string.text
@@ -31656,12 +31659,12 @@ msgstr ""
 #: nocode.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_UNAVAILABLE_S_MAX.string.text
 #: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_UNAVAILABLE_S_MAX.string.text
 msgid "Status of object cannot be determined in a timely manner"
-msgstr ""
+msgstr "Ní féidir stádas an réada a chinneadh ar chaoi thráthúil"
 
 #: nocode.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_E_CLASSDIFF_S_MAX.string.text
 #: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_E_CLASSDIFF_S_MAX.string.text
 msgid "Source of the OLE link has been converted"
-msgstr ""
+msgstr "Tiontaíodh foinse an naisc OLE"
 
 #: nocode.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_NO_OBJECT_S_MAX.string.text
 #: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_NO_OBJECT_S_MAX.string.text
@@ -31672,11 +31675,12 @@ msgstr "Níorbh fhéidir an réad a aimsiú."
 #: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_EXCEEDED_DEADLINE_S_MAX.string.text
 msgid "The process could not be completed within the specified time period."
 msgstr ""
+"Níorbh fhéidir an próiseas a chur i gcrích laistigh den thréimse shonraithe."
 
 #: nocode.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_CONNECT_MANUALLY_S_MAX.string.text
 #: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_CONNECT_MANUALLY_S_MAX.string.text
 msgid "OLE could not connect to a network device (server)"
-msgstr ""
+msgstr "Níorbh fhéidir le OLE nasc a dhéanamh le gléas líonra (freastalaí)"
 
 #: nocode.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_INTERMEDIATE_INTERFACE_NOT_SUPPORTED_S_MAX.string.text
 #: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_INTERMEDIATE_INTERFACE_NOT_SUPPORTED_S_MAX.string.text
@@ -31693,12 +31697,12 @@ msgstr "Comhéadan gan tacaíocht"
 #: nocode.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_SYNTAX_S_MAX.string.text
 #: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_SYNTAX_S_MAX.string.text
 msgid "The connection name could not be processed."
-msgstr ""
+msgstr "Níorbh fhéidir ainm an naisc a phróiseáil."
 
 #: nocode.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_REDUCED_TO_SELF_S_MAX.string.text
 #: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_REDUCED_TO_SELF_S_MAX.string.text
 msgid "The connection name could not be reduced further"
-msgstr ""
+msgstr "Níorbh fhéidir ainm an naisc a mhiondealú a thuilleadh"
 
 #: nocode.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_NO_INVERSE_S_MAX.string.text
 #: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_NO_INVERSE_S_MAX.string.text
@@ -31708,7 +31712,7 @@ msgstr ""
 #: nocode.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_NO_PREFIX_S_MAX.string.text
 #: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_NO_PREFIX_S_MAX.string.text
 msgid "No common prefix exists"
-msgstr ""
+msgstr "Níl aon chomhréimír ann"
 
 #: nocode.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_HIM_S_MAX.string.text
 #: nocode.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_ME_S_MAX.string.text
@@ -31779,7 +31783,7 @@ msgstr ""
 #: nocode.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_NOVERBS___S_MAX.string.text
 #: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_NOVERBS___S_MAX.string.text
 msgid "The object does not support any actions"
-msgstr ""
+msgstr "Ní thacaíonn an réad aon ghníomh"
 
 #: nocode.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_INVALIDVERB___S_MAX.string.text
 #: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_INVALIDVERB___S_MAX.string.text
@@ -31789,12 +31793,12 @@ msgstr ""
 #: nocode.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_CONNECT___S_MAX.string.text
 #: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_CONNECT___S_MAX.string.text
 msgid "A link to the network could not be re-established."
-msgstr ""
+msgstr "Níorbh fhéidir nasc a athbhunú leis an líonra."
 
 #: nocode.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_NOTIMPL___S_MAX.string.text
 #: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_NOTIMPL___S_MAX.string.text
 msgid "Object does not support this action"
-msgstr ""
+msgstr "Ní thacaíonn an réad leis an ngníomh seo"
 
 #: nocode.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_CANTOPENFILE___S_MAX.string.text
 #: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_CANTOPENFILE___S_MAX.string.text
@@ -31873,7 +31877,7 @@ msgstr "~Airíonna"
 #: nocode.src#STR_PLUGIN_CANT_SHOW.string.text
 #: so3res.src#STR_PLUGIN_CANT_SHOW.string.text
 msgid "Plug-in % cannot be displayed."
-msgstr ""
+msgstr "Ní féidir breiseán % a thaispeáint."
 
 #: nocode.src#STR_ERROR_DDE.string.text app.src#STR_DDE_ERROR.string.text
 #: so3res.src#STR_ERROR_DDE.string.text
@@ -31904,7 +31908,7 @@ msgstr "Nuashonraigh gach nasc?"
 #: nocode.src#STR_FURTHER_OBJECT.string.text
 #: so3res.src#STR_FURTHER_OBJECT.string.text
 msgid "Further objects"
-msgstr ""
+msgstr "Réada breise"
 
 #: nocode.src#STR_UNKNOWN_SOURCE.string.text
 #: so3res.src#STR_UNKNOWN_SOURCE.string.text
@@ -31973,7 +31977,7 @@ msgstr "Nuashonraigh:"
 
 #: svuidlg.src#MD_UPDATE_BASELINKS.RB_MANUAL.radiobutton.text
 msgid "Ma~nual"
-msgstr ""
+msgstr "De ~láimh"
 
 #: svuidlg.src#MD_UPDATE_BASELINKS.STR_BROKENLINK.string.text
 msgid "Not available"
@@ -32104,6 +32108,11 @@ msgid ""
 "\\nOpenOffice.org acknowledges all community members, especially those "
 "mentioned at http://www.openoffice.org/welcome/credits.html."
 msgstr ""
+"Cóipcheart 2000-2004 Sun Microsystems Inc.\\nChruthaigh \\\" OOO_VENDOR \\\" "
+"an táirge seo, bunaithe ar OpenOffice.org de réir na coinníollacha de \\\" "
+"OOO_LICENSE \\\".\\nAithníonn OpenOffice.org an comhphobal ar fad, ach go "
+"háirithe na daoine atá luaite ag http://www.openoffice.org/welcome/credits."
+"html."
 
 #: intro_tmpl.hrc#TEXT_DEFAULTABOUT.#define.text
 msgid "About %PRODUCTNAME"
@@ -32157,7 +32166,7 @@ msgstr ""
 
 #: optaccessibility.src#RID_SVXPAGE_ACCESSIBILITYCONFIG.CB_TEXTSELECTION.checkbox.text
 msgid "Use te~xt selection cursor in read-only text documents"
-msgstr ""
+msgstr "Úsáid cúrsóir roghnaithe téa~cs i gcáipéisí léimh-amháin"
 
 #: optaccessibility.src#RID_SVXPAGE_ACCESSIBILITYCONFIG.CB_ANIMATED_GRAPHICS.checkbox.text
 msgid "Allow animated ~graphics"
@@ -32169,11 +32178,11 @@ msgstr "Ceadaigh ~téacs beoite"
 
 #: optaccessibility.src#RID_SVXPAGE_ACCESSIBILITYCONFIG.CB_TIPHELP.checkbox.text
 msgid "~Help tips disappear after "
-msgstr ""
+msgstr "Imíonn na leideanna cab~hracha tar éis "
 
 #: optaccessibility.src#RID_SVXPAGE_ACCESSIBILITYCONFIG.FL_HC_OPTIONS.fixedline.text
 msgid "Options for high contrast appearance"
-msgstr ""
+msgstr "Roghanna le haghaidh cuma ardchodarsnachta"
 
 #: optaccessibility.src#RID_SVXPAGE_ACCESSIBILITYCONFIG.CB_AUTO_DETECT_HC.checkbox.text
 msgid "Automatically ~detect high contrast mode of operating system"
@@ -32185,7 +32194,7 @@ msgstr ""
 
 #: optaccessibility.src#RID_SVXPAGE_ACCESSIBILITYCONFIG.CB_PAGE_PREVIEWS.checkbox.text
 msgid "~Use system colors for page previews"
-msgstr ""
+msgstr "Ú~sáid dathanna an chórais le haghaidh réamhamharc leathanaigh"
 
 # OK -- KPS
 #: optasian.src#RID_SVXPAGE_ASIAN_LAYOUT.GB_KERNING.fixedline.text
@@ -32233,7 +32242,7 @@ msgstr ""
 
 #: optasian.src#RID_SVXPAGE_ASIAN_LAYOUT.FT_HINT.fixedtext.text
 msgid "Without user-defined line break symbols"
-msgstr ""
+msgstr "Gan siombailí briste líne sainithe ag an úsáideoir"
 
 #: optasian.src#RID_SVXPAGE_ASIAN_LAYOUT.tabpage.text
 #: optinet2.src#RID_SVXPAGE_INET_PROXY.tabpage.text
@@ -32267,7 +32276,7 @@ msgstr "Ar"
 
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.ST_UIELEM.string.text
 msgid "User interface elements"
-msgstr ""
+msgstr "Eilimintí an chomhéadain úsáideora"
 
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.ST_COLSET.string.text
 msgid "Color setting"
@@ -32314,7 +32323,7 @@ msgstr "Teorainneacha réada"
 
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.CB_TABLEBOUNDARIES.checkbox.text
 msgid "Table boundaries"
-msgstr ""
+msgstr "Teorainneacha tábla"
 
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.CB_LINKS.checkbox.text
 msgid "Unvisited links"
@@ -32353,7 +32362,7 @@ msgstr "Táscaire scripte"
 
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.CB_WRITERSECTIONBOUNDARIES.checkbox.text
 msgid "Section boundaries"
-msgstr ""
+msgstr "Teorainneacha rannáin"
 
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_WRITERPAGEBREAKS.fixedtext.text
 msgid "Page and column breaks"
@@ -32488,7 +32497,7 @@ msgstr "Hiondúis"
 #: optctl.src#RID_SVXPAGE_OPTIONS_CTL.tabpage.text
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_LANGUAGE_OPTIONS.6.itemlist.text
 msgid "Complex Text Layout"
-msgstr ""
+msgstr "Leagan Amach Casta an Téacs"
 
 #: optdict.src#RID_SFXDLG_NEWDICT.BTN_EXCEPT.checkbox.text
 msgid "~Exception (-)"
@@ -32659,7 +32668,7 @@ msgstr "Go dtí na himill ~leathanaigh"
 
 #: optgrid.src#RID_SVXPAGE_GRID.CBX_SNAP_FRAME.checkbox.text
 msgid "To object ~frame"
-msgstr ""
+msgstr "Go ~fráma an réada"
 
 #: optgrid.src#RID_SVXPAGE_GRID.CBX_SNAP_POINTS.checkbox.text
 msgid "To obje~ct points"
@@ -32679,15 +32688,15 @@ msgstr ""
 
 #: optgrid.src#RID_SVXPAGE_GRID.CBX_ORTHO.checkbox.text
 msgid "~When creating or moving objects"
-msgstr ""
+msgstr "~Agus réada á gcruthú nó á mbogadh"
 
 #: optgrid.src#RID_SVXPAGE_GRID.CBX_BIGORTHO.checkbox.text
 msgid "~Extend edges"
-msgstr ""
+msgstr "Fadaigh na ciumhais~eanna"
 
 #: optgrid.src#RID_SVXPAGE_GRID.CBX_ROTATE.checkbox.text
 msgid "When ro~tating"
-msgstr ""
+msgstr "Agus á ro~thlú"
 
 #: optgrid.src#RID_SVXPAGE_GRID.FT_BEZ_ANGLE.fixedtext.text
 msgid "Point reducti~on"
@@ -32818,7 +32827,7 @@ msgstr ""
 
 #: optinet2.src#RID_SVXPAGE_INET_SECURITY.CB_SEC_SAVEORSENDDOCS.checkbox.text
 msgid "When saving or sending"
-msgstr ""
+msgstr "Agus á shábháil nó á sheoladh"
 
 #: optinet2.src#RID_SVXPAGE_INET_SECURITY.CB_SEC_SIGNDOCS.checkbox.text
 msgid "When signing"
@@ -32834,7 +32843,7 @@ msgstr "Agus comhaid PDF á gcruthú"
 
 #: optinet2.src#RID_SVXPAGE_INET_SECURITY.CB_SEC_REMOVEPERSINFO.checkbox.text
 msgid "Remove personal information on saving"
-msgstr ""
+msgstr "Bain faisnéis phearsanta amach le linn sábhála"
 
 #: optinet2.src#RID_SVXPAGE_INET_SECURITY.CB_SEC_RECOMMPASSWD.checkbox.text
 msgid "Recommend password protection on saving"
@@ -32864,7 +32873,7 @@ msgstr "Oscail an cháipéis seo i mód léimh amháin"
 
 #: optinet2.src#RID_SVXPAGE_INET_SECURITY.CB_SEC_RECORDCHANGES.checkbox.text
 msgid "Record changes"
-msgstr ""
+msgstr "Taifead na hathruithe"
 
 #: optinet2.src#RID_SVXPAGE_INET_SECURITY.STR_SEC_PROTRECORDS.string.text
 msgid "Protect..."
@@ -32882,12 +32891,15 @@ msgstr "Slándáil"
 #: optinet2.src#RID_SVXERR_OPT_PROXYPORTS.errorbox.text
 msgid "Invalid value!\\n\\nThe maximum value for a port number is 65535."
 msgstr ""
+"Luach neamhbhailí!\\n\\nIs 65535 an t-uasluach ceadaithe ar uimhir phoirt."
 
 #: optinet2.src#RID_SVXDLG_OPT_JAVASCRIPT_DISABLE.FT_JSCPT_WARNING.fixedtext.text
 msgid ""
 "Please note that with Java\\nyou disable Javascript as well.\\n\\nDo you "
 "still want to disable Java?"
 msgstr ""
+"Tabhair faoi deara go ndíchumasóidh\\ntú Javasript in éineacht le Java.\\n"
+"\\nAr mhaith leat Java a dhíchumasú mar sin féin?"
 
 #: optinet2.src#RID_SVXDLG_OPT_JAVASCRIPT_DISABLE.CB_JSCPT_DISABLE.checkbox.text
 msgid "~Don't show warning again"
@@ -33010,7 +33022,7 @@ msgstr "Carachtair roimh briseadh"
 
 #: optlingu.src#RID_SVXDLG_LNG_ED_NUM_PREBREAK.STR_NUM_POST_BREAK_DLG.string.text
 msgid "Characters after break"
-msgstr ""
+msgstr "Carachtair i ndiaidh briseadh"
 
 #: optlingu.src#RID_SVXDLG_LNG_ED_NUM_PREBREAK.STR_NUM_MIN_WORDLEN_DLG.string.text
 msgid "Minimal word length"
@@ -33024,7 +33036,7 @@ msgstr "Áiseanna scríbhneoireachta"
 
 #: optlingu.src#RID_SFXPAGE_LINGU.FT_LINGU_MODULES.fixedtext.text
 msgid "Available language modules"
-msgstr ""
+msgstr "Modúil teanga atá le fáil"
 
 #: optlingu.src#RID_SFXPAGE_LINGU.FT_LINGU_DICS.fixedtext.text
 #: optpath.src#RID_SVXSTR_KEY_USERDICTIONARY_DIR.string.text
@@ -33080,15 +33092,15 @@ msgstr ""
 
 #: optlingu.src#RID_SFXPAGE_LINGU.STR_NUM_PRE_BREAK.string.text
 msgid "Characters before line break: "
-msgstr ""
+msgstr "Carachtair roimh briseadh líne: "
 
 #: optlingu.src#RID_SFXPAGE_LINGU.STR_NUM_POST_BREAK.string.text
 msgid "Characters after line break: "
-msgstr ""
+msgstr "Carachtair i ndiaidh briseadh líne: "
 
 #: optlingu.src#RID_SFXPAGE_LINGU.STR_HYPH_AUTO.string.text
 msgid "Hyphenate without inquiry"
-msgstr ""
+msgstr "Fleiscínigh gan ceist"
 
 #: optlingu.src#RID_SFXPAGE_LINGU.STR_HYPH_SPECIAL.string.text
 msgid "Hyphenate special regions"
@@ -33098,9 +33110,10 @@ msgstr "Fleiscínigh réigiúin speisialta"
 msgid "Do you want to delete the dictionary?"
 msgstr "An bhfuil tú cinnte gur mhaith leat an foclóir a scriosadh?"
 
+# gotta have a little fun -kps
 #: optlingu.src#RID_SFXQB_DEL_IGNORELIST.querybox.text
 msgid "Do you want to delete the ignore list?"
-msgstr ""
+msgstr "Ar mhaith leat an ná-bac-liosta a scriosadh?"
 
 #: optpath.src#RID_SVXERR_OPT_DOUBLEPATHS.errorbox.text
 msgid ""
@@ -33220,11 +33233,11 @@ msgstr "Luchtaigh"
 
 #: optsave.src#RID_SFXPAGE_SAVE.CB_LOAD_SETTINGS.checkbox.text
 msgid "Load user-specific settings with the document"
-msgstr ""
+msgstr "Luchtaigh socruithe an úsáideora leis an gcáipéis"
 
 #: optsave.src#RID_SFXPAGE_SAVE.BTN_DOCINFO.checkbox.text
 msgid "~Edit document properties before saving"
-msgstr ""
+msgstr "Cuir airíonna na cáipéis in ~eagar roimh sábháil"
 
 #: optsave.src#RID_SFXPAGE_SAVE.BTN_BACKUP.checkbox.text
 msgid "Al~ways create backup copy"
@@ -33241,6 +33254,8 @@ msgstr ""
 #: optsave.src#RID_SFXPAGE_SAVE.BTN_WARNALIENFORMAT.checkbox.text
 msgid "Warn when not saving in OpenDocument or default format"
 msgstr ""
+"Tabhair rabhadh mura bhfuil an cháipéis á sábháil san fhormáid "
+"réamhshocraithe nó mar OpenDocument"
 
 #: optsave.src#RID_SFXPAGE_SAVE.GB_RELATIVE.fixedline.text
 msgid "Save URLs relative to"
@@ -33260,7 +33275,7 @@ msgstr "Cineál ~cáipéise"
 
 #: optsave.src#RID_SFXPAGE_SAVE.FT_FILTER.fixedtext.text
 msgid "Always sa~ve as"
-msgstr ""
+msgstr "Sá~bháil mar i gcónaí"
 
 #: optsave.src#RID_SFXPAGE_SAVE.LB_APP.3.stringlist.text
 #: imagemgr.src#STR_DESCRIPTION_FACTORY_GLOBALDOC.string.text
@@ -33279,7 +33294,7 @@ msgstr ""
 
 #: optspell.src#RID_SFXPAGE_SPELL.BTN_CAPS.checkbox.text
 msgid "~Capital words"
-msgstr ""
+msgstr "Fo~cail le ceannlitir"
 
 #: optspell.src#RID_SFXPAGE_SPELL.BTN_NUMS.checkbox.text
 msgid "~Words with numbers "
@@ -33339,7 +33354,7 @@ msgstr "Easbhrú Thoir-Theas"
 
 #: extrusioncontrols.src#RID_SVXFLOAT_EXTRUSION_DIRECTION.floatingwindow.text
 msgid "Extrusion Direction"
-msgstr ""
+msgstr "Treo an Easbhrúite"
 
 #: extrusioncontrols.src#RID_SVXFLOAT_EXTRUSION_DEPTH.STR_CUSTOM.string.text
 #: fontworkgallery.src#RID_SVXFLOAT_FONTWORK_CHARSPACING.STR_CHARS_SPACING_CUSTOM.string.text
@@ -33463,7 +33478,7 @@ msgstr "Ailínigh a~r dheis"
 
 #: fontworkgallery.src#RID_SVXFLOAT_FONTWORK_ALIGNMENT.STR_ALIGN_WORD.string.text
 msgid "~Word Justify"
-msgstr ""
+msgstr "Comhfhadú ~Focal"
 
 #: fontworkgallery.src#RID_SVXFLOAT_FONTWORK_ALIGNMENT.STR_ALIGN_STRETCH.string.text
 msgid "S~tretch Justify"
@@ -71748,8 +71763,8 @@ msgid "The format of the selected file is not supported."
 msgstr "Ní thacaítear le formáid an chomhaid roghnaithe."
 
 #: readme.xrm#ooo_readme.Welcome.A2.a.readmeitem.text
-msgid "Last updated $Date: 2005-04-29 02:21:44 $"
-msgstr "Nuashonrú is déanaí $Date: 2005-04-29 02:21:44 $"
+msgid "Last updated $Date: 2005-04-29 14:33:28 $"
+msgstr "Nuashonrú is déanaí $Date: 2005-04-29 14:33:28 $"
 
 #: readme.xrm#ooo_readme.Welcome.A3.a.readmeitem.text
 msgid "OpenOffice.org 2.0 ReadMe"
