@@ -3262,7 +3262,7 @@ msgstr "Torthaí na cairte i mbileog ~oibre"
 #: dlggraut.src#DLG_CHART_WIZ.PB_PREV.pushbutton.text
 #: preload.src#RID_DLG_OEMWIZARD.PB_PREV.pushbutton.text
 msgid "<< Back"
-msgstr "<< Ar Ais"
+msgstr "<< Siar"
 
 #: chartdlg.src#RID_SCDLG_CHARTRANGE.BTN_NEXT.pushbutton.text
 #: formdlgs.src#RID_SCDLG_FORMULA.BTN_FORWARD.pushbutton.text
@@ -3839,7 +3839,7 @@ msgstr "Scrios briseadh ró"
 #: globstr.src#RID_GLOBSTR.STR_UNDO_DOOUTLINE.string.text
 #: globstr.src#RID_GLOBSTR.STR_UNDO_DOOUTLINEBLK.string.text
 msgid "View Details"
-msgstr "Amharc ar Mhionshonraí"
+msgstr "Amharc ar Mhionsonraí"
 
 #: globstr.src#RID_GLOBSTR.STR_UNDO_REDOOUTLINE.string.text
 #: globstr.src#RID_GLOBSTR.STR_UNDO_REDOOUTLINEBLK.string.text
@@ -4048,7 +4048,7 @@ msgstr "Díchosain cáipéis"
 #: globstr.src#RID_GLOBSTR.STR_UNDO_REMOVEBREAKS.string.text
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Commands..uno_DeleteAllBreaks.Label.value.text
 msgid "Delete Page Breaks"
-msgstr ""
+msgstr "Scrios Bristeacha Leathanaigh"
 
 #: globstr.src#RID_GLOBSTR.STR_UNDO_PRINTSCALE.string.text
 msgid "Change Scale"
@@ -13916,7 +13916,7 @@ msgstr ""
 
 #: headerfooterdlg.src#RID_SD_TABPAGE_HEADERFOOTER.CB_NOTONTITLE.checkbox.text
 msgid "Do not show on first slide"
-msgstr "Ná taispeáin ar an chéad shleamhnán"
+msgstr "Ná taispeáin ar an chéad sleamhnán"
 
 #: headerfooterdlg.src#RID_SD_TABPAGE_HEADERFOOTER.BT_APPLYTOALL.pushbutton.text
 msgid "Apply to All"
@@ -14160,7 +14160,7 @@ msgstr "Pointeoir luiche mar ~pheann"
 
 #: present.src#DLG_START_PRESENTATION.CBX_NAVIGATOR.checkbox.text
 msgid "~Navigator visible"
-msgstr "Loi~ngseoir infheicthe"
+msgstr "~Nascleantóir infheicthe"
 
 #: present.src#DLG_START_PRESENTATION.CBX_ANIMATION_ALLOWED.checkbox.text
 msgid "~Animations allowed"
@@ -16904,11 +16904,11 @@ msgstr "Scrios an deilbhín"
 
 #: strings.src#STR_WARN_DEL_SHAPE.string.text
 msgid "Are you sure you want to delete this symbol?"
-msgstr "An bhfuil tú cinnte go dteastaíonn uait an shiombail seo a scriosadh?"
+msgstr "An bhfuil tú cinnte go dteastaíonn uait an tsiombail seo a scriosadh?"
 
 #: strings.src#STR_WARN_MODIFY_SHAPE.string.text
 msgid "Are you sure you want to modify the symbol?"
-msgstr "An bhfuil tú cinnte go dteastaíonn uait an shiombail seo a mhionathrú?"
+msgstr "An bhfuil tú cinnte go dteastaíonn uait an tsiombail seo a mhionathrú?"
 
 #: strings.src#STR_WARN_PRINTFORMAT_FAILURE.string.text
 msgid "The document format could not be set on the specified printer."
@@ -16946,7 +16946,7 @@ msgstr "Níl an teanga roghnaithe ar fáil."
 
 #: strings.src#STR_LAYER_LOCKED.string.text
 msgid "Active layer is locked."
-msgstr "Tá an sraith reatha faoi ghlas."
+msgstr "Tá an tsraith reatha faoi ghlas."
 
 #: strings.src#STR_CLPBRD_CLEAR.string.text
 msgid ""
@@ -17041,11 +17041,11 @@ msgstr "Téigh go dtí an sleamhnán roimhe seo"
 
 #: strings.src#STR_CLICK_ACTION_NEXTPAGE.string.text
 msgid "Go to next slide"
-msgstr "Téigh go dtí an chéad shleamhnán eile"
+msgstr "Téigh go dtí an chéad sleamhnán eile"
 
 #: strings.src#STR_CLICK_ACTION_FIRSTPAGE.string.text
 msgid "Go to first slide"
-msgstr "Téigh go dtí an chéad shleamhnán"
+msgstr "Téigh go dtí an chéad sleamhnán"
 
 #: strings.src#STR_CLICK_ACTION_LASTPAGE.string.text
 msgid "Go to last slide"
@@ -17250,19 +17250,19 @@ msgstr "Roll Ón Bhun"
 
 #: strings.src#STR_EFFECT_WAVYLINE_FROM_L.string.text
 msgid "Wavy Line From Left"
-msgstr "Líne Tonnach Ó Chlé"
+msgstr "Líne Thonnach Ó Chlé"
 
 #: strings.src#STR_EFFECT_WAVYLINE_FROM_R.string.text
 msgid "Wavy Line From Right"
-msgstr "Líne Tonnach Ó Dheis"
+msgstr "Líne Thonnach Ó Dheis"
 
 #: strings.src#STR_EFFECT_WAVYLINE_FROM_T.string.text
 msgid "Wavy Line From Top"
-msgstr "Líne Tonnach Ón mBarr"
+msgstr "Líne Thonnach Ón mBarr"
 
 #: strings.src#STR_EFFECT_WAVYLINE_FROM_B.string.text
 msgid "Wavy Line From Bottom"
-msgstr "Líne Tonnach Ó Bhun"
+msgstr "Líne Thonnach Ó Bhun"
 
 #: strings.src#STR_EFFECT_CLOCKWISE.string.text
 msgid "Fade Clockwise"
@@ -18891,15 +18891,15 @@ msgstr "Taifeach an scáileáin"
 
 #: pubdlg.src#DLG_PUBLISHING.PAGE3_RESOLUTION_1.radiobutton.text
 msgid "Low resolution (~640x480 pixels)"
-msgstr "Taifeach íseal (~640x480 picteilín)"
+msgstr "Taifeach íseal (~640×480 picteilín)"
 
 #: pubdlg.src#DLG_PUBLISHING.PAGE3_RESOLUTION_2.radiobutton.text
 msgid "Medium resolution (~800x600 pixels)"
-msgstr "Taifeach measartha (~800x600 picteilín)"
+msgstr "Taifeach measartha (~800×600 picteilín)"
 
 #: pubdlg.src#DLG_PUBLISHING.PAGE3_RESOLUTION_3.radiobutton.text
 msgid "High resolution (~1024x768 pixels)"
-msgstr "Ardthaifeach (~1024x768 picteilín)"
+msgstr "Ardthaifeach (~1024×768 picteilín)"
 
 #: pubdlg.src#DLG_PUBLISHING.PAGE3_SLD_SOUND.checkbox.text
 msgid "~Export sounds when slide advances"
@@ -19043,7 +19043,7 @@ msgstr "An Tríú Leibhéal Imlíne"
 
 #: glob.src#STR_PRESOBJ_MPOUTLLAYER4.string.text
 msgid "Fourth Outline Level"
-msgstr "An Ceathrú Leibhéal Imlíne"
+msgstr "An Cheathrú Leibhéal Imlíne"
 
 #: glob.src#STR_PRESOBJ_MPOUTLLAYER5.string.text
 msgid "Fifth Outline Level"
@@ -19059,11 +19059,11 @@ msgstr "An Seachtú Leibhéal Imlíne"
 
 #: glob.src#STR_PRESOBJ_MPOUTLLAYER8.string.text
 msgid "Eighth Outline Level"
-msgstr "An Ochtú Leibhéal Imlíne"
+msgstr "An tOchtú Leibhéal Imlíne"
 
 #: glob.src#STR_PRESOBJ_MPOUTLLAYER9.string.text
 msgid "Ninth Outline Level"
-msgstr "An Naonú Leibhéal Imlíne"
+msgstr "An Naoú Leibhéal Imlíne"
 
 #: glob.src#STR_PRESOBJ_MPNOTESTITLE.string.text
 msgid "Click to move the slide"
@@ -22044,7 +22044,7 @@ msgstr "C~ineál"
 msgid "The label \"%1 / %2\" already exists.\\nDo you want to overwrite it?"
 msgstr ""
 "Tá an lipéad \"%1 / %2\" ann cheana.\\nAn bhfuil tú cinnte gur mian leat "
-"scríobh air?"
+"é a fhorscríobh?"
 
 #: labfmt.src#DLG_SAVE_LABEL.modaldialog.text
 msgid "Save Label Format"
@@ -23507,7 +23507,7 @@ msgstr "Breiseáin As"
 #: docvw.src#MN_READONLY_POPUP.SID_WIN_FULLSCREEN.menuitem.text
 #: menu.src#SID_WIN_FULLSCREEN.string.text
 msgid "Leave Full-Screen Mode"
-msgstr "Éirigh as an scáileán iomlán"
+msgstr "Éirigh as an Lánscáileán"
 
 #: docvw.src#STR_EXPORT_GRAFIK_TITLE.string.text
 msgid "Graphics Export"
@@ -23788,7 +23788,7 @@ msgstr ""
 
 #: optcomp.src#TP_OPTCOMPATIBILITY_PAGE.STR_TAB_ALIGNMENT.string.text
 msgid "Use %WRITERCOMPATIBILITYVERSIONOOO11 tabstop formatting"
-msgstr "Úsáid formáidiú na dtábstop %WRITERCOMPATIBILITYVERSIONOOO11"
+msgstr "Úsáid formáidiú na dtábstopanna %WRITERCOMPATIBILITYVERSIONOOO11"
 
 #: optcomp.src#TP_OPTCOMPATIBILITY_PAGE.STR_EXTERNAL_LEADING.string.text
 msgid "Do not add leading (extra space) between lines of text"
@@ -24014,7 +24014,7 @@ msgstr "Aithint fhormáid na n-uimhreacha"
 
 #: optdlg.src#TP_OPTTABLE_PAGE.FL_MOVE.fixedline.text
 msgid "Keyboard handling"
-msgstr "Láimhsiú an mhéarchlár"
+msgstr "Láimhsiú an mhéarchláir"
 
 #: optdlg.src#TP_OPTTABLE_PAGE.FT_MOVE.fixedtext.text
 msgid "Move cells"
@@ -24559,7 +24559,7 @@ msgstr ""
 
 #: attrdesc.src#STR_NO_DROP_LINES.string.text
 msgid "No Drop Caps"
-msgstr "Gan Ceannlitreacha Anuas"
+msgstr "Gan Cheannlitreacha Anuas"
 
 #: attrdesc.src#STR_NO_PAGEDESC.string.text
 msgid "No page break"
@@ -24646,7 +24646,7 @@ msgstr "(Ancaire amháin)"
 
 #: attrdesc.src#STR_FRM_FIXEDHEIGHT.string.text
 msgid "Fixed height:"
-msgstr "Airde seasta:"
+msgstr "Airde sheasta:"
 
 #: attrdesc.src#STR_FRM_MINHEIGHT.string.text
 msgid "Min. height:"
@@ -25870,7 +25870,7 @@ msgstr "Athainmnigh: "
 
 #: unotools.src#STR_SERVICE_UNAVAILABLE.string.text
 msgid "The following service is not available: "
-msgstr "Níl aon fháil ar an seirbhís a leanas: "
+msgstr "Níl aon fháil ar an tseirbhís a leanas: "
 
 #: unotools.src#RES_FRMEX_MENU.1.2.itemlist.text
 msgid "~Upwards"
@@ -26763,7 +26763,7 @@ msgstr "Cuir Catagóirí in Eagar"
 
 #: glossary.src#DLG_GLOSSARY.CB_INSERT_TIP.checkbox.text
 msgid "~Display remainder of name as suggestion while typing"
-msgstr "~Taispeáin an cuid eile den ainm mar mholadh le linn clóscríofa"
+msgstr "~Taispeáin an chuid eile den ainm mar mholadh le linn clóscríofa"
 
 #: glossary.src#DLG_GLOSSARY.FT_SHORTNAME.fixedtext.text
 #: glossary.src#DLG_RENAME_GLOS.FT_NS.fixedtext.text
@@ -27866,7 +27866,7 @@ msgstr "Níorbh fhéidir gach tréith a léamh"
 
 #: error.src#RID_SW_ERRHDL.WARN_CODE___ERRCODE_CLASS_WRITE___WARN_SWG_FEATURES_LOST__.string.text
 msgid "Not all attributes could be recorded"
-msgstr "Níor fhéidir gach tréith a thaifeadadh"
+msgstr "Níorbh fhéidir gach tréith a thaifeadadh"
 
 #: error.src#RID_SW_ERRHDL.WARN_CODE___ERRCODE_CLASS_READ___WARN_SWG_OLE__.string.text
 msgid "Some OLE objects could only be loaded as graphics"
@@ -30959,7 +30959,7 @@ msgstr "Lipéid na n-aiseanna ann/as"
 
 #: strings.src#STR_UNDO_TOGGLE_GRID_HORZ.string.text
 msgid "Horizontal grid on/off"
-msgstr "Greille cothrománach ann/as"
+msgstr "Greille chothrománach ann/as"
 
 #: strings.src#STR_UNDO_TOGGLE_GRID_VERT.string.text
 msgid "Vertical grid on/off"
@@ -31054,7 +31054,7 @@ msgstr "Dromchlaí"
 #: strings.src#STR_REGRESSION_NONE.string.text
 #: Strings_Statistic.src#STR_REGRESSION_NONE.string.text
 msgid "No Regression"
-msgstr "Gan Cúlú"
+msgstr "Gan Chúlú"
 
 #: strings.src#STR_REGRESSION_LINEAR.string.text
 #: Strings_Statistic.src#STR_REGRESSION_LINEAR.string.text
@@ -31675,7 +31675,7 @@ msgstr "Níorbh fhéidir an réad a aimsiú."
 #: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_EXCEEDED_DEADLINE_S_MAX.string.text
 msgid "The process could not be completed within the specified time period."
 msgstr ""
-"Níorbh fhéidir an próiseas a chur i gcrích laistigh den thréimse shonraithe."
+"Níorbh fhéidir an próiseas a chur i gcrích laistigh den thréimhse shonraithe."
 
 #: nocode.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_CONNECT_MANUALLY_S_MAX.string.text
 #: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_CONNECT_MANUALLY_S_MAX.string.text
@@ -32109,7 +32109,7 @@ msgid ""
 "mentioned at http://www.openoffice.org/welcome/credits.html."
 msgstr ""
 "Cóipcheart 2000-2004 Sun Microsystems Inc.\\nChruthaigh \\\" OOO_VENDOR \\\" "
-"an táirge seo, bunaithe ar OpenOffice.org de réir na coinníollacha de \\\" "
+"an táirge seo, bunaithe ar OpenOffice.org de réir na gcoinníollacha de \\\" "
 "OOO_LICENSE \\\".\\nAithníonn OpenOffice.org an comhphobal ar fad, ach go "
 "háirithe na daoine atá luaite ag http://www.openoffice.org/welcome/credits."
 "html."
@@ -32764,7 +32764,7 @@ msgstr ""
 
 #: optinet2.src#RID_SVXPAGE_INET_SEARCH.GB_SEARCH.fixedline.text
 msgid "Search in"
-msgstr "~Cuardach i"
+msgstr "Cuardaigh i"
 
 #: optinet2.src#RID_SVXPAGE_INET_SEARCH.RB_AND.radiobutton.text
 msgid "And"
@@ -32898,7 +32898,7 @@ msgid ""
 "Please note that with Java\\nyou disable Javascript as well.\\n\\nDo you "
 "still want to disable Java?"
 msgstr ""
-"Tabhair faoi deara go ndíchumasóidh\\ntú Javasript in éineacht le Java.\\n"
+"Tabhair faoi deara go ndíchumasóidh\\ntú Javascript in éineacht le Java.\\n"
 "\\nAr mhaith leat Java a dhíchumasú mar sin féin?"
 
 #: optinet2.src#RID_SVXDLG_OPT_JAVASCRIPT_DISABLE.CB_JSCPT_DISABLE.checkbox.text
@@ -33018,7 +33018,7 @@ msgstr "Cuir Modúil in Eagar"
 
 #: optlingu.src#RID_SVXDLG_LNG_ED_NUM_PREBREAK.STR_NUM_PRE_BREAK_DLG.string.text
 msgid "Characters before break"
-msgstr "Carachtair roimh briseadh"
+msgstr "Carachtair roimh bhriseadh"
 
 #: optlingu.src#RID_SVXDLG_LNG_ED_NUM_PREBREAK.STR_NUM_POST_BREAK_DLG.string.text
 msgid "Characters after break"
@@ -33092,7 +33092,7 @@ msgstr ""
 
 #: optlingu.src#RID_SFXPAGE_LINGU.STR_NUM_PRE_BREAK.string.text
 msgid "Characters before line break: "
-msgstr "Carachtair roimh briseadh líne: "
+msgstr "Carachtair roimh bhriseadh líne: "
 
 #: optlingu.src#RID_SFXPAGE_LINGU.STR_NUM_POST_BREAK.string.text
 msgid "Characters after line break: "
@@ -33100,7 +33100,7 @@ msgstr "Carachtair i ndiaidh briseadh líne: "
 
 #: optlingu.src#RID_SFXPAGE_LINGU.STR_HYPH_AUTO.string.text
 msgid "Hyphenate without inquiry"
-msgstr "Fleiscínigh gan ceist"
+msgstr "Fleiscínigh gan cheist"
 
 #: optlingu.src#RID_SFXPAGE_LINGU.STR_HYPH_SPECIAL.string.text
 msgid "Hyphenate special regions"
@@ -33237,7 +33237,7 @@ msgstr "Luchtaigh socruithe an úsáideora leis an gcáipéis"
 
 #: optsave.src#RID_SFXPAGE_SAVE.BTN_DOCINFO.checkbox.text
 msgid "~Edit document properties before saving"
-msgstr "Cuir airíonna na cáipéis in ~eagar roimh sábháil"
+msgstr "Cuir airíonna na cáipéise in ~eagar roimh shábháil"
 
 #: optsave.src#RID_SFXPAGE_SAVE.BTN_BACKUP.checkbox.text
 msgid "Al~ways create backup copy"
@@ -34636,7 +34636,7 @@ msgstr "líne bhriste"
 
 #: svdstr.src#STR_ItemValMEASURE_BELOW.string.text
 msgid "below the line"
-msgstr "faoi an líne"
+msgstr "faoin líne"
 
 #: svdstr.src#STR_ItemValMEASURETEXT_VERTICALCEN.string.text
 msgid "centered"
@@ -35208,7 +35208,7 @@ msgstr ""
 
 #: svdstr.src#SIP_SA_CUSTOMSHAPE_ADJUSTMENT.string.text
 msgid "Shape Adjustment"
-msgstr ""
+msgstr "Coigeartú an Chrutha"
 
 #: svdstr.src#SIP_SA_XMLATTRIBUTES.string.text
 msgid "User-defined attributes"
@@ -35264,7 +35264,7 @@ msgstr ""
 
 #: svdstr.src#SIP_SA_EDGELINEDELTAANZ.string.text
 msgid "Number of movable lines"
-msgstr ""
+msgstr "Líon na línte inbhogtha"
 
 #: svdstr.src#SIP_SA_EDGELINE1DELTA.string.text
 msgid "Offset line 1"
@@ -35280,15 +35280,15 @@ msgstr ""
 
 #: svdstr.src#SIP_SA_MEASUREKIND.string.text
 msgid "Type of dimensioning"
-msgstr ""
+msgstr "Cineál an toisithe"
 
 #: svdstr.src#SIP_SA_MEASURETEXTHPOS.string.text
 msgid "Dimension value - horizontal position"
-msgstr ""
+msgstr "Luach toise - ionad cothrománach"
 
 #: svdstr.src#SIP_SA_MEASURETEXTVPOS.string.text
 msgid "Dimension value - vertical position"
-msgstr ""
+msgstr "Luach toise - ionad ingearach"
 
 #: svdstr.src#SIP_SA_MEASURELINEDIST.string.text
 msgid "Dimension line space"
@@ -35413,7 +35413,7 @@ msgstr "Réad, inphriontáilte"
 
 #: svdstr.src#SIP_SA_LAYERID.string.text
 msgid "Level ID"
-msgstr ""
+msgstr "Aitheantas an leibhéil"
 
 #: svdstr.src#SIP_SA_ALLPOSITIONX.string.text
 msgid "Position X, complete"
@@ -35433,11 +35433,11 @@ msgstr "Airde, iomlán"
 
 #: svdstr.src#SIP_SA_ONEPOSITIONX.string.text
 msgid "Single position X"
-msgstr ""
+msgstr "Ionad aonair X"
 
 #: svdstr.src#SIP_SA_ONEPOSITIONY.string.text
 msgid "Single position Y"
-msgstr ""
+msgstr "Ionad aonair Y"
 
 #: svdstr.src#SIP_SA_ONESIZEWIDTH.string.text
 msgid "Single width"
@@ -35445,7 +35445,7 @@ msgstr "Leithead singil"
 
 #: svdstr.src#SIP_SA_ONESIZEHEIGHT.string.text
 msgid "Single height"
-msgstr "Airde singil"
+msgstr "Airde shingil"
 
 #: svdstr.src#SIP_SA_LOGICSIZEWIDTH.string.text
 msgid "Logical width"
@@ -35457,11 +35457,11 @@ msgstr "Airde loighciúil"
 
 #: svdstr.src#SIP_SA_ROTATEANGLE.string.text
 msgid "Single rotation angle"
-msgstr ""
+msgstr "Uillinn aonair rothlaithe"
 
 #: svdstr.src#SIP_SA_SHEARANGLE.string.text
 msgid "Single shear angle"
-msgstr ""
+msgstr "Uillinn aonair fhiartha"
 
 #: svdstr.src#SIP_SA_MOVEX.string.text
 msgid "Move horizontally"
@@ -35481,15 +35481,15 @@ msgstr ""
 
 #: svdstr.src#SIP_SA_ROTATEONE.string.text
 msgid "Single rotation"
-msgstr ""
+msgstr "Rothlú aonair"
 
 #: svdstr.src#SIP_SA_HORZSHEARONE.string.text
 msgid "Single horizontal shear"
-msgstr ""
+msgstr "Fiar aonair cothrománach"
 
 #: svdstr.src#SIP_SA_VERTSHEARONE.string.text
 msgid "Single vertical shear"
-msgstr ""
+msgstr "Fiar aonair ingearach"
 
 #: svdstr.src#SIP_SA_RESIZEXALL.string.text
 msgid "Resize X, complete"
@@ -35570,7 +35570,7 @@ msgstr "Tacar carachtar"
 
 #: svdstr.src#SIP_EE_CHAR_FONTWIDTH.string.text
 msgid "Font width"
-msgstr ""
+msgstr "Leithead an chló"
 
 #: svdstr.src#SIP_EE_CHAR_WEIGHT.string.text
 msgid "Bold (thickness)"
@@ -35603,7 +35603,7 @@ msgstr "Briseadh roghnach líne"
 
 #: svdstr.src#SIP_EE_FEATURE_NOTCONV.string.text
 msgid "Non-convertible character"
-msgstr ""
+msgstr "Carachtar do-thiontaithe"
 
 #: svdstr.src#STR_ObjNamePluralMEDIA.string.text
 msgid "Media objects"
@@ -35616,7 +35616,7 @@ msgstr "Easbhrú"
 
 #: extrusionbar.src#RID_SVXSTR_UNDO_APPLY_EXTRUSION_ON_OFF.string.text
 msgid "Apply Extrusion On/Off"
-msgstr ""
+msgstr "Easbhrú i bhFeidhm, Ann/As"
 
 #: extrusionbar.src#RID_SVXSTR_UNDO_APPLY_EXTRUSION_ROTATE_DOWN.string.text
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_ExtrusionTiltDown.Label.value.text
@@ -35648,7 +35648,7 @@ msgstr "Athraigh Treoshuíomh"
 
 #: extrusionbar.src#RID_SVXSTR_UNDO_APPLY_EXTRUSION_PROJECTION.string.text
 msgid "Change Projection Type"
-msgstr ""
+msgstr "Athraigh Cineál an Teilgin"
 
 #: extrusionbar.src#RID_SVXSTR_UNDO_APPLY_EXTRUSION_LIGHTING.string.text
 msgid "Change Lighting"
@@ -35660,11 +35660,11 @@ msgstr "Athraigh Gile"
 
 #: extrusionbar.src#RID_SVXSTR_UNDO_APPLY_EXTRUSION_SURFACE.string.text
 msgid "Change Extrusion Surface"
-msgstr ""
+msgstr "Athraigh an Dromchla Easbhrúite"
 
 #: extrusionbar.src#RID_SVXSTR_UNDO_APPLY_EXTRUSION_COLOR.string.text
 msgid "Change Extrusion Color"
-msgstr ""
+msgstr "Athraigh an Dath Easbhrúite"
 
 #: fontworkbar.src#RID_SVX_FONTWORK_BAR.string.text
 #: fontwork.src#RID_SVXDLG_FONTWORK.dockingwindow.text
@@ -35752,7 +35752,7 @@ msgstr ""
 #: datanavi.src#RID_QRY_REMOVE_ATTRIBUTE.querybox.text
 msgid "Do you really want to delete the attribute '$ATTRIBUTENAME'?"
 msgstr ""
-"An bhfuil tú cinnte gur mian leat an tréithe '$ATTRIBUTENAME' a scriosadh?"
+"An bhfuil tú cinnte gur mian leat an tréith '$ATTRIBUTENAME' a scriosadh?"
 
 #: datanavi.src#RID_QRY_REMOVE_SUBMISSION.querybox.text
 msgid ""
@@ -35775,7 +35775,7 @@ msgstr ""
 
 #: datanavi.src#RID_ERR_INVALID_XMLNAME.errorbox.text
 msgid "The name '%1' is not valid in XML. Please enter a different name."
-msgstr ""
+msgstr "Níl '%1' bailí mar ainm i gcomhad XML. Iontráil ainm eile le do thoil."
 
 #: datanavi.src#RID_ERR_INVALID_XMLPREFIX.errorbox.text
 msgid "The prefix '%1' is not valid in XML. Please enter a different prefix."
@@ -35785,7 +35785,7 @@ msgstr ""
 
 #: datanavi.src#RID_ERR_DOUBLE_MODELNAME.errorbox.text
 msgid "The name '%1' already exists. Please enter a new name."
-msgstr "Tá an t-ainm '%1' ann cheana. Iontáil ainm nua le do thoil."
+msgstr "Tá an t-ainm '%1' ann cheana. Iontráil ainm nua le do thoil."
 
 #: datanavi.src#RID_ERR_EMPTY_SUBMISSIONNAME.errorbox.text
 msgid "The submission must have a name."
@@ -35868,7 +35868,7 @@ msgstr "Réimír"
 
 #: datanavi.src#RID_SVXDLG_NAMESPACE_ITEM.modaldialog.text
 msgid "Namespaces for Forms"
-msgstr ""
+msgstr "Ainmspásanna d'Fhoirmeacha"
 
 #: datanavi.src#RID_SVXDLG_MANAGE_NAMESPACE.STR_EDIT_TEXT.string.text
 msgid "Edit Namespace"
@@ -36007,11 +36007,11 @@ msgstr "Scrios Aighneacht"
 
 #: filtnav.src#RID_FM_FILTER_MENU.SID_FM_FILTER_IS_NULL.menuitem.text
 msgid "~Is Null"
-msgstr ""
+msgstr "N~ialasach"
 
 #: filtnav.src#RID_FM_FILTER_MENU.SID_FM_FILTER_IS_NOT_NULL.menuitem.text
 msgid "I~s not Null"
-msgstr ""
+msgstr "Nach Niala~sach"
 
 #: fmexpl.src#RID_FMEXPLORER_POPUPMENU.SID_FM_NEW.SID_FM_NEW_HIDDEN.menuitem.text
 #: pcrmiscres.src#RID_STR_PROPTITLE_HIDDENCONTROL.string.text
@@ -36083,7 +36083,7 @@ msgstr "Roghnú ~Comhaid"
 
 #: fmexpl.src#RID_FMSHELL_CONVERSIONMENU.SID_FM_CONVERTTO_DATE.menuitem.text
 msgid "~Date Field"
-msgstr ""
+msgstr "Réimse ~Dáta"
 
 #: fmexpl.src#RID_FMSHELL_CONVERSIONMENU.SID_FM_CONVERTTO_TIME.menuitem.text
 msgid "Tim~e Field"
@@ -36132,12 +36132,12 @@ msgstr "Barra Nascleanúna"
 
 #: fmexpl.src#RID_SVXDLG_SETFORM.modaldialog.text
 msgid "Select form"
-msgstr ""
+msgstr "Roghnaigh foirm"
 
 #: fmexpl.src#RID_SVX_FMEXPLORER.dockingwindow.text
 #: fmstring.src#RID_STR_FMEXPLORER.string.text
 msgid "Form Navigator"
-msgstr ""
+msgstr "Nascleantóir Foirme"
 
 #: fmsearch.src#RID_SVXDLG_SEARCHFORM.FL_SEARCHFOR.fixedline.text
 msgid "Search for"
@@ -36153,11 +36153,11 @@ msgstr ""
 
 #: fmsearch.src#RID_SVXDLG_SEARCHFORM.FL_WHERE.fixedline.text
 msgid "Where to search"
-msgstr ""
+msgstr "An áit ina ndéanfar an cuardach"
 
 #: fmsearch.src#RID_SVXDLG_SEARCHFORM.RB_ALLFIELDS.radiobutton.text
 msgid "All Fields"
-msgstr "Réimsí Uile"
+msgstr "Gach Réimse"
 
 #: fmsearch.src#RID_SVXDLG_SEARCHFORM.RB_SINGLEFIELD.radiobutton.text
 msgid "Single field"
@@ -36191,7 +36191,7 @@ msgstr "Cuardach Cosúlachta"
 #: fmsearch.src#RID_SVXDLG_SEARCHFORM.CB_HALFFULLFORMS.checkbox.text
 #: srchdlg.src#RID_SVXDLG_SEARCH.CB_JAP_MATCH_FULL_HALF_WIDTH.checkbox.text
 msgid "Match character width"
-msgstr ""
+msgstr "Meaitseáil leithead na gcarachtar"
 
 #: fmsearch.src#RID_SVXDLG_SEARCHFORM.CB_SOUNDSLIKECJK.checkbox.text
 #: srchdlg.src#RID_SVXDLG_SEARCH.CB_JAP_SOUNDS_LIKE.checkbox.text
@@ -36219,7 +36219,7 @@ msgstr "~Cabhair"
 
 #: fmsearch.src#RID_SVXDLG_SEARCHFORM.modaldialog.text
 msgid "Record Search"
-msgstr ""
+msgstr "Cuardach Taifead"
 
 #: fmsearch.src#RID_STR_RECORDSEARCH_METHODS.string.text
 msgid "anywhere in the field;beginning of field;end of field;entire field"
@@ -36227,11 +36227,11 @@ msgstr ""
 
 #: fmsearch.src#RID_STR_RECORDSEARCH_BUTTONS.string.text
 msgid "From top;From bottom;Search;Cancel"
-msgstr ""
+msgstr "Ón mbarr;Ón mbun;Cuardaigh;Cealaigh"
 
 #: fmsearch.src#RID_SVXERR_SEARCH_NORECORD.errorbox.text
 msgid "No records corresponding to your data found!"
-msgstr ""
+msgstr "Níor aimsíodh aon taifead atá comhoiriúnach le do shonraí!"
 
 #: fmsearch.src#RID_SVXERR_SEARCH_GENERAL_ERROR.errorbox.text
 msgid "An unknown error occurred. The search could  not be terminated!"
@@ -36312,7 +36312,7 @@ msgstr "Earráid chomhréire san iarratas"
 
 #: fmstring.src#RID_STR_DELETECONFIRM_RECORD.string.text
 msgid "You intend to delete 1 record."
-msgstr ""
+msgstr "Tá ar intinn agat 1 taifead a scriosadh."
 
 #: fmstring.src#RID_STR_DELETECONFIRM_RECORDS.string.text
 msgid "# records will be deleted."
@@ -36348,7 +36348,7 @@ msgstr "Col"
 
 #: fmstring.src#RID_STR_UNDO_PROPERTY.string.text
 msgid "Set property '#'"
-msgstr ""
+msgstr "Socraigh airí '#'"
 
 #: fmstring.src#RID_STR_UNDO_CONTAINER_INSERT.string.text
 msgid "Insert in container"
@@ -36536,7 +36536,7 @@ msgstr "Ilroghnú"
 
 #: fmstring.src#RID_STR_NODATACONTROLS.string.text
 msgid "No data-related controls in the current form!"
-msgstr ""
+msgstr "Níl rialtán bainteach le sonraí san fhoirm reatha!"
 
 #: fmstring.src#RID_STR_DATETIME_LABELPOSTFIX.string.text
 msgid "(Date); (Time)"
@@ -36562,13 +36562,15 @@ msgstr ""
 
 #: fmstring.src#RID_STR_AUTOFIELD.string.text
 msgid "<AutoField>"
-msgstr ""
+msgstr "<UathRéimse>"
 
 #: fmstring.src#RID_QRY_SAVEMODIFIED.querybox.text
 msgid ""
 "The content of the current form has been modified.\\nDo you want to save "
 "your changes?"
 msgstr ""
+"Athraíodh ábhar na foirme reatha.\\nAn mian leat do chuid athruithe a "
+"shábháil?"
 
 #: fmstring.src#RID_STR_COULDNOTSETORDER.string.text
 #: sbabrw.src#SBA_BROWSER_SETTING_ORDER.string.text
@@ -36592,7 +36594,7 @@ msgstr "Earráid chomhréire i ráiteas SQL"
 
 #: fmstring.src#RID_STR_SVT_SQL_SYNTAX_ERROR_BEFORE.string.text
 msgid "before \"#\" expression."
-msgstr "roimh slonn \"#\"."
+msgstr "roimh shlonn \"#\"."
 
 #: fmstring.src#RID_STR_SVT_SQL_SYNTAX_VALUE_NO_LIKE.string.text
 msgid "The value #1 cannot be used with LIKE!"
@@ -36643,13 +36645,15 @@ msgstr "téigh go taifead"
 
 #: tbxform.src#RID_SVX_DLG_INPUTRECORDNO.modaldialog.text
 msgid "Record Number"
-msgstr ""
+msgstr "Uimhir an Taifid"
 
 #: app.src#RID_ERRBOX_MODULENOTINSTALLED.errorbox.text
 msgid ""
 "The action could not be executed. The %PRODUCTNAME program module needed for "
 "this action is currently not installed."
 msgstr ""
+"Níorbh fhéidir an gníomh a rith. Ní suiteáilte é an modúl %PRODUCTNAME atá "
+"riachtanach chun an gníomh a chur i gcrích."
 
 #: app.src#STR_SD_STAROFFICE_XML_DRAW.string.text
 msgid "%PRODUCTNAME XML (Draw)"
@@ -36749,7 +36753,7 @@ msgstr ""
 
 #: align.src#RID_SVXPAGE_ALIGNMENT.BTN_ASIAN_VERTICAL.tristatebox.text
 msgid "Asian layout ~mode"
-msgstr ""
+msgstr "~Mód leagtha amach Áiseach"
 
 #: align.src#RID_SVXPAGE_ALIGNMENT.BTN_WRAP.tristatebox.text
 msgid "~Wrap text automatically"
@@ -36803,11 +36807,11 @@ msgstr ""
 
 #: autocdlg.src#COMMON_CLB_ENTRIES.ST_BOLD_UNDER.string.text
 msgid "Automatic *bold* and _underline_"
-msgstr ""
+msgstr "*Trom* agus _líne faoi_ go huathoibríoch"
 
 #: autocdlg.src#COMMON_CLB_ENTRIES.STR_NO_DBL_SPACES.string.text
 msgid "Ignore double spaces"
-msgstr ""
+msgstr "Déan neamhshuim ar spásanna dúbailte"
 
 #: autocdlg.src#COMMON_CLB_ENTRIES.ST_DETECT_URL.string.text
 msgid "URL Recognition"
@@ -36827,7 +36831,7 @@ msgstr ""
 
 #: autocdlg.src#RID_OFAPAGE_AUTOFMT_APPLY.FT_HEADER2_EXPLANATION.fixedtext.text
 msgid "[T]: AutoFormat/AutoCorrect while typing"
-msgstr ""
+msgstr "[T]: UathFhormáidigh/UathCheartaigh le linn clóscríofa"
 
 #: autocdlg.src#RID_OFAPAGE_AUTOFMT_APPLY.ST_DEL_EMPTY_PARA.string.text
 msgid "Remove blank paragraphs"
@@ -36835,7 +36839,7 @@ msgstr "Bain ailt fholmha amach"
 
 #: autocdlg.src#RID_OFAPAGE_AUTOFMT_APPLY.ST_BULLET.string.text
 msgid "Replace bullets with: "
-msgstr ""
+msgstr "Ionadaigh urchair le: "
 
 #: autocdlg.src#RID_OFAPAGE_AUTOFMT_APPLY.ST_RIGHT_MARGIN.string.text
 msgid "Combine single line paragraphs if length greater than"
@@ -36843,11 +36847,11 @@ msgstr ""
 
 #: autocdlg.src#RID_OFAPAGE_AUTOFMT_APPLY.STR_NUM.string.text
 msgid "Apply numbering - symbol: "
-msgstr ""
+msgstr "Cuir an t-uimhriú i bhfeidhm - siombail: "
 
 #: autocdlg.src#RID_OFAPAGE_AUTOFMT_APPLY.STR_BORDER.string.text
 msgid "Apply border"
-msgstr ""
+msgstr "Cuir imlíne i bhfeidhm"
 
 #: autocdlg.src#RID_OFAPAGE_AUTOFMT_APPLY.STR_TABLE.string.text
 #: dbwizres.src#RID_DB_TABLE_WIZARD_START___5.string.text
@@ -36895,7 +36899,7 @@ msgstr ""
 
 #: autocdlg.src#RID_OFAPAGE_AUTOCORR_EXCEPT.FL_DOUBLECAPS.fixedline.text
 msgid "Words with TWo INitial CApitals"
-msgstr ""
+msgstr "Focail le DHá CHeannlitreacha THosaigh"
 
 #: autocdlg.src#RID_OFAPAGE_AUTOCORR_EXCEPT.PB_NEWDOUBLECAPS.pushbutton.text
 msgid "Ne~w"
@@ -36981,7 +36985,7 @@ msgstr "Scrios ~Iontráil"
 
 #: backgrnd.src#UNLINKED_IMAGE.#define.text
 msgid "Unlinked graphic"
-msgstr "Grafaic dínasctha"
+msgstr "Grafaic dhínasctha"
 
 #: backgrnd.src#RID_SVXPAGE_BACKGROUND.FT_SELECTOR.fixedtext.text
 msgid "A~s"
@@ -36989,7 +36993,7 @@ msgstr "Ma~r"
 
 #: backgrnd.src#RID_SVXPAGE_BACKGROUND.FT_TBL_DESC.fixedtext.text
 msgid "F~or"
-msgstr ""
+msgstr "D~o"
 
 #: backgrnd.src#RID_SVXPAGE_BACKGROUND.LB_TBL_BOX.1.stringlist.text
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_StateTableCell.Label.value.text
@@ -37083,7 +37087,7 @@ msgstr "Cu~maisc leis an chéad alt eile"
 
 #: border.src#RID_SVXPAGE_BORDER.CB_MERGEADJACENTBORDERS.checkbox.text
 msgid "~Merge adjacent line styles"
-msgstr ""
+msgstr "Cu~maisc stíleanna cóngaracha líne"
 
 #: border.src#RID_SVXSTR_TABLE_PRESET_NONE.string.text
 msgid "Set No Borders"
@@ -37091,19 +37095,19 @@ msgstr ""
 
 #: border.src#RID_SVXSTR_TABLE_PRESET_ONLYOUTER.string.text
 msgid "Set Outer Border Only"
-msgstr ""
+msgstr "Scoraigh Imlíne Amuigh Amháin"
 
 #: border.src#RID_SVXSTR_TABLE_PRESET_OUTERHORI.string.text
 msgid "Set Outer Border and Horizontal Lines"
-msgstr ""
+msgstr "Socraigh Imlíne Amuigh agus Línte Cothrománacha"
 
 #: border.src#RID_SVXSTR_TABLE_PRESET_OUTERALL.string.text
 msgid "Set Outer Border and All Inner Lines"
-msgstr ""
+msgstr "Socraigh Imlíne Amuigh agus Gach Líne Istigh"
 
 #: border.src#RID_SVXSTR_TABLE_PRESET_OUTERINNER.string.text
 msgid "Set Outer Border Without Changing Inner Lines"
-msgstr ""
+msgstr "Socraigh Imlíne Amuigh ach Ná hAthraigh Línte Istigh"
 
 #: border.src#RID_SVXSTR_PARA_PRESET_DIAGONAL.string.text
 msgid "Set Diagonal Lines Only"
@@ -37115,15 +37119,15 @@ msgstr ""
 
 #: border.src#RID_SVXSTR_PARA_PRESET_LEFTRIGHT.string.text
 msgid "Set Left and Right Borders Only"
-msgstr ""
+msgstr "Socraigh Imlínte Ar Chlé/Dheis Amháin"
 
 #: border.src#RID_SVXSTR_PARA_PRESET_TOPBOTTOM.string.text
 msgid "Set Top and Bottom Borders Only"
-msgstr ""
+msgstr "Socraigh Imlínte ag an mBarr/mBun Amháin"
 
 #: border.src#RID_SVXSTR_PARA_PRESET_ONLYLEFT.string.text
 msgid "Set Left Border Only"
-msgstr ""
+msgstr "Socraigh an Imlíne ar Chlé Amháin"
 
 #: border.src#RID_SVXSTR_HOR_PRESET_ONLYHOR.string.text
 msgid "Set Top and Bottom Borders, and All Inner Lines"
@@ -37514,7 +37518,7 @@ msgstr "Tonn (Trom)"
 
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE.17.stringlist.text
 msgid "Double Wave"
-msgstr "Tonn Dúbailte"
+msgstr "Tonn Dhúbailte"
 
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_STRIKEOUT.5.stringlist.text
 msgid "With /"
@@ -38355,7 +38359,7 @@ msgstr "ó"
 
 #: ctredlin.src#SID_REDLIN_FILTER_PAGE.LB_DATE.3.stringlist.text
 msgid "equal to "
-msgstr "cothom le "
+msgstr "cothrom le "
 
 #: ctredlin.src#SID_REDLIN_FILTER_PAGE.LB_DATE.6.stringlist.text
 msgid "since saving"
@@ -38596,7 +38600,7 @@ msgstr ""
 
 #: docrecovery.src#RID_SVXPAGE_ERR_REP_SEND.FT_ERRSEND_EMAILADDR.fixedtext.text
 msgid "~Please enter your e-mail address"
-msgstr "Iontráil do sheoladh ríomh~phoist, le do thoil"
+msgstr "Iontráil do sheoladh ríomh~phoist le do thoil"
 
 #: docrecovery.src#RID_SVXPAGE_ERR_REP_SEND.BTN_RECOV_NEXT.okbutton.text
 #: mail.src#RID_STR_CLOSE_BTN_SEND.string.text
@@ -39369,12 +39373,12 @@ msgstr ""
 
 #: impgrf.src#RID_SVXSTR_ALL_FILES.string.text
 msgid "<All files>"
-msgstr "<Comhaid uile>"
+msgstr "<Gach comhad>"
 
 #: impgrf.src#RID_SVXRES_IMPORTGRAPHIC.STR_IMPORT_ALL.string.text
 #: filedlghelper.src#STR_SFX_IMPORT_ALL.string.text
 msgid "<All formats>"
-msgstr "<Formáidí uile>"
+msgstr "<Gach formáid>"
 
 # see same with trailing full stop --KPS
 #: impgrf.src#RID_SVXRES_IMPORTGRAPHIC.STR_PATH_NOT_FOUND2.string.text
@@ -40709,7 +40713,7 @@ msgstr "Luchtaigh cód B~asic le cur in eagar"
 
 #: optfltr.src#RID_OFAPAGE_MSFILTEROPT.CB_EBAS_STG.checkbox.text
 msgid "Sa~ve original Basic code again"
-msgstr "Sá~bháil cód bunúsach Basic arís"
+msgstr "Sá~bháil an cód bunúsach Basic arís"
 
 #: optfltr.src#RID_OFAPAGE_MSFILTEROPT.GB_PPOINT.fixedline.text
 msgid "Microsoft PowerPoint 97/2000"
@@ -40816,7 +40820,7 @@ msgstr "Bliain (2 digit)"
 
 #: optgdlg.src#OFA_TP_MISC.FT_INTERPRET.fixedtext.text
 msgid "Interpret as years between"
-msgstr "Léigh mar líon na mbliana idir"
+msgstr "Léigh mar líon na mblianta idir"
 
 #: optgdlg.src#OFA_TP_VIEW.FL_USERINTERFACE.fixedline.text
 msgid "User Interface"
@@ -40967,7 +40971,7 @@ msgstr ""
 
 #: optgdlg.src#OFA_TP_LANGUAGES.CB_DECIMALSEPARATOR.checkbox.text
 msgid "~Same as locale setting ( %1 )"
-msgstr "~Ionann leis an logchaighdeán socraithe ( %1 )"
+msgstr "~Is ionann é leis an socrú logchaighdeánach ( %1 )"
 
 #: optgdlg.src#OFA_TP_LANGUAGES.FT_CURRENCY.fixedtext.text
 msgid "~Default currency"
@@ -41170,7 +41174,7 @@ msgstr "Líon na gcéimeanna"
 
 #: optmemory.src#OFA_TP_MEMORY.GB_GRAPHICCACHE.fixedline.text
 msgid "Graphics cache"
-msgstr "Taisce grafaice"
+msgstr "Taisce ghrafaice"
 
 #: optmemory.src#OFA_TP_MEMORY.FT_GRAPHICCACHE.fixedtext.text
 msgid "Use for %PRODUCTNAME"
@@ -41429,7 +41433,7 @@ msgstr "[Óna socruithe phriontála]"
 
 #: paragrph.src#RID_SVXPAGE_STD_PARAGRAPH.FT_LEFTINDENT.fixedtext.text
 msgid "Before text"
-msgstr "Roimh téacs"
+msgstr "Roimh théacs"
 
 #: paragrph.src#RID_SVXPAGE_STD_PARAGRAPH.FT_RIGHTINDENT.fixedtext.text
 msgid "After text"
@@ -41554,7 +41558,7 @@ msgstr "Ceadaigh poncaíocht ag tosach na líne"
 
 #: paragrph.src#RID_SVXPAGE_PARA_ASIAN.CB_AS_SCRIPT_SPACE.tristatebox.text
 msgid "Apply spacing between Asian, Latin and Complex text"
-msgstr "Cuir spás idir téacs Áiseach, Laidineach agus Coimpléacsach"
+msgstr "Cuir spás idir téacs Áiseach, Laidineach agus Coimpléascach"
 
 #: paragrph.src#RID_SVXPAGE_PARA_ASIAN.CB_AS_ADJUST_NUMBERS.tristatebox.text
 msgid "Automatically adjust space between Asian text and numbers"
@@ -41989,7 +41993,7 @@ msgstr ""
 #: sdstring.src#RID_SVXSTR_LINEEND.string.text
 #: tabline.src#RID_SVXPAGE_LINEEND_DEF.tabpage.text
 msgid "Arrowheads"
-msgstr "Cinn Shaighde"
+msgstr "Cinn Saighde"
 
 #: sdstring.src#RID_SVXSTR_DEL_LINEEND.string.text
 msgid "Delete line ends"
@@ -42395,7 +42399,7 @@ msgstr "Toislínte"
 
 #: sdstring.src#RID_SVXSTR_LEND4.string.text
 msgid "Double Arrow"
-msgstr "Saighead Dúbailte"
+msgstr "Saighead Dhúbailte"
 
 #: sdstring.src#RID_SVXSTR_LEND5.string.text
 msgid "Rounded short arrow"
@@ -42950,7 +42954,7 @@ msgstr ""
 
 #: tabline.src#RID_SVXPAGE_LINEEND_DEF.FT_LINE_END_STYLE.fixedtext.text
 msgid "Arrow style"
-msgstr "Stíl shaighde"
+msgstr "Stíl saighde"
 
 #: tabline.src#RID_SVXPAGE_LINEEND_DEF.BTN_LOAD.imagebutton.quickhelptext
 msgid "Load Arrow Styles"
@@ -43087,6 +43091,7 @@ msgstr "~Ciall "
 msgid "Sy~nonym"
 msgstr "Téarma ~comhchiallach"
 
+# OK; variants = foirmeacha malartacha
 #: thesdlg.src#RID_SVXDLG_THESAURUS.FL_VAR.fixedline.text
 msgid "Variations"
 msgstr "Athrúcháin"
@@ -43731,7 +43736,7 @@ msgstr "Ní féidir an ghrafaic $(ARG1) a aimsiú."
 
 #: svxerr.src#RID_SVXERRCODE.ERRCODE_SVX_GRAPHIC_WRONG_FILEFORMAT_ERRCODE_RES_MASK.string.text
 msgid "An unlinked graphic could not be loaded"
-msgstr "Níorbh fhéidir grafaic dínasctha a luchtú"
+msgstr "Níorbh fhéidir grafaic dhínasctha a luchtú"
 
 #: svxerr.src#RID_SVXERRCODE.ERRCODE_SVX_LINGU_NOLANGUAGE_ERRCODE_RES_MASK.string.text
 msgid "A language has not been fixed for the selected term."
@@ -43812,7 +43817,7 @@ msgstr "Aimsigh Uile"
 
 #: svxitems.src#RID_SVXITEMS_SEARCHCMD_REPLACE_ALL.string.text
 msgid "Replace all"
-msgstr "Ionadaigh gach"
+msgstr "Ionadaigh uile"
 
 #: svxitems.src#RID_SVXITEMS_BREAK_NONE.string.text
 msgid "No break"
@@ -43820,7 +43825,7 @@ msgstr "Gan briseadh"
 
 #: svxitems.src#RID_SVXITEMS_BREAK_COLUMN_BEFORE.string.text
 msgid "Break before new column"
-msgstr "Briseadh roimh colún nua"
+msgstr "Briseadh roimh cholún nua"
 
 #: svxitems.src#RID_SVXITEMS_BREAK_COLUMN_AFTER.string.text
 msgid "Break after new column"
@@ -43932,7 +43937,7 @@ msgstr "Folíne shingil"
 
 #: svxitems.src#RID_SVXITEMS_UL_DOUBLE.string.text
 msgid "Double underlne"
-msgstr "Líne dúbailte faoi"
+msgstr "Líne dhúbailte faoi"
 
 #: svxitems.src#RID_SVXITEMS_UL_DOTTED.string.text
 msgid "Dotted underline"
@@ -44237,7 +44242,7 @@ msgstr "Coirneáil na bPéirí"
 
 #: svxitems.src#RID_SVXITEMS_AUTOKERN_FALSE.string.text
 msgid "No pair kerning"
-msgstr "Gan Coirneáil"
+msgstr "Gan Choirneáil"
 
 #: svxitems.src#RID_SVXITEMS_WORDLINE_FALSE.string.text
 msgid "Not Words Only"
@@ -45852,7 +45857,7 @@ msgstr ""
 #: globlmn_tmpl.hrc#ITEM_HELP_HELP_PI.#define.text
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_HelperDialog.Label.value.text
 msgid "Help ~Agent"
-msgstr "C~abhróir"
+msgstr "Gníomhaí C~abhrach"
 
 #: globlmn_tmpl.hrc#ITEM_HELP_BALLOONHELP.#define.text
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_ActiveHelp.Label.value.text
@@ -46117,6 +46122,7 @@ msgstr "m"
 msgid "km"
 msgstr "km"
 
+# OK
 #: units.src#SV_FUNIT_STRINGS.5.itemlist.text
 msgid "twips"
 msgstr "fipeanna"
@@ -46770,7 +46776,7 @@ msgstr ""
 
 #: query.src#STR_VIEWDESIGN.string.text
 msgid " - %PRODUCTNAME Base: View Design"
-msgstr " - %PRODUCTNAME Base: Amharc ar an nDearadh"
+msgstr " - %PRODUCTNAME Base: Amharc ar an Dearadh"
 
 #: querydlg.src#DLG_QRY_JOIN.WND_CONTROL.FL_INVOLVED_TABLES.fixedline.text
 #: RelationDlg.src#DLG_REL_PROPERTIES.WND_CONTROL.FL_INVOLVED_TABLES.fixedline.text
@@ -46878,7 +46884,7 @@ msgstr "Mé~id (MB):"
 
 #: AdabasStat.src#DLG_ADABASSTAT.FT_FREESIZE.fixedtext.text
 msgid "~Free memory space (MB):"
-msgstr "~Cuimhne saor (MB):"
+msgstr "~Cuimhne shaor (MB):"
 
 #: AdabasStat.src#DLG_ADABASSTAT.FT_MEMORYUSING.fixedtext.text
 msgid "~Memory utilization (in %):"
@@ -47160,7 +47166,7 @@ msgstr "Socruithe Úsáideora"
 
 #: UserAdminDlg.src#DLG_DATABASE_USERADMIN.tabdialog.text
 msgid "User administration"
-msgstr "Riar na n-úsáideorí"
+msgstr "Riar na n-úsáideoirí"
 
 #: adtabdlg.src#DLG_JOIN_TABADD.FT_TABLE.fixedtext.text
 #: dbwizres.src#RID_DB_COMMON_START___5.string.text
@@ -47875,7 +47881,7 @@ msgstr "Tá an t-ainm '$#$' ann cheana.\\nIontráil ainm eile le do thoil."
 msgid "The name '$#$' already exists.\\nDo you want to overwrite it?"
 msgstr ""
 "Tá an t-ainm '$#$' ann cheana.\n"
-"An mian leat scríobh air?"
+"An mian leat é a fhorscríobh?"
 
 #: dlgsave.src#DLG_SAVE_AS.STR_TITLE_RENAME.string.text
 msgid "Rename to"
@@ -48473,7 +48479,7 @@ msgstr "Níorbh fhéidir nasc a bhunú leis an URL #connurl#."
 #: tabletree.src#STR_COULDNOTCONNECT_PLEASECHECK.string.text
 msgid "Please check the current settings, for example user name and password."
 msgstr ""
-"Seiceáil na socruithe reatha le do thoil, mar shample, an t-ainm úsáideora "
+"Seiceáil na socruithe reatha le do thoil, mar shampla, an t-ainm úsáideora "
 "agus an focal faire."
 
 #: tabletree.src#STR_NOTABLEINFO.string.text
@@ -48484,7 +48490,7 @@ msgstr ""
 
 #: tabletree.src#STR_ALL_TABLES.string.text
 msgid "All tables"
-msgstr "Táblaí Uile"
+msgstr "Gach tábla"
 
 #: tabletree.src#STR_ALL_VIEWS.string.text
 msgid "All views"
@@ -48998,7 +49004,7 @@ msgstr "Dí~nasc"
 
 #: sbabrw.src#MID_REFRESHCONN.#define.text
 msgid "~Refresh Connection"
-msgstr "Nuashon~raigh an Nasc"
+msgstr "Ath~nuaigh an Nasc"
 
 #: sbabrw.src#STR_QUERY_DELETE_TABLE.string.text
 msgid "Do you want to delete the table '%1'?"
@@ -50027,7 +50033,7 @@ msgstr "Ar mhaith leat an teimpléad réamhshocraithe a athshocrú?"
 
 #: doc.src#MSG_TEMPLATE_DIR_NOT_EXIST.infobox.text
 msgid "Template directory\\n$(DIR)\\ndoes not exist."
-msgstr "Níl an chomhadlann theimpléid\\n$(DIR)\\nann."
+msgstr "Níl an chomhadlann teimpléid\\n$(DIR)\\nann."
 
 #: doc.src#MSG_DOCINFO_CANTREAD.infobox.text
 msgid "Document info cannot be read."
@@ -51955,7 +51961,7 @@ msgstr ""
 msgid ""
 "The document cannot be closed because a\\n print job is being carried out."
 msgstr ""
-"Ní féidir an cháipéis a dhúnadh toisc go\\n bhfuil jab priontála ar bun."
+"Ní féidir an cháipéis a dhúnadh toisc\\n go bhfuil jab priontála ar bun."
 
 #: view.src#DLG_PRINTMONITOR_TEXT.#define.text
 msgid "Print Monitor"
@@ -52000,7 +52006,7 @@ msgstr ""
 
 #: view.src#STR_REPAIREDDOCUMENT.string.text
 msgid " (repaired document)"
-msgstr " (cáipéis dheisithe)"
+msgstr " (cáipéis deisithe)"
 
 #: explorer.src#RID_SFX_HORIZONTALEXPLORERDOCKWND.dockingwindow.text
 msgid "Beamer: "
@@ -52024,11 +52030,11 @@ msgstr "~Ná Scrios"
 #: explorer.src#DLG_SFX_QUERYDELETE.modaldialog.text
 #: fileview.src#DLG_SVT_QUERYDELETE.modaldialog.text
 msgid "Confirm Delete"
-msgstr "Dearbhaigh an dealú"
+msgstr "Dearbhaigh an Scriosadh"
 
 #: explorer.src#DLG_SFX_QUERYOVERWRITE.TXT_QUERYOVERWRITE_FLD.fixedtext.text
 msgid "The folder already exists. Overwrite?"
-msgstr "Tá an filltéan ann cheana. Forscríobh?"
+msgstr "Tá an fillteán ann cheana. Forscríobh?"
 
 #: explorer.src#DLG_SFX_QUERYOVERWRITE.TXT_TARGETFILELABEL.fixedtext.text
 msgid "Destination:"
@@ -52182,7 +52188,7 @@ msgstr "Úsáid socruithe sheachfhreastalaí an ~bhrabhsálaí"
 
 #: logindialog.src#RID_DLG_LOGIN.RID_RB_USECUSTOMPROXY.radiobutton.text
 msgid "Use ~custom proxy settings"
-msgstr "Úsáid so~cruithe sheachfhreastalaí shaincheaptha"
+msgstr "Úsáid so~cruithe shaincheaptha sheachfhreastalaí"
 
 #: logindialog.src#RID_DLG_LOGIN.RID_FT_SECURITYPROXY.fixedtext.text
 msgid "Se~curity Proxy"
@@ -52228,7 +52234,7 @@ msgstr ""
 
 #: resource.src#STR_NODOCUMENT.string.text
 msgid "No documents"
-msgstr "Gan cáipéis"
+msgstr "Gan cháipéis"
 
 #: resource.src#STR_TOOLBAR_TITLE_ADDON.string.text
 msgid "Add-On %num%"
@@ -52542,7 +52548,7 @@ msgstr "Ainm úsáideora"
 
 #: wizard.src#STR_STATE_REGISTRATION.string.text
 msgid "Registration"
-msgstr "Clárúchán"
+msgstr "Clárú"
 
 #: wizard.src#STR_WELCOME_MIGRATION.string.text
 msgid ""
@@ -52617,7 +52623,7 @@ msgstr ""
 #: wizard.src#TP_LICENSE.FT_LICENSE_BODY_2_TXT.fixedtext.text
 msgid "Click 'Accept' to accept the terms of the Agreement."
 msgstr ""
-"Cliceáil 'Glac Leis' chun glacadh leis na coinníollacha an Chomhaontú um "
+"Cliceáil 'Glac Leis' chun glacadh le coinníollacha an Chomhaontú um "
 "Cheadúnas."
 
 #: wizard.src#TP_LICENSE.PB_LICENSE_DOWN.pushbutton.text
@@ -55421,7 +55427,7 @@ msgstr "An mhinicíocht"
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Couppcd.9.string.text
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupnum.9.string.text
 msgid "The basis"
-msgstr "An bhonn"
+msgstr "An bonn"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrintm.1.string.text
 msgid ""
@@ -56324,7 +56330,7 @@ msgstr "Ní féidir ainm na leabharlainne réamhshocraithe a athrú."
 
 #: basidesh.src#RID_STR_CANNOTCHANGENAMEREFLIB.string.text
 msgid "The name of a referenced library cannot be changed."
-msgstr "Ní féidir an t-ainm ar leabharlann tagartha a athrú."
+msgstr "Ní féidir an t-ainm ar leabharlann thagartha a athrú."
 
 #: basidesh.src#RID_STR_CANNOTUNLOADSTDLIB.string.text
 msgid "The default library cannot be deactivated"
@@ -56759,7 +56765,7 @@ msgstr ", Cineál: %1, URL: %2"
 
 #: svcontnr.src#STR_SVT_ACC_EMPTY_FIELD.string.text
 msgid "Empty Field"
-msgstr "Réimse Fholamh"
+msgstr "Réimse Folamh"
 
 #: templwin.src#STR_SVT_SAMPLES.string.text
 msgid "Samples"
@@ -57246,7 +57252,7 @@ msgstr ""
 
 #: errtxt.src#RID_ERRHDL.ERRCODE_SFX_INVALIDBMKPATH.string.text
 msgid "The bookmark folder is invalid."
-msgstr "Filltéan neamhbhailí leabharmharcanna."
+msgstr "Fillteán neamhbhailí leabharmharcanna."
 
 #: errtxt.src#RID_ERRHDL.ERRCODE_SFX_CANTWRITEURLCFGFILE.string.text
 msgid "The configuration of the URLs to be saved locally could not be saved"
@@ -57912,7 +57918,7 @@ msgstr "Cóipeanna"
 
 #: printdlg.src#DLG_SVT_PRNDLG_PRINTDLG.FT_COPIES.fixedtext.text
 msgid "Number of copies"
-msgstr "Líon na gcóip"
+msgstr "Líon na gcóipeanna"
 
 #: printdlg.src#DLG_SVT_PRNDLG_PRINTDLG.CBX_COLLATE.checkbox.text
 msgid "Co~llate"
@@ -59619,7 +59625,7 @@ msgstr "Athshocraigh Ródú"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_LeaveAllGroups.Label.value.text
 msgid "Exit All Groups"
-msgstr ""
+msgstr "Scoir Gach Grúpa"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_ParaspaceIncrease.Label.value.text
 msgid "Increase Spacing"
@@ -61916,7 +61922,7 @@ msgstr "~Draoithe"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_OutlineCollapse.Label.value.text
 msgid "Hide Subpoints"
-msgstr "Folaigh Fo-phointí"
+msgstr "Folaigh Fophointí"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_OutlineExpandAll.Label.value.text
 msgid "All Levels"
@@ -61924,7 +61930,7 @@ msgstr "Gach Leibhéal"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_OutlineExpand.Label.value.text
 msgid "Show Subpoints"
-msgstr "Taispeáin Fo-phointí"
+msgstr "Taispeáin Fophointí"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_HelplinesMove.Label.value.text
 msgid "Guides When Moving"
@@ -61984,11 +61990,11 @@ msgstr "Scrios Fráma"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_SetObjectToBackground.Label.value.text
 msgid "To Background"
-msgstr "Go Cúlra"
+msgstr "Go dtí an Cúlra"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_SetObjectToForeground.Label.value.text
 msgid "To Foreground"
-msgstr ""
+msgstr "Go dtí an Túlra"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_LineEndStyle.Label.value.text
 msgid "Arrow Style"
@@ -67691,7 +67697,7 @@ msgstr "Bhíothas ag súil le hoibreoir aonártha"
 
 #: smres.src#RID_ERR_BINOPEREXPECTED.string.text
 msgid "Binary operator expected"
-msgstr "Bhíotas ag súil le hoibreoir dénártha"
+msgstr "Bhíothas ag súil le hoibreoir dénártha"
 
 #: smres.src#RID_ERR_IDENTEXPECTED.string.text
 msgid "Identifier expected"
@@ -68794,11 +68800,11 @@ msgstr ""
 
 #: formres.src#RID_STR_ENUM_CYCLE.string.text
 msgid "All records;Active record;Current page"
-msgstr ""
+msgstr "Gach taifead;Taifead reatha;Leathanach reatha"
 
 #: formres.src#RID_STR_ENUM_NAVIGATION.string.text
 msgid "No;Yes;Parent Form"
-msgstr ""
+msgstr "Níl;Tá;Máthairfhoirm"
 
 #: formres.src#RID_STR_ESCAPE_PROCESSING.string.text
 msgid "Analyze SQL command"
@@ -69308,7 +69314,7 @@ msgstr ""
 
 #: crashrep.ulf#_BACK_BUTTON_.LngText.text
 msgid " << ~Back"
-msgstr "<< ~Ar Ais"
+msgstr "<< ~Siar"
 
 #: crashrep.ulf#_SHOW_REPORT_BUTTON_.LngText.text
 msgid "Show ~Report..."
@@ -69669,7 +69675,7 @@ msgstr "Comhad: [1], Comhadlann: [9]"
 #: ActionTe.ulf#OOO_ACTIONTEXT_69.LngText.text
 #: ActionTe.ulf#OOO_ACTIONTEXT_119.LngText.text
 msgid "Updating environment strings"
-msgstr "Teaghráin thimpeallachta á nuashonrú"
+msgstr "Teaghráin timpeallachta á nuashonrú"
 
 #: ActionTe.ulf#OOO_ACTIONTEXT_70.LngText.text
 #: ActionTe.ulf#OOO_ACTIONTEXT_120.LngText.text
@@ -71664,7 +71670,7 @@ msgstr ""
 
 #: Nsis.ulf#MUI_TEXT_WELCOME_INFO_TITLE.LngText.text
 msgid "Thank you for downloading %PRODUCTNAME %PRODUCTVERSION."
-msgstr "Go raibh maith agat as íosluchú %PRODUCTNAME %PRODUCTVERSION."
+msgstr "Go raibh maith agat as íosluchtú %PRODUCTNAME %PRODUCTVERSION."
 
 #: Nsis.ulf#MUI_TEXT_WELCOME_INFO_TEXT.LngText.text
 msgid ""
@@ -71763,8 +71769,8 @@ msgid "The format of the selected file is not supported."
 msgstr "Ní thacaítear le formáid an chomhaid roghnaithe."
 
 #: readme.xrm#ooo_readme.Welcome.A2.a.readmeitem.text
-msgid "Last updated $Date: 2005-04-29 16:48:45 $"
-msgstr "Nuashonrú is déanaí $Date: 2005-04-29 16:48:45 $"
+msgid "Last updated $Date: 2005-04-29 20:34:48 $"
+msgstr "Nuashonrú is déanaí $Date: 2005-04-29 20:34:48 $"
 
 #: readme.xrm#ooo_readme.Welcome.A3.a.readmeitem.text
 msgid "OpenOffice.org 2.0 ReadMe"
@@ -71957,7 +71963,7 @@ msgstr "250 MB (leagan CJK: 300 MB) spás inúsáidte ar an diosca crua"
 
 #: readme.xrm#ooo_readme.Installation.WNT2.jtzu56.readmeitem.text
 msgid "800x600 resolution or higher, at least 256 colors"
-msgstr "Taifeach 800x600 nó níos fearr, agus 256 dath ar a laghad"
+msgstr "Taifeach 800×600 nó níos fearr, agus 256 dath ar a laghad"
 
 #: readme.xrm#ooo_readme.Installation.Sols2.s2335.readmeitem.text
 msgid ""
@@ -71979,7 +71985,7 @@ msgstr "300 MB (leagan CJK: 450 MB) spás inúsáidte ar an diosca crua"
 #: readme.xrm#ooo_readme.Installation.Linuxi2.ghjhhr.readmeitem.text
 msgid "X Server with 800x600 or higher resolution, with at least 256 colors"
 msgstr ""
-"Freastalaí X le taifeach 800x600 nó níos fearr, agus 256 dath ar a laghad"
+"Freastalaí X le taifeach 800×600 nó níos fearr, agus 256 dath ar a laghad"
 
 #: readme.xrm#ooo_readme.Installation.Sols2.wd2dff.readmeitem.text
 msgid ""
@@ -72557,7 +72563,7 @@ msgstr "Iompórtáil ó:"
 
 #: importwi.src#sTextExportLabel.string.text
 msgid "Save to:"
-msgstr "Sábháil chuig:"
+msgstr "Sábháil go:"
 
 #: importwi.src#sGroupnameDefault.string.text
 msgid "Imported_Templates"
@@ -72695,7 +72701,7 @@ msgstr "Beidh gach fochomhadlann curtha san áireamh"
 
 #: importwi.src#sSumSaveDokumente.string.text
 msgid "These will be exported to the following directory:"
-msgstr "Iompórtálfar iad seo go dtí an comhadlann a leanas:"
+msgstr "Iompórtálfar iad seo go dtí an chomhadlann a leanas:"
 
 #: importwi.src#sSumSOTextDocuments.string.text
 msgid ""
@@ -72900,7 +72906,7 @@ msgstr "Deireadh seachtaine"
 
 #: euro.src#STEP_ZERO___2.string.text
 msgid "<<~Back"
-msgstr "<<~Ar Ais"
+msgstr "<<~Siar"
 
 #: euro.src#STEP_ZERO___4.string.text
 msgid ""
@@ -74572,7 +74578,7 @@ msgstr ""
 
 #: dbwizres.src#RID_LETTERWIZARDROADMAP_START___3.string.text
 msgid "Printed items"
-msgstr "Míreanna priontáilta"
+msgstr "Míreanna priontáilte"
 
 #: dbwizres.src#RID_LETTERWIZARDROADMAP_START___4.string.text
 msgid "Recipient and sender"
@@ -74657,7 +74663,7 @@ msgstr ""
 
 #: dbwizres.src#RID_FAXWIZARDDIALOG_START___30.string.text
 msgid "Specify sender and recipient information"
-msgstr "Sonraigh faisnéis maidir leis an sheoltóir agus an faighteoir"
+msgstr "Sonraigh faisnéis maidir leis an seoltóir agus an faighteoir"
 
 #: dbwizres.src#RID_FAXWIZARDDIALOG_START___31.string.text
 msgid "Enter text for the footer"
@@ -74878,15 +74884,15 @@ msgstr ""
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__64.string.text
 msgid "~640x480"
-msgstr "~640x480"
+msgstr "~640×480"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__65.string.text
 msgid "~800x600"
-msgstr "~800x600"
+msgstr "~800×600"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__66.string.text
 msgid "~1024x768"
-msgstr "~1024x768"
+msgstr "~1024×768"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__70.string.text
 msgid "Generating Your Web Site"
@@ -75031,7 +75037,7 @@ msgstr ""
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__111.string.text
 msgid "A security error acoccurred while exporting the document '%FILENAME'."
-msgstr "Tharla earráid shlándála agus cáipéis '%FILENAME' á heaspórtáil."
+msgstr "Tharla earráid slándála agus cáipéis '%FILENAME' á heaspórtáil."
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__112.string.text
 msgid ""
@@ -75092,7 +75098,7 @@ msgstr ""
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__127.string.text
 msgid "Web site information"
-msgstr "Eolas faoin shuíomh Gréasáin"
+msgstr "Eolas faoin suíomh Gréasáin"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__130.string.text
 msgid ""
@@ -75214,7 +75220,7 @@ msgstr "2. Nasc leis an bhfreastalaí."
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_FTP__7.string.text
 msgid "3. ~Choose a remote directory (optional)."
-msgstr "3. Roghnaigh ~comhadlann cianda (roghnach)."
+msgstr "3. Roghnaigh ~comhadlann chianda (roghnach)."
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_FTP__9.string.text
 msgid "Connection status is unknown"
