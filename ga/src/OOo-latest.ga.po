@@ -22043,8 +22043,8 @@ msgstr "C~ineál"
 #: labfmt.src#DLG_SAVE_LABEL.MB_QUERY.querybox.text
 msgid "The label \"%1 / %2\" already exists.\\nDo you want to overwrite it?"
 msgstr ""
-"Tá an lipéad \"%1 / %2\" ann cheana.\\nAn bhfuil tú cinnte gur mian leat "
-"é a fhorscríobh?"
+"Tá an lipéad \"%1 / %2\" ann cheana.\\nAn bhfuil tú cinnte gur mian leat é a "
+"fhorscríobh?"
 
 #: labfmt.src#DLG_SAVE_LABEL.modaldialog.text
 msgid "Save Label Format"
@@ -37216,7 +37216,7 @@ msgstr "Athchóirigh Réamhshocruithe"
 
 #: cfg.src#TEXT_DEFAULT_COMMAND.#define.text
 msgid "Restore Default Command"
-msgstr ""
+msgstr "Athchóirigh an tOrdú Réamhshocraithe"
 
 #: cfg.src#TEXT_TEXT_ONLY.#define.text
 msgid "Text only"
@@ -37243,7 +37243,7 @@ msgstr "Nua..."
 
 #: cfg.src#RID_SVXPAGE_MENUS.GRP_MENU_SEPARATOR.fixedline.text
 msgid "Menu Content"
-msgstr ""
+msgstr "Ábhar an Roghchláir"
 
 #: cfg.src#RID_SVXPAGE_MENUS.BTN_ADD_COMMANDS.pushbutton.text
 #: digitalsignaturesdialog.src#RID_XMLSECDLG_DIGSIG.BTN_ADDCERT.pushbutton.text
@@ -37341,7 +37341,7 @@ msgstr "Barra Uirlisí"
 
 #: cfg.src#RID_SVXSTR_TOOLBAR_CONTENT.string.text
 msgid "Toolbar Content"
-msgstr ""
+msgstr "Ábhar an Bharra Uirlisí"
 
 #: cfg.src#RID_SVXSTR_COMMANDS.string.text
 #: selector.src#STR_SELECTOR_COMMANDS.string.text
@@ -37364,6 +37364,8 @@ msgstr ""
 msgid ""
 "There are no more commands on the toolbar. Do you want to delete the toolbar?"
 msgstr ""
+"Níl níos mó orduithe ar an bharra uirlisí. Ar mhaith leat an barra uirlisí a "
+"scriosadh?"
 
 #: cfg.src#QBX_CONFIRM_RESET.querybox.text
 #: cfg.src#RID_SVXSTR_CONFIRM_MENU_RESET.string.text
@@ -37396,7 +37398,7 @@ msgstr "Úsáideoir"
 
 #: chardlg.src#RID_SVXPAGE_CHAR_NAME.FL_WEST.fixedline.text
 msgid "Western text font"
-msgstr ""
+msgstr "Cló iartharach"
 
 #: chardlg.src#RID_SVXPAGE_CHAR_NAME.FT_WEST_STYLE.fixedtext.text
 #: chardlg.src#RID_SVXPAGE_CHAR_NAME.FT_WEST_STYLE_NOCJK.fixedtext.text
@@ -37413,7 +37415,7 @@ msgstr "Iodálach trom"
 
 #: chardlg.src#RID_SVXPAGE_CHAR_NAME.FL_EAST.fixedline.text
 msgid "Asian text font"
-msgstr ""
+msgstr "Cló Áiseach"
 
 #: chardlg.src#RID_SVXPAGE_CHAR_NAME.FT_EAST_STYLE.fixedtext.text
 msgid "T~ypeface"
@@ -37530,7 +37532,7 @@ msgstr "Le X"
 
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.CB_INDIVIDUALWORDS.checkbox.text
 msgid "Individual ~words"
-msgstr ""
+msgstr "Focail ~aonair"
 
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.FT_EMPHASIS.fixedtext.text
 msgid "Emp~hasis mark"
@@ -37636,7 +37638,7 @@ msgstr ""
 
 #: chardlg.src#RID_SVXPAGE_CHAR_POSITION.FT_SCALE_WIDTH.fixedtext.text
 msgid "Scale ~width"
-msgstr ""
+msgstr "Scálaigh an ~leithead"
 
 #: chardlg.src#RID_SVXPAGE_CHAR_POSITION.LB_KERNING2.2.stringlist.text
 #: padialog.src#RID_TXT_FONT_EXPANDED.string.text
@@ -37650,7 +37652,7 @@ msgstr "Comhdhlúite"
 
 #: chardlg.src#RID_SVXPAGE_CHAR_POSITION.CB_PAIRKERNING.checkbox.text
 msgid "~Pair kerning"
-msgstr ""
+msgstr "Coirneáil na b~Péirí"
 
 #: chardlg.src#RID_SVXPAGE_CHAR_TWOLINES.FL_SWITCHON.fixedline.text
 #: svxitems.src#RID_ATTR_CHAR_TWO_LINES.string.text
@@ -37664,7 +37666,7 @@ msgstr ""
 
 #: chardlg.src#RID_SVXPAGE_CHAR_TWOLINES.FL_ENCLOSE.fixedline.text
 msgid "Enclosing character"
-msgstr ""
+msgstr "Carachtar iniata"
 
 #: chardlg.src#RID_SVXPAGE_CHAR_TWOLINES.FT_STARTBRACKET.fixedtext.text
 msgid "I~nitial character"
@@ -37694,7 +37696,7 @@ msgstr "Carachtair Eile..."
 
 #: chardlg.src#RID_SVXPAGE_CHAR_TWOLINES.FT_ENDBRACKET.fixedtext.text
 msgid "Final charact~er"
-msgstr ""
+msgstr "Carachtar d~eiridh"
 
 #: chardlg.src#RID_SVXPAGE_CHAR_TWOLINES.ED_ENDBRACKET.2.stringlist.text
 msgid ")"
@@ -37871,7 +37873,7 @@ msgstr "Siombailí Airgeadra"
 
 #: charmap.src#RID_SUBSETMAP.RID_SUBSETSTR_COMB_DIACRITIC_SYMS.string.text
 msgid "Combining Diacritical Symbols"
-msgstr ""
+msgstr "Siombailí Snaidhmthe Diaicritice"
 
 #: charmap.src#RID_SUBSETMAP.RID_SUBSETSTR_LETTERLIKE_SYMBOLS.string.text
 msgid "Letterlike Symbols"
@@ -38182,7 +38184,7 @@ msgstr "Bopomofo Breisithe"
 
 #: charmap.src#RID_SUBSETMAP.RID_SUBSETSTR_KATAKANA_PHONETIC.string.text
 msgid "Katakana Phonetics"
-msgstr ""
+msgstr "Foghraíocht Chatacánach"
 
 #: commonlingui.src#RID_SVX_WND_COMMON_LINGU.FT_WORD.fixedtext.text
 msgid "Origi~nal"
@@ -38244,7 +38246,7 @@ msgstr ""
 
 #: connpooloptions.src#RID_OFAPAGE_CONNPOOLOPTIONS.FT_DRIVERS.fixedtext.text
 msgid "Drivers known in %PRODUCTNAME"
-msgstr ""
+msgstr "Tiománaithe aitheanta i %PRODUCTNAME"
 
 #: connpooloptions.src#RID_OFAPAGE_CONNPOOLOPTIONS.FT_DRIVERLABEL.fixedtext.text
 msgid "Current driver:"
@@ -38566,7 +38568,7 @@ msgstr ""
 #: WizardPages.src#WIZ_RTFCOPYTABLE.PB_PREV.pushbutton.text
 #: dbwizres.src#RID_COMMON_START___13.string.text
 msgid "< ~Back"
-msgstr "< Ar Ai~s"
+msgstr "< ~Siar"
 
 #: docrecovery.src#RID_SVXPAGE_ERR_REP_SEND.FT_RECOV_TITLE.fixedtext.text
 msgid "Sending the Error Report"
@@ -58047,7 +58049,7 @@ msgstr ""
 
 #: wizardmachine.src#STR_WIZDLG_PREVIOUS.string.text
 msgid "<< Bac~k"
-msgstr "<< Ar ~Ais"
+msgstr "<< Sia~r"
 
 #: testtool.src#DisplayHidToolBox.TT_SHOW.toolboxitem.text
 msgid "Display IDs"
@@ -71769,8 +71771,8 @@ msgid "The format of the selected file is not supported."
 msgstr "Ní thacaítear le formáid an chomhaid roghnaithe."
 
 #: readme.xrm#ooo_readme.Welcome.A2.a.readmeitem.text
-msgid "Last updated $Date: 2005-04-29 20:34:48 $"
-msgstr "Nuashonrú is déanaí $Date: 2005-04-29 20:34:48 $"
+msgid "Last updated $Date: 2005-04-30 00:04:30 $"
+msgstr "Nuashonrú is déanaí $Date: 2005-04-30 00:04:30 $"
 
 #: readme.xrm#ooo_readme.Welcome.A3.a.readmeitem.text
 msgid "OpenOffice.org 2.0 ReadMe"
