@@ -2350,7 +2350,7 @@ msgstr "Cuir Cnámhscéal in Eagar"
 #: scendlg.src#RID_SCDLG_NEWSCENARIO.STR_CREATEDBY.string.text
 #: globstr.src#RID_GLOBSTR.STR_HF_CREATED_BY.string.text
 msgid "Created by"
-msgstr "Cruthaithe le"
+msgstr "Cruthaithe ag"
 
 #: scendlg.src#RID_SCDLG_NEWSCENARIO.STR_ON.string.text
 #: globstr.src#RID_GLOBSTR.STR_ON.string.text
@@ -14276,7 +14276,7 @@ msgstr "Trédhearcacht"
 
 #: prltempl.src#TAB_PRES_LAYOUT_TEMPLATE.tabdialog.text
 msgid "Presentation Layout"
-msgstr "Leagan Amach Láithreoireachta"
+msgstr "Leagan Amach na Láithreoireachta"
 
 #: prntopts.src#TP_PRINT_OPTIONS.CBX_DRAW.checkbox.text
 #: Common.xcu#..Common.Menus.New.m3.Title.value.text
@@ -37605,7 +37605,7 @@ msgstr "Caochadh"
 
 #: chardlg.src#RID_SVXPAGE_CHAR_POSITION.FT_HIGHLOW.fixedtext.text
 msgid "~Raise/lower by"
-msgstr ""
+msgstr "A~rdaigh/ísligh de"
 
 #: chardlg.src#RID_SVXPAGE_CHAR_POSITION.FT_FONTSIZE.fixedtext.text
 msgid "Relative font size"
@@ -51127,7 +51127,7 @@ msgstr "Dáta agus am"
 
 #: versdlg.src#DLG_VERSIONS.FT_SAVEDBY.fixedtext.text
 msgid "Saved by"
-msgstr "Sábháilte le"
+msgstr "Sábháilte ag"
 
 #: versdlg.src#DLG_VERSIONS.PB_COMPARE.pushbutton.text
 msgid "Compare"
@@ -56791,19 +56791,19 @@ msgstr "Le"
 
 #: templwin.src#STRARY_SVT_DOCINFO.7.itemlist.text
 msgid "Modified on"
-msgstr ""
+msgstr "Mionathraithe ar"
 
 #: templwin.src#STRARY_SVT_DOCINFO.8.itemlist.text
 msgid "Modified by"
-msgstr ""
+msgstr "Mionathraithe ag"
 
 #: templwin.src#STRARY_SVT_DOCINFO.9.itemlist.text
 msgid "Printed on"
-msgstr ""
+msgstr "Priontáilte ar"
 
 #: templwin.src#STRARY_SVT_DOCINFO.10.itemlist.text
 msgid "Printed by"
-msgstr ""
+msgstr "Priontáilte ag"
 
 #: templwin.src#STR_SVT_NEWDOC_HELP.string.text
 msgid "Click here to create new documents."
@@ -71771,8 +71771,8 @@ msgid "The format of the selected file is not supported."
 msgstr "Ní thacaítear le formáid an chomhaid roghnaithe."
 
 #: readme.xrm#ooo_readme.Welcome.A2.a.readmeitem.text
-msgid "Last updated $Date: 2005-04-30 00:04:30 $"
-msgstr "Nuashonrú is déanaí $Date: 2005-04-30 00:04:30 $"
+msgid "Last updated $Date: 2005-04-30 11:29:36 $"
+msgstr "Nuashonrú is déanaí $Date: 2005-04-30 11:29:36 $"
 
 #: readme.xrm#ooo_readme.Welcome.A3.a.readmeitem.text
 msgid "OpenOffice.org 2.0 ReadMe"
@@ -75343,7 +75343,7 @@ msgstr "Cathaoirleach"
 #: dbwizres.src#RID_AGENDAWIZARDDIALOG_START__26.string.text
 #: dbwizres.src#RID_AGENDAWIZARDDIALOG_START__64.string.text
 msgid "Minute keeper"
-msgstr ""
+msgstr "Coimeádaí na miontuairiscí"
 
 #: dbwizres.src#RID_AGENDAWIZARDDIALOG_START__27.string.text
 #: dbwizres.src#RID_AGENDAWIZARDDIALOG_START__65.string.text
@@ -75385,7 +75385,7 @@ msgstr "Léigh, le do thoil"
 #: dbwizres.src#RID_AGENDAWIZARDDIALOG_START__34.string.text
 #: dbwizres.src#RID_AGENDAWIZARDDIALOG_START__58.string.text
 msgid "Please bring"
-msgstr ""
+msgstr "Tabhair leat"
 
 #: dbwizres.src#RID_AGENDAWIZARDDIALOG_START__36.string.text
 msgid "The agenda template will include placeholders for the selected items."
