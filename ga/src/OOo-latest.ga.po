@@ -1,5 +1,5 @@
 # OOo pot file for Irish.
-#   CURRENT VERSION = SRC680_m97
+#   CURRENT VERSION = SRC680_m99
 # First version produced Sept. 2004 by Kevin Scannell using the oo2po
 # scripts by David Fraser et al
 msgid ""
@@ -39627,6 +39627,7 @@ msgstr "Sínis (Macao)"
 
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_CROATIAN.pairedlist.text
 #: Langpack.ulf#OOO_LANGPACK_NAME_1050.LngText.text
+#: dbwizres.src#RID_LETTERWIZARDLANGUAGE_START___16.string.text
 msgid "Croatian"
 msgstr "Cróitis"
 
@@ -56638,6 +56639,30 @@ msgstr "~Greillí..."
 msgid "~Statistics..."
 msgstr "~Staitistic..."
 
+#: registrationdlg.src#DLG_REGISTRATION_REQUEST.FT_INTRO.fixedtext.text
+msgid "You now have the opportunity to register as a %PRODUCTNAME user."
+msgstr ""
+
+#: registrationdlg.src#DLG_REGISTRATION_REQUEST.STR_COMPLETE_INTRO.string.text
+msgid " Registration is voluntary and is without obligation."
+msgstr ""
+
+#: registrationdlg.src#DLG_REGISTRATION_REQUEST.RB_NOW.radiobutton.text
+msgid "Register now"
+msgstr "Cláraigh anois"
+
+#: registrationdlg.src#DLG_REGISTRATION_REQUEST.RB_LATER.radiobutton.text
+msgid "Remind me to register later"
+msgstr ""
+
+#: registrationdlg.src#DLG_REGISTRATION_REQUEST.RB_NEVER.radiobutton.text
+msgid "Never register"
+msgstr "Ná cláraigh riamh"
+
+#: registrationdlg.src#DLG_REGISTRATION_REQUEST.RB_DONE.radiobutton.text
+msgid "Already registered as %PRODUCTNAME %PRODUCTVERSION user."
+msgstr ""
+
 #: calendar.src#STR_SVT_CALENDAR_WEEK.string.text
 msgid "Week"
 msgstr "Seachtain"
@@ -58022,30 +58047,6 @@ msgstr "%d cáipéis"
 #: prnsetup.src#DLG_SVT_PRNDLG_PRNSETUPDLG.modaldialog.text
 msgid "Printer Setup"
 msgstr "Socrú Priontála"
-
-#: registrationdlg.src#DLG_REGISTRATION_REQUEST.FT_INTRO.fixedtext.text
-msgid "You now have the opportunity to register as a %PRODUCTNAME user."
-msgstr ""
-
-#: registrationdlg.src#DLG_REGISTRATION_REQUEST.STR_COMPLETE_INTRO.string.text
-msgid " Registration is voluntary and is without obligation."
-msgstr ""
-
-#: registrationdlg.src#DLG_REGISTRATION_REQUEST.RB_NOW.radiobutton.text
-msgid "Register now"
-msgstr "Cláraigh anois"
-
-#: registrationdlg.src#DLG_REGISTRATION_REQUEST.RB_LATER.radiobutton.text
-msgid "Remind me to register later"
-msgstr ""
-
-#: registrationdlg.src#DLG_REGISTRATION_REQUEST.RB_NEVER.radiobutton.text
-msgid "Never register"
-msgstr "Ná cláraigh riamh"
-
-#: registrationdlg.src#DLG_REGISTRATION_REQUEST.RB_DONE.radiobutton.text
-msgid "Already registered as %PRODUCTNAME %PRODUCTVERSION user."
-msgstr ""
 
 #: wizardmachine.src#STR_WIZDLG_PREVIOUS.string.text
 msgid "<< Bac~k"
@@ -71771,8 +71772,8 @@ msgid "The format of the selected file is not supported."
 msgstr "Ní thacaítear le formáid an chomhaid roghnaithe."
 
 #: readme.xrm#ooo_readme.Welcome.A2.a.readmeitem.text
-msgid "Last updated $Date: 2005-04-30 11:29:36 $"
-msgstr "Nuashonrú is déanaí $Date: 2005-04-30 11:29:36 $"
+msgid "Last updated $Date: 2005-05-02 15:20:20 $"
+msgstr "Nuashonrú is déanaí $Date: 2005-05-02 15:20:20 $"
 
 #: readme.xrm#ooo_readme.Welcome.A3.a.readmeitem.text
 msgid "OpenOffice.org 2.0 ReadMe"
