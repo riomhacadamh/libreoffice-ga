@@ -1,5 +1,5 @@
 # OOo pot file for Irish.
-#   CURRENT VERSION = SRC680_m99
+#   CURRENT VERSION = SRC680_m100
 # First version produced Sept. 2004 by Kevin Scannell using the oo2po
 # scripts by David Fraser et al
 msgid ""
@@ -37212,7 +37212,7 @@ msgstr "Bog..."
 
 #: cfg.src#TEXT_DEFAULT_STYLE.#define.text
 msgid "Restore Default Settings"
-msgstr "Athchóirigh Réamhshocruithe"
+msgstr "Athchóirigh na Réamhshocruithe"
 
 #: cfg.src#TEXT_DEFAULT_COMMAND.#define.text
 msgid "Restore Default Command"
@@ -57561,7 +57561,7 @@ msgstr "Comhad fuaime"
 
 #: mediatyp.src#STR_SVT_MIMETYPE_TEXT_VCARD.string.text
 msgid "vCard file"
-msgstr "Comhad vCard"
+msgstr "Comhad v-Chárta"
 
 #: mediatyp.src#STR_SVT_MIMETYPE_VIDEO_VDO.string.text
 #: mediatyp.src#STR_SVT_MIMETYPE_VIDEO_MSVIDEO.string.text
@@ -71772,8 +71772,8 @@ msgid "The format of the selected file is not supported."
 msgstr "Ní thacaítear le formáid an chomhaid roghnaithe."
 
 #: readme.xrm#ooo_readme.Welcome.A2.a.readmeitem.text
-msgid "Last updated $Date: 2005-05-02 15:20:20 $"
-msgstr "Nuashonrú is déanaí $Date: 2005-05-02 15:20:20 $"
+msgid "Last updated $Date: 2005-05-09 14:09:41 $"
+msgstr "Nuashonrú is déanaí $Date: 2005-05-09 14:09:41 $"
 
 #: readme.xrm#ooo_readme.Welcome.A3.a.readmeitem.text
 msgid "OpenOffice.org 2.0 ReadMe"
