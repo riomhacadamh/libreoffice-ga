@@ -1,5 +1,5 @@
 # OOo pot file for Irish.
-#   CURRENT VERSION = SRC680_m100
+#   CURRENT VERSION = SRC680_m104
 # First version produced Sept. 2004 by Kevin Scannell using the oo2po
 # scripts by David Fraser et al
 msgid ""
@@ -40132,7 +40132,7 @@ msgstr "Gailísis"
 
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_DHIVEHI.pairedlist.text
 msgid "Dhivehi"
-msgstr ""
+msgstr "Divéihis"
 
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_SEPEDI.pairedlist.text
 msgid "Northern Sotho"
@@ -40209,7 +40209,7 @@ msgstr ""
 
 #: lingu.src#RID_SVXQB_BW_CONTINUE.querybox.text
 msgid "Continue checking at end of document?"
-msgstr ""
+msgstr "Lean ar aghaidh ón deireadh?"
 
 #: lingu.src#RID_SVXSTR_HMSTATUS_OK.string.text
 msgid "The word is spelled correctly"
@@ -71772,8 +71772,8 @@ msgid "The format of the selected file is not supported."
 msgstr "Ní thacaítear le formáid an chomhaid roghnaithe."
 
 #: readme.xrm#ooo_readme.Welcome.A2.a.readmeitem.text
-msgid "Last updated $Date: 2005-05-09 14:09:41 $"
-msgstr "Nuashonrú is déanaí $Date: 2005-05-09 14:09:41 $"
+msgid "Last updated $Date: 2005-05-21 16:17:54 $"
+msgstr "Nuashonrú is déanaí $Date: 2005-05-21 16:17:54 $"
 
 #: readme.xrm#ooo_readme.Welcome.A3.a.readmeitem.text
 msgid "OpenOffice.org 2.0 ReadMe"
@@ -72095,7 +72095,7 @@ msgstr ""
 
 #: readme.xrm#ooo_readme.Installation.B2l3.erter34353ew4.readmeitem.text
 msgid ""
-"Please note that copy and paste via clipboard between OpenOffice.org 2.0 and "
+"Please note that copy and paste via clipboard between OpenOffice.org 1.x and "
 "OpenOffice.org 2.0 might not work in OpenOffice.org format. If that happens, "
 "choose 'Edit - Paste Special' and choose a format other than OpenOffice.org, "
 "or open the document in OpenOffice.org 2.0 directly."
@@ -72253,10 +72253,10 @@ msgstr "Glasáil Comhaid"
 
 #: readme.xrm#ooo_readme.FileLocking.G2.pji76w.readmeitem.text
 msgid ""
-"In the default setting, file locking is turned off in OpenOffice.org. To "
-"activate it, you have to set the appropriate environment variables "
-"SAL_ENABLE_FILE_LOCKING=1 and export SAL_ENABLE_FILE_LOCKING. These entries "
-"are already in disabled form in the soffice script file."
+"In the default setting, file locking is turned on in OpenOffice.org. To "
+"deactivate it, you have to set the appropriate environment variables "
+"SAL_ENABLE_FILE_LOCKING=0 and export SAL_ENABLE_FILE_LOCKING. These entries "
+"are already in enabled form in the soffice script file."
 msgstr ""
 
 #: readme.xrm#ooo_readme.FileLocking.G3.pji76wsdf.readmeitem.text
@@ -72402,10 +72402,6 @@ msgstr ""
 msgid "General code contributor list: dev@openoffice.org (moderate/heavy) "
 msgstr ""
 
-#: readme.xrm#ooo_readme.Subscribe.A3.f.readmeitem.text
-msgid "Groupware: dev@groupware.openoffice.org  (moderate) "
-msgstr ""
-
 #: readme.xrm#ooo_readme.JoinProjects.A1.a.readmeitem.text
 msgid "Join one or more Projects"
 msgstr ""
@@ -72470,10 +72466,17 @@ msgid ""
 msgstr ""
 
 #: readme.xrm#ooo_readme.UserSupport.A3.a.readmeitem.text
-msgid ""
-"Also check the FAQ section, located on left hand navigation bar of the "
-"OpenOffice.org homepage. Frequently asked questions are posted here."
+msgid "Also check the FAQ section at "
 msgstr ""
+
+#: readme.xrm#ooo_readme.UserSupport.A3.b.readmeitem.text
+msgid "http://user-faq.openoffice.org/"
+msgstr "http://user-faq.openoffice.org/"
+
+#: readme.xrm#ooo_readme.UserSupport.A3.c.readmeitem.text
+#: readme.xrm#ooo_readme.WayToStart.A2.c.readmeitem.text
+msgid "."
+msgstr "."
 
 #: readme.xrm#ooo_readme.WayToStart.A1.a.readmeitem.text
 msgid "Way to Start"
@@ -72493,10 +72496,6 @@ msgstr ""
 #: readme.xrm#ooo_readme.WayToStart.A2.b.readmeitem.text
 msgid "http://development.openoffice.org/todo.html"
 msgstr "http://development.openoffice.org/todo.html"
-
-#: readme.xrm#ooo_readme.WayToStart.A2.c.readmeitem.text
-msgid "."
-msgstr "."
 
 #: readme.xrm#ooo_readme.Credits.emptyparagraph.A1.a.readmeitem.text
 msgid ""
