@@ -1,5 +1,5 @@
 # OOo pot file for Irish.
-#   CURRENT VERSION = SRC680_m104
+#   CURRENT VERSION = SRC680_m108
 # First version produced Sept. 2004 by Kevin Scannell using the oo2po
 # scripts by David Fraser et al
 msgid ""
@@ -16229,6 +16229,7 @@ msgstr "Gorm"
 #: sdstring.src#RID_SVXSTR_TBLAFMT_RED.string.text
 #: svxitems.src#RID_SVXITEMS_COLOR_RED.string.text
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_GrafRed.Label.value.text
+#: FormWizard.xcu#..FormWizard.FormWizard.Styles.style9.Name.value.text
 #: WebWizard.xcu#..WebWizard.WebWizard.Styles.style17.Name.value.text
 msgid "Red"
 msgstr "Dearg"
@@ -16284,6 +16285,7 @@ msgstr "Liath"
 
 #: strings.src#STR_LIGHTGRAY.string.text
 #: svxitems.src#RID_SVXITEMS_COLOR_LIGHTGRAY.string.text
+#: FormWizard.xcu#..FormWizard.FormWizard.Styles.style3.Name.value.text
 #: WebWizard.xcu#..WebWizard.WebWizard.Styles.style9.Name.value.text
 msgid "Light Gray"
 msgstr "Fionnliath"
@@ -42181,6 +42183,7 @@ msgstr "Gormghlas"
 
 #: sdstring.src#RID_SVXSTR_ORANGE.string.text
 #: sdstring.src#RID_SVXSTR_BMP18.string.text
+#: FormWizard.xcu#..FormWizard.FormWizard.Styles.style5.Name.value.text
 #: WebWizard.xcu#..WebWizard.WebWizard.Styles.style13.Name.value.text
 msgid "Orange"
 msgstr "Oráiste"
@@ -42224,6 +42227,7 @@ msgid "Insert video"
 msgstr "Ionsáigh físeán"
 
 #: sdstring.src#RID_SVXSTR_VIOLET.string.text
+#: FormWizard.xcu#..FormWizard.FormWizard.Styles.style10.Name.value.text
 #: WebWizard.xcu#..WebWizard.WebWizard.Styles.style20.Name.value.text
 msgid "Violet"
 msgstr "Corcairghorm"
@@ -42395,6 +42399,7 @@ msgid "Sky"
 msgstr "Spéir"
 
 #: sdstring.src#RID_SVXSTR_BMP2.string.text
+#: FormWizard.xcu#..FormWizard.FormWizard.Styles.style8.Name.value.text
 #: WebWizard.xcu#..WebWizard.WebWizard.Styles.style16.Name.value.text
 msgid "Water"
 msgstr "Uisce"
@@ -63364,6 +63369,29 @@ msgstr "Foirmle %PRODUCTNAME %PRODUCTVERSION"
 msgid "%PRODUCTNAME %PRODUCTVERSION Text"
 msgstr "Téacs %PRODUCTNAME %PRODUCTVERSION"
 
+#: FormWizard.xcu#..FormWizard.FormWizard.Styles.style1.Name.value.text
+#: WebWizard.xcu#..WebWizard.WebWizard.Styles.style1.Name.value.text
+msgid "Beige"
+msgstr "Béasa"
+
+#: FormWizard.xcu#..FormWizard.FormWizard.Styles.style2.Name.value.text
+#: WebWizard.xcu#..WebWizard.WebWizard.Styles.style3.Name.value.text
+msgid "Bright Blue"
+msgstr "Gealghorm"
+
+#: FormWizard.xcu#..FormWizard.FormWizard.Styles.style4.Name.value.text
+msgid "Dark"
+msgstr "Dorcha"
+
+#: FormWizard.xcu#..FormWizard.FormWizard.Styles.style6.Name.value.text
+#: WebWizard.xcu#..WebWizard.WebWizard.Styles.style14.Name.value.text
+msgid "Ice Blue"
+msgstr ""
+
+#: FormWizard.xcu#..FormWizard.FormWizard.Styles.style7.Name.value.text
+msgid "Grey"
+msgstr "Liath"
+
 #: TableWizard.xcu#..TableWizard.TableWizard.business.Tables.categories.Name.value.text
 #: TableWizard.xcu#..TableWizard.TableWizard.private.Tables.categories.Name.value.text
 msgid "Categories"
@@ -65902,17 +65930,9 @@ msgstr "Frámadán HTML, barr"
 msgid "HTML frameset, bottom"
 msgstr "Frámadán HTML, bun"
 
-#: WebWizard.xcu#..WebWizard.WebWizard.Styles.style1.Name.value.text
-msgid "Beige"
-msgstr "Béasa"
-
 #: WebWizard.xcu#..WebWizard.WebWizard.Styles.style2.Name.value.text
 msgid "Bright"
 msgstr "Geal"
-
-#: WebWizard.xcu#..WebWizard.WebWizard.Styles.style3.Name.value.text
-msgid "Bright Blue"
-msgstr "Gealghorm"
 
 #: WebWizard.xcu#..WebWizard.WebWizard.Styles.style7.Name.value.text
 msgid "Blue & Black"
@@ -65932,10 +65952,6 @@ msgstr "Oráiste & Gorm"
 
 #: WebWizard.xcu#..WebWizard.WebWizard.Styles.style12.Name.value.text
 msgid "Marine"
-msgstr ""
-
-#: WebWizard.xcu#..WebWizard.WebWizard.Styles.style14.Name.value.text
-msgid "Ice Blue"
 msgstr ""
 
 #: WebWizard.xcu#..WebWizard.WebWizard.Styles.style15.Name.value.text
@@ -71541,6 +71557,30 @@ msgstr ""
 msgid "Installs Khmer support in %PRODUCTNAME %PRODUCTVERSION"
 msgstr ""
 
+#: Langpack.ulf#OOO_LANGPACK_NAME_1074.LngText.text
+msgid "Tswana"
+msgstr ""
+
+#: Langpack.ulf#OOO_LANGPACK_DESC_1074.LngText.text
+msgid "Installs Tswana support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#: Langpack.ulf#OOO_LANGPACK_NAME_1076.LngText.text
+msgid "Xhosa"
+msgstr ""
+
+#: Langpack.ulf#OOO_LANGPACK_DESC_1076.LngText.text
+msgid "Installs Xhosa support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#: Langpack.ulf#OOO_LANGPACK_NAME_1077.LngText.text
+msgid "Zulu"
+msgstr ""
+
+#: Langpack.ulf#OOO_LANGPACK_DESC_1077.LngText.text
+msgid "Installs Zulu support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
 #: LaunchCo.ulf#OOO_LAUNCH_1.LngText.text
 msgid ""
 "The Installation Wizard cannot be run properly because you are logged in as "
@@ -71904,8 +71944,8 @@ msgid "The format of the selected file is not supported."
 msgstr "Ní thacaítear le formáid an chomhaid roghnaithe."
 
 #: readme.xrm#ooo_readme.Welcome.A2.a.readmeitem.text
-msgid "Last updated $Date: 2005-06-01 01:20:56 $"
-msgstr "Nuashonrú is déanaí $Date: 2005-06-01 01:20:56 $"
+msgid "Last updated $Date: 2005-06-10 00:36:01 $"
+msgstr ""
 
 #: readme.xrm#ooo_readme.Welcome.A3.a.readmeitem.text
 msgid "OpenOffice.org 2.0 ReadMe"
@@ -72150,8 +72190,8 @@ msgid "Linux Kernel version 2.2.13 or higher"
 msgstr "Eithne Linux, leagan 2.2.13 nó níos airde"
 
 #: readme.xrm#ooo_readme.Installation.Linuxi2.s253we.readmeitem.text
-msgid "glibc2 version 2.2.0 or higher"
-msgstr "glibc2, leagan 2.2.0 nó níos airde"
+msgid "glibc2 version 2.2.4 or higher"
+msgstr "glibc2, leagan 2.2.4 nó níos airde"
 
 #: readme.xrm#ooo_readme.Installation.Linuxi2.n42dfgf.readmeitem.text
 msgid "300 MB (CJK version: 350 MB) available hard disk space"
