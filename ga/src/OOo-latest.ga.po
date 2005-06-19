@@ -1,5 +1,5 @@
 # OOo pot file for Irish.
-#   CURRENT VERSION = SRC680_m108
+#   CURRENT VERSION = SRC680_m110
 # First version produced Sept. 2004 by Kevin Scannell using the oo2po
 # scripts by David Fraser et al
 msgid ""
@@ -40332,6 +40332,14 @@ msgstr "Tibéidis (An tSín)"
 msgid "Tibetan (Bhutan)"
 msgstr "Tibéidis (An Bhútáin)"
 
+#: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_GEORGIAN.pairedlist.text
+msgid "Georgian"
+msgstr "Seoirsis"
+
+#: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_FRISIAN_NETHERLANDS.pairedlist.text
+msgid "Frisian"
+msgstr "Freaslainnis"
+
 #: language.src#RID_SVXSTR_LANGUAGE_ALL.string.text
 msgid "[All]"
 msgstr "[Uile]"
@@ -71944,7 +71952,7 @@ msgid "The format of the selected file is not supported."
 msgstr "Ní thacaítear le formáid an chomhaid roghnaithe."
 
 #: readme.xrm#ooo_readme.Welcome.A2.a.readmeitem.text
-msgid "Last updated $Date: 2005-06-10 00:36:01 $"
+msgid "Last updated $Date: 2005-06-19 23:28:57 $"
 msgstr ""
 
 #: readme.xrm#ooo_readme.Welcome.A3.a.readmeitem.text
