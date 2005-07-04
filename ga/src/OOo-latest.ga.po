@@ -1,5 +1,5 @@
 # OOo pot file for Irish.
-#   CURRENT VERSION = SRC680_m110
+#   CURRENT VERSION = SRC680_m113
 # First version produced Sept. 2004 by Kevin Scannell using the oo2po
 # scripts by David Fraser et al
 msgid ""
@@ -32625,6 +32625,7 @@ msgstr "Araibis"
 
 #: optctl.src#RID_SVXPAGE_OPTIONS_CTL.LB_NUMERALS.2.stringlist.text
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_HINDI.pairedlist.text
+#: Langpack.ulf#OOO_LANGPACK_NAME_1081.LngText.text
 msgid "Hindi"
 msgstr "Hiondúis"
 
@@ -37933,6 +37934,7 @@ msgstr "Gurmúcaí"
 
 #: charmap.src#RID_SUBSETMAP.RID_SUBSETSTR_GUJARATI.string.text
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_GUJARATI.pairedlist.text
+#: Langpack.ulf#OOO_LANGPACK_NAME_1095.LngText.text
 msgid "Gujarati"
 msgstr "Gúisearáitis"
 
@@ -37943,6 +37945,7 @@ msgstr "Oirísis"
 
 #: charmap.src#RID_SUBSETMAP.RID_SUBSETSTR_TAMIL.string.text
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_TAMIL.pairedlist.text
+#: Langpack.ulf#OOO_LANGPACK_NAME_1097.LngText.text
 msgid "Tamil"
 msgstr "Tamailis"
 
@@ -40035,6 +40038,7 @@ msgid "Portuguese (Brazil)"
 msgstr "Portaingéilis (An Bhrasaíl)"
 
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_PUNJABI.pairedlist.text
+#: Langpack.ulf#OOO_LANGPACK_NAME_1094.LngText.text
 msgid "Punjabi"
 msgstr "Painseáibis"
 
@@ -43471,6 +43475,7 @@ msgstr "Comhoiriúnacht HTML"
 
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SB_STARBASEOPTIONS.1.itemlist.text
 #: sqlmessage.src#DLG_SQLEXCEPTIONCHAIN.modaldialog.text
+#: module_base.ulf#STR_NAME_MODULE_PRG_BASE.LngText.text
 msgid "%PRODUCTNAME Base"
 msgstr "%PRODUCTNAME Base"
 
@@ -49441,6 +49446,7 @@ msgstr ""
 #: module_calc.ulf#STR_NAME_MODULE_PRG_CALC_BIN.LngText.text
 #: module_math.ulf#STR_NAME_MODULE_PRG_MATH_BIN.LngText.text
 #: module_impress.ulf#STR_NAME_MODULE_PRG_IMPRESS_BIN.LngText.text
+#: module_base.ulf#STR_NAME_MODULE_PRG_BASE_BIN.LngText.text
 msgid "Program Module"
 msgstr "Modúl an Chláir"
 
@@ -49987,13 +49993,6 @@ msgstr "Caibidlí"
 msgid "From Template"
 msgstr "Ó Theimpléad"
 
-#: folderitem_ooo.ulf#STR_FI_TOOLTIP_BASE.LngText.text
-#: launcher_comment.ulf#base.LngText.text
-msgid ""
-"Manage databases, create queries and reports to track and manage your "
-"information by using Base."
-msgstr ""
-
 #: module_ooo.ulf#STR_NAME_MODULE_PRG.LngText.text
 msgid "%PRODUCTNAME Program Modules"
 msgstr "Modúil Chláir %PRODUCTNAME"
@@ -50026,7 +50025,30 @@ msgstr "Comhad Cumraíochta %PRODUCTNAME %SXWFORMATVERSION"
 msgid "StarOffice 5.0 Template"
 msgstr "Teimpléad StarOffice 5.0"
 
-#: registryitem_ooo.ulf#STR_REG_VAL_OO_DATABASE.LngText.text
+#: folderitem_base.ulf#STR_FI_TOOLTIP_BASE.LngText.text
+#: launcher_comment.ulf#base.LngText.text
+msgid ""
+"Manage databases, create queries and reports to track and manage your "
+"information by using Base."
+msgstr ""
+
+#: module_base.ulf#STR_DESC_MODULE_PRG_BASE.LngText.text
+msgid "Create and edit databases by using %PRODUCTNAME Base."
+msgstr ""
+
+#: module_base.ulf#STR_DESC_MODULE_PRG_BASE_BIN.LngText.text
+msgid "The application %PRODUCTNAME Base"
+msgstr "An feidhmchlár %PRODUCTNAME Base"
+
+#: module_base.ulf#STR_NAME_MODULE_PRG_BASE_HELP.LngText.text
+msgid "%PRODUCTNAME Base Help"
+msgstr "Cabhair le %PRODUCTNAME Base"
+
+#: module_base.ulf#STR_DESC_MODULE_PRG_BASE_HELP.LngText.text
+msgid "Help about %PRODUCTNAME Base"
+msgstr "Maidir le %PRODUCTNAME Base"
+
+#: registryitem_base.ulf#STR_REG_VAL_OO_DATABASE.LngText.text
 #: documents.ulf#oasis_database.LngText.text
 #: imagemgr.src#STR_DESCRIPTION_OO_DATABASE_DOC.string.text
 #: StarOffice_XML__Base__ui.xcu#StarOffice_XML__Base_.UIName.value.text
@@ -71447,15 +71469,15 @@ msgstr "Pacáistí teanga eile"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_1033.LngText.text
 msgid "Installs English support in %PRODUCTNAME %PRODUCTVERSION"
-msgstr ""
+msgstr "Suiteáil tacaíocht don Bhéarla i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_1031.LngText.text
 msgid "Installs German support in %PRODUCTNAME %PRODUCTVERSION"
-msgstr ""
+msgstr "Suiteáil tacaíocht don Ghearmáinis i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_1034.LngText.text
 msgid "Installs Spanish support in %PRODUCTNAME %PRODUCTVERSION"
-msgstr ""
+msgstr "Suiteáil tacaíocht don Spáinnis i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_NAME_2070.LngText.text
 #: dbwizres.src#RID_LETTERWIZARDLANGUAGE_START___6.string.text
@@ -71464,19 +71486,19 @@ msgstr "Portaingéilis"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_2070.LngText.text
 msgid "Installs Portuguese support in %PRODUCTNAME %PRODUCTVERSION"
-msgstr ""
+msgstr "Suiteáil tacaíocht don Phortaingéilis i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_1046.LngText.text
 msgid "Installs Portuguese (Brazil) support in %PRODUCTNAME %PRODUCTVERSION"
-msgstr ""
+msgstr "Suiteáil tacaíocht don Phortaingéilis (Brasaíl) i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_1049.LngText.text
 msgid "Installs Russian support in %PRODUCTNAME %PRODUCTVERSION"
-msgstr ""
+msgstr "Suiteáil tacaíocht don Rúisis i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_1032.LngText.text
 msgid "Installs Greek support in %PRODUCTNAME %PRODUCTVERSION"
-msgstr ""
+msgstr "Suiteáil tacaíocht don Ghréigis i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_NAME_1043.LngText.text
 msgid "Dutch"
@@ -71484,7 +71506,7 @@ msgstr "Ollainnis"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_1043.LngText.text
 msgid "Installs Dutch support in %PRODUCTNAME %PRODUCTVERSION"
-msgstr ""
+msgstr "Suiteáil tacaíocht don Ollainnis i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_NAME_1036.LngText.text
 #: dbwizres.src#RID_LETTERWIZARDLANGUAGE_START___3.string.text
@@ -71493,7 +71515,7 @@ msgstr "Fraincis"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_1036.LngText.text
 msgid "Installs French support in %PRODUCTNAME %PRODUCTVERSION"
-msgstr ""
+msgstr "Suiteáil tacaíocht don Fhraincis i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_NAME_1040.LngText.text
 #: dbwizres.src#RID_LETTERWIZARDLANGUAGE_START___5.string.text
@@ -71502,7 +71524,7 @@ msgstr "Iodáilis"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_1040.LngText.text
 msgid "Installs Italian support in %PRODUCTNAME %PRODUCTVERSION"
-msgstr ""
+msgstr "Suiteáil tacaíocht don Iodáilis i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_NAME_1053.LngText.text
 #: dbwizres.src#RID_LETTERWIZARDLANGUAGE_START___7.string.text
@@ -71511,31 +71533,31 @@ msgstr "Sualainnis"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_1053.LngText.text
 msgid "Installs Swedish support in %PRODUCTNAME %PRODUCTVERSION"
-msgstr ""
+msgstr "Suiteáil tacaíocht don Sualainnis i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_1045.LngText.text
 msgid "Installs Polish support in %PRODUCTNAME %PRODUCTVERSION"
-msgstr ""
+msgstr "Suiteáil tacaíocht don Pholainnis i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_1041.LngText.text
 msgid "Installs Japanese support in %PRODUCTNAME %PRODUCTVERSION"
-msgstr ""
+msgstr "Suiteáil tacaíocht don Seapáinis i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_1042.LngText.text
 msgid "Installs Korean support in %PRODUCTNAME %PRODUCTVERSION"
-msgstr ""
+msgstr "Suiteáil tacaíocht don Chóiréis i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_2052.LngText.text
 msgid "Installs Chinese (simplified) support in %PRODUCTNAME %PRODUCTVERSION"
-msgstr ""
+msgstr "Suiteáil tacaíocht don Sínis (simplithe) i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_1028.LngText.text
 msgid "Installs Chinese (traditional) support in %PRODUCTNAME %PRODUCTVERSION"
-msgstr ""
+msgstr "Suiteáil tacaíocht don Sínis (traidisiúnta) i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_1029.LngText.text
 msgid "Installs Czech support in %PRODUCTNAME %PRODUCTVERSION"
-msgstr ""
+msgstr "Suiteáil tacaíocht don Seicis i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_NAME_1051.LngText.text
 msgid "Slovak"
@@ -71543,27 +71565,51 @@ msgstr "Slóvaicis"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_1051.LngText.text
 msgid "Installs Slovak support in %PRODUCTNAME %PRODUCTVERSION"
-msgstr ""
+msgstr "Suiteáil tacaíocht don Slóvaicis i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_1050.LngText.text
 msgid "Installs Croatian support in %PRODUCTNAME %PRODUCTVERSION"
-msgstr ""
+msgstr "Suiteáil tacaíocht don Chróitis i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_1061.LngText.text
 msgid "Installs Estonian support in %PRODUCTNAME %PRODUCTVERSION"
-msgstr ""
+msgstr "Suiteáil tacaíocht don Eastóinis i %PRODUCTNAME %PRODUCTVERSION"
+
+#: Langpack.ulf#OOO_LANGPACK_NAME_1066.LngText.text
+msgid "Vietnamese"
+msgstr "Vítneaimis"
+
+#: Langpack.ulf#OOO_LANGPACK_DESC_1066.LngText.text
+msgid "Installs Vietnamese support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr "Suiteáil tacaíocht don Vítneaimis i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_1038.LngText.text
 msgid "Installs Hungarian support in %PRODUCTNAME %PRODUCTVERSION"
-msgstr ""
+msgstr "Suiteáil tacaíocht don Ungáiris i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_1026.LngText.text
 msgid "Installs Bulgarian support in %PRODUCTNAME %PRODUCTVERSION"
-msgstr ""
+msgstr "Suiteáil tacaíocht don Bhulgáiris i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_1107.LngText.text
 msgid "Installs Khmer support in %PRODUCTNAME %PRODUCTVERSION"
-msgstr ""
+msgstr "Suiteáil tacaíocht don Chiméiris i %PRODUCTNAME %PRODUCTVERSION"
+
+#: Langpack.ulf#OOO_LANGPACK_DESC_1094.LngText.text
+msgid "Installs Punjabi support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr "Suiteáil tacaíocht don Phuinseáibis i %PRODUCTNAME %PRODUCTVERSION"
+
+#: Langpack.ulf#OOO_LANGPACK_DESC_1095.LngText.text
+msgid "Installs Gujarati support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr "Suiteáil tacaíocht don Ghúisearáitis i %PRODUCTNAME %PRODUCTVERSION"
+
+#: Langpack.ulf#OOO_LANGPACK_DESC_1097.LngText.text
+msgid "Installs Tamil support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr "Suiteáil tacaíocht don Tamailis i %PRODUCTNAME %PRODUCTVERSION"
+
+#: Langpack.ulf#OOO_LANGPACK_DESC_1081.LngText.text
+msgid "Installs Hindi support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr "Suiteáil tacaíocht don Hiondúis i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_NAME_1074.LngText.text
 msgid "Tswana"
@@ -71630,10 +71676,6 @@ msgstr "&Aon duine a úsáideann an ríomhaire seo (gach úsáideoir)"
 #: RadioBut.ulf#OOO_RADIOBUTTON_9.LngText.text
 msgid "Only for &me ([USERNAME])"
 msgstr "Do&msa amháin ([USERNAME])"
-
-#: SIS.ulf#OOO_SIS_TEMPLATE.LngText.text
-msgid "Intel"
-msgstr "Intel"
 
 #: SIS.ulf#OOO_SIS_TITLE.LngText.text
 msgid "Installation database"
@@ -71952,7 +71994,7 @@ msgid "The format of the selected file is not supported."
 msgstr "Ní thacaítear le formáid an chomhaid roghnaithe."
 
 #: readme.xrm#ooo_readme.Welcome.A2.a.readmeitem.text
-msgid "Last updated $Date: 2005-07-04 20:50:30 $"
+msgid "Last updated $Date: 2005-07-04 21:07:26 $"
 msgstr ""
 
 #: readme.xrm#ooo_readme.Welcome.A3.a.readmeitem.text
