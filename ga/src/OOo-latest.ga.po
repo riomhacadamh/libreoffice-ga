@@ -25448,7 +25448,7 @@ msgstr "Ionadchoinneálaí"
 
 #: poolfmt.src#STR_POOLCHR_TOXJUMP.string.text
 msgid "Index Link"
-msgstr ""
+msgstr "Nasc Innéacs"
 
 #: poolfmt.src#STR_POOLCHR_ENDNOTE.string.text
 msgid "Endnote Characters"
@@ -27664,7 +27664,7 @@ msgstr "Ainm agus Conair na Cáipéise HTML"
 #: app.src#MSG_ERROR_SEND_MAIL.infobox.text
 #: mail.src#RID_ERRBOX_SEND_FAILED.errorbox.text
 msgid "Error sending mail."
-msgstr "Earráid agus ríomhphost á seoladh."
+msgstr "Earráid agus ríomhphost á sheoladh."
 
 #: app.src#MSG_ERROR_PASSWD.infobox.text
 #: passwd.src#RID_SVXDLG_PASSWORD.STR_ERR_OLD_PASSWD.string.text
@@ -52430,7 +52430,7 @@ msgstr "Diúltaigh"
 #: wizard.src#STR_STATE_LICENSE.string.text
 #: preload.src#RID_TP_LICENSE.tabpage.text
 msgid "License Agreement"
-msgstr "Ceadúnas"
+msgstr "Comhaontú um Cheadúnas"
 
 #: setup.ulf#_APP_TITLE_.LngText.text
 msgid "Setup"
@@ -61921,7 +61921,7 @@ msgstr ""
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_OutlineLeft.Label.value.text
 msgid "Promote"
-msgstr ""
+msgstr "Ardaigh"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_DesignerDialog.Label.value.text
 msgid "St~yles and Formatting"
@@ -61929,7 +61929,7 @@ msgstr "Stíl~eanna agus Formáidiú"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_OutlineRight.Label.value.text
 msgid "Demote"
-msgstr "Céim Síos"
+msgstr "Ísligh"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_OutlineFormat.Label.value.text
 msgid "Formatting On/Off"
@@ -71952,7 +71952,7 @@ msgid "The format of the selected file is not supported."
 msgstr "Ní thacaítear le formáid an chomhaid roghnaithe."
 
 #: readme.xrm#ooo_readme.Welcome.A2.a.readmeitem.text
-msgid "Last updated $Date: 2005-06-19 23:28:57 $"
+msgid "Last updated $Date: 2005-07-04 20:50:30 $"
 msgstr ""
 
 #: readme.xrm#ooo_readme.Welcome.A3.a.readmeitem.text
