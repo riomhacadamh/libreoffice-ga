@@ -11813,7 +11813,7 @@ msgstr "Méid"
 
 #: solvrdlg.src#RID_SCDLG_SOLVER.FT_FORMULACELL.fixedtext.text
 msgid "~Formula cell"
-msgstr ""
+msgstr "Cill ~fhoirmle"
 
 #: solvrdlg.src#RID_SCDLG_SOLVER.FT_TARGETVAL.fixedtext.text
 msgid "Target ~value"
@@ -11836,7 +11836,7 @@ msgstr "Spriocluach neamhbhailí."
 
 #: solvrdlg.src#RID_SCDLG_SOLVER.STR_INVALIDVAR.string.text
 msgid "Undefined name for variable cell."
-msgstr ""
+msgstr "Cill athróige gan ainm."
 
 #: solvrdlg.src#RID_SCDLG_SOLVER.STR_INVALIDFORM.string.text
 msgid "Undefined name as formula cell."
@@ -11879,11 +11879,11 @@ msgstr "A~nsin de réir"
 
 #: sortdlg.src#RID_SCPAGE_SORT_OPTIONS.STR_COL_LABEL.string.text
 msgid "Range contains column la~bels"
-msgstr ""
+msgstr "Tá li~péid cholúin sa raon"
 
 #: sortdlg.src#RID_SCPAGE_SORT_OPTIONS.STR_ROW_LABEL.string.text
 msgid "Range contains ~row labels"
-msgstr ""
+msgstr "Tá lipéid ró sa ~raon"
 
 #: sortdlg.src#RID_SCPAGE_SORT_OPTIONS.BTN_FORMATS.checkbox.text
 msgid "Include ~formats"
@@ -11937,7 +11937,7 @@ msgstr "~Briseadh leathanaigh idir grúpaí"
 
 #: subtdlg.src#RID_SCPAGE_SUBT_OPTIONS.BTN_SORT.checkbox.text
 msgid "Pre-~sort area according to groups"
-msgstr ""
+msgstr "Réamh~shórtáil limistéir de réir grúpaí"
 
 #: subtdlg.src#RID_SCPAGE_SUBT_OPTIONS.BTN_FORMATS.checkbox.text
 msgid "I~nclude formats"
@@ -11989,7 +11989,7 @@ msgstr "Ainm nó raon gan sainmhíniú."
 
 #: tabopdlg.src#RID_SCDLG_TABOP.STR_WRONGROWCOL.string.text
 msgid "Undefined name or wrong cell reference."
-msgstr ""
+msgstr "Ainm gan sainmhíniú nó tagairt mhícheart cheall."
 
 #: tabopdlg.src#RID_SCDLG_TABOP.STR_NOCOLFORMULA.string.text
 msgid "Formulas don't form a column."
@@ -12219,11 +12219,11 @@ msgstr "Nascleantóir"
 
 #: navipi.src#SCSTR_CONTENT_RANGENAME.string.text
 msgid "Range names"
-msgstr ""
+msgstr "Ainmneacha na raonta"
 
 #: navipi.src#SCSTR_CONTENT_DBAREA.string.text
 msgid "Database Ranges"
-msgstr ""
+msgstr "Raonta na mBunachar Sonraí"
 
 #: navipi.src#SCSTR_CONTENT_AREALINK.string.text
 msgid "Linked areas"
@@ -12339,7 +12339,7 @@ msgstr "Feidhmeanna"
 
 #: formdlgs.src#RID_SCTAB_FUNCTION.IB_FUNCTION.imagebutton.quickhelptext
 msgid "Apply Function"
-msgstr ""
+msgstr "Cuir feidhm i bhfeidhm"
 
 #: formdlgs.src#RID_SCTAB_FUNCTION.FT_CATEGORY.fixedtext.text
 #: numfmt.src#RID_SVXPAGE_NUMBERFORMAT.FT_CATEGORY.fixedtext.text
@@ -13561,11 +13561,11 @@ msgstr "Íomhá"
 
 #: animobjs.src#FLT_WIN_ANIMATION.RBT_GROUP.radiobutton.text
 msgid "Group object"
-msgstr ""
+msgstr "Réad grúpa"
 
 #: animobjs.src#FLT_WIN_ANIMATION.RBT_BITMAP.radiobutton.text
 msgid "Bitmap object"
-msgstr ""
+msgstr "Réad mapa giotáin"
 
 #: animobjs.src#FLT_WIN_ANIMATION.LB_ADJUSTMENT.1.stringlist.text
 msgid "Top Left"
@@ -13597,11 +13597,11 @@ msgstr "Láraithe"
 
 #: animobjs.src#FLT_WIN_ANIMATION.LB_ADJUSTMENT.7.stringlist.text
 msgid "Top Right"
-msgstr ""
+msgstr "Barr ar Dheis"
 
 #: animobjs.src#FLT_WIN_ANIMATION.LB_ADJUSTMENT.9.stringlist.text
 msgid "Bottom Right"
-msgstr ""
+msgstr "Bun ar dheis"
 
 #: animobjs.src#FLT_WIN_ANIMATION.BTN_CREATE_GROUP.pushbutton.text
 #: mailmrge.src#DLG_MERGE_CREATE.FL_CREATEFROM.fixedline.text
@@ -13642,7 +13642,7 @@ msgstr "Líon na g~cóip"
 
 #: copydlg.src#DLG_COPY.BTN_SET_VIEWDATA.imagebutton.quickhelptext
 msgid "Values from Selection"
-msgstr ""
+msgstr "Luachanna ón Roghnúchán"
 
 #: copydlg.src#DLG_COPY.MTR_FLD_ANGLE.metricfield.text
 #: viewdlg.src#DLG_3D_VIEW.MTR_FLD_X_AXIS.metricfield.text
@@ -13799,7 +13799,7 @@ msgstr "Sainigh Taispeántas Saincheaptha Sleamhnán"
 #: dlgpage.src#TAB_PAGE.1.pushbutton.text
 #: paragr.src#TAB_PARAGRAPH.1.pushbutton.text
 msgid "Return"
-msgstr ""
+msgstr "Fill"
 
 #: dlgass.src#DLG_ASS.CB_PREVIEW.checkbox.text
 #: menuids2_tmpl.src#MN_PREVIEW_WIN.SID_PREVIEW_WIN.menuitem.text
@@ -13861,7 +13861,7 @@ msgstr "~Páipéar"
 
 #: dlgass.src#DLG_ASS.FL_PAGE3_EFFECT.fixedline.text
 msgid "Select a slide transition"
-msgstr ""
+msgstr "Roghnaigh trasdul sleamhnáin"
 
 #: dlgass.src#DLG_ASS.FT_PAGE3_EFFECT.fixedtext.text
 msgid "~Effect"
@@ -13877,11 +13877,11 @@ msgstr "Roghnaigh cineál na láithreoireachta"
 
 #: dlgass.src#DLG_ASS.FT_PAGE3_TIME.fixedtext.text
 msgid "D~uration of page"
-msgstr ""
+msgstr "~Fad ama ar gach leathanach"
 
 #: dlgass.src#DLG_ASS.FT_PAGE3_BREAK.fixedtext.text
 msgid "Du~ration of pause"
-msgstr ""
+msgstr "Fad an ~sosa"
 
 #: dlgass.src#DLG_ASS.CB_PAGE3_LOGO.checkbox.text
 msgid "Sh~ow logo"
@@ -13889,7 +13889,7 @@ msgstr "Taispeáin an ~lógó"
 
 #: dlgass.src#DLG_ASS.FL_PAGE4_PERSONAL.fixedline.text
 msgid "Describe your basic ideas"
-msgstr ""
+msgstr "Déan cur síos ar do chuid smaointe"
 
 #: dlgass.src#DLG_ASS.FT_PAGE4_ASKNAME.fixedtext.text
 msgid "What is your name or the name of your company?"
@@ -13901,7 +13901,7 @@ msgstr ""
 
 #: dlgass.src#DLG_ASS.FT_PAGE4_ASKINFORMATION.fixedtext.text
 msgid "Further ideas to be presented?"
-msgstr ""
+msgstr "Smaointe eile le cur i láthair?"
 
 #: dlgass.src#DLG_ASS.FT_PAGE5_PAGELIST.fixedtext.text
 msgid "Ch~oose your pages"
@@ -13994,7 +13994,7 @@ msgstr "~Cothrománach"
 
 #: dlgsnap.src#DLG_SNAPLINE.modaldialog.text
 msgid "New Snap Object"
-msgstr ""
+msgstr "Réad Nua Léime"
 
 #: headerfooterdlg.src#RID_SD_DLG_HEADERFOOTER.1.RID_SD_TABPAGE_HEADERFOOTER_SLIDE.pageitem.text
 #: new_foil.src#DLG_NEW_FOIL.modaldialog.text
@@ -14039,7 +14039,7 @@ msgstr "Téacs an bhuntáisc"
 #: headerfooterdlg.src#RID_SD_TABPAGE_HEADERFOOTER.CB_SLIDENUMBER.checkbox.text
 #: masterlayoutdlg.src#RID_SD_DLG_MASTER_LAYOUT.STR_SLIDE_NUMBER.string.text
 msgid "Slide number"
-msgstr ""
+msgstr "Uimhir an tsleamhnáin"
 
 #: headerfooterdlg.src#RID_SD_TABPAGE_HEADERFOOTER.CB_NOTONTITLE.checkbox.text
 msgid "Do not show on first slide"
@@ -14072,7 +14072,7 @@ msgstr "Uimhir leathanaigh"
 
 #: headerfooterdlg.src#RID_SD_TABPAGE_HEADERFOOTER.STR_INCLUDE_ON_PAGE.string.text
 msgid "Include on page"
-msgstr ""
+msgstr "Cuir ar an leathanach"
 
 #: ins_page.src#DLG_INSERT_PAGE.CBX_TEMPLATE.checkbox.text
 #: pubdlg.src#DLG_PUBLISHING.PAGE6_BACK.pushbutton.text
@@ -14204,7 +14204,7 @@ msgstr "An Chéad Shleamhnán Eile"
 
 #: navigatr.src#FLT_NAVIGATOR.1.TBI_LAST.toolboxitem.text
 msgid "Last Slide"
-msgstr ""
+msgstr "An Sleamhnán Deiridh"
 
 #: navigatr.src#FLT_NAVIGATOR.LB_DOCS.listbox.quickhelptext
 #: docrecovery.src#RID_SVX_MDLG_DOCRECOVERY_BROKEN.FT_BROKEN_FILELIST.fixedtext.text
@@ -14218,7 +14218,7 @@ msgstr "Cáipéisí"
 
 #: new_foil.src#DLG_NEW_FOIL.FT_LAYOUT.fixedtext.text
 msgid "Select an ~AutoLayout"
-msgstr ""
+msgstr "Roghnaigh ~Leagan Amach Uathoibríoch"
 
 #: new_foil.src#DLG_NEW_FOIL.CBX_BACKGROUND.checkbox.text
 msgid "~Background"
@@ -14226,7 +14226,7 @@ msgstr "~Cúlra"
 
 #: new_foil.src#DLG_NEW_FOIL.CBX_OBJECTS.checkbox.text
 msgid "~Objects on background"
-msgstr ""
+msgstr "Réada ~sa chúlra"
 
 #: paragr.src#TAB_PARAGRAPH.1.RID_SVXPAGE_TABULATOR.pageitem.text
 #: prltempl.src#TAB_PRES_LAYOUT_TEMPLATE.1.RID_SVXPAGE_TABULATOR.pageitem.text
@@ -14267,7 +14267,7 @@ msgstr "~Uath"
 
 #: present.src#DLG_START_PRESENTATION.TMF_PAUSE.timefield.quickhelptext
 msgid "Duration of pause"
-msgstr ""
+msgstr "Fad an tsosa"
 
 #: present.src#DLG_START_PRESENTATION.CBX_AUTOLOGO.checkbox.text
 msgid "Show ~logo"
@@ -14295,7 +14295,7 @@ msgstr "Ce~adaigh beochan"
 
 #: present.src#DLG_START_PRESENTATION.CBX_CHANGE_PAGE.checkbox.text
 msgid "Change slides by clic~king on background"
-msgstr ""
+msgstr "Cliceáil an cúlra chun an sleamhnán a athrú"
 
 #: present.src#DLG_START_PRESENTATION.CBX_ALWAYS_ON_TOP.checkbox.text
 msgid "Presentation always ~on top"
@@ -14315,7 +14315,7 @@ msgstr "Roghanna priontála"
 
 #: printdlg.src#DLG_PRINT_WARNINGS.RBT_SCALE.radiobutton.text
 msgid "~Fit page to print range"
-msgstr ""
+msgstr "~Oiriúnaigh an leathanach go dtí an raon priontála"
 
 #: printdlg.src#DLG_PRINT_WARNINGS.RBT_POSTER.radiobutton.text
 msgid "~Print on multiple pages"
@@ -14466,7 +14466,7 @@ msgstr "B~róisiúr"
 
 #: prntopts.src#TP_PRINT_OPTIONS.CBX_FRONT.checkbox.text
 msgid "Fr~ont"
-msgstr ""
+msgstr "É~adan"
 
 # not "Siar" here
 #: prntopts.src#TP_PRINT_OPTIONS.CBX_BACK.checkbox.text
@@ -14475,7 +14475,7 @@ msgstr "~Cúl"
 
 #: prntopts.src#TP_PRINT_OPTIONS.CBX_PAPERBIN.checkbox.text
 msgid "Paper tray from printer s~ettings"
-msgstr ""
+msgstr "Tráidire páipéir óna socruith~e phriontála"
 
 #: sdobjpal.src#FLTWIN_SDOBJPALETTE.BTN_ADD.imagebutton.quickhelptext
 msgid "Add Symbol"
@@ -14500,7 +14500,7 @@ msgstr "Sábháil Pailéad na Siombailí"
 
 #: sdobjpal.src#FLTWIN_SDOBJPALETTE.BTN_SYMSIZE.imagebutton.quickhelptext
 msgid "Toggle Symbol Size"
-msgstr ""
+msgstr "Scoránaigh Méid na Siombailí"
 
 #: sdobjpal.src#FLTWIN_SDOBJPALETTE.floatingwindow.text
 #: strings.src#STR_SYMBOL.string.text
@@ -14572,7 +14572,7 @@ msgstr "Stíleanna Grafacha"
 
 #: tpaction.src#TP_ANIMATION.FT_ACTION.fixedtext.text
 msgid "Action at mouse click"
-msgstr ""
+msgstr "Gníomh le cliceáil na luiche"
 
 #: tpaction.src#TP_ANIMATION.BTN_SEEK.pushbutton.text
 #: createaddresslistdialog.src#DLG_MM_FIND_ENTRY.PB_FIND.pushbutton.text
@@ -14620,11 +14620,11 @@ msgstr "~Treoracha le linn bogadh"
 
 #: tpoption.src#TP_OPTIONS_CONTENTS.CBX_HANDLES_BEZIER.checkbox.text
 msgid "~All control points in Bézier editor"
-msgstr ""
+msgstr "G~ach pointí rialúcháin in eagarthóir Bézier"
 
 #: tpoption.src#TP_OPTIONS_CONTENTS.CBX_MOVE_OUTLINE.checkbox.text
 msgid "~Contour of each individual object"
-msgstr ""
+msgstr "~Comhrian de gach réad aonair"
 
 #: tpoption.src#TP_OPTIONS_MISC.CBX_QUICKEDIT.checkbox.text
 msgid "Allow quick editing"
@@ -14641,7 +14641,7 @@ msgstr "Cáipéis Nua"
 
 #: tpoption.src#TP_OPTIONS_MISC.CBX_START_WITH_TEMPLATE.checkbox.text
 msgid "Start with ~wizard"
-msgstr ""
+msgstr "Tosaigh le ~draoi"
 
 #: tpoption.src#TP_OPTIONS_MISC.CBX_MASTERPAGE_CACHE.checkbox.text
 msgid "Use background cache"
@@ -14682,7 +14682,7 @@ msgstr "Comhoiriúnacht"
 
 #: tpoption.src#TP_OPTIONS_MISC.CB_USE_PRINTER_METRICS.checkbox.text
 msgid "Us~e printer metrics for document formatting"
-msgstr ""
+msgstr "Ú~sáid méadraigh phrintéara le haghaidh formáidiú na gcáipéisí"
 
 #: tpoption.src#TP_OPTIONS_MISC.CB_MERGE_PARA_DIST.checkbox.text
 msgid "Add ~spacing between paragraphs and tables (in current document)"
@@ -14754,7 +14754,7 @@ msgstr "Amharc Líníochta"
 
 #: accessibility.src#SID_SD_A11Y_D_DRAWVIEW_D.string.text
 msgid "This is where you create and edit drawings."
-msgstr ""
+msgstr "Seo í an áit ina gcruthaíonn líníochtaí agus iad a chur in eagar."
 
 #: accessibility.src#SID_SD_A11Y_I_DRAWVIEW_D.string.text
 msgid "This is where you create and edit slides."
@@ -14768,6 +14768,7 @@ msgstr "Amharc Imlíneach"
 #: accessibility.src#SID_SD_A11Y_I_OUTLINEVIEW_D.string.text
 msgid "This is where you enter or edit text in list form."
 msgstr ""
+"Seo í an áit ina n-iontrálann tú téacs i bhfoirm liosta, nó é a chur in eagar."
 
 #: accessibility.src#SID_SD_A11Y_I_SLIDEVIEW_N.string.text
 msgid "Slides View"
@@ -14783,7 +14784,7 @@ msgstr "Amharc Nótaí"
 
 #: accessibility.src#SID_SD_A11Y_I_NOTESVIEW_D.string.text
 msgid "This is where you enter and view notes."
-msgstr ""
+msgstr "Is í seo an áit ina n-iontrálann tú nótaí."
 
 #: accessibility.src#SID_SD_A11Y_I_HANDOUTVIEW_N.string.text
 msgid "Handout View"
@@ -15189,7 +15190,7 @@ msgstr "~Mionathraigh"
 #: menuids_tmpl.src#MN_POSITION.SID_POSITION.SID_BEFORE_OBJ.menuitem.text
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_BeforeObject.Label.value.text
 msgid "In Front of ~Object"
-msgstr ""
+msgstr "~Os Comhair Réada"
 
 #: menuids2_tmpl.src#MN_BEHIND_OBJ.SID_BEHIND_OBJ.menuitem.text
 #: menuids_tmpl.src#MN_POSITION.SID_POSITION.SID_BEHIND_OBJ.menuitem.text
@@ -15278,7 +15279,7 @@ msgstr "Go ~Meiteachomhad"
 #: menuids3_tmpl.src#MN_CONVERT_TO_3D_LATHE_FAST.SID_CONVERT_TO_3D_LATHE_FAST.menuitem.text
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_ConvertInto3DLatheFast.Label.value.text
 msgid "To 3D ~Rotation Object"
-msgstr ""
+msgstr "Go Réad ~Rothlaithe 3T"
 
 #: menuids3_tmpl.src#MN_HORIZONTAL.SID_HORIZONTAL.menuitem.text
 #: globlmn_tmpl.hrc#ITEM_WINDOW_HORIZONTALWINS.SID_HORIZONTALWINS.menuitem.text
@@ -15299,7 +15300,7 @@ msgstr "Dearadh ~Sleamhnáin"
 
 #: menuids3_tmpl.src#MN_DIA.SID_SLIDE_TRANSITIONS_PANEL.menuitem.text
 msgid "Slide ~Transition"
-msgstr ""
+msgstr "~Trasdul Sleamhnán"
 
 #: menuids3_tmpl.src#MN_HIDE_SLIDE.SID_HIDE_SLIDE.menuitem.text
 msgid "~Hide Slide"
@@ -15331,7 +15332,7 @@ msgstr "Cuir Grúpa in ~Eagar"
 #: menuids3_tmpl.src#MN_LEAVE_GROUP_IMPRESS.SID_LEAVE_GROUP.menuitem.text
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_LeaveGroup.Label.value.text
 msgid "E~xit group"
-msgstr ""
+msgstr "S~coir grúpa"
 
 #: menuids_tmpl.src#MN_DISTRIBUTE.SID_DISTRIBUTE_DLG.menuitem.text
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_DistributeSelection.Label.value.text
@@ -15359,7 +15360,7 @@ msgstr "~Taispeántas Sleamhnán"
 #: menuids_tmpl.src#MN_CAPTUREPOINT.SID_CAPTUREPOINT.menuitem.text
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_CapturePoint.Label.value.text
 msgid "~Insert Snap Point/Line..."
-msgstr ""
+msgstr "~Ionsáigh Pointe/Líne Léime..."
 
 #: menuids_tmpl.src#MN_MODIFY_PAGE.SID_MODIFYPAGE.menuitem.text
 msgid "~Slide Layout"
@@ -15707,12 +15708,12 @@ msgstr "~Iontráil Grúpa"
 #: menuids_tmpl.src#MN_LEAVE_GROUP.SID_LEAVE_GROUP.menuitem.text
 #: globlmn_tmpl.hrc#ITEM_POPUP_LEAVE_GROUP.#define.text
 msgid "E~xit Group"
-msgstr ""
+msgstr "S~coir Grúpa"
 
 #: menuids_tmpl.src#MN_REHEARSE_TIMINGS.SID_REHEARSE_TIMINGS.menuitem.text
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_RehearseTimings.Label.value.text
 msgid "~Rehearse Timings"
-msgstr ""
+msgstr "~Cleacht Amuithe"
 
 #: menuids_tmpl.src#MN_ACTION.SID_ANIMATION_EFFECTS.menuitem.text
 msgid "Interaction..."
@@ -15726,7 +15727,7 @@ msgstr "Réad Láithre~oireachta..."
 #: globlmn_tmpl.hrc#ITEM_FORMAT_FONTWORK.#define.text
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_FontWork.Label.value.text
 msgid "F~ontwork"
-msgstr ""
+msgstr "F~ontwork"
 
 #: menuids_tmpl.src#MN_OLE_OBJECT.SID_OBJECT.menuitem.text
 msgid "~OLE Object"
@@ -15734,7 +15735,7 @@ msgstr "Réad ~OLE"
 
 #: menuids_tmpl.src#MN_ORIGINAL_SIZE.SID_ORIGINAL_SIZE.menuitem.text
 msgid "Original ~Size"
-msgstr ""
+msgstr "Bun~mhéid"
 
 #: menuids_tmpl.src#MN_STARIMAGE.SID_OBJECT.menuitem.text
 msgid "~Image"
@@ -15750,7 +15751,7 @@ msgstr "Ionsáigh ~Pointe"
 
 #: menuids_tmpl.src#MN_GLUE_PERCENT.SID_GLUE_PERCENT.menuitem.text
 msgid "~Adapt Position to Object"
-msgstr ""
+msgstr "~Oiriúnaigh Ionad go Réad"
 
 #: menuids_tmpl.src#MN_GLUE_HORZALIGN_LEFT.SID_GLUE_HORZALIGN_LEFT.menuitem.text
 msgid "Fixed ~Horizontal Left"
@@ -15792,11 +15793,11 @@ msgstr ""
 
 #: menuids_tmpl.src#MN_HELPLINES_VISIBLE.SID_HELPLINES_VISIBLE.menuitem.text
 msgid "~Snap Lines Visible"
-msgstr ""
+msgstr "~Línte Léime Infheicthe"
 
 #: menuids_tmpl.src#MN_HELPLINES_USE.SID_HELPLINES_USE.menuitem.text
 msgid "Snap to Snap Lines"
-msgstr ""
+msgstr "Léim go Línte Léime"
 
 #: menuids_tmpl.src#MN_HELPLINES_FRONT.SID_HELPLINES_FRONT.menuitem.text
 msgid "Snap Lines to Front"
@@ -15804,7 +15805,7 @@ msgstr ""
 
 #: menuids_tmpl.src#MN_HELPLINES.DUMMY_6.menuitem.text
 msgid "~Snap Lines"
-msgstr ""
+msgstr "~Línte Léime"
 
 #: menuids_tmpl.src#MN_CONTROL_SHOW_BROWSER.SID_SHOW_BROWSER.menuitem.text
 #: gallery.src#RID_SVXMN_GALLERY1.MN_PROPERTIES.menuitem.text
@@ -15844,11 +15845,11 @@ msgstr "Pailéad Dathann~a 8-Giotán"
 
 #: menuids_tmpl.src#MN_CONVERT_TO_24BIT.SID_CONVERT_TO_24BIT.menuitem.text
 msgid "24 Bit ~True Colors"
-msgstr ""
+msgstr "~Fíordhathanna 24-Giotán"
 
 #: menuids_tmpl.src#MN_COLORRESOLUTION.DUMMY_4.menuitem.text
 msgid "~Color Resolution"
-msgstr ""
+msgstr "~Taifeach Datha"
 
 #: menuids_tmpl.src#MNSUB_CONVERT.SID_CONVERT.menuitem.text
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Popups..uno_ConvertMenu.Label.value.text
@@ -15973,6 +15974,8 @@ msgid ""
 "The gradient was modified without saving. \\nYou can change the selected "
 "gradient \\nor add a new one."
 msgstr ""
+"Mionathraíodh an grádán gan sábháil. \\nIs féidir leat an grádán roghnaithe "
+"\\na athrú nó ceann nua a chur leis."
 
 #: sdstring.src#STR_BITMAP.string.text
 #: formats.src#STR_FORMAT_BITMAP.string.text
@@ -16008,6 +16011,8 @@ msgid ""
 "The bitmap was modified without saving. \\nYou can change the selected bitmap "
 "\\or add a new one."
 msgstr ""
+"Mionathraíodh an mapa giotáin gan sábháil. \\nIs féidir leat an mapa giotáin "
+"roghnaithe \\a athrú nó ceann nua a chur leis."
 
 #: sdstring.src#STR_LINESTYLE.string.text
 #: svdstr.src#SIP_XA_LINESTYLE.string.text
@@ -16037,6 +16042,8 @@ msgid ""
 "The line style was modified without saving. \\nYou can change the selected "
 "line style \\nor add a new one."
 msgstr ""
+"Mionathraíodh an stíl líne gan sábháil. \\nIs féidir leat an stíl líne "
+"roghnaithe \\na athrú nó ceann nua a chur leis."
 
 #: sdstring.src#STR_INVISIBLE.string.text strings.src#STR_INVISIBLE.string.text
 #: sdstring.src#RID_SVXSTR_INVISIBLE.string.text
@@ -16114,7 +16121,7 @@ msgstr "Barra Uirlisí Líníochta"
 
 #: strings.src#STR_GRAPHIC_TOOLBOX.string.text
 msgid "Draw toolbar/Graphics"
-msgstr ""
+msgstr "Barra líníochta/Grafaic"
 
 #: strings.src#RID_PLUGINTOOLBOX.string.text
 #: smres.src#RID_PLUGINTOOLBOX.string.text
@@ -16123,20 +16130,20 @@ msgstr "Barra na mBreiseán"
 
 #: strings.src#STR_SLIDE_TOOLBOX.string.text
 msgid "Slide Bar"
-msgstr ""
+msgstr "Barra Sleamhnáin"
 
 #: strings.src#STR_OUTLINE_TOOLBOX.string.text
 msgid "Outline Bar"
-msgstr ""
+msgstr "Barra Imlíne"
 
 #: strings.src#STR_DRAW_OBJ_TOOLBOX.string.text
 #: shells.src#RID_DRAW_TOOLBOX.string.text
 msgid "Draw Object Bar"
-msgstr ""
+msgstr "Barra na Réad Líníochta"
 
 #: strings.src#STR_GRAPHIC_OBJ_TOOLBOX.string.text
 msgid "Draw object bar/Graphics"
-msgstr ""
+msgstr "Barra na réad líníochta/Grafaic"
 
 #: strings.src#STR_DRAW_OPTIONS_TOOLBOX.string.text
 msgid "Options Bar"
@@ -16144,7 +16151,7 @@ msgstr "Barra na Roghanna"
 
 #: strings.src#STR_GRAPHIC_OPTIONS_TOOLBOX.string.text
 msgid "Options bar/Graphics"
-msgstr ""
+msgstr "Barra na roghanna/Grafaic"
 
 #: strings.src#STR_DRAW_COMMONTASK_TOOLBOX.string.text
 #: strings.src#STR_IMPRESS_DOCUMENT.string.text
@@ -16161,15 +16168,15 @@ msgstr "Láithreoireacht"
 
 #: strings.src#STR_SLIDE_OBJ_TOOLBOX.string.text
 msgid "Slide Object Bar"
-msgstr ""
+msgstr "Barra na Réad Sléamhnáin"
 
 #: strings.src#STR_BEZIER_TOOLBOX.string.text
 msgid "Bézier object bar"
-msgstr ""
+msgstr "Barra na réad Bézier"
 
 #: strings.src#STR_GLUEPOINTS_TOOLBOX.string.text
 msgid "Glue Point Object Bar"
-msgstr ""
+msgstr "Barra na Réad Gliúphointe"
 
 #: strings.src#STR_GRAPHIC_TEXT_TOOLBOX.string.text
 msgid "Text Object Bar/Draw"
@@ -16401,15 +16408,15 @@ msgstr "Ailínigh sa lár"
 
 #: strings.src#STR_ALIGN_UP.string.text
 msgid "Align top"
-msgstr ""
+msgstr "Ailínigh leis an mbarr"
 
 #: strings.src#STR_ALIGN_MIDDLE.string.text
 msgid "Align middle"
-msgstr ""
+msgstr "Ailínigh sa lár"
 
 #: strings.src#STR_ALIGN_DOWN.string.text
 msgid "Align bottom"
-msgstr ""
+msgstr "Ailínigh leis an mbun"
 
 #: strings.src#STR_INSERTGRAPHIC.string.text
 #: shells.src#STR_INSERT_GRAPHIC.string.text
@@ -16492,7 +16499,7 @@ msgstr "De Láimh"
 
 #: strings.src#STR_BASIC_IDE.string.text
 msgid "Basic IDE"
-msgstr ""
+msgstr "IDE bunúsach"
 
 #: strings.src#STR_BEZ_CONV_LINE.string.text
 msgid "~To Line"
@@ -16508,7 +16515,7 @@ msgstr ""
 
 #: strings.src#STR_UNDO_BEZSMOOTH.string.text
 msgid "Modify curve smoothing"
-msgstr ""
+msgstr "Mionathraigh slíomachán na gcuar"
 
 #: strings.src#STR_UNDO_BEZCLOSE.string.text
 msgid "Close Polygon"
@@ -16553,7 +16560,7 @@ msgstr "Teideal Amháin"
 
 #: strings.src#STR_AUTOLAYOUT_TITLE.string.text
 msgid "Title Slide"
-msgstr ""
+msgstr "Sleamhnán Teidil"
 
 #: strings.src#STR_AUTOLAYOUT_OBJ.string.text
 msgid "Title, Object"
@@ -16680,7 +16687,7 @@ msgstr "Amharc Sratha"
 #: DrawWindowState.xcu#..DrawWindowState.UIElements.States.private_resource/toolbar/masterviewtoolbar.UIName.value.text
 #: ImpressWindowState.xcu#..ImpressWindowState.UIElements.States.private_resource/toolbar/masterviewtoolbar.UIName.value.text
 msgid "Master View"
-msgstr ""
+msgstr "Máistiramharc"
 
 #: strings.src#STR_OPEN_OBJECT.string.text
 msgid "Open ~object"
@@ -16706,7 +16713,7 @@ msgstr "Paraiméadair bheochana"
 
 #: strings.src#STR_UNDO_ANIMATION_ORDER.string.text
 msgid "Animation order"
-msgstr ""
+msgstr "Ord na beochana"
 
 #: strings.src#STR_EXPORT_ALL.string.text
 msgid "[All formats]"
@@ -16781,7 +16788,7 @@ msgstr "Réamh~amharc"
 #: strings.src#STR_UNDO_GRAFFILTER.string.text
 #: gallery.src#RID_SVXSTR_GALLERY_FILTER.string.text
 msgid "Graphics filter"
-msgstr ""
+msgstr "Scagaire grafach"
 
 #: strings.src#STR_EXPORT_DIALOG_TITLE.string.text
 #: opthtml.src#GB_EXPORT.fixedline.text doc.src#STR_EXPORTBUTTON.string.text
@@ -16792,7 +16799,7 @@ msgstr "Easpórtáil"
 
 #: strings.src#STR_UNDEFINED_NAME.string.text
 msgid "Unspecific Name"
-msgstr ""
+msgstr "Ainm Ginearálta"
 
 #: strings.src#STR_WARN_PAGE_EXISTS.string.text
 msgid "The slide name already exists or is invalid. Please enter another name."
@@ -16806,31 +16813,31 @@ msgstr "Tá réad ann leis an ainm seo cheana.  Roghnaigh ainm eile, le do thoil
 
 #: strings.src#STR_SNAPDLG_SETLINE.string.text
 msgid "Edit Snap Line"
-msgstr ""
+msgstr "Cuir Líne Léime in Eagar"
 
 #: strings.src#STR_SNAPDLG_SETPOINT.string.text
 msgid "Edit Snap Point"
-msgstr ""
+msgstr "Cuir Pointe Léime in Eagar"
 
 #: strings.src#STR_POPUP_EDIT_SNAPLINE.string.text
 msgid "Edit Snap Line..."
-msgstr ""
+msgstr "Cuir Líne Léime in Eagar..."
 
 #: strings.src#STR_POPUP_EDIT_SNAPPOINT.string.text
 msgid "Edit Snap Point..."
-msgstr ""
+msgstr "Cuir Pointe Léime in Eagar..."
 
 #: strings.src#STR_POPUP_DELETE_SNAPLINE.string.text
 msgid "Delete Snap Line"
-msgstr ""
+msgstr "Scrios Líne Léime"
 
 #: strings.src#STR_POPUP_DELETE_SNAPPOINT.string.text
 msgid "Delete Snap Point"
-msgstr ""
+msgstr "Scrios Pointe Léime"
 
 #: strings.src#STR_UNDO_FORMTEXT.string.text
 msgid "Align text to object"
-msgstr ""
+msgstr "Ailínigh téacs le réad"
 
 #: strings.src#STR_GRAPHIC.string.text
 msgid "StarDraw 4.0"
@@ -16887,6 +16894,8 @@ msgid ""
 "Are you sure you want to delete the level \"$\"?\\nNote: All objects on this "
 "level will be deleted!"
 msgstr ""
+"An bhfuil tú cinnte go dteastaíonn uait leibhéal \"$\" a scriosadh?\\nNóta: "
+"Scriosfar gach réad ar an leibhéal seo!"
 
 #: strings.src#STR_ASK_DELETE_ALL_PICTURES.string.text
 msgid "Do you really want to delete all images?"
@@ -17038,7 +17047,7 @@ msgstr "An bhfuil tú cinnte go dteastaíonn uait an tsiombail seo a mhionathrú
 
 #: strings.src#STR_WARN_PRINTFORMAT_FAILURE.string.text
 msgid "The document format could not be set on the specified printer."
-msgstr ""
+msgstr "Níorbh fhéidir formáid na cáipéis a shocrú ar an bprintéir roghnaithe."
 
 #: strings.src#STR_REMOVE_LINK.string.text
 msgid ""
@@ -17082,7 +17091,7 @@ msgstr ""
 
 #: strings.src#STR_ASK_FOR_CONVERT_TO_BEZIER.string.text
 msgid "Convert selected object to curve?"
-msgstr ""
+msgstr "Tiontaigh an réad roghnaithe go cuar?"
 
 #: strings.src#STR_TEMPLATE.string.text
 #: StarImpress_4_0_Vorlage_ui.xcu#StarImpress_4.0_Vorlage.UIName.value.text
@@ -17091,7 +17100,7 @@ msgstr "Teimpléad StarImpress 4.0"
 
 #: strings.src#STR_UNDO_CHANGE_PRES_OBJECT.string.text
 msgid "Modify presentation object '$'"
-msgstr ""
+msgstr "Mionathraigh réad láithreoireachta '$'"
 
 #: strings.src#STR_UNDO_MODIFY_PAGE.string.text
 msgid "Slide layout"
@@ -17104,7 +17113,7 @@ msgstr "Ionsáigh comhad"
 
 #: strings.src#STR_SCALE_OBJS_TO_PAGE.string.text
 msgid "Should the graphics be scaled to the new slide format?"
-msgstr ""
+msgstr "Ar mhaith leat an ghrafaic a scálú go dtí an fhormáid nua sleamhnán?"
 
 #: strings.src#STR_UNDO_INSERT_SPECCHAR.string.text
 msgid "Insert special character"
@@ -17131,7 +17140,7 @@ msgstr "Sta~d"
 
 #: strings.src#STR_CANT_READ_OLD_FORMAT_ERROR.string.text
 msgid "The previous StarDraw format cannot be read."
-msgstr ""
+msgstr "Ní féidir an fhormáid StarDraw roimhe seo a léamh."
 
 #: strings.src#STR_EXPORT_EMPTYGRAPHIC.string.text
 msgid "Blank graphics are not supported."
@@ -17156,6 +17165,7 @@ msgstr " (Imlíne)"
 #: strings.src#STR_WARN_SCALE_FAIL.string.text
 msgid "The specified scale is invalid.\\nDo you want to enter a new one?"
 msgstr ""
+"Is neamhbhailí é an scála sonraithe.\\nAr mhaith leat ceann nua a iontráil?"
 
 #: strings.src#STR_CLICK_ACTION_NONE.string.text
 msgid "No action"
@@ -17264,11 +17274,11 @@ msgstr "Traschéimnigh Ón Bhun"
 
 #: strings.src#STR_EFFECT_FADE_TO_CENTER.string.text
 msgid "Fade To Center"
-msgstr ""
+msgstr "Céimnigh go dtí an lár"
 
 #: strings.src#STR_EFFECT_FADE_FROM_CENTER.string.text
 msgid "Fade From Center"
-msgstr ""
+msgstr "Céimnigh Ón Lár"
 
 #: strings.src#STR_EFFECT_DISCARD_FROM_L.string.text
 msgid "Fly In From Left"
@@ -17276,7 +17286,7 @@ msgstr "Eitil Isteach Ó Chlé"
 
 #: strings.src#STR_EFFECT_DISCARD_FROM_UL.string.text
 msgid "Fly In From Top Left"
-msgstr ""
+msgstr "Eitil Isteach Ón mBarr ar Chlé"
 
 #: strings.src#STR_EFFECT_DISCARD_FROM_T.string.text
 msgid "Fly In From Top"
@@ -17284,7 +17294,7 @@ msgstr "Eitil Isteach Ón mBarr"
 
 #: strings.src#STR_EFFECT_DISCARD_FROM_UR.string.text
 msgid "Fly In From Upper Right"
-msgstr ""
+msgstr "Eitil Isteach Ón mBarr ar Dheis"
 
 #: strings.src#STR_EFFECT_DISCARD_FROM_R.string.text
 msgid "Fly In From Right"
@@ -17292,7 +17302,7 @@ msgstr "Eitil Isteach Ó Dheis"
 
 #: strings.src#STR_EFFECT_DISCARD_FROM_LR.string.text
 msgid "Fly In From Lower Right"
-msgstr ""
+msgstr "Eitil Isteach Ón mBun ar Dheis"
 
 #: strings.src#STR_EFFECT_DISCARD_FROM_B.string.text
 msgid "Fly In From Bottom"
@@ -17300,7 +17310,7 @@ msgstr "Eitil Isteach Ón Bhun"
 
 #: strings.src#STR_EFFECT_DISCARD_FROM_LL.string.text
 msgid "Fly In From Lower Left"
-msgstr ""
+msgstr "Eitil Isteach Ón mBun ar Chlé"
 
 #: strings.src#STR_EFFECT_DISCARD_S_FROM_L.string.text
 msgid "Short Fly In From Left"
@@ -19370,7 +19380,7 @@ msgstr "Socruithe 3T"
 
 #: glob.src#STR_FONTWORKOBJECTBARSHELL.string.text
 msgid "FontWork"
-msgstr ""
+msgstr "FontWork"
 
 #: swslots.src#FN_ABSTRACT_NEWDOC.sfxslotinfo.text
 msgid "Document From Abstract"
@@ -33565,7 +33575,7 @@ msgstr "~4 orlach"
 
 #: fontworkgallery.src#RID_SVX_MDLG_FONTWORK_GALLERY.FL_FAVORITES.fixedline.text
 msgid "Select a Fontwork style:"
-msgstr ""
+msgstr "Roghnaigh stíl Fontwork:"
 
 #: fontworkgallery.src#RID_SVX_MDLG_FONTWORK_GALLERY.STR_CLICK_TO_ADD_TEXT.string.text
 msgid "Click to edit text"
@@ -33574,7 +33584,7 @@ msgstr "Cliceáil chun téacs a chur in eagar"
 #: fontworkgallery.src#RID_SVX_MDLG_FONTWORK_GALLERY.modaldialog.text
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_FontworkGalleryFloater.Label.value.text
 msgid "Fontwork Gallery"
-msgstr ""
+msgstr "Gailearaí Fontwork"
 
 #: fontworkgallery.src#RID_SVXFLOAT_FONTWORK_ALIGNMENT.STR_ALIGN_LEFT.string.text
 msgid "~Left Align"
@@ -33595,7 +33605,7 @@ msgstr ""
 #: fontworkgallery.src#RID_SVXFLOAT_FONTWORK_ALIGNMENT.floatingwindow.text
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_FontworkAlignmentFloater.Label.value.text
 msgid "Fontwork Alignment"
-msgstr ""
+msgstr "Ailíniú Fontwork"
 
 #: fontworkgallery.src#RID_SVXFLOAT_FONTWORK_CHARSPACING.STR_CHARS_SPACING_VERY_TIGHT.string.text
 msgid "~Very Tight"
@@ -33621,7 +33631,7 @@ msgstr "~Coirneáil Péirí Carachtair"
 #: fontworkgallery.src#RID_SVX_MDLG_FONTWORK_CHARSPACING.modaldialog.text
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_FontworkCharacterSpacingFloater.Label.value.text
 msgid "Fontwork Character Spacing"
-msgstr ""
+msgstr "Spásáil na gCarachtar Fontwork"
 
 #: lboxctrl.src#RID_SVXSTR_NUM_UNDO_ACTIONS.string.text
 msgid "Undo $(ARG1) actions"
@@ -35127,15 +35137,15 @@ msgstr "Tréithe an limistéir"
 
 #: svdstr.src#SIP_XA_FORMTXTSTYLE.string.text
 msgid "Fontwork style"
-msgstr ""
+msgstr "Stíl Fontwork"
 
 #: svdstr.src#SIP_XA_FORMTXTADJUST.string.text
 msgid "Fontwork alignment"
-msgstr ""
+msgstr "Ailíniú Fontwork"
 
 #: svdstr.src#SIP_XA_FORMTXTDISTANCE.string.text
 msgid "Fontwork spacing"
-msgstr ""
+msgstr "Spásáil Fontwork"
 
 #: svdstr.src#SIP_XA_FORMTXTSTART.string.text
 msgid "Fontwork font begin"
@@ -35143,19 +35153,19 @@ msgstr ""
 
 #: svdstr.src#SIP_XA_FORMTXTMIRROR.string.text
 msgid "Fontwork mirror"
-msgstr ""
+msgstr "Scáthán Fontwork"
 
 #: svdstr.src#SIP_XA_FORMTXTOUTLINE.string.text
 msgid "Fontwork outline"
-msgstr ""
+msgstr "Imlíne Fontwork"
 
 #: svdstr.src#SIP_XA_FORMTXTSHADOW.string.text
 msgid "Fontwork shadow"
-msgstr ""
+msgstr "Scáth Fontwork"
 
 #: svdstr.src#SIP_XA_FORMTXTSHDWCOLOR.string.text
 msgid "Fontwork shadow color"
-msgstr ""
+msgstr "Dath an scátha Fontwork"
 
 #: svdstr.src#SIP_XA_FORMTXTSHDWXVAL.string.text
 msgid "Fontwork shadow offset X"
@@ -35167,11 +35177,11 @@ msgstr ""
 
 #: svdstr.src#SIP_XA_FORMTXTSTDFORM.string.text
 msgid "Fontwork default form"
-msgstr ""
+msgstr "Foirm réamhshocraithe Fontwork"
 
 #: svdstr.src#SIP_XA_FORMTXTHIDEFORM.string.text
 msgid "Hide fontwork outline"
-msgstr ""
+msgstr "Folaigh an imlíne Fontwork"
 
 #: svdstr.src#SIP_XA_FORMTXTSHDWTRANSP.string.text
 msgid "Fontwork shadow transparency"
@@ -35179,23 +35189,23 @@ msgstr ""
 
 #: svdstr.src#SIP_XA_FTRESERVED2.string.text
 msgid "Fontwork reserved for 2"
-msgstr ""
+msgstr "Fontwork curtha in áirithe do 2"
 
 #: svdstr.src#SIP_XA_FTRESERVED3.string.text
 msgid "Fontwork reserved for 3"
-msgstr ""
+msgstr "Fontwork curtha in áirithe do 3"
 
 #: svdstr.src#SIP_XA_FTRESERVED4.string.text
 msgid "Fontwork reserved for 4"
-msgstr ""
+msgstr "Fontwork curtha in áirithe do 4"
 
 #: svdstr.src#SIP_XA_FTRESERVED5.string.text
 msgid "Fontwork reserved for 5"
-msgstr ""
+msgstr "Fontwork curtha in áirithe do 5"
 
 #: svdstr.src#SIP_XA_FTRESERVED_LAST.string.text
 msgid "Fontwork reserved for 6"
-msgstr ""
+msgstr "Fontwork curtha in áirithe do 6"
 
 #: svdstr.src#SIP_SA_SHADOWXDIST.string.text
 msgid "Shadow spacing X"
@@ -35783,11 +35793,11 @@ msgstr "Athraigh an Dath Easbhrúite"
 #: WriterWebWindowState.xcu#..WriterWebWindowState.UIElements.States.private_resource/toolbar/fontworkobjectbar.UIName.value.text
 #: WriterWindowState.xcu#..WriterWindowState.UIElements.States.private_resource/toolbar/fontworkobjectbar.UIName.value.text
 msgid "Fontwork"
-msgstr ""
+msgstr "Fontwork"
 
 #: fontworkbar.src#RID_SVXSTR_UNDO_APPLY_FONTWORK_SHAPE.string.text
 msgid "Apply Fontwork Shape"
-msgstr ""
+msgstr "Cuir Cruth Fontwork in bhFeidhm"
 
 #: fontworkbar.src#RID_SVXSTR_UNDO_APPLY_FONTWORK_SAME_LETTER_HEIGHT.string.text
 msgid "Apply Fontwork Same Letter Heights"
@@ -35795,11 +35805,11 @@ msgstr ""
 
 #: fontworkbar.src#RID_SVXSTR_UNDO_APPLY_FONTWORK_ALIGNMENT.string.text
 msgid "Apply Fontwork Alignment"
-msgstr ""
+msgstr "Cuir Ailíniú Fontwork i bhFeidhm"
 
 #: fontworkbar.src#RID_SVXSTR_UNDO_APPLY_FONTWORK_CHARACTER_SPACING.string.text
 msgid "Apply Fontwork Character Spacing"
-msgstr ""
+msgstr "Cuir Spásáil na gCarachtar Fontwork in bhFeidhm"
 
 #: datanavi.src#RID_SVX_XFORMS_TABPAGES.TB_ITEMS.TBI_ITEM_ADD.toolboxitem.text
 #: datanavi.src#RID_MENU_DATANAVIGATOR.TBI_ITEM_ADD.menuitem.text
@@ -38938,7 +38948,7 @@ msgstr "Ciorcal Oscailte Ingearach"
 
 #: fontwork.src#RID_SVXSTR_FONTWORK_UNDOCREATE.string.text
 msgid "Create Fontwork object"
-msgstr ""
+msgstr "Cruthaigh réad Fontwork"
 
 #: frmdirlbox.src#RID_SVXSTR_PAGEDIR_LTR_VERT.string.text
 msgid "Left-to-right (vertical)"
@@ -59490,7 +59500,7 @@ msgstr ""
 #: WriterWebWindowState.xcu#..WriterWebWindowState.UIElements.States.private_resource/toolbar/fontworkshapetypes.UIName.value.text
 #: WriterWindowState.xcu#..WriterWindowState.UIElements.States.private_resource/toolbar/fontworkshapetypes.UIName.value.text
 msgid "Fontwork Shape"
-msgstr ""
+msgstr "Cruth Fontwork"
 
 #: ChartCommands.xcu#..ChartCommands.UserInterface.Commands..uno_ChartTitle.Label.value.text
 msgid "Chart Title"
@@ -59643,7 +59653,7 @@ msgstr "Sféar"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_GlueInsertPoint.Label.value.text
 msgid "Insert Glue Point"
-msgstr "Ionsáigh Pointe Gliú"
+msgstr "Ionsáigh Gliúphointe"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_GluePercent.Label.value.text
 msgid "Glue Point Relative"
@@ -60340,7 +60350,7 @@ msgstr "Formhéadaigh"
 #: Effects.xcu#..Effects.UserInterface.Effects.ooo_entrance_curve_up.Label.value.text
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_FontworkShapeType.fontwork_curve_up.Label.value.text
 msgid "Curve Up"
-msgstr ""
+msgstr "Cuar Aníos"
 
 #: Effects.xcu#..Effects.UserInterface.Effects.ooo_entrance_fade_in_and_zoom.Label.value.text
 msgid "Fade in and Zoom"
@@ -60512,7 +60522,7 @@ msgstr ""
 #: Effects.xcu#..Effects.UserInterface.Effects.ooo_exit_curve_down.Label.value.text
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_FontworkShapeType.fontwork_curve_down.Label.value.text
 msgid "Curve Down"
-msgstr ""
+msgstr "Cuar Anuas"
 
 #: Effects.xcu#..Effects.UserInterface.Effects.ooo_exit_spiral_out.Label.value.text
 msgid "Spiral Out"
@@ -71917,7 +71927,7 @@ msgid "The format of the selected file is not supported."
 msgstr "Ní thacaítear le formáid an chomhaid roghnaithe."
 
 #: readme.xrm#ooo_readme.Welcome.A2.a.readmeitem.text
-msgid "Last updated $Date: 2005-07-04 22:51:05 $"
+msgid "Last updated $Date: 2005-07-05 01:00:20 $"
 msgstr ""
 
 #: readme.xrm#ooo_readme.Welcome.A3.a.readmeitem.text
