@@ -20735,7 +20735,7 @@ msgstr ""
 
 #: swslots.src#FN_FORMAT_APPLY_DEFAULT.sfxslotinfo.text
 msgid "Apply Style Default"
-msgstr ""
+msgstr "Cuir an Stíl Réamhshocraithe i bhFeidhm"
 
 #: swslots.src#FN_FORMAT_APPLY_TEXTBODY.sfxslotinfo.text
 msgid "Apply Style Textbody"
@@ -20827,7 +20827,7 @@ msgstr ""
 #: swslots.src#FN_TOOL_ANKER_CHAR.sfxslotinfo.text
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_SetAnchorToChar.Label.value.text
 msgid "Anchor as Character"
-msgstr ""
+msgstr "Ancaire mar Charachtar"
 
 #: swslots.src#FN_TOOL_ANKER_FRAME.sfxslotinfo.text
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_SetAnchorToFrame.Label.value.text
@@ -20847,7 +20847,7 @@ msgstr ""
 #: swslots.src#FN_TOOL_HIERARCHIE.sfxslotinfo.text
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_ToggleObjectLayer.Label.value.text
 msgid "Change Position"
-msgstr ""
+msgstr "Athraigh an tIonad"
 
 #: swslots.src#FN_UNDERLINE_DOUBLE.sfxslotinfo.text
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_UnderlineDouble.Label.value.text
@@ -20907,7 +20907,7 @@ msgstr ""
 
 #: swslots.src#FN_VIEW_META_CHARS.sfxslotinfo.text
 msgid "Nonprinting Characters  On/Off"
-msgstr ""
+msgstr "Carachtair Neamhphriontála  Ann/As"
 
 #: swslots.src#FN_VIEW_TABLEGRID.sfxslotinfo.text
 msgid "Table Limits"
@@ -20928,7 +20928,7 @@ msgstr "Scrollbharra Ingearach"
 #: swslots.src#FN_WRAP_ANCHOR_ONLY.sfxslotinfo.text
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_WrapAnchorOnly.Label.value.text
 msgid "Wrap First Paragraph"
-msgstr ""
+msgstr "Timfhill An Chéad Alt"
 
 #: swslots.src#SID_ATTR_CHAR_COLOR_BACKGROUND.sfxslotinfo.text
 #: tbcontrl.src#RID_SVXSTR_EXTRAS_CHARBACKGROUND.string.text
@@ -21065,7 +21065,7 @@ msgstr ""
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_SwitchControlDesignMode.Label.value.text
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_SwitchXFormsDesignMode.Label.value.text
 msgid "Design Mode On/Off"
-msgstr ""
+msgstr "Mód Deartha Ann/As"
 
 #: swslots.src#FN_XFORMS_INIT.sfxslotinfo.text
 msgid "XML Form Document"
@@ -21236,11 +21236,11 @@ msgstr "Réad OLE"
 
 #: shells.src#STR_SWBG_TABLE_ROW.string.text
 msgid "Table row"
-msgstr ""
+msgstr "Ró tábla"
 
 #: shells.src#STR_SWBG_TABLE_CELL.string.text
 msgid "Table cell"
-msgstr ""
+msgstr "Cill tábla"
 
 #: shells.src#STR_NAME_GROUP_DIALOG.string.text
 msgid "Name group"
@@ -21344,7 +21344,7 @@ msgstr "Stíl Leathanaigh: "
 
 #: cption.src#DLG_CAPTION.BTN_AUTOCAPTION.pushbutton.text
 msgid "AutoCaption..."
-msgstr ""
+msgstr "Foscríbhinn Uathoibríoch..."
 
 #: cption.src#DLG_CAPTION.TXT_TEXT.fixedtext.text
 #: cption.src#DLG_CAPTION.modaldialog.text
@@ -21436,7 +21436,7 @@ msgstr "<Neamhní>"
 #: cption.src#DLG_SEQUENCE_OPTION.FL_HEADER.fixedline.text
 #: optload.src#TP_OPTCAPTION_PAGE.FL_NUMCAPT.fixedline.text
 msgid "Numbering captions by chapter"
-msgstr ""
+msgstr "Uimhrigh na foscríbhinní de réir caibidlí"
 
 #: cption.src#DLG_SEQUENCE_OPTION.FT_LEVEL.fixedtext.text
 #: cnttab.src#TP_TOX_ENTRY.FT_LEVEL.fixedtext.text
@@ -21463,7 +21463,7 @@ msgstr "Stíl carachtair"
 
 #: cption.src#DLG_SEQUENCE_OPTION.CB_APPLYBAS.checkbox.text
 msgid "~Apply border and shadow"
-msgstr ""
+msgstr "~Cuir imlíne agus scáth i bhfeidhm"
 
 #: frmpage.src#DLG_FRM_STD.1.TP_FRM_WRAP.pageitem.text
 #: frmpage.src#DLG_FRM_GRF.1.TP_FRM_WRAP.pageitem.text
@@ -21547,7 +21547,7 @@ msgstr "Ancaire"
 #: chardlg.src#RID_SVXPAGE_CHAR_POSITION.FT_KERNING2.fixedtext.text
 #: swpossizetabpage.src#RID_SVXPAGE_SWPOSSIZE.FT_HORIBY.fixedtext.text
 msgid "b~y"
-msgstr ""
+msgstr "~de réir"
 
 #: frmpage.src#TP_FRM_STD.FT_HORI_RELATION.fixedtext.text
 #: swpossizetabpage.src#RID_SVXPAGE_SWPOSSIZE.FT_HORITO.fixedtext.text
@@ -21608,11 +21608,11 @@ msgstr "Ar gach leathanach"
 
 #: frmpage.src#TP_GRF_EXT.RB_MIRROR_LEFT_PAGES.radiobutton.text
 msgid "On left pages"
-msgstr ""
+msgstr "Ar leathanaigh ar chlé"
 
 #: frmpage.src#TP_GRF_EXT.RB_MIRROR_RIGHT_PAGES.radiobutton.text
 msgid "On right pages"
-msgstr ""
+msgstr "Ar leathanaigh ar dheis"
 
 #: frmpage.src#TP_GRF_EXT.FL_MIRROR.fixedline.text
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_Mirror.Label.value.text
@@ -21686,7 +21686,7 @@ msgstr "Cosain"
 
 #: frmpage.src#TP_FRM_ADD.CB_EDIT_IN_READONLY.checkbox.text
 msgid "~Editable in read-only document"
-msgstr ""
+msgstr "In~eagarthóireachta i gcáipéis léimh-amháin"
 
 #: frmpage.src#TP_FRM_ADD.CB_PRINT_FRAME.checkbox.text
 msgid "Prin~t"
@@ -21833,7 +21833,7 @@ msgstr "Sa ~chúlra"
 
 #: wrap.src#TP_FRM_WRAP.CB_ONLYOUTSIDE.checkbox.text
 msgid "Outside only"
-msgstr ""
+msgstr "Amuigh amháin"
 
 #: wrap.src#TP_FRM_WRAP.FT_LEFT_MARGIN.fixedtext.text
 #: pview.src#DLG_PAGEPREVIEW_PRINTOPTIONS.FT_LMARGIN.fixedtext.text
@@ -22075,7 +22075,7 @@ msgstr "Leathanach Baile / r-phost"
 
 #: label.src#TP_BUSINESS_DATA.FL_DATA.fixedline.text
 msgid "Business data"
-msgstr ""
+msgstr "Sonraí tráchtála"
 
 #: label.src#TP_BUSINESS_DATA.FT_COMP.fixedtext.text
 #: fldui.src#FLD_EU_FIRMA.string.text
@@ -22201,7 +22201,7 @@ msgstr "~Ró"
 
 #: labprt.src#TP_LAB_PRT.CB_SYNCHRON.checkbox.text
 msgid "Synchroni~ze contents"
-msgstr ""
+msgstr "~Sioncrónaigh an t-ábhar"
 
 #: labprt.src#TP_LAB_PRT.FL_DONTKNOW.fixedline.text
 msgid "Distribute"
@@ -71929,7 +71929,7 @@ msgid "The format of the selected file is not supported."
 msgstr "Ní thacaítear le formáid an chomhaid roghnaithe."
 
 #: readme.xrm#ooo_readme.Welcome.A2.a.readmeitem.text
-msgid "Last updated $Date: 2005-07-05 03:35:13 $"
+msgid "Last updated $Date: 2005-07-06 04:03:12 $"
 msgstr ""
 
 #: readme.xrm#ooo_readme.Welcome.A3.a.readmeitem.text
