@@ -17933,7 +17933,7 @@ msgstr "Conair"
 #: strings.src#STR_FILEFORMAT_NAME.string.text
 #: fldui.src#FMT_FF_NAME_NOEXT.string.text
 msgid "File name without extension"
-msgstr "Ainm comhaid gan sínteán"
+msgstr "Ainm comhaid gan iarmhír"
 
 #: strings.src#STR_RELEASE_GRAPHICLINK.string.text
 msgid ""
@@ -50971,7 +50971,7 @@ msgstr "Leagan reatha"
 #: OfficeFilePicker.src#STR_SVT_FILEPICKER_AUTO_EXTENSION.string.text
 #: iodlg.src#DLG_SVT_EXPLORERFILE.CB_AUTO_EXTENSION.checkbox.text
 msgid "~Automatic file name extension"
-msgstr "Sínteán u~athoibríoch"
+msgstr "Iarmhír u~athoibríoch ar ainm comhaid"
 
 #: filedlghelper.src#STR_CB_PASSWORD.string.text
 msgid "Save with ~password"
@@ -51409,7 +51409,7 @@ msgstr ""
 
 #: app.src#STR_AUTOSAVE.string.text
 msgid "AutoSave"
-msgstr "UathSábháil"
+msgstr "Uathshábháil"
 
 #: app.src#STR_RESWARNING.string.text
 msgid ""
@@ -58410,11 +58410,11 @@ msgstr "Ainm ar an scagaire"
 
 #: xmlfiltertabpagebasic.src#RID_XML_FILTER_TABPAGE_BASIC.FT_XML_INTERFACE_NAME.fixedtext.text
 msgid "Name of\\nfile type"
-msgstr ""
+msgstr "Ainm ar\\nan gcineál comhaid"
 
 #: xmlfiltertabpagebasic.src#RID_XML_FILTER_TABPAGE_BASIC.FT_XML_EXTENSION.fixedtext.text
 msgid "File extension"
-msgstr "Sínteán"
+msgstr "Iarmhír ainm comhaid"
 
 #: xmlfiltertabpagexslt.src#RID_XML_FILTER_TABPAGE_XSLT.FT_XML_DOCTYPE.fixedtext.text
 msgid "DocType"
@@ -71929,7 +71929,7 @@ msgid "The format of the selected file is not supported."
 msgstr "Ní thacaítear le formáid an chomhaid roghnaithe."
 
 #: readme.xrm#ooo_readme.Welcome.A2.a.readmeitem.text
-msgid "Last updated $Date: 2005-07-06 04:03:12 $"
+msgid "Last updated $Date: 2005-08-31 17:37:14 $"
 msgstr ""
 
 #: readme.xrm#ooo_readme.Welcome.A3.a.readmeitem.text
