@@ -1,5 +1,5 @@
 # OOo pot file for Irish.
-#   CURRENT VERSION = SRC680_m113
+#   CURRENT VERSION = SRC680_m126
 # First version produced Sept. 2004 by Kevin Scannell using the oo2po
 # scripts by David Fraser et al
 msgid ""
@@ -22952,6 +22952,10 @@ msgstr ""
 msgid "Select Address Block"
 msgstr ""
 
+#: mmaddressblockpage.src#WORKAROUND.#define.text
+msgid "New Address Block"
+msgstr ""
+
 #: mmaddressblockpage.src#DLG_MM_CUSTOMIZEADDRESSBLOCK.ST_TITLE_EDIT.string.text
 msgid "Edit Address Block"
 msgstr ""
@@ -23020,10 +23024,6 @@ msgstr "Fáilte"
 #: mmaddressblockpage.src#DLG_MM_CUSTOMIZEADDRESSBLOCK.ST_PUNCTUATION.string.text
 msgid "Punctuation Mark"
 msgstr "Comhartha Poncaíochta"
-
-#: mmaddressblockpage.src#DLG_MM_CUSTOMIZEADDRESSBLOCK.modaldialog.text
-msgid "New Address Block"
-msgstr ""
 
 #: mmaddressblockpage.src#DLG_MM_ASSIGNFIELDS.FI_MATCHING.fixedtext.text
 msgid "Assign the fields from your data source to match the address elements."
@@ -30295,26 +30295,31 @@ msgstr "Línte Ceangail"
 
 #: attrib4.src#TP_DATA_DESCR.CB_VALUE.checkbox.text
 #: datdescr.src#DLG_DATA_DESCR.CB_VALUE.checkbox.text
+#: res_DataLabel_tmpl.hrc#RESOURCE_DATALABEL__xpos__ypos__.CB_VALUE.checkbox.text
 msgid "Show ~value"
 msgstr "Taispeáin ~luach"
 
 #: attrib4.src#TP_DATA_DESCR.RB_NUMBER.radiobutton.text
 #: datdescr.src#DLG_DATA_DESCR.RB_NUMBER.radiobutton.text
+#: res_DataLabel_tmpl.hrc#RESOURCE_DATALABEL__xpos__ypos__.RB_NUMBER.radiobutton.text
 msgid "as ~number"
 msgstr "mar ~uimhir"
 
 #: attrib4.src#TP_DATA_DESCR.RB_PERCENT.radiobutton.text
 #: datdescr.src#DLG_DATA_DESCR.RB_PERCENT.radiobutton.text
+#: res_DataLabel_tmpl.hrc#RESOURCE_DATALABEL__xpos__ypos__.RB_PERCENT.radiobutton.text
 msgid "as ~percentage"
 msgstr "mar ~chéatadán"
 
 #: attrib4.src#TP_DATA_DESCR.CB_TEXT.checkbox.text
 #: datdescr.src#DLG_DATA_DESCR.CB_TEXT.checkbox.text
+#: res_DataLabel_tmpl.hrc#RESOURCE_DATALABEL__xpos__ypos__.CB_TEXT.checkbox.text
 msgid "Sho~w label text"
 msgstr "Taispeáin téacs an ~lipéid"
 
 #: attrib4.src#TP_DATA_DESCR.CB_SYMBOL.checkbox.text
 #: datdescr.src#DLG_DATA_DESCR.CB_SYMBOL.checkbox.text
+#: res_DataLabel_tmpl.hrc#RESOURCE_DATALABEL__xpos__ypos__.CB_SYMBOL.checkbox.text
 msgid "~Show legend icon with label"
 msgstr ""
 
@@ -31169,22 +31174,10 @@ msgstr ""
 msgid "This function cannot be completed with the selected objects."
 msgstr "Ní féidir an fheidhm seo a chur i gcrích leis na réada roghnaithe."
 
-#: strings.src#STR_CHART_DOCUMENT_FULLTYPE_60.string.text
+#: strings.src#STR_CHART_DOCUMENT_FULLTYPE_CURRENT.string.text
 #: Embedding.xcu#..Embedding.ObjectNames.Chart.ObjectUIName.value.text
 msgid "%PRODUCTNAME %PRODUCTVERSION Chart"
 msgstr "Cairt %PRODUCTNAME %PRODUCTVERSION"
-
-#: strings.src#STR_CHART_DOCUMENT_FULLTYPE_50.string.text
-msgid "%PRODUCTNAME 5.0 Chart"
-msgstr "Cairt %PRODUCTNAME 5.0"
-
-#: strings.src#STR_CHART_DOCUMENT_FULLTYPE_40.string.text
-msgid "%PRODUCTNAME 4.0 Chart"
-msgstr "Cairt %PRODUCTNAME 4.0"
-
-#: strings.src#STR_CHART_DOCUMENT_FULLTYPE_31.string.text
-msgid "%PRODUCTNAME 3.0 Chart"
-msgstr "Cairt %PRODUCTNAME 3.0"
 
 #: strings.src#STR_INDICATE_NONE.string.text
 #: Strings_Statistic.src#STR_INDICATE_NONE.string.text
@@ -37950,7 +37943,6 @@ msgid "Devanagari"
 msgstr "Déiveanágraí"
 
 #: charmap.src#RID_SUBSETMAP.RID_SUBSETSTR_BENGALI.string.text
-#: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_BENGALI.pairedlist.text
 msgid "Bengali"
 msgstr "Beangáilis"
 
@@ -39751,6 +39743,10 @@ msgstr "Asarbaiseáinis (Coireallach)"
 msgid "Basque"
 msgstr "Bascais"
 
+#: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_BENGALI.pairedlist.text
+msgid "Bengali (India)"
+msgstr "Beangáilis (An India)"
+
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_BULGARIAN.pairedlist.text
 #: Langpack.ulf#OOO_LANGPACK_NAME_1026.LngText.text
 #: dbwizres.src#RID_LETTERWIZARDLANGUAGE_START___13.string.text
@@ -40369,6 +40365,16 @@ msgstr "Seoirsis"
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_FRISIAN_NETHERLANDS.pairedlist.text
 msgid "Frisian"
 msgstr "Freaslainnis"
+
+#: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_TSWANA.pairedlist.text
+#: Langpack.ulf#OOO_LANGPACK_NAME_1074.LngText.text
+msgid "Tswana"
+msgstr ""
+
+#: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_ZULU.pairedlist.text
+#: Langpack.ulf#OOO_LANGPACK_NAME_1077.LngText.text
+msgid "Zulu"
+msgstr ""
 
 #: language.src#RID_SVXSTR_LANGUAGE_ALL.string.text
 msgid "[All]"
@@ -45794,10 +45800,6 @@ msgstr "Soc~ruithe Phriontála..."
 msgid "~Print..."
 msgstr "~Priontáil..."
 
-#: globlmn_tmpl.hrc#ITEM_FILE_AUTOMAIL.#define.text
-msgid "~AutoMail"
-msgstr ""
-
 #: globlmn_tmpl.hrc#ITEM_FILE_MAIL_SENDDOC.#define.text
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_SendMail.Label.value.text
 #: StartModuleCommands.xcu#..StartModuleCommands.UserInterface.Commands..uno_SendMail.Label.value.text
@@ -47459,9 +47461,8 @@ msgstr ""
 
 #: dbadmin.src#PAGE_GENERAL.FT_GENERALHELPTEXT.fixedtext.text
 msgid ""
-"You can either create a new database or set up a connection to an existing "
-"database. In both cases, a file will be created. This file stores "
-"information such as connection  settings, forms and reports."
+"Use the Database Wizard to create a new database, open an existing database "
+"file, or connect to a database stored on a server."
 msgstr ""
 
 #: dbadmin.src#PAGE_GENERAL.FT_DATASOURCEHEADER.fixedtext.text
@@ -47471,6 +47472,14 @@ msgstr "Cad ba mhaith leat a dhéanamh?"
 #: dbadmin.src#PAGE_GENERAL.RB_CREATEDBDATABASE.radiobutton.text
 msgid "Create a n~ew database"
 msgstr "Cruthaigh bunachar sonraí ~nua"
+
+#: dbadmin.src#PAGE_GENERAL.RB_OPENEXISTINGDOC.radiobutton.text
+msgid "Open an existing database ~file"
+msgstr "Oscail comhad bunachair ~sonraí atá ann"
+
+#: dbadmin.src#PAGE_GENERAL.FT_DOCLISTLABEL.fixedtext.text
+msgid "Recently used"
+msgstr "Úsáidte le déanaí"
 
 #: dbadmin.src#PAGE_GENERAL.RB_GETEXISTINGDATABASE.radiobutton.text
 msgid "Connect to an e~xisting database"
@@ -52902,39 +52911,6 @@ msgid ""
 "'Finish'."
 msgstr ""
 
-#: desktop.src#WARNINGBOX_JAVANOTFOUND.warningbox.text
-msgid ""
-"%PRODUCTNAME requires a Java runtime environment (JRE) to perform this task. "
-"Please install a JRE and restart %PRODUCTNAME."
-msgstr ""
-
-#: desktop.src#WARNINGBOX_INVALIDJAVASETTINGS.warningbox.text
-msgid ""
-"The %PRODUCTNAME configuration has been changed. Under Tools - Options - %"
-"PRODUCTNAME - Java, select the Java runtime environment you want to have "
-"used by %PRODUCTNAME."
-msgstr ""
-
-#: desktop.src#QBX_JAVADISABLED.querybox.text
-msgid ""
-"%PRODUCTNAME requires a Java runtime environment (JRE) to perform this task. "
-"However, use of a JRE has been disabled. Do you want to enable the use of a "
-"JRE now?"
-msgstr ""
-
-#: desktop.src#ERRORBOX_JVMCREATIONFAILED.errorbox.text
-msgid ""
-"%PRODUCTNAME requires a Java runtime environment (JRE) to perform this task. "
-"The selected JRE is defective. Please select another version or install a "
-"new JRE and select  it under Tools - Options - %PRODUCTNAME - Java."
-msgstr ""
-
-#: desktop.src#ERRORBOX_RESTARTREQUIRED.errorbox.text
-msgid ""
-"For the selected Java runtime environment to work properly, %PRODUCTNAME "
-"must be restarted. Please restart %PRODUCTNAME now."
-msgstr ""
-
 #: desktop.src#STR_RECOVER_PREPARED.warningbox.text
 msgid ""
 "An unrecoverable error has occurred.\\n\\nAll modified files have been saved "
@@ -53023,26 +52999,6 @@ msgid ""
 "The changes to your personal settings cannot be stored centrally because of "
 "missing access rights. "
 msgstr ""
-
-#: desktop.src#STR_WARNING_JAVANOTFOUND.string.text
-msgid "JRE Required"
-msgstr "JRE De Dhíth"
-
-#: desktop.src#STR_WARNING_INVALIDJAVASETTINGS.string.text
-msgid "Select JRE"
-msgstr "Roghnaigh JRE"
-
-#: desktop.src#STR_ERROR_RESTARTREQUIRED.string.text
-msgid "Restart Required"
-msgstr "Atosú de dhíth"
-
-#: desktop.src#STR_QUESTION_JAVADISABLED.string.text
-msgid "Enable JRE"
-msgstr "Cumasaigh JRE"
-
-#: desktop.src#STR_ERROR_JVMCREATIONFAILED.string.text
-msgid "JRE is Defective"
-msgstr "JRE lochtach"
 
 #: desktop.src#STR_BOOTSTRAP_ERR_CFG_DATAACCESS.string.text
 msgid ""
@@ -57527,7 +57483,8 @@ msgstr ""
 #: errtxt.src#RID_ERRHDL.ERRCODE_IO_NOTSTORABLEINBINARYFORMAT.string.text
 msgid ""
 "This document contains attributes that cannot be saved in the selected "
-"format.\\nPlease save the document in a %PRODUCTNAME 6.0 file format."
+"format.\\nPlease save the document in a %PRODUCTNAME %PRODUCTVERSION file "
+"format."
 msgstr ""
 
 #: errtxt.src#RID_ERRHDL.ERRCODE_SFX_TARGETFILECORRUPTED.string.text
@@ -57707,6 +57664,69 @@ msgstr "Cuir Nasc ~Leis"
 #: unoifac2.src#RID_CONTEXTMENU.RID_COPY_LINK.menuitem.text
 msgid "Cop~y Link"
 msgstr "~Cóipeáil Nasc"
+
+#: javaerror.src#WARNINGBOX_JAVANOTFOUND.warningbox.text
+#: patchjavaerror.src#WARNINGBOX_JAVANOTFOUND.warningbox.text
+msgid ""
+"%PRODUCTNAME requires a Java runtime environment (JRE) to perform this task. "
+"Please install a JRE and restart %PRODUCTNAME."
+msgstr ""
+
+#: javaerror.src#WARNINGBOX_INVALIDJAVASETTINGS.warningbox.text
+#: patchjavaerror.src#WARNINGBOX_INVALIDJAVASETTINGS.warningbox.text
+msgid ""
+"The %PRODUCTNAME configuration has been changed. Under Tools - Options - %"
+"PRODUCTNAME - Java, select the Java runtime environment you want to have "
+"used by %PRODUCTNAME."
+msgstr ""
+
+#: javaerror.src#QBX_JAVADISABLED.querybox.text
+#: patchjavaerror.src#QBX_JAVADISABLED.querybox.text
+msgid ""
+"%PRODUCTNAME requires a Java runtime environment (JRE) to perform this task. "
+"However, use of a JRE has been disabled. Do you want to enable the use of a "
+"JRE now?"
+msgstr ""
+
+#: javaerror.src#ERRORBOX_JVMCREATIONFAILED.errorbox.text
+#: patchjavaerror.src#ERRORBOX_JVMCREATIONFAILED.errorbox.text
+msgid ""
+"%PRODUCTNAME requires a Java runtime environment (JRE) to perform this task. "
+"The selected JRE is defective. Please select another version or install a "
+"new JRE and select  it under Tools - Options - %PRODUCTNAME - Java."
+msgstr ""
+
+#: javaerror.src#ERRORBOX_RESTARTREQUIRED.errorbox.text
+#: patchjavaerror.src#ERRORBOX_RESTARTREQUIRED.errorbox.text
+msgid ""
+"For the selected Java runtime environment to work properly, %PRODUCTNAME "
+"must be restarted. Please restart %PRODUCTNAME now."
+msgstr ""
+
+#: javaerror.src#STR_WARNING_JAVANOTFOUND.string.text
+#: patchjavaerror.src#STR_WARNING_JAVANOTFOUND.string.text
+msgid "JRE Required"
+msgstr "JRE De Dhíth"
+
+#: javaerror.src#STR_WARNING_INVALIDJAVASETTINGS.string.text
+#: patchjavaerror.src#STR_WARNING_INVALIDJAVASETTINGS.string.text
+msgid "Select JRE"
+msgstr "Roghnaigh JRE"
+
+#: javaerror.src#STR_ERROR_RESTARTREQUIRED.string.text
+#: patchjavaerror.src#STR_ERROR_RESTARTREQUIRED.string.text
+msgid "Restart Required"
+msgstr "Atosú de dhíth"
+
+#: javaerror.src#STR_QUESTION_JAVADISABLED.string.text
+#: patchjavaerror.src#STR_QUESTION_JAVADISABLED.string.text
+msgid "Enable JRE"
+msgstr "Cumasaigh JRE"
+
+#: javaerror.src#STR_ERROR_JVMCREATIONFAILED.string.text
+#: patchjavaerror.src#STR_ERROR_JVMCREATIONFAILED.string.text
+msgid "JRE is Defective"
+msgstr "JRE lochtach"
 
 #: accessiblelistboxentry.src#STR_SVT_ACC_ACTION_EXPAND.string.text
 #: Effects.xcu#..Effects.UserInterface.Effects.ooo_entrance_expand.Label.value.text
@@ -58106,6 +58126,46 @@ msgstr "Cruthaigh Comhadlann"
 #: filedlg2.src#STR_FILEDLG_ASKNEWDIR.string.text
 msgid "Do you want the directory %s to be created ?"
 msgstr "Ar mhaith leat comhadlann %s a chruthú ?"
+
+#: formats.src#STR_FORMAT_ID_STARWRITER_60.string.text
+msgid "%PRODUCTXMLFILEFORMATNAME %PRODUCTXMLFILEFORMATVERSION Writer object"
+msgstr "Réad %PRODUCTXMLFILEFORMATNAME %PRODUCTXMLFILEFORMATVERSION Writer"
+
+#: formats.src#STR_FORMAT_ID_STARWRITERWEB_60.string.text
+msgid ""
+"%PRODUCTXMLFILEFORMATNAME %PRODUCTXMLFILEFORMATVERSION Writer/Web object"
+msgstr ""
+"Réad %PRODUCTXMLFILEFORMATNAME %PRODUCTXMLFILEFORMATVERSION Writer/Web"
+
+#: formats.src#STR_FORMAT_ID_STARWRITERGLOB_60.string.text
+msgid ""
+"%PRODUCTXMLFILEFORMATNAME %PRODUCTXMLFILEFORMATVERSION Writer/Master object"
+msgstr ""
+"Réad %PRODUCTXMLFILEFORMATNAME %PRODUCTXMLFILEFORMATVERSION Writer/Master"
+
+#: formats.src#STR_FORMAT_ID_STARDRAW_60.string.text
+msgid "%PRODUCTXMLFILEFORMATNAME %PRODUCTXMLFILEFORMATVERSION Draw object"
+msgstr "Réad %PRODUCTXMLFILEFORMATNAME %PRODUCTXMLFILEFORMATVERSION Draw"
+
+#: formats.src#STR_FORMAT_ID_STARIMPRESS_60.string.text
+msgid "%PRODUCTXMLFILEFORMATNAME %PRODUCTXMLFILEFORMATVERSION Impress object"
+msgstr "Réad %PRODUCTXMLFILEFORMATNAME %PRODUCTXMLFILEFORMATVERSION Impress"
+
+#: formats.src#STR_FORMAT_ID_STARCALC_60.string.text
+msgid "%PRODUCTXMLFILEFORMATNAME %PRODUCTXMLFILEFORMATVERSION Calc object"
+msgstr "Réad %PRODUCTXMLFILEFORMATNAME %PRODUCTXMLFILEFORMATVERSION Calc"
+
+#: formats.src#STR_FORMAT_ID_STARCHART_60.string.text
+msgid "%PRODUCTXMLFILEFORMATNAME %PRODUCTXMLFILEFORMATVERSION Chart object"
+msgstr "Réad %PRODUCTXMLFILEFORMATNAME %PRODUCTXMLFILEFORMATVERSION Chart"
+
+#: formats.src#STR_FORMAT_ID_STARMATH_60.string.text
+msgid "%PRODUCTXMLFILEFORMATNAME %PRODUCTXMLFILEFORMATVERSION Math object"
+msgstr "Réad %PRODUCTXMLFILEFORMATNAME %PRODUCTXMLFILEFORMATVERSION Math"
+
+#: formats.src#STR_FORMAT_ID_DIALOG_60.string.text
+msgid "%PRODUCTXMLFILEFORMATNAME %PRODUCTXMLFILEFORMATVERSION dialog"
+msgstr "Dialóg %PRODUCTXMLFILEFORMATNAME %PRODUCTXMLFILEFORMATVERSION"
 
 #: logindlg.src#DLG_LOGIN.INFO_LOGIN_REQUEST.fixedtext.text
 msgid "Please enter user name and password for %1."
@@ -63417,7 +63477,7 @@ msgid "Custom 4"
 msgstr "Saincheaptha 4"
 
 #: Embedding.xcu#..Embedding.ObjectNames.Math.ObjectUIName.value.text
-#: smres.src#STR_MATH_DOCUMENT_FULLTYPE_60.string.text
+#: smres.src#STR_MATH_DOCUMENT_FULLTYPE_CURRENT.string.text
 msgid "%PRODUCTNAME %PRODUCTVERSION Formula"
 msgstr "Foirmle %PRODUCTNAME %PRODUCTVERSION"
 
@@ -67842,18 +67902,6 @@ msgstr "Oibríochtaí ar Thacair"
 msgid "Others"
 msgstr "Eile"
 
-#: smres.src#STR_MATH_DOCUMENT_FULLTYPE_50.string.text
-msgid "%PRODUCTNAME 5.0 Formula"
-msgstr "Foirmle %PRODUCTNAME 5.0a"
-
-#: smres.src#STR_MATH_DOCUMENT_FULLTYPE_40.string.text
-msgid "%PRODUCTNAME 4.0 Formula"
-msgstr "Foirmle %PRODUCTNAME 4.0"
-
-#: smres.src#STR_MATH_DOCUMENT_FULLTYPE_31.string.text
-msgid "%PRODUCTNAME 3.0 Formula"
-msgstr "Foirmle %PRODUCTNAME 3.0"
-
 #: smres.src#RID_SYMBOLFILESSTR.string.text
 msgid "Symbol files (*.sms)"
 msgstr "Comhaid shiombailí (*.sms)"
@@ -70295,6 +70343,7 @@ msgid "[INSTALLDIR]"
 msgstr ""
 
 #: Control.ulf#OOO_CONTROL_92.LngText.text
+#: Control.ulf#OOO_CONTROL_308.LngText.text
 msgid "Install [ProductName] to:"
 msgstr "Suiteáil [ProductName] i:"
 
@@ -70718,6 +70767,42 @@ msgstr "Eagarthóir HTML réamhshocraithe"
 #: Control.ulf#OOO_CONTROL_278.LngText.text
 msgid "{&MSSansBold8}File Type"
 msgstr "{&MSSansBold8}Cineál Comhaid"
+
+#: Control.ulf#OOO_CONTROL_300.LngText.text
+msgid ""
+"A version of [DEFINEDPRODUCT] [DEFINEDVERSION] was found by the "
+"[ProductName] Installation Wizard. This version will be updated."
+msgstr ""
+
+#: Control.ulf#OOO_CONTROL_301.LngText.text
+msgid ""
+"The destination folder specified below does not contain a [DEFINEDPRODUCT] "
+"[DEFINEDVERSION] version."
+msgstr ""
+
+#: Control.ulf#OOO_CONTROL_302.LngText.text
+msgid "A newer [DEFINEDPRODUCT] [DEFINEDVERSION] has been found."
+msgstr ""
+
+#: Control.ulf#OOO_CONTROL_303.LngText.text
+msgid "The version specified in the folder below cannot be updated."
+msgstr "Ní féidir an leagan sonraithe san fhillteán thíos a nuashonrú."
+
+#: Control.ulf#OOO_CONTROL_304.LngText.text
+msgid "Check the destination folder."
+msgstr "Seiceáil an spriocfhillteán."
+
+#: Control.ulf#OOO_CONTROL_305.LngText.text
+msgid "To continue, click "
+msgstr "Chun dul ar aghaidh, cliceáil "
+
+#: Control.ulf#OOO_CONTROL_306.LngText.text
+msgid "To select a different version, click "
+msgstr "Chun leagan difriúil a roghnú, cliceáil "
+
+#: Control.ulf#OOO_CONTROL_307.LngText.text
+msgid "To select a different folder, click "
+msgstr "Chun fillteán difriúil a roghnú, cliceáil "
 
 #: Control.ulf#OOO_CONTROL_LANG_1033.LngText.text
 #: Langpack.ulf#OOO_LANGPACK_NAME_1033.LngText.text
@@ -71590,6 +71675,7 @@ msgid "Installs Czech support in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Suiteáil tacaíocht don Seicis i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_NAME_1051.LngText.text
+#: dbwizres.src#RID_LETTERWIZARDLANGUAGE_START___17.string.text
 msgid "Slovak"
 msgstr "Slóvaicis"
 
@@ -71641,10 +71727,6 @@ msgstr "Suiteáil tacaíocht don Tamailis i %PRODUCTNAME %PRODUCTVERSION"
 msgid "Installs Hindi support in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Suiteáil tacaíocht don Hiondúis i %PRODUCTNAME %PRODUCTVERSION"
 
-#: Langpack.ulf#OOO_LANGPACK_NAME_1074.LngText.text
-msgid "Tswana"
-msgstr ""
-
 #: Langpack.ulf#OOO_LANGPACK_DESC_1074.LngText.text
 msgid "Installs Tswana support in %PRODUCTNAME %PRODUCTVERSION"
 msgstr ""
@@ -71655,10 +71737,6 @@ msgstr ""
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_1076.LngText.text
 msgid "Installs Xhosa support in %PRODUCTNAME %PRODUCTVERSION"
-msgstr ""
-
-#: Langpack.ulf#OOO_LANGPACK_NAME_1077.LngText.text
-msgid "Zulu"
 msgstr ""
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_1077.LngText.text
@@ -71919,6 +71997,16 @@ msgstr "Difríochtaí"
 msgid "Disk Size"
 msgstr "Méid an Diosca"
 
+#: CustomAc.ulf#OOO_CUSTOMACTION_1.LngText.text
+msgid ""
+"A newer version of [ProductName] was found. To install an older version, the "
+"newer version needs to be removed first."
+msgstr ""
+
+#: CustomAc.ulf#OOO_CUSTOMACTION_2.LngText.text
+msgid "The same version of this product is already installed."
+msgstr ""
+
 #: Nsis.ulf#SetupCaption.LngText.text
 msgid "%PRODUCTNAME %PRODUCTVERSION Installation Preparation"
 msgstr ""
@@ -72024,7 +72112,7 @@ msgid "The format of the selected file is not supported."
 msgstr "Ní thacaítear le formáid an chomhaid roghnaithe."
 
 #: readme.xrm#ooo_readme.Welcome.A2.a.readmeitem.text
-msgid "Last updated $Date: 2005-08-31 17:40:21 $"
+msgid "Last updated $Date: 2005-08-31 17:53:02 $"
 msgstr ""
 
 #: readme.xrm#ooo_readme.Welcome.A3.a.readmeitem.text
@@ -72420,6 +72508,45 @@ msgid ""
 "shell you use to start OpenOffice.org. This can be done by adding the line "
 "\"unset SESSION_MANAGER\" to the beginning of the soffice shell script found "
 "in the \"[office folder]/program\" directory."
+msgstr ""
+
+#: readme.xrm#ooo_readme.Scroll.F1a.naso.readmeitem.text
+msgid "ALPS/Synaptics notebook touchpads in Windows"
+msgstr ""
+
+#: readme.xrm#ooo_readme.Scroll.F1b.naso2.readmeitem.text
+msgid ""
+"Due to a Windows driver issue, you cannot scroll through OpenOffice.org "
+"documents when you slide your finger across an ALPS/Synaptics touchpad."
+msgstr ""
+
+#: readme.xrm#ooo_readme.Scroll.F1c.naso2.readmeitem.text
+msgid ""
+"To enable touchpad scrolling, add the following lines to the \"C:\\Program "
+"Files\\Synaptics\\SynTP\\SynTPEnh.ini\" configuration file, and restart your "
+"computer:"
+msgstr ""
+
+#: readme.xrm#ooo_readme.Scroll.F1d.naso2.readmeitem.text
+msgid "[OpenOffice.org]"
+msgstr "[OpenOffice.org]"
+
+#: readme.xrm#ooo_readme.Scroll.F1d.naso3.readmeitem.text
+msgid "FC = \"SALFRAME\""
+msgstr ""
+
+#: readme.xrm#ooo_readme.Scroll.F1d.naso4.readmeitem.text
+msgid "SF = 0x10000000"
+msgstr "SF = 0x10000000"
+
+#: readme.xrm#ooo_readme.Scroll.F1d.naso5.readmeitem.text
+msgid "SF |= 0x00004000"
+msgstr "SF |= 0x00004000"
+
+#: readme.xrm#ooo_readme.Scroll.F1e.naso2.readmeitem.text
+msgid ""
+"Note: The location of the configuration file might vary on different "
+"versions of Windows."
 msgstr ""
 
 #: readme.xrm#ooo_readme.ArabicFont.F2a.abdfe.readmeitem.text
