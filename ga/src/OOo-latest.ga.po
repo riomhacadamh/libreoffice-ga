@@ -273,7 +273,7 @@ msgstr "Ar g~Cúl"
 #: mn.src#MN_ALIGN_FRAME.MN_SUB_ALIGN.menuitem.text
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Popups..uno_ArrangeMenu.Label.value.text
 msgid "~Arrange"
-msgstr "~Réitigh"
+msgstr "~Leag Amach"
 
 #: drformsh.src#MN_ANCHORSUB.SUBMENU_ANCHOR.SID_ANCHOR_PAGE.menuitem.text
 #: objdraw.src#MN_ANCHORSUB.SUBMENU_ANCHOR.SID_ANCHOR_PAGE.menuitem.text
@@ -11715,7 +11715,7 @@ msgstr "Réamhamharc"
 
 #: scstring.src#STR_ACC_CSVGRID_DESCR.string.text
 msgid "This sheet shows how the data will be arranged in the document."
-msgstr ""
+msgstr "Taispeánann an bhileog seo an chaoi a leagfar na sonraí amach sa cháipéis."
 
 #: scstring.src#STR_ACC_DOC_NAME.string.text
 #: access.src#STR_ACCESS_DOC_NAME.string.text
@@ -18408,7 +18408,7 @@ msgstr "Nascóirí"
 #: imapdlg.src#RID_SVXMN_IMAP.MN_POSITION.menuitem.text
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_ObjectPosition.Label.value.text
 msgid "Arrange"
-msgstr "Réitigh"
+msgstr "Leag Amach"
 
 #: toolbox.src#RID_DRAW_VIEWER_TOOLBOX.string.text
 #: toolbox.src#RID_GRAPHIC_VIEWER_TOOLBOX.string.text
@@ -58879,7 +58879,7 @@ msgstr "Lánscáileán"
 
 #: BibliographyCommands.xcu#..BibliographyCommands.UserInterface.Commands..uno_Bib/Mapping.Label.value.text
 msgid "~Column Arrangement..."
-msgstr "Réitiú na g~Colún..."
+msgstr "Leagan Amach na g~Colún..."
 
 #: BibliographyCommands.xcu#..BibliographyCommands.UserInterface.Commands..uno_Bib/DeleteRecord.Label.value.text
 msgid "Delete ~Record"
@@ -62849,7 +62849,7 @@ msgstr "Athraigh an ~Cás"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Popups..uno_ArrangeMenu.Label.value.text
 msgid "A~rrange"
-msgstr "~Réitigh"
+msgstr "~Leag Amach"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Popups..uno_AnchorMenu.Label.value.text
 msgid "A~nchor"
@@ -69500,7 +69500,7 @@ msgstr "Réimse Shaincheaptha ~5"
 
 #: toolbar.src#RID_BIB_TOOLBAR.TBC_BT_COL_ASSIGN.toolboxitem.text
 msgid "Column Arrangement"
-msgstr "Réitiú na gColún"
+msgstr "Leagan Amach na gColún"
 
 #: crashrep.ulf#_WELCOME_CAPTION_.LngText.text
 #: crashrep.ulf#_REPORT_CAPTION_.LngText.text
@@ -72112,7 +72112,7 @@ msgid "The format of the selected file is not supported."
 msgstr "Ní thacaítear le formáid an chomhaid roghnaithe."
 
 #: readme.xrm#ooo_readme.Welcome.A2.a.readmeitem.text
-msgid "Last updated $Date: 2005-08-31 17:53:02 $"
+msgid "Last updated $Date: 2005-09-01 01:38:12 $"
 msgstr ""
 
 #: readme.xrm#ooo_readme.Welcome.A3.a.readmeitem.text
@@ -73940,7 +73940,7 @@ msgstr "Socrú na lipéad"
 
 #: dbwizres.src#RID_DB_FORM_WIZARD_START___35.string.text
 msgid "Arrangement of DB fields"
-msgstr ""
+msgstr "Leagan Amach na Réimsí Bunachair Sonraí"
 
 #: dbwizres.src#RID_DB_FORM_WIZARD_START___36.string.text
 msgid "Columnar - Labels Left"
@@ -74033,7 +74033,7 @@ msgstr ""
 
 #: dbwizres.src#RID_DB_FORM_WIZARD_START___84.string.text
 msgid "Arrange controls"
-msgstr "Réitigh rialtáin"
+msgstr "Leag amach rialtáin"
 
 #: dbwizres.src#RID_DB_FORM_WIZARD_START___85.string.text
 msgid "Set data entry"
@@ -74073,7 +74073,7 @@ msgstr ""
 
 #: dbwizres.src#RID_DB_FORM_WIZARD_START___94.string.text
 msgid "Arrange the controls on your form"
-msgstr "Réitigh na rialtáin ar d'fhoirm"
+msgstr "Leag amach na rialtáin ar d'fhoirm"
 
 #: dbwizres.src#RID_DB_FORM_WIZARD_START___95.string.text
 msgid "Select the data entry mode"
