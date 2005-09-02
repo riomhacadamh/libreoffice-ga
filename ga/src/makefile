@@ -13,10 +13,12 @@
 # $ cvs commit OOo-latest.ga.po
 #    and give current translation counts, version number in log entry
 
-VERSION=SRC680_m97
+VERSION=SRC680_m126
 
 all : OOo-$(VERSION)-ga-GSI.sdf
-	cp -f OOo-$(VERSION)-ga-GSI.sdf ${HOME}/public_html/obair
+	bzip2 OOo-$(VERSION)-ga-GSI.sdf
+	cp -f OOo-$(VERSION)-ga-GSI.sdf.bz2 ${HOME}/public_html/obair/GSI_ga.sdf.bz2
+	bunzip2 OOo-$(VERSION)-ga-GSI.sdf.bz2
 
 # murf: 18 Feb 2005 on dev mailing list:
 # create GA locale file and put it in with other locale defs
@@ -57,5 +59,8 @@ OOo.po-update : FORCE
 clean :
 	rm -f OOo-*-ga-GSI.sdf OOo-latest.po messages.mo
 	rm -fR po
+
+spell :
+	egrep 'msgstr' OOo-latest.ga.po | tr -d '~' | sed 's/^msgstr "\(.*\)"/\1/' | sed 's/$$/./' | gram-ga.pl --litriu --aschod=iso-8859-1 | sort | uniq -c | sort -r -n
 
 FORCE :
