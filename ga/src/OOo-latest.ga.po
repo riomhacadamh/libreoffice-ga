@@ -6899,7 +6899,7 @@ msgstr "Ionsáigh Briseadh ~Colúin"
 
 #: popup.src#RID_POPUP_PAGEBREAK.FID_DEL_MANUALBREAKS.menuitem.text
 msgid "Delete All Manual Breaks"
-msgstr "Scrios Gach Briseadh Láimhe"
+msgstr "Scrios gach briseadh ionsáite de láimh"
 
 #: popup.src#RID_POPUP_PAGEBREAK.FID_RESET_PRINTZOOM.menuitem.text
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Commands..uno_ResetPrintZoom.Label.value.text
@@ -19980,7 +19980,7 @@ msgstr "Ionsáigh Alt"
 
 #: swslots.src#FN_INSERT_BREAK_DLG.sfxslotinfo.text
 msgid "Insert Manual Break"
-msgstr "Ionsáigh Briseadh Láimhe"
+msgstr "Ionsáigh Briseadh De Láimh"
 
 #: swslots.src#FN_INSERT_CAPTION.sfxslotinfo.text
 msgid "Insert Caption"
@@ -20081,7 +20081,7 @@ msgstr ""
 #: swslots.src#FN_INSERT_LINEBREAK.sfxslotinfo.text
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_InsertLinebreak.Label.value.text
 msgid "Insert Manual Row Break"
-msgstr "Ionsáigh Briseadh Láimhe Ró"
+msgstr "Ionsáigh Briseadh Ró De Láimh"
 
 #: swslots.src#FN_INSERT_OBJECT_DLG.sfxslotinfo.text
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_InsertObjectDialog.Label.value.text
@@ -20091,7 +20091,7 @@ msgstr "Ionsáigh Réada Eile"
 #: swslots.src#FN_INSERT_PAGEBREAK.sfxslotinfo.text
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_InsertPagebreak.Label.value.text
 msgid "Insert Manual Page Break"
-msgstr "Ionsáigh Briseadh Leathanaigh Láimhe"
+msgstr "Ionsáigh Briseadh Leathanaigh De Láimh"
 
 #: swslots.src#FN_INSERT_PAGEFOOTER.sfxslotinfo.text
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_InsertFooter.Label.value.text
@@ -22285,7 +22285,7 @@ msgstr "Cruthaigh ainm comhaid ó"
 
 #: mailmrge.src#DLG_MAILMERGE.RB_FILENAME.radiobutton.text
 msgid "Manual setting"
-msgstr "Socrú láimhe"
+msgstr "Socrú de láimh"
 
 #: mailmrge.src#DLG_MAILMERGE.CB_SINGLE_JOBS.checkbox.text
 msgid "~Single print jobs"
@@ -26301,7 +26301,7 @@ msgstr "Cineál agus teideal"
 
 #: cnttab.src#TP_TOX_SELECT.CB_READONLY.checkbox.text
 msgid "Protected against manual changes"
-msgstr "Cosanta ar athruithe láimhe"
+msgstr "Cosanta ar athruithe déanta de láimh"
 
 #: cnttab.src#TP_TOX_SELECT.FL_AREA.fixedline.text
 msgid "Create index/table"
@@ -32546,7 +32546,7 @@ msgstr "Bristeacha leathanaigh"
 
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_CALCPAGEBREAKMANUAL.fixedtext.text
 msgid "Manual page breaks"
-msgstr "Bristeacha leathanaigh láimhe"
+msgstr "Bristeacha leathanaigh ionsáite de láimh"
 
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_CALCPAGEBREAKAUTO.fixedtext.text
 msgid "Automatic page breaks"
@@ -38789,7 +38789,7 @@ msgstr "Úsáid nasc ~díreach leis an Idirlíon"
 #: docrecovery.src#RID_SVX_MDLG_ERR_REP_OPTIONS.BTN_ERROPT_MANUAL.radiobutton.text
 #: crashrep.ulf#_PROXY_SETTINGS_MANUAL_.LngText.text
 msgid "Use ~manual settings"
-msgstr "Úsáid socruithe lái~mhe"
+msgstr "Úsáid socruithe de lái~mh"
 
 #: docrecovery.src#RID_SVX_MDLG_ERR_REP_OPTIONS.FT_ERROPT_PROXYSERVER.fixedtext.text
 #: crashrep.ulf#_PROXY_SETTINGS_ADDRESS_.LngText.text
@@ -51027,7 +51027,7 @@ msgstr "Cuir Ainmneacha Réimse in Eagar"
 
 #: dlgrun.src#DLG_RUN.FT_INFO.fixedtext.text
 msgid "Enter the name of the program, folder or document to be opened."
-msgstr "Iontráil an t-ainm ar an chlár, fillteán nó cáipéis atá le hoscailt."
+msgstr "Iontráil ainm an chláir, fillteáin nó cáipéis atá le hoscailt."
 
 #: eventdlg.src#TP_CONFIG_EVENT.RB_DOCUMENT.radiobutton.text
 msgid "~Document"
@@ -51797,7 +51797,7 @@ msgstr "Gach athrú le cealú?"
 
 #: bastyp.src#ERR_INET_NAME_RESOLVE.string.text
 msgid "The computer name could not be resolved\\n"
-msgstr ""
+msgstr "Níorbh fhéidir ainm an ríomhaire a réiteach\\n"
 
 #: bastyp.src#ERR_INET_CONNECT.string.text
 msgid "Internet connection could not be established"
@@ -52427,15 +52427,15 @@ msgstr "Sain~cheap Barra Uirlisí..."
 
 #: resource.src#POPUPMENU_TOOLBAR_QUICKCUSTOMIZATION.MENUITEM_TOOLBAR_DOCKTOOLBAR.menuitem.text
 msgid "~Dock Toolbar"
-msgstr ""
+msgstr "Cuir Barra Uirlisí i n~Duga"
 
 #: resource.src#POPUPMENU_TOOLBAR_QUICKCUSTOMIZATION.MENUITEM_TOOLBAR_DOCKALLTOOLBAR.menuitem.text
 msgid "Dock ~All Toolbars"
-msgstr ""
+msgstr "Cuir G~ach Barra Uirlisí i n~Duga"
 
 #: resource.src#POPUPMENU_TOOLBAR_QUICKCUSTOMIZATION.MENUITEM_TOOLBAR_LOCKTOOLBARPOSITION.menuitem.text
 msgid "~Lock Toolbar Position"
-msgstr ""
+msgstr "Cuir Ionad an Bharra Uirlisí Faoi Gh~las"
 
 #: resource.src#STR_NODOCUMENT.string.text
 msgid "No documents"
@@ -52503,7 +52503,7 @@ msgstr "Cuimhne Ídithe"
 
 #: setup.ulf#_NOMSI_.LngText.text
 msgid "Setup was unable to find the msi package."
-msgstr ""
+msgstr "Níorbh fhéidir le Socrú an pacáiste msi a aimsiú."
 
 #: setup.ulf#_USER_CANCELLED_.LngText.text
 msgid "Setup was cancelled"
@@ -52537,7 +52537,7 @@ msgstr ""
 
 #: setup.ulf#_ALREADY_RUNNING_.LngText.text
 msgid "There is already a setup process running."
-msgstr ""
+msgstr "Tá próiseas socraithe ag rith cheana."
 
 #: setup.ulf#_UNKNOWN_ERROR_.LngText.text
 msgid "An Unknown Error occured!"
@@ -52576,7 +52576,7 @@ msgstr "Earráid agus an pacáiste á bhaint amach: "
 
 #: dp_manager.src#RID_STR_PACKAGE_ALREADY_ADDED.string.text
 msgid "Package has already been added: "
-msgstr ""
+msgstr "Cuireadh an pacáiste leis cheana: "
 
 #: dp_manager.src#RID_STR_NO_SUCH_PACKAGE.string.text
 msgid "There is no such package deployed: "
@@ -52663,7 +52663,7 @@ msgstr "Pacáiste á dhíchumasú: "
 
 #: dp_registry.src#RID_STR_CANNOT_DETECT_MEDIA_TYPE.string.text
 msgid "Cannot detect media-type: "
-msgstr ""
+msgstr "Ní féidir cineál na meán a bhrath: "
 
 #: dp_registry.src#RID_STR_UNSUPPORTED_MEDIA_TYPE.string.text
 msgid "This media-type is not supported: "
@@ -52683,7 +52683,7 @@ msgstr "Beart Pacáiste UNO"
 
 #: dp_component.src#RID_STR_DYN_COMPONENT.string.text
 msgid "UNO Dynamic Library Component"
-msgstr ""
+msgstr "Comhpháirt Leabharlainne Dinimicúla UNO"
 
 #: dp_component.src#RID_STR_JAVA_COMPONENT.string.text
 msgid "UNO Java Component"
@@ -52695,11 +52695,11 @@ msgstr "Comhpháirt Python UNO"
 
 #: dp_component.src#RID_STR_RDB_TYPELIB.string.text
 msgid "UNO RDB Type Library"
-msgstr ""
+msgstr "Leabharlann Cineálacha RDB UNO"
 
 #: dp_component.src#RID_STR_JAVA_TYPELIB.string.text
 msgid "UNO Java Type Library"
-msgstr ""
+msgstr "Leabharlann Cineálacha Java UNO"
 
 #: dp_configuration.src#RID_STR_CONF_SCHEMA.string.text
 msgid "Configuration Schema"
@@ -52899,7 +52899,7 @@ msgstr "Ba mhaith liom c~lárú amach anseo"
 
 #: wizard.src#TP_REGISTRATION.RB_REGISTRATION_NEVER.radiobutton.text
 msgid "I do not want to ~register"
-msgstr ""
+msgstr "Ní maith liom clá~rú"
 
 #: wizard.src#TP_REGISTRATION.RB_REGISTRATION_REG.radiobutton.text
 msgid "I have ~already registered"
@@ -52967,7 +52967,7 @@ msgstr ""
 
 #: desktop.src#STR_SETUP_ERR_CANNOT_START.string.text
 msgid "The Setup could not be started automatically. Please start it manually."
-msgstr ""
+msgstr "Níorbh fhéidir an Socrú a thosú go huathoibríoch. Tosaigh é de láimh, le do thoil."
 
 #: desktop.src#STR_ASK_START_SETUP_MANUALLY.string.text
 msgid ""
@@ -56859,7 +56859,7 @@ msgstr ""
 
 #: ctrlbox.src#STR_SVT_INDEXENTRY_PHONETIC_FS.string.text
 msgid "Phonetic (alphanumeric first, grouped by syllables)"
-msgstr ""
+msgstr "Foghrach (alfa-uimhriúil ar dtús, grúpáilte de réir siollaí)"
 
 #: ctrlbox.src#STR_SVT_INDEXENTRY_PHONETIC_FC.string.text
 msgid "Phonetic (alphanumeric first, grouped by consonants)"
@@ -57234,7 +57234,7 @@ msgstr ""
 
 #: errtxt.src#RID_ERRHDL.ERRCODE_IO_NOTAFILE.string.text
 msgid "The object is not a file"
-msgstr ""
+msgstr "Ní comhad é an réad"
 
 #: errtxt.src#RID_ERRHDL.ERRCODE_IO_INVALIDDEVICE.string.text
 msgid "The specified device is invalid"
@@ -57361,7 +57361,7 @@ msgstr "Earráid Ghinearálta OLE"
 
 #: errtxt.src#RID_ERRHDL.ERRCODE_INET_NAME_RESOLVE.string.text
 msgid "The host name $(ARG1) could not be resolved"
-msgstr ""
+msgstr "Níorbh fhéidir óstainm $(ARG1) a réiteach"
 
 #: errtxt.src#RID_ERRHDL.ERRCODE_INET_CONNECT.string.text
 msgid "Could not establish Internet connection to $(ARG1)"
@@ -57370,11 +57370,13 @@ msgstr "Níorbh fhéidir nasc Idirlín a bhunú le $(ARG1)"
 #: errtxt.src#RID_ERRHDL.ERRCODE_INET_READ.string.text
 msgid "Error reading data from the Internet\\n.Server error message: $(ARG1)"
 msgstr ""
+"Earráid agus sonraí á léamh ón Idirlíon.\\nTeachtaireacht earráide ón fhreastalaí: $(ARG1)"
 
 #: errtxt.src#RID_ERRHDL.ERRCODE_INET_WRITE.string.text
 msgid ""
 "Error transferring data to the Internet.\\nServer error message: $(ARG1)"
 msgstr ""
+"Earráid agus sonraí á dtarchur go dtí an Idirlíon.\\nTeachtaireacht earráide ón fhreastalaí: $(ARG1)"
 
 #: errtxt.src#RID_ERRHDL.ERRCODE_INET_GENERAL.string.text
 msgid "General Internet error has occurred"
@@ -59434,11 +59436,11 @@ msgstr "~Bleachtaire"
 
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Popups..uno_InsertBreakMenu.Label.value.text
 msgid "~Manual Break"
-msgstr "~Briseadh Láimhe"
+msgstr "~Briseadh De Láimhe"
 
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Popups..uno_DelBreakMenu.Label.value.text
 msgid "Delete Manual Break"
-msgstr "Scrios Briseadh Láimhe"
+msgstr "Scrios briseadh a bhí ionsáite de láimh"
 
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Popups..uno_CellContentsMenu.Label.value.text
 msgid "Cell Co~ntents"
@@ -61596,15 +61598,15 @@ msgstr "Sreabhchairt: Críochnaitheoir"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_FlowChartShapes.flowchart_preparation.Label.value.text
 msgid "Flowchart: Preparation"
-msgstr ""
+msgstr "Sreabhchairt: Ullmhú"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_FlowChartShapes.flowchart_manual_input.Label.value.text
 msgid "Flowchart: Manual Input"
-msgstr "Sreabhchairt: Ionchur Láimhe"
+msgstr "Sreabhchairt: Ionchur De Láimh"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_FlowChartShapes.flowchart_manual_operation.Label.value.text
 msgid "Flowchart: Manual Operation"
-msgstr ""
+msgstr "Sreabhchairt: Oibríocht De Láimh"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_FlowChartShapes.flowchart_connector.Label.value.text
 msgid "Flowchart: Connector"
@@ -62934,7 +62936,7 @@ msgstr "Leabharmhar~c..."
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_InsertBreak.Label.value.text
 msgid "Manual ~Break..."
-msgstr "~Briseadh Láimhe..."
+msgstr "~Briseadh De Láimh..."
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_InsertField.Label.value.text
 msgid "~Other..."
@@ -72112,7 +72114,7 @@ msgid "The format of the selected file is not supported."
 msgstr "Ní thacaítear le formáid an chomhaid roghnaithe."
 
 #: readme.xrm#ooo_readme.Welcome.A2.a.readmeitem.text
-msgid "Last updated $Date: 2005-09-02 12:28:58 $"
+msgid "Last updated $Date: 2005-09-02 18:55:24 $"
 msgstr ""
 
 #: readme.xrm#ooo_readme.Welcome.A3.a.readmeitem.text
@@ -75486,6 +75488,7 @@ msgid ""
 "The selected settings will be deleted.\\n\\nDo you really want to delete "
 "these settings? "
 msgstr ""
+"Scriosfar na socraithe roghnaithe.\\n\\nAr mhaith leat na socraithe seo a scriosadh i ndáiríre? "
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__131.string.text
 msgid "%NUMBER pages"
@@ -75505,7 +75508,7 @@ msgstr "Mionathraithe: %DATE"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__135.string.text
 msgid "Web Wizard Settings"
-msgstr ""
+msgstr "Socraithe Draoi an Ghréasáin"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__136.string.text
 msgid "Background image:"
@@ -75513,11 +75516,11 @@ msgstr "Íomhá chúlra:"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__137.string.text
 msgid "Icon set:"
-msgstr ""
+msgstr "Foireann deilbhíní:"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__138.string.text
 msgid "The icon set is used for presentations in HTML format."
-msgstr ""
+msgstr "Úsáidtear foireann na ndeilbhíní do láithreoireachtaí i bhformáid HTML."
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__139.string.text
 msgid "HTML Metadata"
@@ -75530,7 +75533,7 @@ msgstr "Roghnaigh..."
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__143.string.text
 msgid "Publishing via FTP Proxy is not supported."
-msgstr ""
+msgstr "Ní thacaítear le foilsitheoireacht via seachfhreastalaí FTP."
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__144.string.text
 msgid "<no background image>"
@@ -75538,7 +75541,7 @@ msgstr "<gan íomhá chúlra>"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__145.string.text
 msgid "<no icon set>"
-msgstr ""
+msgstr "<níl deilbhín socraithe>"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__146.string.text
 msgid "The FTP directory '%FILENAME' could not be created."
@@ -75555,17 +75558,20 @@ msgid ""
 "The Zip file '%FILENAME' cannot be created: a directory of the same name "
 "already exists."
 msgstr ""
+"Ní féidir an Zipchomhad '%FILENAME' a chruthú: is ann do chomhad den ainm céanna cheana féin."
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__149.string.text
 msgid ""
 "The local directory '%FILENAME' cannot be created. \\nPlease check your "
 "write-access."
 msgstr ""
+"Ní féidir an chomhadlann logánta '%FILENAME' a chruthú. \\nCinntigh go bhfuil cead agat scríobh anseo."
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__150.string.text
 msgid ""
 "The local directory '%FILENAME' does not exist. \\nCreate the directory now?"
 msgstr ""
+"Níl ann don chomhadlann logánta '%FILENAME'. \\nCruthaigh an chomhadlann anois?"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__151.string.text
 msgid "Size: %NUMBERKB"
@@ -75573,7 +75579,7 @@ msgstr "Méid: %NUMBERKB"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__152.string.text
 msgid "File not found. Would you like to specify a new file location?"
-msgstr ""
+msgstr "Níor aimsíodh an comhad ansin. Ar mhaith leat suíomh nua a shonrú?"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_FTP__0.string.text
 msgid "FTP Connection"
@@ -75605,7 +75611,7 @@ msgstr "3. Roghnaigh ~comhadlann chianda (roghnach)."
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_FTP__9.string.text
 msgid "Connection status is unknown"
-msgstr ""
+msgstr "Ní fios stádas an naisc"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_FTP__10.string.text
 msgid "Connection was established successfully"
@@ -75613,11 +75619,11 @@ msgstr "D'éirigh leis an gceangal"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_FTP__11.string.text
 msgid "Username or password is wrong"
-msgstr ""
+msgstr "Tá ainm an úsáideora nó an focal faire mícheart"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_FTP__12.string.text
 msgid "Could not resolve server name"
-msgstr ""
+msgstr "Níorbh fhéidir ainm an fhreastalaí a réiteach"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_FTP__13.string.text
 msgid "You do not have sufficient user rights"
@@ -75645,41 +75651,42 @@ msgstr "Á Nascadh..."
 
 #: dbwizres.src#RID_AGENDAWIZARDDIALOG_START__1.string.text
 msgid "Agenda Wizard"
-msgstr ""
+msgstr "Draoi na gClár Oibre"
 
 #: dbwizres.src#RID_AGENDAWIZARDDIALOG_START__2.string.text
 msgid "Make ~manual changes to this agenda template"
-msgstr ""
+msgstr "Déan athruithe de láimh do theimpléad an chláir oibre seo"
 
 #: dbwizres.src#RID_AGENDAWIZARDDIALOG_START__6.string.text
 msgid "Please choose the page design for the agenda"
-msgstr ""
+msgstr "Roghnaigh dearadh an leathanaigh don chlár oibre"
 
 #: dbwizres.src#RID_AGENDAWIZARDDIALOG_START__7.string.text
 msgid "Please select the headings you wish to include in your agenda template"
-msgstr ""
+msgstr "Roghnaigh na ceannteidil atá uait i do theimpléad chláir oibre"
 
 #: dbwizres.src#RID_AGENDAWIZARDDIALOG_START__8.string.text
 msgid "Please enter general information for the event"
-msgstr ""
+msgstr "Iontráil eolas ginearálta ar an ócáid, le do thoil."
 
 #: dbwizres.src#RID_AGENDAWIZARDDIALOG_START__9.string.text
 msgid "Please specify items for the agenda"
-msgstr ""
+msgstr "Sonraigh pointí don chlár oibre, le do thoil"
 
 #: dbwizres.src#RID_AGENDAWIZARDDIALOG_START__10.string.text
 msgid "Please select the names you wish to include in your agenda template"
-msgstr ""
+msgstr "Roghnaigh na hainmneacha atá le cur i do theimpléad chláir oibre"
 
 #: dbwizres.src#RID_AGENDAWIZARDDIALOG_START__12.string.text
 msgid "Include form for recording minutes"
-msgstr ""
+msgstr "Cuir foirm san áireamh chun miontuairiscí a thaifeadadh"
 
 #: dbwizres.src#RID_AGENDAWIZARDDIALOG_START__13.string.text
 msgid ""
 "This wizard helps you to create an agenda template. The template can then be "
 "used to create an agenda whenever needed."
 msgstr ""
+"Tugann an draoi seo cúnamh duit teimpléad chláir oibre a chruthú. Féadfar an teimpléad a úsáid ansin chun clár oibre a chruthú de réir riachtanais."
 
 #: dbwizres.src#RID_AGENDAWIZARDDIALOG_START__14.string.text
 msgid "Time:"
