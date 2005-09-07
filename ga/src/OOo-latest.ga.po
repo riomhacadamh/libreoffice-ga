@@ -146,8 +146,7 @@ msgid "IsLeapYear"
 msgstr "IsLeapYear"
 
 #: dfa.src#RID_SC_ADDIN_DFA.DFA_ISLEAPYEAR_DESC.string.text
-msgid ""
-"Returns 1 (TRUE) if a leap year is used, otherwise 0 (FALSE) is returned"
+msgid "Returns 1 (TRUE) if a leap year is used, otherwise 0 (FALSE) is returned"
 msgstr ""
 
 #: dfa.src#RID_SC_ADDIN_DFA.DFA_DAYSINMONTH_NAME.string.text
@@ -262,7 +261,7 @@ msgstr "Tarraing Chun ~Tosaigh"
 #: ChartCommands.xcu#..ChartCommands.UserInterface.Commands..uno_Backward.Label.value.text
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_Backward.Label.value.text
 msgid "Send Back~ward"
-msgstr "Ar g~Cúl"
+msgstr "Seol ar ~Chúl"
 
 #: drformsh.src#MN_ARRANGESUB.SUBMENU_OBJARRANGE.menuitem.text
 #: objdraw.src#MN_ARRANGESUB.SUBMENU_OBJARRANGE.menuitem.text
@@ -716,8 +715,7 @@ msgstr "Stíl Chille"
 #: tbxanchr.src#MN_ANCHOR_POPUP.FN_TOOL_ANKER_PAGE.menuitem.text
 #: workctrl.src#RID_SCROLL_NAVIGATION_WIN.ST_PGE.string.text
 #: paragrph.src#RID_SVXPAGE_EXT_PARAGRAPH.LB_BREAKTYPE.1.stringlist.text
-#: svxitems.src#RID_ATTR_PAGE.string.text
-#: basidesh.src#RID_STR_PAGE.string.text
+#: svxitems.src#RID_ATTR_PAGE.string.text basidesh.src#RID_STR_PAGE.string.text
 msgid "Page"
 msgstr "Leathanach"
 
@@ -762,8 +760,7 @@ msgstr "Buntásc"
 #: dapitype.src#RID_SCDLG_DAPIDATA.LB_OBJTYPE.1.stringlist.text
 #: globstr.src#RID_GLOBSTR.STR_TABLE_DEF.string.text
 #: globstr.src#RID_GLOBSTR.STR_TABLE.string.text
-#: scstring.src#SCSTR_DOCSHELL.string.text
-#: scstring.src#SCSTR_TABLE.string.text
+#: scstring.src#SCSTR_DOCSHELL.string.text scstring.src#SCSTR_TABLE.string.text
 msgid "Sheet"
 msgstr "Bileog"
 
@@ -1229,8 +1226,8 @@ msgid ""
 "(Enter the URL of the source document in the local file system or Internet "
 "here.)"
 msgstr ""
-"(Iontráil suíomh (URL) na cáipéise foinsí anseo, sa chóras comhaid logánta "
-"nó ar an Idirlíon.)"
+"(Iontráil suíomh (URL) na cáipéise foinsí anseo, sa chóras comhaid logánta nó "
+"ar an Idirlíon.)"
 
 #: linkarea.src#RID_SCDLG_LINKAREA.FT_RANGES.fixedtext.text
 msgid "~Available tables/ranges"
@@ -2796,8 +2793,7 @@ msgstr "Raon priontála"
 #: pagedlg.src#RID_SCDLG_AREAS.LB_PRINTAREA.1.stringlist.text
 #: pagedlg.src#RID_SCDLG_AREAS.LB_REPEATROW.1.stringlist.text
 #: pagedlg.src#RID_SCDLG_AREAS.LB_REPEATCOL.1.stringlist.text
-#: scstring.src#SCSTR_NONE.string.text
-#: sdstring.src#RID_SVXSTR_NONE.string.text
+#: scstring.src#SCSTR_NONE.string.text sdstring.src#RID_SVXSTR_NONE.string.text
 #: tabline.src#RID_SVXPAGE_LINE.LB_EDGE_STYLE.2.stringlist.text
 #: queryfilter.src#DLG_FILTERCRIT.STR_NOENTRY.string.text
 msgid "- none -"
@@ -3002,9 +2998,8 @@ msgstr "Folaigh ~uile"
 
 #: attrdlg.src#RID_SCPAGE_PROTECTION.FT_HINT.fixedtext.text
 msgid ""
-"Cell protection is only effective after the current sheet has been "
-"protected. \\n\\nSelect 'Protect Document' from the 'Tools' menu, and "
-"specify 'Sheet'."
+"Cell protection is only effective after the current sheet has been protected. "
+"\\n\\nSelect 'Protect Document' from the 'Tools' menu, and specify 'Sheet'."
 msgstr ""
 
 #: attrdlg.src#RID_SCPAGE_PROTECTION.FL_PROTECTION.fixedline.text
@@ -3243,8 +3238,8 @@ msgstr "Mionathraigh raon sonraí na cairte"
 #: chartins.src#DLG_INSERT_CHART.FT_TEXT.fixedtext.text
 msgid ""
 "If the selected cells do not contain the desired data, select the data range "
-"now.\\n\\nInclude the cells containing column and row labels if you want "
-"them to be included in your chart."
+"now.\\n\\nInclude the cells containing column and row labels if you want them "
+"to be included in your chart."
 msgstr ""
 
 #: chartdlg.src#RID_SCDLG_CHARTRANGE.FT_RANGE.fixedtext.text
@@ -4103,8 +4098,8 @@ msgstr "Níl aon oibríocht le rith"
 
 #: globstr.src#RID_GLOBSTR.STR_MSSG_MAKEAUTOFILTER_0.string.text
 msgid ""
-"The range does not contain column headers.\\nDo you want the first line to "
-"be used as column header?"
+"The range does not contain column headers.\\nDo you want the first line to be "
+"used as column header?"
 msgstr ""
 
 #: globstr.src#RID_GLOBSTR.STR_MSSG_IMPORTDATA_0.string.text
@@ -4789,8 +4784,7 @@ msgstr ""
 
 #: globstr.src#RID_GLOBSTR.STR_QUERY_DELSCENARIO.string.text
 msgid "Are you sure you want to delete the selected scenario?"
-msgstr ""
-"An bhfuil tú cinnte gur mian leat an cnámhscéal roghnaithe a scriosadh?"
+msgstr "An bhfuil tú cinnte gur mian leat an cnámhscéal roghnaithe a scriosadh?"
 
 #: globstr.src#RID_GLOBSTR.STR_EXPORT_ASCII_WARNING.string.text
 msgid "Thesaurus is not available"
@@ -5267,8 +5261,8 @@ msgstr ""
 
 #: globstr.src#RID_GLOBSTR.STR_REIMPORT_AFTER_LOAD.string.text
 msgid ""
-"This file contains queries. The results of these queries were not saved."
-"\\nDo you want these queries to be repeated?"
+"This file contains queries. The results of these queries were not saved.\\nDo "
+"you want these queries to be repeated?"
 msgstr ""
 
 #: globstr.src#RID_GLOBSTR.STR_FILTER_TOOMANY.string.text
@@ -5297,8 +5291,8 @@ msgstr ""
 
 #: globstr.src#RID_GLOBSTR.STR_PASTE_BIGGER.string.text
 msgid ""
-"The content of the clipboard is bigger than the range selected.\\nDo you "
-"want to insert it anyway?"
+"The content of the clipboard is bigger than the range selected.\\nDo you want "
+"to insert it anyway?"
 msgstr ""
 
 #: globstr.src#RID_GLOBSTR.STR_ERR_NOREF.string.text
@@ -5542,8 +5536,7 @@ msgstr ""
 msgid ""
 "You must enter a valid reference or type a valid name for the selected range."
 msgstr ""
-"Caithfidh tú tagairt nó ainm bailí a iontráil le haghaidh an raoin "
-"roghnaithe."
+"Caithfidh tú tagairt nó ainm bailí a iontráil le haghaidh an raoin roghnaithe."
 
 #: globstr.src#RID_GLOBSTR.STR_CHANGED_MOVE_REJECTION_WARNING.string.text
 msgid ""
@@ -6069,8 +6062,7 @@ msgid "~Weekday"
 msgstr "~Dálach"
 
 #: miscdlgs.src#RID_SCDLG_FILLSERIES.BTN_MONTH.radiobutton.text
-#: sections.src#ST_MONTH.string.text
-#: schedule.src#dlgCalOptionMonth.string.text
+#: sections.src#ST_MONTH.string.text schedule.src#dlgCalOptionMonth.string.text
 msgid "~Month"
 msgstr "~Mí"
 
@@ -7010,8 +7002,8 @@ msgstr ""
 
 #: scerrors.src#RID_ERRHDLSC.SCWARN_IMPORT_COLUMN_OVERFLOW___ERRCODE_RES_MASK.string.text
 msgid ""
-"The data could not be loaded completely because the maximum number of "
-"columns per sheet was exceeded."
+"The data could not be loaded completely because the maximum number of columns "
+"per sheet was exceeded."
 msgstr ""
 
 #: scerrors.src#RID_ERRHDLSC.SCWARN_IMPORT_SHEET_OVERFLOW___ERRCODE_RES_MASK.string.text
@@ -7029,8 +7021,7 @@ msgid "Error in file structure of corresponding FM3-File."
 msgstr "Earráid i struchtúr an chomhaid-FM3 comhfhreagraigh."
 
 #: scerrors.src#RID_ERRHDLSC.SCWARN_CORE_HARD_RECALC___ERRCODE_RES_MASK.string.text
-msgid ""
-"Document too complex for automatic calculation. Press F9 to recalculate."
+msgid "Document too complex for automatic calculation. Press F9 to recalculate."
 msgstr ""
 
 #: scerrors.src#RID_ERRHDLSC.SCWARN_EXPORT_MAXROW___ERRCODE_RES_MASK.string.text
@@ -7133,11 +7124,10 @@ msgstr "Réimse bunachar sonraí"
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_DB_VAR.5.string.text
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_DB_VAR_P.5.string.text
 msgid ""
-"Indicates which database field (column) is to be used for the search "
-"criteria."
+"Indicates which database field (column) is to be used for the search criteria."
 msgstr ""
-"Léiríonn sé cén réimse bunachar sonraí (colún) a mbeidh á úsáid ag na "
-"critéir chuardaigh."
+"Léiríonn sé cén réimse bunachar sonraí (colún) a mbeidh á úsáid ag na critéir "
+"chuardaigh."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_DB_COUNT.6.string.text
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_DB_COUNT_2.6.string.text
@@ -7219,19 +7209,19 @@ msgstr ""
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_DB_STD_DEV.1.string.text
 msgid ""
-"Calculates the standard deviation of all cells in a data range whose "
-"contents match the search criteria."
+"Calculates the standard deviation of all cells in a data range whose contents "
+"match the search criteria."
 msgstr ""
 "Áiríonn sé diall caighdeánach gach cille i raon sonraí le hinneachar a "
 "mheaitseálann na critéir chuardaigh."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_DB_STD_DEV_P.1.string.text
 msgid ""
-"Returns the standard deviation with regards to the population of all cells "
-"of a data range matching the search criteria."
+"Returns the standard deviation with regards to the population of all cells of "
+"a data range matching the search criteria."
 msgstr ""
-"Aisfhilleann sé an diall caighdeánach atá baint aige le líonadh gach cille "
-"sa raon sonraí a mheaitseálann na critéir chuardaigh."
+"Aisfhilleann sé an diall caighdeánach atá baint aige le líonadh gach cille sa "
+"raon sonraí a mheaitseálann na critéir chuardaigh."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_DB_SUM.1.string.text
 msgid ""
@@ -7254,8 +7244,8 @@ msgid ""
 "Determines variance of a population based on all cells in a data range where "
 "contents match the search criteria."
 msgstr ""
-"Cinneann sé athraitheas lín bunaithe ar gach cill i raon sonraí le "
-"hinneachar a mheaitseálann na critéir chuardaigh."
+"Cinneann sé athraitheas lín bunaithe ar gach cill i raon sonraí le hinneachar "
+"a mheaitseálann na critéir chuardaigh."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_GET_DATE.1.string.text
 msgid "Provides an internal number for the date given."
@@ -7333,8 +7323,8 @@ msgid ""
 "Returns the sequential date of the month as an integer (1-31) in relation to "
 "the date value."
 msgstr ""
-"Aisfhilleann sé dáta seicheamhach na míosa mar shlánuimhir (1-31) maidir "
-"leis an luach dátaí."
+"Aisfhilleann sé dáta seicheamhach na míosa mar shlánuimhir (1-31) maidir leis "
+"an luach dátaí."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_GET_DAY.2.string.text
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_GET_HOUR.2.string.text
@@ -7420,8 +7410,7 @@ msgid "The internal number for the date."
 msgstr "Uimhir inmheánach le haghaidh an dáta."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_GET_DIFF_DATE_360.1.string.text
-msgid ""
-"Calculates the number of days between two dates based on a 360-day year."
+msgid "Calculates the number of days between two dates based on a 360-day year."
 msgstr ""
 "Áiríonn sé cé mhéad lá atá idir dhá dháta bunaithe ar bhliain le 360 lá."
 
@@ -7547,8 +7536,8 @@ msgid ""
 "Determines the sequential number of the second of a minute (0-59) for the "
 "time value."
 msgstr ""
-"Cinneann sé uimhir sheicheamhach soicind an nóiméid (0-59) le haghaidh "
-"luacha ama."
+"Cinneann sé uimhir sheicheamhach soicind an nóiméid (0-59) le haghaidh luacha "
+"ama."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_GET_SEC.3.string.text
 msgid "The internal time value."
@@ -7604,8 +7593,7 @@ msgstr "Cinneann sé dáta reatha an ríomhaire."
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_GET_DAY_OF_WEEK.1.string.text
 msgid "Returns the day of the week for the date value as an integer (1-7)."
 msgstr ""
-"Aisfhilleann sé lá na seachtaine le haghaidh luacha ama mar shlánuimhir (1-"
-"7)."
+"Aisfhilleann sé lá na seachtaine le haghaidh luacha ama mar shlánuimhir (1-7)."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_GET_DAY_OF_WEEK.5.string.text
 msgid "Fixes the beginning of the week and the type of calculation to be used."
@@ -7635,8 +7623,7 @@ msgid "mode"
 msgstr "mód"
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_WEEK.5.string.text
-msgid ""
-"Indicates the first day of the week (1 = Sunday, other values = Monday)."
+msgid "Indicates the first day of the week (1 = Sunday, other values = Monday)."
 msgstr ""
 "Léiríonn sé céad lá na seachtaine ( 1 = Domhnach, luachanna eile = Luan)."
 
@@ -7646,8 +7633,8 @@ msgstr "Áiríonn sé dáta an Domhnaigh Cásca i mbliain áirithe."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_EASTERSUNDAY.3.string.text
 msgid ""
-"An interger between 1583 and 9956, or 0 and 99 (19xx or 20xx depending on "
-"the option set)."
+"An interger between 1583 and 9956, or 0 and 99 (19xx or 20xx depending on the "
+"option set)."
 msgstr ""
 "Slánuimhir idir 1583 agus 9956, nó 0 agus 99 (19xx nó 20xx maidir leis an "
 "rogha shocraithe)."
@@ -7771,8 +7758,8 @@ msgstr "An t-ús ar airgead le haghaidh tréimhse."
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_KUM_KAP_Z.5.string.text
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_KUM_ZINS_Z.5.string.text
 msgid ""
-"Payment period. The total number of periods in which the annuity (pension) "
-"is paid."
+"Payment period. The total number of periods in which the annuity (pension) is "
+"paid."
 msgstr "Tréimhse íocaíochta. An méid tréimhsí ina n-íoctar an anáid (pinsin). "
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_ZW.7.string.text
@@ -7839,8 +7826,7 @@ msgstr "Buille Faoi Thuairim"
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_ZINS.13.string.text
 msgid ""
-"Guess. The estimate of the interest rate for the iterative calculating "
-"method."
+"Guess. The estimate of the interest rate for the iterative calculating method."
 msgstr ""
 "Tomhais. Meastachán ráta bisigh le haghaidh an mhodha áirimh atriallacha."
 
@@ -7866,8 +7852,8 @@ msgstr "Peiriad"
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_ZINS_Z.5.string.text
 msgid ""
-"Periods. The periods for which the compounded interest is to be calculated. "
-"P = 1 denotes for the first period, P = NPER for the last one."
+"Periods. The periods for which the compounded interest is to be calculated. P "
+"= 1 denotes for the first period, P = NPER for the last one."
 msgstr ""
 "Tréimhsí. Na tréimhsí atá ús iolraithe le háireamh acu. P = 1 an chéad "
 "tréimhse, P = NPER an tréimhse dheireanach."
@@ -7971,8 +7957,8 @@ msgstr "Tréimhse críochnú. An tréimhse dheireanach le cur san áireamh."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_DIA.1.string.text
 msgid ""
-"Calulates the arithmetically declining value of an asset (depreciation) for "
-"a specified period."
+"Calulates the arithmetically declining value of an asset (depreciation) for a "
+"specified period."
 msgstr ""
 "Áiríonn sé luach sochair atá ar meathlú go huimhríochtúil (dímheas) le "
 "haghaidh tréimhse áirithe."
@@ -8027,8 +8013,8 @@ msgstr "Saol áisiúil. Cé mhéad tréimhsí atá i saol áisiúil an tsochair.
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_DIA.9.string.text
 msgid ""
-"Period. The depreciation period which must have the same time unit as "
-"average useful life."
+"Period. The depreciation period which must have the same time unit as average "
+"useful life."
 msgstr ""
 "Tréimhse. An tréimhse dímheasa a gcaithfidh an t-aonad ama céanna a bheith "
 "aige nó mar atá ag an meán saol áisiúil."
@@ -8140,8 +8126,8 @@ msgstr ""
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_VBD.15.string.text
 msgid ""
-"Do not alter. Type = 1 denotes switch to linear depreciation, type = 0 do "
-"not switch."
+"Do not alter. Type = 1 denotes switch to linear depreciation, type = 0 do not "
+"switch."
 msgstr ""
 "Ná hathraigh. Type = 1 athraigh go dímheas líneach, type = 0 ná hathraigh."
 
@@ -8190,8 +8176,8 @@ msgstr "Tréimhsí. An méid íocaíochtaí in aghaidh na bliana."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_NBW.1.string.text
 msgid ""
-"Net present value. Calculates the net present value of an investment based "
-"on a series of periodic payments and a discount rate."
+"Net present value. Calculates the net present value of an investment based on "
+"a series of periodic payments and a discount rate."
 msgstr ""
 "An luach reatha glan. Áiríonn sé an luach reatha glan fuillimh bunaithe ar "
 "shraith íocaíochtaí tréimhsiúla agus ráta lacáiste."
@@ -8231,8 +8217,8 @@ msgid ""
 "Returns the actuarial rate of interest of an investment excluding costs or "
 "profits."
 msgstr ""
-"Aisfhilleann sé ráta achtúireach úis ar fhuilleamh gan chostais ná brabaigh "
-"a chur san áireamh."
+"Aisfhilleann sé ráta achtúireach úis ar fhuilleamh gan chostais ná brabaigh a "
+"chur san áireamh."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_IKV.3.string.text
 msgid ""
@@ -8648,8 +8634,7 @@ msgstr "uimhir "
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_SUM.3.string.text
 msgid ""
-"Number 1, number 2, ... are 1 to 30 arguments whose total is to be "
-"calculated."
+"Number 1, number 2, ... are 1 to 30 arguments whose total is to be calculated."
 msgstr "Uimhir 1, uimhir 2, ... 1 go 30 argóint leis an iomlán le háireamh."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_SUM_SQ.1.string.text
@@ -8658,11 +8643,10 @@ msgstr "Aisfhilleann sé suim chearnaithe na n-argóintí."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_SUM_SQ.3.string.text
 msgid ""
-"Number 1, number 2,... are 1 to 30 arguments for which the sum of the "
-"squares is to be calculated."
+"Number 1, number 2,... are 1 to 30 arguments for which the sum of the squares "
+"is to be calculated."
 msgstr ""
-"Uimhir 1, uimhir 2,... 1 go 30 argóint le suim na gcearnuithe le háireamh "
-"acu."
+"Uimhir 1, uimhir 2,... 1 go 30 argóint le suim na gcearnuithe le háireamh acu."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_PRODUCT.1.string.text
 msgid "Multiplies the arguments."
@@ -9184,8 +9168,8 @@ msgstr "Comhiolraí is lú"
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_KGV.3.string.text
 msgid ""
-"Integer 1; integer 2,... are integers whose smallest common multiple is to "
-"be calculated."
+"Integer 1; integer 2,... are integers whose smallest common multiple is to be "
+"calculated."
 msgstr ""
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_MAT_TRANS.1.string.text
@@ -9480,8 +9464,8 @@ msgstr ""
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_MAX.3.string.text
 msgid ""
-"Number 1, number 2, ... are 1 to 30 numerical arguments for which the "
-"largest number is to be determined."
+"Number 1, number 2, ... are 1 to 30 numerical arguments for which the largest "
+"number is to be determined."
 msgstr ""
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_MAX_A.1.string.text
@@ -9536,8 +9520,8 @@ msgstr ""
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_ST_DEV_A.3.string.text
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_AVERAGE_A.3.string.text
 msgid ""
-"Value 1; value 2;.. .are 1 to 30 arguments representing a sample taken from "
-"a basic total population."
+"Value 1; value 2;.. .are 1 to 30 arguments representing a sample taken from a "
+"basic total population."
 msgstr ""
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_VAR_P.1.string.text
@@ -9590,8 +9574,8 @@ msgstr ""
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_AVERAGE.3.string.text
 msgid ""
-"Number 1, number 2;...are 1 to 30 numeric arguments representing a "
-"population sample."
+"Number 1, number 2;...are 1 to 30 numeric arguments representing a population "
+"sample."
 msgstr ""
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_AVERAGE_A.1.string.text
@@ -9687,8 +9671,7 @@ msgid "Returns the quartile of a sample."
 msgstr ""
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_QUARTILE.5.string.text
-msgid ""
-"The type of the quartile (0 = MIN, 1 = 25%, 2 = 50 %, 3 = 75 %, 4 =MAX)."
+msgid "The type of the quartile (0 = MIN, 1 = 25%, 2 = 50 %, 3 = 75 %, 4 =MAX)."
 msgstr ""
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_LARGE.1.string.text
@@ -9820,8 +9803,8 @@ msgstr ""
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_GAUSS.3.string.text
 msgid ""
-"The value for which the integral value of the standard normal distribution "
-"is to be calculated."
+"The value for which the integral value of the standard normal distribution is "
+"to be calculated."
 msgstr ""
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_FISHER.1.string.text
@@ -10399,8 +10382,8 @@ msgstr ""
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_T_TEST.7.string.text
 msgid ""
-"Mode specifies the number of distribution tails to return. 1= one-tailed, 2 "
-"= two-tailed distribution"
+"Mode specifies the number of distribution tails to return. 1= one-tailed, 2 = "
+"two-tailed distribution"
 msgstr ""
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_T_TEST.9.string.text
@@ -10516,8 +10499,7 @@ msgid "The index of the value (1..30) selected."
 msgstr ""
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_CHOSE.5.string.text
-msgid ""
-"Value 1, value 2,... The list of arguments from which a value is chosen."
+msgid "Value 1, value 2,... The list of arguments from which a value is chosen."
 msgstr ""
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_COLUMN.1.string.text
@@ -10592,8 +10574,8 @@ msgstr "sórtáilte"
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_H_LOOKUP.9.string.text
 msgid ""
-"If the value is TRUE or not given, the search row of the array must be "
-"sorted in ascending order."
+"If the value is TRUE or not given, the search row of the array must be sorted "
+"in ascending order."
 msgstr ""
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_V_LOOKUP.1.string.text
@@ -10698,8 +10680,8 @@ msgstr ""
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_MATCH.7.string.text
 msgid ""
-"Type can take the value 1, 0 or -1 and determines the criteria are to be "
-"used for comparison purposes."
+"Type can take the value 1, 0 or -1 and determines the criteria are to be used "
+"for comparison purposes."
 msgstr ""
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_OFFSET.1.string.text
@@ -11226,8 +11208,8 @@ msgstr ""
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_BASE.7.string.text
 msgid ""
-"If the text is shorter than the specified length, zeros are added to the "
-"left of the string."
+"If the text is shorter than the specified length, zeros are added to the left "
+"of the string."
 msgstr ""
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_DECIMAL.1.string.text
@@ -11715,7 +11697,8 @@ msgstr "Réamhamharc"
 
 #: scstring.src#STR_ACC_CSVGRID_DESCR.string.text
 msgid "This sheet shows how the data will be arranged in the document."
-msgstr "Taispeánann an bhileog seo an chaoi a leagfar na sonraí amach sa cháipéis."
+msgstr ""
+"Taispeánann an bhileog seo an chaoi a leagfar na sonraí amach sa cháipéis."
 
 #: scstring.src#STR_ACC_DOC_NAME.string.text
 #: access.src#STR_ACCESS_DOC_NAME.string.text
@@ -11773,8 +11756,8 @@ msgstr ""
 
 #: scstring.src#STR_ACC_DATAPILOT_COL_DESCR.string.text
 msgid ""
-"Fields that you drop here will be displayed as columns in the final "
-"DataPilot table."
+"Fields that you drop here will be displayed as columns in the final DataPilot "
+"table."
 msgstr ""
 
 #: scstring.src#STR_ACC_DATAPILOT_DATA_DESCR.string.text
@@ -14345,8 +14328,8 @@ msgstr "~Bearr"
 
 #: printdlg.src#DLG_PRINT_WARNINGS.FI_INFO.fixedtext.text
 msgid ""
-"The page settings do not match the print range.\\nChoose one of the "
-"following options"
+"The page settings do not match the print range.\\nChoose one of the following "
+"options"
 msgstr ""
 
 #: printdlg.src#DLG_PRINT_WARNINGS.modaldialog.text
@@ -14786,8 +14769,7 @@ msgstr "Amharc Imlíneach"
 #: accessibility.src#SID_SD_A11Y_I_OUTLINEVIEW_D.string.text
 msgid "This is where you enter or edit text in list form."
 msgstr ""
-"Seo í an áit ina n-iontrálann tú téacs i bhfoirm liosta, nó é a chur in "
-"eagar."
+"Seo í an áit ina n-iontrálann tú téacs i bhfoirm liosta, nó é a chur in eagar."
 
 #: accessibility.src#SID_SD_A11Y_I_SLIDEVIEW_N.string.text
 msgid "Slides View"
@@ -16027,8 +16009,8 @@ msgstr "Ar mhaith leat an mapa giotáin a scriosadh?"
 
 #: sdstring.src#STR_ASK_CHANGE_BITMAP.string.text
 msgid ""
-"The bitmap was modified without saving. \\nYou can change the selected "
-"bitmap \\or add a new one."
+"The bitmap was modified without saving. \\nYou can change the selected bitmap "
+"\\or add a new one."
 msgstr ""
 "Mionathraíodh an mapa giotáin gan sábháil. \\nIs féidir leat an mapa giotáin "
 "roghnaithe \\a athrú nó ceann nua a chur leis."
@@ -16064,8 +16046,7 @@ msgstr ""
 "Mionathraíodh an stíl líne gan sábháil. \\nIs féidir leat an stíl líne "
 "roghnaithe \\na athrú nó ceann nua a chur leis."
 
-#: sdstring.src#STR_INVISIBLE.string.text
-#: strings.src#STR_INVISIBLE.string.text
+#: sdstring.src#STR_INVISIBLE.string.text strings.src#STR_INVISIBLE.string.text
 #: sdstring.src#RID_SVXSTR_INVISIBLE.string.text
 msgid "Invisible"
 msgstr "Dofheicthe"
@@ -16113,8 +16094,8 @@ msgstr "Mionathraigh"
 
 #: sdstring.src#STR_SAR_WRAP_FORWARD.string.text
 msgid ""
-"%PRODUCTNAME Impress has searched to the end of the presentation. Do you "
-"want to continue at the beginning?"
+"%PRODUCTNAME Impress has searched to the end of the presentation. Do you want "
+"to continue at the beginning?"
 msgstr ""
 
 #: sdstring.src#STR_SAR_WRAP_BACKWARD.string.text
@@ -16255,8 +16236,7 @@ msgstr "Gorm"
 msgid "Red"
 msgstr "Dearg"
 
-#: strings.src#STR_GREEN.string.text
-#: strings.src#STR_UNDO_GRAFGREEN.string.text
+#: strings.src#STR_GREEN.string.text strings.src#STR_UNDO_GRAFGREEN.string.text
 #: grafctrl.src#RID_SVXSTR_UNDO_GRAFGREEN.string.text
 #: svdstr.src#STR_ItemNam_GRAFGREEN.string.text
 #: svdstr.src#SIP_SA_GRAFGREEN.string.text
@@ -16830,8 +16810,7 @@ msgstr ""
 
 #: strings.src#STR_WARN_OBJECT_EXISTS.string.text
 msgid "The object name already exists. Please enter another name."
-msgstr ""
-"Tá réad ann leis an ainm seo cheana.  Roghnaigh ainm eile, le do thoil."
+msgstr "Tá réad ann leis an ainm seo cheana.  Roghnaigh ainm eile, le do thoil."
 
 #: strings.src#STR_SNAPDLG_SETLINE.string.text
 msgid "Edit Snap Line"
@@ -17073,8 +17052,8 @@ msgstr "Níorbh fhéidir formáid na cáipéis a shocrú ar an bprintéir roghna
 
 #: strings.src#STR_REMOVE_LINK.string.text
 msgid ""
-"This graphic is linked to a document. \\nDo you want to unlink the graphic "
-"in order to edit it?"
+"This graphic is linked to a document. \\nDo you want to unlink the graphic in "
+"order to edit it?"
 msgstr ""
 
 #: strings.src#STR_IMPORT_GRFILTER_VERSIONERROR.string.text
@@ -18384,8 +18363,7 @@ msgstr "Cuair"
 #: paragrph.src#RID_SVXPAGE_EXT_PARAGRAPH.FT_ORPHANS.fixedtext.text
 #: paragrph.src#RID_SVXPAGE_EXT_PARAGRAPH.FT_WIDOWS.fixedtext.text
 #: tabline.src#RID_SVXPAGE_LINE.tabpage.text
-#: svxitems.src#RID_SVXITEMS_LINES.string.text
-#: shlxthdl.ulf#_ROWS_.LngText.text
+#: svxitems.src#RID_SVXITEMS_LINES.string.text shlxthdl.ulf#_ROWS_.LngText.text
 #: Strings_ChartTypes.src#STR_LINES.string.text
 #: dlg_ObjectProperties.src#TAB_LINE.tabdialog.text
 #: DrawWindowState.xcu#..DrawWindowState.UIElements.States.private_resource/toolbar/linesbar.UIName.value.text
@@ -19162,8 +19140,7 @@ msgid "Background objects"
 msgstr "Réada cúlra"
 
 #: glob.src#STR_LAYER_CONTROLS.string.text glob.src#STR_CONTROLS.string.text
-#: svdstr.src#STR_ObjNamePluralUno.string.text
-#: app.src#GID_CONTROLS.string.text
+#: svdstr.src#STR_ObjNamePluralUno.string.text app.src#GID_CONTROLS.string.text
 #: basic.src#IDD_DISPLAY_HID.RID_FT_CONTROLS.fixedtext.text
 #: tbxctl.src#RID_TBXCONTROLS.RID_TOOLBOX.string.text
 #: tbxctl.src#RID_TBXCONTROLS.floatingwindow.text
@@ -19397,8 +19374,8 @@ msgid ""
 "Format error discovered in the file in sub-document $(ARG1) at position "
 "$(ARG2)(row,col)"
 msgstr ""
-"D'aimsigh earráid fhormáide sa chomhad, i bhfocháipéis $(ARG1) ag $(ARG2)"
-"(row,col)"
+"D'aimsigh earráid fhormáide sa chomhad, i bhfocháipéis $(ARG1) ag $(ARG2)(row,"
+"col)"
 
 #: glob.src#STR_3DOBJECTBARSHELL.string.text
 msgid "3-D Settings"
@@ -19824,7 +19801,7 @@ msgstr "Nasc Frámaí"
 #: swslots.src#FN_FRAME_DOWN.sfxslotinfo.text
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_ObjectForwardOne.Label.value.text
 msgid "Send Backward"
-msgstr "Ar gCúl"
+msgstr "Seol ar Chúl"
 
 #: swslots.src#FN_FRAME_MIRROR_ON_EVEN_PAGES.sfxslotinfo.text
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_MirrorOnEvenPages.Label.value.text
@@ -21928,8 +21905,7 @@ msgstr "Seoltóir"
 
 #: envlop.src#DLG_ENV.1.TP_ENV_ENV.pageitem.text
 #: envlop.src#DLG_ENV.tabdialog.text envlop.src#STR_DOC_TITLE.string.text
-#: poolfmt.src#STR_POOLPAGE_JAKET.string.text
-#: app.src#STR_ENV_TITLE.string.text
+#: poolfmt.src#STR_POOLPAGE_JAKET.string.text app.src#STR_ENV_TITLE.string.text
 msgid "Envelope"
 msgstr "Clúdach"
 
@@ -22583,8 +22559,7 @@ msgstr ""
 msgid "First Name"
 msgstr "Ainm"
 
-#: dbui.src#SA_ADDRESS_HEADER.3.itemlist.text
-#: fldui.src#FLD_EU_NAME.string.text
+#: dbui.src#SA_ADDRESS_HEADER.3.itemlist.text fldui.src#FLD_EU_NAME.string.text
 #: DataAccess.xcu#..DataAccess.DriverSettings.com.sun.star.comp.sdbc.MozabDriver.ColumnAliases.LastName.value.text
 #: template.src#CorrespondenceFields_4.string.text
 msgid "Last Name"
@@ -22805,8 +22780,8 @@ msgstr ""
 
 #: mailmergechildwindow.src#ST_TERMINATEQUERY.string.text
 msgid ""
-"There are still e-mail messages in your %PRODUCTNAME Outbox.\\nWould you "
-"like to exit anyway?"
+"There are still e-mail messages in your %PRODUCTNAME Outbox.\\nWould you like "
+"to exit anyway?"
 msgstr ""
 
 #: mailmergechildwindow.src#DLG_MM_SENDWARNING.FI_WARNING.fixedtext.text
@@ -22869,8 +22844,7 @@ msgstr ""
 #: wizard.src#STR_FINISH.string.text
 #: wizardmachine.src#STR_WIZDLG_FINISH.string.text
 #: padialog.src#RID_ADD_PRINTER_DIALOG.RID_ADDP_BTN_FINISH.okbutton.text
-#: euro.src#MESSAGES.string.text
-#: dbwizres.src#RID_COMMON_START___12.string.text
+#: euro.src#MESSAGES.string.text dbwizres.src#RID_COMMON_START___12.string.text
 msgid "~Finish"
 msgstr "~Críochnaigh"
 
@@ -23377,8 +23351,8 @@ msgstr "Cóipeáil Go"
 
 #: mmoutputpage.src#DLG_MM_SAVEWARNING.FI_WARNING.fixedtext.text
 msgid ""
-"A document with the name '%1' already exists. Please save this document "
-"under a different name."
+"A document with the name '%1' already exists. Please save this document under "
+"a different name."
 msgstr ""
 
 #: mmoutputpage.src#DLG_MM_SAVEWARNING.FT_FILENAME.fixedtext.text
@@ -24118,8 +24092,7 @@ msgstr "~Liosta"
 msgid "C~aption"
 msgstr "~Foscríbhinn"
 
-#: optdlg.src#TP_STD_FONT.FT_IDX.fixedtext.text
-#: navipi.src#ST_INDEX.string.text
+#: optdlg.src#TP_STD_FONT.FT_IDX.fixedtext.text navipi.src#ST_INDEX.string.text
 #: idxmrk.src#IDX_DIALOG_WINDOW.WIN_DLG.LBL_INDEX.fixedtext.text
 msgid "~Index"
 msgstr "~Innéacs"
@@ -26062,8 +26035,7 @@ msgstr ""
 #: autocdlg.src#RID_OFAPAGE_AUTOFMT_APPLY.ST_TYPO.string.text
 msgid "Replace \"standard\" quotes with %1custom%2 quotes"
 msgstr ""
-"Úsáid comharthaí %1saincheaptha%2 athfhriotail in ionad cinn \"caighdeánacha"
-"\""
+"Úsáid comharthaí %1saincheaptha%2 athfhriotail in ionad cinn \"caighdeánacha\""
 
 #: utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_USER_STYLE_1.string.text
 #: autocdlg.src#RID_OFAPAGE_AUTOFMT_APPLY.ST_USER_STYLE.string.text
@@ -26781,8 +26753,8 @@ msgstr "Sonraigh Iontráil Bhibleagrafaíochta"
 
 #: idxmrk.src#DLG_CHANGE_AUTH_ENTRY.querybox.text
 msgid ""
-"The document already contains the bibliography entry but with different "
-"data. Do you want to adjust the existing entries?"
+"The document already contains the bibliography entry but with different data. "
+"Do you want to adjust the existing entries?"
 msgstr ""
 
 #: multmrk.src#DLG_MULTMRK.modaldialog.text
@@ -27524,8 +27496,8 @@ msgstr "(Stíl Leathanaigh: "
 
 #: chrdlg.src#MSG_ILLEGAL_PAGENUM.infobox.text
 msgid ""
-"Page numbers cannot be applied to the current page.  Even numbers can be "
-"used on left pages, odd numbers on right pages."
+"Page numbers cannot be applied to the current page.  Even numbers can be used "
+"on left pages, odd numbers on right pages."
 msgstr ""
 
 #: drpcps.src#TP_DROPCAPS.CB_SWITCH.checkbox.text
@@ -27799,8 +27771,8 @@ msgstr ""
 
 #: app.src#MSG_SAVEAS_HTML_QUERY.querybox.text
 msgid ""
-"The source code can only be displayed if the document is saved in HTML "
-"format.\\nWould you like to save the document as HTML?"
+"The source code can only be displayed if the document is saved in HTML format."
+"\\nWould you like to save the document as HTML?"
 msgstr ""
 
 #: app.src#STR_ABSTRACT_TITLE.string.text
@@ -27868,9 +27840,9 @@ msgstr "~Ná taispeáin an rabhadh seo arís"
 
 #: app.src#MSG_DISABLE_READLINE_QUESTION.warningbox.text
 msgid ""
-"In the current document, changes are being recorded but not shown as such. "
-"In large documents, delays can occur when the document is edited. Do you "
-"want to show the changes to avoid delays?"
+"In the current document, changes are being recorded but not shown as such. In "
+"large documents, delays can occur when the document is edited. Do you want to "
+"show the changes to avoid delays?"
 msgstr ""
 
 #: error.src#STR_COMCORE_READERROR.string.text
@@ -28188,8 +28160,7 @@ msgstr "~Timfhill"
 #: backgrnd.src#RID_SVXPAGE_BACKGROUND.LB_SELECTOR.2.stringlist.text
 #: svxitems.src#RID_SVXITEMS_GRAPHIC.string.text
 #: linkmgr.src#RID_SVXSTR_GRAFIKLINK.string.text
-#: app.src#GID_GRAPHIC.string.text
-#: explorer.src#STR_SFX_GRAPHIC_DOC.string.text
+#: app.src#GID_GRAPHIC.string.text explorer.src#STR_SFX_GRAPHIC_DOC.string.text
 #: GenericCategories.xcu#..GenericCategories.Commands.Categories.14.Name.value.text
 msgid "Graphic"
 msgstr "Grafach"
@@ -28383,8 +28354,7 @@ msgid ""
 "with field names?"
 msgstr ""
 
-#: view.src#DLG_SPECIAL.querybox.text
-#: lingu.src#RID_SVXQB_SPECIAL.querybox.text
+#: view.src#DLG_SPECIAL.querybox.text lingu.src#RID_SVXQB_SPECIAL.querybox.text
 msgid "Do you want check the special regions?"
 msgstr "Ar mhaith leat na réigiúin speisialta a sheiceáil?"
 
@@ -29550,13 +29520,11 @@ msgstr "An chéad fhoirmle fhabhtach tábla eile"
 msgid "not possible"
 msgstr "dodhéanta"
 
-#: undo.src#STR_DELETE_UNDO.string.text
-#: undo.src#STR_REDLINE_DELETE.string.text
+#: undo.src#STR_DELETE_UNDO.string.text undo.src#STR_REDLINE_DELETE.string.text
 msgid "Delete $1"
 msgstr "Scrios $1"
 
-#: undo.src#STR_INSERT_UNDO.string.text
-#: undo.src#STR_REDLINE_INSERT.string.text
+#: undo.src#STR_INSERT_UNDO.string.text undo.src#STR_REDLINE_INSERT.string.text
 msgid "Insert $1"
 msgstr "Ionsáigh $1"
 
@@ -30884,8 +30852,7 @@ msgstr "Lea~gan Amach"
 msgid "~Chart Data"
 msgstr "~Sonraí na Cairte"
 
-#: strings.src#STR_BARS.string.text
-#: Strings_ChartTypes.src#STR_BARS.string.text
+#: strings.src#STR_BARS.string.text Strings_ChartTypes.src#STR_BARS.string.text
 msgid "Bars"
 msgstr "Barraí"
 
@@ -30942,8 +30909,7 @@ msgstr "Cairt Teaglama: Línte agus Colúin"
 msgid "Combination Chart: Lines and stacked columns"
 msgstr "Cairt Teaglama: Línte agus colúin chruachta"
 
-#: strings.src#STR_DEEP.string.text
-#: Strings_ChartTypes.src#STR_DEEP.string.text
+#: strings.src#STR_DEEP.string.text Strings_ChartTypes.src#STR_DEEP.string.text
 msgid "Deep"
 msgstr "Domhain"
 
@@ -31439,8 +31405,7 @@ msgstr "Pointe Sonraí $(PT_NUM), ró $(ROW_NUM), luach: $(VALUE)"
 
 #: strings.src#STR_BALLOONHELP_DATAPOINT.string.text
 msgid "Data Point $(PT_STR)$(NEWLINE)row $(ROW_STR)$(NEWLINE)value: $(VALUE)"
-msgstr ""
-"Pointe Sonraí $(PT_STR)$(NEWLINE)ró $(ROW_STR)$(NEWLINE)luach: $(VALUE)"
+msgstr "Pointe Sonraí $(PT_STR)$(NEWLINE)ró $(ROW_STR)$(NEWLINE)luach: $(VALUE)"
 
 #: strings.src#STR_AVERAGEVALUE.string.text
 msgid "average value line"
@@ -31464,8 +31429,7 @@ msgstr ""
 
 #: strings.src#STR_DIAGRAM_DATA_SAFETY_QUERY.string.text
 msgid "Data has been changed.\\n Do you want to apply the changes?"
-msgstr ""
-"Athraíodh na sonraí.\\n Ar mhaith leat na hathruithe a chur i bhfeidhm?"
+msgstr "Athraíodh na sonraí.\\n Ar mhaith leat na hathruithe a chur i bhfeidhm?"
 
 #: strings.src#STR_UNDO_TRANSFORM.string.text
 #: svdstr.src#STR_EditTransform.string.text
@@ -31530,14 +31494,14 @@ msgstr "Ní féidir luachanna diúltacha a thaispeáint le cairt den chineál se
 
 #: glob.src#STR_ONLY_ABS_VALUES.string.text
 msgid ""
-"This chart type cannot portray value areas with different signs.\\nThe "
-"values will be shown as absolutes without signs."
+"This chart type cannot portray value areas with different signs.\\nThe values "
+"will be shown as absolutes without signs."
 msgstr ""
 
 #: glob.src#STR_TRANSLATED.string.text
 msgid ""
-"You have changed the order of the data series, thus you cannot switch "
-"between data in columns and data in rows"
+"You have changed the order of the data series, thus you cannot switch between "
+"data in columns and data in rows"
 msgstr ""
 
 #: formats.src#STR_FORMAT_STRING.string.text
@@ -31876,8 +31840,7 @@ msgstr ""
 
 #: nocode.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_US_S_MAX.string.text
 #: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_US_S_MAX.string.text
-msgid ""
-"The connection names (the receiver and the other moniker) are identical."
+msgid "The connection names (the receiver and the other moniker) are identical."
 msgstr ""
 
 #: nocode.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_NOT_BINDABLE_S_MAX.string.text
@@ -31998,16 +31961,16 @@ msgstr ""
 #: nocode.src#STR_INS_FILE_LINK.string.text
 #: so3res.src#STR_INS_FILE_LINK.string.text
 msgid ""
-"Inserts the contents of the file into your document and creates a link to "
-"the source file. Changes made to the source file will be reflected in your "
+"Inserts the contents of the file into your document and creates a link to the "
+"source file. Changes made to the source file will be reflected in your "
 "document."
 msgstr ""
 
 #: nocode.src#STR_INS_FILE_ICON_LINK.string.text
 #: so3res.src#STR_INS_FILE_ICON_LINK.string.text
 msgid ""
-"Inserts an icon into your document representing the file. Changes made to "
-"the source file will be reflected in your document."
+"Inserts an icon into your document representing the file. Changes made to the "
+"source file will be reflected in your document."
 msgstr ""
 
 #: nocode.src#STR_PASTE.string.text so3res.src#STR_PASTE.string.text
@@ -32238,16 +32201,16 @@ msgid ""
 "Copyright © 2005 Sun Microsystems, Inc. All rights reserved. Sun "
 "Microsystems, Inc. has intellectual property rights relating to technology "
 "embodied in the product that is described in this document. In particular, "
-"and without limitation, these intellectual property rights may include one "
-"or more of the U.S. patents listed at http://www.sun.com/patents and one or "
-"more additional patents or pending patent applications in the U.S. and in "
-"other countries. U.S. Government Rights - Commercial software. Government "
-"users are subject to the Sun Microsystems, Inc. standard license agreement "
-"and applicable provisions of the FAR and its supplements. Use is subject to "
+"and without limitation, these intellectual property rights may include one or "
+"more of the U.S. patents listed at http://www.sun.com/patents and one or more "
+"additional patents or pending patent applications in the U.S. and in other "
+"countries. U.S. Government Rights - Commercial software. Government users are "
+"subject to the Sun Microsystems, Inc. standard license agreement and "
+"applicable provisions of the FAR and its supplements. Use is subject to "
 "license terms. This distribution may include materials developed by third "
 "parties. Sun, Sun Microsystems, the Sun logo, Java, Solaris and StarOffice "
-"are trademarks or registered trademarks of Sun Microsystems, Inc. in the U."
-"S. and other countries. All SPARC trademarks are used under license and are "
+"are trademarks or registered trademarks of Sun Microsystems, Inc. in the U.S. "
+"and other countries. All SPARC trademarks are used under license and are "
 "trademarks or registered trademarks of SPARC International, Inc. in the U.S. "
 "and other countries. UNIX is a registered trademark in the U.S. and other "
 "countries, exclusively licensed through X/Open Company, Ltd.\\n\\nThis "
@@ -32523,8 +32486,7 @@ msgstr "Bristeacha leathanaigh/colúin"
 
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_HTML.fixedtext.text
 #: folderitem_writer.ulf#STR_FI_NAME_HTMLDOKUMENT.LngText.text
-#: doc.src#STR_DOCTYPENAME_SWWEB.string.text
-#: HTML_ui.xcu#HTML.UIName.value.text
+#: doc.src#STR_DOCTYPENAME_SWWEB.string.text HTML_ui.xcu#HTML.UIName.value.text
 msgid "HTML Document"
 msgstr "Cáipéis HTML"
 
@@ -32906,14 +32868,12 @@ msgstr "Freastalaí DNS"
 
 #: optinet2.src#RID_SVXPAGE_INET_PROXY.ST_MSG_255_0.string.text
 msgid ""
-"is not a valid entry for this field. Please specify a value between 0 and "
-"255."
+"is not a valid entry for this field. Please specify a value between 0 and 255."
 msgstr ""
 
 #: optinet2.src#RID_SVXPAGE_INET_PROXY.ST_MSG_255_1.string.text
 msgid ""
-"is not a valid entry for this field. Please specify a value between 1 and "
-"255."
+"is not a valid entry for this field. Please specify a value between 1 and 255."
 msgstr ""
 
 #: optinet2.src#RID_SVXPAGE_INET_SEARCH.GB_SEARCH.fixedline.text
@@ -35893,8 +35853,8 @@ msgstr ""
 
 #: datanavi.src#RID_QRY_REMOVE_INSTANCE.querybox.text
 msgid ""
-"Deleting the instance '$INSTANCENAME' affects all controls currently bound "
-"to this instance.\\nDo you really want to delete this instance?"
+"Deleting the instance '$INSTANCENAME' affects all controls currently bound to "
+"this instance.\\nDo you really want to delete this instance?"
 msgstr ""
 
 #: datanavi.src#RID_QRY_REMOVE_ELEMENT.querybox.text
@@ -36393,8 +36353,8 @@ msgstr "Tharla earráid anaithnid. Ní féidir an cuardach a stopadh!"
 
 #: fmsearch.src#RID_STR_SEARCH_OVERFLOW.string.text
 msgid ""
-"Overflow, search continued at the beginning;Overflow, search continued at "
-"the end"
+"Overflow, search continued at the beginning;Overflow, search continued at the "
+"end"
 msgstr ""
 
 #: fmsearch.src#RID_STR_SEARCH_COUNTING.string.text
@@ -36720,8 +36680,8 @@ msgstr "<UathRéimse>"
 
 #: fmstring.src#RID_QRY_SAVEMODIFIED.querybox.text
 msgid ""
-"The content of the current form has been modified.\\nDo you want to save "
-"your changes?"
+"The content of the current form has been modified.\\nDo you want to save your "
+"changes?"
 msgstr ""
 "Athraíodh ábhar na foirme reatha.\\nAn mian leat do chuid athruithe a "
 "shábháil?"
@@ -36764,8 +36724,8 @@ msgstr "Ní féidir an réimse a chur i gcomparáid le teaghrán."
 
 #: fmstring.src#RID_STR_SVT_SQL_SYNTAX_ACCESS_DAT_NO_VALID.string.text
 msgid ""
-"The value entered is not a valid date. Please enter a date in a valid "
-"format, for example, MM/DD/YY."
+"The value entered is not a valid date. Please enter a date in a valid format, "
+"for example, MM/DD/YY."
 msgstr ""
 
 #: fmstring.src#RID_STR_SVT_SQL_SYNTAX_INT_NO_VALID.string.text
@@ -36786,8 +36746,7 @@ msgstr "Ní féidir an réimse a chur i gcomparáid le huimhir shnámhphointe."
 
 #: fmstring.src#RID_STR_SVT_SQL_SYNTAX_CRIT_NO_COMPARE.string.text
 msgid "The entered criterion cannot be compared with this field."
-msgstr ""
-"Ní féidir an critéar iontráilte a chur i gcomparáid leis an réimse seo."
+msgstr "Ní féidir an critéar iontráilte a chur i gcomparáid leis an réimse seo."
 
 #: fmstring.src#RID_STR_DATANAVIGATOR.string.text
 msgid "Data Navigator"
@@ -37448,8 +37407,8 @@ msgstr "Ainm an fho-roghchláir"
 
 #: cfg.src#RID_SVXSTR_MENU_ADDCOMMANDS_DESCRIPTION.string.text
 msgid ""
-"To add a command to a menu, select the category and then the command. You "
-"can also drag the command to the Commands list of the Menus tab page in the "
+"To add a command to a menu, select the category and then the command. You can "
+"also drag the command to the Commands list of the Menus tab page in the "
 "Customize dialog."
 msgstr ""
 
@@ -38707,15 +38666,15 @@ msgid ""
 "This error report tool gathers information about how %PRODUCTNAME is working "
 "and sends it to Sun Microsystems to help improve future versions.\\n\\nIt's "
 "easy - just send the report without any further effort on your part by "
-"clicking 'Send' in the next dialog, or you can briefly describe how the "
-"error occurred and then click 'Send'. If you want to see the report, click "
-"the 'Show Report' button. No data will be sent if you click 'Do Not Send'.\\n"
+"clicking 'Send' in the next dialog, or you can briefly describe how the error "
+"occurred and then click 'Send'. If you want to see the report, click the "
+"'Show Report' button. No data will be sent if you click 'Do Not Send'.\\n"
 "\\nCustomer Privacy\\nThe information gathered is limited to data concerning "
 "the state of %PRODUCTNAME %PRODUCTVERSION when the error occurred. Other "
 "information about passwords or document contents is not collected.\\n\\nThe "
-"information will only be used to improve the quality of %PRODUCTNAME and "
-"will not be shared with third parties.\\nFor more information on Sun "
-"Microsystems' privacy policy, visit\\nhttp://www.sun.com/privacy/"
+"information will only be used to improve the quality of %PRODUCTNAME and will "
+"not be shared with third parties.\\nFor more information on Sun Microsystems' "
+"privacy policy, visit\\nhttp://www.sun.com/privacy/"
 msgstr ""
 
 #: docrecovery.src#RID_SVXPAGE_ERR_REP_WELCOME.BTN_RECOV_PREV.pushbutton.text
@@ -38731,9 +38690,9 @@ msgstr ""
 
 #: docrecovery.src#RID_SVXPAGE_ERR_REP_SEND.FT_RECOV_DESCR.fixedtext.text
 msgid ""
-"In the spaces below, you can enter a title for your error report and "
-"describe the action you were trying to carry out when the error occurred. "
-"Then click 'Send'."
+"In the spaces below, you can enter a title for your error report and describe "
+"the action you were trying to carry out when the error occurred. Then click "
+"'Send'."
 msgstr ""
 
 #: docrecovery.src#RID_SVXPAGE_ERR_REP_SEND.FT_ERRSEND_DOCTYPE.fixedtext.text
@@ -38800,8 +38759,8 @@ msgstr "Seachfhreastalaí HT~TP"
 msgid ""
 "The %PRODUCTNAME Error Report tool needs to be connected to the Internet to "
 "be able to send error reports.\\nCompanies often use proxy servers in "
-"conjunction with a firewall to protect the network.\\nIf this applies to "
-"your situation, you have to specify the address and port for the server."
+"conjunction with a firewall to protect the network.\\nIf this applies to your "
+"situation, you have to specify the address and port for the server."
 msgstr ""
 
 #: docrecovery.src#RID_SVX_MDLG_ERR_REP_PREVIEW.modaldialog.text
@@ -39378,8 +39337,8 @@ msgid ""
 "This is where you create a hyperlink to a Web page, FTP server or Telnet "
 "connection."
 msgstr ""
-"Seo í an áit ina gcruthaíonn tú hipearnasc le leathanach gréasáin, "
-"freastalaí FTP nó nasc Telnet."
+"Seo í an áit ina gcruthaíonn tú hipearnasc le leathanach gréasáin, freastalaí "
+"FTP nó nasc Telnet."
 
 #: hyperdlg.src#RID_SVXSTR_HYPERDLG_HLMAILTP.string.text
 msgid "Mail & News"
@@ -39388,8 +39347,8 @@ msgstr "R-phost & Nuacht"
 #: hyperdlg.src#RID_SVXSTR_HYPERDLG_HLMAILTP_HELP.string.text
 msgid "This is where you create a hyperlink to an e-mail address or newsgroup."
 msgstr ""
-"Seo í an áit ina gcruthaíonn tú hipearnasc le seoladh ríomhphoist nó le "
-"grúpa nuachta."
+"Seo í an áit ina gcruthaíonn tú hipearnasc le seoladh ríomhphoist nó le grúpa "
+"nuachta."
 
 #: hyperdlg.src#RID_SVXSTR_HYPERDLG_HLDOCTP_HELP.string.text
 msgid ""
@@ -40938,8 +40897,7 @@ msgstr "Excel go %PRODUCTNAME Calc / %PRODUCTNAME Calc go Excel"
 
 #: optfltr.src#RID_OFAPAGE_MSFILTEROPT2.ST_CHG_IMPRESS.string.text
 msgid "PowerPoint to %PRODUCTNAME Impress / %PRODUCTNAME Impress to PowerPoint"
-msgstr ""
-"PowerPoint go %PRODUCTNAME Impress / %PRODUCTNAME Impress go PowerPoint"
+msgstr "PowerPoint go %PRODUCTNAME Impress / %PRODUCTNAME Impress go PowerPoint"
 
 #: optgdlg.src#OFA_TP_MISC.CB_TOOLTIP.checkbox.text
 #: globlmn_tmpl.hrc#ITEM_HELP_HELPTIPS.#define.text
@@ -41327,8 +41285,8 @@ msgstr "Conair Aicme"
 
 #: optjava.src#RID_SVXERR_JRE_NOT_RECOGNIZED.errorbox.text
 msgid ""
-"The folder you selected does not contain a Java runtime environment."
-"\\nPlease select a different folder."
+"The folder you selected does not contain a Java runtime environment.\\nPlease "
+"select a different folder."
 msgstr ""
 
 #: optjava.src#RID_SVXERR_JRE_FAILED_VERSION.errorbox.text
@@ -41339,8 +41297,8 @@ msgstr ""
 
 #: optjava.src#RID_SVX_MSGBOX_JAVA_RESTART.warningbox.text
 msgid ""
-"For the selected Java runtime environment to work properly, %PRODUCTNAME "
-"must be restarted.\\nPlease restart %PRODUCTNAME now."
+"For the selected Java runtime environment to work properly, %PRODUCTNAME must "
+"be restarted.\\nPlease restart %PRODUCTNAME now."
 msgstr ""
 
 #: optjava.src#RID_SVX_MSGBOX_JAVA_RESTART2.warningbox.text
@@ -41912,8 +41870,7 @@ msgstr "~Macraí"
 
 #: scriptdlg.src#RID_DLG_SCRIPTORGANIZER.SF_CTRL_SCRIPTSBOX.STR_MYMACROS.string.text
 #: selector.src#RID_DLG_SCRIPTSELECTOR.BOX_SELECTOR_CATEGORIES.STR_MYMACROS.string.text
-#: cfg.src#STR_MYMACROS.string.text
-#: basidesh.src#RID_STR_USERMACROS.string.text
+#: cfg.src#STR_MYMACROS.string.text basidesh.src#RID_STR_USERMACROS.string.text
 msgid "My Macros"
 msgstr "Mo Chuid Macraí"
 
@@ -42043,8 +42000,8 @@ msgstr "Tharla eisceacht agus an script %LANGUAGENAME \"%SCRIPTNAME\" á rith"
 
 #: scriptdlg.src#RID_SVXSTR_ERROR_AT_LINE.string.text
 msgid ""
-"An error occurred while running the %LANGUAGENAME script %SCRIPTNAME at "
-"line: %LINENUMBER."
+"An error occurred while running the %LANGUAGENAME script %SCRIPTNAME at line: "
+"%LINENUMBER."
 msgstr ""
 "Tharla earráid agus an script %LANGUAGENAME \"%SCRIPTNAME\" á rith, ag líne %"
 "LINENUMBER."
@@ -42054,8 +42011,8 @@ msgid ""
 "An exception occurred while running the %LANGUAGENAME script %SCRIPTNAME at "
 "line: %LINENUMBER."
 msgstr ""
-"Tharla eisceacht agus an script %LANGUAGENAME \"%SCRIPTNAME\" á rith, ag "
-"líne %LINENUMBER."
+"Tharla eisceacht agus an script %LANGUAGENAME \"%SCRIPTNAME\" á rith, ag líne "
+"%LINENUMBER."
 
 #: scriptdlg.src#RID_SVXSTR_FRAMEWORK_ERROR_RUNNING.string.text
 msgid ""
@@ -42115,8 +42072,8 @@ msgstr "Iontráil ainm ar an stíl líne:"
 
 #: sdstring.src#RID_SVXSTR_ASK_CHANGE_LINESTYLE.string.text
 msgid ""
-"The line style was modified without saving. \\nModify the selected line "
-"style or add a new line style."
+"The line style was modified without saving. \\nModify the selected line style "
+"or add a new line style."
 msgstr ""
 "Mionathraíodh an stíl líne gan sábháil. \\nMionathraigh an stíl líne "
 "roghnaithe nó cuir stíl nua líne leis."
@@ -42135,8 +42092,8 @@ msgstr "Ar mhaith leat an haisteáil a scriosadh?"
 
 #: sdstring.src#RID_SVXSTR_ASK_CHANGE_HATCH.string.text
 msgid ""
-"The hatching type was modified but not saved. \\nModify the selected "
-"hatching type or add a new hatching type."
+"The hatching type was modified but not saved. \\nModify the selected hatching "
+"type or add a new hatching type."
 msgstr ""
 
 #: sdstring.src#RID_SVXSTR_DESC_COLOR.string.text
@@ -42162,12 +42119,10 @@ msgstr ""
 #: sdstring.src#RID_SVXSTR_WARN_TABLE_OVERWRITE.string.text
 msgid ""
 "The list was modified without saving. Would you like to save the list now?"
-msgstr ""
-"Mionathraíodh an liosta gan sábháil. Ar mhaith leat é a shábháil anois?"
+msgstr "Mionathraíodh an liosta gan sábháil. Ar mhaith leat é a shábháil anois?"
 
 #: sdstring.src#RID_SVXSTR_WARN_NAME_DUPLICATE.string.text
-msgid ""
-"The name you have entered already exists. \\nPlease choose another name."
+msgid "The name you have entered already exists. \\nPlease choose another name."
 msgstr ""
 "Tá an t-ainm a d'iontráil tú ann cheana. \\nRoghnaigh ainm eile le do thoil."
 
@@ -42622,10 +42577,10 @@ msgstr "Rith"
 
 #: selector.src#STR_SELECTOR_ADD_COMMANDS_DESCRIPTION.string.text
 msgid ""
-"To add a command to a toolbar, select the category and then the command. "
-"Then drag the command to where you want it on the desired toolbar. "
-"Alternatively, you can drag the command to the Commands list of the Toolbars "
-"tab page in the Customize dialog."
+"To add a command to a toolbar, select the category and then the command. Then "
+"drag the command to where you want it on the desired toolbar. Alternatively, "
+"you can drag the command to the Commands list of the Toolbars tab page in the "
+"Customize dialog."
 msgstr ""
 
 #: selector.src#STR_BASICMACROS.string.text
@@ -43327,8 +43282,8 @@ msgstr ""
 
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE.STR_HELPTEXTS.2.itemlist.text
 msgid ""
-"This is where you make settings concerning language and writing aids for "
-"your work with %PRODUCTNAME."
+"This is where you make settings concerning language and writing aids for your "
+"work with %PRODUCTNAME."
 msgstr ""
 
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE.STR_HELPTEXTS.3.itemlist.text
@@ -43339,10 +43294,10 @@ msgstr ""
 
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE.STR_HELPTEXTS.4.itemlist.text
 msgid ""
-"This is where you specify various settings for text documents. These "
-"settings determine how your text documents are handled in %PRODUCTNAME and "
-"are valid for all new %PRODUCTNAME Writer documents. You can also define a "
-"few settings for the active text document if you save it afterwards."
+"This is where you specify various settings for text documents. These settings "
+"determine how your text documents are handled in %PRODUCTNAME and are valid "
+"for all new %PRODUCTNAME Writer documents. You can also define a few settings "
+"for the active text document if you save it afterwards."
 msgstr ""
 
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE.STR_HELPTEXTS.5.itemlist.text
@@ -43364,17 +43319,17 @@ msgstr ""
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE.STR_HELPTEXTS.7.itemlist.text
 msgid ""
 "This is where you define the settings that apply to all newly saved "
-"presentations. Among other things, you decide which contents are displayed "
-"on the slides, which default unit of measure is used, if and how grid "
-"alignment is used, and if notes and handouts are always printed."
+"presentations. Among other things, you decide which contents are displayed on "
+"the slides, which default unit of measure is used, if and how grid alignment "
+"is used, and if notes and handouts are always printed."
 msgstr ""
 
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE.STR_HELPTEXTS.8.itemlist.text
 msgid ""
 "This is where you define the settings for drawing documents. Among other "
 "things, you determine which contents are displayed on the pages, which scale "
-"is used, if and how grid alignment is used, and which contents are printed "
-"by default."
+"is used, if and how grid alignment is used, and which contents are printed by "
+"default."
 msgstr ""
 
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE.STR_HELPTEXTS.9.itemlist.text
@@ -43392,15 +43347,14 @@ msgstr ""
 
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE.STR_HELPTEXTS.11.itemlist.text
 msgid ""
-"This is where you define general settings for accessing external data "
-"sources."
+"This is where you define general settings for accessing external data sources."
 msgstr ""
 
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE.STR_HELPTEXTS.12.itemlist.text
 msgid ""
-"This is where you define general settings for opening and saving documents "
-"in external formats. You can control the behavior of macros or OLE objects "
-"in Microsoft Office documents or define settings for HTML documents."
+"This is where you define general settings for opening and saving documents in "
+"external formats. You can control the behavior of macros or OLE objects in "
+"Microsoft Office documents or define settings for HTML documents."
 msgstr ""
 
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_GENERAL_OPTIONS.1.itemlist.text
@@ -43895,8 +43849,8 @@ msgstr ""
 msgid ""
 "$(ARG1) is not supported by the spellcheck function or is not presently "
 "active.\\nPlease check your installation and, if necessary, install the "
-"required language module\\n or activate it under 'Tools - Options -  "
-"Language Settings - Writing Aids'."
+"required language module\\n or activate it under 'Tools - Options -  Language "
+"Settings - Writing Aids'."
 msgstr ""
 
 #: svxerr.src#RID_SVXERRCODE.ERRCODE_SVX_LINGU_LINGUNOTEXISTS_ERRCODE_RES_MASK.string.text
@@ -43964,8 +43918,7 @@ msgid ""
 msgstr ""
 
 #: svxerr.src#RID_SVXERRCODE.ERRCODE_SVX_VBASIC_STORAGE_EXIST___ERRCODE_RES_MASK.string.text
-msgid ""
-"The original VBA Basic Code contained in the document will not be saved."
+msgid "The original VBA Basic Code contained in the document will not be saved."
 msgstr ""
 
 #: svxerr.src#RID_SVXERRCODE.ERRCODE_SVX_WRONGPASS___ERRCODE_RES_MASK.string.text
@@ -45692,8 +45645,8 @@ msgid ""
 "The following columns are currently hidden. Please mark the fields you want "
 "to show and choose OK."
 msgstr ""
-"Tá na colúin a leanas folaithe faoi láthair. Marcáil na réimsí is mian leat "
-"a thaispeáint agus ansin roghnaigh OK."
+"Tá na colúin a leanas folaithe faoi láthair. Marcáil na réimsí is mian leat a "
+"thaispeáint agus ansin roghnaigh OK."
 
 #: showcols.src#RID_SVX_DLG_SHOWGRIDCOLUMNS.modaldialog.text
 msgid "Show columns"
@@ -46374,9 +46327,9 @@ msgstr ""
 msgid ""
 "The '${HOST}' server wishes to set one or more cookies.\\nCookies contain "
 "information referring to certain URL classes. If %PRODUCTNAME later requests "
-"a document with a URL corresponding to the class of a previously set cookie, "
-"%PRODUCTNAME will send this information to the server. This allows a server "
-"to recognize the status of a WWW application, e.g., when shopping online.\\n"
+"a document with a URL corresponding to the class of a previously set cookie, %"
+"PRODUCTNAME will send this information to the server. This allows a server to "
+"recognize the status of a WWW application, e.g., when shopping online.\\n"
 "\\nThe following Cookies should be set:\\n\\n"
 msgstr ""
 
@@ -46395,11 +46348,11 @@ msgid ""
 "when requesting the document ${PATH}.\\nCookies contain information which "
 "refers to certain URL classes. They are sent by some servers to %PRODUCTNAME "
 "where they are saved when certain documents are accessed. If %PRODUCTNAME "
-"loads a document that, according to the URL, corresponds to a class of one "
-"of the previously received Cookies, %PRODUCTNAME will send this information "
-"to that server. This enables a server to keep track of the status of a WWW "
-"application, e.g., when shopping online.\\n\\nThe following Cookies should "
-"be set:\\n\\n"
+"loads a document that, according to the URL, corresponds to a class of one of "
+"the previously received Cookies, %PRODUCTNAME will send this information to "
+"that server. This enables a server to keep track of the status of a WWW "
+"application, e.g., when shopping online.\\n\\nThe following Cookies should be "
+"set:\\n\\n"
 msgstr ""
 
 #: cookiedg.src#STR_COOKIES_SEND_TITLE.string.text
@@ -46594,8 +46547,8 @@ msgstr ""
 
 #: ids.src#RID_UUI_ERRHDL._ERRCODE_UUI_WRONGJAVA_VERSION_MIN___ERRCODE_RES_MASK_.string.text
 msgid ""
-"The installed Java version $(ARG1) is not supported, at least version "
-"$(ARG2) is required"
+"The installed Java version $(ARG1) is not supported, at least version $(ARG2) "
+"is required"
 msgstr ""
 
 #: ids.src#RID_UUI_ERRHDL._ERRCODE_UUI_BADPARTNERSHIP___ERRCODE_RES_MASK_.string.text
@@ -46639,8 +46592,7 @@ msgid ""
 msgstr ""
 
 #: ids.src#RID_UUI_ERRHDL._ERRCODE_UUI_IO_BROKENPACKAGE_CANTREPAIR___ERRCODE_RES_MASK_.string.text
-msgid ""
-"The file '$(ARG1)' could not be repaired and therefore cannot be opened."
+msgid "The file '$(ARG1)' could not be repaired and therefore cannot be opened."
 msgstr ""
 
 #: ids.src#RID_UUI_ERRHDL._ERRCODE_UUI_CONFIGURATION_BROKENDATA_NOREMOVE___ERRCODE_RES_MASK_.string.text
@@ -46652,8 +46604,8 @@ msgstr ""
 
 #: ids.src#RID_UUI_ERRHDL._ERRCODE_UUI_CONFIGURATION_BROKENDATA_WITHREMOVE___ERRCODE_RES_MASK_.string.text
 msgid ""
-"The personal configuration file '$(ARG1)' is corrupted and must be deleted "
-"to continue. Some of your personal settings may be lost.\\nDo you want to "
+"The personal configuration file '$(ARG1)' is corrupted and must be deleted to "
+"continue. Some of your personal settings may be lost.\\nDo you want to "
 "continue startup of %PRODUCTNAME without the corrupted configuration data?"
 msgstr ""
 
@@ -47486,8 +47438,7 @@ msgid "Connect to an e~xisting database"
 msgstr "Nasc le bunachar sonraí atá ann"
 
 #: dbadmin.src#PAGE_GENERAL.FT_DATASOURCETYPE_PRE.fixedtext.text
-msgid ""
-"Select the type of database to which you want to establish a connection."
+msgid "Select the type of database to which you want to establish a connection."
 msgstr "Roghnaigh cineál an bhunachair sonraí lenar mhaith leat nascadh."
 
 #: dbadmin.src#PAGE_GENERAL.FT_DATATYPE.fixedtext.text
@@ -47516,9 +47467,9 @@ msgstr ""
 
 #: dbadmin.src#PAGE_GENERAL.STR_UNSUPPORTED_DATASOURCE_TYPE.string.text
 msgid ""
-"This kind of data source is not supported on this platform.\\nYou are "
-"allowed to change the settings, but you probably will not be able to connect "
-"to the database."
+"This kind of data source is not supported on this platform.\\nYou are allowed "
+"to change the settings, but you probably will not be able to connect to the "
+"database."
 msgstr ""
 
 #: dbadmin.src#PAGE_DBASE.FL_SEPARATOR1.fixedline.text
@@ -47937,9 +47888,9 @@ msgstr "Socraigh nasc le bunachar sonraí JDBC"
 
 #: dbadminsetup.src#PAGE_DBWIZARD_JDBC.STR_JDBC_HELPTEXT.string.text
 msgid ""
-"Please enter the required information to connect to a JDBC database."
-"\\nPlease contact your system administrator if you are unsure about the "
-"following settings."
+"Please enter the required information to connect to a JDBC database.\\nPlease "
+"contact your system administrator if you are unsure about the following "
+"settings."
 msgstr ""
 
 #: dbadminsetup.src#PAGE_DBWIZARD_ORACLE.STR_ORACLE_HEADERTEXT.string.text
@@ -47957,9 +47908,9 @@ msgstr ""
 #: dbadminsetup.src#PAGE_DBWIZARD_ORACLE.STR_ORACLE_HELPTEXT.string.text
 msgid ""
 "Please enter the required information to connect to an Oracle database.Note "
-"that a JDBC Driver Class must be installed on your system and registered "
-"with %PRODUCTNAME.\\nPlease contact your system administrator if you are "
-"unsure about the following settings."
+"that a JDBC Driver Class must be installed on your system and registered with "
+"%PRODUCTNAME.\\nPlease contact your system administrator if you are unsure "
+"about the following settings."
 msgstr ""
 
 #: dbadminsetup.src#PAGE_DBWIZARD_SPREADSHEET.STR_SPREADSHEET_HEADERTEXT.string.text
@@ -47972,8 +47923,8 @@ msgid ""
 "workbook.\\n%PRODUCTNAME will open this file in read-only mode."
 msgstr ""
 "Cliceáil 'Brabhsáil...' chun scarbhileog %PRODUCTNAME nó leabhar oibre "
-"Microsoft Excel a roghnú.\\nOsclófar %PRODUCTNAME an comhad seo sa mhód "
-"léimh-amháin."
+"Microsoft Excel a roghnú.\\nOsclófar %PRODUCTNAME an comhad seo sa mhód léimh-"
+"amháin."
 
 #: dbadminsetup.src#PAGE_DBWIZARD_SPREADSHEET.STR_SPREADSHEETPATH.string.text
 msgid "~Location and file name"
@@ -48342,15 +48293,14 @@ msgstr ""
 #: table.src#STR_TABLEDESIGN_DBFIELDTYPES.string.text
 msgid ""
 "Unknown;Text;Number;Date/Time;Date;Time;Yes/No;Currency;Memo;Counter;Image;"
-"Text (fix);Decimal;Binary (fix);Binary;BigInt;Double;Float;Real;Integer;"
-"Small Integer;Tiny Integer;SQL Null;Object;Distinct;Structure;Field;BLOB;"
-"CLOB;REF;OTHER"
+"Text (fix);Decimal;Binary (fix);Binary;BigInt;Double;Float;Real;Integer;Small "
+"Integer;Tiny Integer;SQL Null;Object;Distinct;Structure;Field;BLOB;CLOB;REF;"
+"OTHER"
 msgstr ""
 "Anaithnid;Téacs;Uimhir;Dáta/Am;Dáta;Am;Tá/Níl;Airgeadra;Meamram;Áiritheoir;"
-"Íomhá;Téacs (socraigh);Deachúlach;Dénártha (socraigh);Dénártha;"
-"SlánuimhirMhór;Dúbailt;Snámhphointe;Réaduimhir;Slánuimhir;SlánuimhirBheag;"
-"SlánuimhirAn-Bheag;Nialas SQL;Réad;Faoi Leith;Struchtúr;Réimse;BLOB;CLOB;REF;"
-"EILE"
+"Íomhá;Téacs (socraigh);Deachúlach;Dénártha (socraigh);Dénártha;SlánuimhirMhór;"
+"Dúbailt;Snámhphointe;Réaduimhir;Slánuimhir;SlánuimhirBheag;SlánuimhirAn-Bheag;"
+"Nialas SQL;Réad;Faoi Leith;Struchtúr;Réimse;BLOB;CLOB;REF;EILE"
 
 #: table.src#STR_TABLEDESIGN_UNDO_PRIMKEY.string.text
 #: table.src#STR_TABED_UNDO_PRIMKEY.string.text
@@ -48441,8 +48391,8 @@ msgstr ""
 #: table.src#STR_HELP_DEFAULT_VALUE.string.text
 msgid ""
 "Enter a default value for this field.\\n\\nWhen you later enter data in the "
-"table, this string will be used in each new record for the field selected. "
-"It should, therefore, correspond to the cell format that needs to be entered "
+"table, this string will be used in each new record for the field selected. It "
+"should, therefore, correspond to the cell format that needs to be entered "
 "below."
 msgstr ""
 
@@ -48492,17 +48442,15 @@ msgstr ""
 
 #: table.src#STR_TABLEDESIGN_DUPLICATE_NAME.string.text
 msgid ""
-"The table cannot be saved because column name \"$column$\" was assigned "
-"twice."
+"The table cannot be saved because column name \"$column$\" was assigned twice."
 msgstr ""
 "Ní féidir an tábla a shábháil toisc gur sannadh an t-ainm \"$column$\" faoi "
 "dhó."
 
 #: table.src#STR_TBL_COLUMN_IS_KEYCOLUMN.string.text
 msgid ""
-"The column \"$column$\" belongs to the primary key. If the column is "
-"deleted, the primary key will also be deleted. Do you really want to "
-"continue?"
+"The column \"$column$\" belongs to the primary key. If the column is deleted, "
+"the primary key will also be deleted. Do you really want to continue?"
 msgstr ""
 
 #: table.src#STR_TBL_COLUMN_IS_KEYCOLUMN_TITLE.string.text
@@ -48528,8 +48476,7 @@ msgid ""
 msgstr ""
 
 #: table.src#STR_TABLEDESIGN_CONNECTION_MISSING.string.text
-msgid ""
-"The table could not be saved due to problems connecting to the database."
+msgid "The table could not be saved due to problems connecting to the database."
 msgstr ""
 "Ní féidir an tábla a shábháil ó tharla go raibh fadhbanna ag nascadh leis an "
 "bhunachar sonraí."
@@ -48581,8 +48528,8 @@ msgstr ""
 
 #: table.src#STR_HELP_AUTOINCREMENT_VALUE.string.text
 msgid ""
-"Enter an SQL statement for the auto-increment field.\\n\\nThis statement "
-"will be directly transferred to the database when the table is created."
+"Enter an SQL statement for the auto-increment field.\\n\\nThis statement will "
+"be directly transferred to the database when the table is created."
 msgstr ""
 
 #: table.src#STR_NO_TYPE_INFO_AVAILABLE.string.text
@@ -49028,8 +48975,7 @@ msgid "Create a query  entering an SQL statement directly."
 msgstr ""
 
 #: app.src#RID_STR_QUERIES_HELP_TEXT_WIZARD.string.text
-msgid ""
-"The wizard will guide you through the steps necessary to create a query."
+msgid "The wizard will guide you through the steps necessary to create a query."
 msgstr ""
 
 #: app.src#RID_STR_TABLES_HELP_TEXT_DESIGN.string.text
@@ -49046,8 +48992,8 @@ msgstr ""
 
 #: app.src#RID_STR_VIEWS_HELP_TEXT_DESIGN.string.text
 msgid ""
-"Create a view by specifying the tables and field names you would like to "
-"have visible."
+"Create a view by specifying the tables and field names you would like to have "
+"visible."
 msgstr ""
 
 #: app.src#RID_STR_VIEWS_HELP_TEXT_WIZARD.string.text
@@ -49142,8 +49088,7 @@ msgid "The database does not support relations."
 msgstr ""
 
 #: relation.src#RELATION_DESIGN_SAVEMODIFIED.querybox.text
-msgid ""
-"The relation design has been changed.\\nDo you want to save the changes?"
+msgid "The relation design has been changed.\\nDo you want to save the changes?"
 msgstr ""
 
 #: relation.src#STR_QUERY_REL_DELETE_WINDOW.string.text
@@ -49315,8 +49260,7 @@ msgstr ""
 #: strings.src#RID_STR_NEED_CONFIG_WRITE_ACCESS.string.text
 msgid ""
 "You have no write access to the configuration data the object is based on."
-msgstr ""
-"Níl cead agat scríobh ar na sonraí cumraíochta ar a mbunaítear an réad."
+msgstr "Níl cead agat scríobh ar na sonraí cumraíochta ar a mbunaítear an réad."
 
 #: strings.src#RID_STR_COULDNOTCONNECT_UNSPECIFIED.string.text
 msgid ""
@@ -49336,16 +49280,16 @@ msgstr ""
 
 #: strings.src#RID_STR_COULDNOTLOAD_MANAGER.string.text
 msgid ""
-"The connection to the external data source could not be established. The "
-"SDBC driver manager could not be loaded."
+"The connection to the external data source could not be established. The SDBC "
+"driver manager could not be loaded."
 msgstr ""
 "Níorbh fhéidir nasc a bhunú leis an bhfoinse sheachtrach sonraí. Níorbh "
 "fhéidir bainisteoir na dtiománaithe SDBC a luchtú."
 
 #: strings.src#RID_STR_DATASOURCE_NOT_STORED.string.text
 msgid ""
-"The data source was not saved. Please use the interface XStorable to save "
-"the data source."
+"The data source was not saved. Please use the interface XStorable to save the "
+"data source."
 msgstr ""
 "Níor sábháladh an fhoinse sonraí. Úsáid an comhéadan XStorable chun an "
 "fhoinse sonraí a shábháil."
@@ -49367,8 +49311,8 @@ msgstr ""
 
 #: strings.src#RID_STR_NO_XRESULTSETUPDATE.string.text
 msgid ""
-"Values could not be inserted. The XResultSetUpdate interface is not "
-"supported by ResultSet."
+"Values could not be inserted. The XResultSetUpdate interface is not supported "
+"by ResultSet."
 msgstr ""
 
 #: strings.src#RID_STR_NO_UPDATE_MISSING_CONDITION.string.text
@@ -49425,8 +49369,7 @@ msgstr ""
 
 #: strings.src#RID_STR_NO_REFESH_AFTERLAST.string.text
 msgid ""
-"A row cannot be refreshed when the ResultSet is positioned after the last "
-"row."
+"A row cannot be refreshed when the ResultSet is positioned after the last row."
 msgstr ""
 
 #: strings.src#RID_STR_NO_MOVETOINSERTROW_CALLED.string.text
@@ -49859,9 +49802,9 @@ msgstr "Droichead Python-UNO"
 
 #: module_python.ulf#STR_DESC_MODULE_OPTIONAL_PYTHON.LngText.text
 msgid ""
-"Adds the ability to automate %PRODUCTNAME with the python scripting "
-"language. See http://udk.openoffice.org/python/python-bridge.html for a "
-"complete documentation."
+"Adds the ability to automate %PRODUCTNAME with the python scripting language. "
+"See http://udk.openoffice.org/python/python-bridge.html for a complete "
+"documentation."
 msgstr ""
 
 #: folderitem_impress.ulf#STR_FI_TOOLTIP_IMPRESS.LngText.text
@@ -49873,8 +49816,8 @@ msgstr ""
 
 #: module_impress.ulf#STR_DESC_MODULE_PRG_IMPRESS.LngText.text
 msgid ""
-"Create and edit presentations for slideshows, meeting and Web pages by using "
-"%PRODUCTNAME Impress."
+"Create and edit presentations for slideshows, meeting and Web pages by using %"
+"PRODUCTNAME Impress."
 msgstr ""
 
 #: module_impress.ulf#STR_DESC_MODULE_PRG_IMPRESS_BIN.LngText.text
@@ -50042,8 +49985,7 @@ msgstr "Comhpháirteanna Roghnacha"
 
 #: module_ooo.ulf#STR_DESC_MODULE_OPTIONAL.LngText.text
 msgid ""
-"Common components and additional programs shared by all %PRODUCTNAME "
-"programs."
+"Common components and additional programs shared by all %PRODUCTNAME programs."
 msgstr ""
 "Comhpháirteanna coitianta agus cláir eile atá úsáidte ag gach clár %"
 "PRODUCTNAME."
@@ -50096,8 +50038,8 @@ msgstr "Eisínteacht Windows Explorer"
 
 #: module_winexplorerext.ulf#STR_DESC_MODULE_OPTIONAL_WINDOWS_EXPLORER_EXTENSIONS.LngText.text
 msgid ""
-"Enables the Microsoft Windows Explorer to show information about %"
-"PRODUCTNAME documents, such as thumbnail previews."
+"Enables the Microsoft Windows Explorer to show information about %PRODUCTNAME "
+"documents, such as thumbnail previews."
 msgstr ""
 "Ceadaíonn do Microsoft Windows Explorer faisnéis faoi cháipéisí %PRODUCTNAME "
 "a thaispeáint, mar shampla réamhamhairc bheaga."
@@ -50145,8 +50087,7 @@ msgstr "Níl an chatagóir folamh.\\nScrios mar sin féin?"
 
 #: doc.src#STR_QUERY_SAVE_DOCUMENT.string.text
 msgid ""
-"The document \"$(DOC)\" has been modified.\\nDo you want to save your "
-"changes?"
+"The document \"$(DOC)\" has been modified.\\nDo you want to save your changes?"
 msgstr ""
 "Athraíodh an cháipéis \"$(DOC)\".\\nAr mhaith leat do chuid athruithe a "
 "shábháil?"
@@ -50188,8 +50129,7 @@ msgstr ""
 
 #: doc.src#STR_ERROR_COPY_TEMPLATE.string.text
 msgid ""
-"Error copying template \"$1\". \\nA template with this name may already "
-"exist."
+"Error copying template \"$1\". \\nA template with this name may already exist."
 msgstr ""
 "Earráid agus teimpléad \"$1\" á chóipeáil. \\nIs féidir go bhfuil teimpléad "
 "ann cheana leis an ainm seo."
@@ -50263,8 +50203,7 @@ msgid ""
 "changes using the $(OWNFORMAT) format?"
 msgstr ""
 
-#: doc.src#STR_SAVECOPYDOC.string.text
-#: resource.src#STR_SAVECOPYDOC.string.text
+#: doc.src#STR_SAVECOPYDOC.string.text resource.src#STR_SAVECOPYDOC.string.text
 #: Embedding.xcu#..Embedding.Verbs.SAVECOPYAS.VerbUIName.value.text
 msgid "Save Copy ~as..."
 msgstr "Sábháil Cóip m~ar..."
@@ -50376,8 +50315,8 @@ msgstr "Ná Rith"
 
 #: doc.src#FT_CANCEL.string.text
 msgid ""
-"According to the security settings, the macros in this document should not "
-"be run. Do you want to run them anyway?"
+"According to the security settings, the macros in this document should not be "
+"run. Do you want to run them anyway?"
 msgstr ""
 "De réir na socruithe slándála, ní chóir duit na macraí sa cháipéis seo a "
 "rith. Ar mhaith leat iad a rith mar sin féin?"
@@ -50638,8 +50577,8 @@ msgstr ""
 
 #: tbxcust.src#STR_MODIFIED_TOOLBOXES.string.text
 msgid ""
-"There are toolbar modifications that you have not applied. Do you really "
-"want to cancel them?"
+"There are toolbar modifications that you have not applied. Do you really want "
+"to cancel them?"
 msgstr ""
 
 #: tbxcust.src#STR_FUNCTION_ALREADY_IN_TOOLBOX.string.text
@@ -50743,8 +50682,8 @@ msgstr ""
 
 #: config.src#DLG_MACROQUERY.FT_CANCEL.string.text
 msgid ""
-"According to the security settings, this macro should not be run. Do you "
-"want to run it anyway?"
+"According to the security settings, this macro should not be run. Do you want "
+"to run it anyway?"
 msgstr ""
 "De réir na socruithe slándála, ní chóir duit an macra seo a rith. Ar mhaith "
 "leat é a rith mar sin féin?"
@@ -50761,9 +50700,9 @@ msgstr ""
 msgid ""
 "This document may contain formatting or content that cannot be saved in the %"
 "FORMATNAME file format. Do you want to save the document in this format "
-"anyway?\\n\\n- Click 'Yes' to save in %FORMATNAME file format.\\n- Click "
-"'No' to use the latest OpenDocument file format and be sure all formatting "
-"and content is saved correctly."
+"anyway?\\n\\n- Click 'Yes' to save in %FORMATNAME file format.\\n- Click 'No' "
+"to use the latest OpenDocument file format and be sure all formatting and "
+"content is saved correctly."
 msgstr ""
 
 #: alienwarn.src#RID_DLG_ALIEN_WARNING.PB_MOREINFO.helpbutton.text
@@ -50808,8 +50747,8 @@ msgid ""
 "There are still undefined functions (???).\\n\\nDo you want to accept the "
 "configuration anyway?"
 msgstr ""
-"Tá feidhmeanna ann gan sainmhíniú fós (???).\\n\\nAr mhaith leat glacadh "
-"leis an chumraíocht mar sin féin?"
+"Tá feidhmeanna ann gan sainmhíniú fós (???).\\n\\nAr mhaith leat glacadh leis "
+"an chumraíocht mar sin féin?"
 
 #: cfg.src#QBX_MNUCFG_POPUP_FUNCTIONS.querybox.text
 msgid ""
@@ -50890,8 +50829,8 @@ msgstr ""
 #: dialog.src#MSG_POOL_STYLE_NAME.infobox.text
 msgid "Name already exists as a default Style.\\nPlease choose another name."
 msgstr ""
-"Tá an t-ainm ann cheana mar Stíl réamhshocraithe.\\nRoghnaigh ainm eile le "
-"do thoil."
+"Tá an t-ainm ann cheana mar Stíl réamhshocraithe.\\nRoghnaigh ainm eile le do "
+"thoil."
 
 #: dialog.src#MSG_OVERWRITE_STYLE.querybox.text
 #: newstyle.src#DLG_NEW_STYLE_BY_EXAMPLE.MSG_OVERWRITE.querybox.text
@@ -51077,8 +51016,8 @@ msgstr "Teanga ~Scripte"
 
 #: mail.src#RID_ERRBOX_NO_SMTPSERVER.errorbox.text
 msgid ""
-"You need the SMTP server name to send messages.\\nPlease enter the name "
-"under \"Tools - Options - Internet - Proxy\"."
+"You need the SMTP server name to send messages.\\nPlease enter the name under "
+"\"Tools - Options - Internet - Proxy\"."
 msgstr ""
 
 #: mail.src#RID_INFBOX_SEND_SUCCESS.infobox.text
@@ -51607,8 +51546,7 @@ msgid ""
 "start the setup program with the option /Repair."
 msgstr ""
 
-#: app.src#IDS_SBERR_STOREREF.string.text
-#: sb.src#IDS_SBERR_STOREREF.string.text
+#: app.src#IDS_SBERR_STOREREF.string.text sb.src#IDS_SBERR_STOREREF.string.text
 msgid "Reference will not be saved: "
 msgstr "Ní shábhálfar an tagairt: "
 
@@ -51640,8 +51578,8 @@ msgstr "Níl an URL bailí."
 #: app.src#RID_XMLSEC_WARNING_BROKENSIGNATURE.warningbox.text
 msgid ""
 "The digitally signed document content and/or macros do not match the current "
-"document signature.\\n\\nThis could be the result of document manipulation "
-"or of structural document damage due to data transmission.\\n\\nWe recommend "
+"document signature.\\n\\nThis could be the result of document manipulation or "
+"of structural document damage due to data transmission.\\n\\nWe recommend "
 "that you do not trust the content of the current document.\\nExecution of "
 "macros is disabled for this document.\\n "
 msgstr ""
@@ -51810,8 +51748,7 @@ msgstr ""
 "fhreastalaí: $(ARG1)"
 
 #: bastyp.src#ERR_INET_WRITE.string.text
-msgid ""
-"Error transferring data to the internet.\\nServer error message: $(ARG1)"
+msgid "Error transferring data to the internet.\\nServer error message: $(ARG1)"
 msgstr ""
 "Earráid agus sonraí á n-aistriú go dtí an tIdirlíon.\\nTeachtaireacht "
 "earráide ón fhreastalaí: $(ARG1)"
@@ -51826,8 +51763,7 @@ msgstr "URL lochtach\\n"
 
 #: bastyp.src#ERR_ACTIVEDOWNLOADS.string.text
 msgid ""
-"There are still downloads that are active.\\nAre you sure you want to quit?"
-"\\n"
+"There are still downloads that are active.\\nAre you sure you want to quit?\\n"
 msgstr ""
 
 #: bastyp.src#ERR_QUEUEDDOWNLOADS.string.text
@@ -51899,8 +51835,8 @@ msgstr "Dízipeáil"
 
 #: fltfnc.src#STR_FILTER_CHANNELON_OFFLINE.string.text
 msgid ""
-"This subscription is set to be read in the offline mode.\\n\\n%PRODUCTNAME "
-"is presently in the online mode. Switch to offline mode now?"
+"This subscription is set to be read in the offline mode.\\n\\n%PRODUCTNAME is "
+"presently in the online mode. Switch to offline mode now?"
 msgstr ""
 
 #: fltfnc.src#STR_FILTER_EXTERNAL.string.text
@@ -51919,8 +51855,8 @@ msgstr ""
 
 #: fltfnc.src#STR_FILTER_CONSULT_SERVICE.string.text
 msgid ""
-"The selected filter $(FILTER) is not included in your edition.\\nYou can "
-"find information about orders on our homepage."
+"The selected filter $(FILTER) is not included in your edition.\\nYou can find "
+"information about orders on our homepage."
 msgstr ""
 
 #: newhdl.src#STR_MEMEXCEPTION.string.text
@@ -52093,13 +52029,12 @@ msgstr ""
 
 #: view.src#STR_NOSTARTPRINTER.string.text
 msgid "Could not start printer.\\nPlease check your printer configuration."
-msgstr ""
-"Níorbh fhéidir an printéir a thosú.\\nSeiceáil cumraíocht do printéara."
+msgstr "Níorbh fhéidir an printéir a thosú.\\nSeiceáil cumraíocht do printéara."
 
 #: view.src#STR_PRINTER_NOTAVAIL.string.text
 msgid ""
-"This document has been formatted for the printer $1. The specified printer "
-"is not available. \\nDo you want to use the standard printer $2 ?"
+"This document has been formatted for the printer $1. The specified printer is "
+"not available. \\nDo you want to use the standard printer $2 ?"
 msgstr ""
 
 #: view.src#STR_MENU_NEWMAIL.string.text
@@ -52146,9 +52081,9 @@ msgstr "Barra Uirlisí na Deisce"
 
 #: view.src#STR_PREVIEW_DOCINFO.string.text
 msgid ""
-"<html><body BGCOLOR=\"#c0c0c0\"><font FACE=\"Arial\"><dl><dt><b>Title:</"
-"b><dd>$(TITEL)<dt><b>Subject:</b><dd>$(THEME)<dt><b>Keywords:</b><dd>"
-"$(KEYWORDS)<dt><b>Description:</b><dd>$(TEXT)</dl></font></body></html>"
+"<html><body BGCOLOR=\"#c0c0c0\"><font FACE=\"Arial\"><dl><dt><b>Title:</b><dd>"
+"$(TITEL)<dt><b>Subject:</b><dd>$(THEME)<dt><b>Keywords:</b><dd>$(KEYWORDS)"
+"<dt><b>Description:</b><dd>$(TEXT)</dl></font></body></html>"
 msgstr ""
 "<html><body BGCOLOR=\"#c0c0c0\"><font FACE=\"Arial\"><dl><dt><b>Teideal:</"
 "b><dd>$(TITEL)<dt><b>Ábhar:</b><dd>$(THEME)<dt><b>Eochairfhocail:</b><dd>"
@@ -52189,14 +52124,14 @@ msgstr ""
 
 #: view.src#ERRBOX_SFX_NO_OUTBOX.errorbox.text
 msgid ""
-"To perform this action an outbox is required.\\nPlease create an outbox "
-"prior to executing this action again."
+"To perform this action an outbox is required.\\nPlease create an outbox prior "
+"to executing this action again."
 msgstr ""
 
 #: view.src#MSG_QUERY_OPENASTEMPLATE.querybox.text
 msgid ""
-"This document cannot be edited, possibly due to missing access rights. Do "
-"you want to edit a copy of the document?"
+"This document cannot be edited, possibly due to missing access rights. Do you "
+"want to edit a copy of the document?"
 msgstr ""
 "Ní féidir an cháipéis a chur in eagar; is dócha nach bhfuil cead rochtana "
 "agat. Ar mhaith leat cóip den cháipéis a chur in eagar?"
@@ -52764,36 +52699,35 @@ msgstr ""
 
 #: wizard.src#STR_WELCOME_OEM.string.text
 msgid ""
-"This wizard will guide you through the license agreement and the "
-"registration of %PRODUCTNAME.\\n\\nImportant information is contained in the "
-"readme file which is located in the %PRODUCTNAME product directory. Please "
-"read this file carefully.\\n\\nYou can also find detailed information on the "
-"Sun Internet pages at\\n\\nhttp://www.sun.com/%PRODUCTNAME.\\n\\nClick "
-"'Next' to continue."
+"This wizard will guide you through the license agreement and the registration "
+"of %PRODUCTNAME.\\n\\nImportant information is contained in the readme file "
+"which is located in the %PRODUCTNAME product directory. Please read this file "
+"carefully.\\n\\nYou can also find detailed information on the Sun Internet "
+"pages at\\n\\nhttp://www.sun.com/%PRODUCTNAME.\\n\\nClick 'Next' to continue."
 msgstr ""
 
 #: wizard.src#STR_WELCOME_OEM_EXT.string.text
 msgid ""
-"This wizard will guide you through the license agreement and the "
-"registration of %PRODUCTNAME.\\n\\nImportant information is contained in the "
-"readme files which are located in the %PRODUCTNAME product directory. Please "
-"read these files carefully. You can also find detailed information on the "
-"Sun website \\n\\nhttp://www.sun.com/&PRODUCTNAME.\\n\\nSupport and Training:"
-"\\n\\nGet FREE software support valid for 60 days from date of purchase and "
-"FREE access to a web-based %PRODUCTNAME course available through the Sun(tm) "
-"Web Learning Center (valid for 90 days from the date of registration). To "
-"take advantage of this offer, visit the website below.\\n\\nhttp://www.sun."
-"com/star/service\\n\\nClick 'Next' to continue."
+"This wizard will guide you through the license agreement and the registration "
+"of %PRODUCTNAME.\\n\\nImportant information is contained in the readme files "
+"which are located in the %PRODUCTNAME product directory. Please read these "
+"files carefully. You can also find detailed information on the Sun website \\n"
+"\\nhttp://www.sun.com/&PRODUCTNAME.\\n\\nSupport and Training:\\n\\nGet FREE "
+"software support valid for 60 days from date of purchase and FREE access to a "
+"web-based %PRODUCTNAME course available through the Sun(tm) Web Learning "
+"Center (valid for 90 days from the date of registration). To take advantage "
+"of this offer, visit the website below.\\n\\nhttp://www.sun.com/star/service"
+"\\n\\nClick 'Next' to continue."
 msgstr ""
 
 #: wizard.src#STR_WELCOME_EVAL.string.text
 msgid ""
-"This wizard will guide you through the license agreement and the "
-"registration of %PRODUCTNAME.\\n\\nThis version lets you evaluate the full "
-"functionality. However, since it is an evaluation version, you will be able "
-"to start it within %EVALDAYS days after installation. To find out more about "
-"the %PRODUCTNAME product, visit www.sun.com/%PRODUCTNAME\\n\\nClick 'Next' "
-"to continue."
+"This wizard will guide you through the license agreement and the registration "
+"of %PRODUCTNAME.\\n\\nThis version lets you evaluate the full functionality. "
+"However, since it is an evaluation version, you will be able to start it "
+"within %EVALDAYS days after installation. To find out more about the %"
+"PRODUCTNAME product, visit www.sun.com/%PRODUCTNAME\\n\\nClick 'Next' to "
+"continue."
 msgstr ""
 
 #: wizard.src#ERRBOX_REG_NOSYSBROWSER.errorbox.text
@@ -52811,8 +52745,8 @@ msgstr "An bhfuil tú cinnte go dteastaíonn uait diúltú?"
 
 #: wizard.src#TP_WELCOME.FT_WELCOME_BODY.fixedtext.text
 msgid ""
-"This wizard will guide you through the license agreement and the "
-"registration of %PRODUCTNAME.\\n\\nClick 'Next' to continue."
+"This wizard will guide you through the license agreement and the registration "
+"of %PRODUCTNAME.\\n\\nClick 'Next' to continue."
 msgstr ""
 
 #: wizard.src#TP_LICENSE.FT_LICENSE_HEADER.fixedtext.text
@@ -52828,8 +52762,7 @@ msgstr ""
 #: wizard.src#TP_LICENSE.FT_LICENSE_BODY_2_TXT.fixedtext.text
 msgid "Click 'Accept' to accept the terms of the Agreement."
 msgstr ""
-"Cliceáil 'Glac Leis' chun glacadh le coinníollacha an Chomhaontú um "
-"Cheadúnas."
+"Cliceáil 'Glac Leis' chun glacadh le coinníollacha an Chomhaontú um Cheadúnas."
 
 #: wizard.src#TP_LICENSE.PB_LICENSE_DOWN.pushbutton.text
 msgid "Scroll Do~wn"
@@ -52847,8 +52780,8 @@ msgstr "Aistrigh sonraí pearsanta"
 #: wizard.src#TP_MIGRATION.FT_MIGRATION_BODY.fixedtext.text
 msgid ""
 "Most personal data from %OLDPRODUCT installation can be reused in %"
-"PRODUCTNAME %PRODUCTVERSION.\\n\\nIf you do not want to reuse any settings "
-"in %PRODUCTNAME %PRODUCTVERSION, unmark the check box."
+"PRODUCTNAME %PRODUCTVERSION.\\n\\nIf you do not want to reuse any settings in "
+"%PRODUCTNAME %PRODUCTVERSION, unmark the check box."
 msgstr ""
 
 #: wizard.src#TP_USER.FT_USER_HEADER.fixedtext.text
@@ -52857,8 +52790,8 @@ msgstr "Tabhair d'ainm iomlán agus d'inisealacha thíos"
 
 #: wizard.src#TP_USER.FT_USER_BODY.fixedtext.text
 msgid ""
-"The user name will be used in the document properties, templates and when "
-"you record changes made to documents."
+"The user name will be used in the document properties, templates and when you "
+"record changes made to documents."
 msgstr ""
 
 #: wizard.src#TP_USER.FT_USER_FIRST.fixedtext.text
@@ -52884,9 +52817,9 @@ msgstr "Clárú %PRODUCTNAME"
 
 #: wizard.src#TP_REGISTRATION.FT_REGISTRATION_BODY.fixedtext.text
 msgid ""
-"You now have the opportunity to register as a %PRODUCTNAME user. "
-"Registration is voluntary and is without obligation.\\n\\nIf you register, "
-"we can inform you about new developments concerning this product."
+"You now have the opportunity to register as a %PRODUCTNAME user. Registration "
+"is voluntary and is without obligation.\\n\\nIf you register, we can inform "
+"you about new developments concerning this product."
 msgstr ""
 
 #: wizard.src#TP_REGISTRATION.RB_REGISTRATION_NOW.radiobutton.text
@@ -52967,7 +52900,9 @@ msgstr ""
 
 #: desktop.src#STR_SETUP_ERR_CANNOT_START.string.text
 msgid "The Setup could not be started automatically. Please start it manually."
-msgstr "Níorbh fhéidir an Socrú a thosú go huathoibríoch. Tosaigh é de láimh, le do thoil."
+msgstr ""
+"Níorbh fhéidir an Socrú a thosú go huathoibríoch. Tosaigh é de láimh, le do "
+"thoil."
 
 #: desktop.src#STR_ASK_START_SETUP_MANUALLY.string.text
 msgid ""
@@ -52986,8 +52921,7 @@ msgstr ""
 
 #: desktop.src#STR_CONFIG_ERR_RIGHTS_MISSING.string.text
 msgid ""
-"You cannot access the central configuration because of missing access "
-"rights. "
+"You cannot access the central configuration because of missing access rights. "
 msgstr ""
 
 #: desktop.src#STR_CONFIG_ERR_ACCESS_GENERAL.string.text
@@ -53014,9 +52948,9 @@ msgstr "Tharla an earráid inmheánach a leanas: "
 msgid ""
 "Either another instance of %PRODUCTNAME is accessing your personal settings "
 "or your personal settings are locked.\\nSimultaneous access can lead to "
-"inconsistencies in your personal settings. Before continuing, you should "
-"make sure user '$u' closes %PRODUCTNAME on host '$h'.\\n\\nDo you really "
-"want to continue?"
+"inconsistencies in your personal settings. Before continuing, you should make "
+"sure user '$u' closes %PRODUCTNAME on host '$h'.\\n\\nDo you really want to "
+"continue?"
 msgstr ""
 
 #: desktop.src#INFOBOX_EXPIRED.infobox.text
@@ -53493,8 +53427,7 @@ msgid "Entry number ($Arg2) is too large in ($Arg1). Max. allowed is ($Arg3)"
 msgstr ""
 
 #: svtmsg.src#S_NUMBER_TOO_SMALL.string.text
-msgid ""
-"The entry number ($Arg2) is too small in ($Arg1). Min allowed is ($Arg3)"
+msgid "The entry number ($Arg2) is too small in ($Arg1). Min allowed is ($Arg3)"
 msgstr ""
 
 #: svtmsg.src#S_WINDOW_DISAPPEARED.string.text
@@ -54404,9 +54337,9 @@ msgstr ""
 
 #: strings.src#RID_STR_INVALID_VALIDATOR.string.text
 msgid ""
-"The control is connected to an external value binding, which at the same "
-"time acts as validator. You need to revoke the value binding, before you can "
-"set a new validator."
+"The control is connected to an external value binding, which at the same time "
+"acts as validator. You need to revoke the value binding, before you can set a "
+"new validator."
 msgstr ""
 
 #: xforms.src#RID_STR_XFORMS_NO_BINDING_EXPRESSION.string.text
@@ -54667,8 +54600,7 @@ msgid "Any day in the desired year"
 msgstr ""
 
 #: datefunc.src#RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DaysInMonth.1.string.text
-msgid ""
-"Returns the number of days of the month in which the date entered occurs"
+msgid "Returns the number of days of the month in which the date entered occurs"
 msgstr ""
 
 #: datefunc.src#RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DaysInMonth.3.string.text
@@ -54676,13 +54608,11 @@ msgid "Any day in the desired month"
 msgstr ""
 
 #: datefunc.src#RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DaysInYear.1.string.text
-msgid ""
-"Returns the number of days of the year in which the date entered occurs."
+msgid "Returns the number of days of the year in which the date entered occurs."
 msgstr ""
 
 #: datefunc.src#RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_WeeksInYear.1.string.text
-msgid ""
-"Returns the number of weeks of the year in which the date entered occurs"
+msgid "Returns the number of weeks of the year in which the date entered occurs"
 msgstr ""
 
 #: datefunc.src#RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_Rot13.1.string.text
@@ -54864,8 +54794,7 @@ msgid "Number(s)"
 msgstr "Uimhreacha"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Multinomial.3.string.text
-msgid ""
-"Number or list of numbers for which you want the multinomial coefficient"
+msgid "Number or list of numbers for which you want the multinomial coefficient"
 msgstr ""
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Seriessum.1.string.text
@@ -55996,8 +55925,7 @@ msgstr ""
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdays.1.string.text
 msgid ""
-"Returns the number of days in the coupon period containing the settlement "
-"date"
+"Returns the number of days in the coupon period containing the settlement date"
 msgstr ""
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaysnc.1.string.text
@@ -57339,8 +57267,7 @@ msgstr "Ní féidir an comhad a úsáid mar theimpléad"
 #: errtxt.src#RID_ERRHDL.ERRCODE_SFX_CANTREADDOCINFO.string.text
 msgid ""
 "Document information could not be read from the file because\\nthe document "
-"information format is unknown or because document information does not"
-"\\nexist"
+"information format is unknown or because document information does not\\nexist"
 msgstr ""
 
 #: errtxt.src#RID_ERRHDL.ERRCODE_SFX_ALREADYOPEN.string.text
@@ -57370,13 +57297,14 @@ msgstr "Níorbh fhéidir nasc Idirlín a bhunú le $(ARG1)"
 #: errtxt.src#RID_ERRHDL.ERRCODE_INET_READ.string.text
 msgid "Error reading data from the Internet\\n.Server error message: $(ARG1)"
 msgstr ""
-"Earráid agus sonraí á léamh ón Idirlíon.\\nTeachtaireacht earráide ón fhreastalaí: $(ARG1)"
+"Earráid agus sonraí á léamh ón Idirlíon.\\nTeachtaireacht earráide ón "
+"fhreastalaí: $(ARG1)"
 
 #: errtxt.src#RID_ERRHDL.ERRCODE_INET_WRITE.string.text
-msgid ""
-"Error transferring data to the Internet.\\nServer error message: $(ARG1)"
+msgid "Error transferring data to the Internet.\\nServer error message: $(ARG1)"
 msgstr ""
-"Earráid agus sonraí á dtarchur go dtí an Idirlíon.\\nTeachtaireacht earráide ón fhreastalaí: $(ARG1)"
+"Earráid agus sonraí á dtarchur go dtí an Idirlíon.\\nTeachtaireacht earráide "
+"ón fhreastalaí: $(ARG1)"
 
 #: errtxt.src#RID_ERRHDL.ERRCODE_INET_GENERAL.string.text
 msgid "General Internet error has occurred"
@@ -57484,9 +57412,8 @@ msgstr ""
 
 #: errtxt.src#RID_ERRHDL.ERRCODE_IO_NOTSTORABLEINBINARYFORMAT.string.text
 msgid ""
-"This document contains attributes that cannot be saved in the selected "
-"format.\\nPlease save the document in a %PRODUCTNAME %PRODUCTVERSION file "
-"format."
+"This document contains attributes that cannot be saved in the selected format."
+"\\nPlease save the document in a %PRODUCTNAME %PRODUCTVERSION file format."
 msgstr ""
 
 #: errtxt.src#RID_ERRHDL.ERRCODE_SFX_TARGETFILECORRUPTED.string.text
@@ -57678,8 +57605,8 @@ msgstr ""
 #: patchjavaerror.src#WARNINGBOX_INVALIDJAVASETTINGS.warningbox.text
 msgid ""
 "The %PRODUCTNAME configuration has been changed. Under Tools - Options - %"
-"PRODUCTNAME - Java, select the Java runtime environment you want to have "
-"used by %PRODUCTNAME."
+"PRODUCTNAME - Java, select the Java runtime environment you want to have used "
+"by %PRODUCTNAME."
 msgstr ""
 
 #: javaerror.src#QBX_JAVADISABLED.querybox.text
@@ -57694,15 +57621,15 @@ msgstr ""
 #: patchjavaerror.src#ERRORBOX_JVMCREATIONFAILED.errorbox.text
 msgid ""
 "%PRODUCTNAME requires a Java runtime environment (JRE) to perform this task. "
-"The selected JRE is defective. Please select another version or install a "
-"new JRE and select  it under Tools - Options - %PRODUCTNAME - Java."
+"The selected JRE is defective. Please select another version or install a new "
+"JRE and select  it under Tools - Options - %PRODUCTNAME - Java."
 msgstr ""
 
 #: javaerror.src#ERRORBOX_RESTARTREQUIRED.errorbox.text
 #: patchjavaerror.src#ERRORBOX_RESTARTREQUIRED.errorbox.text
 msgid ""
-"For the selected Java runtime environment to work properly, %PRODUCTNAME "
-"must be restarted. Please restart %PRODUCTNAME now."
+"For the selected Java runtime environment to work properly, %PRODUCTNAME must "
+"be restarted. Please restart %PRODUCTNAME now."
 msgstr ""
 
 #: javaerror.src#STR_WARNING_JAVANOTFOUND.string.text
@@ -58134,10 +58061,8 @@ msgid "%PRODUCTXMLFILEFORMATNAME %PRODUCTXMLFILEFORMATVERSION Writer object"
 msgstr "Réad %PRODUCTXMLFILEFORMATNAME %PRODUCTXMLFILEFORMATVERSION Writer"
 
 #: formats.src#STR_FORMAT_ID_STARWRITERWEB_60.string.text
-msgid ""
-"%PRODUCTXMLFILEFORMATNAME %PRODUCTXMLFILEFORMATVERSION Writer/Web object"
-msgstr ""
-"Réad %PRODUCTXMLFILEFORMATNAME %PRODUCTXMLFILEFORMATVERSION Writer/Web"
+msgid "%PRODUCTXMLFILEFORMATNAME %PRODUCTXMLFILEFORMATVERSION Writer/Web object"
+msgstr "Réad %PRODUCTXMLFILEFORMATNAME %PRODUCTXMLFILEFORMATVERSION Writer/Web"
 
 #: formats.src#STR_FORMAT_ID_STARWRITERGLOB_60.string.text
 msgid ""
@@ -58411,8 +58336,8 @@ msgstr "Níl $name$ ann."
 
 #: iodlg.src#RID_FILEOPEN_NOTEXISTENTFILE.string.text
 msgid ""
-"The file $name$ does not exist.\\nMake sure you have entered the correct "
-"file name."
+"The file $name$ does not exist.\\nMake sure you have entered the correct file "
+"name."
 msgstr ""
 "Níl an comhad $name$ ann.\\nCinntigh go bhfuil an t-ainm ceart iontráilte "
 "agat."
@@ -58468,8 +58393,7 @@ msgstr "Níorbh fhéidir an DTD a aimsiú. Iontráil conair bhailí le do thoil.
 #: xmlfilterdialogstrings.src#STR_ERROR_EXPORT_XSLT_NOT_FOUND.string.text
 msgid "The XSLT for export cannot be found. Please enter a valid path."
 msgstr ""
-"Ní féidir an XSLT a aimsiú le heaspórtáil. Iontráil conair bhailí le do "
-"thoil."
+"Ní féidir an XSLT a aimsiú le heaspórtáil. Iontráil conair bhailí le do thoil."
 
 #: xmlfilterdialogstrings.src#STR_ERROR_IMPORT_XSLT_NOT_FOUND.string.text
 msgid "The XSLT for import cannot be found. Please enter a valid path."
@@ -59436,7 +59360,7 @@ msgstr "~Bleachtaire"
 
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Popups..uno_InsertBreakMenu.Label.value.text
 msgid "~Manual Break"
-msgstr "~Briseadh De Láimhe"
+msgstr "~Briseadh De Láimh"
 
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Popups..uno_DelBreakMenu.Label.value.text
 msgid "Delete Manual Break"
@@ -66285,27 +66209,26 @@ msgstr "Slándáil Mhacra"
 
 #: macrosecurity.src#RID_XMLSECTP_SECLEVEL.RB_VERYHIGH.radiobutton.text
 msgid ""
-"~Very high.\\nOnly macros from trusted file locations are allowed to run. "
-"All other macros, regardless if signed or not, are disabled."
+"~Very high.\\nOnly macros from trusted file locations are allowed to run. All "
+"other macros, regardless if signed or not, are disabled."
 msgstr ""
 
 #: macrosecurity.src#RID_XMLSECTP_SECLEVEL.RB_HIGH.radiobutton.text
 msgid ""
-"H~igh.\\nOnly signed macros from trusted sources are allowed to run. "
-"Unsigned macros are disabled."
+"H~igh.\\nOnly signed macros from trusted sources are allowed to run. Unsigned "
+"macros are disabled."
 msgstr ""
 
 #: macrosecurity.src#RID_XMLSECTP_SECLEVEL.RB_MEDIUM.radiobutton.text
 msgid ""
-"~Medium.\\nManual confirmation before executing macros from untrusted "
-"sources."
+"~Medium.\\nManual confirmation before executing macros from untrusted sources."
 msgstr ""
 
 #: macrosecurity.src#RID_XMLSECTP_SECLEVEL.RB_LOW.radiobutton.text
 msgid ""
-"~Low (not recommended).\\nMacros are being executed without any "
-"confirmation. Use this setting only if it is guaranteed that all documents "
-"being opened are safe."
+"~Low (not recommended).\\nMacros are being executed without any confirmation. "
+"Use this setting only if it is guaranteed that all documents being opened are "
+"safe."
 msgstr ""
 
 #: macrosecurity.src#RID_XMLSECTP_TRUSTSOURCES.FL_TRUSTCERT.fixedline.text
@@ -66323,8 +66246,8 @@ msgstr ""
 #: macrosecurity.src#RID_XMLSECTP_TRUSTSOURCES.FI_TRUSTFILELOC.fixedtext.text
 msgid ""
 "Trusted file locations are used only if the security level is set to 'very "
-"high'. With this setting, document macros are only executed if they have "
-"been opened from one of the following locations."
+"high'. With this setting, document macros are only executed if they have been "
+"opened from one of the following locations."
 msgstr ""
 
 #: padialog.src#RID_FONTIMPORT_DIALOG.RID_FIMP_TXT_HELP.fixedtext.text
@@ -66367,8 +66290,8 @@ msgstr ""
 msgid ""
 "A format file (with an .afm extension) has not been found for the font\\n%s"
 "\\ntherefore, the font cannot be installed. Format files can be created with "
-"ghostscript, for example, and have to be located in the same directory as "
-"the font files or its afm subdirectory."
+"ghostscript, for example, and have to be located in the same directory as the "
+"font files or its afm subdirectory."
 msgstr ""
 
 #: padialog.src#RID_FONTIMPORT_DIALOG.RID_FIMP_STR_AFMCOPYFAILED.string.text
@@ -66523,8 +66446,7 @@ msgstr ""
 
 #: padialog.src#RID_AFMERROR_BOX_TXT.string.text
 msgid ""
-"The metric\\n\\n%s\\n\\ncould not be converted for the following reason:\\n"
-"\\n"
+"The metric\\n\\n%s\\n\\ncould not be converted for the following reason:\\n\\n"
 msgstr ""
 
 #: padialog.src#RID_PROGRESS_DLG.modelessdialog.text
@@ -66708,11 +66630,11 @@ msgstr "~Sprioc-chomhadlann PDF"
 #: padialog.src#RID_ADDP_PAGE_COMMAND.RID_ADDP_CMD_STR_PDFHELP.string.text
 #: rtsetup.src#RID_RTS_COMMANDPAGE.RID_RTS_CMD_STR_PDFHELP.string.text
 msgid ""
-"The command line for PDF converters is executed as follows: for each "
-"document printed, \"(TMP)\" in the command line is replaced by a temporary "
-"file and \"(OUTFILE)\" in the command line is replaced by the target PDF "
-"file name. If \"(TMP)\" is in the command line, the PostScript code will be "
-"supplied via a file, otherwise via standard input (i.e. as a pipe)."
+"The command line for PDF converters is executed as follows: for each document "
+"printed, \"(TMP)\" in the command line is replaced by a temporary file and "
+"\"(OUTFILE)\" in the command line is replaced by the target PDF file name. If "
+"\"(TMP)\" is in the command line, the PostScript code will be supplied via a "
+"file, otherwise via standard input (i.e. as a pipe)."
 msgstr ""
 
 #: padialog.src#RID_ADDP_PAGE_COMMAND.RID_ADDP_CMD_STR_FAXHELP.string.text
@@ -66720,8 +66642,8 @@ msgid ""
 "The command line for fax connections is executed as follows: for each fax "
 "sent, \"(TMP)\" in the command line is replaced by a temporary file and "
 "\"(PHONE)\" in the command line is replaced by the fax number. If \"(TMP)\" "
-"appears in the command line, the PostScript code will be supplied via a "
-"file, otherwise it is passed as standard input (i.e. as a pipe)."
+"appears in the command line, the PostScript code will be supplied via a file, "
+"otherwise it is passed as standard input (i.e. as a pipe)."
 msgstr ""
 
 #: padialog.src#RID_ADDP_PAGE_OLDPRINTERS.RID_ADDP_STR_TITLE.string.text
@@ -66905,17 +66827,17 @@ msgstr "Ordú: "
 #: rtsetup.src#RID_RTS_COMMANDPAGE.RID_RTS_CMD_STR_PRINTERHELP.string.text
 msgid ""
 "The command line for printer devices is executed as follows: the generated "
-"PostScript code is supplied as standard input (i.e. as a pipe) to the "
-"command line."
+"PostScript code is supplied as standard input (i.e. as a pipe) to the command "
+"line."
 msgstr ""
 
 #: rtsetup.src#RID_RTS_COMMANDPAGE.RID_RTS_CMD_STR_FAXHELP.string.text
 msgid ""
 "The command line for fax devices is executed as follows: for each fax sent, "
-"\"(TMP)\" in the command line is replaced by a temporary file and \"(PHONE)"
-"\" in the command line is replaced by the fax number. If \"(TMP)\" appears "
-"in the command line, the PostScript code will be supplied via a file, "
-"otherwise it is passed as standard input (i.e. as a pipe)."
+"\"(TMP)\" in the command line is replaced by a temporary file and \"(PHONE)\" "
+"in the command line is replaced by the fax number. If \"(TMP)\" appears in "
+"the command line, the PostScript code will be supplied via a file, otherwise "
+"it is passed as standard input (i.e. as a pipe)."
 msgstr ""
 
 #: rtsetup.src#RID_RTS_OTHERPAGE.RID_RTS_OTHER_RIGHTMARGIN_TXT.fixedtext.text
@@ -68232,8 +68154,7 @@ msgstr "Ar mhaith leat an luach a shábháil i réimse bunachar sonraí?"
 
 #: commonpagesdbp.src#RID_PAGE_OPTION_DBFIELD.RB_STOREINFIELD_YES.radiobutton.text
 msgid "~Yes, I want to save it in the following database field:"
-msgstr ""
-"~Is sea, is maith liom é a shábháil sa réimse bunachar sonraí a leanas:"
+msgstr "~Is sea, is maith liom é a shábháil sa réimse bunachar sonraí a leanas:"
 
 #: commonpagesdbp.src#RID_PAGE_OPTION_DBFIELD.RB_STOREINFIELD_NO.radiobutton.text
 msgid "~No, I only want to save the value in the form."
@@ -68351,9 +68272,9 @@ msgstr ""
 
 #: listcombopages.src#RID_PAGE_LCW_CONTENTSELECTION_TABLE.FT_SELECTTABLE_LABEL.fixedtext.text
 msgid ""
-"On the right side, you see all the tables from the data source of the form."
-"\\n\\n\\nChoose the table from which the data should be used as basis for "
-"the list content:"
+"On the right side, you see all the tables from the data source of the form.\\n"
+"\\n\\nChoose the table from which the data should be used as basis for the "
+"list content:"
 msgstr ""
 
 #: listcombopages.src#RID_PAGE_LCW_CONTENTSELECTION_TABLE.tabpage.text
@@ -68376,8 +68297,8 @@ msgstr ""
 
 #: listcombopages.src#RID_PAGE_LCW_FIELDLINK.FT_FIELDLINK_DESC.fixedtext.text
 msgid ""
-"This is where you select fields with matching contents so that the value "
-"from the display field will be shown."
+"This is where you select fields with matching contents so that the value from "
+"the display field will be shown."
 msgstr ""
 
 #: listcombopages.src#RID_PAGE_LCW_FIELDLINK.FT_VALUELISTFIELD.fixedtext.text
@@ -68416,13 +68337,13 @@ msgid ""
 "PRODUCTVERSION OEM, please enter your personal data in the dialog following "
 "the license text. Important information is contained in the readme files "
 "which are located in the %PRODUCTNAME product directory. Please read these "
-"files carefully. You can also find detailed information at the Sun website "
-"\\n\\nhttp://www.sun.com/staroffice.\\n\\nSupport and Training:\\n\\nGet "
-"FREE software support valid for 60 days from date of purchase and FREE "
-"access to a web-based %PRODUCTNAME course available through the Sun(tm) Web "
-"Learning Center (valid for 90 days from the date of registration). To take "
-"advantage of this offer, visit the website below.\\n\\nhttp://www.sun.com/"
-"star/service\\n\\nWe hope you enjoy working with %PRODUCTNAME."
+"files carefully. You can also find detailed information at the Sun website \\n"
+"\\nhttp://www.sun.com/staroffice.\\n\\nSupport and Training:\\n\\nGet FREE "
+"software support valid for 60 days from date of purchase and FREE access to a "
+"web-based %PRODUCTNAME course available through the Sun(tm) Web Learning "
+"Center (valid for 90 days from the date of registration). To take advantage "
+"of this offer, visit the website below.\\n\\nhttp://www.sun.com/star/service"
+"\\n\\nWe hope you enjoy working with %PRODUCTNAME."
 msgstr ""
 
 #: preload.src#RID_TP_LICENSE.CB_ACCEPT.checkbox.text
@@ -68606,8 +68527,8 @@ msgstr ""
 msgid ""
 "%PRODUCTNAME lets you access address data already present in your system. To "
 "do this, a %PRODUCTNAME data source will be created in which your address "
-"data is available in tabular form.\\n\\nThis wizard helps you create the "
-"data source."
+"data is available in tabular form.\\n\\nThis wizard helps you create the data "
+"source."
 msgstr ""
 
 #: abspilot.src#RID_PAGE_SELECTABTYPE.FL_TYPE.fixedline.text
@@ -68640,9 +68561,9 @@ msgstr "Foinse sheachtrach sonraí eile"
 
 #: abspilot.src#RID_PAGE_ADMININVOKATION.FT_ADMINEXPLANATION.fixedtext.text
 msgid ""
-"To set up the new data source, additional information is required.\\n"
-"\\nClick the following button to open another dialog in which you then enter "
-"the necessary information."
+"To set up the new data source, additional information is required.\\n\\nClick "
+"the following button to open another dialog in which you then enter the "
+"necessary information."
 msgstr ""
 
 #: abspilot.src#RID_PAGE_ADMININVOKATION.FT_ERROR.fixedtext.text
@@ -68661,10 +68582,10 @@ msgstr ""
 #: abspilot.src#RID_PAGE_FIELDMAPPING.FT_FIELDASSIGMENTEXPL.fixedtext.text
 msgid ""
 "To incorporate the address data in your templates, %PRODUCTNAME has to know "
-"which fields contain which data.\\n\\nFor instance, you could have stored "
-"the e-mail addresses in a field named \"email\", or \"E-mail\" or \"EM\" - "
-"or something completely different.\\n\\nClick the button below to open "
-"another dialog where you can enter the settings for your data source."
+"which fields contain which data.\\n\\nFor instance, you could have stored the "
+"e-mail addresses in a field named \"email\", or \"E-mail\" or \"EM\" - or "
+"something completely different.\\n\\nClick the button below to open another "
+"dialog where you can enter the settings for your data source."
 msgstr ""
 
 #: abspilot.src#RID_PAGE_FINAL.tabpage.text
@@ -68702,8 +68623,8 @@ msgstr "Roghnaigh cineál an leabhair seoltaí."
 
 #: abspilot.src#RID_QRY_NOTABLES.querybox.text
 msgid ""
-"The data source does not contain any tables.\\nDo you want to set it up as "
-"an address data source, anyway?"
+"The data source does not contain any tables.\\nDo you want to set it up as an "
+"address data source, anyway?"
 msgstr ""
 
 #: abspilot.src#RID_STR_ADMINDIALOGTITLE.string.text
@@ -68724,16 +68645,16 @@ msgstr "Sonraí Seolta - Sannadh Réimsí"
 
 #: abspilot.src#RID_STR_NOFIELDSASSIGNED.string.text
 msgid ""
-"There are no fields assigned at this time.\\nYou can either assign fields "
-"now or do so later by first choosing:\\n\"File - Template - Address Book "
-"Source...\""
+"There are no fields assigned at this time.\\nYou can either assign fields now "
+"or do so later by first choosing:\\n\"File - Template - Address Book Source..."
+"\""
 msgstr ""
 
 #: formlinkdialog.src#RID_DLG_FORMLINKS.FT_EXPLANATION.fixedtext.text
 msgid ""
-"Subforms can be used to display detailed data about the current record of "
-"the master form. To do this, you can specify which columns in the subform "
-"match which columns in the master form."
+"Subforms can be used to display detailed data about the current record of the "
+"master form. To do this, you can specify which columns in the subform match "
+"which columns in the master form."
 msgstr ""
 
 #: formlinkdialog.src#RID_DLG_FORMLINKS.modaldialog.text
@@ -69042,9 +68963,8 @@ msgstr ""
 
 #: formres.src#RID_STR_DATEFORMAT_LIST.string.text
 msgid ""
-"Standard (short);Standard (short YY);Standard (short YYYY);Standard (long);"
-"DD/MM/YY;MM/DD/YY;YY/MM/DD;DD/MM/YYYY;MM/DD/YYYY;YYYY/MM/DD;YY-MM-DD;YYYY-MM-"
-"DD"
+"Standard (short);Standard (short YY);Standard (short YYYY);Standard (long);DD/"
+"MM/YY;MM/DD/YY;YY/MM/DD;DD/MM/YYYY;MM/DD/YYYY;YYYY/MM/DD;YY-MM-DD;YYYY-MM-DD"
 msgstr ""
 
 #: formres.src#RID_STR_TIMEFORMAT_LIST.string.text
@@ -69515,24 +69435,22 @@ msgstr ""
 
 #: crashrep.ulf#_WELCOME_BODY1_.LngText.text
 msgid ""
-"This error report tool gathers information about how %PRODUCTNAME% is "
-"working and sends it to Sun Microsystems to help improve future versions.\\n"
-"\\n"
+"This error report tool gathers information about how %PRODUCTNAME% is working "
+"and sends it to Sun Microsystems to help improve future versions.\\n\\n"
 msgstr ""
 
 #: crashrep.ulf#_WELCOME_BODY2_.LngText.text
 msgid ""
 "It's easy - just send the report without any further effort on your part by "
-"clicking 'Send' in the next dialog, or you can briefly describe how the "
-"error occurred and then click 'Send'. If you want to see the report, click "
-"the 'Show Report' button. No data will be sent if you click 'Do Not Send'.\\n"
-"\\n"
+"clicking 'Send' in the next dialog, or you can briefly describe how the error "
+"occurred and then click 'Send'. If you want to see the report, click the "
+"'Show Report' button. No data will be sent if you click 'Do Not Send'.\\n\\n"
 msgstr ""
 
 #: crashrep.ulf#_WELCOME_BODY3_.LngText.text
 msgid ""
-"Customer Privacy\\nThe information gathered is limited to data concerning "
-"the state of %PRODUCTNAME% %PRODUCTVERSION% when the error occurred. Other "
+"Customer Privacy\\nThe information gathered is limited to data concerning the "
+"state of %PRODUCTNAME% %PRODUCTVERSION% when the error occurred. Other "
 "information about passwords or document contents is not collected.\\n\\nThe "
 "information will only be used to improve the quality of %PRODUCTNAME% and "
 "will not be shared with third parties.\\nFor more information on Sun "
@@ -69549,10 +69467,10 @@ msgstr ""
 
 #: crashrep.ulf#_REPORT_BODY_.LngText.text
 msgid ""
-"The %PRODUCTNAME% %PRODUCTVERSION% Error Report has gathered information "
-"that could help Sun Microsystems improve %PRODUCTNAME%.\\nIn the spaces "
-"below, you can enter a title for your crash report and describe the action "
-"you were trying to carry out when the error occurred. Then click 'Send'.\\n"
+"The %PRODUCTNAME% %PRODUCTVERSION% Error Report has gathered information that "
+"could help Sun Microsystems improve %PRODUCTNAME%.\\nIn the spaces below, you "
+"can enter a title for your crash report and describe the action you were "
+"trying to carry out when the error occurred. Then click 'Send'.\\n"
 msgstr ""
 
 #: crashrep.ulf#_ENTER_TITLE_.LngText.text
@@ -70241,8 +70159,7 @@ msgid "Select the program features you want installed."
 msgstr "Roghnaigh na gnéithe is mian leat suiteáil."
 
 #: Control.ulf#OOO_CONTROL_53.LngText.text
-msgid ""
-"Click on an icon in the list below to change how a feature is installed."
+msgid "Click on an icon in the list below to change how a feature is installed."
 msgstr ""
 
 #: Control.ulf#OOO_CONTROL_54.LngText.text
@@ -70301,8 +70218,8 @@ msgstr ""
 
 #: Control.ulf#OOO_CONTROL_70.LngText.text
 msgid ""
-"The icon next to the feature name indicates the install state of the "
-"feature. Click the icon to drop down the install state menu for each feature."
+"The icon next to the feature name indicates the install state of the feature. "
+"Click the icon to drop down the install state menu for each feature."
 msgstr ""
 
 #: Control.ulf#OOO_CONTROL_71.LngText.text
@@ -70313,8 +70230,8 @@ msgstr ""
 
 #: Control.ulf#OOO_CONTROL_73.LngText.text
 msgid ""
-"Will have some subfeatures installed to the local hard drive. (Available "
-"only if the feature has subfeatures.)"
+"Will have some subfeatures installed to the local hard drive. (Available only "
+"if the feature has subfeatures.)"
 msgstr ""
 
 #: Control.ulf#OOO_CONTROL_79.LngText.text
@@ -70567,13 +70484,11 @@ msgstr "{&TahomaBold10}Draoi Suiteála Críochnaithe"
 #: Control.ulf#OOO_CONTROL_191.LngText.text
 #: Control.ulf#OOO_CONTROL_227.LngText.text
 msgid ""
-"The wizard was interrupted before [ProductName] could be completely "
-"installed."
+"The wizard was interrupted before [ProductName] could be completely installed."
 msgstr ""
 
 #: Control.ulf#OOO_CONTROL_194.LngText.text
-msgid ""
-"&Yes, check for program updates (Recommended) after the setup completes."
+msgid "&Yes, check for program updates (Recommended) after the setup completes."
 msgstr ""
 
 #: Control.ulf#OOO_CONTROL_195.LngText.text
@@ -70622,10 +70537,10 @@ msgstr "&Cealaigh"
 
 #: Control.ulf#OOO_CONTROL_206.LngText.text
 msgid ""
-"<error text goes here><error text goes here><error text goes here><error "
-"text goes here><error text goes here><error text goes here><error text goes "
-"here><error text goes here><error text goes here><error text goes "
-"here><error text goes here>"
+"<error text goes here><error text goes here><error text goes here><error text "
+"goes here><error text goes here><error text goes here><error text goes "
+"here><error text goes here><error text goes here><error text goes here><error "
+"text goes here>"
 msgstr ""
 
 #: Control.ulf#OOO_CONTROL_209.LngText.text
@@ -70634,8 +70549,8 @@ msgstr "&OK"
 
 #: Control.ulf#OOO_CONTROL_218.LngText.text
 msgid ""
-"[ProductName] Setup is preparing the Installation Wizard which will guide "
-"you through the program setup process.  Please wait."
+"[ProductName] Setup is preparing the Installation Wizard which will guide you "
+"through the program setup process.  Please wait."
 msgstr ""
 
 #: Control.ulf#OOO_CONTROL_222.LngText.text
@@ -70772,8 +70687,8 @@ msgstr "{&MSSansBold8}Cineál Comhaid"
 
 #: Control.ulf#OOO_CONTROL_300.LngText.text
 msgid ""
-"A version of [DEFINEDPRODUCT] [DEFINEDVERSION] was found by the "
-"[ProductName] Installation Wizard. This version will be updated."
+"A version of [DEFINEDPRODUCT] [DEFINEDVERSION] was found by the [ProductName] "
+"Installation Wizard. This version will be updated."
 msgstr ""
 
 #: Control.ulf#OOO_CONTROL_301.LngText.text
@@ -70937,9 +70852,9 @@ msgstr "Ionsáigh an diosca le do thoil: [2]"
 
 #: Error.ulf#OOO_ERROR_28.LngText.text
 msgid ""
-"The installer has insufficient privileges to access this directory: [2].  "
-"The installation cannot continue.  Log on as an administrator or contact "
-"your system administrator."
+"The installer has insufficient privileges to access this directory: [2].  The "
+"installation cannot continue.  Log on as an administrator or contact your "
+"system administrator."
 msgstr ""
 
 #: Error.ulf#OOO_ERROR_29.LngText.text
@@ -70961,8 +70876,8 @@ msgstr ""
 
 #: Error.ulf#OOO_ERROR_32.LngText.text
 msgid ""
-"There is not enough disk space to install the file [2].  Free some disk "
-"space and click Retry, or click Cancel to exit."
+"There is not enough disk space to install the file [2].  Free some disk space "
+"and click Retry, or click Cancel to exit."
 msgstr ""
 
 #: Error.ulf#OOO_ERROR_33.LngText.text
@@ -71023,8 +70938,7 @@ msgstr ""
 
 #: Error.ulf#OOO_ERROR_44.LngText.text
 msgid ""
-"A network error occurred while attempting to open the source file cabinet "
-"[2]."
+"A network error occurred while attempting to open the source file cabinet [2]."
 msgstr ""
 
 #: Error.ulf#OOO_ERROR_45.LngText.text
@@ -71071,9 +70985,9 @@ msgid ""
 "Could not create key [2]. {{ System error [3].}}  Verify that you have "
 "sufficient access to that key, or contact your support personnel."
 msgstr ""
-"Níorbh fhéidir eochair [2] a chruthú. {{ Earráid an chórais [3].}}  "
-"Deimhnigh go bhfuil cead agat an eochair sin a rochtain, nó ceistigh "
-"riarthóir do chórais."
+"Níorbh fhéidir eochair [2] a chruthú. {{ Earráid an chórais [3].}}  Deimhnigh "
+"go bhfuil cead agat an eochair sin a rochtain, nó ceistigh riarthóir do "
+"chórais."
 
 #: Error.ulf#OOO_ERROR_55.LngText.text
 msgid ""
@@ -71107,14 +71021,14 @@ msgid ""
 "Could not read value [2] from key [3]. {{ System error [4].}}  Verify that "
 "you have sufficient access to that key, or contact your support personnel."
 msgstr ""
-"Níorbh fhéidir luach [2] a léamh ó eochair [3]. {{ Earráid an chórais "
-"[4].}}  Deimhnigh go bhfuil cead agat an eochair sin a rochtain, nó ceistigh "
+"Níorbh fhéidir luach [2] a léamh ó eochair [3]. {{ Earráid an chórais [4].}}  "
+"Deimhnigh go bhfuil cead agat an eochair sin a rochtain, nó ceistigh "
 "riarthóir do chórais."
 
 #: Error.ulf#OOO_ERROR_59.LngText.text
 msgid ""
-"Could not write value [2] to key [3]. {{ System error [4].}}  Verify that "
-"you have sufficient access to that key, or contact your support personnel."
+"Could not write value [2] to key [3]. {{ System error [4].}}  Verify that you "
+"have sufficient access to that key, or contact your support personnel."
 msgstr ""
 
 #: Error.ulf#OOO_ERROR_60.LngText.text
@@ -71156,15 +71070,15 @@ msgstr ""
 
 #: Error.ulf#OOO_ERROR_66.LngText.text
 msgid ""
-"User [2] has previously initiated an installation for product [3].  That "
-"user will need to run that installation again before using that product.  "
-"Your current installation will now continue."
+"User [2] has previously initiated an installation for product [3].  That user "
+"will need to run that installation again before using that product.  Your "
+"current installation will now continue."
 msgstr ""
 
 #: Error.ulf#OOO_ERROR_67.LngText.text
 msgid ""
-"User [2] has previously initiated an installation for product [3].  That "
-"user will need to run that installation again before using that product."
+"User [2] has previously initiated an installation for product [3].  That user "
+"will need to run that installation again before using that product."
 msgstr ""
 
 #: Error.ulf#OOO_ERROR_68.LngText.text
@@ -71209,8 +71123,8 @@ msgstr ""
 
 #: Error.ulf#OOO_ERROR_75.LngText.text
 msgid ""
-"Could not find any previously installed compliant products on the machine "
-"for installing this product."
+"Could not find any previously installed compliant products on the machine for "
+"installing this product."
 msgstr ""
 
 #: Error.ulf#OOO_ERROR_76.LngText.text
@@ -71244,8 +71158,8 @@ msgstr ""
 
 #: Error.ulf#OOO_ERROR_81.LngText.text
 msgid ""
-"No valid source could be found for product [2].  The Windows Installer "
-"cannot continue."
+"No valid source could be found for product [2].  The Windows Installer cannot "
+"continue."
 msgstr ""
 
 #: Error.ulf#OOO_ERROR_82.LngText.text
@@ -71317,8 +71231,7 @@ msgid "You have insufficient privileges to read this folder."
 msgstr ""
 
 #: Error.ulf#OOO_ERROR_96.LngText.text
-msgid ""
-"A valid destination folder for the installation could not be determined."
+msgid "A valid destination folder for the installation could not be determined."
 msgstr ""
 
 #: Error.ulf#OOO_ERROR_97.LngText.text
@@ -71349,8 +71262,7 @@ msgid ""
 msgstr ""
 
 #: Error.ulf#OOO_ERROR_102.LngText.text
-msgid ""
-"Failed to cache package [2]. Error: [3]. Contact your support personnel."
+msgid "Failed to cache package [2]. Error: [3]. Contact your support personnel."
 msgstr ""
 
 #: Error.ulf#OOO_ERROR_103.LngText.text
@@ -71361,8 +71273,8 @@ msgstr ""
 
 #: Error.ulf#OOO_ERROR_104.LngText.text
 msgid ""
-"Could not unregister font [2]. Verify that you have sufficient permissions "
-"to remove fonts."
+"Could not unregister font [2]. Verify that you have sufficient permissions to "
+"remove fonts."
 msgstr ""
 
 #: Error.ulf#OOO_ERROR_105.LngText.text
@@ -71383,8 +71295,7 @@ msgstr ""
 
 #: Error.ulf#OOO_ERROR_107.LngText.text
 msgid ""
-"Could not register type library for file [2].  Contact your support "
-"personnel."
+"Could not register type library for file [2].  Contact your support personnel."
 msgstr ""
 
 #: Error.ulf#OOO_ERROR_108.LngText.text
@@ -71409,8 +71320,8 @@ msgstr ""
 
 #: Error.ulf#OOO_ERROR_111.LngText.text
 msgid ""
-"Error removing ODBC driver manager, ODBC error [2]: [3]. Contact your "
-"support personnel."
+"Error removing ODBC driver manager, ODBC error [2]: [3]. Contact your support "
+"personnel."
 msgstr ""
 
 #: Error.ulf#OOO_ERROR_112.LngText.text
@@ -71519,9 +71430,8 @@ msgstr ""
 
 #: Error.ulf#OOO_ERROR_129.LngText.text
 msgid ""
-"This setup requires Internet Information Server 4.0 or higher for "
-"configuring IIS Virtual Roots. Please make sure that you have IIS 4.0 or "
-"higher."
+"This setup requires Internet Information Server 4.0 or higher for configuring "
+"IIS Virtual Roots. Please make sure that you have IIS 4.0 or higher."
 msgstr ""
 
 #: Error.ulf#OOO_ERROR_130.LngText.text
@@ -71604,8 +71514,7 @@ msgstr "Suiteáil tacaíocht don Phortaingéilis i %PRODUCTNAME %PRODUCTVERSION"
 #: Langpack.ulf#OOO_LANGPACK_DESC_1046.LngText.text
 msgid "Installs Portuguese (Brazil) support in %PRODUCTNAME %PRODUCTVERSION"
 msgstr ""
-"Suiteáil tacaíocht don Phortaingéilis (Brasaíl) i %PRODUCTNAME %"
-"PRODUCTVERSION"
+"Suiteáil tacaíocht don Phortaingéilis (Brasaíl) i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_1049.LngText.text
 msgid "Installs Russian support in %PRODUCTNAME %PRODUCTVERSION"
@@ -71664,8 +71573,7 @@ msgstr "Suiteáil tacaíocht don Chóiréis i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_2052.LngText.text
 msgid "Installs Chinese (simplified) support in %PRODUCTNAME %PRODUCTVERSION"
-msgstr ""
-"Suiteáil tacaíocht don Sínis (simplithe) i %PRODUCTNAME %PRODUCTVERSION"
+msgstr "Suiteáil tacaíocht don Sínis (simplithe) i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_1028.LngText.text
 msgid "Installs Chinese (traditional) support in %PRODUCTNAME %PRODUCTVERSION"
@@ -71747,8 +71655,8 @@ msgstr ""
 
 #: LaunchCo.ulf#OOO_LAUNCH_1.LngText.text
 msgid ""
-"The Installation Wizard cannot be run properly because you are logged in as "
-"a user without sufficient administrator rights for this system."
+"The Installation Wizard cannot be run properly because you are logged in as a "
+"user without sufficient administrator rights for this system."
 msgstr ""
 
 #: RadioBut.ulf#OOO_RADIOBUTTON_1.LngText.text
@@ -71812,8 +71720,7 @@ msgid "This feature will be installed when required."
 msgstr ""
 
 #: UIText.ulf#OOO_UITEXT_7.LngText.text
-msgid ""
-"This feature, and all subfeatures, will be installed to run from the CD."
+msgid "This feature, and all subfeatures, will be installed to run from the CD."
 msgstr ""
 
 #: UIText.ulf#OOO_UITEXT_8.LngText.text
@@ -71918,8 +71825,8 @@ msgstr ""
 
 #: UIText.ulf#OOO_UITEXT_32.LngText.text
 msgid ""
-"This feature will be removed from your local hard drive but will be set to "
-"be installed when required."
+"This feature will be removed from your local hard drive but will be set to be "
+"installed when required."
 msgstr ""
 
 #: UIText.ulf#OOO_UITEXT_33.LngText.text
@@ -71951,8 +71858,8 @@ msgstr ""
 
 #: UIText.ulf#OOO_UITEXT_38.LngText.text
 msgid ""
-"This feature was run from the network but will be installed on the local "
-"hard drive."
+"This feature was run from the network but will be installed on the local hard "
+"drive."
 msgstr ""
 
 #: UIText.ulf#OOO_UITEXT_39.LngText.text
@@ -72114,7 +72021,7 @@ msgid "The format of the selected file is not supported."
 msgstr "Ní thacaítear le formáid an chomhaid roghnaithe."
 
 #: readme.xrm#ooo_readme.Welcome.A2.a.readmeitem.text
-msgid "Last updated $Date: 2005-09-02 18:55:24 $"
+msgid "Last updated $Date: 2005-09-07 17:55:57 $"
 msgstr ""
 
 #: readme.xrm#ooo_readme.Welcome.A3.a.readmeitem.text
@@ -72135,8 +72042,8 @@ msgstr "A Úsáideoir, a chara"
 
 #: readme.xrm#ooo_readme.Welcome..A6.d.readmeitem.text
 msgid ""
-"This file contains important information about this program. Please read "
-"this information very carefully before starting work."
+"This file contains important information about this program. Please read this "
+"information very carefully before starting work."
 msgstr ""
 
 #: readme.xrm#ooo_readme.Welcome..A7.a.readmeitem.text
@@ -72164,9 +72071,8 @@ msgstr ""
 #: readme.xrm#ooo_readme.Error.B2.ertert3434534.readmeitem.text
 msgid ""
 "The Error Report Tool starts automatically when a program crash occurs. If "
-"the program enters into an endless loop, so that it does not respond to "
-"mouse-clicks or keypresses, you can also start the Error Report Tool "
-"manually."
+"the program enters into an endless loop, so that it does not respond to mouse-"
+"clicks or keypresses, you can also start the Error Report Tool manually."
 msgstr ""
 
 #: readme.xrm#ooo_readme.Error.B2b.ertert3434534.readmeitem.text
@@ -72191,16 +72097,16 @@ msgstr ""
 
 #: readme.xrm#ooo_readme.Error.B4.sdf3sd2.readmeitem.text
 msgid ""
-"The following limitations are only valid for OpenOffice.org. Please read "
-"this information very carefully."
+"The following limitations are only valid for OpenOffice.org. Please read this "
+"information very carefully."
 msgstr ""
 
 #: readme.xrm#ooo_readme.Error.B5Win.sdf3sd24.readmeitem.text
 msgid ""
 "You need Microsoft Outlook Express or Microsoft Outlook installed and "
-"configured as your default (MAPI) e-mail client to send these error "
-"messages. Mozilla 1.0, 1.2, 1.3 and Netscape 6.x do not send the created "
-"error message correctly and will not display any error message."
+"configured as your default (MAPI) e-mail client to send these error messages. "
+"Mozilla 1.0, 1.2, 1.3 and Netscape 6.x do not send the created error message "
+"correctly and will not display any error message."
 msgstr ""
 
 #: readme.xrm#ooo_readme.Error.B5Unix.sdf3sd24.readmeitem.text
@@ -72238,16 +72144,16 @@ msgstr ""
 #: readme.xrm#ooo_readme.Error.B8.sdf3sd24.readmeitem.text
 msgid ""
 "The Error Report Tool uses your system's e-mail application to send the "
-"report data. You may optionally enter some descriptive text that will help "
-"us to identify the context of the program crash. Then click the Send button."
+"report data. You may optionally enter some descriptive text that will help us "
+"to identify the context of the program crash. Then click the Send button."
 msgstr ""
 
 #: readme.xrm#ooo_readme.Error.B8b.sdf3sd24.readmeitem.text
 msgid ""
-"You may choose to respond to questions that our developers may have about "
-"the reported error. Mark the check box if you will allow us to contact you "
-"by e-mail, should additional information be required. By default this box is "
-"not marked, so you will not get any e-mail from us. "
+"You may choose to respond to questions that our developers may have about the "
+"reported error. Mark the check box if you will allow us to contact you by e-"
+"mail, should additional information be required. By default this box is not "
+"marked, so you will not get any e-mail from us. "
 msgstr ""
 
 #: readme.xrm#ooo_readme.Error.B8c.sdf3sd24.readmeitem.text
@@ -72262,12 +72168,11 @@ msgstr ""
 
 #: readme.xrm#ooo_readme.Error.B9.sdf3sd24.readmeitem.text
 msgid ""
-"The error report consists of several files. The main file is an XML file "
-"with information about the error type, operating system name and version, "
-"memory usage, and the description that you entered. You can view the "
-"contents of this file in your e-mail client before you send the e-mail, and "
-"you can click the Show Report button on the main dialog of the Error Report "
-"Tool."
+"The error report consists of several files. The main file is an XML file with "
+"information about the error type, operating system name and version, memory "
+"usage, and the description that you entered. You can view the contents of "
+"this file in your e-mail client before you send the e-mail, and you can click "
+"the Show Report button on the main dialog of the Error Report Tool."
 msgstr ""
 
 #: readme.xrm#ooo_readme.Error.B9b.sdf3sd24.readmeitem.text
@@ -72288,8 +72193,7 @@ msgstr "Riachtanais Chórais:"
 
 #: readme.xrm#ooo_readme.Installation.WNT2.a.readmeitem.text
 msgid "Microsoft Windows 98, ME, NT (Service Pack 6 or higher), 2000 or XP"
-msgstr ""
-"Microsoft Windows 98, ME, NT (Service Pack 6 nó níos airde), 2000 nó XP"
+msgstr "Microsoft Windows 98, ME, NT (Service Pack 6 nó níos airde), 2000 nó XP"
 
 #: readme.xrm#ooo_readme.Installation.WNT2.utzu6.readmeitem.text
 #: readme.xrm#ooo_readme.Installation.Linuxi2.s2etfseg.readmeitem.text
@@ -72377,8 +72281,8 @@ msgstr ""
 msgid ""
 "Note for Windows 98 users only: If you choose to install Java during the "
 "OpenOffice.org installation program, the installer will ask you to reboot "
-"your system. You should either ignore this message or open the OpenOffice."
-"org installation program again after the reboot."
+"your system. You should either ignore this message or open the OpenOffice.org "
+"installation program again after the reboot."
 msgstr ""
 
 #: readme.xrm#ooo_readme.Installation.Grafik.abcdef.readmeitem.text
@@ -72409,8 +72313,7 @@ msgstr "córas Solaris 7: 106327-11, 106300-16 (64-giotán amháin)"
 #: readme.xrm#ooo_readme.Installation.Sols_Patch.xch3.readmeitem.text
 msgid "for Solaris 8: 108434-04, 108773-13, 108435-04 (only 64 bit), 109147-14"
 msgstr ""
-"córas Solaris 8: 108434-04, 108773-13, 108435-04 (64-giotán amháin), 109147-"
-"14"
+"córas Solaris 8: 108434-04, 108773-13, 108435-04 (64-giotán amháin), 109147-14"
 
 #: readme.xrm#ooo_readme.Installation.Soli_Patch.bg4.readmeitem.text
 msgid "for Solaris 7: 106328-08"
@@ -72451,35 +72354,34 @@ msgid ""
 msgstr ""
 
 #: readme.xrm#ooo_readme.Networkinstallation.a2.sddf3f.readmeitem.text
-msgid ""
-"Network Installation: Error When Calling the OpenOffice.org Quickstarter"
+msgid "Network Installation: Error When Calling the OpenOffice.org Quickstarter"
 msgstr ""
 
 #: readme.xrm#ooo_readme.Networkinstallation.s2.dew32f.readmeitem.text
 msgid ""
-"If, when starting the system, problems should occur in calling the "
-"OpenOffice.org Quickstarter (e.g. invalid link), this is probably due to the "
-"fact that the network drive on which the network installation is installed "
-"is not yet available."
+"If, when starting the system, problems should occur in calling the OpenOffice."
+"org Quickstarter (e.g. invalid link), this is probably due to the fact that "
+"the network drive on which the network installation is installed is not yet "
+"available."
 msgstr ""
 
 #: readme.xrm#ooo_readme.Networkinstallation.d2.df3df.readmeitem.text
 msgid ""
-"In most cases, this happens when the network drives are logged in via a "
-"login script, thereby establishing the connection for the network drives "
-"parallel to running the programs of the autostart group from which the "
-"Quickstarter is also started."
+"In most cases, this happens when the network drives are logged in via a login "
+"script, thereby establishing the connection for the network drives parallel "
+"to running the programs of the autostart group from which the Quickstarter is "
+"also started."
 msgstr ""
 
 #: readme.xrm#ooo_readme.Networkinstallation.d3.sd23f.readmeitem.text
 msgid ""
-"To avoid this problem, the network drive should be connected via the "
-"system's services. If this is not possible, the link used to call the "
-"Quickstarter can be removed from the autostart group of the system, or the "
-"Quickstarter can already be disabled when installing the workstation "
-"installation. If the system administrator already disabled the Quickstarter "
-"during installation of the network installation, then the Quickstarter "
-"cannot be selected by the user in a later workstation installation."
+"To avoid this problem, the network drive should be connected via the system's "
+"services. If this is not possible, the link used to call the Quickstarter can "
+"be removed from the autostart group of the system, or the Quickstarter can "
+"already be disabled when installing the workstation installation. If the "
+"system administrator already disabled the Quickstarter during installation of "
+"the network installation, then the Quickstarter cannot be selected by the "
+"user in a later workstation installation."
 msgstr ""
 
 #: readme.xrm#ooo_readme.CDE.dxy.asas.readmeitem.text
@@ -72547,8 +72449,8 @@ msgstr "SF |= 0x00004000"
 
 #: readme.xrm#ooo_readme.Scroll.F1e.naso2.readmeitem.text
 msgid ""
-"Note: The location of the configuration file might vary on different "
-"versions of Windows."
+"Note: The location of the configuration file might vary on different versions "
+"of Windows."
 msgstr ""
 
 #: readme.xrm#ooo_readme.ArabicFont.F2a.abdfe.readmeitem.text
@@ -72595,16 +72497,16 @@ msgstr ""
 #: readme.xrm#ooo_readme.UI_Font.abc1.w32e.readmeitem.text
 msgid ""
 "In OpenOffice.org you can change the font used for screen display and "
-"printing by replacing it with a different font installed on your system. "
-"This can be done using the font replacement function. Choose 'Tools - "
-"Options - OpenOffice.org - Fonts' to access the font replacement table."
+"printing by replacing it with a different font installed on your system. This "
+"can be done using the font replacement function. Choose 'Tools - Options - "
+"OpenOffice.org - Fonts' to access the font replacement table."
 msgstr ""
 
 #: readme.xrm#ooo_readme.UI_Font.abc2.asw3.readmeitem.text
 msgid ""
 "To change the font of the OpenOffice.org user interface, you have to replace "
-"the default font \"Andale Sans UI\" with another font and mark the \"always"
-"\" setting for this replacement."
+"the default font \"Andale Sans UI\" with another font and mark the \"always\" "
+"setting for this replacement."
 msgstr ""
 
 #: readme.xrm#ooo_readme.UI_Font.abc3.sdf3.readmeitem.text
@@ -72618,14 +72520,14 @@ msgstr "Aicearraí"
 
 #: readme.xrm#ooo_readme.Keyboard.abc12.w32e1.readmeitem.text
 msgid ""
-"Only shortcut keys (key combinations) not used by the operating system can "
-"be used in OpenOffice.org. If a key combination in OpenOffice.org does not "
-"work as described in the OpenOffice.org Help, check if that shortcut is "
-"already used by the operating system. To rectify such conflicts, you can "
-"change the keys assigned by your operating system. Alternatively, you can "
-"change almost any key assignment in OpenOffice.org. For more information on "
-"this topic, refer to the OpenOffice.org Help or the Help documentation of "
-"your operating system."
+"Only shortcut keys (key combinations) not used by the operating system can be "
+"used in OpenOffice.org. If a key combination in OpenOffice.org does not work "
+"as described in the OpenOffice.org Help, check if that shortcut is already "
+"used by the operating system. To rectify such conflicts, you can change the "
+"keys assigned by your operating system. Alternatively, you can change almost "
+"any key assignment in OpenOffice.org. For more information on this topic, "
+"refer to the OpenOffice.org Help or the Help documentation of your operating "
+"system."
 msgstr ""
 
 #: readme.xrm#ooo_readme.FileLocking.G1.gfh6w.readmeitem.text
@@ -72645,8 +72547,8 @@ msgid ""
 "Warning: The activated file locking feature can cause problems with Solaris "
 "2.5.1 and 2.7 used in conjunction with Linux NFS 2.0. If your system "
 "environment has these parameters, we strongly recommend that you avoid using "
-"the file locking feature. Otherwise, OpenOffice.org will hang when you try "
-"to open a file from a NFS mounted directory from a Linux computer."
+"the file locking feature. Otherwise, OpenOffice.org will hang when you try to "
+"open a file from a NFS mounted directory from a Linux computer."
 msgstr ""
 
 #: readme.xrm#ooo_readme.Mapi.G1a.gfh6w.readmeitem.text
@@ -72686,10 +72588,10 @@ msgstr ""
 
 #: readme.xrm#ooo_readme.GettingInvolved.A3.a.readmeitem.text
 msgid ""
-"As a user, you are already a valuable part of the suite's development "
-"process and we would like to encourage you to take an even more active role "
-"with a view to being a long-term contributor to the community. Please join "
-"and check out the user page at: "
+"As a user, you are already a valuable part of the suite's development process "
+"and we would like to encourage you to take an even more active role with a "
+"view to being a long-term contributor to the community. Please join and check "
+"out the user page at: "
 msgstr ""
 
 #: readme.xrm#ooo_readme.GettingInvolved.A3.b.readmeitem.text
@@ -72707,8 +72609,8 @@ msgid ""
 "encourage you to register, since the information enables the community to "
 "make an even better software suite and address user needs directly. Through "
 "its Privacy Policy, the OpenOffice.org Community takes every precaution to "
-"safeguard your personal data. If you missed the registration at "
-"installation, you can return and register at any time at "
+"safeguard your personal data. If you missed the registration at installation, "
+"you can return and register at any time at "
 msgstr ""
 
 #: readme.xrm#ooo_readme.Registration.A2.b.readmeitem.text
@@ -72735,11 +72637,11 @@ msgstr ""
 #: readme.xrm#ooo_readme.ReportBugsIssues.A2.a.readmeitem.text
 msgid ""
 "The OpenOffice.org Web site hosts IssueZilla, our mechanism for reporting, "
-"tracking and solving bugs and issues. We encourage all users to feel "
-"entitled and welcome to report issues that may arise on your particular "
-"platform. Energetic reporting of issues is one of the most important "
-"contributions that the user community can make to the ongoing development "
-"and improvement of the suite. "
+"tracking and solving bugs and issues. We encourage all users to feel entitled "
+"and welcome to report issues that may arise on your particular platform. "
+"Energetic reporting of issues is one of the most important contributions that "
+"the user community can make to the ongoing development and improvement of the "
+"suite. "
 msgstr ""
 
 #: readme.xrm#ooo_readme.Subscribe.A1.a.readmeitem.text
@@ -72763,8 +72665,7 @@ msgstr ""
 
 #: readme.xrm#ooo_readme.Subscribe.A3.b.readmeitem.text
 msgid ""
-"User support: users@openoffice.org *recommended to new users* (heavy "
-"traffic) "
+"User support: users@openoffice.org *recommended to new users* (heavy traffic) "
 msgstr ""
 
 #: readme.xrm#ooo_readme.Subscribe.A3.c.readmeitem.text
@@ -72775,8 +72676,8 @@ msgstr ""
 
 #: readme.xrm#ooo_readme.Subscribe.A3.d.readmeitem.text
 msgid ""
-"Marketing project: dev@marketing.openoffice.org *beyond development* "
-"(getting heavy) "
+"Marketing project: dev@marketing.openoffice.org *beyond development* (getting "
+"heavy) "
 msgstr ""
 
 #: readme.xrm#ooo_readme.Subscribe.A3.e.readmeitem.text
@@ -72806,10 +72707,10 @@ msgid ""
 " you will find projects ranging from Localization, Porting and Groupware to "
 "some real core coding projects. If you are not a developer, try the "
 "Documentation or the Marketing Project. The OpenOffice.org Marketing Project "
-"is applying both guerrilla and traditional commercial techniques to "
-"marketing open source software, and we are doing it across language and "
-"cultural barriers, so you can help just by spreading the word and telling a "
-"friend about this office suite."
+"is applying both guerrilla and traditional commercial techniques to marketing "
+"open source software, and we are doing it across language and cultural "
+"barriers, so you can help just by spreading the word and telling a friend "
+"about this office suite."
 msgstr ""
 
 #: readme.xrm#ooo_readme.JoinProjects.A4.a.readmeitem.text
@@ -72867,11 +72768,11 @@ msgstr ""
 msgid ""
 "The best way to start contributing is to subscribe to one or more of the "
 "mailing lists, lurk for a while, and gradually use the mail archives to "
-"familiarize yourself with many of the topics covered since the OpenOffice."
-"org source code was released back in October 2000. When you're comfortable, "
-"all you need to do is send an email self-introduction and jump right in. If "
-"you are familiar with Open Source Projects, check out our To-Dos list and "
-"see if there is anything you would like to help with at "
+"familiarize yourself with many of the topics covered since the OpenOffice.org "
+"source code was released back in October 2000. When you're comfortable, all "
+"you need to do is send an email self-introduction and jump right in. If you "
+"are familiar with Open Source Projects, check out our To-Dos list and see if "
+"there is anything you would like to help with at "
 msgstr ""
 
 #: readme.xrm#ooo_readme.WayToStart.A2.b.readmeitem.text
@@ -73123,8 +73024,8 @@ msgstr ""
 
 #: importwi.src#sSumSOTableTemplates.string.text
 msgid ""
-"All %PRODUCTNAME table templates contained in the following directory will "
-"be imported:"
+"All %PRODUCTNAME table templates contained in the following directory will be "
+"imported:"
 msgstr ""
 "Iompórtálfar gach teimpléad tábla %PRODUCTNAME as an chomhadlann a leanas:"
 
@@ -73293,8 +73194,8 @@ msgstr "<<~Siar"
 
 #: euro.src#STEP_ZERO___4.string.text
 msgid ""
-"Note: Currency amounts from external links and currency conversion factors "
-"in formulas cannot be converted."
+"Note: Currency amounts from external links and currency conversion factors in "
+"formulas cannot be converted."
 msgstr ""
 
 #: euro.src#STEP_ZERO___5.string.text
@@ -73448,14 +73349,14 @@ msgstr "Ní féidir an bhileog a dhíchosaint"
 
 #: euro.src#MESSAGES___13.string.text
 msgid ""
-"The AutoPilot cannot edit this document as cell formats cannot be modified "
-"in documents containing protected spreadsheets."
+"The AutoPilot cannot edit this document as cell formats cannot be modified in "
+"documents containing protected spreadsheets."
 msgstr ""
 
 #: euro.src#MESSAGES___14.string.text
 msgid ""
-"Please note that the Euro Converter will, otherwise, not be able to edit "
-"this document!"
+"Please note that the Euro Converter will, otherwise, not be able to edit this "
+"document!"
 msgstr ""
 
 #: euro.src#MESSAGES___15.string.text
@@ -73554,8 +73455,8 @@ msgstr "Is gan cosaint an bhileog i gcónaí"
 
 #: template.src#SAMPLES.string.text
 msgid ""
-"In order to use the full functionality of this sample, create a document "
-"that is based on this template."
+"In order to use the full functionality of this sample, create a document that "
+"is based on this template."
 msgstr ""
 
 #: template.src#SAMPLES___1.string.text
@@ -73568,8 +73469,8 @@ msgstr "Roghnú Téama"
 
 #: template.src#STYLES___1.string.text
 msgid ""
-"Error while saving the document to the clipboard! The following action "
-"cannot be undone."
+"Error while saving the document to the clipboard! The following action cannot "
+"be undone."
 msgstr ""
 
 #: template.src#STYLES___3.string.text
@@ -73744,8 +73645,8 @@ msgstr ""
 
 #: dbwizres.src#RID_COMMON_START___6.string.text
 msgid ""
-"The files required could not be found.<BR>Please start the %PRODUCTNAME "
-"Setup and choose 'Repair'."
+"The files required could not be found.<BR>Please start the %PRODUCTNAME Setup "
+"and choose 'Repair'."
 msgstr ""
 
 #: dbwizres.src#RID_COMMON_START___7.string.text
@@ -74516,8 +74417,8 @@ msgstr ""
 
 #: dbwizres.src#RID_DB_REPORT_WIZARD_START___74.string.text
 msgid ""
-"The sort criterium '<FIELDNAME>' was chosen twice. Each criterium can only "
-"be chosen once."
+"The sort criterium '<FIELDNAME>' was chosen twice. Each criterium can only be "
+"chosen once."
 msgstr ""
 
 #: dbwizres.src#RID_DB_REPORT_WIZARD_START___75.string.text
@@ -74692,14 +74593,13 @@ msgstr "Bain an réimse roghnaithe"
 
 #: dbwizres.src#RID_DB_TABLE_WIZARD_START___47.string.text
 msgid ""
-"The field cannot be inserted because this would exceed the maximum number of "
-"%COUNT possible fields in the database table"
+"The field cannot be inserted because this would exceed the maximum number of %"
+"COUNT possible fields in the database table"
 msgstr ""
 
 #: dbwizres.src#RID_DB_TABLE_WIZARD_START___48.string.text
 msgid "The name '%TABLENAME' already exists.\\nPlease enter another name."
-msgstr ""
-"Tá an t-ainm '%TABLENAME' ann cheana.\\nIontráil ainm eile le do thoil."
+msgstr "Tá an t-ainm '%TABLENAME' ann cheana.\\nIontráil ainm eile le do thoil."
 
 #: dbwizres.src#RID_DB_TABLE_WIZARD_START___49.string.text
 msgid "Catalog of the table"
@@ -75016,14 +74916,14 @@ msgstr ""
 
 #: dbwizres.src#RID_FAXWIZARDDIALOG_START___17.string.text
 msgid ""
-"This wizard helps you to create a fax template. The template can then be "
-"used to create a fax whenever needed."
+"This wizard helps you to create a fax template. The template can then be used "
+"to create a fax whenever needed."
 msgstr ""
 
 #: dbwizres.src#RID_FAXWIZARDDIALOG_START___23.string.text
 msgid ""
-"This wizard creates a fax template which enables you to create multiple "
-"faxes with the same layout and settings."
+"This wizard creates a fax template which enables you to create multiple faxes "
+"with the same layout and settings."
 msgstr ""
 
 #: dbwizres.src#RID_FAXWIZARDDIALOG_START___24.string.text
@@ -75120,12 +75020,12 @@ msgstr "Draoi Gréasáin"
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__2.string.text
 msgid ""
 "This Web Wizard is to aid you in publishing documents on the Internet.\\n"
-"\\nIt will convert the documents so that they can be viewed by a web "
-"browser. In addition, it will generate a Table of Contents page with links "
-"for easy access to the documents. The Web Wizard will also allow you to "
-"customize the design and layout of your web site.\\n\\nYou will be able to "
-"keep the documents you have published on the web up-to-date and add or "
-"remove documents at any time."
+"\\nIt will convert the documents so that they can be viewed by a web browser. "
+"In addition, it will generate a Table of Contents page with links for easy "
+"access to the documents. The Web Wizard will also allow you to customize the "
+"design and layout of your web site.\\n\\nYou will be able to keep the "
+"documents you have published on the web up-to-date and add or remove "
+"documents at any time."
 msgstr ""
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__5.string.text
@@ -75260,10 +75160,11 @@ msgstr "Saincheap an leagan amach roghnaithe"
 msgid ""
 "Include the following information for each document in the table of contents:"
 msgstr ""
+"Cuir an t-eolas seo a leanas san áireamh do gach doiciméad sa chlár ábhair:"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__62.string.text
 msgid "Optimize the layout for screen resolution:"
-msgstr ""
+msgstr "Optamaigh an leagan amach do thaifeach scáileáin:"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__64.string.text
 msgid "~640x480"
@@ -75279,7 +75180,7 @@ msgstr "~1024×768"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__70.string.text
 msgid "Generating Your Web Site"
-msgstr ""
+msgstr "Ag giniúint do Láithreáin Lín"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__71.string.text
 msgid "%START - %END/%TOTAL"
@@ -75302,24 +75203,32 @@ msgid ""
 "The ZIP target '%FILENAME' already exists. Do you want to overwrite the "
 "existing target? "
 msgstr ""
+"Is ann don sprioc ZIP '%FILENAME'. Ar mhaith leat forscríobh ar an sprioc atá "
+"ann?"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__76.string.text
 msgid ""
 "The FTP target directory '%FILENAME' is not empty. Some files might be "
 "overwritten. Do you want to continue?"
 msgstr ""
+"Níl an sprioc-chomhadlann FTP '%FILENAME' folamh. D'fhéadfaí forscríobh ar "
+"chomhaid ann. Ar mhaith leat leanacht ar aghaidh?"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__77.string.text
 msgid ""
 "The local target directory '%FILENAME' is not empty. Some files might be "
 "overwritten. Do you want to continue?"
 msgstr ""
+"Níl an sprioc-chomhadlann logánta '%FILENAME' folamh. D'fhéadfaí forscríobh "
+"ar chomhaid ann. Ar mhaith leat leanacht ar aghaidh?"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__78.string.text
 msgid ""
 "Settings already exist under the given name. Do you want to overwrite the "
 "existing settings? "
 msgstr ""
+"Is ann do réitithe faoin ainm sin cheana féin. Ar mhaith leat forscríobh ar "
+"na réitithe atá ann?"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__79.string.text
 msgid "Exporting documents..."
@@ -75331,11 +75240,11 @@ msgstr "Easpórtáil á hullmhú..."
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__81.string.text
 msgid "Copying layout files..."
-msgstr ""
+msgstr "Ag cóipeáil leagan amach na gcomhad"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__82.string.text
 msgid "Preparing table of contents generation..."
-msgstr ""
+msgstr "Ag réitiú giniúna an chláir ábhair..."
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__83.string.text
 msgid "Generating table of contents..."
@@ -75347,19 +75256,19 @@ msgstr "Á Thúsú..."
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__86.string.text
 msgid "Preparing to publish..."
-msgstr ""
+msgstr "Ag réitiú lena fhoilsiú..."
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__87.string.text
 msgid "Publishing to local directory..."
-msgstr ""
+msgstr "Á fhoilsiú go comhadlann logánta..."
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__88.string.text
 msgid "Publishing to FTP destination..."
-msgstr ""
+msgstr "Á fhoilsiú go sprioc FTP..."
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__89.string.text
 msgid "Publishing to a ZIP archive..."
-msgstr ""
+msgstr "Á fhoilsiú go cartlann ZIP..."
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START___90.string.text
 msgid "Finishing..."
@@ -75383,32 +75292,31 @@ msgstr "Roghnaigh íomhá chúlra: "
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START___100.string.text
 msgid "Icon sets"
-msgstr ""
+msgstr "Foirne Deilbhíní"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START___101.string.text
 msgid "Choose an icon set:"
-msgstr ""
+msgstr "Roghnaigh foireann deilbhíní"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__104.string.text
 msgid "Your web site was created successfully into: %FILENAME"
-msgstr ""
+msgstr "D'éirigh le cruthú do láithreáin lín i: %FILENAME"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__105.string.text
 msgid "One or more errors occurred when generating the web site."
-msgstr ""
+msgstr "Tharla botún amháin nó níos mó i rith ghiniúna an láithreáin lín"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__106.string.text
 msgid "An error occurred while generating the table of contents page(s). "
-msgstr ""
+msgstr "Tharla botún i rith ghiniúna leathanach/-aigh an chláir ábhair"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__107.string.text
 msgid "An error occurred while copying the layout files. "
-msgstr ""
+msgstr "Tharla botún i rith chóipeála na gcomhad don leagan amach."
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__108.string.text
-msgid ""
-"An error occurred while gathering document information for '%FILENAME'. "
-msgstr ""
+msgid "An error occurred while gathering document information for '%FILENAME'. "
+msgstr "Tharla botún i rith chruinnithe eolais an doiciméid do '%FILENAME'"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__109.string.text
 msgid "An error occurred while exporting the document '%FILENAME'."
@@ -75417,23 +75325,26 @@ msgstr "Tharla earráid agus cáipéis '%FILENAME' á heaspórtáil."
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__110.string.text
 msgid "An error occurred while creating a directory for exporting '%FILENAME'."
 msgstr ""
+"Tharla botún i rith chruthaithe chomhadlainne chun '%FILENAME' a easpórtáil"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__111.string.text
 msgid "A security error acoccurred while exporting the document '%FILENAME'."
 msgstr "Tharla earráid slándála agus cáipéis '%FILENAME' á heaspórtáil."
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__112.string.text
-msgid ""
-"An input/output error occurred while exporting the document '%FILENAME'."
+msgid "An input/output error occurred while exporting the document '%FILENAME'."
 msgstr "Tharla earráid I/A agus cáipéis '%FILENAME' á heaspórtáil."
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__113.string.text
 msgid "An error occurred while copying media files to the temporary directory."
 msgstr ""
+"Tharla botún i rith cóipeála na comhad meán go dtí an chomhadlann sealadach "
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__114.string.text
 msgid "The web site could not be copied to the following destination: %URL"
 msgstr ""
+"Níorbh fhéidir an láithreán lín a chóipeáil go dtí an sprioc seo a leanas: %"
+"URL "
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__115.string.text
 msgid "An unexpected error occurred: %ERROR"
@@ -75449,7 +75360,7 @@ msgstr "Is fillteán é '%FILENAME'."
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__118.string.text
 msgid "Loading Web Wizard Settings..."
-msgstr ""
+msgstr "Ag luchtú Réitithe Draoi an Ghréasáin"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__119.string.text
 msgid "An unexpected error occurred."
@@ -75473,11 +75384,11 @@ msgstr "Cáipéisí "
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__124.string.text
 msgid "Main layout"
-msgstr ""
+msgstr "Príomhleagan amach"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__125.string.text
 msgid "Layout details"
-msgstr ""
+msgstr "Sonraí an leagain amach"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__127.string.text
 msgid "Web site information"
@@ -75488,7 +75399,8 @@ msgid ""
 "The selected settings will be deleted.\\n\\nDo you really want to delete "
 "these settings? "
 msgstr ""
-"Scriosfar na socraithe roghnaithe.\\n\\nAr mhaith leat na socraithe seo a scriosadh i ndáiríre? "
+"Scriosfar na socraithe roghnaithe.\\n\\nAr mhaith leat na socraithe seo a "
+"scriosadh i ndáiríre? "
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__131.string.text
 msgid "%NUMBER pages"
@@ -75558,20 +75470,23 @@ msgid ""
 "The Zip file '%FILENAME' cannot be created: a directory of the same name "
 "already exists."
 msgstr ""
-"Ní féidir an Zipchomhad '%FILENAME' a chruthú: is ann do chomhad den ainm céanna cheana féin."
+"Ní féidir an Zipchomhad '%FILENAME' a chruthú: is ann do chomhad den ainm "
+"céanna cheana féin."
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__149.string.text
 msgid ""
-"The local directory '%FILENAME' cannot be created. \\nPlease check your "
-"write-access."
+"The local directory '%FILENAME' cannot be created. \\nPlease check your write-"
+"access."
 msgstr ""
-"Ní féidir an chomhadlann logánta '%FILENAME' a chruthú. \\nCinntigh go bhfuil cead agat scríobh anseo."
+"Ní féidir an chomhadlann logánta '%FILENAME' a chruthú. \\nCinntigh go bhfuil "
+"cead agat scríobh anseo."
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__150.string.text
 msgid ""
 "The local directory '%FILENAME' does not exist. \\nCreate the directory now?"
 msgstr ""
-"Níl ann don chomhadlann logánta '%FILENAME'. \\nCruthaigh an chomhadlann anois?"
+"Níl ann don chomhadlann logánta '%FILENAME'. \\nCruthaigh an chomhadlann "
+"anois?"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__151.string.text
 msgid "Size: %NUMBERKB"
@@ -75686,7 +75601,8 @@ msgid ""
 "This wizard helps you to create an agenda template. The template can then be "
 "used to create an agenda whenever needed."
 msgstr ""
-"Tugann an draoi seo cúnamh duit teimpléad chláir oibre a chruthú. Féadfar an teimpléad a úsáid ansin chun clár oibre a chruthú de réir riachtanais."
+"Tugann an draoi seo cúnamh duit teimpléad chláir oibre a chruthú. Féadfar an "
+"teimpléad a úsáid ansin chun clár oibre a chruthú de réir riachtanais."
 
 #: dbwizres.src#RID_AGENDAWIZARDDIALOG_START__14.string.text
 msgid "Time:"
@@ -75702,7 +75618,7 @@ msgstr ""
 
 #: dbwizres.src#RID_AGENDAWIZARDDIALOG_START__19.string.text
 msgid "Create an ~agenda from this template"
-msgstr "Cruthaigh ~clár gnó ón teimpléad seo"
+msgstr "Cruthaigh ~clár oibre ón teimpléad seo"
 
 #: dbwizres.src#RID_AGENDAWIZARDDIALOG_START__20.string.text
 msgid ""
@@ -75714,7 +75630,7 @@ msgstr ""
 
 #: dbwizres.src#RID_AGENDAWIZARDDIALOG_START__21.string.text
 msgid "Agenda item"
-msgstr "Mír ar chlár gnó"
+msgstr "Mír ar chlár oibre"
 
 #: dbwizres.src#RID_AGENDAWIZARDDIALOG_START__22.string.text
 msgid "Responsible"
@@ -75762,9 +75678,8 @@ msgid ""
 "placeholder with the appropriate names."
 msgstr ""
 "Cuirfidh teimpléad an chláir oibre seo ionadchoinneálaithe isteach "
-"d'ainmnithe na ndaoine roghnaithe. Agus tú ag cruthú clár oibre ón "
-"teimpléad, beidh tú in ann na hionadchoinneálaithe a athrú go dtí na "
-"hainmneacha cuí."
+"d'ainmnithe na ndaoine roghnaithe. Agus tú ag cruthú clár oibre ón teimpléad, "
+"beidh tú in ann na hionadchoinneálaithe a athrú go dtí na hainmneacha cuí."
 
 #: dbwizres.src#RID_AGENDAWIZARDDIALOG_START__32.string.text
 #: dbwizres.src#RID_AGENDAWIZARDDIALOG_START__57.string.text
@@ -75829,7 +75744,7 @@ msgstr "Ceannteidil le cur san áireamh"
 
 #: dbwizres.src#RID_AGENDAWIZARDDIALOG_START__54.string.text
 msgid "Agenda items"
-msgstr "Míreanna ar chlár gnó"
+msgstr "Míreanna ar chlár oibre"
 
 #: dbwizres.src#RID_AGENDAWIZARDDIALOG_START__56.string.text
 msgid "An unexpected error occurred while opening the agenda template."
