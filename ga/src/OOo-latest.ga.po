@@ -22468,10 +22468,11 @@ msgstr "Cuir Eilimint Leis"
 msgid "Insert data as:"
 msgstr "Ionsáigh sonraí mar:"
 
+# main window
 #: dbinsdlg.src#DLG_AP_INSERT_DB_SEL.RB_AS_TABLE.radiobutton.text
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Popups..uno_TableMenu.Label.value.text
 msgid "T~able"
-msgstr "Tábl~a"
+msgstr "~Tábla"
 
 #: dbinsdlg.src#DLG_AP_INSERT_DB_SEL.RB_AS_FIELD.radiobutton.text
 #: optload.src#TP_OPTLOAD_PAGE.CB_AUTO_UPDATE_FIELDS.checkbox.text
@@ -36370,7 +36371,7 @@ msgstr "Taifead :"
 #: dbwizres.src#RID_COMMON_START___15.string.text
 #: dbwizres.src#RID_DB_COMMON_START___20.string.text
 msgid "~Help"
-msgstr "~Cabhair"
+msgstr "Cab~hair"
 
 #: fmsearch.src#RID_SVXDLG_SEARCHFORM.modaldialog.text
 msgid "Record Search"
@@ -54537,7 +54538,7 @@ msgstr "Lá"
 
 #: xforms.src#RID_STR_XFORMS_CANT_EVALUATE.string.text
 msgid "Error during evaluation"
-msgstr "Earráid luachála"
+msgstr "Earráid le linn luachála"
 
 #: xforms.src#RID_STR_XFORMS_PATTERN_DOESNT_MATCH.string.text
 msgid "The string '$1' does not match the required regular expression '$2'."
@@ -72195,7 +72196,7 @@ msgid "The format of the selected file is not supported."
 msgstr "Ní thacaítear le formáid an chomhaid roghnaithe."
 
 #: readme.xrm#ooo_readme.Welcome.A2.a.readmeitem.text
-msgid "Last updated $Date: 2005-09-07 19:13:44 $"
+msgid "Last updated $Date: 2005-09-10 20:31:46 $"
 msgstr ""
 
 #: readme.xrm#ooo_readme.Welcome.A3.a.readmeitem.text
