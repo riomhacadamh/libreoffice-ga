@@ -1,5 +1,5 @@
 # OOo pot file for Irish.
-#   CURRENT VERSION = SRC680_m129
+#   CURRENT VERSION = SRC680_m130
 # First version produced Sept. 2004 by Kevin Scannell using the oo2po
 # scripts by David Fraser et al
 msgid ""
@@ -28113,7 +28113,7 @@ msgid "Authentication request"
 msgstr "Iarratas fíordheimhnithe"
 
 #: readme.xrm#ooo_readme.Welcome.A2.a.readmeitem.text
-msgid "Last updated $Date: 2005-09-15 22:26:11 $"
+msgid "Last updated $Date: 2005-09-17 17:11:11 $"
 msgstr ""
 
 #: readme.xrm#ooo_readme.Welcome.A3.a.readmeitem.text
