@@ -28113,7 +28113,7 @@ msgid "Authentication request"
 msgstr "Iarratas fíordheimhnithe"
 
 #: readme.xrm#ooo_readme.Welcome.A2.a.readmeitem.text
-msgid "Last updated $Date: 2005-09-17 17:11:11 $"
+msgid "Last updated $Date: 2005-10-17 18:30:12 $"
 msgstr ""
 
 #: readme.xrm#ooo_readme.Welcome.A3.a.readmeitem.text
@@ -48998,7 +48998,7 @@ msgid ""
 "$(KEYWORDS)<dt><b>Description:</b><dd>$(TEXT)</dl></font></body></html>"
 msgstr ""
 "<html><body BGCOLOR=\"#c0c0c0\"><font FACE=\"Arial\"><dl><dt><b>Teideal:</"
-"b><dd>$(TITEL)<dt><b>Ábhar:</b><dd>$(THEME)<dt><b>Eochairfhocail:</b><dd>"
+"b><dd>$(TITEL)<dt><b>Ábhar:</b><dd>$(THEME)<dt><b>Lorgfhocal:</b><dd>"
 "$(KEYWORDS)<dt><b>Cur Síos:</b><dd>$(TEXT)</dl></font></body></html>"
 
 #: view.src#STR_PREVIEW_NODOCINFO.string.text
@@ -62212,7 +62212,7 @@ msgstr "Aibhsiú nótaí"
 
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_HTMLKEYWORD.fixedtext.text
 msgid "Keyword highlighting"
-msgstr "Aibhsiú na n-eochairfhocal"
+msgstr "Aibhsiú na lorgfhocal"
 
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_CALCPAGEBREAK.fixedtext.text
 msgid "Page breaks"
