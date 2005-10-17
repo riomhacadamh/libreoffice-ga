@@ -1,7 +1,7 @@
 #    Instructions upon new OOo release
 # (1) Update the VERSION variable below to the new milestone number.
 # (2)  Then
-# $ rm -Rf pot *.sdf
+# $ make distclean
 # $ wget ftp://ftp.linux.cz/pub/localization/OpenOffice.org/devel/POT/OpenOffice.org-SRC680_m79-POT.tar.gz
 # $ gunzip OpenOffice.org-SRC680_m79-POT.tar.gz
 # $ tar xvf OpenOffice.org-SRC680_m79-POT.tar
@@ -12,8 +12,9 @@
 # $ tunnel  (in another window)
 # $ cvs commit OOo-latest.ga.po
 #    and give current translation counts, version number in log entry
+# $ make   (rebuilds GSI and copies it to obair for Pavel's system)
 
-VERSION=SRC680_m126
+VERSION=SRC680_m130
 
 all : OOo-$(VERSION)-ga-GSI.sdf
 	bzip2 OOo-$(VERSION)-ga-GSI.sdf
@@ -39,16 +40,14 @@ OOo-$(VERSION)-ga-GSI.sdf : OOo-latest.po
 # Pofake OOo-$(VERSION).ga.po | msgcat - > OOotemp.po
 OOo-latest.po : OOo-latest.ga.po
 	rm -f $@
-	cp -f OOo-latest.ga.po OOotemp.po
-	iconv -f iso-8859-1 -t utf-8 OOotemp.po > $@
+	po2utf8 OOo-latest.ga.po > $@
 	chmod 400 $@
-	rm -f OOotemp.po
 
 # once per version bump -- see instructions at the top
 # relies on fact that utf-8/non-latin1 msgids are all in helpcontent
 #  only latin1/non-ascii are things like "Bézier"
 OOo.po-update : FORCE
-	find pot -name '*.pot' | egrep -v '^pot/helpcontent2' | xargs msgcat -t utf-8 | iconv -f utf8 -t iso-8859-1 | sed 's/plain; charset=UTF-8/plain; charset=ISO-8859-1/' > bigole.pot
+	find pot -name '*.pot' | egrep -v '^pot/helpcontent2' | sort | xargs msgcat -t utf-8 | iconv -f utf8 -t iso-8859-1 | sed 's/plain; charset=UTF-8/plain; charset=ISO-8859-1/' > bigole.pot
 	msgmerge -C OOo-latest.ga.po -o OOo-$(VERSION).ga.po /dev/null bigole.pot
 	rm -f bigole.pot
 	echo 'Previous:'
@@ -59,6 +58,11 @@ OOo.po-update : FORCE
 clean :
 	rm -f OOo-*-ga-GSI.sdf OOo-latest.po messages.mo
 	rm -fR po
+
+distclean :
+	$(MAKE) clean
+	rm -Rf pot
+	rm -f en-US.sdf
 
 spell :
 	egrep 'msgstr' OOo-latest.ga.po | tr -d '~' | sed 's/^msgstr "\(.*\)"/\1/' | sed 's/$$/./' | gram-ga.pl --litriu --aschod=iso-8859-1 | sort | uniq -c | sort -r -n
