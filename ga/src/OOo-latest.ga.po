@@ -1,5 +1,5 @@
 # OOo pot file for Irish.
-#   CURRENT VERSION = SRC680_m130
+#   CURRENT VERSION = SRC680_m136
 # First version produced Sept. 2004 by Kevin Scannell using the oo2po
 # scripts by David Fraser et al
 msgid ""
@@ -8214,8 +8214,8 @@ msgid "(not sorted);ascending;descending"
 msgstr "(gan sórtáil);ardaitheach;íslitheach"
 
 #: query.src#STR_QUERY_FUNCTIONS.string.text
-msgid "(no function);Average;Count;Maximum;Minimum;Sum;Group"
-msgstr "(gan feidhm);Meán;Líon;Uasmhéid;Íosmhéid;Suim;Grúpa"
+msgid "(no function);Group"
+msgstr "(gan feidhm);Grúpa"
 
 #: query.src#STR_QUERY_NOTABLE.string.text
 msgid "(no table)"
@@ -9205,12 +9205,10 @@ msgid ""
 "registration of %PRODUCTNAME.\\n\\nImportant information is contained in the "
 "readme files which are located in the %PRODUCTNAME product directory. Please "
 "read these files carefully. You can also find detailed information on the "
-"Sun website \\n\\nhttp://www.sun.com/&PRODUCTNAME.\\n\\nSupport and Training:"
-"\\n\\nGet FREE software support valid for 60 days from date of purchase and "
-"FREE access to a web-based %PRODUCTNAME course available through the Sun(tm) "
-"Web Learning Center (valid for 90 days from the date of registration). To "
-"take advantage of this offer, visit the website below.\\n\\nhttp://www.sun."
-"com/star/service\\n\\nClick 'Next' to continue."
+"Sun website \\n\\nhttp://www.sun.com/&PRODUCTNAME.\\n\\nSupport:\\n\\nGet "
+"FREE software support valid for 60 days from date of purchase. To take "
+"advantage of this offer, visit the website below.\\n\\nhttp://www.sun.com/"
+"star/service\\n\\nClick 'Next' to continue."
 msgstr ""
 
 #: wizard.src#STR_WELCOME_EVAL.string.text
@@ -9438,13 +9436,11 @@ msgstr "Sínis (traidisiúnta)"
 #: setup.ulf#_LANGUAGE_CS_.LngText.text
 #: Langpack.ulf#OOO_LANGPACK_NAME_1029.LngText.text
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_CZECH.pairedlist.text
-#: dbwizres.src#RID_LETTERWIZARDLANGUAGE_START___12.string.text
 msgid "Czech"
 msgstr "Seicis"
 
 #: setup.ulf#_LANGUAGE_DA_.LngText.text
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_DANISH.pairedlist.text
-#: dbwizres.src#RID_LETTERWIZARDLANGUAGE_START___14.string.text
 msgid "Danish"
 msgstr "Danmhairgis"
 
@@ -9488,7 +9484,6 @@ msgstr "Eabhrais"
 #: setup.ulf#_LANGUAGE_HU_.LngText.text
 #: Langpack.ulf#OOO_LANGPACK_NAME_1038.LngText.text
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_HUNGARIAN.pairedlist.text
-#: dbwizres.src#RID_LETTERWIZARDLANGUAGE_START___15.string.text
 msgid "Hungarian"
 msgstr "Ungáiris"
 
@@ -9500,13 +9495,11 @@ msgstr "Iodáilis (An Iodáil)"
 #: setup.ulf#_LANGUAGE_JA_.LngText.text
 #: Langpack.ulf#OOO_LANGPACK_NAME_1041.LngText.text
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_JAPANESE.pairedlist.text
-#: dbwizres.src#RID_LETTERWIZARDLANGUAGE_START___8.string.text
 msgid "Japanese"
 msgstr "Seapáinis"
 
 #: setup.ulf#_LANGUAGE_KO_.LngText.text
 #: Langpack.ulf#OOO_LANGPACK_NAME_1042.LngText.text
-#: dbwizres.src#RID_LETTERWIZARDLANGUAGE_START___9.string.text
 msgid "Korean"
 msgstr "Cóiréis"
 
@@ -9566,7 +9559,6 @@ msgid "Estonian"
 msgstr "Eastóinis"
 
 #: setup.ulf#_LANGUAGE_ZH_CN_.LngText.text
-#: dbwizres.src#RID_LETTERWIZARDLANGUAGE_START___10.string.text
 msgid "Chinese (Simplified)"
 msgstr "Sínis (Simplithe)"
 
@@ -9620,6 +9612,10 @@ msgstr "Roghnaigh cineál do leabhar seachtrach seoltaí:"
 #: abspilot.src#RID_PAGE_SELECTABTYPE.RB_MORK.radiobutton.text
 msgid "Mozilla / Netscape"
 msgstr "Mozilla / Netscape"
+
+#: abspilot.src#RID_PAGE_SELECTABTYPE.RB_THUNDERBIRD.radiobutton.text
+msgid "Thunderbird"
+msgstr "Thunderbird"
 
 #: abspilot.src#RID_PAGE_SELECTABTYPE.RB_EVOLUTION.radiobutton.text
 msgid "Evolution"
@@ -10385,9 +10381,7 @@ msgid ""
 "which are located in the %PRODUCTNAME product directory. Please read these "
 "files carefully. You can also find detailed information at the Sun website "
 "\\n\\nhttp://www.sun.com/staroffice.\\n\\nSupport and Training:\\n\\nGet "
-"FREE software support valid for 60 days from date of purchase and FREE "
-"access to a web-based %PRODUCTNAME course available through the Sun(tm) Web "
-"Learning Center (valid for 90 days from the date of registration). To take "
+"FREE software support valid for 60 days from date of purchase. To take "
 "advantage of this offer, visit the website below.\\n\\nhttp://www.sun.com/"
 "star/service\\n\\nWe hope you enjoy working with %PRODUCTNAME."
 msgstr ""
@@ -14402,13 +14396,11 @@ msgstr "Béarla"
 
 #: Control.ulf#OOO_CONTROL_LANG_1031.LngText.text
 #: Langpack.ulf#OOO_LANGPACK_NAME_1031.LngText.text
-#: dbwizres.src#RID_LETTERWIZARDLANGUAGE_START___2.string.text
 msgid "German"
 msgstr "Gearmáinis"
 
 #: Control.ulf#OOO_CONTROL_LANG_1034.LngText.text
 #: Langpack.ulf#OOO_LANGPACK_NAME_1034.LngText.text
-#: dbwizres.src#RID_LETTERWIZARDLANGUAGE_START___4.string.text
 msgid "Spanish"
 msgstr "Spáinnis"
 
@@ -15182,7 +15174,6 @@ msgid "Installs Spanish support in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Suiteáil tacaíocht don Spáinnis i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_NAME_2070.LngText.text
-#: dbwizres.src#RID_LETTERWIZARDLANGUAGE_START___6.string.text
 msgid "Portuguese"
 msgstr "Portaingéilis"
 
@@ -15213,7 +15204,6 @@ msgid "Installs Dutch support in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Suiteáil tacaíocht don Ollainnis i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_NAME_1036.LngText.text
-#: dbwizres.src#RID_LETTERWIZARDLANGUAGE_START___3.string.text
 msgid "French"
 msgstr "Fraincis"
 
@@ -15222,7 +15212,6 @@ msgid "Installs French support in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Suiteáil tacaíocht don Fhraincis i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_NAME_1040.LngText.text
-#: dbwizres.src#RID_LETTERWIZARDLANGUAGE_START___5.string.text
 msgid "Italian"
 msgstr "Iodáilis"
 
@@ -15231,7 +15220,6 @@ msgid "Installs Italian support in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Suiteáil tacaíocht don Iodáilis i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_NAME_1053.LngText.text
-#: dbwizres.src#RID_LETTERWIZARDLANGUAGE_START___7.string.text
 msgid "Swedish"
 msgstr "Sualainnis"
 
@@ -15271,7 +15259,6 @@ msgid "Installs Czech support in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Suiteáil tacaíocht don tSeicis i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_NAME_1051.LngText.text
-#: dbwizres.src#RID_LETTERWIZARDLANGUAGE_START___17.string.text
 msgid "Slovak"
 msgstr "Slóvaicis"
 
@@ -15281,7 +15268,6 @@ msgstr "Suiteáil tacaíocht don Slóvaicis i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_NAME_1050.LngText.text
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_CROATIAN.pairedlist.text
-#: dbwizres.src#RID_LETTERWIZARDLANGUAGE_START___16.string.text
 msgid "Croatian"
 msgstr "Cróitis"
 
@@ -15308,7 +15294,6 @@ msgstr "Suiteáil tacaíocht don Ungáiris i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_NAME_1026.LngText.text
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_BULGARIAN.pairedlist.text
-#: dbwizres.src#RID_LETTERWIZARDLANGUAGE_START___13.string.text
 msgid "Bulgarian"
 msgstr "Bulgáiris"
 
@@ -16179,6 +16164,68 @@ msgstr "Foirmle %PRODUCTNAME %PRODUCTVERSION"
 #: Embedding.xcu#..Embedding.ObjectNames.Writer.ObjectUIName.value.text
 msgid "%PRODUCTNAME %PRODUCTVERSION Text"
 msgstr "Téacs %PRODUCTNAME %PRODUCTVERSION"
+
+#: FormWizard.xcu#..FormWizard.FormWizard.Styles.style1.Name.value.text
+#: WebWizard.xcu#..WebWizard.WebWizard.Styles.style1.Name.value.text
+msgid "Beige"
+msgstr "Béasa"
+
+#: FormWizard.xcu#..FormWizard.FormWizard.Styles.style2.Name.value.text
+#: WebWizard.xcu#..WebWizard.WebWizard.Styles.style3.Name.value.text
+msgid "Bright Blue"
+msgstr "Gealghorm"
+
+#: FormWizard.xcu#..FormWizard.FormWizard.Styles.style3.Name.value.text
+#: WebWizard.xcu#..WebWizard.WebWizard.Styles.style9.Name.value.text
+#: strings.src#STR_LIGHTGRAY.string.text
+#: svxitems.src#RID_SVXITEMS_COLOR_LIGHTGRAY.string.text
+msgid "Light Gray"
+msgstr "Fionnliath"
+
+#: FormWizard.xcu#..FormWizard.FormWizard.Styles.style4.Name.value.text
+msgid "Dark"
+msgstr "Dorcha"
+
+#: FormWizard.xcu#..FormWizard.FormWizard.Styles.style5.Name.value.text
+#: WebWizard.xcu#..WebWizard.WebWizard.Styles.style13.Name.value.text
+#: sdstring.src#RID_SVXSTR_ORANGE.string.text
+#: sdstring.src#RID_SVXSTR_BMP18.string.text
+msgid "Orange"
+msgstr "Oráiste"
+
+#: FormWizard.xcu#..FormWizard.FormWizard.Styles.style6.Name.value.text
+#: WebWizard.xcu#..WebWizard.WebWizard.Styles.style14.Name.value.text
+msgid "Ice Blue"
+msgstr ""
+
+#: FormWizard.xcu#..FormWizard.FormWizard.Styles.style7.Name.value.text
+msgid "Grey"
+msgstr "Liath"
+
+#: FormWizard.xcu#..FormWizard.FormWizard.Styles.style8.Name.value.text
+#: WebWizard.xcu#..WebWizard.WebWizard.Styles.style16.Name.value.text
+#: sdstring.src#RID_SVXSTR_BMP2.string.text
+msgid "Water"
+msgstr "Uisce"
+
+#: FormWizard.xcu#..FormWizard.FormWizard.Styles.style9.Name.value.text
+#: WebWizard.xcu#..WebWizard.WebWizard.Styles.style17.Name.value.text
+#: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_GrafRed.Label.value.text
+#: strings.src#STR_RED.string.text strings.src#STR_UNDO_GRAFRED.string.text
+#: sdstring.src#RID_SVXSTR_RED.string.text
+#: sdstring.src#RID_SVXSTR_TBLAFMT_RED.string.text
+#: svxitems.src#RID_SVXITEMS_COLOR_RED.string.text
+#: svdstr.src#STR_ItemNam_GRAFRED.string.text
+#: svdstr.src#SIP_SA_GRAFRED.string.text
+#: grafctrl.src#RID_SVXSTR_UNDO_GRAFRED.string.text
+msgid "Red"
+msgstr "Dearg"
+
+#: FormWizard.xcu#..FormWizard.FormWizard.Styles.style10.Name.value.text
+#: WebWizard.xcu#..WebWizard.WebWizard.Styles.style20.Name.value.text
+#: sdstring.src#RID_SVXSTR_VIOLET.string.text
+msgid "Violet"
+msgstr "Corcairghorm"
 
 #: TableWizard.xcu#..TableWizard.TableWizard.business.Name.value.text
 #: chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.8.stringlist.text
@@ -18916,19 +18963,9 @@ msgstr "Frámadán HTML, barr"
 msgid "HTML frameset, bottom"
 msgstr "Frámadán HTML, bun"
 
-#: WebWizard.xcu#..WebWizard.WebWizard.Styles.style1.Name.value.text
-#: FormWizard.xcu#..FormWizard.FormWizard.Styles.style1.Name.value.text
-msgid "Beige"
-msgstr "Béasa"
-
 #: WebWizard.xcu#..WebWizard.WebWizard.Styles.style2.Name.value.text
 msgid "Bright"
 msgstr "Geal"
-
-#: WebWizard.xcu#..WebWizard.WebWizard.Styles.style3.Name.value.text
-#: FormWizard.xcu#..FormWizard.FormWizard.Styles.style2.Name.value.text
-msgid "Bright Blue"
-msgstr "Gealghorm"
 
 #: WebWizard.xcu#..WebWizard.WebWizard.Styles.style4.Name.value.text
 #: strings.src#STR_GRAY.string.text sdstring.src#RID_SVXSTR_GREY.string.text
@@ -18966,13 +19003,6 @@ msgstr "Gorm & Dubh"
 msgid "Dark Red"
 msgstr "Dúrua"
 
-#: WebWizard.xcu#..WebWizard.WebWizard.Styles.style9.Name.value.text
-#: FormWizard.xcu#..FormWizard.FormWizard.Styles.style3.Name.value.text
-#: strings.src#STR_LIGHTGRAY.string.text
-#: svxitems.src#RID_SVXITEMS_COLOR_LIGHTGRAY.string.text
-msgid "Light Gray"
-msgstr "Fionnliath"
-
 #: WebWizard.xcu#..WebWizard.WebWizard.Styles.style10.Name.value.text
 msgid "Forest"
 msgstr "Foraois"
@@ -18985,40 +19015,9 @@ msgstr "Oráiste & Gorm"
 msgid "Marine"
 msgstr ""
 
-#: WebWizard.xcu#..WebWizard.WebWizard.Styles.style13.Name.value.text
-#: FormWizard.xcu#..FormWizard.FormWizard.Styles.style5.Name.value.text
-#: sdstring.src#RID_SVXSTR_ORANGE.string.text
-#: sdstring.src#RID_SVXSTR_BMP18.string.text
-msgid "Orange"
-msgstr "Oráiste"
-
-#: WebWizard.xcu#..WebWizard.WebWizard.Styles.style14.Name.value.text
-#: FormWizard.xcu#..FormWizard.FormWizard.Styles.style6.Name.value.text
-msgid "Ice Blue"
-msgstr ""
-
 #: WebWizard.xcu#..WebWizard.WebWizard.Styles.style15.Name.value.text
 msgid "Blue & Gray"
 msgstr "Gorm & Liath"
-
-#: WebWizard.xcu#..WebWizard.WebWizard.Styles.style16.Name.value.text
-#: FormWizard.xcu#..FormWizard.FormWizard.Styles.style8.Name.value.text
-#: sdstring.src#RID_SVXSTR_BMP2.string.text
-msgid "Water"
-msgstr "Uisce"
-
-#: WebWizard.xcu#..WebWizard.WebWizard.Styles.style17.Name.value.text
-#: FormWizard.xcu#..FormWizard.FormWizard.Styles.style9.Name.value.text
-#: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_GrafRed.Label.value.text
-#: strings.src#STR_RED.string.text strings.src#STR_UNDO_GRAFRED.string.text
-#: sdstring.src#RID_SVXSTR_RED.string.text
-#: sdstring.src#RID_SVXSTR_TBLAFMT_RED.string.text
-#: svxitems.src#RID_SVXITEMS_COLOR_RED.string.text
-#: svdstr.src#STR_ItemNam_GRAFRED.string.text
-#: svdstr.src#SIP_SA_GRAFRED.string.text
-#: grafctrl.src#RID_SVXSTR_UNDO_GRAFRED.string.text
-msgid "Red"
-msgstr "Dearg"
 
 #: WebWizard.xcu#..WebWizard.WebWizard.Styles.style18.Name.value.text
 msgid "Colorful"
@@ -19027,12 +19026,6 @@ msgstr "Ildathach"
 #: WebWizard.xcu#..WebWizard.WebWizard.Styles.style19.Name.value.text
 msgid "Green & Red"
 msgstr "Glas & Dearg"
-
-#: WebWizard.xcu#..WebWizard.WebWizard.Styles.style20.Name.value.text
-#: FormWizard.xcu#..FormWizard.FormWizard.Styles.style10.Name.value.text
-#: sdstring.src#RID_SVXSTR_VIOLET.string.text
-msgid "Violet"
-msgstr "Corcairghorm"
 
 #: WebWizard.xcu#..WebWizard.WebWizard.Styles.style21.Name.value.text
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_GrafGreen.Label.value.text
@@ -19117,14 +19110,6 @@ msgstr ": "
 #: poolfmt.src#STR_POOLCOLL_LABEL_ABB.string.text
 msgid "Illustration"
 msgstr "Léaráid"
-
-#: FormWizard.xcu#..FormWizard.FormWizard.Styles.style4.Name.value.text
-msgid "Dark"
-msgstr "Dorcha"
-
-#: FormWizard.xcu#..FormWizard.FormWizard.Styles.style7.Name.value.text
-msgid "Grey"
-msgstr "Liath"
 
 #: BaseWindowState.xcu#..BaseWindowState.UIElements.States.private_resource/toolbar/toolbar.UIName.value.text
 #: BasicIDEWindowState.xcu#..BasicIDEWindowState.UIElements.States.private_resource/toolbar/standardbar.UIName.value.text
@@ -20497,6 +20482,7 @@ msgstr "Tagráin"
 #: WriterGlobalWindowState.xcu#..WriterGlobalWindowState.UIElements.States.private_resource/toolbar/fontworkobjectbar.UIName.value.text
 #: WriterWebWindowState.xcu#..WriterWebWindowState.UIElements.States.private_resource/toolbar/fontworkobjectbar.UIName.value.text
 #: WriterWindowState.xcu#..WriterWindowState.UIElements.States.private_resource/toolbar/fontworkobjectbar.UIName.value.text
+#: glob.src#STR_FONTWORKOBJECTBARSHELL.string.text
 #: fontwork.src#RID_SVXDLG_FONTWORK.dockingwindow.text
 #: fontworkbar.src#RID_SVX_FONTWORK_BAR.string.text
 msgid "Fontwork"
@@ -24688,6 +24674,10 @@ msgstr "Go Deireadh na Cáipéise"
 msgid "~Navigator"
 msgstr "~Nascleantóir"
 
+#: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_RestoreEditingView.Label.value.text
+msgid "Restore Editing View"
+msgstr "Cuir an tAmharc Eagarthóireachta Ar Ais"
+
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_BasicBreak.Label.value.text
 msgid "Interrupt Macro"
 msgstr ""
@@ -28113,7 +28103,7 @@ msgid "Authentication request"
 msgstr "Iarratas fíordheimhnithe"
 
 #: readme.xrm#ooo_readme.Welcome.A2.a.readmeitem.text
-msgid "Last updated $Date: 2005-10-27 03:27:43 $"
+msgid "Last updated $Date: 2005-10-27 03:52:04 $"
 msgstr ""
 
 #: readme.xrm#ooo_readme.Welcome.A3.a.readmeitem.text
@@ -28296,14 +28286,17 @@ msgid "Pentium compatible PC"
 msgstr ""
 
 #: readme.xrm#ooo_readme.Installation.WNT2.ghuj67.readmeitem.text
+#: readme.xrm#ooo_readme.Installation.Sols2.s253.readmeitem.text
 #: readme.xrm#ooo_readme.Installation.Solia2.s24f.readmeitem.text
 #: readme.xrm#ooo_readme.Installation.Linuxi2.s2ssdfe.readmeitem.text
-msgid "64 MB RAM"
-msgstr "64 MB RAM"
+msgid "128 MB RAM (256 MB RAM recommended)"
+msgstr "128 MB RAM (256 MB RAM molta)"
 
 #: readme.xrm#ooo_readme.Installation.WNT2.jzjtzu6.readmeitem.text
-msgid "250 MB (CJK version: 300 MB) available hard disk space"
-msgstr "250 MB (leagan CJK: 300 MB) spás inúsáidte ar an diosca crua"
+msgid ""
+"320 MB (Chinese, Japanese, and Korean versions: 350 MB, multi-language "
+"version: 500 MB) available hard disk space"
+msgstr "320 MB (Leaganacha Sínise, Seapáinise, agus Cóiréise: 350 MB, leagan il-teanga: 500MB) spás inúsáidte ar an diosca crua"
 
 #: readme.xrm#ooo_readme.Installation.WNT2.jtzu56.readmeitem.text
 msgid "800x600 resolution or higher, at least 256 colors"
@@ -28311,60 +28304,100 @@ msgstr "Taifeach 800×600 nó níos fearr, agus 256 dath ar a laghad"
 
 #: readme.xrm#ooo_readme.Installation.Sols2.s2335.readmeitem.text
 msgid ""
-"Solaris 7 operating system (SPARC platform) or higher (Solaris 9 recommended)"
+"Solaris 8 operating system (SPARC platform) or higher (Solaris 10 "
+"recommended)"
 msgstr ""
-"Córas Oibriúcháin Solaris 7 (ardán SPARC) nó níos airde (Solaris 9 molta)"
-
-#: readme.xrm#ooo_readme.Installation.Sols2.s253.readmeitem.text
-msgid "128 MB RAM"
-msgstr "128 MB RAM"
+"Córas Oibriúcháin Solaris 8 (ardán SPARC) nó níos airde (Solaris 10 molta)"
 
 #: readme.xrm#ooo_readme.Installation.Sols2.s23seg.readmeitem.text
-#: readme.xrm#ooo_readme.Installation.Solia2.fgheg.readmeitem.text
-msgid "300 MB (CJK version: 450 MB) available hard disk space"
-msgstr "300 MB (leagan CJK: 450 MB) spás inúsáidte ar an diosca crua"
+msgid ""
+"450 MB (Chinese, Japanese and Korean versions: 550 MB, multi-language "
+"version: 950 MB) available hard disk space"
+msgstr "450 MB (Leaganacha Sínise, Seapáinise, agus Cóiréise: 550 MB, leagan il-teanga: 950 MB) spás inúsáidte ar an diosca crua"
 
 #: readme.xrm#ooo_readme.Installation.Sols2.s2s43gfe.readmeitem.text
 #: readme.xrm#ooo_readme.Installation.Solia2.fghfgh.readmeitem.text
 #: readme.xrm#ooo_readme.Installation.Linuxi2.ghjhhr.readmeitem.text
+#: readme.xrm#ooo_readme.Installation.Linuxp2.ppcghjhhr.readmeitem.text
 msgid "X Server with 800x600 or higher resolution, with at least 256 colors"
 msgstr ""
 "Freastalaí X le taifeach 800×600 nó níos fearr, agus 256 dath ar a laghad"
 
 #: readme.xrm#ooo_readme.Installation.Sols2.wd2dff.readmeitem.text
 msgid ""
-"Gnome 2.0 or higher required for support of assistive technology tools (AT "
+"Gnome 2.6 or higher required for support of assistive technology tools (AT "
 "tools) via Java accessibility support"
 msgstr ""
 
 #: readme.xrm#ooo_readme.Installation.Sols2.n4234rw.readmeitem.text
 #: readme.xrm#ooo_readme.Installation.Solia2.mgjfg.readmeitem.text
 #: readme.xrm#ooo_readme.Installation.Linuxi2.fhrtz5.readmeitem.text
+#: readme.xrm#ooo_readme.Installation.Linuxp2.ppcfhrtz5.readmeitem.text
 msgid "Window Manager"
 msgstr "Bainisteoir Fuinneog"
 
 #: readme.xrm#ooo_readme.Installation.Solia2.s23h.readmeitem.text
 msgid ""
-"Solaris 7 operating system (Intel platform) or higher (Solaris 9 recommended)"
+"Solaris 8 operating system (Intel platform) or higher (Solaris 10 "
+"recommended)"
 msgstr ""
-"Córas oibriúcháin Solaris 7 (ardán Intel) nó níos airde (Solaris 9 molta)"
+"Córas oibriúcháin Solaris 8 (ardán Intel) nó níos airde (Solaris 10 molta)"
+
+#: readme.xrm#ooo_readme.Installation.Solia2.fgheg.readmeitem.text
+msgid ""
+"400 MB (Chinese, Japanese and Korean versions: 600 MB, multi-language "
+"version: 950 MB) available hard disk space"
+msgstr "400 MB (Leaganacha Sínise, Seapáinise, agus Cóiréise: 600 MB, leagan il-teanga: 950 MB) spás inúsáidte ar an diosca crua"
 
 #: readme.xrm#ooo_readme.Installation.Solia2.wd2dff.readmeitem.text
 #: readme.xrm#ooo_readme.Installation.Linuxi2.wd2dff.readmeitem.text
-msgid "Gnome 2.0 or higher required for Assistive Technology Tools"
+#: readme.xrm#ooo_readme.Installation.Linuxp2.ppcwd2dff.readmeitem.text
+#: readme.xrm#ooo_readme.Installation.Macxp.macxpwd2dff.readmeitem.text
+msgid "Gnome 2.6 or higher required for Assistive Technology Tools"
 msgstr ""
 
 #: readme.xrm#ooo_readme.Installation.Linuxi2.s2we35.readmeitem.text
-msgid "Linux Kernel version 2.2.13 or higher"
-msgstr "Eithne Linux, leagan 2.2.13 nó níos airde"
+#: readme.xrm#ooo_readme.Installation.Linuxp2.ppcs2we35.readmeitem.text
+msgid "Linux Kernel version 2.4 or higher"
+msgstr "Eithne Linux, leagan 2.4 nó níos airde"
 
 #: readme.xrm#ooo_readme.Installation.Linuxi2.s253we.readmeitem.text
+#: readme.xrm#ooo_readme.Installation.Linuxp2.ppcs253we.readmeitem.text
 msgid "glibc2 version 2.2.4 or higher"
 msgstr "glibc2, leagan 2.2.4 nó níos airde"
 
 #: readme.xrm#ooo_readme.Installation.Linuxi2.n42dfgf.readmeitem.text
-msgid "300 MB (CJK version: 350 MB) available hard disk space"
-msgstr "300 MB (leagan CJK: 350 MB) spás inúsáidte ar an diosca crua"
+#: readme.xrm#ooo_readme.Installation.Linuxp2.ppcn42dfgf.readmeitem.text
+#: readme.xrm#ooo_readme.Installation.Macxp.macxpn42dfgf.readmeitem.text
+msgid ""
+"400 MB (Chinese, Japanese and Korean versions: 550 MB, multi-language "
+"version: 900 MB) available hard disk space"
+msgstr "400 MB (Leaganacha Sínise, Seapáinise, agus Cóiréise: 550 MB, leagan il-teanga: 900 MB) spás inúsáidte ar an diosca crua"
+
+#: readme.xrm#ooo_readme.Installation.Linuxp2.ppcs2etfseg.readmeitem.text
+#: readme.xrm#ooo_readme.Installation.Macxp.macxps2etfseg.readmeitem.text
+msgid "PowerPC compatible G3"
+msgstr ""
+
+#: readme.xrm#ooo_readme.Installation.Linuxp2.ppcs2ssdfe.readmeitem.text
+#: readme.xrm#ooo_readme.Installation.Macxp.macxps2ssdfe.readmeitem.text
+msgid "128 MB RAM"
+msgstr "128 MB RAM"
+
+#: readme.xrm#ooo_readme.Installation.Macxp.macxp2we35.readmeitem.text
+msgid "Mac OS X 10.3.4 or higher"
+msgstr "Mac OS X 10.3.4 nó níos airde"
+
+#: readme.xrm#ooo_readme.Installation.Macxp.macxpghjhhr.readmeitem.text
+msgid ""
+"X-Server (Apple's X11 or XDarwin1.0) with 800x600 or higher resolution, with "
+"at least 256 colors"
+msgstr ""
+"Freastalaí X (X11 Apple nó XDarwin1.0) le taifeach 800×600 nó níos fearr, agus 256 dath ar a laghad"
+
+#: readme.xrm#ooo_readme.Installation.Macxp.macxpfhrtz5.readmeitem.text
+msgid "Aquawm or third part Window Manager"
+msgstr ""
 
 #: readme.xrm#ooo_readme.Installation.B763ef.edssc3d.readmeitem.text
 msgid ""
@@ -28401,23 +28434,25 @@ msgstr ""
 msgid "Operating system patches required:"
 msgstr ""
 
-#: readme.xrm#ooo_readme.Installation.Sols_Patch.dd3s.readmeitem.text
-msgid "for Solaris 7: 106327-11, 106300-16 (only 64 bit)"
-msgstr "córas Solaris 7: 106327-11, 106300-16 (64-giotán amháin)"
-
 #: readme.xrm#ooo_readme.Installation.Sols_Patch.xch3.readmeitem.text
-msgid "for Solaris 8: 108434-04, 108773-13, 108435-04 (only 64 bit), 109147-14"
+msgid ""
+"for Solaris 8: 108434-11, 109147-28, 108993-33, 108435-16 (64 bit), 109148-"
+"28 (64 bit), 110934-12, 110380-04"
 msgstr ""
-"córas Solaris 8: 108434-04, 108773-13, 108435-04 (64-giotán amháin), 109147-"
-"14"
+"córas Solaris 8: 108434-11, 109147-28, 108993-33, 108435-16 (64-giotán), 109148-"
+"28 (64-giotán), 110934-12, 110380-04"
 
-#: readme.xrm#ooo_readme.Installation.Soli_Patch.bg4.readmeitem.text
-msgid "for Solaris 7: 106328-08"
-msgstr "córas Solaris 7: 106328-08"
+#: readme.xrm#ooo_readme.Installation.Sols_Patch.xch4.readmeitem.text
+msgid "for Solaris 9: 111711-04, 111712-10 (64 bit), and 113713-03"
+msgstr "córas Solaris 9: 111711-04, 111712-10 (64-giotán), agus 113713-03"
 
 #: readme.xrm#ooo_readme.Installation.Soli_Patch.fg4.readmeitem.text
-msgid "for Solaris 8: 108436-01, 108774-12"
-msgstr "córas Solaris 8: 108436-01, 108774-12"
+msgid "for Solaris 8: 108436-10, 108994-32, 109148-28, 110935-12, 110403-04"
+msgstr "córas Solaris 8: 108436-10, 108994-32, 109148-28, 110935-12, 110403-04"
+
+#: readme.xrm#ooo_readme.Installation.Soli_Patch.fg5.readmeitem.text
+msgid "for Solaris 9: 111713-02, 114568-02"
+msgstr "córas Solaris 9: 111713-02, 114568-02"
 
 #: readme.xrm#ooo_readme.Installation.P_Note.dfgferd34.readmeitem.text
 msgid ""
@@ -29223,6 +29258,7 @@ msgstr ""
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_CHI_DIST.2.string.text
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_STANDARD.2.string.text
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_Z_TEST.4.string.text
+#: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_BAHTTEXT.2.string.text
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_ROMAN.2.string.text
 #: animobjs.src#FLT_WIN_ANIMATION.FT_COUNT.fixedtext.text
 #: numfmt.src#RID_SVXPAGE_NUMBERFORMAT.LB_CATEGORY.3.stringlist.text
@@ -33295,6 +33331,10 @@ msgstr "ROMAN"
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_HYPERLINK.string.text
 msgid "HYPERLINK"
 msgstr "HIPEARNASC"
+
+#: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_BAHTTEXT.string.text
+msgid "BAHTTEXT"
+msgstr "BAHTTEXT"
 
 #: asciiopt.src#RID_SCDLG_ASCII.FT_TYPE.fixedtext.text
 msgid "Column t~ype"
@@ -41073,6 +41113,14 @@ msgstr ""
 msgid "Cell Text"
 msgstr ""
 
+#: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_BAHTTEXT.1.string.text
+msgid "Converts a number to text (Baht)."
+msgstr "Tiontaigh uimhir go téacs (Baht)."
+
+#: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_BAHTTEXT.3.string.text
+msgid "The number to convert."
+msgstr "An uimhir le tiontú."
+
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_CODE.1.string.text
 msgid "Returns a numeric code for the first character in a text string."
 msgstr ""
@@ -42384,10 +42432,6 @@ msgstr ""
 #: glob.src#STR_3DOBJECTBARSHELL.string.text
 msgid "3-D Settings"
 msgstr "Socruithe 3T"
-
-#: glob.src#STR_FONTWORKOBJECTBARSHELL.string.text
-msgid "FontWork"
-msgstr "FontWork"
 
 #: pubdlg.src#DLG_PUBLISHING.PAGE1_TITEL.fixedline.text
 msgid "Assign design"
@@ -44072,8 +44116,8 @@ msgid "Unknown file format!"
 msgstr "Formáid anaithnid chomhaid!"
 
 #: strings.src#STR_EXPORT_PATH_NOT_FOUND1.string.text
-#: dialog.src#STR_PATH_NOT_FOUND1.string.text
 #: impgrf.src#RID_SVXRES_IMPORTGRAPHIC.STR_PATH_NOT_FOUND1.string.text
+#: dialog.src#STR_PATH_NOT_FOUND1.string.text
 msgid "The directory '"
 msgstr "Níl an chomhadlann '"
 
@@ -45370,7 +45414,6 @@ msgid "Notes Area"
 msgstr "Limistéar Nótaí"
 
 #: strings.src#STR_LEFT_PANE_IMPRESS_TITLE.string.text
-#: PaneDockingWindow.src#FLT_LEFT_PANE_DOCKING_WINDOW.dockingwindow.text
 msgid "Slides"
 msgstr "Sleamhnáin"
 
@@ -45429,9 +45472,17 @@ msgstr "Cuair"
 msgid "Function Bar (viewing mode)"
 msgstr "Barra Feidhme (mód amhairc)"
 
+#: PaneDockingWindow.src#FLT_LEFT_PANE_IMPRESS_DOCKING_WINDOW.dockingwindow.text
+msgid "Slide Pane"
+msgstr ""
+
+#: PaneDockingWindow.src#FLT_LEFT_PANE_DRAW_DOCKING_WINDOW.dockingwindow.text
+msgid "Page Pane"
+msgstr ""
+
 #: PaneDockingWindow.src#FLT_RIGHT_PANE_DOCKING_WINDOW.dockingwindow.text
-msgid "Task Panel"
-msgstr "Painéal na dTascanna"
+msgid "Task Pane"
+msgstr ""
 
 #: animobjs.src#FLT_WIN_ANIMATION.BTN_FIRST.imagebutton.quickhelptext
 msgid "First Image"
@@ -47831,10 +47882,6 @@ msgstr "~Mionathraigh..."
 #: templdlg.src#RID_STYLECATALOG.modaldialog.text
 msgid "Style Catalog"
 msgstr "Catalóg na Stíleanna"
-
-#: templdlg.src#DLG_STYLE_DESIGNER.string.text
-msgid "Stylist"
-msgstr ""
 
 #: templdlg.src#STR_STYLE_FILTER_HIERARCHICAL.string.text
 msgid "Hierarchical"
@@ -56055,7 +56102,7 @@ msgid "Spanish (Argentina)"
 msgstr "Spáinnis (Airgintín)"
 
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_SPANISH_ECUADOR.pairedlist.text
-msgid "Spanish (Equador)"
+msgid "Spanish (Ecuador)"
 msgstr "Spáinnis (Eacuadór)"
 
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_SPANISH_CHILE.pairedlist.text
@@ -62977,6 +63024,26 @@ msgstr "EXT"
 msgid "ADD"
 msgstr "ADD"
 
+#: stbctrls.src#RID_SVXSTR_XMLSEC_SIG_OK.string.text
+msgid "Digital Signature: The document signature is OK."
+msgstr ""
+
+#: stbctrls.src#RID_SVXSTR_XMLSEC_SIG_OK_NO_VERIFY.string.text
+msgid ""
+"Digital Signature: The document signature is OK, but the certificates could "
+"not be validated."
+msgstr ""
+
+#: stbctrls.src#RID_SVXSTR_XMLSEC_SIG_NOT_OK.string.text
+msgid ""
+"Digital Signature: The document signature does not match the document "
+"content. We strongly recommend you to do not trust this document."
+msgstr ""
+
+#: stbctrls.src#RID_SVXSTR_XMLSEC_NO_SIG.string.text
+msgid "Digital Signature: The document is not signed."
+msgstr ""
+
 #: stbctrls.src#RID_SVXMNU_ZOOM.ZOOM_PAGE_WIDTH.menuitem.text
 msgid "Page Width"
 msgstr "Leithead Leathanaigh"
@@ -67604,8 +67671,8 @@ msgid "Connection status"
 msgstr ""
 
 #: mailmergechildwindow.src#FT_STATUS1.fixedtext.text
-msgid "Connection to outgoing mail server established"
-msgstr ""
+msgid "The connection to the outgoing mail server has been established"
+msgstr "Bunaíodh an nasc leis an bhfreastalaí poist amach"
 
 #: mailmergechildwindow.src#ST_SEND.string.text
 msgid "Sending e-mails..."
@@ -74319,14 +74386,6 @@ msgstr "Faighteoir agus seoltóir"
 msgid "Name and location"
 msgstr "Ainm agus suíomh"
 
-#: dbwizres.src#RID_LETTERWIZARDLANGUAGE_START___1.string.text
-msgid "US American"
-msgstr "Meiriceánach (SAM)"
-
-#: dbwizres.src#RID_LETTERWIZARDLANGUAGE_START___11.string.text
-msgid "Chinese (Traditional)"
-msgstr "Sínis (Traidisiúnta)"
-
 #: dbwizres.src#RID_FAXWIZARDDIALOG_START___1.string.text
 msgid "Fax Wizard"
 msgstr "Draoi Facs"
@@ -75798,6 +75857,11 @@ msgstr "Bailí ó %SDATE% go %EDATE%"
 msgid "You have a private key that corresponds to this certificate."
 msgstr ""
 
+#: certificateviewer.src#RID_XMLSECTP_GENERAL.STR_CERTIFICATE_NOT_VALIDATED.string.text
+#: certificateviewer.src#RID_XMLSECTP_CERTPATH.STR_PATH_CERT_NOT_VALIDATED.string.text
+msgid "The certificate could not be validated."
+msgstr "Níorbh fhéidir an teastas a fhíorú."
+
 #: certificateviewer.src#RID_XMLSECTP_DETAILS.STR_HEADERBAR.string.text
 msgid "Field\\tValue"
 msgstr "Réimse\\tLuach"
@@ -75855,6 +75919,10 @@ msgstr ""
 msgid "Certification status"
 msgstr "Stádas Deimhnithe"
 
+#: certificateviewer.src#RID_XMLSECTP_CERTPATH.STR_PATH_CERT_OK.string.text
+msgid "The certificate is OK."
+msgstr "Tá an teastas ceart go leor."
+
 #: digitalsignaturesdialog.src#RID_XMLSECDLG_DIGSIG.FT_HINT_DOC.fixedtext.text
 msgid "The following have signed the document content:"
 msgstr ""
@@ -75871,12 +75939,21 @@ msgstr ""
 msgid "\\tSigned by\\tDigital ID issued by\\tDate"
 msgstr "\\tSínithe ag\\tAitheantas Digiteach eisithe ag\\tDáta"
 
-#: digitalsignaturesdialog.src#RID_XMLSECDLG_DIGSIG.FI_STATE_VALID.fixedtext.text
-msgid "The signatures in this document are valid"
-msgstr ""
+#: digitalsignaturesdialog.src#RID_XMLSECDLG_DIGSIG.STR_VALID_SIGNATURE.string.text
+msgid "Valid signature"
+msgstr "Síniú bailí"
 
+#: digitalsignaturesdialog.src#RID_XMLSECDLG_DIGSIG.STR_NO_INFO_TO_VERIFY.string.text
+msgid "Certificate could not be validated"
+msgstr "Níorbh fhéidir an síniú a bhailíochtú"
+
+#: digitalsignaturesdialog.src#RID_XMLSECDLG_DIGSIG.STR_INVALID_SIGNATURE.string.text
 #: digitalsignaturesdialog.src#RID_XMLSECDLG_DIGSIG.FI_STATE_BROKEN.fixedtext.text
 msgid "The signatures in this document are invalid"
+msgstr ""
+
+#: digitalsignaturesdialog.src#RID_XMLSECDLG_DIGSIG.FI_STATE_VALID.fixedtext.text
+msgid "The signatures in this document are valid"
 msgstr ""
 
 #: digitalsignaturesdialog.src#RID_XMLSECDLG_DIGSIG.modaldialog.text
