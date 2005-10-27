@@ -9355,7 +9355,7 @@ msgstr "Ba mhaith liom c~lárú amach anseo"
 
 #: wizard.src#TP_REGISTRATION.RB_REGISTRATION_NEVER.radiobutton.text
 msgid "I do not want to ~register"
-msgstr "Ní maith liom clá~rú"
+msgstr "Níor mhaith liom clá~rú"
 
 #: wizard.src#TP_REGISTRATION.RB_REGISTRATION_REG.radiobutton.text
 msgid "I have ~already registered"
@@ -15956,14 +15956,14 @@ msgstr "Seoltaí Cnuasaithe"
 #: fldui.src#FLD_EU_VORNAME.string.text
 #: template.src#CorrespondenceFields_3.string.text
 msgid "First Name"
-msgstr "Ainm"
+msgstr "Ainm Baiste"
 
 #: DataAccess.xcu#..DataAccess.DriverSettings.com.sun.star.comp.sdbc.MozabDriver.ColumnAliases.LastName.value.text
 #: dbui.src#SA_ADDRESS_HEADER.3.itemlist.text
 #: fldui.src#FLD_EU_NAME.string.text
 #: template.src#CorrespondenceFields_4.string.text
 msgid "Last Name"
-msgstr "Ainm Sloinne"
+msgstr "Sloinne"
 
 #: DataAccess.xcu#..DataAccess.DriverSettings.com.sun.star.comp.sdbc.MozabDriver.ColumnAliases.DisplayName.value.text
 msgid "Display Name"
@@ -28113,7 +28113,7 @@ msgid "Authentication request"
 msgstr "Iarratas fíordheimhnithe"
 
 #: readme.xrm#ooo_readme.Welcome.A2.a.readmeitem.text
-msgid "Last updated $Date: 2005-10-17 18:30:12 $"
+msgid "Last updated $Date: 2005-10-27 03:27:43 $"
 msgstr ""
 
 #: readme.xrm#ooo_readme.Welcome.A3.a.readmeitem.text
@@ -51337,7 +51337,7 @@ msgstr "Ainm baiste"
 #: addresstemplate.src#STR_FIELD_LASTNAME.string.text
 #: chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.4.stringlist.text
 msgid "Last name"
-msgstr "Ainm sloinne"
+msgstr "Sloinne"
 
 #: addresstemplate.src#STR_FIELD_STREET.string.text
 #: label.src#TP_BUSINESS_DATA.FT_STREET.fixedtext.text
@@ -62345,7 +62345,7 @@ msgstr "Ainm baiste/Sloi~nn/Inisealacha"
 
 #: optgenrl.src#RID_SFXPAGE_GENERAL.FT_NAME_RUSS.fixedtext.text
 msgid "First name/Father's name/Last name/Initials"
-msgstr "Ainm baiste/Ainm athar/Sloinn/Inisealacha"
+msgstr "Ainm baiste/Ainm athar/Sloinne/Inisealacha"
 
 #: optgenrl.src#RID_SFXPAGE_GENERAL.FT_STREET.fixedtext.text
 msgid "~Street"
