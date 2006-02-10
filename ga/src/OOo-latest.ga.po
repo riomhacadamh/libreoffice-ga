@@ -22806,21 +22806,22 @@ msgstr ""
 msgid "Wheel Clockwise, 8 Spokes"
 msgstr ""
 
+# learned this from "Téarmaí Teilifíse" -kps
 #: Effects.xcu#..Effects.UserInterface.Transitions.wipe_down.Label.value.text
 msgid "Wipe Down"
-msgstr ""
+msgstr "Síobán Anuas"
 
 #: Effects.xcu#..Effects.UserInterface.Transitions.wipe_left.Label.value.text
 msgid "Wipe Left"
-msgstr ""
+msgstr "Síobán Anoir"
 
 #: Effects.xcu#..Effects.UserInterface.Transitions.wipe_right.Label.value.text
 msgid "Wipe Right"
-msgstr ""
+msgstr "Síobán Aniar"
 
 #: Effects.xcu#..Effects.UserInterface.Transitions.wipe_up.Label.value.text
 msgid "Wipe Up"
-msgstr ""
+msgstr "Síobán Aníos"
 
 #: Effects.xcu#..Effects.UserInterface.Transitions.random_transition.Label.value.text
 msgid "Random Transition"
@@ -28103,7 +28104,7 @@ msgid "Authentication request"
 msgstr "Iarratas fíordheimhnithe"
 
 #: readme.xrm#ooo_readme.Welcome.A2.a.readmeitem.text
-msgid "Last updated $Date: 2005-10-27 03:52:04 $"
+msgid "Last updated $Date: 2006-02-10 16:32:47 $"
 msgstr ""
 
 #: readme.xrm#ooo_readme.Welcome.A3.a.readmeitem.text
