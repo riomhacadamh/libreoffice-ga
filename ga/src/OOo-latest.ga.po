@@ -121,7 +121,7 @@ msgstr "<Uile>"
 
 #: basidesh.src#RID_STR_NOMODULE.string.text
 msgid "< No Module >"
-msgstr ""
+msgstr "< Gan Modúl >"
 
 #: basidesh.src#RID_STR_WRONGPASSWORD.string.text
 #: scstring.src#SCSTR_WRONGPASSWORD.string.text
@@ -179,11 +179,11 @@ msgstr ""
 
 #: basidesh.src#RID_STR_IMPORTNOTPOSSIBLE.string.text
 msgid "'XX' cannot be added."
-msgstr ""
+msgstr "Ní féidir 'XX' a chur leis."
 
 #: basidesh.src#RID_STR_NOIMPORT.string.text
 msgid "'XX' was not added."
-msgstr ""
+msgstr "Níor cuireadh 'XX' leis."
 
 #: basidesh.src#RID_STR_ENTERPASSWORD.string.text
 msgid "Enter password for 'XX'"
@@ -255,7 +255,7 @@ msgstr "Ní féidir an leabharlann réamhshocraithe a dhíghníomhachtú"
 
 #: basidesh.src#RID_STR_GENERATESOURCE.string.text
 msgid "Generating source"
-msgstr ""
+msgstr "Foinse á cruthú"
 
 #: basidesh.src#RID_STR_FILENAME.string.text
 msgid "File name:"
@@ -263,7 +263,7 @@ msgstr "Ainm comhaid:"
 
 #: basidesh.src#RID_STR_APPENDLIBS.string.text
 msgid "Append Libraries"
-msgstr ""
+msgstr "Iarcheangail Leabharlanna"
 
 #: basidesh.src#RID_STR_QUERYDELMACRO.string.text
 msgid "Do you want to delete the macro XX ?"
@@ -324,7 +324,7 @@ msgstr "Barra Macra"
 
 #: basidesh.src#RID_STR_CANNOTCLOSE.string.text
 msgid "The window cannot be closed while BASIC is running."
-msgstr ""
+msgstr "Ní féidir an fhuinneog a dhúnadh agus BASIC á rith."
 
 #: basidesh.src#RID_STR_REPLACESTDLIB.string.text
 msgid "The default library cannot be replaced."
@@ -332,11 +332,11 @@ msgstr "Ní féidir an leabharlann réamhshocraithe a athchur."
 
 #: basidesh.src#RID_STR_REFNOTPOSSIBLE.string.text
 msgid "Reference to 'XX' not possible."
-msgstr ""
+msgstr "Ní féidir tagairt a dhéanamh do 'XX'."
 
 #: basidesh.src#RID_STR_WATCHNAME.string.text
 msgid "Watch"
-msgstr ""
+msgstr "Faire"
 
 #: basidesh.src#RID_STR_WATCHVARIABLE.string.text
 #: strings.src#STR_VAR.string.text
@@ -429,7 +429,7 @@ msgstr "Leathanach"
 
 #: basidesh.src#RID_STR_MACRONAMEREQ.string.text
 msgid "A name must be entered."
-msgstr ""
+msgstr "Caithfidh tú ainm a iontráil."
 
 #: basidesh.src#RID_STR_WILLSTOPPRG.string.text
 msgid ""
@@ -451,11 +451,11 @@ msgstr "-"
 
 #: basidesh.src#RID_IMGBTN_REMOVEWATCH.imagebutton.quickhelptext
 msgid "Remove Watch"
-msgstr ""
+msgstr "Bain Faire"
 
 #: basidesh.src#RID_STR_REMOVEWATCH.string.text
 msgid "Watch:"
-msgstr ""
+msgstr "Faire:"
 
 #: basidesh.src#RID_STR_STACK.string.text
 msgid "Calls: "
@@ -603,7 +603,7 @@ msgstr "Bainistigh Brisphointí"
 
 #: macrodlg.src#RID_MACROCHOOSER.RID_TXT_MACROSIN.fixedtext.text
 msgid "Existing macros ~in:"
-msgstr ""
+msgstr "Macraí atá ~i:"
 
 #: macrodlg.src#RID_MACROCHOOSER.RID_TXT_MACRONAME.fixedtext.text
 #: fldui.src#STR_MACNAME.string.text
@@ -874,7 +874,7 @@ msgstr "Ionsáigh mar thagairt (léimh-amháin)"
 
 #: moduldlg.src#RID_DLG_LIBS.RID_CB_REPL.checkbox.text
 msgid "Replace existing libraries"
-msgstr ""
+msgstr "Asáitigh na leabharlanna atá ann"
 
 #: moduldlg.src#RID_DLG_NEWLIB.RID_FT_NEWLIB.fixedtext.text
 msgid "~Name:"
@@ -888,7 +888,7 @@ msgstr "Cur Síos"
 
 #: moptions.src#RID_MACROOPTIONS.RID_FL_HELP.fixedline.text
 msgid "Help information"
-msgstr ""
+msgstr "Eolas cabhrach"
 
 #: moptions.src#RID_MACROOPTIONS.RID_FT_HELPID.fixedtext.text
 msgid "Help ID"
@@ -1168,7 +1168,7 @@ msgstr "Testtool: Ionadaigh Téacs"
 
 #: basic.src#IDS_NOPRINTERERROR.infobox.text
 msgid "The print function is not available!"
-msgstr ""
+msgstr "Níl an fheidhm phriontála ar fáil!"
 
 #: basic.src#IDS_CANTLOAD.errorbox.text
 msgid "Library cannot be loaded!"
@@ -1192,7 +1192,7 @@ msgstr "Earráid Testtool"
 
 #: basic.src#IDS_NOMAINPGM.errorbox.text
 msgid "This window does not contain a main program!"
-msgstr ""
+msgstr "Níl príomhchlár san fhuinneog seo!"
 
 #: basic.src#IDS_NOMAINPGM.errorbox.title
 msgid ""
@@ -6643,8 +6643,8 @@ msgid ""
 msgstr ""
 "Cuir isteach ainm an bhunachair sonraí ODBC atá uait ceangailt a dhéanamh "
 "leis.\n"
-"Cliceáil ar 'Brabhsáil' le bunachar sonraí ODBC atá cláraithe i %PRODUCTNAME. a "
-"phiocadh\n"
+"Cliceáil ar 'Brabhsáil' le bunachar sonraí ODBC atá cláraithe i %PRODUCTNAME. "
+"a phiocadh\n"
 "Téigh i dteagmháil le do riarthóir chórais le do thoil , muna bhfuil tú "
 "lánsásta faoi na freagraí seo a leanas."
 
@@ -36464,7 +36464,7 @@ msgid "Authentication request"
 msgstr "Iarratas fíordheimhnithe"
 
 #: readme.xrm#ooo_readme.Welcome.A2.a.readmeitem.text
-msgid "Last updated $Date: 2006-02-22 19:43:48 $"
+msgid "Last updated $Date: 2006-02-25 14:57:56 $"
 msgstr ""
 
 #: readme.xrm#ooo_readme.Welcome.A3.a.readmeitem.text
