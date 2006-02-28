@@ -7851,12 +7851,12 @@ msgstr "Ní féidir [*] a úsáid mar chritéar sórtála."
 #: query.src#STR_QUERY_TRUE.string.text
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_TRUE.string.text
 msgid "TRUE"
-msgstr "FÍOR"
+msgstr "TRUE"
 
 #: query.src#STR_QUERY_FALSE.string.text
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_FALSE.string.text
 msgid "FALSE"
-msgstr "FALSA"
+msgstr "FALSE"
 
 #: query.src#STR_QRY_TOO_MANY_TABLES.string.text
 msgid "There are too many tables."
@@ -31146,7 +31146,7 @@ msgstr "Taifead Macra"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_StopRecording.Label.value.text
 msgid "Stop Recording"
-msgstr ""
+msgstr "Cuir Stop Leis an Taifeadadh"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_SendMailDocAsPDF.Label.value.text
 #: globlmn_tmpl.hrc#ITEM_FILE_MAIL_SENDDOCASPDF.#define.text
@@ -36464,7 +36464,7 @@ msgid "Authentication request"
 msgstr "Iarratas fíordheimhnithe"
 
 #: readme.xrm#ooo_readme.Welcome.A2.a.readmeitem.text
-msgid "Last updated $Date: 2006-02-25 14:57:56 $"
+msgid "Last updated $Date: 2006-02-28 03:15:20 $"
 msgstr ""
 
 #: readme.xrm#ooo_readme.Welcome.A3.a.readmeitem.text
@@ -41603,16 +41603,16 @@ msgstr "RECEIVED"
 
 #: analysis_funcnames.src#RID_ANALYSIS_FUNCTION_NAMES.ANALYSIS_FUNCNAME_Disc.string.text
 msgid "DISC"
-msgstr "DIOSCA"
+msgstr "DISC"
 
 #: analysis_funcnames.src#RID_ANALYSIS_FUNCTION_NAMES.ANALYSIS_FUNCNAME_Duration.string.text
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_LAUFZ.string.text
 msgid "DURATION"
-msgstr "FADAMA"
+msgstr "DURATION"
 
 #: analysis_funcnames.src#RID_ANALYSIS_FUNCTION_NAMES.ANALYSIS_FUNCNAME_Effect.string.text
 msgid "EFFECT"
-msgstr "ÉIFEACHT"
+msgstr "EFFECT"
 
 #: analysis_funcnames.src#RID_ANALYSIS_FUNCTION_NAMES.ANALYSIS_FUNCNAME_Cumprinc.string.text
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_KUM_KAP_Z.string.text
@@ -41626,7 +41626,7 @@ msgstr "CUMIPMT"
 
 #: analysis_funcnames.src#RID_ANALYSIS_FUNCTION_NAMES.ANALYSIS_FUNCNAME_Price.string.text
 msgid "PRICE"
-msgstr "PRAGHAS"
+msgstr "PRICE"
 
 #: analysis_funcnames.src#RID_ANALYSIS_FUNCTION_NAMES.ANALYSIS_FUNCNAME_Pricedisc.string.text
 msgid "PRICEDISC"
@@ -41655,7 +41655,7 @@ msgstr "DOLLARDE"
 
 #: analysis_funcnames.src#RID_ANALYSIS_FUNCTION_NAMES.ANALYSIS_FUNCNAME_Yield.string.text
 msgid "YIELD"
-msgstr "TORADH"
+msgstr "YIELD"
 
 #: analysis_funcnames.src#RID_ANALYSIS_FUNCTION_NAMES.ANALYSIS_FUNCNAME_Yielddisc.string.text
 msgid "YIELDDISC"
@@ -41808,7 +41808,7 @@ msgstr "BIN2OCT"
 #: analysis_funcnames.src#RID_ANALYSIS_FUNCTION_NAMES.ANALYSIS_FUNCNAME_Delta.string.text
 #: symbol.src#RID_UI_SYMBOL_NAMES.8.itemlist.text
 msgid "DELTA"
-msgstr "DEILT"
+msgstr "DELTA"
 
 #: analysis_funcnames.src#RID_ANALYSIS_FUNCTION_NAMES.ANALYSIS_FUNCNAME_Dec2Bin.string.text
 msgid "DEC2BIN"
@@ -41933,7 +41933,7 @@ msgstr "OCT2HEX"
 #: analysis_funcnames.src#RID_ANALYSIS_FUNCTION_NAMES.ANALYSIS_FUNCNAME_Convert.string.text
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_CONVERT.string.text
 msgid "CONVERT"
-msgstr "TIONTAIGH"
+msgstr "CONVERT"
 
 #: analysis_funcnames.src#RID_ANALYSIS_FUNCTION_NAMES.ANALYSIS_FUNCNAME_Factdouble.string.text
 msgid "FACTDOUBLE"
@@ -42148,15 +42148,15 @@ msgstr ""
 
 #: datefunc.src#RID_DATE_FUNCTION_NAMES.DATE_FUNCNAME_DiffWeeks.string.text
 msgid "WEEKS"
-msgstr "SEACHTAINÍ"
+msgstr "WEEKS"
 
 #: datefunc.src#RID_DATE_FUNCTION_NAMES.DATE_FUNCNAME_DiffMonths.string.text
 msgid "MONTHS"
-msgstr "MÍONNA"
+msgstr "MONTHS"
 
 #: datefunc.src#RID_DATE_FUNCTION_NAMES.DATE_FUNCNAME_DiffYears.string.text
 msgid "YEARS"
-msgstr "BLIANA"
+msgstr "YEARS"
 
 #: datefunc.src#RID_DATE_FUNCTION_NAMES.DATE_FUNCNAME_IsLeapYear.string.text
 msgid "ISLEAPYEAR"
@@ -44654,7 +44654,7 @@ msgstr "IF"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_CHOSE.string.text
 msgid "CHOOSE"
-msgstr "ROGHNAIGH"
+msgstr "CHOOSE"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_AND.string.text
 msgid "AND"
@@ -44683,11 +44683,11 @@ msgstr "RAND"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_GET_ACT_DATE.string.text
 msgid "TODAY"
-msgstr "INNIU"
+msgstr "TODAY"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_GET_ACT_TIME.string.text
 msgid "NOW"
-msgstr "ANOIS"
+msgstr "NOW"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_NO_VALUE.string.text
 msgid "NA"
@@ -44695,11 +44695,11 @@ msgstr "NA"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_CURRENT.string.text
 msgid "CURRENT"
-msgstr "REATHA"
+msgstr "CURRENT"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_DEG.string.text
 msgid "DEGREES"
-msgstr "CÉIMEANNA"
+msgstr "DEGREES"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_RAD.string.text
 msgid "RADIANS"
@@ -44787,31 +44787,31 @@ msgstr "FACT"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_GET_YEAR.string.text
 msgid "YEAR"
-msgstr "BLIAIN"
+msgstr "YEAR"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_GET_MONTH.string.text
 msgid "MONTH"
-msgstr "MÍ"
+msgstr "MONTH"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_GET_DAY.string.text
 msgid "DAY"
-msgstr "LÁ"
+msgstr "DAY"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_GET_HOUR.string.text
 msgid "HOUR"
-msgstr "UAIR"
+msgstr "HOUR"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_GET_MIN.string.text
 msgid "MINUTE"
-msgstr "NÓIMÉAD"
+msgstr "MINUTE"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_GET_SEC.string.text
 msgid "SECOND"
-msgstr "SOICIND"
+msgstr "SECOND"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_PLUS_MINUS.string.text
 msgid "SIGN"
-msgstr "COMHARTHA"
+msgstr "SIGN"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_ABS.string.text
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_ADRESS.6.string.text
@@ -44825,7 +44825,7 @@ msgstr "INT"
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_PHI.string.text
 #: symbol.src#RID_UI_SYMBOL_NAMES.42.itemlist.text
 msgid "PHI"
-msgstr "FÍ"
+msgstr "PHI"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_GAUSS.string.text
 msgid "GAUSS"
@@ -44849,11 +44849,11 @@ msgstr "ISLOGICAL"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_TYPE.string.text
 msgid "TYPE"
-msgstr "CINEÁL"
+msgstr "TYPE"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_CELL.string.text
 msgid "CELL"
-msgstr "CILL"
+msgstr "CELL"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_IS_REF.string.text
 msgid "ISREF"
@@ -44893,7 +44893,7 @@ msgstr "TIMEVALUE"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_CODE.string.text
 msgid "CODE"
-msgstr "CÓD"
+msgstr "CODE"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_TRIM.string.text
 msgid "TRIM"
@@ -44901,7 +44901,7 @@ msgstr "TRIM"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_UPPER.string.text
 msgid "UPPER"
-msgstr "UACHTARACH"
+msgstr "UPPER"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_PROPPER.string.text
 msgid "PROPER"
@@ -44909,11 +44909,11 @@ msgstr "PROPER"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_LOWER.string.text
 msgid "LOWER"
-msgstr "ÍOCHTARACH"
+msgstr "LOWER"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_LEN.string.text
 msgid "LEN"
-msgstr "FAD"
+msgstr "LEN"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_T.string.text
 #: cnttab.src#TP_TOX_ENTRY.WIN_TOKEN.STR_TOKEN_TAB_STOP.string.text
@@ -44922,11 +44922,11 @@ msgstr "T"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_VALUE.string.text
 msgid "VALUE"
-msgstr "LUACH"
+msgstr "VALUE"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_CLEAN.string.text
 msgid "CLEAN"
-msgstr "GLAN"
+msgstr "CLEAN"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_CHAR.string.text
 msgid "CHAR"
@@ -44970,11 +44970,11 @@ msgstr "ERRORTYPE"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_FORMULA.string.text
 msgid "FORMULA"
-msgstr "FOIRMLE"
+msgstr "FORMULA"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_ARABIC.string.text
 msgid "ARABIC"
-msgstr "ARABACH"
+msgstr "ARABIC"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_ARC_TAN_2.string.text
 msgid "ATAN2"
@@ -44990,7 +44990,7 @@ msgstr "FLOOR"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_ROUND.string.text
 msgid "ROUND"
-msgstr "CRUINN"
+msgstr "ROUND"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_ROUND_UP.string.text
 msgid "ROUNDUP"
@@ -45010,7 +45010,7 @@ msgstr "LOG"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_POWER.string.text
 msgid "POWER"
-msgstr "CUMHACHT"
+msgstr "POWER"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_MOD.string.text
 msgid "MOD"
@@ -45039,25 +45039,25 @@ msgstr "SUMXMY2"
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_GET_DATE.string.text
 #: globstr.src#RID_GLOBSTR.STR_HFCMD_DATE.string.text
 msgid "DATE"
-msgstr "DÁTA"
+msgstr "DATE"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_GET_TIME.string.text
 #: globstr.src#RID_GLOBSTR.STR_HFCMD_TIME.string.text
 msgid "TIME"
-msgstr "AM"
+msgstr "TIME"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_GET_DIFF_DATE.string.text
 msgid "DAYS"
-msgstr "LAETHANTA"
+msgstr "DAYS"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_GET_DIFF_DATE_360.string.text
 msgid "DAYS360"
-msgstr "LAETHANTA360"
+msgstr "DAYS360"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_MIN.string.text
 #: globstr.src#RID_GLOBSTR.STR_PIVOTFUNC_MIN.string.text
 msgid "MIN"
-msgstr "ÍOS"
+msgstr "MIN"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_MIN_A.string.text
 msgid "MINA"
@@ -45066,7 +45066,7 @@ msgstr "MINA"
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_MAX.string.text
 #: globstr.src#RID_GLOBSTR.STR_PIVOTFUNC_MAX.string.text
 msgid "MAX"
-msgstr "UAS"
+msgstr "MAX"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_MAX_A.string.text
 msgid "MAXA"
@@ -45075,17 +45075,17 @@ msgstr "MAXA"
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_SUM.string.text
 #: globstr.src#RID_GLOBSTR.STR_PIVOTFUNC_SUM.string.text
 msgid "SUM"
-msgstr "SUIM"
+msgstr "SUM"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_PRODUCT.string.text
 #: globstr.src#RID_GLOBSTR.STR_PIVOTFUNC_PROD.string.text
 msgid "PRODUCT"
-msgstr "IOLRACH"
+msgstr "PRODUCT"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_AVERAGE.string.text
 #: globstr.src#RID_GLOBSTR.STR_PIVOTFUNC_AVG.string.text
 msgid "AVERAGE"
-msgstr "MEÁN"
+msgstr "AVERAGE"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_AVERAGE_A.string.text
 msgid "AVERAGEA"
@@ -45094,7 +45094,7 @@ msgstr "AVERAGEA"
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_COUNT.string.text
 #: globstr.src#RID_GLOBSTR.STR_PIVOTFUNC_COUNT.string.text
 msgid "COUNT"
-msgstr "LÍON"
+msgstr "COUNT"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_COUNT_2.string.text
 #: globstr.src#RID_GLOBSTR.STR_PIVOTFUNC_COUNT2.string.text
@@ -45218,28 +45218,28 @@ msgstr "PMT"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_COLUMNS.string.text
 msgid "COLUMNS"
-msgstr "COLÚIN"
+msgstr "COLUMNS"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_ROWS.string.text
 msgid "ROWS"
-msgstr "RÓNNA"
+msgstr "ROWS"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_TABLES.string.text
 msgid "SHEETS"
-msgstr "BILEOGA"
+msgstr "SHEETS"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_COLUMN.string.text
 msgid "COLUMN"
-msgstr "COLÚN"
+msgstr "COLUMN"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_ROW.string.text
 msgid "ROW"
-msgstr "RÓ"
+msgstr "ROW"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_TABLE.string.text
 #: globstr.src#RID_GLOBSTR.STR_HFCMD_TABLE.string.text
 msgid "SHEET"
-msgstr "BILEOG"
+msgstr "SHEET"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_ZGZ.string.text
 msgid "RRI"
@@ -45255,7 +45255,7 @@ msgstr "NPER"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_ZINS.string.text
 msgid "RATE"
-msgstr "RÁTA"
+msgstr "RATE"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_ZINS_Z.string.text
 msgid "IPMT"
@@ -45267,11 +45267,11 @@ msgstr "PPMT"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_EFFEKTIV.string.text
 msgid "EFFECTIVE"
-msgstr "ÉIFEACHTACH"
+msgstr "EFFECTIVE"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_SUB_TOTAL.string.text
 msgid "SUBTOTAL"
-msgstr "FO-IOMLÁN"
+msgstr "SUBTOTAL"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_DB_SUM.string.text
 msgid "DSUM"
@@ -45327,7 +45327,7 @@ msgstr "INDIRECT"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_ADRESS.string.text
 msgid "ADDRESS"
-msgstr "SEOLADH"
+msgstr "ADDRESS"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_MATCH.string.text
 msgid "MATCH"
@@ -45363,11 +45363,11 @@ msgstr "MULTIRANGE"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_OFFSET.string.text
 msgid "OFFSET"
-msgstr "FRITHÁIREAMH"
+msgstr "OFFSET"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_INDEX.string.text
 msgid "INDEX"
-msgstr "INNÉACS"
+msgstr "INDEX"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_AREAS.string.text
 msgid "AREAS"
@@ -45379,31 +45379,31 @@ msgstr "DOLLAR"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_REPLACE.string.text
 msgid "REPLACE"
-msgstr "IONADAIGH"
+msgstr "REPLACE"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_FIXED.string.text
 msgid "FIXED"
-msgstr "SOCRAITHE"
+msgstr "FIXED"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_FIND.string.text
 msgid "FIND"
-msgstr "AIMSIGH"
+msgstr "FIND"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_EXACT.string.text
 msgid "EXACT"
-msgstr "BEACHT"
+msgstr "EXACT"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_LEFT.string.text
 msgid "LEFT"
-msgstr "CLÉ"
+msgstr "LEFT"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_RIGHT.string.text
 msgid "RIGHT"
-msgstr "DEAS"
+msgstr "RIGHT"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_SEARCH.string.text
 msgid "SEARCH"
-msgstr "CUARDACH"
+msgstr "SEARCH"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_MID.string.text
 msgid "MID"
@@ -45411,7 +45411,7 @@ msgstr "MID"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_TEXT.string.text
 msgid "TEXT"
-msgstr "TÉACS"
+msgstr "TEXT"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_SUBSTITUTE.string.text
 msgid "SUBSTITUTE"
@@ -45423,7 +45423,7 @@ msgstr "REPT"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_CONCAT.string.text
 msgid "CONCATENATE"
-msgstr "COMHCHAITÉINIGH"
+msgstr "CONCATENATE"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_MAT_VALUE.string.text
 msgid "MVALUE"
@@ -45443,7 +45443,7 @@ msgstr "MMULT"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_MAT_TRANS.string.text
 msgid "TRANSPOSE"
-msgstr "TRASUIGH"
+msgstr "TRANSPOSE"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_MATRIX_UNIT.string.text
 msgid "MUNIT"
@@ -45519,7 +45519,7 @@ msgstr "MEDIAN"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_MODAL_VALUE.string.text
 msgid "MODE"
-msgstr "MÓD"
+msgstr "MODE"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_Z_TEST.string.text
 msgid "ZTEST"
@@ -45543,15 +45543,15 @@ msgstr "PERCENTRANK"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_LARGE.string.text
 msgid "LARGE"
-msgstr "MÓR"
+msgstr "LARGE"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_SMALL.string.text
 msgid "SMALL"
-msgstr "BEAG"
+msgstr "SMALL"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_FREQUENCY.string.text
 msgid "FREQUENCY"
-msgstr "MINICÍOCHT"
+msgstr "FREQUENCY"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_QUARTILE.string.text
 msgid "QUARTILE"
@@ -45611,7 +45611,7 @@ msgstr "TREND"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_GROWTH.string.text
 msgid "GROWTH"
-msgstr "FÁS"
+msgstr "GROWTH"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_RGP.string.text
 msgid "LINEST"
@@ -45680,7 +45680,7 @@ msgstr "#NAME!"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_STYLE.string.text
 msgid "STYLE"
-msgstr "STÍL"
+msgstr "STYLE"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_DDE.string.text
 msgid "DDE"
@@ -45688,11 +45688,11 @@ msgstr "DDE"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_BASE.string.text
 msgid "BASE"
-msgstr "BONN"
+msgstr "BASE"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_DECIMAL.string.text
 msgid "DECIMAL"
-msgstr "DEACHÚLACH"
+msgstr "DECIMAL"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_ROMAN.string.text
 msgid "ROMAN"
@@ -45700,7 +45700,7 @@ msgstr "ROMAN"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_HYPERLINK.string.text
 msgid "HYPERLINK"
-msgstr "HIPEARNASC"
+msgstr "HYPERLINK"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_BAHTTEXT.string.text
 msgid "BAHTTEXT"
