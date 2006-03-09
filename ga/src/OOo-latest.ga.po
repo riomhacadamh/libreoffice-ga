@@ -1,7 +1,3 @@
-# OOo pot file for Irish.
-#   CURRENT VERSION = SRC680_m156
-# First version produced Sept. 2004 by Kevin Scannell using the oo2po
-# scripts by David Fraser et al
 msgid ""
 msgstr ""
 "Project-Id-Version: OOo\n"
@@ -36464,7 +36460,7 @@ msgid "Authentication request"
 msgstr "Iarratas fíordheimhnithe"
 
 #: readme.xrm#ooo_readme.Welcome.A2.a.readmeitem.text
-msgid "Last updated $Date: 2006-02-28 03:15:20 $"
+msgid "Last updated $Date: 2006-03-09 02:35:54 $"
 msgstr ""
 
 #: readme.xrm#ooo_readme.Welcome.A3.a.readmeitem.text
@@ -36473,7 +36469,7 @@ msgstr "OpenOffice.org 2.0 ReadMe"
 
 #: readme.xrm#ooo_readme.Welcome.A4.a.readmeitem.text
 msgid "For latest updates to this readme file, see "
-msgstr ""
+msgstr "Le haghaidh na nuashonruithe is déanaí don chomhad seo, féach ar"
 
 #: readme.xrm#ooo_readme.Welcome.A4.b.readmeitem.text
 msgid "http://www.openoffice.org/welcome/readme.html"
@@ -36488,6 +36484,8 @@ msgid ""
 "This file contains important information about this program. Please read this "
 "information very carefully before starting work."
 msgstr ""
+"Tá eolas tábhachtach sa chomhad seo faoin gclár seo. Léigh é go cúramach "
+"roimh dul i mbun oibre, le do thoil."
 
 #: readme.xrm#ooo_readme.Welcome..A7.a.readmeitem.text
 msgid ""
@@ -36496,6 +36494,10 @@ msgid ""
 "new user, you can check out the OpenOffice.org site with helpful user "
 "information at "
 msgstr ""
+"Ba mhaith le Comhphobal OpenOffice.org, ar a bhfuil sé de chúram an táirge "
+"seo a fhorbairt, cuireadh a thabhairt duit bheith i do bhall den chomhphobal. "
+"Agus tú i d'usáideoir nua, tig leat eolas úsáideach a fháil ach cuairt a "
+"thabhairt  ar shuíomh gréasáin OpenOffice.org ag"
 
 #: readme.xrm#ooo_readme.Welcome..A8.b.readmeitem.text
 msgid "http://www.openoffice.org/about_us/introduction.html "
@@ -36506,10 +36508,12 @@ msgid ""
 "Also read the sections below about getting involved in the OpenOffice.org "
 "project. "
 msgstr ""
+"Léigh freisin an méid thíos faoi bheith páirteach i dtionscadal OpenOffice."
+"org."
 
 #: readme.xrm#ooo_readme.Error.B1.sdfsd432re342r.readmeitem.text
 msgid "Error Report Tool"
-msgstr ""
+msgstr "Uirlis Tuarascála Earráidí"
 
 #: readme.xrm#ooo_readme.Error.B2.ertert3434534.readmeitem.text
 msgid ""
@@ -36517,6 +36521,10 @@ msgid ""
 "the program enters into an endless loop, so that it does not respond to mouse-"
 "clicks or keypresses, you can also start the Error Report Tool manually."
 msgstr ""
+"Tosóidh an Uirlis Tuarascála Earráidí go huathoibríoch má chliseann "
+"ríomhchlár. Más i lúb éigríochta atá an ríomhchlár agus mura bhfuil sé ag "
+"freagairt do chliceanna luiche nó d'eochairbhuillí, is féidir an Uirlis "
+"Tuarascála Earráidí a thosú le láimh."
 
 #: readme.xrm#ooo_readme.Error.B2b.ertert3434534.readmeitem.text
 msgid ""
@@ -36525,6 +36533,11 @@ msgid ""
 "can possibly be avoided. Please help us to improve the software and send the "
 "generated error report by e-mail."
 msgstr ""
+"Bailíonn an Uirlis Tuarascála Earráidí an t-eolas go léir atá riachtanach "
+"chun cabhrú le forbróirí an ríomhchláir agus iad ag cur feabhas air, ionas "
+"gur féidir an earráid seo a sheachaint i leagain eile amach anseo. Cabhraigh "
+"linn an bogearra a fheabhsú, le do thoil, agus seol an tuarascáil ghinte "
+"chugainn mar ríomhphost."
 
 #: readme.xrm#ooo_readme.Error.B2c.ertert3434534.readmeitem.text
 msgid ""
@@ -36533,16 +36546,24 @@ msgid ""
 "personally identifiable information you share with us. See the statement at "
 "http://www.sun.com/privacy/ on your online data privacy at Sun Microsystems."
 msgstr ""
+"Tá sé de rún daingean ag Sun Microsystems aird a thabhairt ar do "
+"phríobháideachas ar líne agus aithnítear an gá atá agat le cosaint agus "
+"bainistíocht chuí de eolas ar bith atá inaitheanta go pearsanta agus a "
+"roghnaítear linn. Feic an ráiteas is déanaí maidir le do phríobháideachas ar "
+"líne ag Sun Microsystems ag http://www.sun.com/privacy/."
 
 #: readme.xrm#ooo_readme.Error.B3.sdf3e3.readmeitem.text
 msgid "Known Limitations of the Error Report Tool for OpenOffice.org"
 msgstr ""
+"Teorainneacha Aitheanta na hUirlise Tuarascála Earráidí in OpenOffice.org"
 
 #: readme.xrm#ooo_readme.Error.B4.sdf3sd2.readmeitem.text
 msgid ""
 "The following limitations are only valid for OpenOffice.org. Please read this "
 "information very carefully."
 msgstr ""
+"Ní bhaineann na teorainneacha seo ach le OpenOffice.org. Léigh an t-eolas seo "
+"go cúramach le do thoil."
 
 #: readme.xrm#ooo_readme.Error.B5Win.sdf3sd24.readmeitem.text
 msgid ""
@@ -36551,14 +36572,19 @@ msgid ""
 "Mozilla 1.0, 1.2, 1.3 and Netscape 6.x do not send the created error message "
 "correctly and will not display any error message."
 msgstr ""
+"Ní mór Microsoft Outlook Express nó Microsoft Outlook a bheith suiteáilte "
+"agus cumraithe mar do chliant ríomhphoist réamhshocraithe (MAPI) chun na "
+"teachtaireachtaí earráide seo a sheoladh. Ní sheolann Mozilla 1.0, 1.2, 1.3 "
+"nó Netscape 6.x an teachtaireacht earráide i gceart, agus ní thaispeánann "
+"siad earráid ar bith dá bharr."
 
 #: readme.xrm#ooo_readme.Error.B5Unix.sdf3sd24.readmeitem.text
 msgid "You need to have SendMail installed and configured on your system."
-msgstr ""
+msgstr "Ní mór SendMail a bheith suiteáilte agus cumraithe ar do ríomhaire."
 
 #: readme.xrm#ooo_readme.Error.B6u.sdf3sd24.readmeitem.text
 msgid "Starting the Error Report Tool"
-msgstr ""
+msgstr "Tosú na hUirlise Tuarascála Earráide"
 
 #: readme.xrm#ooo_readme.Error.B6.sdf3sd24.readmeitem.text
 msgid ""
@@ -36567,10 +36593,15 @@ msgid ""
 "automatically, you can start the tool manually: Go to the OpenOffice.org "
 "program folder and start the 'crashrep.exe' file."
 msgstr ""
+"Tosóidh an Uirlis Tuarascála Earráidí go huathoibríoch tar éis formhór na "
+"gclistí. Má tá an cosúlacht air go bhfuil an ríomhchlár imithe i ngreim agus "
+"mura thosaíonn an uirlis go huathoibríoch, tig leat an uirlis a thosú le "
+"láimh: téigh go fillteán na ríomhchlár OpenOffice.org agus tosaigh an comhad "
+"'crashrep.exe'."
 
 #: readme.xrm#ooo_readme.Error.B7u.sdf3sd24.readmeitem.text
 msgid "Completing the Report"
-msgstr ""
+msgstr "Críochnú na Tuarascála"
 
 #: readme.xrm#ooo_readme.Error.B7.sdf3sd24.readmeitem.text
 msgid ""
@@ -36579,10 +36610,15 @@ msgid ""
 "if the error only appears after a change in your hardware or software "
 "environment, or if you clicked on a button, please include that information."
 msgstr ""
+"I bpríomhdhialóg na hUirlise Tuarascála Earraidí is féidir leat eolas breise "
+"a thabhairt a d'fhéadfadh cabhrú lenár forbróirí an earráid a aimsiú. Mar "
+"shampla, mura tharlaíonn an earráid ach tar éis athrú i do chruaearraí nó i "
+"do bhogearraí, nó tar éis duit clicéail ar chnaipe, cuir an t-eolas sin leis, "
+"le do thoil."
 
 #: readme.xrm#ooo_readme.Error.B8u.sdf3sd24.readmeitem.text
 msgid "Sending the Error Report by E-mail"
-msgstr ""
+msgstr "Seoladh na Tuarascála Earráide mar Ríomhphost"
 
 #: readme.xrm#ooo_readme.Error.B8.sdf3sd24.readmeitem.text
 msgid ""
@@ -36590,6 +36626,10 @@ msgid ""
 "report data. You may optionally enter some descriptive text that will help us "
 "to identify the context of the program crash. Then click the Send button."
 msgstr ""
+"Úsáidfidh an Uirlis Tuarascála Earráidí feidhmchlár ríomhphoist do chórais "
+"chun sonraí na tuarascála a sheoladh. Tá sé de rogha agat cur síos a chur "
+"leis a chabhróidh linn comhthéacs an chliste a aithint. Ansin cliceáil ar an "
+"gcnaipe Seol."
 
 #: readme.xrm#ooo_readme.Error.B8b.sdf3sd24.readmeitem.text
 msgid ""
@@ -36598,16 +36638,24 @@ msgid ""
 "mail, should additional information be required. By default this box is not "
 "marked, so you will not get any e-mail from us. "
 msgstr ""
+"Is féidir leat roghnú an bhfuil tú sásta ceisteanna ónar bhforbróirí maidir "
+"leis an earráid a fhreagairt. Marcáil an ticbhosca má tá cead againn dul i "
+"dteagmháil leat trí ríomhphost, sa chás go bhfuil eolas breise uainn. Is é an "
+"réamhshocrú nach bhfuil an bosca seo marcáilte agus mar sin ní bhfaighfidh tú "
+"aon ríomhphost uainn."
 
 #: readme.xrm#ooo_readme.Error.B8c.sdf3sd24.readmeitem.text
 msgid ""
 "Please note: You will not get an answer to your error report. If you need "
 "support, please visit our Support Portal on the Internet."
 msgstr ""
+"Tabhair faoi deara: ní bhfaighfidh tú freagra ar do thuarascáil earráide. Má "
+"tá cabhair uait, tabhair cuairt ar ár dTairseach Tacaíochta ar an ngréasán, "
+"le do thoil."
 
 #: readme.xrm#ooo_readme.Error.B9u.sdf3sd24.readmeitem.text
 msgid "What Data is Sent?"
-msgstr ""
+msgstr "Cad iad na Sonraí a Sheolfar?"
 
 #: readme.xrm#ooo_readme.Error.B9.sdf3sd24.readmeitem.text
 msgid ""
@@ -36617,6 +36665,12 @@ msgid ""
 "this file in your e-mail client before you send the e-mail, and you can click "
 "the Show Report button on the main dialog of the Error Report Tool."
 msgstr ""
+"Scata comhad atá sa tuairisc earráide. Is comhad XML é an príomhchomhad ina "
+"bhfuil faisnéis maidir le cineál na hearráide, ainm agus leagan an chórais "
+"oibriúcháin agus úsáid chuimhne, maraon leis an gcur síos a d'iontráil tú. "
+"Tig leat amharc ar inneachar an chomhaid seo i do chliant ríomhphoist roimh "
+"an teachtaireacht a sheoladh, agus is féidir cliceáil ar an gcnaipe "
+"'Taispeáin an Tuairisc' i bpríomhdhialóg na hUirlise Tuarascála Earráidí."
 
 #: readme.xrm#ooo_readme.Error.B9b.sdf3sd24.readmeitem.text
 msgid ""
@@ -36625,6 +36679,11 @@ msgid ""
 "systems). The resulting binary file is attached to the e-mail. You can view "
 "the contents with a hexadecimal editor, for example."
 msgstr ""
+"Chomh maith leis sin, bailítear inneachar cuimhne oiriúnach agus rianta "
+"cruaiche oiriúnacha le gnáth-uirlisí an chórais ('dbhhelp.dll' ar chórais "
+"Windows, 'pstack' ar chórais  UNIX). Cuirtear na torthaí leis an ríomhphost "
+"mar chomhad dénártha. Tig leat amharc ar a inneachar le heagarthóir "
+"heicsidheachúlach, mar shampla."
 
 #: readme.xrm#ooo_readme.Installation.Header.rr3fgf42r.readmeitem.text
 msgid "Notes on Installation"
@@ -36642,7 +36701,7 @@ msgstr "Microsoft Windows 98, ME, NT (Service Pack 6 nó níos airde), 2000 nó 
 msgid ""
 "_: readme.xrm#ooo_readme.Installation.WNT2.utzu6.readmeitem.text\n"
 "Pentium compatible PC"
-msgstr ""
+msgstr "Ríomhaire comhoiriúnach le Pentium"
 
 #: readme.xrm#ooo_readme.Installation.WNT2.ghuj67.readmeitem.text
 msgid ""
@@ -36694,6 +36753,8 @@ msgid ""
 "Gnome 2.6 or higher required for support of assistive technology tools (AT "
 "tools) via Java accessibility support"
 msgstr ""
+"Gnome 2.6 nó níos déanaí de dhíth chun tacú le huirlisí teicneolaíochta cúnta "
+"trí thacaíocht inrochtaineachta Java "
 
 #: readme.xrm#ooo_readme.Installation.Sols2.n4234rw.readmeitem.text
 msgid ""
@@ -36733,6 +36794,7 @@ msgid ""
 "_: readme.xrm#ooo_readme.Installation.Solia2.wd2dff.readmeitem.text\n"
 "Gnome 2.6 or higher required for Assistive Technology Tools"
 msgstr ""
+"Gnome 2.6 nó níos déanaí de dhíth le haghaidh uirlisí teicneolaíochta cúnta"
 
 #: readme.xrm#ooo_readme.Installation.Solia2.mgjfg.readmeitem.text
 msgid ""
@@ -36756,7 +36818,7 @@ msgstr "glibc2, leagan 2.2.4 nó níos airde"
 msgid ""
 "_: readme.xrm#ooo_readme.Installation.Linuxi2.s2etfseg.readmeitem.text\n"
 "Pentium compatible PC"
-msgstr ""
+msgstr "Ríomhaire comhoiriúnach le Pentium"
 
 #: readme.xrm#ooo_readme.Installation.Linuxi2.s2ssdfe.readmeitem.text
 msgid ""
@@ -36785,6 +36847,7 @@ msgid ""
 "_: readme.xrm#ooo_readme.Installation.Linuxi2.wd2dff.readmeitem.text\n"
 "Gnome 2.6 or higher required for Assistive Technology Tools"
 msgstr ""
+"Gnome 2.6 nó níos déanaí de dhíth le haghaidh uirlisí teicneolaíochta cúnta"
 
 #: readme.xrm#ooo_readme.Installation.Linuxi2.fhrtz5.readmeitem.text
 msgid ""
@@ -36808,7 +36871,7 @@ msgstr "glibc2, leagan 2.2.4 nó níos airde"
 msgid ""
 "_: readme.xrm#ooo_readme.Installation.Linuxp2.ppcs2etfseg.readmeitem.text\n"
 "PowerPC compatible G3"
-msgstr ""
+msgstr "G3 comhoiriúnach le PowerPC"
 
 #: readme.xrm#ooo_readme.Installation.Linuxp2.ppcs2ssdfe.readmeitem.text
 msgid ""
@@ -36837,6 +36900,7 @@ msgid ""
 "_: readme.xrm#ooo_readme.Installation.Linuxp2.ppcwd2dff.readmeitem.text\n"
 "Gnome 2.6 or higher required for Assistive Technology Tools"
 msgstr ""
+"Gnome 2.6 nó níos déanaí de dhíth le haghaidh uirlisí teicneolaíochta cúnta"
 
 #: readme.xrm#ooo_readme.Installation.Linuxp2.ppcfhrtz5.readmeitem.text
 msgid ""
@@ -36852,7 +36916,7 @@ msgstr "Mac OS X 10.3.4 nó níos airde"
 msgid ""
 "_: readme.xrm#ooo_readme.Installation.Macxp.macxps2etfseg.readmeitem.text\n"
 "PowerPC compatible G3"
-msgstr ""
+msgstr "G3 comhoiriúnach le PowerPC"
 
 #: readme.xrm#ooo_readme.Installation.Macxp.macxps2ssdfe.readmeitem.text
 msgid ""
@@ -36882,16 +36946,19 @@ msgid ""
 "_: readme.xrm#ooo_readme.Installation.Macxp.macxpwd2dff.readmeitem.text\n"
 "Gnome 2.6 or higher required for Assistive Technology Tools"
 msgstr ""
+"Gnome 2.6 nó níos déanaí de dhíth le haghaidh uirlisí teicneolaíochta cúnta"
 
 #: readme.xrm#ooo_readme.Installation.Macxp.macxpfhrtz5.readmeitem.text
 msgid "Aquawm or third part Window Manager"
-msgstr ""
+msgstr "Aquawm nó bainisteoir fuinneoga eile"
 
 #: readme.xrm#ooo_readme.Installation.B763ef.edssc3d.readmeitem.text
 msgid ""
 "Note: Please be aware that administrator rights are needed for the "
 "installation process."
 msgstr ""
+"Nóta: tabhair faoi deara go bhfuil cearta riarthóra riachtanach don phróiseas "
+"suiteála."
 
 #: readme.xrm#ooo_readme.Installation.B763ef.dsdsdf33.readmeitem.text
 msgid ""
@@ -36900,6 +36967,10 @@ msgid ""
 "your system. You should either ignore this message or open the OpenOffice.org "
 "installation program again after the reboot."
 msgstr ""
+"Nóta d'úsáideoirí Windows 98 amháin: más é do rogha Java a shuiteáil le linn "
+"shuiteáil OpenOffice.org, iarrfaidh an clár suiteála ort do chóras a atosú. "
+"Ba cheart duit neamhaird a thabhairt ar an dteachtaireacht seo, nó clár "
+"suiteála OpenOffice.org a thosú arís tar éis an atosaithe sin."
 
 #: readme.xrm#ooo_readme.Installation.Grafik.abcdef.readmeitem.text
 msgid ""
@@ -36910,6 +36981,13 @@ msgid ""
 "Difficulties displaying 3D objects can often be solved by deactivating the "
 "option \"Use OpenGL\" under 'Tools - Options - View - 3D view'."
 msgstr ""
+"Is minic tiománaí an chárta ghrafaice a bheith freagrach as fadhbanna i dtosú "
+"OpenOffice.org (m.sh. stopann feidhmchláir) chomh maith le fadhbanna i "
+"dtaispeáint ar an scáileán. Má tharlaíonn fadhbanna mar sin, nuashonraigh "
+"tiománaí do chárta ghrafaice nó bain triail as an tiománaí atá mar chuid de "
+"do chóras oibriúcháin. Go minic is féidir fadhbanna i dtaispeáint oibiachtaí "
+"3T a réiteach trín rogha \"Usáid OpenGL\" a dhíchumasú in 'Uirlisí - Roghanna "
+"- Amharc - Amharc 3T'."
 
 #: readme.xrm#ooo_readme.Installation.b4tz.ghtz5.readmeitem.text
 msgid ""
@@ -36917,10 +36995,13 @@ msgid ""
 "SUN Microsystems must be installed. You can find them on the program CD in "
 "the following directories or download them at http://sunsolve.sun.com"
 msgstr ""
+"Ní mór paiste nó paistí ó Sun Microsystems don chóras oibriúcháin a bheith "
+"suiteáilte roimh OpenOffice.org a shuiteáil. Tá siad le fáil ar dhlúthdhiosca "
+"an ríomhchláir nó is féidir iad a íosluchtú ó http://sunsolve.sun.com"
 
 #: readme.xrm#ooo_readme.Installation.Sols3.dfg4tr.readmeitem.text
 msgid "Operating system patches required:"
-msgstr ""
+msgstr "Paistí atá riachtanach don chóras oibriúcháin:"
 
 #: readme.xrm#ooo_readme.Installation.Sols_Patch.xch3.readmeitem.text
 msgid ""
@@ -36947,6 +37028,8 @@ msgid ""
 "The versions mentioned above are the minimum requirements, newer (higher) "
 "version numbers are also allowed."
 msgstr ""
+"Is iad na riachtanais is lú na leagain a luaitear thuas; tá uimhreacha "
+"leagain níos nuaí (.i. níos airde) ceadaithe freisin."
 
 #: readme.xrm#ooo_readme.Installation.B2l3.erter343534.readmeitem.text
 msgid ""
@@ -36956,6 +37039,11 @@ msgid ""
 "and choose 'Repair'. This ensures that the new version is correctly "
 "registered in your system."
 msgstr ""
+"Is féidir leat OpenOffice.org 2.0 a shuiteáil taobh le taobh le leagan níos "
+"sine de OpenOffice.org. Má dhíshuiteálann tú an seanleagan de OpenOffice.org "
+"ina dhiaidh sin, caithfidh tú clár suiteála an leagan nua a rith agus "
+"'Deisigh' a roghnú. Cinnteoidh seo go bhfuil an leagan nua cláraithe i gceart "
+"ar do chóras."
 
 #: readme.xrm#ooo_readme.Installation.B2l3.erter34353ew4.readmeitem.text
 msgid ""
@@ -36964,6 +37052,11 @@ msgid ""
 "choose 'Edit - Paste Special' and choose a format other than OpenOffice.org, "
 "or open the document in OpenOffice.org 2.0 directly."
 msgstr ""
+"Tabhair faoi deara go bhfuil seans ann nach n-oibreoidh cóipeáil-agus-"
+"greamaigh i bhformáid OpenOffice.org trín ghearrthaisce idir OpenOffice.org 1."
+"x agus OpenOffice.org 2.0. Más ea, roghnaigh 'Cuir in Eagar - Greamaigh "
+"Spesialta' agus roghnaigh formáid eile seachas OpenOffice.org, nó oscail an "
+"cháipéis go díreach in OpenOffice.org 2.0."
 
 #: readme.xrm#ooo_readme.Installation.B3.erte53t434534.readmeitem.text
 msgid ""
@@ -36971,10 +37064,13 @@ msgid ""
 "your system and that read, write and run access rights have been granted. "
 "Close all other programs before starting the installation."
 msgstr ""
+"Cinntigh go bhfuil go leor spás saor agat i gcomhadlann shealadach do chórais "
+"agus go bhfuil cead léite, scríofa agus reatha agat ann. Dún gach clár eile "
+"roimh tús a chur leis an tsuiteáil."
 
 #: readme.xrm#ooo_readme.Networkinstallation.a2.sddf3f.readmeitem.text
 msgid "Network Installation: Error When Calling the OpenOffice.org Quickstarter"
-msgstr ""
+msgstr "Suiteáil Ghréasáin: Earráid agus Meardhúisire OpenOffice.org á Rith"
 
 #: readme.xrm#ooo_readme.Networkinstallation.s2.dew32f.readmeitem.text
 msgid ""
@@ -36983,6 +37079,9 @@ msgid ""
 "the network drive on which the network installation is installed is not yet "
 "available."
 msgstr ""
+"Má bhíonn fadhbanna ann agus Meardhúisire OpenOffice.org á ghlao le linn tosú "
+"an chórais (m.sh. nasc neamhbhailí), gach seans nach bhfuil an tiomántán "
+"gréasáin ar a bhfuil sé suiteáilte ar fáil fós."
 
 #: readme.xrm#ooo_readme.Networkinstallation.d2.df3df.readmeitem.text
 msgid ""
@@ -36991,6 +37090,10 @@ msgid ""
 "to running the programs of the autostart group from which the Quickstarter is "
 "also started."
 msgstr ""
+"Don chuid is mó, tarlaíonn seo nuair a cheanglaítear leis na tiomántáin "
+"ghréasáin i script logála isteach, rud a bhunaíonn na ceangail leo ag an am "
+"céanna is a ritear ríomhchláir an ghrúpa uathtosaithe ina bhfuil an "
+"Meardhúisire."
 
 #: readme.xrm#ooo_readme.Networkinstallation.d3.sd23f.readmeitem.text
 msgid ""
@@ -37002,11 +37105,18 @@ msgid ""
 "the network installation, then the Quickstarter cannot be selected by the "
 "user in a later workstation installation."
 msgstr ""
+"Ba cheart an tiomántán gréasáin a bheith ceangailte trí seirbhísí an chórais "
+"chun an fhadhb seo a sheachaint. Mura féidir é sin a dhéanamh, is féidir an "
+"nasc a úsáidtear leis an Meardhúisire a ghlao a bhaint ó ghrúpa uathtosaithe "
+"an chórais, nó is féidir an Meardhúisire a bheith díchumasaithe cheana roimh "
+"shuiteáil ar stáisiúin oibre. Má dhíchumasaigh riarthóir an chórais an "
+"Meardhúisire le linn suiteála gréasáin, ní féidir leis an úsáideoir an "
+"Meardhúisire a roghnú i suiteáil níos déanaí ar stáisiún oibre."
 
 #: readme.xrm#ooo_readme.CDE.dxy.asas.readmeitem.text
 msgid ""
 "Deinstalling a Network Installation Under Common Desktop Environment (CDE)"
-msgstr ""
+msgstr "Díshuiteáil Shuiteáil Ghréasáin le Common Desktop Environment (CDE)"
 
 #: readme.xrm#ooo_readme.CDE.saw.asd3.readmeitem.text
 msgid ""
@@ -37015,6 +37125,10 @@ msgid ""
 "(root) the following command line to remove the shortcuts from the CDE: /usr/"
 "dt/bin/dtappintegrate -u -s [path to OpenOffice.org]."
 msgstr ""
+"Le linn díshuiteála, ní bhaintear go huathoibríoch na haicearraí a socraíodh "
+"mar chuid de shuiteáil ghréasáin. Roimh díshuiteáil, úsáid an t-ordú seo a "
+"leanas mar riarthóir (.i. root) chun na haicearraí a bhaint ón CDE: /usr/dt/"
+"bin/dtappintegrate -u -s [conair go OpenOffice.org]."
 
 #: readme.xrm#ooo_readme.CDE.df3d.ef3s.readmeitem.text
 msgid "Example: /usr/dt/bin/dtappintegrate -u -s /usr/local/OpenOffice.org2.0"
@@ -37022,7 +37136,7 @@ msgstr "Sampla: /usr/dt/bin/dtappintegrate -u -s /usr/local/OpenOffice.org2.0"
 
 #: readme.xrm#ooo_readme.SessionManager.F1a.naso.readmeitem.text
 msgid "Problems During Program Startup on Gnome"
-msgstr ""
+msgstr "Fadhbanna le linn Tosú an Chláir ar Gnome"
 
 #: readme.xrm#ooo_readme.SessionManager.F1b.naso2.readmeitem.text
 msgid ""
@@ -37032,16 +37146,23 @@ msgid ""
 "\"unset SESSION_MANAGER\" to the beginning of the soffice shell script found "
 "in the \"[office folder]/program\" directory."
 msgstr ""
+"Má bhíonn fadhbanna tosaithe agat le OpenOffice.org (agus Gnome in úsáid agat "
+"ach go háirithe), díshocraigh an athróg timpeallachta SESSION_MANAGER sa "
+"bhlaosc a úsáideann tú chun tús a chur le OpenOffice.org. Is féidir é seo a "
+"dhéanamh trín líne \"unset SESSION_MANAGER\" a chur ag tús na scripte "
+"blaoisce soffice atá sa chomhadlann \"[fillteán OpenOffice]/program\"."
 
 #: readme.xrm#ooo_readme.Scroll.F1a.naso.readmeitem.text
 msgid "ALPS/Synaptics notebook touchpads in Windows"
-msgstr ""
+msgstr "Ceapanna tadhaill ALPS/Synaptics ar ríomhairí glúine le Windows"
 
 #: readme.xrm#ooo_readme.Scroll.F1b.naso2.readmeitem.text
 msgid ""
 "Due to a Windows driver issue, you cannot scroll through OpenOffice.org "
 "documents when you slide your finger across an ALPS/Synaptics touchpad."
 msgstr ""
+"De bharr faidhbe tiomántáin i Windows, ní féidir scrollú i gcáipéisí "
+"OpenOffice.org trí do mhéar a shleamhnú ar cheap tadhaill ALPS/Synaptics."
 
 #: readme.xrm#ooo_readme.Scroll.F1c.naso2.readmeitem.text
 msgid ""
@@ -37049,6 +37170,9 @@ msgid ""
 "Files\\Synaptics\\SynTP\\SynTPEnh.ini\" configuration file, and restart your "
 "computer:"
 msgstr ""
+"Chun scrollú le ceap tadhaill a chumasú, cuir na línte seo a leanas sa "
+"chomhad cumraíochta \"C:\\Program Files\\Synaptics\\SynTP\\SynTPEnh.ini\" "
+"agus atosaigh do ríomhaire:"
 
 #: readme.xrm#ooo_readme.Scroll.F1d.naso2.readmeitem.text
 msgid "[OpenOffice.org]"
@@ -37056,7 +37180,7 @@ msgstr "[OpenOffice.org]"
 
 #: readme.xrm#ooo_readme.Scroll.F1d.naso3.readmeitem.text
 msgid "FC = \"SALFRAME\""
-msgstr ""
+msgstr "FC = \"SALFRAME\""
 
 #: readme.xrm#ooo_readme.Scroll.F1d.naso4.readmeitem.text
 msgid "SF = 0x10000000"
@@ -37071,10 +37195,12 @@ msgid ""
 "Note: The location of the configuration file might vary on different versions "
 "of Windows."
 msgstr ""
+"Nóta: d'fhéadfadh suíomh an chomhaid chumraíochta a bheith éagsúil ar "
+"leaganacha éagsúla de Windows."
 
 #: readme.xrm#ooo_readme.ArabicFont.F2a.abdfe.readmeitem.text
 msgid "Important Information for Arabic and Hebrew Versions"
-msgstr ""
+msgstr "Eolas Tábhachtach maidir leis na leaganacha Araibise agus Eabhraise"
 
 #: readme.xrm#ooo_readme.ArabicFont.F2b.abdfe2.readmeitem.text
 msgid ""
@@ -37084,10 +37210,15 @@ msgid ""
 "Program. The JRE will install the fonts required for Arabic and Hebrew "
 "versions."
 msgstr ""
+"Má thaispeántar spásanna bána nó cearnóga in áit an téacs i gcomhéadan "
+"úsáideora na leaganacha Araibise nó Eabhraise, suiteáil an Java Runtime "
+"Environment (JRE 1.4.1) is déanaí roimh Clár Suiteála OpenOffice.org a rith. "
+"Suiteálfaidh an JRE na clófhoirne cuí do na leaganacha Araibise agus "
+"Eabhraise. "
 
 #: readme.xrm#ooo_readme.Zoomtext.aw.aw2.readmeitem.text
 msgid "Ai Squared ZoomText 7.11"
-msgstr ""
+msgstr "Ai Squared ZoomText 7.11"
 
 #: readme.xrm#ooo_readme.Zoomtext.aw3.aw4.readmeitem.text
 msgid ""
@@ -37095,6 +37226,10 @@ msgid ""
 "version 7.11 or higher. The date of the Ai Squared ZoomText download must be "
 "after June 12, 2002 for it to contain all the necessary program enhancements."
 msgstr ""
+"Más mian leat Ai Squared ZoomText a úsáid le OpenOffice.org 2.0, tá leagan "
+"7.11 nó níos déanaí riachtanach. Ní mór dáta íosluchtála Ai Squared ZoomText "
+"a bheith tar éis 12 Meitheamh 2002 ionas go mbeidh gach breisiúchán atá "
+"riachtanach ann."
 
 #: readme.xrm#ooo_readme.Netscape.xcv.sdfsd32asrc.readmeitem.text
 msgid "Mozilla Address Book Driver"
@@ -37108,10 +37243,15 @@ msgid ""
 "Solaris operating system using the command \"pkgadd\" from the installation "
 "CD."
 msgstr ""
+"Tá an pacáiste SUNWzlib riachtanach do thiomántán leabhair sheoltaí Mozilla. "
+"Níl an pacáiste seo ina chuid den suiteáil is lú den chóras oibriúcháin "
+"Solaris. Má tá rochtain ar leabhar seoltaí Mozilla uait, cuir an pacáiste seo "
+"le do chóras oibriúcháin Solaris leis an t-ordú \"pkgadd\" ón dlúthdhiosca "
+"suiteála."
 
 #: readme.xrm#ooo_readme.UI_Font.abc.awe.readmeitem.text
 msgid "Changing the User Interface Font"
-msgstr ""
+msgstr "Athrú Chló an Chomhéadain Úsáideora"
 
 #: readme.xrm#ooo_readme.UI_Font.abc1.w32e.readmeitem.text
 msgid ""
@@ -37120,6 +37260,10 @@ msgid ""
 "can be done using the font replacement function. Choose 'Tools - Options - "
 "OpenOffice.org - Fonts' to access the font replacement table."
 msgstr ""
+"Is féidir an cló a úsáidtear in OpenOffice.org ar an scáileán agus do "
+"phriontáil a athrú trí é a ionadú le cló eile atá suiteáilte ar do ríomhaire. "
+"Déantar é seo leis an bhfeidhm ionadaithe cló. Roghnaigh 'Uirlisí - Roghanna "
+"- OpenOffice.org - Clónna' chun tábla ionadaithe na gclónna a rochtain."
 
 #: readme.xrm#ooo_readme.UI_Font.abc2.asw3.readmeitem.text
 msgid ""
@@ -37127,11 +37271,15 @@ msgid ""
 "the default font \"Andale Sans UI\" with another font and mark the \"always\" "
 "setting for this replacement."
 msgstr ""
+"Le cló an chomhéadain úsáideora in OpenOffice.org a athrú, caithfidh tú cló "
+"eile a chur in áit an chló réamhshocraithe \"Andale Sans UI\"  agus an socrú "
+"\"i gcónaí\" a mharcáil don chló nua sin."
 
 #: readme.xrm#ooo_readme.UI_Font.abc3.sdf3.readmeitem.text
 msgid ""
 "Refer to the OpenOffice.org Help for a detailed explanation of the dialog."
 msgstr ""
+"Féach sa Chabhair in OpenOffice.org le haghaidh mionchuntais ar an dialóg. "
 
 #: readme.xrm#ooo_readme.Keyboard.abc2.awe1.readmeitem.text
 msgid "Shortcut Keys"
@@ -37148,6 +37296,15 @@ msgid ""
 "refer to the OpenOffice.org Help or the Help documentation of your operating "
 "system."
 msgstr ""
+"Ní féidir ach aicearraí méarchláir nach bhfuil in úsáid ag an gcóras "
+"oibriúcháin a úsáid in OpenOffice.org. Muna n-oibríonn teaglaim eochracha in "
+"OpenOffice.org sa dóigh a dhéantar cur síos uirthi i gCabhair OpenOffice.org, "
+"féach an bhfuil an t-aicearra sin in úsáid cheana ag an gcóras oibriúcháin. "
+"Is féidir leat na heochracha atá socruithe ag do chóras a athrú chun "
+"coimhlintí mar seo a réiteach. Mar rogha air sin, is féidir beagnach socrú "
+"eochrach ar bith in OpenOffice.org a athrú. Le haghaidh tuilleadh eolais ar "
+"an ábhar seo, féach i gcáipéisí cabhrach OpenOffice.org nó do chórais "
+"oibriúcháin."
 
 #: readme.xrm#ooo_readme.FileLocking.G1.gfh6w.readmeitem.text
 msgid "File Locking"
@@ -37160,6 +37317,11 @@ msgid ""
 "SAL_ENABLE_FILE_LOCKING=0 and export SAL_ENABLE_FILE_LOCKING. These entries "
 "are already in enabled form in the soffice script file."
 msgstr ""
+"Tá glasáil chomhad cumasaithe mar réamhshocrú in OpenOffice.org. Chun í a "
+"dhíchumasú, ní mór an athróg timpeallachta cuí a shocrú mar "
+"SAL_ENABLE_FILE_LOCKING=0 agus SAL_ENABLE_FILE_LOCKING a easpórtáil. Tá na "
+"hiontrálacha seo sa bhfoirm chumasaithe cheana féin sa chomhad scripte "
+"soffice."
 
 #: readme.xrm#ooo_readme.FileLocking.G3.pji76wsdf.readmeitem.text
 msgid ""
@@ -37169,10 +37331,15 @@ msgid ""
 "the file locking feature. Otherwise, OpenOffice.org will hang when you try to "
 "open a file from a NFS mounted directory from a Linux computer."
 msgstr ""
+"Rabhadh: is féidir an ghlasáil chomhad a bheith freagrach as fadhbanna le "
+"Solaris 2.5.1 agus 2.7 agus iad úsáidte le Linux NFS 2.0. Más amhlaidh do "
+"thimpeallacht chórais, moltar go láidir úsáid na glasála comhad a sheachaint. "
+"Murach sin, stopfaidh OpenOffice.org má dhéantar iarracht comhad a oscailt ó "
+"chomhadlann atá gléasta le NFS ó ríomhaire Linux."
 
 #: readme.xrm#ooo_readme.Mapi.G1a.gfh6w.readmeitem.text
 msgid "Problems When Sending Documents as E-mails From OpenOffice.org"
-msgstr ""
+msgstr "Fadhbanna agus Cáipéisí á Seoladh mar Ríomhphost ó OpenOffice.org"
 
 #: readme.xrm#ooo_readme.Mapi.G2a.pji76w.readmeitem.text
 msgid ""
@@ -37184,26 +37351,37 @@ msgid ""
 "information visit http://www.microsoft.com to search the Microsoft Knowledge "
 "Base for \"mapi dll\"."
 msgstr ""
+"D'fhéadfadh fadhbanna tarlú (clisfidh nó stopfaidh an ríomhchlár) agus "
+"cáipéis á seoladh le 'Comhad - Seol - Cáipéis mar Ríomhphost' nó 'Cáipéis mar "
+"Iatán PDF'. Tarlaíonn seo mar gheall ar an gcomhad córais \"Mapi\" (Messaging "
+"Application Programming Interface) de chuid Windows atá freagrach as "
+"fadhbanna i leaganacha áirithe. Ní féidir an fhadhb a chur i leith leagain "
+"amháin den chomhad sin. Le haghaidh tuilleadh eolais, téigh go http://www."
+"microsoft.com agus lorg \"mapi dll\" sa Microsoft Knowledge Base."
 
 #: readme.xrm#ooo_readme.ModifiedSourceCode.HH1.sdffd23r3cefwefew.readmeitem.text
 msgid "Used / Modified Source Code"
-msgstr ""
+msgstr "Cód Foinseach Úsáidte/Athraithe"
 
 #: readme.xrm#ooo_readme.ModifiedSourceCode.HH2.sdffd23red32efew.readmeitem.text
 msgid ""
 "Portions Copyright 1998, 1999 James Clark. Portions Copyright 1996, 1998 "
 "Netscape Communications Corporation."
 msgstr ""
+"Cuid Cóipcheart 1998, 1999 James Clark. Cuid Cóipcheart 1996, 1998 Netscape "
+"Communications Corporation."
 
 #: readme.xrm#ooo_readme.GettingInvolved.A1.a.readmeitem.text
 msgid "Getting Involved "
-msgstr ""
+msgstr "Conas a Bheith Páirteach"
 
 #: readme.xrm#ooo_readme.GettingInvolved.A2.a.readmeitem.text
 msgid ""
 "The OpenOffice.org Community would very much benefit from your active "
 "participation in the development of this important open source project."
 msgstr ""
+"Rachadh sé go mór chun socair Chomhphobal OpenOffice.org dá mbeifeá páirteach "
+"gníomhach i bhforbairt an tionscadail thábhachtach foinsí oscailte seo."
 
 #: readme.xrm#ooo_readme.GettingInvolved.A3.a.readmeitem.text
 msgid ""
@@ -37212,6 +37390,11 @@ msgid ""
 "view to being a long-term contributor to the community. Please join and check "
 "out the user page at: "
 msgstr ""
+"Agus tú i d'úsáideoir, is cuid luachmhar de phróiseas forbartha an bhogearra "
+"tú cheana, agus ba mhaith linn tú a spreagadh chun ról níos gníomhaí fós a "
+"bheith agat d'fhonn bheith i do chuiditheoir leis an gcomhphobal go fad-"
+"téarmach. Glac páirt, le do thoil, agus féach ar leathanach na n-úsáideoirí "
+"ag:"
 
 #: readme.xrm#ooo_readme.GettingInvolved.A3.b.readmeitem.text
 msgid "http://www.openoffice.org "
@@ -37231,6 +37414,13 @@ msgid ""
 "safeguard your personal data. If you missed the registration at installation, "
 "you can return and register at any time at "
 msgstr ""
+"Caith seal beag, le do thoil, ag comhlánú an phróisis bhig chláraithe agus an "
+"bogearra á shuiteáil agat. Cé go bhfuil an cláru roghnach, molaimid duit é "
+"mar cabhróidh an t-eolas leis an gcomhphobal bogearra níos fearr a fhorbairt "
+"agus riachtanais na n-úsáideoirí a fhreagairt go díreach. Lena Pholasaí "
+"Príobháideachais, déanann Comhphobal OpenOffice.org gach iarracht do shonraí "
+"pearsanta a chosaint. Má chaill tú an clárú ag am suiteála, is féidir leat "
+"filleadh agus clárú am ar bith ag:"
 
 #: readme.xrm#ooo_readme.Registration.A2.b.readmeitem.text
 msgid "http://www.openoffice.org/welcome/registration20.html "
@@ -37238,7 +37428,7 @@ msgstr "http://www.openoffice.org/welcome/registration20.html "
 
 #: readme.xrm#ooo_readme.UserSurvey.A1.a.readmeitem.text
 msgid "User Survey "
-msgstr ""
+msgstr "Suirbhé na nÚsáideoirí"
 
 #: readme.xrm#ooo_readme.UserSurvey.A2.a.readmeitem.text
 msgid ""
@@ -37248,10 +37438,15 @@ msgid ""
 "Through its Privacy Policy, the OpenOffice.org Community takes every "
 "precaution to safeguard your personal data."
 msgstr ""
+"Tá Suirbhé na nÚsáideoirí ar líne freisin agus molaimid duit é a líonadh. "
+"Cabhróidh torthaí an tsuirbhé le OpenOffice.org bogadh níos tapúla i dtreo "
+"ardchaighdeáin a bhaint amach i gcruthú an bhogearra oifige is nuaí. Lena "
+"Pholasaí Príobháideachais, déanann Comhphobal OpenOffice.org gach iarracht do "
+"shonraí pearsanta a chosaint."
 
 #: readme.xrm#ooo_readme.ReportBugsIssues.A1.a.readmeitem.text
 msgid "Report Bugs & Issues "
-msgstr ""
+msgstr "Tabhair Tuairiscí ar Fhadhbanna agus ar Fhabhtanna"
 
 #: readme.xrm#ooo_readme.ReportBugsIssues.A2.a.readmeitem.text
 msgid ""
@@ -37262,6 +37457,13 @@ msgid ""
 "the user community can make to the ongoing development and improvement of the "
 "suite. "
 msgstr ""
+"Is ar shuíomh gréasáin OpenOffice.org atá IssueZilla, an córas s'againne le "
+"haghaidh tuairiscí a thabhairt ar fhadhbanna agus ar fhabhtanna, iad a "
+"leanúint, agus iad a réiteach. Tá gach aon úsáideoir i dteideal, agus fáilte "
+"rompu, tuairisc a thabhairt ar fadhbanna a tharlaíonn ar a n-ardán féin. Tá "
+"tuairisciú beo na bhfadhbanna ar cheann de na cúnaimh is mó ar féidir le "
+"comhphobal na n-úsáideoirí a thabhairt d'fhorbairt agus d'fheabhsú an "
+"bhogearra."
 
 #: readme.xrm#ooo_readme.Subscribe.A1.a.readmeitem.text
 msgid "Subscribe "
@@ -37271,6 +37473,7 @@ msgstr "Liostáil "
 msgid ""
 "Here are a few of the Project mailing lists to which you can subscribe at "
 msgstr ""
+"Seo roinnt de liostaí ríomhphoist an tionscadail ar féidir leat clárú leo ag"
 
 #: readme.xrm#ooo_readme.Subscribe.A2.b.readmeitem.text
 msgid ""
@@ -37282,37 +37485,49 @@ msgstr "http://www.openoffice.org/mail_list.html"
 msgid ""
 "News: announce@openoffice.org *recommended to all users* (light traffic) "
 msgstr ""
+"Nuacht: announce@openoffice.org *molta do gach úsáideoir* (trácht bheag)"
 
 #: readme.xrm#ooo_readme.Subscribe.A3.b.readmeitem.text
 msgid ""
 "User support: users@openoffice.org *recommended to new users* (heavy traffic) "
 msgstr ""
+"Tacaíocht d'úsáideoirí: users@openoffice.org *molta do úsáideoirí nua* "
+"(trácht mhór)"
 
 #: readme.xrm#ooo_readme.Subscribe.A3.c.readmeitem.text
 msgid ""
 "Main user forum: discuss@openoffice.org *easy way to lurk on discussions* "
 "(heavy) "
 msgstr ""
+"Príomhfhóram na n-úsáideoirí: discuss@openoffice.org *slí furasta le bheith "
+"ag cúlchoimhéad sna díospóireachtaí* (trácht mhór)"
 
 #: readme.xrm#ooo_readme.Subscribe.A3.d.readmeitem.text
 msgid ""
 "Marketing project: dev@marketing.openoffice.org *beyond development* (getting "
 "heavy) "
 msgstr ""
+"Tionscadal margaíochta: dev@marketing.openoffice.org *níos mó ná forbairt* "
+"(trácht ag éirí mór)"
 
 #: readme.xrm#ooo_readme.Subscribe.A3.e.readmeitem.text
 msgid "General code contributor list: dev@openoffice.org (moderate/heavy) "
 msgstr ""
+"Liosta ginearálta do chuiditheoirí cóid: dev@openoffice.org (trácht "
+"mheasartha/mhór)"
 
 #: readme.xrm#ooo_readme.JoinProjects.A1.a.readmeitem.text
 msgid "Join one or more Projects"
-msgstr ""
+msgstr "Bí Páirteach i dTionscadail"
 
 #: readme.xrm#ooo_readme.JoinProjects.A2.a.readmeitem.text
 msgid ""
 "You can make major contributions to this important open source project even "
 "if you have limited software design or coding experience. Yes, you!"
 msgstr ""
+"Is féidir leatsa cabhrú go mór leis an tionscadal tábháchtach foinsí oscailte "
+"seo fiú muna bhfuil agat ach beagán taithí ar dhearadh bogearraí nó ar "
+"chódáil. Tusa!"
 
 #: readme.xrm#ooo_readme.JoinProjects.A3.a.readmeitem.text
 msgid "At "
@@ -37332,12 +37547,21 @@ msgid ""
 "barriers, so you can help just by spreading the word and telling a friend "
 "about this office suite."
 msgstr ""
+" gheobhaidh tú raon tionscadal ó Logánú, Iompar agus Bogearraí Grúpa, go "
+"tionscadail chódála. Muna bhfuil tú i d'fhorbróir, féach ar an Tionscadal "
+"Doiciméadaithe nó ar an Tionscadal Margaíochta. Tá Tionscadal Margaíochta "
+"OpenOffice.org ag úsáid modhanna traidisiúnta tráchtála agus modhanna nua "
+"chun bogearraí le foinsí oscailte a chur ar an margadh, agus déantar é thar "
+"teorainneacha teanga agus cultúir. Mar sin, is féidir leat cabhrú trín scéal "
+"a scaipeadh agus eolas a thabhairt do do chairde faoin mbogearra oifige seo."
 
 #: readme.xrm#ooo_readme.JoinProjects.A4.a.readmeitem.text
 msgid ""
 "You can help by joining the Marketing Communications & Information Network "
 "here: "
 msgstr ""
+"Is féidir leat cabhrú trí páirt a ghlacadh anseo sa Ghréasán Margaíochta, "
+"Cumarsáide & Eolais:"
 
 #: readme.xrm#ooo_readme.JoinProjects.A4.b.readmeitem.text
 msgid "http://marketing.openoffice.org/contacts.html "
@@ -37349,10 +37573,13 @@ msgid ""
 "government agencies, consultants, schools, Linux Users Groups and developers "
 "in your country and local community."
 msgstr ""
+"áit in ar féidir leat teagmháil a sholáthar leis na meáin, gníomhaireachtaí "
+"rialtais, comhairleoirí, scoileanna, grúpaí úsáideoirí Linux agus forbróirí i "
+"do thír agus i do chomhphobal féin."
 
 #: readme.xrm#ooo_readme.UserSupport.A1.a.readmeitem.text
 msgid "User Support"
-msgstr ""
+msgstr "Tacaíocht d'Úsáideoirí"
 
 #: readme.xrm#ooo_readme.UserSupport.A2.a.readmeitem.text
 msgid ""
@@ -37360,6 +37587,8 @@ msgid ""
 "archives to find questions already answered on the 'users@openoffice.org' "
 "mailing list at "
 msgstr ""
+"Le cabhair a fháil maidir le OpenOffice.org 2.0, féach ar na ceisteanna a "
+"fhreagraíodh cheana ar an liosta 'users@openoffice.org' atá sna cartlanna ag "
 
 #: readme.xrm#ooo_readme.UserSupport.A2.b.readmeitem.text
 msgid ""
@@ -37372,10 +37601,12 @@ msgid ""
 ". Alternatively, you can send in your questions to users@openoffice.org. "
 "Remember to subscribe to the list to get an email response."
 msgstr ""
+". Nó is féidir leat do cheisteanna a sheoladh go users@openoffice.org. Ná "
+"déan dearmad clárú leis an liosta chun freagra ríomhphoist a fháil."
 
 #: readme.xrm#ooo_readme.UserSupport.A3.a.readmeitem.text
 msgid "Also check the FAQ section at "
-msgstr ""
+msgstr "Féach freisin na ceisteanna coitianta ag"
 
 #: readme.xrm#ooo_readme.UserSupport.A3.b.readmeitem.text
 msgid "http://user-faq.openoffice.org/"
@@ -37389,7 +37620,7 @@ msgstr "."
 
 #: readme.xrm#ooo_readme.WayToStart.A1.a.readmeitem.text
 msgid "Way to Start"
-msgstr ""
+msgstr "Conas Tosú"
 
 #: readme.xrm#ooo_readme.WayToStart.A2.a.readmeitem.text
 msgid ""
@@ -37401,6 +37632,14 @@ msgid ""
 "are familiar with Open Source Projects, check out our To-Dos list and see if "
 "there is anything you would like to help with at "
 msgstr ""
+"Séard ab fhearr a dhéanamh le tosú ag cuidiú ná clárú le liosta nó dhó, bí ag "
+"cúlchoimhéad ar feadh tamall, agus na cartlanna ríomhphoist a úsáid chun "
+"taithí a fháil ar na hábhair a pléadh ó scaoileadh amach cód foinseach "
+"OpenOffice.org i mí Dheireadh Fómhair 2000. Nuair a bheidh tú ar do "
+"shuaimhneas, níl le déanamh ach teachtaireacht ríomhphoist  a sheoladh chun "
+"tú féin a chur in aithne do dhaoine, agus ar aghaidh leat. Má tá taithí agat "
+"ar thionscadail fhoinsí oscailte, féach an bhfuil aon rud a d'fhéadfá cabhrú "
+"leis ar ár liosta de rudaí atá le deanamh ag"
 
 #: readme.xrm#ooo_readme.WayToStart.A2.b.readmeitem.text
 msgid "http://development.openoffice.org/todo.html"
@@ -37417,6 +37656,8 @@ msgid ""
 "We hope you enjoy working with the new OpenOffice.org 2.0 and will join us "
 "online."
 msgstr ""
+"Tá súil againn go mbainfidh tú taitneamh as bheith ag obair le OpenOffice.org "
+"2.0 agus go mbeidh tú linn ar líne."
 
 #: readme.xrm#ooo_readme.Credits.emptyparagraph.A2.a.readmeitem.text
 msgid "The OpenOffice.org Community"
