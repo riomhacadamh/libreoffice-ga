@@ -14,7 +14,7 @@
 #    and give current translation counts, version number in log entry
 # $ make   (rebuilds GSI and copies it to obair for Pavel's system)
 
-VERSION=SRC680_m130
+VERSION=SRC680_m156
 
 all : OOo-$(VERSION)-ga-GSI.sdf
 	bzip2 OOo-$(VERSION)-ga-GSI.sdf
@@ -43,12 +43,18 @@ OOo-latest.po : OOo-latest.ga.po
 	po2utf8 OOo-latest.ga.po > $@
 	chmod 400 $@
 
+propogate : FORCE
+	perl adhoc.pl | msgcat - - > OOo-temp.ga.po
+	cpo -q OOo-latest.ga.po
+	cpo -q OOo-temp.ga.po
+
 # once per version bump -- see instructions at the top
 # relies on fact that utf-8/non-latin1 msgids are all in helpcontent
 #  only latin1/non-ascii are things like "Bézier"
 OOo.po-update : FORCE
 	find pot -name '*.pot' | egrep -v '^pot/helpcontent2' | sort | xargs msgcat -t utf-8 | iconv -f utf8 -t iso-8859-1 | sed 's/plain; charset=UTF-8/plain; charset=ISO-8859-1/' > bigole.pot
-	msgmerge -C OOo-latest.ga.po -o OOo-$(VERSION).ga.po /dev/null bigole.pot
+	msgmerge -C OOo-latest.ga.po -o TEMP.po /dev/null bigole.pot
+	msgcat TEMP.po > OOo-$(VERSION).ga.po
 	rm -f bigole.pot
 	echo 'Previous:'
 	msgfmt --statistics -o /dev/null OOo-latest.ga.po
@@ -56,7 +62,7 @@ OOo.po-update : FORCE
 	msgfmt --statistics -o /dev/null OOo-$(VERSION).ga.po
 
 clean :
-	rm -f OOo-*-ga-GSI.sdf OOo-latest.po messages.mo
+	rm -f OOo-*-ga-GSI.sdf OOo-latest.po messages.mo OOo-temp.ga.po
 	rm -fR po
 
 distclean :
