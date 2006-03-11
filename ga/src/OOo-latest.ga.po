@@ -23321,28 +23321,28 @@ msgid ""
 "_: WebWizard.xcu#..WebWizard.WebWizard.Exporters.pdf_hq_writer_exporter.Name."
 "value.text\n"
 "PDF - Press optimized"
-msgstr ""
+msgstr "PDF - Optamaithe don phreas"
 
 #: WebWizard.xcu#..WebWizard.WebWizard.Exporters.pdf_calc_hq_exporter.Name.value.text
 msgid ""
 "_: WebWizard.xcu#..WebWizard.WebWizard.Exporters.pdf_calc_hq_exporter.Name."
 "value.text\n"
 "PDF - Press optimized"
-msgstr ""
+msgstr "PDF - Optamaithe don phreas"
 
 #: WebWizard.xcu#..WebWizard.WebWizard.Exporters.pdf_impress_hq_exporter.Name.value.text
 msgid ""
 "_: WebWizard.xcu#..WebWizard.WebWizard.Exporters.pdf_impress_hq_exporter."
 "Name.value.text\n"
 "PDF - Press optimized"
-msgstr ""
+msgstr "PDF - Optamaithe don phreas"
 
 #: WebWizard.xcu#..WebWizard.WebWizard.Exporters.pdf_draw_hq_exporter.Name.value.text
 msgid ""
 "_: WebWizard.xcu#..WebWizard.WebWizard.Exporters.pdf_draw_hq_exporter.Name."
 "value.text\n"
 "PDF - Press optimized"
-msgstr ""
+msgstr "PDF - Optamaithe don phreas"
 
 #: WebWizard.xcu#..WebWizard.WebWizard.Exporters.flash_impress_exporter.Name.value.text
 msgid ""
@@ -24950,14 +24950,14 @@ msgid ""
 "_: CalcWindowState.xcu#..CalcWindowState.UIElements.States.private_resource/"
 "toolbar/formtextobjectbar.UIName.value.text\n"
 "Text Box Formatting"
-msgstr ""
+msgstr "Formáidiú Téacs Bosca"
 
 #: CalcWindowState.xcu#..CalcWindowState.UIElements.States.private_resource/toolbar/formsfilterbar.UIName.value.text
 msgid ""
 "_: CalcWindowState.xcu#..CalcWindowState.UIElements.States.private_resource/"
 "toolbar/formsfilterbar.UIName.value.text\n"
 "Form Filter"
-msgstr ""
+msgstr "Scagaire Foirme"
 
 #: CalcWindowState.xcu#..CalcWindowState.UIElements.States.private_resource/toolbar/formsnavigationbar.UIName.value.text
 msgid ""
@@ -24989,7 +24989,7 @@ msgid ""
 "_: CalcWindowState.xcu#..CalcWindowState.UIElements.States.private_resource/"
 "toolbar/formdesign.UIName.value.text\n"
 "Form Design"
-msgstr ""
+msgstr "Dearadh Foirme"
 
 #: CalcWindowState.xcu#..CalcWindowState.UIElements.States.private_resource/toolbar/formatobjectbar.UIName.value.text
 msgid ""
@@ -25091,7 +25091,7 @@ msgid ""
 "_: CalcWindowState.xcu#..CalcWindowState.UIElements.States.private_resource/"
 "toolbar/arrowshapes.UIName.value.text\n"
 "Block Arrows"
-msgstr ""
+msgstr "Blocshaigheadha"
 
 #: CalcWindowState.xcu#..CalcWindowState.UIElements.States.private_resource/toolbar/flowchartshapes.UIName.value.text
 msgid ""
@@ -25112,7 +25112,7 @@ msgid ""
 "_: CalcWindowState.xcu#..CalcWindowState.UIElements.States.private_resource/"
 "toolbar/symbolshapes.UIName.value.text\n"
 "Symbol Shapes"
-msgstr ""
+msgstr "Siombailí"
 
 #: CalcWindowState.xcu#..CalcWindowState.UIElements.States.private_resource/toolbar/calloutshapes.UIName.value.text
 msgid ""
@@ -26588,14 +26588,14 @@ msgid ""
 "_: DrawWindowState.xcu#..DrawWindowState.UIElements.States.private_resource/"
 "toolbar/formtextobjectbar.UIName.value.text\n"
 "Text Box Formatting"
-msgstr ""
+msgstr "Formáidiú Téacs Bosca"
 
 #: DrawWindowState.xcu#..DrawWindowState.UIElements.States.private_resource/toolbar/formsfilterbar.UIName.value.text
 msgid ""
 "_: DrawWindowState.xcu#..DrawWindowState.UIElements.States.private_resource/"
 "toolbar/formsfilterbar.UIName.value.text\n"
 "Form Filter"
-msgstr ""
+msgstr "Scagaire Foirme"
 
 #: DrawWindowState.xcu#..DrawWindowState.UIElements.States.private_resource/toolbar/formsnavigationbar.UIName.value.text
 msgid ""
@@ -26623,7 +26623,7 @@ msgid ""
 "_: DrawWindowState.xcu#..DrawWindowState.UIElements.States.private_resource/"
 "toolbar/formdesign.UIName.value.text\n"
 "Form Design"
-msgstr ""
+msgstr "Dearadh Foirme"
 
 #: DrawWindowState.xcu#..DrawWindowState.UIElements.States.private_resource/toolbar/gluepointsobjectbar.UIName.value.text
 msgid ""
@@ -26700,7 +26700,7 @@ msgid ""
 "_: DrawWindowState.xcu#..DrawWindowState.UIElements.States.private_resource/"
 "toolbar/arrowshapes.UIName.value.text\n"
 "Block Arrows"
-msgstr ""
+msgstr "Blocshaigheadha"
 
 #: DrawWindowState.xcu#..DrawWindowState.UIElements.States.private_resource/toolbar/flowchartshapes.UIName.value.text
 msgid ""
@@ -26714,7 +26714,7 @@ msgid ""
 "_: DrawWindowState.xcu#..DrawWindowState.UIElements.States.private_resource/"
 "toolbar/symbolshapes.UIName.value.text\n"
 "Symbol Shapes"
-msgstr ""
+msgstr "Siombailí"
 
 #: DrawWindowState.xcu#..DrawWindowState.UIElements.States.private_resource/toolbar/calloutshapes.UIName.value.text
 msgid ""
@@ -28635,14 +28635,14 @@ msgid ""
 "_: GenericCommands.xcu#..GenericCommands.UserInterface.Commands.."
 "uno_SymbolShapes.Label.value.text\n"
 "Symbol Shapes"
-msgstr ""
+msgstr "Siombailí"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_ArrowShapes.Label.value.text
 msgid ""
 "_: GenericCommands.xcu#..GenericCommands.UserInterface.Commands.."
 "uno_ArrowShapes.Label.value.text\n"
 "Block Arrows"
-msgstr ""
+msgstr "Blocshaigheadha"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_FlowChartShapes.Label.value.text
 msgid "Flowcharts"
@@ -31343,7 +31343,7 @@ msgid ""
 "_: GenericCommands.xcu#..GenericCommands.UserInterface.Commands.."
 "uno_FormDesignTools.Label.value.text\n"
 "Form Design"
-msgstr ""
+msgstr "Dearadh Foirme"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_Pushbutton.Label.value.text
 msgid "Push Button"
@@ -32199,14 +32199,14 @@ msgid ""
 "_: ImpressWindowState.xcu#..ImpressWindowState.UIElements.States."
 "private_resource/toolbar/formtextobjectbar.UIName.value.text\n"
 "Text Box Formatting"
-msgstr ""
+msgstr "Formáidiú Téacs Bosca"
 
 #: ImpressWindowState.xcu#..ImpressWindowState.UIElements.States.private_resource/toolbar/formsfilterbar.UIName.value.text
 msgid ""
 "_: ImpressWindowState.xcu#..ImpressWindowState.UIElements.States."
 "private_resource/toolbar/formsfilterbar.UIName.value.text\n"
 "Form Filter"
-msgstr ""
+msgstr "Scagaire Foirme"
 
 #: ImpressWindowState.xcu#..ImpressWindowState.UIElements.States.private_resource/toolbar/formsnavigationbar.UIName.value.text
 msgid ""
@@ -32234,7 +32234,7 @@ msgid ""
 "_: ImpressWindowState.xcu#..ImpressWindowState.UIElements.States."
 "private_resource/toolbar/formdesign.UIName.value.text\n"
 "Form Design"
-msgstr ""
+msgstr "Dearadh Foirme"
 
 #: ImpressWindowState.xcu#..ImpressWindowState.UIElements.States.private_resource/toolbar/fontworkobjectbar.UIName.value.text
 msgid ""
@@ -32297,14 +32297,14 @@ msgid ""
 "_: ImpressWindowState.xcu#..ImpressWindowState.UIElements.States."
 "private_resource/toolbar/symbolshapes.UIName.value.text\n"
 "Symbol Shapes"
-msgstr ""
+msgstr "Siombailí"
 
 #: ImpressWindowState.xcu#..ImpressWindowState.UIElements.States.private_resource/toolbar/arrowshapes.UIName.value.text
 msgid ""
 "_: ImpressWindowState.xcu#..ImpressWindowState.UIElements.States."
 "private_resource/toolbar/arrowshapes.UIName.value.text\n"
 "Block Arrows"
-msgstr ""
+msgstr "Blocshaigheadha"
 
 #: ImpressWindowState.xcu#..ImpressWindowState.UIElements.States.private_resource/toolbar/flowchartshapes.UIName.value.text
 msgid ""
@@ -34691,14 +34691,14 @@ msgid ""
 "_: WriterGlobalWindowState.xcu#..WriterGlobalWindowState.UIElements.States."
 "private_resource/toolbar/formtextobjectbar.UIName.value.text\n"
 "Text Box Formatting"
-msgstr ""
+msgstr "Formáidiú Téacs Bosca"
 
 #: WriterGlobalWindowState.xcu#..WriterGlobalWindowState.UIElements.States.private_resource/toolbar/formsfilterbar.UIName.value.text
 msgid ""
 "_: WriterGlobalWindowState.xcu#..WriterGlobalWindowState.UIElements.States."
 "private_resource/toolbar/formsfilterbar.UIName.value.text\n"
 "Form Filter"
-msgstr ""
+msgstr "Scagaire Foirme"
 
 #: WriterGlobalWindowState.xcu#..WriterGlobalWindowState.UIElements.States.private_resource/toolbar/formsnavigationbar.UIName.value.text
 msgid ""
@@ -34726,7 +34726,7 @@ msgid ""
 "_: WriterGlobalWindowState.xcu#..WriterGlobalWindowState.UIElements.States."
 "private_resource/toolbar/formdesign.UIName.value.text\n"
 "Form Design"
-msgstr ""
+msgstr "Dearadh Foirme"
 
 #: WriterGlobalWindowState.xcu#..WriterGlobalWindowState.UIElements.States.private_resource/toolbar/frameobjectbar.UIName.value.text
 msgid ""
@@ -34838,7 +34838,7 @@ msgid ""
 "_: WriterGlobalWindowState.xcu#..WriterGlobalWindowState.UIElements.States."
 "private_resource/toolbar/arrowshapes.UIName.value.text\n"
 "Block Arrows"
-msgstr ""
+msgstr "Blocshaigheadha"
 
 #: WriterGlobalWindowState.xcu#..WriterGlobalWindowState.UIElements.States.private_resource/toolbar/flowchartshapes.UIName.value.text
 msgid ""
@@ -34859,7 +34859,7 @@ msgid ""
 "_: WriterGlobalWindowState.xcu#..WriterGlobalWindowState.UIElements.States."
 "private_resource/toolbar/symbolshapes.UIName.value.text\n"
 "Symbol Shapes"
-msgstr ""
+msgstr "Siombailí"
 
 #: WriterGlobalWindowState.xcu#..WriterGlobalWindowState.UIElements.States.private_resource/toolbar/calloutshapes.UIName.value.text
 msgid ""
@@ -34971,14 +34971,14 @@ msgid ""
 "_: WriterWebWindowState.xcu#..WriterWebWindowState.UIElements.States."
 "private_resource/toolbar/formtextobjectbar.UIName.value.text\n"
 "Text Box Formatting"
-msgstr ""
+msgstr "Formáidiú Téacs Bosca"
 
 #: WriterWebWindowState.xcu#..WriterWebWindowState.UIElements.States.private_resource/toolbar/formsfilterbar.UIName.value.text
 msgid ""
 "_: WriterWebWindowState.xcu#..WriterWebWindowState.UIElements.States."
 "private_resource/toolbar/formsfilterbar.UIName.value.text\n"
 "Form Filter"
-msgstr ""
+msgstr "Scagaire Foirme"
 
 #: WriterWebWindowState.xcu#..WriterWebWindowState.UIElements.States.private_resource/toolbar/formsnavigationbar.UIName.value.text
 msgid ""
@@ -35006,7 +35006,7 @@ msgid ""
 "_: WriterWebWindowState.xcu#..WriterWebWindowState.UIElements.States."
 "private_resource/toolbar/formdesign.UIName.value.text\n"
 "Form Design"
-msgstr ""
+msgstr "Dearadh Foirme"
 
 #: WriterWebWindowState.xcu#..WriterWebWindowState.UIElements.States.private_resource/toolbar/fullscreenbar.UIName.value.text
 msgid ""
@@ -35076,7 +35076,7 @@ msgid ""
 "_: WriterWebWindowState.xcu#..WriterWebWindowState.UIElements.States."
 "private_resource/toolbar/arrowshapes.UIName.value.text\n"
 "Block Arrows"
-msgstr ""
+msgstr "Blocshaigheadha"
 
 #: WriterWebWindowState.xcu#..WriterWebWindowState.UIElements.States.private_resource/toolbar/flowchartshapes.UIName.value.text
 msgid ""
@@ -35097,7 +35097,7 @@ msgid ""
 "_: WriterWebWindowState.xcu#..WriterWebWindowState.UIElements.States."
 "private_resource/toolbar/symbolshapes.UIName.value.text\n"
 "Symbol Shapes"
-msgstr ""
+msgstr "Siombailí"
 
 #: WriterWebWindowState.xcu#..WriterWebWindowState.UIElements.States.private_resource/toolbar/calloutshapes.UIName.value.text
 msgid ""
@@ -35174,14 +35174,14 @@ msgid ""
 "_: WriterWindowState.xcu#..WriterWindowState.UIElements.States."
 "private_resource/toolbar/formtextobjectbar.UIName.value.text\n"
 "Text Box Formatting"
-msgstr ""
+msgstr "Formáidiú Téacs Bosca"
 
 #: WriterWindowState.xcu#..WriterWindowState.UIElements.States.private_resource/toolbar/formsfilterbar.UIName.value.text
 msgid ""
 "_: WriterWindowState.xcu#..WriterWindowState.UIElements.States."
 "private_resource/toolbar/formsfilterbar.UIName.value.text\n"
 "Form Filter"
-msgstr ""
+msgstr "Scagaire Foirme"
 
 #: WriterWindowState.xcu#..WriterWindowState.UIElements.States.private_resource/toolbar/formsnavigationbar.UIName.value.text
 msgid ""
@@ -35209,7 +35209,7 @@ msgid ""
 "_: WriterWindowState.xcu#..WriterWindowState.UIElements.States."
 "private_resource/toolbar/formdesign.UIName.value.text\n"
 "Form Design"
-msgstr ""
+msgstr "Dearadh Foirme"
 
 #: WriterWindowState.xcu#..WriterWindowState.UIElements.States.private_resource/toolbar/frameobjectbar.UIName.value.text
 msgid ""
@@ -35321,7 +35321,7 @@ msgid ""
 "_: WriterWindowState.xcu#..WriterWindowState.UIElements.States."
 "private_resource/toolbar/arrowshapes.UIName.value.text\n"
 "Block Arrows"
-msgstr ""
+msgstr "Blocshaigheadha"
 
 #: WriterWindowState.xcu#..WriterWindowState.UIElements.States.private_resource/toolbar/flowchartshapes.UIName.value.text
 msgid ""
@@ -35342,7 +35342,7 @@ msgid ""
 "_: WriterWindowState.xcu#..WriterWindowState.UIElements.States."
 "private_resource/toolbar/symbolshapes.UIName.value.text\n"
 "Symbol Shapes"
-msgstr ""
+msgstr "Siombailí"
 
 #: WriterWindowState.xcu#..WriterWindowState.UIElements.States.private_resource/toolbar/calloutshapes.UIName.value.text
 msgid ""
@@ -35418,7 +35418,7 @@ msgid ""
 "_: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBOpen.Label."
 "value.text\n"
 "Open Database Object..."
-msgstr ""
+msgstr "Oscail Réad Bunachair Sonraí..."
 
 #: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBTableDelete.Label.value.text
 msgid ""
@@ -35446,7 +35446,7 @@ msgid ""
 "_: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBTableOpen."
 "Label.value.text\n"
 "Open Database Object..."
-msgstr ""
+msgstr "Oscail Réad Bunachair Sonraí..."
 
 #: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBQueryDelete.Label.value.text
 msgid ""
@@ -35474,7 +35474,7 @@ msgid ""
 "_: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBQueryOpen."
 "Label.value.text\n"
 "Open Database Object..."
-msgstr ""
+msgstr "Oscail Réad Bunachair Sonraí..."
 
 #: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBFormDelete.Label.value.text
 msgid ""
@@ -35502,7 +35502,7 @@ msgid ""
 "_: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBFormOpen."
 "Label.value.text\n"
 "Open Database Object..."
-msgstr ""
+msgstr "Oscail Réad Bunachair Sonraí..."
 
 #: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBReportDelete.Label.value.text
 msgid ""
@@ -35530,7 +35530,7 @@ msgid ""
 "_: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBReportOpen."
 "Label.value.text\n"
 "Open Database Object..."
-msgstr ""
+msgstr "Oscail Réad Bunachair Sonraí..."
 
 #: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBNewFormAutoPilot.Label.value.text
 msgid ""
@@ -36524,7 +36524,7 @@ msgid "Authentication request"
 msgstr "Iarratas fíordheimhnithe"
 
 #: readme.xrm#ooo_readme.Welcome.A2.a.readmeitem.text
-msgid "Last updated $Date: 2006-03-11 02:04:37 $"
+msgid "Last updated $Date: 2006-03-11 02:40:37 $"
 msgstr ""
 
 #: readme.xrm#ooo_readme.Welcome.A3.a.readmeitem.text
@@ -38333,7 +38333,7 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bin2Oct.3.string."
 "text\n"
 "The binary number to be converted (as text)"
-msgstr ""
+msgstr "An uimhir dhénártha le tiontú (mar théacs)"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bin2Oct.4.string.text
 msgid ""
@@ -38347,7 +38347,7 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bin2Oct.5.string."
 "text\n"
 "Number of places used"
-msgstr ""
+msgstr "Líon na n-ionad úsáidte"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bin2Dec.1.string.text
 msgid "Converts a binary number to a decimal number"
@@ -38365,7 +38365,7 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bin2Dec.3.string."
 "text\n"
 "The binary number to be converted (as text)"
-msgstr ""
+msgstr "An uimhir dhénártha le tiontú (mar théacs)"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bin2Hex.1.string.text
 msgid "Converts a binary number to a hexadecimal number"
@@ -38383,7 +38383,7 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bin2Hex.3.string."
 "text\n"
 "The binary number to be converted (as text)"
-msgstr ""
+msgstr "An uimhir dhénártha le tiontú (mar théacs)"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bin2Hex.4.string.text
 msgid ""
@@ -38412,7 +38412,7 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oct2Bin.3.string."
 "text\n"
 "The octal number to be converted (as text)"
-msgstr ""
+msgstr "An uimhir ochtnártha le tiontú (mar théacs)"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oct2Bin.4.string.text
 msgid ""
@@ -38426,7 +38426,7 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oct2Bin.5.string."
 "text\n"
 "Number of places used"
-msgstr ""
+msgstr "Líon na n-ionad úsáidte"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oct2Dec.1.string.text
 msgid "Converts an octal number to a decimal number"
@@ -38444,7 +38444,7 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oct2Dec.3.string."
 "text\n"
 "The octal number to be converted (as text)"
-msgstr ""
+msgstr "An uimhir ochtnártha le tiontú (mar théacs)"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oct2Hex.1.string.text
 msgid "Converts an octal number to a hexadecimal number"
@@ -38462,7 +38462,7 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oct2Hex.3.string."
 "text\n"
 "The octal number to be converted (as text)"
-msgstr ""
+msgstr "An uimhir ochtnártha le tiontú (mar théacs)"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oct2Hex.4.string.text
 msgid ""
@@ -38476,7 +38476,7 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oct2Hex.5.string."
 "text\n"
 "Number of places used"
-msgstr ""
+msgstr "Líon na n-ionad úsáidte"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Bin.1.string.text
 msgid "Converts a decimal number to a binary number"
@@ -38508,7 +38508,7 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Bin.5.string."
 "text\n"
 "Number of places used"
-msgstr ""
+msgstr "Líon na n-ionad úsáidte"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Hex.1.string.text
 msgid "Converts a decimal number to a hexadecimal number"
@@ -38540,7 +38540,7 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Hex.5.string."
 "text\n"
 "Number of places used"
-msgstr ""
+msgstr "Líon na n-ionad úsáidte"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Oct.1.string.text
 msgid "Converts a decimal number into an octal number"
@@ -38572,7 +38572,7 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Oct.5.string."
 "text\n"
 "Number of places used"
-msgstr ""
+msgstr "Líon na n-ionad úsáidte"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Hex2Bin.1.string.text
 msgid "Converts a hexadecimal number to a binary number"
@@ -38590,7 +38590,7 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Hex2Bin.3.string."
 "text\n"
 "The hexadecimal number to be converted (as text)"
-msgstr ""
+msgstr "An uimhir heicsidheachúlach le tiontú (mar théacs)"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Hex2Bin.4.string.text
 msgid ""
@@ -38604,7 +38604,7 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Hex2Bin.5.string."
 "text\n"
 "Number of places used"
-msgstr ""
+msgstr "Líon na n-ionad úsáidte"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Hex2Dec.1.string.text
 msgid "Converts a hexadecimal number to a decimal number"
@@ -38622,7 +38622,7 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Hex2Dec.3.string."
 "text\n"
 "The hexadecimal number to be converted (as text)"
-msgstr ""
+msgstr "An uimhir heicsidheachúlach le tiontú (mar théacs)"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Hex2Oct.1.string.text
 msgid "Converts a hexadecimal number to an octal number"
@@ -38640,7 +38640,7 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Hex2Oct.3.string."
 "text\n"
 "The hexadecimal number to be converted (as text)"
-msgstr ""
+msgstr "An uimhir heicsidheachúlach le tiontú (mar théacs)"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Hex2Oct.4.string.text
 msgid ""
@@ -38654,7 +38654,7 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Hex2Oct.5.string."
 "text\n"
 "Number of places used"
-msgstr ""
+msgstr "Líon na n-ionad úsáidte"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Delta.1.string.text
 msgid "Tests whether two values are equal"
@@ -42403,7 +42403,7 @@ msgid ""
 "_: datefunc.src#RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_IsLeapYear.3."
 "string.text\n"
 "Any day in the desired year"
-msgstr ""
+msgstr "Lá ar bith sa bhliain sainithe"
 
 #: datefunc.src#RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DaysInMonth.1.string.text
 msgid ""
@@ -42438,7 +42438,7 @@ msgid ""
 "_: datefunc.src#RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DaysInYear.3."
 "string.text\n"
 "Any day in the desired year"
-msgstr ""
+msgstr "Lá ar bith sa bhliain sainithe"
 
 #: datefunc.src#RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_WeeksInYear.1.string.text
 msgid ""
@@ -42457,7 +42457,7 @@ msgid ""
 "_: datefunc.src#RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_WeeksInYear.3."
 "string.text\n"
 "Any day in the desired year"
-msgstr ""
+msgstr "Lá ar bith sa bhliain sainithe"
 
 #: datefunc.src#RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_Rot13.1.string.text
 msgid "Encrypts or decrypts a text using the ROT13 algorithm"
@@ -43680,7 +43680,7 @@ msgstr "~Céatadán"
 msgid ""
 "_: attrib4.src#TP_STAT.RBT_BIGERROR.radiobutton.text\n"
 "~Error margin"
-msgstr ""
+msgstr "Lamháil ~earráide"
 
 #: attrib4.src#TP_STAT.RBT_CONST.radiobutton.text
 msgid ""
@@ -43908,7 +43908,7 @@ msgstr "~Céatadán"
 msgid ""
 "_: datstat.src#DLG_DATA_STAT.RBT_BIGERROR.radiobutton.text\n"
 "~Error margin"
-msgstr ""
+msgstr "Lamháil ~earráide"
 
 #: datstat.src#DLG_DATA_STAT.RBT_CONST.radiobutton.text
 msgid ""
@@ -46969,7 +46969,7 @@ msgstr "idir"
 
 #: validate.src#TP_VALIDATION_VALUES.LB_VALUE.8.stringlist.text
 msgid "not between"
-msgstr ""
+msgstr "nach idir"
 
 #: validate.src#TP_VALIDATION_VALUES.FT_MIN.fixedtext.text
 #: scstring.src#SCSTR_VALID_MINIMUM.string.text
@@ -48495,7 +48495,7 @@ msgstr "idir"
 msgid ""
 "_: condfrmt.src#RID_SCDLG_CONDFORMAT.LB_COND1_2.8.stringlist.text\n"
 "not between"
-msgstr ""
+msgstr "nach idir"
 
 #: condfrmt.src#RID_SCDLG_CONDFORMAT.RB_COND1_1.imagebutton.text
 msgid ""
@@ -48593,7 +48593,7 @@ msgstr "idir"
 msgid ""
 "_: condfrmt.src#RID_SCDLG_CONDFORMAT.LB_COND2_2.8.stringlist.text\n"
 "not between"
-msgstr ""
+msgstr "nach idir"
 
 #: condfrmt.src#RID_SCDLG_CONDFORMAT.RB_COND2_1.imagebutton.text
 msgid ""
@@ -48691,7 +48691,7 @@ msgstr "idir"
 msgid ""
 "_: condfrmt.src#RID_SCDLG_CONDFORMAT.LB_COND3_2.8.stringlist.text\n"
 "not between"
-msgstr ""
+msgstr "nach idir"
 
 #: condfrmt.src#RID_SCDLG_CONDFORMAT.RB_COND3_1.imagebutton.text
 msgid ""
@@ -56246,7 +56246,7 @@ msgstr "Uimhir"
 msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_INT.3.string.text\n"
 "The number to be rounded down."
-msgstr ""
+msgstr "An uimhir atá le slánú síos."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_TRUNC.1.string.text
 msgid "Truncates the decimal places of a number."
@@ -56315,7 +56315,7 @@ msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_ROUND_UP.3.string."
 "text\n"
 "The number to be rounded up."
-msgstr ""
+msgstr "An uimhir atá le slánú suas."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_ROUND_UP.4.string.text
 msgid ""
@@ -56347,7 +56347,7 @@ msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_ROUND_DOWN.3.string."
 "text\n"
 "The number to be rounded down."
-msgstr ""
+msgstr "An uimhir atá le slánú síos."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_ROUND_DOWN.4.string.text
 msgid ""
@@ -56376,7 +56376,7 @@ msgstr "Uimhir"
 msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_EVEN.3.string.text\n"
 "The number to be rounded up."
-msgstr ""
+msgstr "An uimhir atá le slánú suas."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_ODD.1.string.text
 msgid ""
@@ -56394,7 +56394,7 @@ msgstr "Uimhir"
 msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_ODD.3.string.text\n"
 "The number to be rounded up."
-msgstr ""
+msgstr "An uimhir atá le slánú suas."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_CEIL.1.string.text
 msgid "Rounds a number up to the nearest multiple of significance."
@@ -56410,7 +56410,7 @@ msgstr "Uimhir"
 msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_CEIL.3.string.text\n"
 "The number to be rounded up."
-msgstr ""
+msgstr "An uimhir atá le slánú suas."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_CEIL.4.string.text
 msgid ""
@@ -56448,7 +56448,7 @@ msgstr "Uimhir"
 msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_FLOOR.3.string.text\n"
 "The number to be rounded down."
-msgstr ""
+msgstr "An uimhir atá le slánú síos."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_FLOOR.4.string.text
 msgid ""
@@ -56724,7 +56724,7 @@ msgstr "sonraí_Y"
 msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_RGP.3.string.text\n"
 "The Y data array."
-msgstr ""
+msgstr "Eagar sonraí Y."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_RGP.4.string.text
 msgid ""
@@ -56736,7 +56736,7 @@ msgstr "sonraí_X"
 msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_RGP.5.string.text\n"
 "The X data array."
-msgstr ""
+msgstr "Eagar sonraí X."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_RGP.6.string.text
 msgid ""
@@ -56779,7 +56779,7 @@ msgstr "sonraí_Y"
 msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_RKP.3.string.text\n"
 "The Y data array."
-msgstr ""
+msgstr "Eagar sonraí Y."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_RKP.4.string.text
 msgid ""
@@ -56791,7 +56791,7 @@ msgstr "sonraí_X"
 msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_RKP.5.string.text\n"
 "The X data array."
-msgstr ""
+msgstr "Eagar sonraí X."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_RKP.6.string.text
 msgid ""
@@ -56833,7 +56833,7 @@ msgstr "sonraí_Y"
 msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_TREND.3.string.text\n"
 "The Y data array."
-msgstr ""
+msgstr "Eagar sonraí Y."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_TREND.4.string.text
 msgid ""
@@ -56884,7 +56884,7 @@ msgstr "sonraí_Y"
 msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_GROWTH.3.string.text\n"
 "The Y data array."
-msgstr ""
+msgstr "Eagar sonraí Y."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_GROWTH.4.string.text
 msgid ""
@@ -57354,7 +57354,7 @@ msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_PERCENTILE.3.string."
 "text\n"
 "The array of the data in the sample."
-msgstr ""
+msgstr "Eagar na sonraí sa sampla."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_PERCENTILE.4.string.text
 msgid ""
@@ -57383,7 +57383,7 @@ msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_QUARTILE.3.string."
 "text\n"
 "The array of the data in the sample."
-msgstr ""
+msgstr "Eagar na sonraí sa sampla."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_QUARTILE.4.string.text
 msgid ""
@@ -57411,7 +57411,7 @@ msgstr "sonraí"
 msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_LARGE.3.string.text\n"
 "The array of the data in the sample."
-msgstr ""
+msgstr "Eagar na sonraí sa sampla."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_LARGE.4.string.text
 msgid ""
@@ -57439,7 +57439,7 @@ msgstr "sonraí"
 msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_SMALL.3.string.text\n"
 "The array of the data in the sample."
-msgstr ""
+msgstr "Eagar na sonraí sa sampla."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_SMALL.4.string.text
 msgid ""
@@ -57469,7 +57469,7 @@ msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_PERCENT_RANK.3.string."
 "text\n"
 "The array of the data in the sample."
-msgstr ""
+msgstr "Eagar na sonraí sa sampla."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_PERCENT_RANK.4.string.text
 msgid ""
@@ -57506,7 +57506,7 @@ msgstr "Sonraí"
 msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_RANK.5.string.text\n"
 "The array of the data in the sample."
-msgstr ""
+msgstr "Eagar na sonraí sa sampla."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_RANK.6.string.text
 msgid ""
@@ -57536,7 +57536,7 @@ msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_TRIM_MEAN.3.string."
 "text\n"
 "The array of the data in the sample."
-msgstr ""
+msgstr "Eagar na sonraí sa sampla."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_TRIM_MEAN.4.string.text
 msgid ""
@@ -57868,7 +57868,7 @@ msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_POISSON_DIST.7.string."
 "text\n"
 "Cumulated. C=0 calculates the density function, C=1 the distribution."
-msgstr ""
+msgstr "Cnuasaithe. Ríomhann C=0 an dlúsfheidm, C=1 an dáileachán."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_NORM_DIST.1.string.text
 msgid "Values of the normal distribution."
@@ -57925,7 +57925,7 @@ msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_NORM_DIST.9.string."
 "text\n"
 "Cumulated. C=0 calculates the density function, C=1 the distribution."
-msgstr ""
+msgstr "Cnuasaithe. Ríomhann C=0 an dlúsfheidm, C=1 an dáileachán."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_NORM_INV.1.string.text
 msgid "Values of the inverse normal distribution."
@@ -58132,7 +58132,7 @@ msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_EXP_DIST.7.string."
 "text\n"
 "Cumulated. C=0 calculates the density function, C=1 the distribution."
-msgstr ""
+msgstr "Cnuasaithe. Ríomhann C=0 an dlúsfheidm, C=1 an dáileachán."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_GAMMA_DIST.1.string.text
 msgid "Values of the gamma distribution."
@@ -58189,7 +58189,7 @@ msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_GAMMA_DIST.9.string."
 "text\n"
 "Cumulated. C=0 calculates the density function, C=1 the distribution."
-msgstr ""
+msgstr "Cnuasaithe. Ríomhann C=0 an dlúsfheidm, C=1 an dáileachán."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_GAMMA_INV.1.string.text
 msgid "Values of the inverse gamma distribution."
@@ -58446,7 +58446,7 @@ msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_WEIBULL.9.string."
 "text\n"
 "Cumulated. C=0 calculates the density function, C=1 the distribution."
-msgstr ""
+msgstr "Cnuasaithe. Ríomhann C=0 an dlúsfheidm, C=1 an dáileachán."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_HYP_GEOM_DIST.1.string.text
 msgid "Values of the hypergeometric distribution."
@@ -58505,7 +58505,7 @@ msgstr ""
 msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_T_DIST.4.string.text\n"
 "degrees_freedom"
-msgstr ""
+msgstr "céimeanna_saoirse"
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_T_DIST.5.string.text
 msgid ""
@@ -58543,7 +58543,7 @@ msgstr ""
 msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_T_INV.4.string.text\n"
 "degrees_freedom"
-msgstr ""
+msgstr "céimeanna_saoirse"
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_T_INV.5.string.text
 msgid ""
@@ -58649,7 +58649,7 @@ msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_CHI_DIST.4.string."
 "text\n"
 "degrees_freedom"
-msgstr ""
+msgstr "céimeanna_saoirse"
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_CHI_DIST.5.string.text
 msgid ""
@@ -58680,7 +58680,7 @@ msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_CHI_INV.4.string."
 "text\n"
 "degrees_freedom"
-msgstr ""
+msgstr "céimeanna_saoirse"
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_CHI_INV.5.string.text
 msgid ""
@@ -58886,7 +58886,7 @@ msgstr "Sonraí_E"
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_CHI_TEST.5.string.text
 msgid "The expected data array."
-msgstr ""
+msgstr "An t-eagar sonraí ionchais."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_F_TEST.1.string.text
 msgid "Calculates the F test."
@@ -58902,7 +58902,7 @@ msgstr "sonraí_1"
 msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_F_TEST.3.string.text\n"
 "The first record array."
-msgstr ""
+msgstr "Eagar na gcéad taifead."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_F_TEST.4.string.text
 msgid ""
@@ -58914,7 +58914,7 @@ msgstr "sonraí_2"
 msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_F_TEST.5.string.text\n"
 "The second record array."
-msgstr ""
+msgstr "Eagar na dara taifead."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_T_TEST.1.string.text
 msgid "Calculates the T test."
@@ -58930,7 +58930,7 @@ msgstr "sonraí_1"
 msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_T_TEST.3.string.text\n"
 "The first record array."
-msgstr ""
+msgstr "Eagar na gcéad taifead."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_T_TEST.4.string.text
 msgid ""
@@ -58942,7 +58942,7 @@ msgstr "sonraí_2"
 msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_T_TEST.5.string.text\n"
 "The second record array."
-msgstr ""
+msgstr "Eagar na dara taifead."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_T_TEST.6.string.text
 msgid ""
@@ -58981,7 +58981,7 @@ msgstr "sonraí_Y"
 msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_RSQ.3.string.text\n"
 "The Y data array."
-msgstr ""
+msgstr "Eagar sonraí Y."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_RSQ.4.string.text
 msgid ""
@@ -58993,7 +58993,7 @@ msgstr "sonraí_X"
 msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_RSQ.5.string.text\n"
 "The X data array."
-msgstr ""
+msgstr "Eagar sonraí X."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_INTERCEPT.1.string.text
 msgid "Returns the intercept of the linear regression line and the Y axis."
@@ -59011,7 +59011,7 @@ msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_INTERCEPT.3.string."
 "text\n"
 "The Y data array."
-msgstr ""
+msgstr "Eagar sonraí Y."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_INTERCEPT.4.string.text
 msgid ""
@@ -59025,7 +59025,7 @@ msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_INTERCEPT.5.string."
 "text\n"
 "The X data array."
-msgstr ""
+msgstr "Eagar sonraí X."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_SLOPE.1.string.text
 msgid "Returns the slope of the linear regression line."
@@ -59041,7 +59041,7 @@ msgstr "sonraí_Y"
 msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_SLOPE.3.string.text\n"
 "The Y data array."
-msgstr ""
+msgstr "Eagar sonraí Y."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_SLOPE.4.string.text
 msgid ""
@@ -59053,7 +59053,7 @@ msgstr "sonraí_X"
 msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_SLOPE.5.string.text\n"
 "The X data array."
-msgstr ""
+msgstr "Eagar sonraí X."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_STEYX.1.string.text
 msgid "Returns the standard error of the linear regression."
@@ -59069,7 +59069,7 @@ msgstr "sonraí_Y"
 msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_STEYX.3.string.text\n"
 "The Y data array."
-msgstr ""
+msgstr "Eagar sonraí Y."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_STEYX.4.string.text
 msgid ""
@@ -59081,7 +59081,7 @@ msgstr "sonraí_X"
 msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_STEYX.5.string.text\n"
 "The X data array."
-msgstr ""
+msgstr "Eagar sonraí X."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_PEARSON.1.string.text
 msgid "Returns the Pearson product moment correlation coefficient."
@@ -59099,7 +59099,7 @@ msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_PEARSON.3.string."
 "text\n"
 "The first record array."
-msgstr ""
+msgstr "Eagar na gcéad taifead."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_PEARSON.4.string.text
 msgid ""
@@ -59113,7 +59113,7 @@ msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_PEARSON.5.string."
 "text\n"
 "The second record array."
-msgstr ""
+msgstr "Eagar na dara taifead."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_CORREL.1.string.text
 msgid "Returns the correlation coefficient."
@@ -59129,7 +59129,7 @@ msgstr "Sonraí_1"
 msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_CORREL.3.string.text\n"
 "The first record array."
-msgstr ""
+msgstr "Eagar na gcéad taifead."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_CORREL.4.string.text
 msgid ""
@@ -59141,7 +59141,7 @@ msgstr "Sonraí_2"
 msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_CORREL.5.string.text\n"
 "The second record array."
-msgstr ""
+msgstr "Eagar na dara taifead."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_COVAR.1.string.text
 msgid "Calculates the covariance."
@@ -59157,7 +59157,7 @@ msgstr "Sonraí_1"
 msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_COVAR.3.string.text\n"
 "The first record array."
-msgstr ""
+msgstr "Eagar na gcéad taifead."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_COVAR.4.string.text
 msgid ""
@@ -59169,7 +59169,7 @@ msgstr "Sonraí_2"
 msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_COVAR.5.string.text\n"
 "The second record array."
-msgstr ""
+msgstr "Eagar na dara taifead."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_FORECAST.1.string.text
 msgid "Returns a value along a linear regression"
@@ -59200,7 +59200,7 @@ msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_FORECAST.5.string."
 "text\n"
 "The Y data array."
-msgstr ""
+msgstr "Eagar sonraí Y."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_FORECAST.6.string.text
 msgid ""
@@ -59214,7 +59214,7 @@ msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_FORECAST.7.string."
 "text\n"
 "The X data array."
-msgstr ""
+msgstr "Eagar sonraí X."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_ADRESS.1.string.text
 msgid "Returns the reference to a cell as text."
@@ -60052,7 +60052,7 @@ msgstr "luach"
 msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_T.3.string.text\n"
 "The value to be converted."
-msgstr ""
+msgstr "An luach le tiontú."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_REPLACE.1.string.text
 msgid "Replaces characters within a text string with a different text string."
@@ -60307,7 +60307,7 @@ msgstr "uimhir"
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_BASE.3.string.text
 msgid "The number to be converted."
-msgstr ""
+msgstr "An uimhir le tiontú."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_BASE.4.string.text
 msgid ""
@@ -60346,7 +60346,7 @@ msgstr "téacs"
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_DECIMAL.3.string.text
 msgid "The text to be converted."
-msgstr ""
+msgstr "An téacs le tiontú."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_DECIMAL.4.string.text
 msgid ""
@@ -60380,7 +60380,7 @@ msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_CONVERT.3.string."
 "text\n"
 "The value to be converted."
-msgstr ""
+msgstr "An luach le tiontú."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_CONVERT.4.string.text
 msgid ""
@@ -69138,7 +69138,7 @@ msgstr "Teagmhas"
 msgid ""
 "_: eventdlg.src#TP_CONFIG_EVENT.STR_ASSMACRO.string.text\n"
 "Assigned macro"
-msgstr ""
+msgstr "Macra sannta"
 
 #: eventdlg.src#TP_CONFIG_EVENT.FT_MACRO.fixedtext.text
 msgid ""
@@ -69207,7 +69207,7 @@ msgstr "Teagmhas"
 msgid ""
 "_: macropg.src#RID_SFX_TP_MACROASSIGN.STR_ASSMACRO.string.text\n"
 "Assigned macro"
-msgstr ""
+msgstr "Macra sannta"
 
 #: macropg.src#RID_SFX_TP_MACROASSIGN.FT_LABEL4LB_MACROS.fixedtext.text
 msgid "~Existing macros in:\n"
@@ -69237,7 +69237,7 @@ msgstr "Macraí"
 
 #: macropg.src#RID_SFX_TP_MACROASSIGN.tabpage.text
 msgid "Assign Macro"
-msgstr ""
+msgstr "Sann Macra"
 
 #: mail.src#RID_ERRBOX_NO_SMTPSERVER.errorbox.text
 msgid ""
@@ -71422,7 +71422,7 @@ msgstr "Níl aon chomhréimír ann"
 msgid ""
 "_: nocode.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_HIM_S_MAX.string.text\n"
 "The connection name is contained in the other one."
-msgstr ""
+msgstr "Tá ainm an naisc isteach sa cheann eile."
 
 #: nocode.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_US_S_MAX.string.text
 #: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_US_S_MAX.string.text
@@ -71434,7 +71434,7 @@ msgstr ""
 msgid ""
 "_: nocode.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_ME_S_MAX.string.text\n"
 "The connection name is contained in the other one."
-msgstr ""
+msgstr "Tá ainm an naisc isteach sa cheann eile."
 
 #: nocode.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_NOT_BINDABLE_S_MAX.string.text
 #: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_NOT_BINDABLE_S_MAX.string.text
@@ -74318,13 +74318,13 @@ msgstr "Cuimhne easnamhach"
 msgid ""
 "_: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_HIM_S_MAX.string.text\n"
 "The connection name is contained in the other one."
-msgstr ""
+msgstr "Tá ainm an naisc isteach sa cheann eile."
 
 #: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_ME_S_MAX.string.text
 msgid ""
 "_: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_ME_S_MAX.string.text\n"
 "The connection name is contained in the other one."
-msgstr ""
+msgstr "Tá ainm an naisc isteach sa cheann eile."
 
 #: wizardmachine.src#STR_WIZDLG_PREVIOUS.string.text
 msgid "<< Bac~k"
@@ -79181,7 +79181,7 @@ msgstr "Teagmhas"
 msgid ""
 "_: eventdlg.src#RID_SVXPAGE_EVENTS.STR_ASSMACRO.string.text\n"
 "Assigned macro"
-msgstr ""
+msgstr "Macra sannta"
 
 #: eventdlg.src#RID_SVXPAGE_EVENTS.TXT_SAVEIN.fixedtext.text
 msgid ""
@@ -79193,7 +79193,7 @@ msgstr "Sábháil I"
 msgid ""
 "_: eventdlg.src#RID_SVXPAGE_EVENTS.PB_ASSIGN.pushbutton.text\n"
 "Assign Macro"
-msgstr ""
+msgstr "Sann Macra"
 
 #: eventdlg.src#RID_SVXPAGE_EVENTS.PB_DELETE.pushbutton.text
 msgid "Remove Macro"
@@ -79457,9 +79457,10 @@ msgstr "Cruthaigh réad Fontwork"
 msgid "Right-to-left"
 msgstr "Deas-go-clé"
 
+# or " socruithe réada uachtaránaigh"?
 #: frmdirlbox.src#RID_SVXSTR_FRAMEDIR_SUPER.string.text
 msgid "Use superordinate object settings"
-msgstr ""
+msgstr "Úsáid socruithe uachtaránacha réada"
 
 #: frmdirlbox.src#RID_SVXSTR_PAGEDIR_LTR_HORI.string.text
 #: frmpage.src#TP_FRM_ADD.LB_TEXTFLOW.1.stringlist.text
@@ -81739,7 +81740,7 @@ msgstr "Teagmhas"
 msgid ""
 "_: macropg.src#RID_SVXPAGE_MACROASSIGN.STR_ASSMACRO.string.text\n"
 "Assigned macro"
-msgstr ""
+msgstr "Macra sannta"
 
 #: macropg.src#RID_SVXPAGE_MACROASSIGN.PB_ASSIGN.pushbutton.text
 msgid ""
@@ -81757,7 +81758,7 @@ msgstr "~Bain"
 msgid ""
 "_: macropg.src#RID_SVXPAGE_MACROASSIGN.tabpage.text\n"
 "Assign Macro"
-msgstr ""
+msgstr "Sann Macra"
 
 #: macropg.src#RID_SVXSTR_EVENT_MAILMERGE.string.text
 #: app.src#STR_PRINT_MERGE_MACRO.string.text
@@ -84043,7 +84044,7 @@ msgstr " céim"
 msgid ""
 "_: test.src#RID_SVXPAGE_SLANT.GRP_RADIUS.groupbox.text\n"
 "Corner radius"
-msgstr ""
+msgstr "Ga na gcoirnéal"
 
 #: test.src#RID_SVXPAGE_SLANT.GRP_SLANT.groupbox.text
 msgid ""
@@ -84055,7 +84056,7 @@ msgstr "Claon"
 msgid ""
 "_: test.src#RID_SVXPAGE_SLANT.tabpage.text\n"
 "Slant / Corner Radius"
-msgstr ""
+msgstr "Claon / Ga na gCoirnéal"
 
 #: test.src#RID_SVXDLG_TRANSFORM.TAB_CONTROL.RID_SVXPAGE_POSITION.pageitem.text
 msgid ""
@@ -84082,7 +84083,7 @@ msgid ""
 "_: test.src#RID_SVXDLG_TRANSFORM.TAB_CONTROL.RID_SVXPAGE_SLANT.pageitem."
 "text\n"
 "Slant / Corner Radius"
-msgstr ""
+msgstr "Claon / Ga na gCoirnéal"
 
 #: test.src#RID_SVXDLG_TRANSFORM.tabdialog.text
 msgid ""
@@ -87420,7 +87421,7 @@ msgstr "Uillinn"
 msgid ""
 "_: transfrm.src#RID_SVXPAGE_SLANT.FL_RADIUS.fixedline.text\n"
 "Corner radius"
-msgstr ""
+msgstr "Ga na gcoirnéal"
 
 #: transfrm.src#RID_SVXPAGE_SLANT.FT_RADIUS.fixedtext.text
 msgid ""
@@ -88480,7 +88481,7 @@ msgstr "-"
 msgid ""
 "_: float3d.src#RID_SVXFLOAT_3D.BTN_NORMALS_OBJ.imagebutton.quickhelptext\n"
 "Object-Specific"
-msgstr ""
+msgstr "Sainiúil don Réad"
 
 #: float3d.src#RID_SVXFLOAT_3D.BTN_NORMALS_FLAT.imagebutton.text
 msgid ""
@@ -88682,7 +88683,7 @@ msgstr "-"
 msgid ""
 "_: float3d.src#RID_SVXFLOAT_3D.BTN_LIGHT_COLOR.imagebutton.quickhelptext\n"
 "Colors Dialog"
-msgstr ""
+msgstr "Dialóg Datha"
 
 #: float3d.src#RID_SVXFLOAT_3D.FT_AMBIENTLIGHT.fixedtext.text
 msgid "~Ambient light"
@@ -88698,7 +88699,7 @@ msgstr "-"
 msgid ""
 "_: float3d.src#RID_SVXFLOAT_3D.BTN_AMBIENT_COLOR.imagebutton.quickhelptext\n"
 "Colors Dialog"
-msgstr ""
+msgstr "Dialóg Datha"
 
 #: float3d.src#RID_SVXFLOAT_3D.FL_LIGHT.fixedline.text
 msgid ""
@@ -88773,7 +88774,7 @@ msgstr "-"
 msgid ""
 "_: float3d.src#RID_SVXFLOAT_3D.BTN_TEX_OBJECT_X.imagebutton.quickhelptext\n"
 "Object-Specific"
-msgstr ""
+msgstr "Sainiúil don Réad"
 
 #: float3d.src#RID_SVXFLOAT_3D.BTN_TEX_PARALLEL_X.imagebutton.text
 msgid ""
@@ -88813,7 +88814,7 @@ msgstr "-"
 msgid ""
 "_: float3d.src#RID_SVXFLOAT_3D.BTN_TEX_OBJECT_Y.imagebutton.quickhelptext\n"
 "Object-Specific"
-msgstr ""
+msgstr "Sainiúil don Réad"
 
 #: float3d.src#RID_SVXFLOAT_3D.BTN_TEX_PARALLEL_Y.imagebutton.text
 msgid ""
@@ -88893,7 +88894,7 @@ msgstr "-"
 msgid ""
 "_: float3d.src#RID_SVXFLOAT_3D.BTN_MAT_COLOR.imagebutton.quickhelptext\n"
 "Colors Dialog"
-msgstr ""
+msgstr "Dialóg Datha"
 
 #: float3d.src#RID_SVXFLOAT_3D.FT_MAT_EMISSION.fixedtext.text
 msgid "~Illumination color"
@@ -88909,7 +88910,7 @@ msgstr "-"
 msgid ""
 "_: float3d.src#RID_SVXFLOAT_3D.BTN_EMISSION_COLOR.imagebutton.quickhelptext\n"
 "Colors Dialog"
-msgstr ""
+msgstr "Dialóg Datha"
 
 #: float3d.src#RID_SVXFLOAT_3D.FL_MAT_SPECULAR.fixedline.text
 msgid "Specular"
@@ -88925,7 +88926,7 @@ msgstr "-"
 msgid ""
 "_: float3d.src#RID_SVXFLOAT_3D.BTN_SPECULAR_COLOR.imagebutton.quickhelptext\n"
 "Colors Dialog"
-msgstr ""
+msgstr "Dialóg Datha"
 
 #: float3d.src#RID_SVXFLOAT_3D.FT_MAT_SPECULAR_INTENSITY.fixedtext.text
 msgid "I~ntensity"
@@ -94352,7 +94353,7 @@ msgstr "Fad uathoibríoch na líne"
 msgid ""
 "_: svdstr.src#STR_ItemNam_ECKENRADIUS.string.text\n"
 "Corner radius"
-msgstr ""
+msgstr "Ga na gcoirnéal"
 
 #: svdstr.src#STR_ItemNam_TEXT_LEFTDIST.string.text
 msgid "Left border spacing"
@@ -94858,7 +94859,7 @@ msgstr ""
 msgid ""
 "_: svdstr.src#SIP_SA_ECKENRADIUS.string.text\n"
 "Corner radius"
-msgstr ""
+msgstr "Ga na gcoirnéal"
 
 #: svdstr.src#SIP_SA_TEXT_MINFRAMEHEIGHT.string.text
 msgid "Minimal frame height"
@@ -102586,7 +102587,7 @@ msgstr "Airíonna"
 msgid ""
 "_: column.src#TP_COLUMN.LB_TEXTDIRECTION.3.stringlist.text\n"
 "Use superordinate object settings"
-msgstr ""
+msgstr "Úsáid socruithe uachtaránacha réada"
 
 #: column.src#TP_COLUMN.tabpage.text
 msgid ""
@@ -103000,7 +103001,7 @@ msgstr "Airíonna"
 msgid ""
 "_: frmpage.src#TP_FRM_ADD.LB_TEXTFLOW.4.stringlist.text\n"
 "Use superordinate object settings"
-msgstr ""
+msgstr "Úsáid socruithe uachtaránacha réada"
 
 #: frmui.src#STR_TOP.string.text
 msgid ""
@@ -105424,7 +105425,7 @@ msgstr "Clé-go-deas"
 msgid ""
 "_: tabledlg.src#TP_FORMAT_TABLE.LB_TEXTDIRECTION.3.stringlist.text\n"
 "Use superordinate object settings"
-msgstr ""
+msgstr "Úsáid socruithe uachtaránacha réada"
 
 #: tabledlg.src#TP_TABLE_COLUMN.CB_MOD_TBL.checkbox.text
 msgid "Adapt table ~width"
@@ -105486,7 +105487,7 @@ msgstr "Clé-go-deas"
 msgid ""
 "_: tabledlg.src#TP_TABLE_TEXTFLOW.LB_TEXTDIRECTION.3.stringlist.text\n"
 "Use superordinate object settings"
-msgstr ""
+msgstr "Úsáid socruithe uachtaránacha réada"
 
 #: tabledlg.src#TP_TABLE_TEXTFLOW.FL_VERT_ORIENT.fixedline.text
 msgid ""
@@ -108011,7 +108012,7 @@ msgstr "Clárú na raonta ábhartha: Bileog %1Number%1 as %2TotPageCount%2"
 
 #: euro.src#STATUSLINE___3.string.text
 msgid "Entry of the ranges to be converted..."
-msgstr ""
+msgstr "Iontráil na raonta atá le tiontú..."
 
 #: euro.src#STATUSLINE___4.string.text
 msgid "Sheet protection for each sheet will be restored..."
