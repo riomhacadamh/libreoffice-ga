@@ -8879,7 +8879,7 @@ msgstr ""
 "Ligeann an leagan seo cead duit luacháil a dhéanamh ar lán úsáid an "
 "bhogearra. Ach, de bhrí go le haghaidh luacháil atá an leagan seo, ní bheidh "
 "tú in ann é a úsáid ach taobh istigh do %EVALDAYS i ndiaidh suiteáil. Le "
-"tuilleadh eolas faoi %PRODUCTNAME, tabhair cuairt ar www.sun.como/%"
+"tuilleadh eolas faoi %PRODUCTNAME, tabhair cuairt ar www.sun.com/%"
 "PRODUCTNAME\n"
 "\n"
 "Cliceáil ar \"Ar Aghaidh\" le dul chun cinn."
@@ -10211,7 +10211,7 @@ msgstr ""
 
 #: formlinkdialog.src#RID_DLG_FORMLINKS.modaldialog.text
 msgid "Link fields"
-msgstr ""
+msgstr "Nasc réimsí"
 
 #: formlinkdialog.src#PB_SUGGEST.pushbutton.text
 msgid "Suggest"
@@ -10227,11 +10227,11 @@ msgstr "Máistirfhoirm"
 
 #: formlinkdialog.src#STR_ERROR_RETRIEVING_MASTER_COLUMNS.string.text
 msgid "The columns of the master form could not be retrieved."
-msgstr ""
+msgstr "Níorbh fhéidir colúin na máistirfhoirme a fháil."
 
 #: formlinkdialog.src#STR_ERROR_RETRIEVING_DETAIL_COLUMNS.string.text
 msgid "The columns of the sub form could not be retrieved."
-msgstr ""
+msgstr "Níorbh fhéidir colúin na fofhoirme a fháil."
 
 #: formres.src#RID_STR_EDITMASK.string.text
 msgid "Edit mask"
@@ -11342,7 +11342,7 @@ msgstr "Rialtán (cineál anaithnid)"
 #: pcrmiscres.src#RID_STR_PROPTITLE_DBGRID.string.text
 #: fmstring.src#RID_STR_PROPTITLE_DBGRID.string.text
 msgid "Table Control "
-msgstr ""
+msgstr "Rialú Tábla "
 
 #: propres.src#RID_STR_STANDARD.string.text
 #: strings.src#STR_DEFAULTVIEW.string.text
@@ -11408,11 +11408,11 @@ msgstr "Socraigh"
 
 #: grid.src#GRID_DIALOG.RESET_TYPE_LINEAR_ASCENDING.string.text
 msgid "Linear ascending"
-msgstr ""
+msgstr "Líneach ardaitheach"
 
 #: grid.src#GRID_DIALOG.RESET_TYPE_LINEAR_DESCENDING.string.text
 msgid "Linear descending"
-msgstr ""
+msgstr "Líneach íslitheach"
 
 #: grid.src#GRID_DIALOG.RESET_TYPE_RESET.string.text
 msgid "Original values"
@@ -11420,7 +11420,7 @@ msgstr "Luachanna bunúsacha"
 
 #: grid.src#GRID_DIALOG.RESET_TYPE_EXPONENTIAL.string.text
 msgid "Exponential increasing"
-msgstr ""
+msgstr "Easpónantúil ardaitheach"
 
 #: sanedlg.src#RID_SANE_DIALOG.RID_DEVICEINFO_BTN.pushbutton.text
 msgid ""
@@ -11440,7 +11440,7 @@ msgstr ""
 
 #: sanedlg.src#RID_SANE_DIALOG.RID_SCANAREA_BOX.fixedline.text
 msgid "Scan area"
-msgstr ""
+msgstr "Limistéar scanta"
 
 #: sanedlg.src#RID_SANE_DIALOG.RID_SCAN_LEFT_TXT.fixedtext.text
 msgid "Left:"
@@ -11460,7 +11460,7 @@ msgstr "Bun:"
 
 #: sanedlg.src#RID_SANE_DIALOG.RID_DEVICE_BOX_TXT.fixedtext.text
 msgid "Device used:"
-msgstr ""
+msgstr "Gléas úsáidte:"
 
 #: sanedlg.src#RID_SANE_DIALOG.RID_SCAN_RESOLUTION_TXT.fixedtext.text
 msgid "Resolution [~DPI]"
@@ -11476,7 +11476,7 @@ msgstr "Roghanna:"
 
 #: sanedlg.src#RID_SANE_DIALOG.RID_SCAN_NUMERIC_VECTOR_TXT.fixedtext.text
 msgid "Vector element"
-msgstr ""
+msgstr "Ball veicteora"
 
 #: sanedlg.src#RID_SANE_DIALOG.RID_SCAN_BUTTON_OPTION_BTN.pushbutton.text
 msgid ""
@@ -11845,6 +11845,8 @@ msgid ""
 "1: min. quality\n"
 "100: max. quality"
 msgstr ""
+"1: cáilíocht is measa\n"
+"100: cáilíocht is fearr"
 
 #: impswfdialog.src#DLG_OPTIONS.modaldialog.text
 msgid "Macromedia Flash (SWF) Options"
@@ -11899,7 +11901,7 @@ msgstr "~Cáilíocht"
 
 #: impdialog.src#RID_PDF_EXPORT_DLG.CB_REDUCEIMAGERESOLUTION.checkbox.text
 msgid "~Reduce image resolution"
-msgstr ""
+msgstr "~Laghdaigh taifeach na híomhá"
 
 #: impdialog.src#CB_TAGGEDPDF.checkbox.text
 msgid "~Tagged PDF"
@@ -11911,15 +11913,15 @@ msgstr "Easpórtáil ~nótaí"
 
 #: impdialog.src#CB_TRANSITIONEFFECTS.checkbox.text
 msgid "~Use transition effects"
-msgstr ""
+msgstr "Ú~sáid maisíochtaí trasdulta"
 
 #: impdialog.src#FT_FORMSFORMAT.fixedtext.text
 msgid "Submit forms in ~format:"
-msgstr ""
+msgstr "Seol foirmeacha i bh~fhormáid:"
 
 #: impdialog.src#CB_EXPORTEMPTYPAGES.checkbox.text
 msgid "Export automatically inserted ~blank pages"
-msgstr ""
+msgstr "Easpórtáil ~leathanaigh fholmha a ionsádh go huathoibríoch"
 
 #: impdialog.src#BT_OK.okbutton.text
 msgid "E~xport"
@@ -11955,6 +11957,8 @@ msgid ""
 "Do you really want to delete the XML Filter '%s'? This action cannot be "
 "undone."
 msgstr ""
+"An bhfuil tú cinnte gur mhaith leat Scagaire XML '%s'? Ní féidir é a "
+"athchóiriú."
 
 #: xmlfilterdialogstrings.src#STR_ERROR_FILTER_NAME_EXISTS.string.text
 msgid ""
@@ -11969,6 +11973,8 @@ msgid ""
 "The name for  the user interface '%s1' is already used by the XML filter '%"
 "s2'. Please enter a different name."
 msgstr ""
+"Tá ainm an chomhéadain '%s1' in úsáid ag scagaire XML '%s2'. Iontráil ainm "
+"difriúil air, le do thoil."
 
 #: xmlfilterdialogstrings.src#STR_ERROR_DTD_NOT_FOUND.string.text
 msgid "The DTD could not be found. Please enter a valid path."
@@ -11983,6 +11989,8 @@ msgstr ""
 #: xmlfilterdialogstrings.src#STR_ERROR_IMPORT_XSLT_NOT_FOUND.string.text
 msgid "The XSLT for import cannot be found. Please enter a valid path."
 msgstr ""
+"Ní féidir an XSLT a aimsiú le haghaidh iompórtála. Iontráil conair bhailí, "
+"le do thoil."
 
 #: xmlfilterdialogstrings.src#STR_ERROR_IMPORT_TEMPLATE_NOT_FOUND.string.text
 msgid "The given import template cannot be found. Please enter a valid path."
@@ -12280,7 +12288,7 @@ msgstr "~Dún"
 
 #: xmlfiltertestdialog.src#DLG_XML_FILTER_TEST_DIALOG.modaldialog.text
 msgid "Test XML Filter: %s"
-msgstr ""
+msgstr "Scagaire XML Tástála: %s"
 
 #: strings.src#RID_BASELISTBOX_ERROR_FILLLIST.string.text
 msgid "The contents of a combo box or list field could not be determined."
@@ -12299,6 +12307,8 @@ msgid ""
 "An error occurred while this control was being loaded. It was therefore "
 "replaced with a placeholder."
 msgstr ""
+"Tharla earráid agus an rialtán seo á luchtú. Dá bharr seo, cuireadh "
+"ionadchoinneálaí ina ionad."
 
 #: strings.src#RID_STR_READERROR.string.text
 msgid "Error reading data from database"
@@ -12310,11 +12320,11 @@ msgstr "Theip ar nascadh"
 
 #: strings.src#RID_ERR_LOADING_FORM.string.text
 msgid "The data content could not be loaded."
-msgstr ""
+msgstr "Níorbh fhéidir inneachar na sonraí a luchtú."
 
 #: strings.src#RID_ERR_REFRESHING_FORM.string.text
 msgid "The data content could not be updated"
-msgstr ""
+msgstr "Níorbh fhéidir inneachar na sonraí a nuashonrú"
 
 #: strings.src#RID_STR_ERR_INSERTRECORD.string.text
 msgid "Error inserting the new record"
@@ -12334,7 +12344,7 @@ msgstr "Earráid agus na taifid shainithe á scriosadh"
 
 #: strings.src#RID_STR_NEED_NON_NULL_OBJECT.string.text
 msgid "The object cannot be NULL."
-msgstr ""
+msgstr "Ní cheadaítear réad NULL."
 
 #: strings.src#RID_STR_OPEN_GRAPHICS.string.text
 msgid "Insert graphics from..."
@@ -12405,31 +12415,31 @@ msgstr ""
 
 #: xforms.src#RID_STR_XFORMS_VALUE_MAX_INCL.string.text
 msgid "The value must be smaller than or equal to $2."
-msgstr ""
+msgstr "Ní mór an luach a bheith níos lú ná, nó cothrom le $2."
 
 #: xforms.src#RID_STR_XFORMS_VALUE_MAX_EXCL.string.text
 msgid "The value must be smaller than $2."
-msgstr ""
+msgstr "Ní mór an luach a bheith níos lú ná $2."
 
 #: xforms.src#RID_STR_XFORMS_VALUE_MIN_INCL.string.text
 msgid "The value must be greater than or equal to $2."
-msgstr ""
+msgstr "Ní mór an luach a bheith níos mó ná, nó cothrom le $2"
 
 #: xforms.src#RID_STR_XFORMS_VALUE_MIN_EXCL.string.text
 msgid "The value must be greater than $2."
-msgstr ""
+msgstr "Ní mór an luach a bheith níos mó ná $2."
 
 #: xforms.src#RID_STR_XFORMS_VALUE_PATTERN.string.text
 msgid "The value does not match the pattern '$2'."
-msgstr ""
+msgstr "Ní mheaitseálann an luach le patrún '$2'."
 
 #: xforms.src#RID_STR_XFORMS_VALUE_TOTAL_DIGITS.string.text
 msgid "$2 digits allowed at most."
-msgstr ""
+msgstr "Ceadaítear $2 digit ar a mhéad."
 
 #: xforms.src#RID_STR_XFORMS_VALUE_FRACTION_DIGITS.string.text
 msgid "$2 fraction digits allowed at most."
-msgstr ""
+msgstr "Ceadaítear $2 digit codánach ar a mhéad."
 
 #: xforms.src#RID_STR_XFORMS_VALUE_LENGTH.string.text
 msgid "The string must be $2 characters long."
@@ -12456,7 +12466,7 @@ msgstr "Hipearnasc"
 
 #: xforms.src#RID_STR_DATATYPE_BOOLEAN.string.text
 msgid "True/False (Boolean)"
-msgstr ""
+msgstr "Fíor/Falsa (luach Boole)"
 
 #: xforms.src#RID_STR_DATATYPE_DECIMAL.string.text
 #: validate.src#TP_VALIDATION_VALUES.LB_ALLOW.3.stringlist.text
@@ -12507,7 +12517,7 @@ msgstr "Earráid le linn luachála"
 
 #: xforms.src#RID_STR_XFORMS_PATTERN_DOESNT_MATCH.string.text
 msgid "The string '$1' does not match the required regular expression '$2'."
-msgstr ""
+msgstr "Ní mheaitseálann teaghrán '$1' le slonn ionadaíochta '$2'."
 
 #: OfficeFilePicker.src#STR_SVT_FILEPICKER_AUTO_EXTENSION.string.text
 msgid ""
@@ -12852,7 +12862,7 @@ msgstr "Cuir athruithe i leataobh"
 
 #: logindialog.src#RID_DLG_LOGIN.RID_FT_LOGINTEXT.fixedtext.text
 msgid "Please login to Sun ONE Webtop."
-msgstr ""
+msgstr "Logáil isteach sa Webtop Sun ONE, le do thoil."
 
 #: logindialog.src#RID_DLG_LOGIN.RID_FT_USERNAME.fixedtext.text
 #: logindlg.src#DLG_LOGIN.FT_LOGIN_USERNAME.fixedtext.text
@@ -12991,7 +13001,7 @@ msgstr "Leibhéal ~2"
 
 #: dlgeps.src#DLG_EXPORT_EPS.GRP_COLOR.fixedline.text
 msgid "Color format"
-msgstr ""
+msgstr "Formáid na ndathanna"
 
 #: dlgeps.src#DLG_EXPORT_EPS.RB_COLOR.radiobutton.text
 #: rtsetup.src#RID_RTS_DEVICEPAGE.RID_RTS_DEVICE_SPACE_TXT.fixedtext.text
@@ -13025,11 +13035,11 @@ msgstr ""
 
 #: ActionTe.ulf#OOO_ACTIONTEXT_1.LngText.text
 msgid "Advertising application"
-msgstr ""
+msgstr "Feidhmchlár á fhógairt"
 
 #: ActionTe.ulf#OOO_ACTIONTEXT_2.LngText.text
 msgid "Allocating registry space"
-msgstr ""
+msgstr "Spás clárlainne á dháileadh"
 
 #: ActionTe.ulf#OOO_ACTIONTEXT_3.LngText.text
 msgid "Free space: [1]"
@@ -13045,7 +13055,7 @@ msgstr "Airí: [1], Síniú: [2]"
 
 #: ActionTe.ulf#OOO_ACTIONTEXT_6.LngText.text
 msgid "Binding executables"
-msgstr ""
+msgstr "Comhaid inrite á gceangal"
 
 #: ActionTe.ulf#OOO_ACTIONTEXT_7.LngText.text
 msgid ""
@@ -13145,7 +13155,7 @@ msgstr "[1]"
 
 #: ActionTe.ulf#OOO_ACTIONTEXT_26.LngText.text
 msgid "Copying files to the network"
-msgstr ""
+msgstr "Comhaid á gcóipeáil go dtí an líonra"
 
 #: ActionTe.ulf#OOO_ACTIONTEXT_27.LngText.text
 msgid "File: [1], Directory: [9], Size: [6]"
@@ -13187,7 +13197,7 @@ msgstr "Suiteáil á bailíochtú"
 
 #: ActionTe.ulf#OOO_ACTIONTEXT_36.LngText.text
 msgid "Evaluating launch conditions"
-msgstr ""
+msgstr "Coinníollacha tosaithe á luacháil"
 
 #: ActionTe.ulf#OOO_ACTIONTEXT_37.LngText.text
 msgid "Migrating feature states from related applications"
@@ -13217,7 +13227,7 @@ msgstr "Comhad: [1],  Comhadlann: [2],  Méid: [3]"
 
 #: ActionTe.ulf#OOO_ACTIONTEXT_43.LngText.text
 msgid "Updating component registration"
-msgstr ""
+msgstr "Clárú na gcomhpháirteanna á nuashonrú"
 
 #: ActionTe.ulf#OOO_ACTIONTEXT_44.LngText.text
 msgid "Publishing qualified components"
@@ -13241,7 +13251,7 @@ msgstr "Gné: [1]"
 
 #: ActionTe.ulf#OOO_ACTIONTEXT_48.LngText.text
 msgid "Publishing product information"
-msgstr ""
+msgstr "Eolas faoin táirge á fhoilsiú"
 
 #: ActionTe.ulf#OOO_ACTIONTEXT_49.LngText.text
 msgid "Registering class servers"
@@ -13251,7 +13261,7 @@ msgstr ""
 msgid ""
 "_: ActionTe.ulf#OOO_ACTIONTEXT_50.LngText.text\n"
 "Class ID: [1]"
-msgstr ""
+msgstr "Aitheantas Aicme: [1]"
 
 #: ActionTe.ulf#OOO_ACTIONTEXT_51.LngText.text
 msgid "Registering COM+ Applications and Components"
@@ -13485,7 +13495,7 @@ msgstr "Seirbhís: [1]"
 
 #: ActionTe.ulf#OOO_ACTIONTEXT_98.LngText.text
 msgid "Removing moved files"
-msgstr ""
+msgstr "Comhaid bhogtha á mbaint"
 
 #: ActionTe.ulf#OOO_ACTIONTEXT_99.LngText.text
 msgid ""
@@ -13515,7 +13525,7 @@ msgstr "Gné: [1]"
 
 #: ActionTe.ulf#OOO_ACTIONTEXT_104.LngText.text
 msgid "Unpublishing product information"
-msgstr ""
+msgstr "Eolas faoin táirge á dhífhoilsiú"
 
 #: ActionTe.ulf#OOO_ACTIONTEXT_105.LngText.text
 msgid "Unregister class servers"
@@ -13525,11 +13535,11 @@ msgstr ""
 msgid ""
 "_: ActionTe.ulf#OOO_ACTIONTEXT_106.LngText.text\n"
 "Class ID: [1]"
-msgstr ""
+msgstr "Aitheantas Aicme: [1]"
 
 #: ActionTe.ulf#OOO_ACTIONTEXT_107.LngText.text
 msgid "Unregistering COM+ Applications and Components"
-msgstr ""
+msgstr "Feidhmchláir agus Comhpháirteanna COM+ á nDíchlárú"
 
 #: ActionTe.ulf#OOO_ACTIONTEXT_108.LngText.text
 msgid "AppId: [1]{{, AppType: [2]}}"
@@ -14934,11 +14944,11 @@ msgstr "Cineál teachtaireachta: [1], Argóint: [2]"
 
 #: Error.ulf#OOO_ERROR_11.LngText.text
 msgid "=== Logging started: [Date]  [Time] ==="
-msgstr ""
+msgstr "=== Logáil tosaithe: [Dáta]  [Am] ==="
 
 #: Error.ulf#OOO_ERROR_12.LngText.text
 msgid "=== Logging stopped: [Date]  [Time] ==="
-msgstr ""
+msgstr "=== Logáil stoptha: [Dáta]  [Am] ==="
 
 #: Error.ulf#OOO_ERROR_13.LngText.text
 msgid "Action start [Time]: [1]."
@@ -14988,13 +14998,15 @@ msgstr ""
 
 #: Error.ulf#OOO_ERROR_24.LngText.text
 msgid "{[ProductName] }Setup failed."
-msgstr ""
+msgstr "Theip ar Shocrú {[ProductName] }."
 
 #: Error.ulf#OOO_ERROR_25.LngText.text
 msgid ""
 "Error reading from file: [2]. {{ System error [3].}}  Verify that the file "
 "exists and that you can access it."
 msgstr ""
+"Earráid agus comhad á léamh: [2]. {{ System error [3].}} Deimhnigh go bhfuil "
+"an comhad ann agus go bhfuil cead rochtana agat."
 
 #: Error.ulf#OOO_ERROR_26.LngText.text
 msgid ""
@@ -36512,7 +36524,7 @@ msgid "Authentication request"
 msgstr "Iarratas fíordheimhnithe"
 
 #: readme.xrm#ooo_readme.Welcome.A2.a.readmeitem.text
-msgid "Last updated $Date: 2006-03-10 02:33:16 $"
+msgid "Last updated $Date: 2006-03-11 01:45:31 $"
 msgstr ""
 
 #: readme.xrm#ooo_readme.Welcome.A3.a.readmeitem.text
@@ -37898,7 +37910,7 @@ msgstr ""
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Networkdays.1.string.text
 msgid "Returns the number of workdays between two dates"
-msgstr ""
+msgstr "Aisfhilleann sé líon na laethanta oibre idir dhá dáta"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Networkdays.2.string.text
 msgid ""
@@ -37937,11 +37949,11 @@ msgstr "Laethanta Saoire"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Networkdays.7.string.text
 msgid "List of date values representing days off (vacation, holidays, etc.)"
-msgstr ""
+msgstr "Liosta de dhátaí a léiríonn laethanta saoire"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Iseven.1.string.text
 msgid "Returns the value 'true' if the number is even"
-msgstr ""
+msgstr "Aisfhilleann sé luach 'true' más cothrom í an uimhir"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Iseven.2.string.text
 msgid ""
@@ -37959,7 +37971,7 @@ msgstr "An uimhir"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Isodd.1.string.text
 msgid "Returns the value 'true' if the number is odd"
-msgstr ""
+msgstr "Aisfhilleann sé luach 'true' más corruimhir í"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Isodd.2.string.text
 msgid ""
@@ -37977,7 +37989,7 @@ msgstr "An uimhir"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Multinomial.1.string.text
 msgid "Returns the multinomial coefficient of a set of numbers"
-msgstr ""
+msgstr "Aisfhilleann sé an chomhéifeacht iltéarmach de thacar uimhreacha"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Multinomial.2.string.text
 msgid ""
@@ -37993,7 +38005,7 @@ msgstr ""
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Seriessum.1.string.text
 msgid "Returns the sum of a power series"
-msgstr ""
+msgstr "Aisfhilleann sé suim cumhachtsratha"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Seriessum.2.string.text
 msgid ""
@@ -38004,7 +38016,7 @@ msgstr "X"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Seriessum.3.string.text
 msgid "The independent variable of the power series"
-msgstr ""
+msgstr "Athróg neamhspleách an chumhachtsratha"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Seriessum.4.string.text
 msgid ""
@@ -38080,7 +38092,7 @@ msgstr "Uimhir"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mround.3.string.text
 msgid "The number to round off"
-msgstr ""
+msgstr "An uimhir le slánú"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mround.4.string.text
 msgid "Multiple"
@@ -38107,7 +38119,7 @@ msgstr ""
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Randbetween.1.string.text
 msgid "Returns a random integer between the numbers you specify"
-msgstr ""
+msgstr "Aisfhilleann sé slánuimhir randamach idir na huimhreacha sonraithe"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Randbetween.2.string.text
 #: pvfundlg.src#RID_SCDLG_DPSUBTOTAL_OPT.LB_SHOW_FROM.2.stringlist.text
@@ -38143,7 +38155,7 @@ msgstr ""
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Gcd.1.string.text
 msgid "Returns the greatest common divisor"
-msgstr ""
+msgstr "Aisfhilleann sé an comhfhachtóir is mó"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Gcd.2.string.text
 msgid ""
@@ -38157,11 +38169,11 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Gcd.3.string."
 "text\n"
 "Number or list of numbers"
-msgstr ""
+msgstr "Uimhir nó liosta uimhreacha"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Lcm.1.string.text
 msgid "Returns the least common multiple"
-msgstr ""
+msgstr "Aisfhilleann sé an comhiolraí is lú"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Lcm.2.string.text
 msgid ""
@@ -38175,11 +38187,11 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Lcm.3.string."
 "text\n"
 "Number or list of numbers"
-msgstr ""
+msgstr "Uimhir nó liosta uimhreacha"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besseli.1.string.text
 msgid "Returns the modified Bessel function In(x)"
-msgstr ""
+msgstr "Aisfhilleann luach na feidhme athraithe Bessel In(x)"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besseli.2.string.text
 msgid ""
@@ -38193,7 +38205,7 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besseli.3.string."
 "text\n"
 "The value at which the function is to be evaluated"
-msgstr ""
+msgstr "An luach a luacháiltear an fheidhm aige"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besseli.4.string.text
 msgid ""
@@ -38207,11 +38219,11 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besseli.5.string."
 "text\n"
 "The order of the Bessel function"
-msgstr ""
+msgstr "Ord na feidhme Bessel"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besselj.1.string.text
 msgid "Returns the Bessel function Jn(x)"
-msgstr ""
+msgstr "Aisfhilleann sé luach na feidhme Bessel Jn(x)"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besselj.2.string.text
 msgid ""
@@ -38225,7 +38237,7 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besselj.3.string."
 "text\n"
 "The value at which the function is to be evaluated"
-msgstr ""
+msgstr "An luach a luacháiltear an fheidhm aige"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besselj.4.string.text
 msgid ""
@@ -38239,7 +38251,7 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besselj.5.string."
 "text\n"
 "The order of the Bessel function"
-msgstr ""
+msgstr "Ord na feidhme Bessel"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besselk.1.string.text
 msgid "Returns the Bessel function Kn(x)"
@@ -38257,7 +38269,7 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besselk.3.string."
 "text\n"
 "The value at which the function is to be evaluated"
-msgstr ""
+msgstr "An luach a luacháiltear an fheidhm aige"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besselk.4.string.text
 msgid ""
@@ -38271,7 +38283,7 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besselk.5.string."
 "text\n"
 "The order of the Bessel function"
-msgstr ""
+msgstr "Ord na feidhme Bessel"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bessely.1.string.text
 msgid "Returns the Bessel function Yn(x)"
@@ -38289,7 +38301,7 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bessely.3.string."
 "text\n"
 "The value at which the function is to be evaluated"
-msgstr ""
+msgstr "An luach a luacháiltear an fheidhm aige"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bessely.4.string.text
 msgid ""
@@ -38303,7 +38315,7 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bessely.5.string."
 "text\n"
 "The order of the Bessel function"
-msgstr ""
+msgstr "Ord na feidhme Bessel"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bin2Oct.1.string.text
 msgid "Converts a binary number to an octal number"
@@ -39392,14 +39404,14 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint.6.string."
 "text\n"
 "Settlement"
-msgstr ""
+msgstr "Socraíocht"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint.7.string.text
 msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint.7.string."
 "text\n"
 "The settlement"
-msgstr ""
+msgstr "An tsocraíocht"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint.8.string.text
 msgid ""
@@ -39481,14 +39493,14 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrintm.4."
 "string.text\n"
 "Settlement"
-msgstr ""
+msgstr "Socraíocht"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrintm.5.string.text
 msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrintm.5."
 "string.text\n"
 "The settlement"
-msgstr ""
+msgstr "An tsocraíocht"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrintm.6.string.text
 msgid ""
@@ -39541,14 +39553,14 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Received.2."
 "string.text\n"
 "Settlement"
-msgstr ""
+msgstr "Socraíocht"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Received.3.string.text
 msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Received.3."
 "string.text\n"
 "The settlement"
-msgstr ""
+msgstr "An tsocraíocht"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Received.4.string.text
 msgid ""
@@ -39615,14 +39627,14 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Disc.2.string."
 "text\n"
 "Settlement"
-msgstr ""
+msgstr "Socraíocht"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Disc.3.string.text
 msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Disc.3.string."
 "text\n"
 "The settlement"
-msgstr ""
+msgstr "An tsocraíocht"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Disc.4.string.text
 msgid ""
@@ -39664,7 +39676,7 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Disc.9.string."
 "text\n"
 "The redemption value"
-msgstr ""
+msgstr "Luach ag fuascailt"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Disc.10.string.text
 msgid ""
@@ -39691,14 +39703,14 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Duration.2."
 "string.text\n"
 "Settlement"
-msgstr ""
+msgstr "Socraíocht"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Duration.3.string.text
 msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Duration.3."
 "string.text\n"
 "The settlement"
-msgstr ""
+msgstr "An tsocraíocht"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Duration.4.string.text
 msgid ""
@@ -39984,14 +39996,14 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price.2.string."
 "text\n"
 "Settlement"
-msgstr ""
+msgstr "Socraíocht"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price.3.string.text
 msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price.3.string."
 "text\n"
 "The settlement"
-msgstr ""
+msgstr "An tsocraíocht"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price.4.string.text
 msgid ""
@@ -40047,7 +40059,7 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price.11.string."
 "text\n"
 "The redemption value"
-msgstr ""
+msgstr "Luach ag fuascailt"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price.12.string.text
 msgid ""
@@ -40087,14 +40099,14 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricedisc.2."
 "string.text\n"
 "Settlement"
-msgstr ""
+msgstr "Socraíocht"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricedisc.3.string.text
 msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricedisc.3."
 "string.text\n"
 "The settlement"
-msgstr ""
+msgstr "An tsocraíocht"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricedisc.4.string.text
 msgid ""
@@ -40136,7 +40148,7 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricedisc.9."
 "string.text\n"
 "The redemption value"
-msgstr ""
+msgstr "Luach ag fuascailt"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricedisc.10.string.text
 msgid ""
@@ -40163,14 +40175,14 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricemat.2."
 "string.text\n"
 "Settlement"
-msgstr ""
+msgstr "Socraíocht"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricemat.3.string.text
 msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricemat.3."
 "string.text\n"
 "The settlement"
-msgstr ""
+msgstr "An tsocraíocht"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricemat.4.string.text
 msgid ""
@@ -40253,14 +40265,14 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mduration.2."
 "string.text\n"
 "Settlement"
-msgstr ""
+msgstr "Socraíocht"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mduration.3.string.text
 msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mduration.3."
 "string.text\n"
 "The settlement"
-msgstr ""
+msgstr "An tsocraíocht"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mduration.4.string.text
 msgid ""
@@ -40425,14 +40437,14 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield.2.string."
 "text\n"
 "Settlement"
-msgstr ""
+msgstr "Socraíocht"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield.3.string.text
 msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield.3.string."
 "text\n"
 "The settlement"
-msgstr ""
+msgstr "An tsocraíocht"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield.4.string.text
 msgid ""
@@ -40488,7 +40500,7 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield.11.string."
 "text\n"
 "The redemption value"
-msgstr ""
+msgstr "Luach ag fuascailt"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield.12.string.text
 msgid ""
@@ -40527,14 +40539,14 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yielddisc.2."
 "string.text\n"
 "Settlement"
-msgstr ""
+msgstr "Socraíocht"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yielddisc.3.string.text
 msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yielddisc.3."
 "string.text\n"
 "The settlement"
-msgstr ""
+msgstr "An tsocraíocht"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yielddisc.4.string.text
 msgid ""
@@ -40576,7 +40588,7 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yielddisc.9."
 "string.text\n"
 "The redemption value"
-msgstr ""
+msgstr "Luach ag fuascailt"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yielddisc.10.string.text
 msgid ""
@@ -40601,14 +40613,14 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yieldmat.2."
 "string.text\n"
 "Settlement"
-msgstr ""
+msgstr "Socraíocht"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yieldmat.3.string.text
 msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yieldmat.3."
 "string.text\n"
 "The settlement"
-msgstr ""
+msgstr "An tsocraíocht"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yieldmat.4.string.text
 msgid ""
@@ -40689,14 +40701,14 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbilleq.2.string."
 "text\n"
 "Settlement"
-msgstr ""
+msgstr "Socraíocht"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbilleq.3.string.text
 msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbilleq.3.string."
 "text\n"
 "The settlement"
-msgstr ""
+msgstr "An tsocraíocht"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbilleq.4.string.text
 msgid ""
@@ -40735,14 +40747,14 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillprice.2."
 "string.text\n"
 "Settlement"
-msgstr ""
+msgstr "Socraíocht"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillprice.3.string.text
 msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillprice.3."
 "string.text\n"
 "The settlement"
-msgstr ""
+msgstr "An tsocraíocht"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillprice.4.string.text
 msgid ""
@@ -40781,14 +40793,14 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillyield.2."
 "string.text\n"
 "Settlement"
-msgstr ""
+msgstr "Socraíocht"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillyield.3.string.text
 msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillyield.3."
 "string.text\n"
 "The settlement"
-msgstr ""
+msgstr "An tsocraíocht"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillyield.4.string.text
 msgid ""
@@ -40828,14 +40840,14 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice.2."
 "string.text\n"
 "Settlement"
-msgstr ""
+msgstr "Socraíocht"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice.3.string.text
 msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice.3."
 "string.text\n"
 "The settlement"
-msgstr ""
+msgstr "An tsocraíocht"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice.4.string.text
 msgid ""
@@ -40919,7 +40931,7 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice.15."
 "string.text\n"
 "The redemption value"
-msgstr ""
+msgstr "Luach ag fuascailt"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice.16.string.text
 msgid ""
@@ -40958,14 +40970,14 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield.2."
 "string.text\n"
 "Settlement"
-msgstr ""
+msgstr "Socraíocht"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield.3.string.text
 msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield.3."
 "string.text\n"
 "The settlement"
-msgstr ""
+msgstr "An tsocraíocht"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield.4.string.text
 msgid ""
@@ -41049,7 +41061,7 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield.15."
 "string.text\n"
 "The redemption value"
-msgstr ""
+msgstr "Luach ag fuascailt"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield.16.string.text
 msgid ""
@@ -41089,14 +41101,14 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice.2."
 "string.text\n"
 "Settlement"
-msgstr ""
+msgstr "Socraíocht"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice.3.string.text
 msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice.3."
 "string.text\n"
 "The settlement"
-msgstr ""
+msgstr "An tsocraíocht"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice.4.string.text
 msgid ""
@@ -41166,7 +41178,7 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice.13."
 "string.text\n"
 "The redemption value"
-msgstr ""
+msgstr "Luach ag fuascailt"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice.14.string.text
 msgid ""
@@ -41205,14 +41217,14 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield.2."
 "string.text\n"
 "Settlement"
-msgstr ""
+msgstr "Socraíocht"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield.3.string.text
 msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield.3."
 "string.text\n"
 "The settlement"
-msgstr ""
+msgstr "An tsocraíocht"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield.4.string.text
 msgid ""
@@ -41282,7 +41294,7 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield.13."
 "string.text\n"
 "The redemption value"
-msgstr ""
+msgstr "Luach ag fuascailt"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield.14.string.text
 msgid ""
@@ -41408,14 +41420,14 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Intrate.2.string."
 "text\n"
 "Settlement"
-msgstr ""
+msgstr "Socraíocht"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Intrate.3.string.text
 msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Intrate.3.string."
 "text\n"
 "The settlement"
-msgstr ""
+msgstr "An tsocraíocht"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Intrate.4.string.text
 msgid ""
@@ -41457,7 +41469,7 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Intrate.9.string."
 "text\n"
 "The redemption value"
-msgstr ""
+msgstr "Luach ag fuascailt"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Intrate.10.string.text
 msgid ""
@@ -41482,14 +41494,14 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupncd.2.string."
 "text\n"
 "Settlement"
-msgstr ""
+msgstr "Socraíocht"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupncd.3.string.text
 msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupncd.3.string."
 "text\n"
 "The settlement"
-msgstr ""
+msgstr "An tsocraíocht"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupncd.4.string.text
 msgid ""
@@ -41544,14 +41556,14 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdays.2."
 "string.text\n"
 "Settlement"
-msgstr ""
+msgstr "Socraíocht"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdays.3.string.text
 msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdays.3."
 "string.text\n"
 "The settlement"
-msgstr ""
+msgstr "An tsocraíocht"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdays.4.string.text
 msgid ""
@@ -41605,14 +41617,14 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaysnc.2."
 "string.text\n"
 "Settlement"
-msgstr ""
+msgstr "Socraíocht"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaysnc.3.string.text
 msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaysnc.3."
 "string.text\n"
 "The settlement"
-msgstr ""
+msgstr "An tsocraíocht"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaysnc.4.string.text
 msgid ""
@@ -41667,14 +41679,14 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaybs.2."
 "string.text\n"
 "Settlement"
-msgstr ""
+msgstr "Socraíocht"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaybs.3.string.text
 msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaybs.3."
 "string.text\n"
 "The settlement"
-msgstr ""
+msgstr "An tsocraíocht"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaybs.4.string.text
 msgid ""
@@ -41727,14 +41739,14 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Couppcd.2.string."
 "text\n"
 "Settlement"
-msgstr ""
+msgstr "Socraíocht"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Couppcd.3.string.text
 msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Couppcd.3.string."
 "text\n"
 "The settlement"
-msgstr ""
+msgstr "An tsocraíocht"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Couppcd.4.string.text
 msgid ""
@@ -41789,14 +41801,14 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupnum.2.string."
 "text\n"
 "Settlement"
-msgstr ""
+msgstr "Socraíocht"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupnum.3.string.text
 msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupnum.3.string."
 "text\n"
 "The settlement"
-msgstr ""
+msgstr "An tsocraíocht"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupnum.4.string.text
 msgid ""
