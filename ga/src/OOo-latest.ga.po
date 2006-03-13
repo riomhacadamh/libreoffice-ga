@@ -4701,15 +4701,15 @@ msgstr ""
 
 #: strings.src#RID_STR_NO_UPDATEROW.string.text
 msgid "A row cannot be modified in this state"
-msgstr ""
+msgstr "Ní féidir ró a mhionathrú sa staid seo"
 
 #: strings.src#RID_STR_NO_DELETEROW.string.text
 msgid "A row cannot be deleted in this state."
-msgstr ""
+msgstr "Ní féidir ró a scriosadh sa staid seo."
 
 #: strings.src#RID_STR_NO_TABLE_RENAME.string.text
 msgid "The driver does not support table renaming."
-msgstr ""
+msgstr "Ní thacaíonn an tiománaí le hathainmniú comhad."
 
 #: strings.src#RID_STR_NO_ALTER_COLUMN_DEF.string.text
 msgid "The driver does not support the modification of column descriptions."
@@ -4734,7 +4734,7 @@ msgstr "Níl an comhad \"$file$\" ann."
 
 #: app.src#RID_STR_NEW_FORM.string.text
 msgid "Create Form in Design View..."
-msgstr ""
+msgstr "Cruthaigh Foirm san Amharc ar Dhearadh..."
 
 #: app.src#RID_STR_NEW_FORM_AUTO.string.text
 msgid "Use Wizard to Create Form..."
@@ -4746,11 +4746,11 @@ msgstr "Úsáid Draoi chun Tuairisc a Chruthú..."
 
 #: app.src#RID_STR_NEW_QUERY.string.text
 msgid "Create Query in Design View..."
-msgstr ""
+msgstr "Cruthaigh Iarratas san Amharc ar Dhearadh..."
 
 #: app.src#RID_STR_NEW_QUERY_SQL.string.text
 msgid "Create Query in SQL View..."
-msgstr ""
+msgstr "Cruthaigh Iarratas san Amharc SQL..."
 
 #: app.src#RID_STR_NEW_QUERY_AUTO.string.text
 msgid "Use Wizard to Create Query..."
@@ -4758,7 +4758,7 @@ msgstr "Úsáid Draoi chun Iarratas a Chruthú..."
 
 #: app.src#RID_STR_NEW_TABLE.string.text
 msgid "Create Table in Design View..."
-msgstr ""
+msgstr "Cruthaigh Tábla san Amharc Dhearadh..."
 
 #: app.src#RID_STR_NEW_TABLE_AUTO.string.text
 msgid "Use Wizard to Create Table..."
@@ -4860,6 +4860,7 @@ msgstr " - %PRODUCTNAME Base"
 msgid ""
 "The wizard will guide you through the steps necessary to create a report."
 msgstr ""
+"Déanadh an draoi seo treorú duit trí na céimeanna chun tuairisc a chruthú."
 
 #: app.src#RID_STR_FORMS_HELP_TEXT.string.text
 msgid ""
@@ -4870,12 +4871,15 @@ msgstr ""
 #: app.src#RID_STR_FORMS_HELP_TEXT_WIZARD.string.text
 msgid "The wizard will guide you through the steps necessary to create a form."
 msgstr ""
+"Déanadh an draoi seo treorú duit trí na céimeanna chun foirm a chruthú."
 
 #: app.src#RID_STR_QUERIES_HELP_TEXT.string.text
 msgid ""
 "Create a query by specifying the filters, input tables, field names,  and  "
 "properties for sorting or grouping."
 msgstr ""
+"Cruthaigh iarratas trí sonrú na scagairí, táblaí ionchurtha, ainmneacha na "
+"réimsí, agus airíonna sórtála/grúpála."
 
 #: app.src#RID_STR_QUERIES_HELP_TEXT_SQL.string.text
 msgid "Create a query  entering an SQL statement directly."
@@ -4885,12 +4889,15 @@ msgstr ""
 msgid ""
 "The wizard will guide you through the steps necessary to create a query."
 msgstr ""
+"Déanadh an draoi seo treorú duit trí na céimeanna chun iarratas a chruthú."
 
 #: app.src#RID_STR_TABLES_HELP_TEXT_DESIGN.string.text
 msgid ""
 "Create a table by specifying the field names and properties, as well as the "
 "data types."
 msgstr ""
+"Cruthaigh tábla trí ainmneacha agus airíonna na réimsí a shonrú, chomh maith "
+"leis na cineálacha sonraí."
 
 #: app.src#RID_STR_TABLES_HELP_TEXT_WIZARD.string.text
 msgid ""
@@ -4906,7 +4913,7 @@ msgstr ""
 
 #: app.src#RID_STR_VIEWS_HELP_TEXT_WIZARD.string.text
 msgid "Opens the view wizard"
-msgstr ""
+msgstr "Oscail an draoi amhairc"
 
 #: app.src#STR_DATABASE.string.text
 #: dbadmin.src#PAGE_GENERAL.FT_DATATYPEAPPENDIX.fixedtext.text
@@ -4964,6 +4971,11 @@ msgid ""
 "\n"
 "Do you want to close all documents now?"
 msgstr ""
+"Athraíodh an nasc.\n"
+"Chun na hathruithe a chur i bhfeidhm, ní mór duit gach foirm, tuairisc, agus "
+"tábla a dhúnadh.\n"
+"\n"
+"Ar mhaith leat gach cáipéis a dhúnadh anois?"
 
 #: app.src#RID_MENU_APP_PREVIEW.SID_DB_APP_DISABLE_PREVIEW.menuitem.text
 #: formres.src#RID_RSC_ENUM_SCROLLBARS.1.string.text
@@ -5092,7 +5104,7 @@ msgstr "Bhí rabhaidh ann"
 msgid ""
 "While retrieving the tables, warnings were reported by the database "
 "connection."
-msgstr ""
+msgstr "Thug an nasc bunachair sonraí rabhadh agus na táblaí á bhfáil."
 
 #: sbabrw.src#STR_CONNECTING_DATASOURCE.string.text
 msgid "Connecting to \"$name$\" ..."
@@ -5172,7 +5184,7 @@ msgstr ""
 
 #: sbagrid.src#STR_ERROR_OCCURED_WHILE_COPYING.string.text
 msgid "An error occurred. Do you want to continue copying?"
-msgstr ""
+msgstr "Tharla earráid. Ar mhaith leat dul ar aghaidh leis an chóipeáil?"
 
 #: sbagrid.src#STR_DATASOURCE_GRIDCONTROL_NAME.string.text
 msgid "Data source table view"
@@ -5180,7 +5192,7 @@ msgstr ""
 
 #: sbagrid.src#STR_DATASOURCE_GRIDCONTROL_DESC.string.text
 msgid "Shows the selected table or query."
-msgstr ""
+msgstr "Taispeáin an tábla nó an t-iarratas roghnaithe."
 
 #: TableGrantCtrl.src#STR_TABLE_PRIV_NAME.string.text
 #: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBViewTableNames.Label.value.text
@@ -5608,7 +5620,7 @@ msgstr "Nuashonraigh roghanna"
 msgid ""
 "_: RelationDlg.src#DLG_REL_PROPERTIES.RB_NO_CASC_UPD.radiobutton.text\n"
 "~No action"
-msgstr ""
+msgstr "Ga&n ghníomh"
 
 #: RelationDlg.src#DLG_REL_PROPERTIES.RB_CASC_UPD.radiobutton.text
 msgid "~Update cascade"
@@ -5634,7 +5646,7 @@ msgstr "Scrios roghanna"
 msgid ""
 "_: RelationDlg.src#DLG_REL_PROPERTIES.RB_NO_CASC_DEL.radiobutton.text\n"
 "~No action"
-msgstr ""
+msgstr "Ga~n ghníomh"
 
 #: RelationDlg.src#DLG_REL_PROPERTIES.RB_CASC_DEL.radiobutton.text
 msgid "Delete ~cascade"
@@ -6932,6 +6944,8 @@ msgid ""
 "Could not load the program library #lib# or it is corrupted. The ODBC data "
 "source configuration is not available."
 msgstr ""
+"Níorbh fhéidir leabharlann ríomhchláir #lib$ a luchtú, nó is truaillithe í. "
+"Níl aon fháil ar chumraíocht na foinse sonraí ODBC."
 
 #: dsselect.src#DLG_DATASOURCE_SELECTION.modaldialog.text
 #: toolbar.src#RID_BIB_TOOLBAR.TBC_BT_CHANGESOURCE.toolboxitem.text
@@ -7025,7 +7039,7 @@ msgstr "innéacs"
 
 #: indexdialog.src#ERR_NEED_INDEX_FIELDS.errorbox.text
 msgid "The index must contain at least one field."
-msgstr ""
+msgstr "Ní mór réimse amháin ar a laghad a bheith san innéacs."
 
 #: indexdialog.src#ERR_NEED_INDEX_FIELDS.errorbox.title
 msgid "Save Index"
@@ -7528,7 +7542,7 @@ msgstr "Sa~inmhíniú"
 
 #: WizardPages.src#TAB_WIZ_COPYTABLE.RB_VIEW.radiobutton.text
 msgid "A~s table view"
-msgstr ""
+msgstr "~Mar amharc tábla"
 
 #: WizardPages.src#TAB_WIZ_COPYTABLE.RB_APPENDDATA.radiobutton.text
 msgid "Attach ~data"
@@ -7574,6 +7588,9 @@ msgid ""
 "You may enter a new name\n"
 "or append the data to the existing table."
 msgstr ""
+"Tá tábla darbh ainm \\'$name\\' ann cheana.\n"
+"Is féidir leat ainm nua a roghnú\n"
+"nó na sonraí a iarcheangal leis an tábla atá ann."
 
 #: WizardPages.src#ERROR_INVALID_TABLE_NAME_LENGTH.errorbox.text
 msgid "Please change the table name. It is too long."
@@ -7740,11 +7757,11 @@ msgstr "Bog fuinneog thábla"
 
 #: query.src#STR_QUERY_UNDO_INSERTCONNECTION.string.text
 msgid "Insert Join"
-msgstr ""
+msgstr "Ionsáigh Ceangal"
 
 #: query.src#STR_QUERY_UNDO_REMOVECONNECTION.string.text
 msgid "Delete Join"
-msgstr ""
+msgstr "Scrios Ceangal"
 
 #: query.src#STR_QUERY_UNDO_SIZETABWIN.string.text
 msgid "Resize table window"
@@ -7786,7 +7803,7 @@ msgstr "Scrios Fuinneog Thábla"
 
 #: query.src#STR_QUERY_UNDO_MODIFY_CELL.string.text
 msgid "Edit Column Description"
-msgstr ""
+msgstr "Cuir Cur Síos an Cholúin in Eagar"
 
 #: query.src#STR_QUERY_UNDO_SIZE_COLUMN.string.text
 msgid "Adjust column width"
@@ -7891,7 +7908,7 @@ msgstr "Níor aimsíodh an t-ainm réimse, nó ní uathúil é"
 
 #: query.src#STR_QRY_ILLEGAL_JOIN.string.text
 msgid "Join could not be processed"
-msgstr ""
+msgstr "Níorbh fhéidir an ceangal a phróiseáil"
 
 #: query.src#STR_QUERY_SAVEMODIFIED.string.text
 msgid ""
@@ -7920,7 +7937,7 @@ msgstr "Earráid chomhréire i ráiteas SQL"
 
 #: query.src#STR_QUERYDESIGN_NO_VIEW_SUPPORT.string.text
 msgid "This database does not support table views!"
-msgstr ""
+msgstr "Ní thacaíonn an bunachar sonraí seo le hamhairc tábla!"
 
 #: query.src#STR_QUERYDESIGN_NO_VIEW_ASK.string.text
 msgid "Do you want to create a query instead?"
@@ -7950,7 +7967,7 @@ msgstr ""
 
 #: query.src#STR_QRY_LIKE_LEFT_NO_COLUMN.string.text
 msgid "You must use a column name before 'LIKE'."
-msgstr ""
+msgstr "Ní mór duit ainm colúin a chur roimh 'LIKE'."
 
 #: query.src#STR_QRY_CHECK_CASESENSITIVE.string.text
 msgid ""
@@ -7962,7 +7979,7 @@ msgstr ""
 
 #: query.src#STR_QUERYDESIGN.string.text
 msgid " - %PRODUCTNAME Base: Query Design"
-msgstr ""
+msgstr " - %PRODUCTNAME Base: Amharc ar Iarratas"
 
 #: query.src#STR_VIEWDESIGN.string.text
 msgid " - %PRODUCTNAME Base: View Design"
@@ -8026,7 +8043,7 @@ msgstr ""
 
 #: relation.src#STR_RELATIONDESIGN_NOT_AVAILABLE.string.text
 msgid "The database does not support relations."
-msgstr ""
+msgstr "Ní thacaíonn an bunachar sonraí le gaolta."
 
 #: relation.src#RELATION_DESIGN_SAVEMODIFIED.querybox.text
 msgid ""
@@ -8383,7 +8400,7 @@ msgstr "~Meabhraigh focal faire"
 #: desktop.src#STR_RECOVER_QUERY.string.text
 #: app.src#STR_RECOVER_QUERY.string.text
 msgid "Should the file \"$1\" be restored?"
-msgstr ""
+msgstr "Ar mhaith leat comhad \"$1\" a athchóiriú?"
 
 #: desktop.src#STR_RECOVER_TITLE.string.text
 #: app.src#STR_RECOVER_TITLE.string.text
@@ -8428,7 +8445,7 @@ msgstr "Níor aimsíodh comhad cumraíochta \"$1\"."
 
 #: desktop.src#STR_BOOTSTRAP_ERR_NO_SUPPORT.string.text
 msgid "The configuration file \"$1\" does not support the current version."
-msgstr ""
+msgstr "Ní thacaíonn comhad cumraíochta \"$1\" leis an leagan reatha."
 
 #: desktop.src#STR_BOOTSTRAP_ERR_NO_SERVICE.string.text
 msgid "The component manager is not available."
@@ -8441,10 +8458,12 @@ msgstr "Níl an tseirbhís chumraíochta ar fáil."
 #: desktop.src#STR_ASK_START_SETUP_REPAIR.string.text
 msgid "Do you want to start the setup application to repair your installation?"
 msgstr ""
+"Ar mhaith leat an feidhmchlár Setup a thosú chun an tsuiteáil a dheisiú?"
 
 #: desktop.src#STR_ASK_START_SETUP.string.text
 msgid "Do you want to start the setup application to check your installation?"
 msgstr ""
+"Ar mhaith leat an feidhmchlár Setup a thosú chun do shuiteáil a dheimhniú?"
 
 #: desktop.src#STR_SETUP_ERR_CANNOT_START.string.text
 msgid "The Setup could not be started automatically. Please start it manually."
@@ -8465,13 +8484,14 @@ msgstr ""
 
 #: desktop.src#STR_CONFIG_ERR_CANNOT_CONNECT.string.text
 msgid "A connection to the central configuration could not be established. "
-msgstr ""
+msgstr "Níorbh fhéidir nasc a bhunú leis an gcumraíocht lárnach. "
 
 #: desktop.src#STR_CONFIG_ERR_RIGHTS_MISSING.string.text
 msgid ""
 "You cannot access the central configuration because of missing access "
 "rights. "
 msgstr ""
+"Ní féidir leat an chumraíocht lárnach a rochtain; ní go leor ceadanna agat. "
 
 #: desktop.src#STR_CONFIG_ERR_ACCESS_GENERAL.string.text
 msgid "A general error occurred while accessing your central configuration. "
@@ -8490,6 +8510,10 @@ msgid ""
 "\n"
 "Please contact your system administrator."
 msgstr ""
+"Ní féidir %PRODUCTNAME a thosú de bharr earráid agus sonraí cumraíochta %"
+"PRODUCTNAME á rochtain.\n"
+"\n"
+"Téigh i dteagmháil le riarthóir do chórais."
 
 #: desktop.src#STR_INTERNAL_ERRMSG.string.text
 msgid "The following internal error has occurred: "
@@ -9098,11 +9122,13 @@ msgstr "Ceadanna an riarthóra de dhíth chun an Suiteálaí Windows a uasghrád
 
 #: setup.ulf#_FILE_NOT_FOUND_.LngText.text
 msgid "Setup was unable to find the file '%s'."
-msgstr ""
+msgstr "Níorbh fhéidir le Socrú comhad '%s' a aimsiú."
 
 #: setup.ulf#_INVALID_PARAM_.LngText.text
 msgid "Invalid command line option '%s'. Please use '/?' for help."
 msgstr ""
+"Rogha neamhbhailí '%s' ar líne na n-orduithe. Úsáid '/?' chun tuilleadh "
+"eolais a fháil."
 
 #: setup.ulf#_ALLOW_MSI_UPDATE_.LngText.text
 msgid ""
@@ -9507,7 +9533,7 @@ msgstr "Ainmneacha na gcolún"
 
 #: datman.src#RID_DLG_MAPPING.modaldialog.text
 msgid "Column Layout for Table %1"
-msgstr ""
+msgstr "Leagan Amach na gColún - Tábla %1"
 
 #: datman.src#RID_DLG_DBCHANGE.ST_ENTRY.string.text
 msgid "Entry"
@@ -9883,7 +9909,7 @@ msgstr ""
 
 #: gridpages.src#RID_PAGE_GW_FIELDSELECTION.FL_FRAME.fixedline.text
 msgid "Table element"
-msgstr ""
+msgstr "Ball i dtábla"
 
 #: gridpages.src#RID_PAGE_GW_FIELDSELECTION.FT_EXISTING_FIELDS.fixedtext.text
 msgid ""
@@ -9919,7 +9945,7 @@ msgid ""
 "_: groupboxpages.src#RID_PAGE_GROUPRADIOSELECTION.FT_RADIOBUTTONS.fixedtext."
 "text\n"
 "~Option fields"
-msgstr ""
+msgstr "Réimsí r~ogha"
 
 #: groupboxpages.src#RID_PAGE_GROUPRADIOSELECTION.tabpage.text
 msgid ""
@@ -9929,7 +9955,7 @@ msgstr "Sonraí"
 
 #: groupboxpages.src#RID_PAGE_DEFAULTFIELDSELECTION.FT_DEFAULTSELECTION.fixedtext.text
 msgid "Should one option field be selected as a default?"
-msgstr ""
+msgstr "Ar mhaith leat réimse rogha amháin a roghnú mar réamhshocrú?"
 
 #: groupboxpages.src#RID_PAGE_DEFAULTFIELDSELECTION.RB_DEFSELECTION_YES.radiobutton.text
 msgid "~Yes, the following:"
@@ -9937,11 +9963,11 @@ msgstr "~Tá, seo a leanas:"
 
 #: groupboxpages.src#RID_PAGE_DEFAULTFIELDSELECTION.RB_DEFSELECTION_NO.radiobutton.text
 msgid "No, one particular field is not going to be selected."
-msgstr ""
+msgstr "Níor mhaith liom réimse amháin a roghnú."
 
 #: groupboxpages.src#RID_PAGE_DEFAULTFIELDSELECTION.tabpage.text
 msgid "Default Field Selection"
-msgstr ""
+msgstr "Roghnú an Réimse Réamhshocraithe"
 
 #: groupboxpages.src#RID_PAGE_OPTIONVALUES.FT_OPTIONVALUES_EXPL.fixedtext.text
 msgid "When you select an option, the option group is given a specific value."
@@ -9955,7 +9981,7 @@ msgstr ""
 msgid ""
 "_: groupboxpages.src#RID_PAGE_OPTIONVALUES.FT_RADIOBUTTONS.fixedtext.text\n"
 "~Option fields"
-msgstr ""
+msgstr "Réimsí r~ogha"
 
 #: groupboxpages.src#RID_PAGE_OPTIONVALUES.tabpage.text
 msgid "Field Values"
@@ -10065,7 +10091,7 @@ msgstr "Ga~n athrú"
 
 #: protdlg.src#MD_PROTCHK_DIALOG.CB_PERFORM.checkbox.text
 msgid "~Always check when starting %PRODUCTNAME"
-msgstr ""
+msgstr "Seiceáil mar seo i gcónaí ~agus %PRODUCTNAME á thosú"
 
 #: protdlg.src#MD_PROTCHK_DIALOG.BT_DETAILS.pushbutton.text
 msgid "Options >>"
@@ -10081,7 +10107,7 @@ msgstr "Prótacal Aistrithe Hipirtéacs (HTTP)"
 
 #: protdlg.src#MD_PROTCHK_DIALOG.STR_HTTPS.string.text
 msgid "Protocol for secure HyperText transfer (HTTPS)"
-msgstr ""
+msgstr "Prótacal Aistrithe Shláin Hipirtéacs (HTTPS)"
 
 #: protdlg.src#MD_PROTCHK_DIALOG.STR_FTP.string.text
 msgid "File Transfer Protocol (FTP)"
@@ -10089,11 +10115,11 @@ msgstr "Prótacal Aistrithe Comhad (FTP)"
 
 #: protdlg.src#MD_PROTCHK_DIALOG.STR_MAIL.string.text
 msgid "Protocol for mail delivery (MAILTO)"
-msgstr ""
+msgstr "Prótacal aistrithe poist (MAILTO)"
 
 #: protdlg.src#MD_PROTCHK_DIALOG.STR_NEWS.string.text
 msgid "Protocol for newsgroups (NEWS)"
-msgstr ""
+msgstr "Prótacal grúpaí nuachta (NEWS)"
 
 #: protdlg.src#MD_PROTCHK_DIALOG.STR_NODETAILS.string.text
 msgid "Options <<"
@@ -10101,7 +10127,7 @@ msgstr "Roghanna <<"
 
 #: protdlg.src#MD_PROTCHK_DIALOG.modaldialog.text
 msgid "%PRODUCTNAME is not your default browser"
-msgstr ""
+msgstr "Níl %PRODUCTNAME curtha mar bhrabhsálaí réamhshocraithe agat"
 
 #: preload.src#RID_DLG_OEMWIZARD.PB_PREV.pushbutton.text
 #: dlggraut.src#DLG_CHART_WIZ.PB_PREV.pushbutton.text
@@ -10159,7 +10185,7 @@ msgstr ""
 #: preload.src#RID_TP_LICENSE.FT_INFO1.fixedtext.text
 #: resource.src#DLG_LICENSE.FT_INFO1.fixedtext.text
 msgid "Please follow these steps to proceed with the installation:"
-msgstr ""
+msgstr "Lean na céimeanna seo chun dul ar aghaidh leis an tsuiteáil:"
 
 #: preload.src#RID_TP_LICENSE.FT_INFO2.fixedtext.text
 #: resource.src#DLG_LICENSE.FT_INFO2.fixedtext.text
@@ -10167,6 +10193,8 @@ msgid ""
 "View the complete License Agreement. Please use the scroll bar or the '%"
 "PAGEDOWN' button in this dialog to view the entire license text."
 msgstr ""
+"Léigh an comhaontú ceadúnais uile. Úsáid an barra scrollaigh nó an cnaipe '%"
+"PAGEDOWN' sa dialóg seo chun an ceadúnas a léamh ina iomlán."
 
 #: preload.src#RID_TP_LICENSE.PB_PAGEDOWN.pushbutton.text
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_GoDownBlock.Label.value.text
@@ -36524,7 +36552,7 @@ msgid "Authentication request"
 msgstr "Iarratas fíordheimhnithe"
 
 #: readme.xrm#ooo_readme.Welcome.A2.a.readmeitem.text
-msgid "Last updated $Date: 2006-03-11 02:40:37 $"
+msgid "Last updated $Date: 2006-03-13 02:44:16 $"
 msgstr ""
 
 #: readme.xrm#ooo_readme.Welcome.A3.a.readmeitem.text
