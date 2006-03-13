@@ -47,6 +47,7 @@ propogate : FORCE
 	perl adhoc.pl | msgcat - - > OOo-temp.ga.po
 	cpo -q OOo-latest.ga.po
 	cpo -q OOo-temp.ga.po
+	mv -f OOo-temp.ga.po OOo-latest.ga.po
 
 # once per version bump -- see instructions at the top
 # relies on fact that utf-8/non-latin1 msgids are all in helpcontent
