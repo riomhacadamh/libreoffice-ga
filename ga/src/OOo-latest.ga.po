@@ -6233,7 +6233,7 @@ msgstr "B~reisithe..."
 
 #: dbadmin.src#PAGE_MYSQL_JDBC.FT_JDBCDRIVERCLASS.fixedtext.text
 msgid "MySQL JDBC d~river class"
-msgstr "~Tiománaí Ranga JDBC do chuid MySQL"
+msgstr "~Aicme thiománaí JDBC do chuid MySQL"
 
 #: dbadmin.src#PAGE_MYSQL_JDBC.PB_TESTDRIVERCLASS.pushbutton.text
 msgid ""
@@ -6243,7 +6243,7 @@ msgstr "Aicme thástála"
 
 #: dbadmin.src#PAGE_ORACLE_JDBC.FT_JDBCDRIVERCLASS.fixedtext.text
 msgid "Oracle JDBC d~river class"
-msgstr "~Tiománaí Ranga JDBC do chuid Oracle"
+msgstr "~Aicme thiománaí JDBC do chuid Oracle"
 
 #: dbadmin.src#PAGE_ORACLE_JDBC.PB_TESTDRIVERCLASS.pushbutton.text
 msgid ""
@@ -6259,7 +6259,7 @@ msgstr "Socruithe Cheangail"
 
 #: dbadmin.src#PAGE_LDAP.FT_BASEDN.fixedtext.text
 msgid "~Base DN"
-msgstr "~Bun DN"
+msgstr "DN ~Bunaidh"
 
 #: dbadmin.src#PAGE_LDAP.CB_USESSL.checkbox.text
 msgid "Use secure connection(SSL)"
@@ -6557,14 +6557,14 @@ msgid ""
 "Please contact your system administrator if you are unsure about the "
 "following settings."
 msgstr ""
-"Cuir isteach an t-eolas a theastaíonn chun ceangailt leis an tiománaí ranga "
+"Cuir isteach an t-eolas a theastaíonn chun ceangailt leis an aicme thiománaí "
 "JDBC le do thoil. \n"
 "Téigh i dteagmháil le do riarthóir chórais le do thoil , muna bhfuil tú "
 "lánsásta faoi na freagraí seo a leanas."
 
 #: dbadminsetup.src#PAGE_DBWIZARD_MYSQL_JDBC.STR_MYSQL_DRIVERCLASSTEXT.string.text
 msgid "MySQL JDBC d~river class:"
-msgstr "~Tiománaí Ranga JDBC do chuid MySQL"
+msgstr "~Aicme thiománaí JDBC do chuid MySQL"
 
 #: dbadminsetup.src#PAGE_DBWIZARD_MYSQL_JDBC.STR_MYSQL_DEFAULT.string.text
 msgid "Default: 3306"
@@ -6702,7 +6702,7 @@ msgstr "Réamhshocrú: 1521"
 
 #: dbadminsetup.src#PAGE_DBWIZARD_ORACLE.STR_ORACLE_DRIVERCLASSTEXT.string.text
 msgid "Oracle JDBC ~driver class"
-msgstr "~Tiománaí Ranga JDBC do chuid Oracle"
+msgstr "~Aicme thiománaí JDBC do chuid Oracle"
 
 #: dbadminsetup.src#PAGE_DBWIZARD_ORACLE.STR_ORACLE_HELPTEXT.string.text
 msgid ""
@@ -6713,7 +6713,7 @@ msgid ""
 "following settings."
 msgstr ""
 "Cuir isteach an t-eolas a theastaíonn chun ceangailt leis an mbunachar "
-"sonraí le do thoil. Bíodh a fhios agat go gcaithfidh tiománaí ranga JDBC a "
+"sonraí le do thoil. Bíodh a fhios agat go gcaithfidh aicme thiománaí JDBC a "
 "bheidh suiteáilte agus cláraithe le %PRODUCTNAME.\n"
 "Téigh i dteagmháil le do riarthóir chórais muna bhfuil tú lánsásta faoi na "
 "freagraí seo a leanas."
@@ -7305,7 +7305,7 @@ msgstr "~URL an fhreastalaí"
 
 #: AutoControls_tmpl.hrc#AUTO_BASEDNCONTROLGROUP_AUTO_Y__AUTO_HID_.FT_AUTOBASEDN.fixedtext.text
 msgid "Base ~DN"
-msgstr ""
+msgstr "~DN bunaidh"
 
 #: AutoControls_tmpl.hrc#AUTO_PORTCONTROLGROUP_AUTO_Y__AUTO_HID_.FT_AUTOPORTNUMBER.fixedtext.text
 msgid ""
@@ -7369,11 +7369,11 @@ msgstr ";\\t59\\t,\\t44\\t:\\t58\\t{Táb}\\t9\\t{Spás}\\t32"
 
 #: AutoControls_tmpl.hrc#STR_AUTODELIMITER_MISSING.string.text
 msgid "#1 must be set."
-msgstr ""
+msgstr "Ní mór #1 a shocrú."
 
 #: AutoControls_tmpl.hrc#STR_AUTODELIMITER_MUST_DIFFER.string.text
 msgid "#1 and #2 must be different."
-msgstr ""
+msgstr "Ní mór #1 agus #2 a bheith difriúil."
 
 #: AutoControls_tmpl.hrc#STR_AUTONO_WILDCARDS.string.text
 msgid "Wildcards such as ?,* are not allowed in #1."
@@ -7381,7 +7381,7 @@ msgstr "Ní cheadaítear saoróga (mar shampla ?,*) i #1."
 
 #: AutoControls_tmpl.hrc#AUTO_JDBCDRIVERCLASSGROUP_AUTO_Y__AUTO_HID_.FT_AUTOJDBCDRIVERCLASS.fixedtext.text
 msgid "JDBC d~river class"
-msgstr ""
+msgstr "~Aicme thiománaí JDBC"
 
 #: AutoControls_tmpl.hrc#AUTO_JDBCDRIVERCLASSGROUP_AUTO_Y__AUTO_HID_.PB_AUTOTESTDRIVERCLASS.pushbutton.text
 msgid ""
@@ -7494,7 +7494,7 @@ msgstr "Colúin atá ann"
 
 #: WizardPages.src#TAB_WIZ_TYPE_SELECT.FL_COLUMN_NAME.fixedline.text
 msgid "Column information"
-msgstr ""
+msgstr "Eolas faoin cholún"
 
 #: WizardPages.src#TAB_WIZ_TYPE_SELECT.FL_AUTO_TYPE.fixedline.text
 msgid "Automatic type recognition"
@@ -7738,6 +7738,8 @@ msgid ""
 "The table cannot be deleted because the database connection does not support "
 "this."
 msgstr ""
+"Ní féidir an tábla a scriosadh toisc nach dtacaíonn an nasc bunachair sonraí "
+"leis seo."
 
 #: dbumiscres.src#STR_BUTTON_TEXT_ALL.string.text
 msgid ""
@@ -8049,7 +8051,7 @@ msgstr "Tá an gaol seo ann cheana. Ar mhaith leat é a chur in eagar?"
 
 #: relation.src#STR_RELATIONDESIGN.string.text
 msgid " - %PRODUCTNAME Base: Relation design"
-msgstr ""
+msgstr " - %PRODUCTNAME Base: Dearadh gaoil"
 
 #: relation.src#STR_RELATIONDESIGN_NOT_AVAILABLE.string.text
 msgid "The database does not support relations."
@@ -8060,6 +8062,8 @@ msgid ""
 "The relation design has been changed.\n"
 "Do you want to save the changes?"
 msgstr ""
+"Athraíodh dearadh an ghaoil.\n"
+"Ar mhaith leat na hathruithe a shábháil?"
 
 #: relation.src#STR_QUERY_REL_DELETE_WINDOW.string.text
 msgid ""
@@ -8278,6 +8282,9 @@ msgid ""
 "deleted, the primary key will also be deleted. Do you really want to "
 "continue?"
 msgstr ""
+"Is cuid den phríomheochair é colún \"$column$\". Má scriostar an colún, "
+"scriosfar an phríomheochair leis. An bhfuil tú cinnte gur mian leat dul ar "
+"aghaidh?"
 
 #: table.src#STR_TBL_COLUMN_IS_KEYCOLUMN_TITLE.string.text
 msgid "Primary Key Affected"
@@ -8331,6 +8338,9 @@ msgid ""
 "Before you can edit the indexes of a table, you have to save it.\n"
 "Do you want to save the changes now?"
 msgstr ""
+"Ní mór duit an tábla a shábháil roimh is féidir a innéacsanna a chur in "
+"eagar.\n"
+"Ar mhaith leat na hathruithe a shábháil anois?"
 
 #: table.src#STR_TABLEDESIGN_NO_PRIM_KEY_HEAD.string.text
 msgid "No primary key"
@@ -8365,7 +8375,7 @@ msgstr ""
 
 #: table.src#STR_AUTOINCREMENT_VALUE.string.text
 msgid "A~uto-increment statement"
-msgstr ""
+msgstr "Ráiteas ~incriminteach uathoibríoch"
 
 #: table.src#STR_HELP_AUTOINCREMENT_VALUE.string.text
 msgid ""
@@ -36562,7 +36572,7 @@ msgid "Authentication request"
 msgstr "Iarratas fíordheimhnithe"
 
 #: readme.xrm#ooo_readme.Welcome.A2.a.readmeitem.text
-msgid "Last updated $Date: 2006-03-13 02:59:10 $"
+msgid "Last updated $Date: 2006-03-13 14:58:08 $"
 msgstr ""
 
 #: readme.xrm#ooo_readme.Welcome.A3.a.readmeitem.text
