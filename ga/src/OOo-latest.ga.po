@@ -36572,7 +36572,7 @@ msgid "Authentication request"
 msgstr "Iarratas fíordheimhnithe"
 
 #: readme.xrm#ooo_readme.Welcome.A2.a.readmeitem.text
-msgid "Last updated $Date: 2006-03-13 14:58:08 $"
+msgid "Last updated $Date: 2006-03-13 15:30:10 $"
 msgstr ""
 
 #: readme.xrm#ooo_readme.Welcome.A3.a.readmeitem.text
@@ -68237,6 +68237,8 @@ msgid ""
 "For security reasons, the hyperlink cannot be executed.\n"
 "The stated address will not be opened."
 msgstr ""
+"Ar fháthanna slándála, ní féidir an hipearnasc a rith.\n"
+"Ní osclófar an seoladh luaite."
 
 #: app.src#RID_SECURITY_WARNING_TITLE.string.text
 #: warnings.src#RID_XMLSECTP_MACROWARN.modaldialog.text
@@ -68377,7 +68379,7 @@ msgstr "Fo~cail iomlána amháin"
 
 #: newhelp.src#TP_HELP_SEARCH.CB_SCOPE.checkbox.text
 msgid "Find in ~headings only"
-msgstr ""
+msgstr "Aimsigh ~sna ceannteidil amháin"
 
 #: newhelp.src#TP_HELP_SEARCH.PB_OPEN_SEARCH.pushbutton.text
 msgid ""
@@ -68474,7 +68476,7 @@ msgstr "Níor aimsíodh an téacs a d'iontráil tú."
 
 #: newhelp.src#RID_HELP_ONSTARTUP_TEXT.string.text
 msgid "~Display %PRODUCTNAME %MODULENAME Help at Startup"
-msgstr ""
+msgstr "~Taispeáin Cabhair le %PRODUCTNAME %MODULENAME ag am tosaithe"
 
 #: sfx.src#STR_NONE.string.text
 msgid "- None -"
@@ -68600,6 +68602,8 @@ msgid ""
 "The file %1 exceeds the available disk space.\n"
 "Do you want to continue anyway?\n"
 msgstr ""
+"Níl go leor spáis diosca le fáil chun an comhad %1 a shábháil.\n"
+"Ar mhaith leat dul ar aghaidh mar sin féin?\n"
 
 #: bastyp.src#STR_DOWNLOAD_SOURCE.string.text
 msgid "Source"
@@ -68660,7 +68664,7 @@ msgstr ""
 
 #: config.src#STR_EVENTCONFIG.string.text
 msgid "Assign events"
-msgstr ""
+msgstr "Sann teagmhais"
 
 #: config.src#DLG_MACROQUERY.BTN_CANCEL.string.text
 #: doc.src#BTN_CANCEL.string.text
@@ -68869,7 +68873,7 @@ msgstr "Deighilteoir dofheicthe"
 #: cfg.src#STR_FUNCTION_ALREADY_IN_TOOLBOX.string.text
 #: tbxcust.src#STR_FUNCTION_ALREADY_IN_TOOLBOX.string.text
 msgid "The selected function is already on the current toolbar."
-msgstr ""
+msgstr "Tá an fheidhm roghnaithe ar an mbarra uirlisí reatha cheana."
 
 #: dialog.src#STR_RESET.string.text
 #: optcomp.src#TP_OPTCOMPATIBILITY_PAGE.PB_RESET.pushbutton.text
@@ -68956,7 +68960,7 @@ msgstr "An bhfuil tú cinnte gur mhaith leat Stíl $1 a scriosadh?"
 
 #: dialog.src#STR_DELETE_STYLE_USED.string.text
 msgid "You are deleting an applied Style!\n"
-msgstr ""
+msgstr "Tá tú ar tí Stíl a scriosadh atá i bhfeidhm!\n"
 
 #: dialog.src#MN_CONTEXT_TEMPLDLG.ID_NEW.menuitem.text
 msgid "New..."
@@ -69066,7 +69070,7 @@ msgstr ""
 
 #: dinfdlg.src#TP_DOCINFODOC.FT_PRINT.fixedtext.text
 msgid "Last printed:"
-msgstr ""
+msgstr "Priontáilte:"
 
 #: dinfdlg.src#TP_DOCINFODOC.FT_TIMELOG.fixedtext.text
 #: shlxthdl.ulf#_EDITING_TIME_COLON_.LngText.text
@@ -69100,7 +69104,7 @@ msgstr "anaithnid"
 
 #: dinfdlg.src#TP_DOCINFOUSER.BTN_EDITLABEL.pushbutton.text
 msgid "~Info fields..."
-msgstr ""
+msgstr "Ré~imsí eolais..."
 
 #: dinfdlg.src#TP_DOCINFORELOAD.RB_NOAUTOUPDATE.radiobutton.text
 msgid "Do not refresh automatically"
@@ -69307,7 +69311,7 @@ msgstr "Dún teachtaireacht"
 
 #: mail.src#RID_STR_CLOSE_MESSAGE.string.text
 msgid "The message has not yet been sent."
-msgstr ""
+msgstr "Níor seoladh an teachtaireacht fós."
 
 #: mail.src#RID_STR_CLOSE_BTN_BACKTOMSG.string.text
 msgid "~Back to message"
@@ -69808,6 +69812,8 @@ msgid ""
 "Documents cannot be saved in $(FORMAT) format. Do you\n"
 "want to save your changes using the $(OWNFORMAT) format?"
 msgstr ""
+"Ní féidir cáipéisí a shábháil san fhormáid $(FORMAT). Ar mhaith\n"
+"leat do chuid athruithe a shábháil san fhormáid $(OWNFORMAT)?"
 
 #: doc.src#STR_SAVEASDOC.string.text
 #: globlmn_tmpl.hrc#ITEM_FILE_SAVEASDOC.#define.text
@@ -69856,6 +69862,8 @@ msgid ""
 "Document cannot be opened for editing.\n"
 "Do you want to open it as read-only?"
 msgstr ""
+"Ní féidir an cháipéis a oscailt chun é a chur in eagar.\n"
+"Ar mhaith leat é a oscailt sa mhód léimh amháin?"
 
 #: doc.src#RID_OFFICEFILTER.string.text
 msgid "%PRODUCTNAME Documents"
@@ -69884,7 +69892,7 @@ msgstr ""
 
 #: doc.src#STR_AUTOMATICVERSION.string.text
 msgid "Automatically saved version"
-msgstr ""
+msgstr "Leagan a sábháladh go uathoibríoch"
 
 #: doc.src#STR_DOCTYPENAME_SWGLOB.string.text
 #: globdoc.src#STR_HUMAN_SWGLOBDOC_NAME.string.text
@@ -69897,11 +69905,11 @@ msgstr "Teachtaireacht"
 
 #: doc.src#STR_PACKNGO_NOACCESS.string.text
 msgid "Access to the current data medium not possible."
-msgstr ""
+msgstr "Níorbh fhéidir an meán sonraí reatha a rochtain."
 
 #: doc.src#STR_PACKNGO_NEWMEDIUM.string.text
 msgid "Insert the next data carrier and click OK."
-msgstr ""
+msgstr "Ionsáigh an chéad iompróir sonraí eile agus cliceáil OK."
 
 #: doc.src#STR_EDITOBJECT.string.text
 msgid ""
@@ -69945,7 +69953,7 @@ msgstr ""
 
 #: doc.src#STR_HIDDENINFO_RECORDCHANGES.string.text
 msgid "Recorded changes"
-msgstr ""
+msgstr "Taifeadadh na hathruithe"
 
 #: doc.src#STR_HIDDENINFO_DOCVERSIONS.string.text
 msgid "Document versions"
@@ -69957,25 +69965,27 @@ msgstr "Sonraí nasctha..."
 
 #: doc.src#STR_HIDDENINFO_CONTINUE_SAVING.string.text
 msgid "Do you want to continue saving the document?"
-msgstr ""
+msgstr "Ar mhaith leat leanúint ar aghaidh le sábháil?"
 
 #: doc.src#STR_HIDDENINFO_CONTINUE_PRINTING.string.text
 msgid "Do you want to continue printing the document?"
-msgstr ""
+msgstr "Ar mhaith leat leanúint ar aghaidh le priontáil na cáipéise?"
 
 #: doc.src#STR_HIDDENINFO_CONTINUE_SIGNING.string.text
 msgid "Do you want to continue signing the document?"
-msgstr ""
+msgstr "Ar mhaith leat leanúint ar aghaidh le síniú na cáipéise?"
 
 #: doc.src#STR_HIDDENINFO_CONTINUE_CREATEPDF.string.text
 msgid "Do you want to continue creating a PDF file?"
-msgstr ""
+msgstr "Ar mhaith leat leanúint ar aghaidh le cruthú comhaid PDF?"
 
 #: doc.src#STR_NEW_FILENAME_SAVE.string.text
 msgid ""
 "If you do not want to overwrite the original document, you should save your "
 "work under a new filename."
 msgstr ""
+"Mura mian leat an bhuncháipéis a fhorscríobh, ba chóir duit do chuid oibre a "
+"shábháil i gcomhad nua."
 
 #: doc.src#STR_MACROS_DISABLED.string.text
 msgid ""
@@ -70201,7 +70211,7 @@ msgstr "Rabhadh Slándála - %PRODUCTNAME"
 
 #: explorer.src#RID_SFX_HORIZONTALEXPLORERDOCKWND.dockingwindow.text
 msgid "Beamer: "
-msgstr ""
+msgstr "Beamer: "
 
 #: explorer.src#DLG_SFX_QUERYDELETE.TXT_ENTRY.fixedtext.text
 #: fileview.src#DLG_SVT_QUERYDELETE.TXT_ENTRY.fixedtext.text
@@ -70415,7 +70425,7 @@ msgstr "Éirigh as an Lánscáileán"
 
 #: statbar.src#STR_RECOGNITION_COMMANDMODE.string.text
 msgid "Command mode"
-msgstr ""
+msgstr "Mód ordaithe"
 
 #: statbar.src#STR_RECOGNITION_AUTOMODE.string.text
 msgid "AutoSwitch"
@@ -70497,11 +70507,11 @@ msgstr "iodálach as"
 
 #: statbar.src#RID_DICTATION_COMMANDS.7.itemlist.text
 msgid "underscore on"
-msgstr ""
+msgstr "fostríoc ann"
 
 #: statbar.src#RID_DICTATION_COMMANDS.8.itemlist.text
 msgid "underscore off"
-msgstr ""
+msgstr "fostríoc as"
 
 #: statbar.src#RID_DICTATION_COMMANDS.9.itemlist.text
 msgid "numbering on"
@@ -70656,7 +70666,7 @@ msgstr ""
 
 #: tbxcust.src#STR_TBXCUST_BMPDIR.string.text
 msgid "Path for BMP files"
-msgstr ""
+msgstr "Conair go comhaid BMP"
 
 #: tbxcust.src#STR_MODIFIED_TOOLBOXES.string.text
 msgid ""
@@ -70739,7 +70749,7 @@ msgstr "An iomarca barraí uirlisí saincheaptha."
 
 #: tbxopdlg.src#IBX_TBXOPT_NOUSERDEF.infobox.text
 msgid "Only user-defined toolbars may be deleted."
-msgstr ""
+msgstr "Ní féidir ach barraí uirlisí saincheaptha a scriosadh."
 
 #: tbxopdlg.src#STR_LOADTBXCONFIG.string.text
 msgid "Load Toolbar Configuration"
@@ -70809,7 +70819,7 @@ msgstr "Cumraíocht an Bharra Uirlisí"
 #: framedlg.src#TP_FRAMEPROPERTIES.RB_SCROLLINGON.radiobutton.text
 #: svuidlg.src#MD_INSERT_OBJECT_IFRAME.RB_SCROLLINGON.radiobutton.text
 msgid "~On"
-msgstr ""
+msgstr "~Ann"
 
 #: framedlg.src#TP_FRAMEPROPERTIES.RB_SCROLLINGOFF.radiobutton.text
 #: svuidlg.src#MD_INSERT_OBJECT_IFRAME.RB_SCROLLINGOFF.radiobutton.text
@@ -70843,7 +70853,7 @@ msgstr ""
 #: framedlg.src#TP_FRAMEPROPERTIES.tabpage.text
 #: svuidlg.src#MD_INSERT_OBJECT_IFRAME.modaldialog.text
 msgid "Floating Frame Properties"
-msgstr ""
+msgstr "Airíonna an Fhráma Ar Snámh"
 
 #: framedlg.src#STR_FRAME_FILEDLG.string.text
 #: svuidlg.src#MD_INSERT_OBJECT_IFRAME.string.text
@@ -70894,7 +70904,7 @@ msgstr "Frámadán"
 
 #: fsetview.src#STR_SOURCEMODIFIED.string.text
 msgid "The source has been modified. Accept changes to source text?"
-msgstr ""
+msgstr "Mionathraíodh an fhoinse. Glac leis na hathruithe sa téacs foinseach?"
 
 #: fsetview.src#STR_FRAMESETVIEWSHELL.string.text
 msgid "FrameSet Document"
@@ -71106,7 +71116,7 @@ msgstr "Bunphointe"
 
 #: shlxthdl.ulf#_STATISTICS_TITLE_.LngText.text
 msgid "Document Statistics"
-msgstr ""
+msgstr "Staitistic don Cháipéis"
 
 #: shlxthdl.ulf#_SUMMARY_TITLE_.LngText.text
 msgid "Summary"
@@ -71401,7 +71411,7 @@ msgstr "Níor nuashonraíodh comhad taisce ar bith"
 #: nocode.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_SOMECACHES_NOTUPDATED_S_MAX.string.text
 #: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_SOMECACHES_NOTUPDATED_S_MAX.string.text
 msgid "Some cache files were not updated"
-msgstr ""
+msgstr "Níor nuashonraíodh comhaid taisce áirithe"
 
 #: nocode.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_UNAVAILABLE_S_MAX.string.text
 #: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_UNAVAILABLE_S_MAX.string.text
