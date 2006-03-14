@@ -36572,7 +36572,7 @@ msgid "Authentication request"
 msgstr "Iarratas fíordheimhnithe"
 
 #: readme.xrm#ooo_readme.Welcome.A2.a.readmeitem.text
-msgid "Last updated $Date: 2006-03-13 15:30:10 $"
+msgid "Last updated $Date: 2006-03-14 02:22:20 $"
 msgstr ""
 
 #: readme.xrm#ooo_readme.Welcome.A3.a.readmeitem.text
@@ -73931,7 +73931,7 @@ msgstr "Inisealacha"
 #: addresstemplate.src#STR_FIELD_SALUTATION.string.text
 #: poolfmt.src#STR_POOLCOLL_GREETING.string.text
 msgid "Complimentary close"
-msgstr ""
+msgstr "Dúnadh dea-mhéine"
 
 #: addresstemplate.src#STR_FIELD_HOMETEL.string.text
 msgid "Tel: Home"
@@ -74124,7 +74124,7 @@ msgstr "Teachtaireacht ón fhreastalaí"
 
 #: logindlg.src#DLG_LOGIN.INFO_LOGIN_REQUEST.fixedtext.text
 msgid "Please enter user name and password for %1."
-msgstr ""
+msgstr "Iontráil ainm úsáideora agus focal faire do %1."
 
 #: logindlg.src#DLG_LOGIN.FT_LOGIN_PATH.fixedtext.text
 #: hyperdlg.src#RID_SVXPAGE_HYPERLINK_DOCUMENT.FT_PATH_DOC.fixedtext.text
@@ -74160,7 +74160,7 @@ msgstr "go "
 #: logindlg.src#DLG_LOGIN.modaldialog.text
 #: logindlg.src#DLG_UUI_LOGIN.modaldialog.text
 msgid "User Name and Password Required"
-msgstr ""
+msgstr "Ainm Úsáideora agus Focal Faire De Dhíth"
 
 #: printdlg.src#DLG_SVT_PRNDLG_PRINTDLG.FL_PRINTER.fixedline.text
 msgid ""
@@ -74246,7 +74246,7 @@ msgstr "Á Thúsú"
 
 #: prnsetup.src#STR_SVT_PRNDLG_WARMING_UP.string.text
 msgid "Warming up"
-msgstr ""
+msgstr "Á théamh"
 
 #: prnsetup.src#STR_SVT_PRNDLG_PROCESSING.string.text
 msgid "Processing"
@@ -74519,7 +74519,7 @@ msgstr " Roghanna"
 
 #: cstitem.src#STR_CSTAT_NEVER_UPD.string.text
 msgid "No update has occurred"
-msgstr ""
+msgstr "Ní raibh aon nuashonrú"
 
 #: cstitem.src#STR_CSTAT_IN_UPD.string.text
 msgid "Updating in progress"
@@ -74563,6 +74563,8 @@ msgid ""
 "%PRODUCTNAME requires a Java runtime environment (JRE) to perform this task. "
 "Please install a JRE and restart %PRODUCTNAME."
 msgstr ""
+"Tá timpeallacht amrite Java (JRE) de dhíth ar %PRODUCTNAME chun an tasc seo "
+"a chur i gcrích. Déan suiteáil ar JRE agus atosaigh %PRODUCTNAME."
 
 #: javaerror.src#WARNINGBOX_INVALIDJAVASETTINGS.warningbox.text
 msgid ""
@@ -74571,6 +74573,9 @@ msgid ""
 "PRODUCTNAME - Java, select the Java runtime environment you want to have "
 "used by %PRODUCTNAME."
 msgstr ""
+"Athraíodh cumraíocht %PRODUCTNAME. Faoi Uirlisí - Roghanna - %PRODUCTNAME - "
+"Java, roghnaigh an timpeallacht amrite Java gur mian leat a bheith úsáidte "
+"ag %PRODUCTNAME."
 
 #: javaerror.src#QBX_JAVADISABLED.querybox.text
 msgid ""
@@ -74579,6 +74584,9 @@ msgid ""
 "However, use of a JRE has been disabled. Do you want to enable the use of a "
 "JRE now?"
 msgstr ""
+"Tá timpeallacht amrite Java (JRE) de dhíth ar %PRODUCTNAME chun an tasc seo "
+"a chur i gcrích. Ach díchumasaíodh úsáid JRE. Ar mhaith leat JRE a chumasú "
+"anois?"
 
 #: javaerror.src#ERRORBOX_JVMCREATIONFAILED.errorbox.text
 msgid ""
@@ -74587,6 +74595,10 @@ msgid ""
 "The selected JRE is defective. Please select another version or install a "
 "new JRE and select  it under Tools - Options - %PRODUCTNAME - Java."
 msgstr ""
+"Tá timpeallacht amrite Java (JRE) de dhíth ar %PRODUCTNAME chun an tasc seo "
+"a chur i gcrích. Is éalangach é an JRE roghnaithe. Roghnaigh leagan eile, nó "
+"déan suiteáil ar JRE nua agus roghnaigh é faoi Uirlisí - Roghanna - %"
+"PRODUCTNAME - Java."
 
 #: javaerror.src#ERRORBOX_RESTARTREQUIRED.errorbox.text
 msgid ""
@@ -74631,6 +74643,8 @@ msgid ""
 "%PRODUCTNAME requires a Java runtime environment (JRE) to perform this task. "
 "Please install a JRE and restart %PRODUCTNAME."
 msgstr ""
+"Tá timpeallacht amrite Java (JRE) de dhíth ar %PRODUCTNAME chun an tasc seo "
+"a chur i gcrích. Déan suiteáil ar JRE agus atosaigh %PRODUCTNAME."
 
 #: patchjavaerror.src#WARNINGBOX_INVALIDJAVASETTINGS.warningbox.text
 msgid ""
@@ -74639,6 +74653,9 @@ msgid ""
 "PRODUCTNAME - Java, select the Java runtime environment you want to have "
 "used by %PRODUCTNAME."
 msgstr ""
+"Athraíodh cumraíocht %PRODUCTNAME. Faoi Uirlisí - Roghanna - %PRODUCTNAME - "
+"Java, roghnaigh an timpeallacht amrite Java gur mian leat a bheith úsáidte "
+"ag %PRODUCTNAME."
 
 #: patchjavaerror.src#QBX_JAVADISABLED.querybox.text
 msgid ""
@@ -74647,6 +74664,9 @@ msgid ""
 "However, use of a JRE has been disabled. Do you want to enable the use of a "
 "JRE now?"
 msgstr ""
+"Tá timpeallacht amrite Java (JRE) de dhíth ar %PRODUCTNAME chun an tasc seo "
+"a chur i gcrích. Ach díchumasaíodh úsáid JRE. Ar mhaith leat JRE a chumasú "
+"anois?"
 
 #: patchjavaerror.src#ERRORBOX_JVMCREATIONFAILED.errorbox.text
 msgid ""
@@ -74655,6 +74675,10 @@ msgid ""
 "The selected JRE is defective. Please select another version or install a "
 "new JRE and select  it under Tools - Options - %PRODUCTNAME - Java."
 msgstr ""
+"Tá timpeallacht amrite Java (JRE) de dhíth ar %PRODUCTNAME chun an tasc seo "
+"a chur i gcrích. Is éalangach é an JRE roghnaithe. Roghnaigh leagan eile, nó "
+"déan suiteáil ar JRE nua agus roghnaigh é faoi Uirlisí - Roghanna - %"
+"PRODUCTNAME - Java."
 
 #: patchjavaerror.src#ERRORBOX_RESTARTREQUIRED.errorbox.text
 msgid ""
@@ -74911,23 +74935,23 @@ msgstr ""
 msgid ""
 "_: mediatyp.src#STR_SVT_MIMETYPE_CNT_CDF.string.text\n"
 "Channel subscription"
-msgstr ""
+msgstr "Síntiús le cainéal"
 
 #: mediatyp.src#STR_SVT_MIMETYPE_CNT_CDFSUB.string.text
 msgid ""
 "_: mediatyp.src#STR_SVT_MIMETYPE_CNT_CDFSUB.string.text\n"
 "Channel subscription"
-msgstr ""
+msgstr "Síntiús le cainéal"
 
 #: mediatyp.src#STR_SVT_MIMETYPE_CNT_CDFITEM.string.text
 msgid ""
 "_: mediatyp.src#STR_SVT_MIMETYPE_CNT_CDFITEM.string.text\n"
 "Channel subscription"
-msgstr ""
+msgstr "Síntiús le cainéal"
 
 #: mediatyp.src#STR_SVT_MIMETYPE_CNT_STARCHANNEL.string.text
 msgid "StarChannel"
-msgstr ""
+msgstr "StarChannel"
 
 #: mediatyp.src#STR_SVT_MIMETYPE_CNT_TRASHBOX.string.text
 msgid "Recycle Bin"
@@ -75007,15 +75031,15 @@ msgstr "Tascanna & Teagmhais"
 
 #: mediatyp.src#STR_SVT_MIMETYPE_SCHEDULE_EVT.string.text
 msgid "%PRODUCTNAME Events View"
-msgstr ""
+msgstr "%PRODUCTNAME: Amharc ar Imeachtaí"
 
 #: mediatyp.src#STR_SVT_MIMETYPE_SCHEDULE_TASK.string.text
 msgid "%PRODUCTNAME Task View"
-msgstr ""
+msgstr "%PRODUCTNAME: Amharc ar Thascanna"
 
 #: mediatyp.src#STR_SVT_MIMETYPE_SCHEDULE_FEVT.string.text
 msgid "%PRODUCTNAME Event"
-msgstr ""
+msgstr "Imeacht %PRODUCTNAME"
 
 #: mediatyp.src#STR_SVT_MIMETYPE_SCHEDULE_FTASK.string.text
 msgid "%PRODUCTNAME Task"
@@ -75153,19 +75177,19 @@ msgstr "$(ERR) agus cáipéis $(ARG1) á sábháil"
 
 #: errtxt.src#RID_ERRCTX.ERRCTX_SFX_DOCINFO.string.text
 msgid "$(ERR) displaying doc. information for document $(ARG1)"
-msgstr ""
+msgstr "$(ERR) agus faisnéis á taispeáint maidir le cáipéis $(ARG1)"
 
 #: errtxt.src#RID_ERRCTX.ERRCTX_SFX_DOCTEMPLATE.string.text
 msgid "$(ERR) writing document $(ARG1) as template"
-msgstr ""
+msgstr "$(ERR) agus cáipéis $(ARG1) á scríobh mar theimpléad"
 
 #: errtxt.src#RID_ERRCTX.ERRCTX_SFX_MOVEORCOPYCONTENTS.string.text
 msgid "$(ERR) copying or moving document contents"
-msgstr ""
+msgstr "$(ERR) agus inneachar na cáipéise á chóipeáil/bhogadh"
 
 #: errtxt.src#RID_ERRCTX.ERRCTX_SFX_DOCMANAGER.string.text
 msgid "$(ERR) starting the Document Manager"
-msgstr ""
+msgstr "$(ERR) agus Bainisteoir na gCáipéisí á thosú"
 
 #: errtxt.src#RID_ERRCTX.ERRCTX_SFX_OPENDOC.string.text
 msgid "$(ERR) loading document $(ARG1)"
@@ -75201,7 +75225,7 @@ msgstr "Tobscoir"
 
 #: errtxt.src#RID_ERRHDL.ERRCODE_CLASS_NOTEXISTS.string.text
 msgid "Nonexistent object"
-msgstr ""
+msgstr "Réad nach bhfuil ann"
 
 #: errtxt.src#RID_ERRHDL.ERRCODE_CLASS_ALREADYEXISTS.string.text
 msgid "Object already exists"
@@ -75286,11 +75310,11 @@ msgstr "Ainm comhaid neamhbhailí"
 
 #: errtxt.src#RID_ERRHDL.ERRCODE_IO_NOTEXISTS.string.text
 msgid "Nonexistent file"
-msgstr ""
+msgstr "Comhad nach bhfuil ann"
 
 #: errtxt.src#RID_ERRHDL.ERRCODE_IO_NOTADIRECTORY.string.text
 msgid "The object is not a directory"
-msgstr ""
+msgstr "Ní comhadlann é an réad"
 
 #: errtxt.src#RID_ERRHDL.ERRCODE_IO_NOTAFILE.string.text
 msgid "The object is not a file"
@@ -75310,7 +75334,7 @@ msgstr ""
 
 #: errtxt.src#RID_ERRHDL.ERRCODE_IO_LOCKVIOLATION.string.text
 msgid "Sharing violation while accessing the object"
-msgstr ""
+msgstr "Earráid sáraithe comhroinnte agus an réad á rochtain"
 
 #: errtxt.src#RID_ERRHDL.ERRCODE_IO_OUTOFSPACE.string.text
 msgid "No more space on device"
@@ -75326,7 +75350,7 @@ msgstr ""
 
 #: errtxt.src#RID_ERRHDL.ERRCODE_IO_NOTSUPPORTED.string.text
 msgid "This operation is not supported on this operating system"
-msgstr ""
+msgstr "Ní thacaítear leis an oibríocht seo ar an gcóras seo"
 
 #: errtxt.src#RID_ERRHDL.ERRCODE_IO_TOOMANYOPENFILES.string.text
 msgid "There are too many files open"
@@ -75390,7 +75414,7 @@ msgstr ""
 
 #: errtxt.src#RID_ERRHDL.ERRCODE_IO_RECURSIVE.string.text
 msgid "An object cannot be copied into itself."
-msgstr ""
+msgstr "Ní féidir réad a chóipeáil air féin."
 
 #: errtxt.src#RID_ERRHDL.ERRCODE_SFX_NOSTDTEMPLATE.string.text
 msgid "The default template could not be opened"
@@ -75414,7 +75438,7 @@ msgstr ""
 
 #: errtxt.src#RID_ERRHDL.ERRCODE_SFX_ALREADYOPEN.string.text
 msgid "This document has already been opened for editing"
-msgstr ""
+msgstr "Bhí an cháipéis seo oscailte cheana le cur in eagar"
 
 #: errtxt.src#RID_ERRHDL.ERRCODE_SFX_WRONGPASSWORD.string.text
 msgid "The wrong password has been entered."
@@ -75427,7 +75451,7 @@ msgstr "Earráid agus comhad á léamh "
 
 #: errtxt.src#RID_ERRHDL.ERRCODE_SFX_DOCUMENTREADONLY.string.text
 msgid "The document was opened as read-only"
-msgstr ""
+msgstr "Osclaíodh an cháipéis sa mhód léimh amháin"
 
 #: errtxt.src#RID_ERRHDL.ERRCODE_SFX_OLEGENERAL.string.text
 msgid "General OLE Error"
@@ -75493,7 +75517,7 @@ msgstr "Formáid neamhbhailí naisc."
 
 #: errtxt.src#RID_ERRHDL.ERRCODE_SFX_WRONGICONFILE.string.text
 msgid "The configuration of the icon display is invalid."
-msgstr ""
+msgstr "Is neamhbhailí í cumraíocht taispeána na ndeilbhíní."
 
 #: errtxt.src#RID_ERRHDL.ERRCODE_SFX_CANTWRITEICONFILE.string.text
 msgid "The configuration of the icon display can not be saved."
@@ -75958,9 +75982,10 @@ msgstr "Barra ~Stádais"
 msgid "~Online Layout"
 msgstr "~Leagan Amach Ar Líne"
 
+# proper name
 #: globlmn_tmpl.hrc#ITEM_VIEW_BROWSER.#define.text
 msgid "~Beamer"
-msgstr ""
+msgstr "~Beamer"
 
 #: globlmn_tmpl.hrc#ITEM_INSERT_INSERT_GRAPHIC.#define.text
 msgid "~Graphics..."
@@ -111311,7 +111336,7 @@ msgstr "Tharla earráid agus an féilire á chruthú."
 
 #: schedule.src#msgCalRemoveTitle.string.text
 msgid "Delete event entries"
-msgstr ""
+msgstr "Scrios imeachtaí"
 
 #: schedule.src#msgCalRemove.string.text
 msgid "Delete the selected entries?"
