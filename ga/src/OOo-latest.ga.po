@@ -1,12 +1,8 @@
-# OOo pot file for Irish.
-#   CURRENT VERSION = SRC680_m159
-# First version produced Sept. 2004 by Kevin Scannell using the oo2po
-# scripts by David Fraser et al
 msgid ""
 msgstr ""
 "Project-Id-Version: OOo\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-03-10 23:28+0100\n"
+"POT-Creation-Date: 2002-07-15 17:13+0100\n"
 "PO-Revision-Date: 2006-02-22 15:40-0000\n"
 "Last-Translator: Pat Folan <pat.folan@gmit.ie>\n"
 "Language-Team: Irish <ga@li.org>\n"
@@ -4299,7 +4295,7 @@ msgstr "Tuairisc Earráide %PRODUCTNAME% %PRODUCTVERSION%"
 
 #: crashrep.ulf#_WELCOME_HEADER_.LngText.text
 msgid "Welcome to the %PRODUCTNAME% %PRODUCTVERSION% Error Report"
-msgstr ""
+msgstr "Fáilte go tuairisc earráide %PRODUCTNAME% %PRODUCTVERSION%"
 
 #: crashrep.ulf#_WELCOME_BODY1_.LngText.text
 msgid ""
@@ -4307,6 +4303,10 @@ msgid ""
 "working and sends it to Sun Microsystems to help improve future versions.\n"
 "\n"
 msgstr ""
+"Bailíonn an tuairisc earráide seo eolas faoin dóigh a bhfuil %PRODUCTNAME% "
+"ag obair agus cuireann sé go Sun Microsystems é chun cabhrú le leagain úra a "
+"fheabhsú.\n"
+"\n"
 
 #: crashrep.ulf#_WELCOME_BODY2_.LngText.text
 msgid ""
@@ -4316,6 +4316,12 @@ msgid ""
 "the 'Show Report' button. No data will be sent if you click 'Do Not Send'.\n"
 "\n"
 msgstr ""
+"Tá sé éasca - ní gá duit ach tuairisc a sheoladh ar aghaidh gan stró trí "
+"ghliogáil ar 'Seol' sa chéad dialóg eile, nó is féidir gearrchuntas den "
+"dóigh ar tharla an earráid a scríobh agus gliogáil ar 'Seol' ansin. Más mian "
+"leat an tuairisc a fheiceáil, gliogáil ar an gcnaipe, 'Taispeáin Tuairisc'. "
+"Ní sheolfar aon sonraí má ghliogálann tú ar 'Ná Seoil'\n"
+"\n"
 
 #: crashrep.ulf#_WELCOME_BODY3_.LngText.text
 msgid ""
@@ -4328,6 +4334,12 @@ msgid ""
 "and will not be shared with third parties.\n"
 "For more information on Sun Microsystems' privacy policy, visit\n"
 msgstr ""
+"Ní bhainfidh an t-eolas a bhaileofar ach le sonraí a bhaineann le staid %"
+"PRODUCTNAME% %PRODUCTVERSION% nuair a tharla an earráid. Ní bhailítear eolas "
+"eile faoi fhocail faire ná ábhar na cáipéise.\n"
+"\n"
+"Ní úsáidfear an t-eolas ach chun caighdeán %PRODUCTNAME% a fheabhsú agus ní "
+"roinnfear le haon tríú páirtí é.\n"
 
 #: crashrep.ulf#_PRIVACY_URL_.LngText.text
 msgid "http://www.sun.com/privacy/"
@@ -4368,7 +4380,7 @@ msgstr "Tuairisc Earráide %PRODUCTNAME% %PRODUCTVERSION%"
 
 #: crashrep.ulf#_REPORT_HEADER_.LngText.text
 msgid "An error occurred while running %PRODUCTNAME% %PRODUCTVERSION%"
-msgstr ""
+msgstr "Tharla earráid nuair a bhí %PRODUCTNAME% %PRODUCTVERSION% ag rith"
 
 #: crashrep.ulf#_REPORT_BODY_.LngText.text
 msgid ""
@@ -4378,17 +4390,26 @@ msgid ""
 "describe the action you were trying to carry out when the error occurred. "
 "Then click 'Send'.\n"
 msgstr ""
+"Tá eolas bailithe ag Tuairisc Earráide %PRODUCTNAME% %PRODUCTVERSION% a "
+"d'fhéadfadh cabhrú le Sun Microsystems %PRODUCTNAME% a fheabhsú.\n"
+"Sna spásanna thíos, tig leat teideal a chur isteach do do thuairisc earráid "
+"agus cur síos a dhéanamh ar an ngníomh a bhí á thriail agat nuair a tharla "
+"an earráid. Gliogáil ar 'Seol' ansin.\n"
 
 #: crashrep.ulf#_ENTER_TITLE_.LngText.text
 msgid ""
 "Which type of document (e.g. presentation) were you using when the error "
 "occurred?"
 msgstr ""
+"Cén chineál cáipéise (m.sh. láithreoireacht) a bhí á úsáid agat nuair a "
+"tharla an earráid?"
 
 #: crashrep.ulf#_ALLOW_CONTACT_.LngText.text
 #: docrecovery.src#RID_SVXPAGE_ERR_REP_SEND.CB_ERRSEND_CONTACT.checkbox.text
 msgid "~I allow Sun Microsystems to contact me regarding this report."
 msgstr ""
+"~Ceadaím do Sun Microsystems teagmháil a dhéanamh liom maidir leis an "
+"tuairisc seo."
 
 #: crashrep.ulf#_ENTER_EMAIL_.LngText.text
 msgid "Please enter your e-mail address."
@@ -4396,7 +4417,7 @@ msgstr "Iontráil do sheoladh ríomhphoist le do thoil."
 
 #: crashrep.ulf#_ENTER_DESCRIPTION_.LngText.text
 msgid "~How were you using %PRODUCTNAME% when the error occurred ?"
-msgstr ""
+msgstr "~Conas a bhí %PRODUCTNAME% á úsáid agat nuair a tharla an earráid ?"
 
 #: crashrep.ulf#_BACK_BUTTON_.LngText.text
 msgid " << ~Back"
@@ -4431,30 +4452,42 @@ msgid ""
 "not support MAPI.\n"
 " Please use a MAPI-compatible e-mail program."
 msgstr ""
+"Ní fhéadfaí an tuairisc earráide a sheoladh mar nach dtacaíonn an clár r-"
+"phoist réamhshocraithe le MAPI.\n"
+" Ba chóir duit clár r-phoist a úsáid atá comhoiriúnach le MAPI."
 
 #: crashrep.ulf#_ERROR_MSG_DISK_FULL_.LngText.text
 msgid ""
 "The error report could not be temporarily saved and could therefore not be "
 "sent."
 msgstr ""
+"Ní fhéadfaí an tuairisc earráide a shábháil go sealadach agus dá bhrí sin ní "
+"fhéadfaí é a sheoladh."
 
 #: crashrep.ulf#_ERROR_MSG_SENDMAIL_.LngText.text
 msgid ""
 "The error report could not be sent because 'sendmail' could not be started.\n"
 "Please check the 'sendmail' settings."
 msgstr ""
+"Ní fhéadfaí an tuairisc earráide a sheoladh mar nach bhféadfaí 'sendmail' a "
+"thosú.\n"
+"Déan seiceáil ar na socruithe 'sendmail'."
 
 #: crashrep.ulf#_ERROR_MSG_PROXY_.LngText.text
 msgid ""
 "The error report could not be sent. Please check the proxy settings under "
 "'Options' in the Error Report Tool."
 msgstr ""
+"Ní fhéadfaí an tuairisc earráide a sheoladh. Seiceáil socruithe an "
+"tseachfhreastalaí faoi 'Roghanna' san Uirlis Tuairisce Earráide."
 
 #: crashrep.ulf#_ERROR_MSG_NOCONNECT_.LngText.text
 msgid ""
 "The error report could not be sent because there is no Internet connection. "
 "Please check your Internet settings."
 msgstr ""
+"Ní fhéadfaí an tuairisc earráide a sheoladh mar nach bhfuil aon cheangal "
+"idirlín ann. Seiceáil do shocruithe Idirlín."
 
 #: crashrep.ulf#_OPTIONS_BUTTON_.LngText.text
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_OptionsTreeDialog.Label.value.text
@@ -4510,6 +4543,14 @@ msgid ""
 "If this applies to your situation, you have to specify the address and port "
 "for the server."
 msgstr ""
+"Ní mór do Uirlis Tuairisc Earráide %PRODUCTNAME% a bheith ceangailte leis an "
+"Idirlíon chun gur féidir tuairiscí earráide a sheoladh.\n"
+"\n"
+"Is minic a úsáideann comhlachtaí seachfhreastalaithe i gcomhar le balla "
+"dóiteáin chun an líonra a chosaint.\n"
+"\n"
+"Má bhaineann sé sin le do chás-sa, ní mór duit an seoladh agus an port don "
+"fhreastalaí a shonrú."
 
 #: crashrep.ulf#_SENDING_REPORT_HEADER_.LngText.text
 msgid "Sending Error Report"
@@ -4529,6 +4570,9 @@ msgid ""
 "this report.'\n"
 "Please enter your e-mail address."
 msgstr ""
+"Mharcáil tú an rogha 'Ceadaím do Sun Microsystems teagmháil a dhéanamh liom "
+"maidir leis an tuairisc seo.'\n"
+"Iontráil do sheoladh ríomhphoist, le do thoil."
 
 #: crashrep.ulf#_MSG_CMDLINE_USAGE_.LngText.text
 msgid "Usage:"
@@ -4540,13 +4584,15 @@ msgstr "-p <aitheantas próisis>"
 
 #: crashrep.ulf#_MSG_PARAM_PROCESSID_DESCRIPTION_.LngText.text
 msgid "Assigns the %PRODUCTNAME% process ID (PID) to the Error Report Tool"
-msgstr ""
+msgstr "Sannann an ID próisis %PRODUCTNAME% (PID) don Uirlis Tuairisc Earráide"
 
 #: crashrep.ulf#_MSG_PARAM_HELP_DESCRIPTION_.LngText.text
 msgid ""
 "Shows this help text.\n"
 "Detailed information can be found in the Setup Guide."
 msgstr ""
+"Taispeánann an téacs cabhrach seo.\n"
+"Tá eolas mionsonraithe ar fáil sa Treoir Suiteála."
 
 #: strings.src#RID_STR_TRIED_OPEN_TABLE.string.text
 msgid "Tried to open the table $name$."
@@ -5241,7 +5287,7 @@ msgstr "Ní féidir nascadh le bainisteoir na dtiománaithe SDBC (#servicename#)
 
 #: tabletree.src#STR_NOREGISTEREDDRIVER.string.text
 msgid "A driver is not registered for the URL #connurl#."
-msgstr ""
+msgstr "Níl tiománaí cláraithe don URL #connurl#."
 
 #: tabletree.src#STR_COULDNOTCONNECT.string.text
 msgid "No connection could be established for the URL #connurl#."
@@ -5258,6 +5304,7 @@ msgid ""
 "Successfully connected, but information about database tables is not "
 "available."
 msgstr ""
+"Ceangailte go rathúil, ach níl eolas faoi tháblaí bunachar sonraí ar fáil."
 
 #: tabletree.src#STR_ALL_TABLES.string.text
 msgid "All tables"
@@ -36572,7 +36619,7 @@ msgid "Authentication request"
 msgstr "Iarratas fíordheimhnithe"
 
 #: readme.xrm#ooo_readme.Welcome.A2.a.readmeitem.text
-msgid "Last updated $Date: 2006-03-14 02:22:20 $"
+msgid "Last updated $Date: 2006-03-16 13:23:44 $"
 msgstr ""
 
 #: readme.xrm#ooo_readme.Welcome.A3.a.readmeitem.text
@@ -78977,10 +79024,14 @@ msgid ""
 "working on will be saved now. The next time %PRODUCTNAME is launched, your "
 "files will be recovered automatically."
 msgstr ""
+"Mar gheall ar earráid gan choinne, chlis ar %PRODUCTNAME. Sábháilfear na "
+"comhaid uile a raibh tú ag obair orthu anois. An chéad uair eile a "
+"lainseálfar %PRODUCTNAME, déanfar do chuid comhad a athshlánú go "
+"huathoibríoch."
 
 #: docrecovery.src#RID_SVXPAGE_DOCRECOVERY_SAVE.FT_SAVE_FILELIST.fixedtext.text
 msgid "The following files will be recovered:"
-msgstr ""
+msgstr "Déanfar na comhaid seo leanas a athshlánú:"
 
 #: docrecovery.src#RID_SVXPAGE_DOCRECOVERY_SAVE.CB_SAVE_LAUNCHAUTO.checkbox.text
 msgid "Launch %PRODUCTNAME automatically"
@@ -78992,7 +79043,7 @@ msgstr "Cáipéisí á sábháil."
 
 #: docrecovery.src#RID_SVX_MDLG_DOCRECOVERY_PROGR.FT_SAVEPROGR_PROGR.fixedtext.text
 msgid "Progress of saving: "
-msgstr ""
+msgstr "Dul chun cinn an tsábhála: "
 
 #: docrecovery.src#RID_SVXPAGE_DOCRECOVERY_RECOVER.FT_RECOV_TITLE.fixedtext.text
 msgid ""
@@ -79008,6 +79059,10 @@ msgid ""
 "\n"
 "The 'Status' column shows whether the document could be recovered."
 msgstr ""
+"Brúigh 'Tosaigh Athshlánú' chun próiseas athshlánú na gcomhad sa liosta "
+"thíos a thosú.\n"
+"\n"
+"Léiríonn an colún 'Stádas' arbh fhéidir an cháipéis a athshlánú."
 
 #: docrecovery.src#RID_SVXPAGE_DOCRECOVERY_RECOVER.FT_RECOV_PROGR.fixedtext.text
 msgid "Recovering document:"
@@ -79015,7 +79070,7 @@ msgstr "Cáipéis á hathshlánú:"
 
 #: docrecovery.src#RID_SVXPAGE_DOCRECOVERY_RECOVER.FT_RECOV_FILELIST.fixedtext.text
 msgid "Status of recovered documents:"
-msgstr ""
+msgstr "Stádas na gcomhad athshlánaithe:"
 
 #: docrecovery.src#RID_SVXPAGE_DOCRECOVERY_RECOVER.STR_HEADERBAR.string.text
 msgid "Document Name\\tStatus"
@@ -79050,7 +79105,7 @@ msgstr "Athshlánú ar siúl"
 
 #: docrecovery.src#RID_SVXPAGE_DOCRECOVERY_RECOVER.STR_NOTRECOVYET.string.text
 msgid "Not recovered yet"
-msgstr ""
+msgstr "Níl athshlánaithe fós"
 
 #: docrecovery.src#RID_SVXPAGE_DOCRECOVERY_RECOVER.STR_RECOVERY_INPROGRESS.string.text
 msgid ""
@@ -79061,12 +79116,20 @@ msgid ""
 "PRODUCTNAME crashed. Click 'Next' to get to the Error Report Tool or press "
 "'Cancel' to skip this step."
 msgstr ""
+"Tosaíonn %PRODUCTNAME %PRODUCTVERSION  ar athshlánú do chuid comhad anois. "
+"Ag brath ar mhéid na gcomhad glacfaidh an próiseas seo tamall.\n"
+"\n"
+"Cruthaíodh tuairisc faoin gclis a chabhróidh linn a fháil amach cén fáth gur "
+"chlis ar %PRODUCTNAME. Gliogáil 'Ar Aghaidh' chun dul chuig an Uirlis "
+"Tuairisc Earráide nó gliogáil 'Cealaigh' chun an chéim seo a sheachaint."
 
 #: docrecovery.src#RID_SVXPAGE_DOCRECOVERY_RECOVER.STR_RECOVERYONLY_DESCR.string.text
 msgid ""
 "Press 'Start Recovery' to start the recovery process of the documents listed "
 "below."
 msgstr ""
+"Brúigh 'Athshlánaigh' chun próiseas athshlánaithe na gcáipéisí sa liosta "
+"thíos a thosú."
 
 #: docrecovery.src#RID_SVXQB_EXIT_RECOVERY.querybox.text
 msgid "Are you sure you want to cancel the %PRODUCTNAME document recovery?"
@@ -79082,6 +79145,11 @@ msgid ""
 "click 'Save'. Click 'Cancel' to close the wizard without saving the "
 "documents."
 msgstr ""
+"Cuireadh isteach ar an bpróiseas athshlánaithe uathoibríoch.\n"
+"\n"
+"Sábhálfar na cáipéisí sa liosta thíos sa bhfillteán a luaitear thíos má "
+"ghliogáileann tú 'Sábháil'. Gliogáil 'Cealaigh' chun an draoi a dhúnadh gan "
+"na comhaid a shábháil."
 
 #: docrecovery.src#RID_SVX_MDLG_DOCRECOVERY_BROKEN.FT_BROKEN_SAVEDIR.fixedtext.text
 msgid "~Save to"
@@ -79093,7 +79161,7 @@ msgstr "Athrai~gh..."
 
 #: docrecovery.src#RID_SVXPAGE_ERR_REP_WELCOME.FT_RECOV_TITLE.fixedtext.text
 msgid "Welcome to the %PRODUCTNAME %PRODUCTVERSION Error Report"
-msgstr ""
+msgstr "Fáilte go Tuairisc Earráide %PRODUCTNAME %PRODUCTVERSION"
 
 #: docrecovery.src#RID_SVXPAGE_ERR_REP_WELCOME.FT_RECOV_DESCR.fixedtext.text
 msgid ""
@@ -79115,6 +79183,18 @@ msgid ""
 "For more information on Sun Microsystems' privacy policy, visit\n"
 "http://www.sun.com/privacy/"
 msgstr ""
+"Bailíonn an uirlis tuairisc earráide seo eolas faoin gcaoi a bhfuil %"
+"PRODUCTNAME ag feidhmiú agus seolann go Sun Microsystems é mar chabhair chun "
+"leagain úire a fheabhsú. \\n\n"
+"Tá sé éasca - cuir an tuairisc ar aghaidh gan aon iarracht eile trí "
+"ghliogáil ar 'Seol' sa chéad dialóg eile, nó tig leag cur síos gearr a "
+"dhéanamh ar an dóigh ar tharla an earráid agus 'Seol' a ghliogáil ansin. Más "
+"mian leat an tuairisc a fheiceáil, gliogáil ar an gcnaipe 'Taispeáin "
+"Tuairisc'. Ní chuirfear sonraí ar bith má ghliogálann tú 'Ná Seol'\n"
+"Is chun caighdeán %PRODUCTNAME a fheabhsú amháin a úsáidfear an t-eolas seo "
+"agus ní thabharfar é do thríú páirtí ar bith.Tá breis eolais faoi pholasasí "
+"príobháideachta Sun Microsystems ar fáil ag \n"
+"http://www.sun.com/privacy/"
 
 #: docrecovery.src#RID_SVXPAGE_ERR_REP_WELCOME.BTN_RECOV_PREV.pushbutton.text
 msgid ""
@@ -79131,7 +79211,7 @@ msgstr "~Ar Aghaidh >"
 
 #: docrecovery.src#RID_SVXPAGE_ERR_REP_SEND.FT_RECOV_TITLE.fixedtext.text
 msgid "Sending the Error Report"
-msgstr ""
+msgstr "Tuairisc Earráide á seoladh"
 
 #: docrecovery.src#RID_SVXPAGE_ERR_REP_SEND.FT_RECOV_DESCR.fixedtext.text
 msgid ""
@@ -79139,16 +79219,22 @@ msgid ""
 "describe the action you were trying to carry out when the error occurred. "
 "Then click 'Send'."
 msgstr ""
+"Sna spásanna thíos, tig leat teideal a chur isteach do do thuairisc earráide "
+"agus cur síos a dhéanamh ar an ngníomh a bhí á thriail agat nuair a tharla "
+"an earráid. Gliogáil 'Seol' ansin. "
 
 #: docrecovery.src#RID_SVXPAGE_ERR_REP_SEND.FT_ERRSEND_DOCTYPE.fixedtext.text
 msgid ""
 "~Which type of document (e.g. presentation) were you using when the error "
 "occurred?"
 msgstr ""
+"~Cén chineál cáipéise (m.sh. láithreoireacht) a bhí á úsáid agat nuair a "
+"tharla an earráid?"
 
 #: docrecovery.src#RID_SVXPAGE_ERR_REP_SEND.FT_ERRSEND_USING.fixedtext.text
 msgid "~How were you using %PRODUCTNAME when the error occurred? (optional)"
 msgstr ""
+"~Conas a bhí  %PRODUCTNAME á úsáid agat nuair a tharla an earráid? (roghnach)"
 
 #: docrecovery.src#RID_SVXPAGE_ERR_REP_SEND.BTN_ERRSEND_SHOWREP.pushbutton.text
 msgid "Show ~Report"
@@ -79173,6 +79259,12 @@ msgid ""
 "If this applies to your situation, you have to specify the address and port "
 "for the server."
 msgstr ""
+"Ní mór d'uirlis tuairisc earráide  %PRODUCTNAME a bheith ceangailte leis an "
+"Idirlíon chun tuairiscí earráide a chur.\n"
+"Úsáideann comhlachtaí seachfhreastalaithe i gcomhar le balla dóiteáin chun "
+"an líonra a chosaint.\n"
+"Má bhaineann sé sin le do chás-sa, ní mór duit an seoladh agus an port don "
+"fhreastalaí a shonrú."
 
 #: docrecovery.src#RID_SVX_MDLG_ERR_REP_OPTIONS.modaldialog.text
 msgid ""
@@ -87565,18 +87657,27 @@ msgid ""
 "documents, and paths to important files. These settings will be saved "
 "automatically and used in later sessions as well."
 msgstr ""
+"Úsáidtear an dialóg seo chun na socruithe ginearálta a shainiú agus  %"
+"PRODUCTNAME á úsáid. Cuir isteach do shonraí pearsanta, na sainroghanna a "
+"bhí le húsáid nuair a bhí cáipéisí le sábháil, agus na cosáin go comhaid "
+"thábhachtacha. Sábhálfar na socruithe seo go huathoibríoch agus úsáidtear "
+"iad i seisiúin níos déeanaí freisin."
 
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE.STR_HELPTEXTS.2.itemlist.text
 msgid ""
 "This is where you make settings concerning language and writing aids for "
 "your work with %PRODUCTNAME."
 msgstr ""
+"Is anseo a dhéanann tú socruithe maidir le cúnaimh teanga agus "
+"scríbhneoireachta do do chuid oibre le %PRODUCTNAME."
 
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE.STR_HELPTEXTS.3.itemlist.text
 msgid ""
 "This is where you configure %PRODUCTNAME for the Internet. You can define "
 "search engines or save your proxy settings."
 msgstr ""
+"Is anseo a chumraítear %PRODUCTNAME don Idirlíon. Is féidir leat innill "
+"chuardaigh a shainmhíniú nó do chuid seachshocruithe a shábháil."
 
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE.STR_HELPTEXTS.4.itemlist.text
 msgid ""
@@ -87585,6 +87686,11 @@ msgid ""
 "are valid for all new %PRODUCTNAME Writer documents. You can also define a "
 "few settings for the active text document if you save it afterwards."
 msgstr ""
+"Is anseo a shonraítear socruithe éagsúla do cháipéisí téacs. Cinntíonn na "
+"socruithe seo conas a láimhseáiltear do cháipéisí téacs i %PRODUCTNAME agus "
+"tá siad bailí do gach cáipéis nua %PRODUCTNAME Writer. Is féidir leat roinnt "
+"socruithe a shainmhíniú don cháipéis ghníomhach téacs chomh maith má "
+"shábhálann tú é ina dhiaidh sin."
 
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE.STR_HELPTEXTS.5.itemlist.text
 msgid ""
@@ -87593,6 +87699,11 @@ msgid ""
 "the screen or printed, how the pages are scrolled on the screen, in which "
 "color keywords are highlighted in the source text and much more."
 msgstr ""
+"Is anseo a shainmhínítear na socruithe bunúsacha do cháipéisí %PRODUCTNAME i "
+"bhformáid HTML. Mar shampla, tig leat a chinntiú cad é an t-ábhar a "
+"thaispeántar ar an scáileán nó a phriontáiltear, conas a dhéantar "
+"leathanaigh a scrollú ar an scáileán, cén dath a úsáidtear chun béim a chur "
+"ar eochairfhocail sa téacs foinseach agus tuilleadh."
 
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE.STR_HELPTEXTS.6.itemlist.text
 msgid ""
@@ -87601,6 +87712,11 @@ msgid ""
 "direction the cursor will move after you enter data in a cell. You also "
 "define sort lists, the number of the decimal places displayed, etc."
 msgstr ""
+"Is anseo a shainmhínítear socruithe éagsúla domhanda do scarbhileoga. Mar "
+"shampla, tig leat a shainmhíniú cén ábhar is ceart a thaispeáint agus cén "
+"treo ba chóir don chúrsóir bogadh tar éis duit sonraí a chur i gcill. Tig "
+"leat liostaí sórtála a shainmhíniú chomh maith, líon na n-ionad deachúlach a "
+"thaispeánfar, srl."
 
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE.STR_HELPTEXTS.7.itemlist.text
 msgid ""
@@ -87609,6 +87725,11 @@ msgid ""
 "on the slides, which default unit of measure is used, if and how grid "
 "alignment is used, and if notes and handouts are always printed."
 msgstr ""
+"Is anseo a shainmhínítear na socruithe a mbeidh feidhm leo i ngach "
+"láithreoireacht nua a shábháiltear. I measc nithe eile, cinnteoidh tusa cén "
+"t-ábhar a thaispeánfar ar na sleamhnáin, cén sainrogha aonad tomhaise a "
+"úsáidfear, an n-úsáidfear ailíniú greille agus conas a úsáidfear é, agus an "
+"bpriontálfar nótaí agus bileoga eolais i gcónaí."
 
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE.STR_HELPTEXTS.8.itemlist.text
 msgid ""
@@ -87617,6 +87738,10 @@ msgid ""
 "is used, if and how grid alignment is used, and which contents are printed "
 "by default."
 msgstr ""
+"Is anseo a shainmhínítear na socruithe do cháipéisí líníochta. I measc nithe "
+"eile, cinntíonn tusa cad é an t-ábhar a thaispeántar ar na leathanaigh, cén "
+"scála a úsáidfear, an n-úsáidfear ailíniú greille agus conas a úsáidfear é, "
+"agus cén t-ábhar a phriontálfar de réamhshocrú."
 
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE.STR_HELPTEXTS.9.itemlist.text
 msgid ""
@@ -87624,18 +87749,25 @@ msgid ""
 "saved formula documents. These options take effect when you want to print a "
 "formula directly from %PRODUCTNAME Math."
 msgstr ""
+"Is anseo a roghnaítear an fhormáid phriontála agus na roghanna priontála do "
+"gach cáipéis fhoirmle nuashábháilte. Bíonn feidhm leis na roghanna seo nuair "
+"is mian leat foirmle a phriontáil go díreach ó %PRODUCTNAME Math."
 
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE.STR_HELPTEXTS.10.itemlist.text
 msgid ""
 "This is where you specify general default settings for your %PRODUCTNAME "
 "Charts. Set the colors you want for all new charts."
 msgstr ""
+"Is anseo a shonraítear na réamhshocruithe ginearálta do do Chairteanna  %"
+"PRODUCTNAME. Socraigh na dathanna atá uait do gach cairt nua."
 
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE.STR_HELPTEXTS.11.itemlist.text
 msgid ""
 "This is where you define general settings for accessing external data "
 "sources."
 msgstr ""
+"Is anseo a shainmhínítear na socruithe ginearálta rochtana do fhoinsí "
+"seachtracha sonraí."
 
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE.STR_HELPTEXTS.12.itemlist.text
 msgid ""
@@ -87643,6 +87775,10 @@ msgid ""
 "in external formats. You can control the behavior of macros or OLE objects "
 "in Microsoft Office documents or define settings for HTML documents."
 msgstr ""
+"Is anseo a shainmhínítear socruithe ginearálta chun cáipéisí a oscailt agus "
+"a dhúnadh i bhformáidí seachtracha. Is féidir leat iompraíocht na macraí nó "
+"na réad OLE i gcáipéisí Microsoft Word a stiúradh nó socruithe do cháipéisí "
+"HTML a shainmhíniú."
 
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE.modaldialog.text
 msgid ""
@@ -87737,7 +87873,7 @@ msgstr "Áiseanna Scríbhneoireachta"
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_LANGUAGE_OPTIONS.4.itemlist.text
 #: optjsearch.src#RID_SVXPAGE_JSEARCH_OPTIONS.tabpage.text
 msgid "Searching in Japanese"
-msgstr ""
+msgstr "Ag cuardach i Seapánais"
 
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_LANGUAGE_OPTIONS.5.itemlist.text
 msgid ""
@@ -87829,7 +87965,7 @@ msgstr "Athruithe"
 
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_EDITOPTIONS.13.itemlist.text
 msgid "AutoCaption"
-msgstr ""
+msgstr "UathChaidhprogha"
 
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_EDITOPTIONS.14.itemlist.text
 #: mailconfigpage.src#TP_MAILCONFIG.tabpage.text
@@ -88035,6 +88171,12 @@ msgid ""
 "order to be able to use the same settings in other browsers you need to "
 "define these in the external browser settings."
 msgstr ""
+"Tabhair faoi deara: tagraíonn na socruithe a thaispeántar do bhrabhsálaí "
+"idirlín %PRODUCTNAME (%PRODUCTNAME Writer/Web). I \"Uirlisí - Roghanna - "
+"Brabhsálaí - Brabhsálaí Seachtrach\" tá úsáid bhrabhsálaí difriúil "
+"gníomhaithe. Ní mór duit na socruithe céanna a shainmhíniú i socruithe an "
+"bhrabhsálaí seachtraigh chun a bheith ábalta iad a úsáid i mbrabhsálaithe "
+"eile."
 
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_HINT.CB_DISABLE.checkbox.text
 msgid "~Do not show information again"
