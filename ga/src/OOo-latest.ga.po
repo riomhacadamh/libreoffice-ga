@@ -1,3 +1,7 @@
+# OOo pot file for Irish.
+#   CURRENT VERSION = SRC680_m159
+# First version produced Sept. 2004 by Kevin Scannell using the oo2po
+# scripts by David Fraser et al
 msgid ""
 msgstr ""
 "Project-Id-Version: OOo\n"
@@ -36619,7 +36623,7 @@ msgid "Authentication request"
 msgstr "Iarratas fíordheimhnithe"
 
 #: readme.xrm#ooo_readme.Welcome.A2.a.readmeitem.text
-msgid "Last updated $Date: 2006-03-16 13:23:44 $"
+msgid "Last updated $Date: 2006-03-16 16:50:59 $"
 msgstr ""
 
 #: readme.xrm#ooo_readme.Welcome.A3.a.readmeitem.text
@@ -71885,7 +71889,7 @@ msgstr "Ai~cme"
 
 #: svuidlg.src#MD_INSERT_OBJECT_APPLET.FT_CLASSLOCATION.fixedtext.text
 msgid "Class ~Location"
-msgstr ""
+msgstr "Suíomh ~Aicme"
 
 #: svuidlg.src#MD_INSERT_OBJECT_APPLET.BTN_CLASS.pushbutton.text
 msgid ""
@@ -71919,7 +71923,7 @@ msgstr "~Gaolta"
 
 #: commands.src#RID_COMMANDMENU.RID_SETOPERATIONS_MENU.menuitem.text
 msgid "~Set Operations"
-msgstr ""
+msgstr "Oibríochtaí ar ~Thacair"
 
 #: commands.src#RID_COMMANDMENU.RID_FUNCTIONS_MENU.RID_FUNCTIONSOTHER1_MENU.menuitem.text
 msgid "More"
@@ -71998,7 +72002,7 @@ msgstr "Clónna"
 
 #: smres.src#RID_FONTSIZEDIALOG.1.fixedtext.text
 msgid "Base ~size"
-msgstr ""
+msgstr "~Bunmhéid"
 
 #: smres.src#RID_FONTSIZEDIALOG.4.fixedtext.text
 msgid ""
@@ -72040,7 +72044,7 @@ msgstr "Clómhéideanna"
 
 #: smres.src#RID_FONTTYPEDIALOG.1.fixedline.text
 msgid "Formula fonts"
-msgstr ""
+msgstr "Clófhoirne foirmle"
 
 #: smres.src#RID_FONTTYPEDIALOG.2.fixedline.text
 msgid "Custom fonts"
@@ -72177,7 +72181,7 @@ msgstr "~Ainmneoir"
 
 #: smres.src#RID_DISTANCEDIALOG.4.1.string.text
 msgid "Fraction bar"
-msgstr ""
+msgstr "Barra codáin"
 
 #: smres.src#RID_DISTANCEDIALOG.4.2.string.text
 msgid "~Excess length"
@@ -72222,7 +72226,7 @@ msgstr "~Spásáil"
 msgid ""
 "_: smres.src#RID_DISTANCEDIALOG.6.5.string.text\n"
 "~Excess size"
-msgstr ""
+msgstr "~Méid sa bhreis"
 
 #: smres.src#RID_DISTANCEDIALOG.7.1.string.text
 msgid "Matrix"
@@ -72246,11 +72250,11 @@ msgstr "Siombailí"
 
 #: smres.src#RID_DISTANCEDIALOG.8.2.string.text
 msgid "~Primary height"
-msgstr ""
+msgstr "~Príomhairde"
 
 #: smres.src#RID_DISTANCEDIALOG.8.3.string.text
 msgid "~Minimum spacing"
-msgstr ""
+msgstr "~Spásáil íosta"
 
 #: smres.src#RID_DISTANCEDIALOG.9.1.string.text
 msgid ""
@@ -72262,7 +72266,7 @@ msgstr "Oibreoirí"
 msgid ""
 "_: smres.src#RID_DISTANCEDIALOG.9.2.string.text\n"
 "~Excess size"
-msgstr ""
+msgstr "~Méid sa bhreis"
 
 #: smres.src#RID_DISTANCEDIALOG.9.3.string.text
 msgid ""
@@ -72314,11 +72318,11 @@ msgstr "~Réamhshocrú"
 
 #: smres.src#RID_PRINTOPTIONPAGE.CB_TITLEROW.checkbox.text
 msgid "~Title row"
-msgstr ""
+msgstr "~Ró an teidil"
 
 #: smres.src#RID_PRINTOPTIONPAGE.CB_EQUATION_TEXT.checkbox.text
 msgid "~Formula text"
-msgstr ""
+msgstr "Téacs na ~foirmle"
 
 #: smres.src#RID_PRINTOPTIONPAGE.CB_FRAME.checkbox.text
 #: optdlg.src#TP_OPTTABLE_PAGE.CB_BORDER.checkbox.text
@@ -72331,11 +72335,11 @@ msgstr "Formáid Phriontála"
 
 #: smres.src#RID_PRINTOPTIONPAGE.RB_ORIGINAL_SIZE.radiobutton.text
 msgid "O~riginal size"
-msgstr ""
+msgstr "Bun~mhéid"
 
 #: smres.src#RID_PRINTOPTIONPAGE.RB_FIT_TO_PAGE.radiobutton.text
 msgid "Fit to ~page"
-msgstr ""
+msgstr "Laghdaigh go dtí an ~leathanach"
 
 #: smres.src#RID_PRINTOPTIONPAGE.RB_ZOOM.radiobutton.text
 msgid "~Scaling"
@@ -72352,7 +72356,7 @@ msgstr "Déan neamhshuim ar ~~ agus ` ag deireadh na líne"
 
 #: smres.src#RID_PRINTOPTIONPAGE.tabpage.text
 msgid "Formula Options:Settings"
-msgstr ""
+msgstr "Roghanna Foirmle:Socruithe"
 
 #: smres.src#RID_SYMBOLDIALOG.1.fixedtext.text
 msgid "~Symbol set"
@@ -72411,6 +72415,9 @@ msgid ""
 "Without this font %PRODUCTNAME Math cannot function correctly.\n"
 "Please install this font and restart %PRODUCTNAME Math."
 msgstr ""
+"Níl clófhoireann \"StarMath\" suiteáilte agat.\n"
+"Ní féidir %PRODUCTNAME Math a úsáid mar is ceart gan an clófhoireann seo.\n"
+"Déan suiteáil ar an gclófhoireann seo agus atosaigh %PRODUCTNAME Math."
 
 #: smres.src#RID_DEFAULTSAVEQUERY.querybox.text
 msgid ""
@@ -72418,6 +72425,9 @@ msgid ""
 "\n"
 "These changes will apply for all new formulas."
 msgstr ""
+"Ar mhaith leat na hathruithe a shábháil mar réamhshocruithe?\n"
+"\n"
+"Cuirfear na hathruithe seo i bhfeidhm ar gach foirmle nua."
 
 #: smres.src#RID_VIEWMENU.SID_VIEW050.menuitem.text
 msgid "~View 50%"
@@ -72463,7 +72473,7 @@ msgstr "Codáin"
 
 #: smres.src#RID_DISTANCEMENU.Bruchstriche.menuitem.text
 msgid "Fraction Bars"
-msgstr ""
+msgstr "Barraí Codáin"
 
 #: smres.src#RID_DISTANCEMENU.Grenzen.menuitem.text
 msgid ""
@@ -72615,7 +72625,7 @@ msgstr ""
 
 #: smres.src#RID_TOOLBOXWINDOW.2.RID_XPARALLELY.toolboxitem.text
 msgid "Is Parallel To"
-msgstr ""
+msgstr "Is Comhthreomhar Le"
 
 #: smres.src#RID_TOOLBOXWINDOW.2.RID_XORTHOY.toolboxitem.text
 msgid "Is Orthogonal To"
@@ -72635,11 +72645,11 @@ msgstr "Níos Mó Ná, Nó Cothrom Le"
 
 #: smres.src#RID_TOOLBOXWINDOW.2.RID_XSIMY.toolboxitem.text
 msgid "Is Similar To"
-msgstr ""
+msgstr "Is Cosúil Le"
 
 #: smres.src#RID_TOOLBOXWINDOW.2.RID_XEQUIVY.toolboxitem.text
 msgid "Is Congruent To"
-msgstr ""
+msgstr "Is Iomchuí Le"
 
 #: smres.src#RID_TOOLBOXWINDOW.2.RID_XLEY.toolboxitem.text
 msgid ""
@@ -72659,7 +72669,7 @@ msgstr "Comhréireach Le"
 
 #: smres.src#RID_TOOLBOXWINDOW.2.RID_XTOWARDY.toolboxitem.text
 msgid "Toward"
-msgstr ""
+msgstr "Chuig"
 
 #: smres.src#RID_TOOLBOXWINDOW.2.RID_DLARROW.toolboxitem.text
 msgid "Double Arrow Left"
@@ -72717,19 +72727,19 @@ msgstr "Fo-thacar"
 
 #: smres.src#RID_TOOLBOXWINDOW.3.RID_XSUBSETEQY.toolboxitem.text
 msgid "Subset Or Equal To"
-msgstr ""
+msgstr "Fo-Thacar Nó Cothrom Le"
 
 #: smres.src#RID_TOOLBOXWINDOW.3.RID_XSUPSETY.toolboxitem.text
 msgid "Superset"
-msgstr ""
+msgstr "For-thacar"
 
 #: smres.src#RID_TOOLBOXWINDOW.3.RID_XSUPSETEQY.toolboxitem.text
 msgid "Superset Or Equal To"
-msgstr ""
+msgstr "For-thacar Nó Cothrom Le"
 
 #: smres.src#RID_TOOLBOXWINDOW.3.RID_XNSUBSETY.toolboxitem.text
 msgid "Not Subset"
-msgstr ""
+msgstr "Nach Fo-Thacar"
 
 #: smres.src#RID_TOOLBOXWINDOW.3.RID_XNSUBSETEQY.toolboxitem.text
 msgid "Not Subset Or Equal"
@@ -72737,7 +72747,7 @@ msgstr ""
 
 #: smres.src#RID_TOOLBOXWINDOW.3.RID_XNSUPSETY.toolboxitem.text
 msgid "Not Superset"
-msgstr ""
+msgstr "Nach For-Thacar"
 
 #: smres.src#RID_TOOLBOXWINDOW.3.RID_XNSUPSETEQY.toolboxitem.text
 msgid "Not Superset Or Equal"
@@ -72828,7 +72838,7 @@ msgstr "Arc-chomhthangant"
 
 #: smres.src#RID_TOOLBOXWINDOW.4.RID_NROOTXY.toolboxitem.text
 msgid "N-th Root"
-msgstr ""
+msgstr "Fréamh N-ú"
 
 #: smres.src#RID_TOOLBOXWINDOW.4.RID_SINHX.toolboxitem.text
 msgid "Hyperbolic Sine"
@@ -72852,19 +72862,19 @@ msgstr "Luach Uimhriúil"
 
 #: smres.src#RID_TOOLBOXWINDOW.4.RID_ARSINHX.toolboxitem.text
 msgid "Area Hyperbolic Sine"
-msgstr ""
+msgstr "Sín Hipearbóileach Inbhéartach"
 
 #: smres.src#RID_TOOLBOXWINDOW.4.RID_ARCOSHX.toolboxitem.text
 msgid "Area Hyperbolic Cosine"
-msgstr ""
+msgstr "Comhshíneas Hipearbóileach Inbhéartach"
 
 #: smres.src#RID_TOOLBOXWINDOW.4.RID_ARTANHX.toolboxitem.text
 msgid "Area Hyperbolic Tangent"
-msgstr ""
+msgstr "Tangant Hipearbóileach Inbhéartach"
 
 #: smres.src#RID_TOOLBOXWINDOW.4.RID_ARCOTHX.toolboxitem.text
 msgid "Area Hyperbolic Cotangent"
-msgstr ""
+msgstr "Comhthangant Hipearbóileach Inbhéartach"
 
 #: smres.src#RID_TOOLBOXWINDOW.4.RID_FACTX.toolboxitem.text
 msgid "Factorial"
@@ -72872,7 +72882,7 @@ msgstr "Iolrán"
 
 #: smres.src#RID_TOOLBOXWINDOW.5.RID_LIMX.toolboxitem.text
 msgid "Limes"
-msgstr ""
+msgstr "Teorainn"
 
 #: smres.src#RID_TOOLBOXWINDOW.5.RID_PRODX.toolboxitem.text
 msgid "Product"
@@ -72928,7 +72938,7 @@ msgstr "Graif"
 
 #: smres.src#RID_TOOLBOXWINDOW.6.RID_CHECKX.toolboxitem.text
 msgid "Reverse Circumflex"
-msgstr ""
+msgstr "Cuairín Droim Ar Ais"
 
 #: smres.src#RID_TOOLBOXWINDOW.6.RID_BREVEX.toolboxitem.text
 msgid "Breve"
@@ -72941,7 +72951,7 @@ msgstr "Ciorcal"
 
 #: smres.src#RID_TOOLBOXWINDOW.6.RID_VECX.toolboxitem.text
 msgid "Vector Arrow"
-msgstr ""
+msgstr "Saighead Veicteora"
 
 # OK as is
 #: smres.src#RID_TOOLBOXWINDOW.6.RID_TILDEX.toolboxitem.text
@@ -72962,7 +72972,7 @@ msgstr "Ponc"
 
 #: smres.src#RID_TOOLBOXWINDOW.6.RID_WIDEVECX.toolboxitem.text
 msgid "Large Vector Arrow"
-msgstr ""
+msgstr "Saighead Mór Veicteora"
 
 #: smres.src#RID_TOOLBOXWINDOW.6.RID_WIDETILDEX.toolboxitem.text
 msgid "Large Tilde"
@@ -73011,7 +73021,7 @@ msgstr "Athraigh an méid"
 
 #: smres.src#RID_TOOLBOXWINDOW.7.RID_LRPARENTX.toolboxitem.text
 msgid "Round Brackets"
-msgstr ""
+msgstr "Lúibíní Cruinne"
 
 #: smres.src#RID_TOOLBOXWINDOW.7.RID_LRBRACKETX.toolboxitem.text
 msgid "Square Brackets"
@@ -73019,15 +73029,15 @@ msgstr "Lúibíní Cearnacha"
 
 #: smres.src#RID_TOOLBOXWINDOW.7.RID_LRDBRACKETX.toolboxitem.text
 msgid "Double Square Brackets"
-msgstr ""
+msgstr "Lúibíní Dúbailte Cearnacha"
 
 #: smres.src#RID_TOOLBOXWINDOW.7.RID_LRLINEX.toolboxitem.text
 msgid "Single Lines"
-msgstr ""
+msgstr "Línte Aonair"
 
 #: smres.src#RID_TOOLBOXWINDOW.7.RID_LRDLINEX.toolboxitem.text
 msgid "Double Lines"
-msgstr ""
+msgstr "Línte Dúbailte"
 
 #: smres.src#RID_TOOLBOXWINDOW.7.RID_LRBRACEX.toolboxitem.text
 msgid "Braces"
@@ -73047,7 +73057,7 @@ msgstr "Lúibíní Grúpa"
 
 #: smres.src#RID_TOOLBOXWINDOW.7.RID_SLRPARENTX.toolboxitem.text
 msgid "Round Brackets (Scalable)"
-msgstr ""
+msgstr "Lúibíní Cruinne (Inscálaithe)"
 
 #: smres.src#RID_TOOLBOXWINDOW.7.RID_SLRBRACKETX.toolboxitem.text
 msgid "Square Brackets (Scalable)"
@@ -73055,15 +73065,15 @@ msgstr "Lúibíní Cearnacha (Inscálaithe)"
 
 #: smres.src#RID_TOOLBOXWINDOW.7.RID_SLRDBRACKETX.toolboxitem.text
 msgid "Double Square Brackets (Scalable)"
-msgstr ""
+msgstr "Lúibíní Dúbailte Cearnacha (Inscálaithe)"
 
 #: smres.src#RID_TOOLBOXWINDOW.7.RID_SLRLINEX.toolboxitem.text
 msgid "Single Lines (Scalable)"
-msgstr ""
+msgstr "Línte Aonair (Inscálaithe)"
 
 #: smres.src#RID_TOOLBOXWINDOW.7.RID_SLRDLINEX.toolboxitem.text
 msgid "Double Lines (Scalable)"
-msgstr ""
+msgstr "Línte Dúbailte (Inscálaithe)"
 
 #: smres.src#RID_TOOLBOXWINDOW.7.RID_SLRBRACEX.toolboxitem.text
 msgid "Braces (Scalable)"
@@ -73147,7 +73157,7 @@ msgstr "Ailínigh Ar Dheis"
 
 #: smres.src#RID_TOOLBOXWINDOW.8.RID_MATRIX.toolboxitem.text
 msgid "Matrix Stack"
-msgstr ""
+msgstr "Cruach de Maitrísí"
 
 #: smres.src#RID_TOOLBOXWINDOW.8.RID_BLANK.toolboxitem.text
 msgid ""
@@ -73175,7 +73185,7 @@ msgstr "Is Ann"
 
 #: smres.src#RID_TOOLBOXWINDOW.9.RID_FORALL.toolboxitem.text
 msgid "For All"
-msgstr ""
+msgstr "Cainníochtóir Uilíoch"
 
 #: smres.src#RID_TOOLBOXWINDOW.9.RID_HBAR.toolboxitem.text
 msgid "h Bar"
@@ -73342,11 +73352,11 @@ msgstr "Dath de dhíth"
 
 #: smres.src#RID_ERR_LPARENTEXPECTED.string.text
 msgid "Left limit expected"
-msgstr ""
+msgstr "Bhíothas ag súil le teorainn ar chlé"
 
 #: smres.src#RID_ERR_RPARENTEXPECTED.string.text
 msgid "Right limit expected"
-msgstr ""
+msgstr "Bhíothas ag súil le teorainn ar dheis"
 
 #: smres.src#RID_ERR_RIGHTEXPECTED.string.text
 msgid "'RIGHT' expected"
@@ -73574,7 +73584,7 @@ msgstr "eilimint"
 
 #: symbol.src#RID_UI_SYMBOL_NAMES.56.itemlist.text
 msgid "noelement"
-msgstr "níeilimint"
+msgstr "ganeilimint"
 
 #: symbol.src#RID_UI_SYMBOL_NAMES.57.itemlist.text
 msgid "strictlylessthan"
@@ -73608,7 +73618,7 @@ msgstr "uillinn"
 
 #: symbol.src#RID_UI_SYMBOL_NAMES.64.itemlist.text
 msgid "perthousand"
-msgstr ""
+msgstr "samhíle"
 
 #: symbol.src#RID_UI_SYMBOL_NAMES.65.itemlist.text
 #: accessibility.src#RID_SVXSTR_A11Y_AND.string.text
@@ -73637,7 +73647,7 @@ msgstr "Méid"
 
 #: fileview.src#STR_SVT_FILEVIEW_COLUMN_DATE.string.text
 msgid "Date modified"
-msgstr ""
+msgstr "Dáta athraithe"
 
 #: fileview.src#STR_SVT_FILEVIEW_COLUMN_TYPE.string.text
 msgid ""
@@ -73814,7 +73824,7 @@ msgstr "Foghrach (alfa-uimhriúil ar dtús)"
 
 #: ctrlbox.src#STR_SVT_COLLATE_PHONETIC_L.string.text
 msgid "Phonetic (alphanumeric last)"
-msgstr ""
+msgstr "Foghrach (alfa-uimhriúil ar deireadh)"
 
 #: ctrlbox.src#STR_SVT_INDEXENTRY_ALPHANUMERIC.string.text
 msgid ""
@@ -73858,15 +73868,15 @@ msgstr "Foghrach (alfa-uimhriúil ar dtús, grúpáilte de réir siollaí)"
 
 #: ctrlbox.src#STR_SVT_INDEXENTRY_PHONETIC_FC.string.text
 msgid "Phonetic (alphanumeric first, grouped by consonants)"
-msgstr ""
+msgstr "Foghrach (alfa-uimhriúil ar dtús, grúpáilte de réir consan)"
 
 #: ctrlbox.src#STR_SVT_INDEXENTRY_PHONETIC_LS.string.text
 msgid "Phonetic (alphanumeric last, grouped by syllables)"
-msgstr ""
+msgstr "Foghrach (alfa-uimhriúil ar deireadh, grúpáilte de réir siollaí)"
 
 #: ctrlbox.src#STR_SVT_INDEXENTRY_PHONETIC_LC.string.text
 msgid "Phonetic (alphanumeric last, grouped by consonants)"
-msgstr ""
+msgstr "Foghrach (alfa-uimhriúil ar deireadh, grúpáilte de réir consan)"
 
 #: ctrltool.src#STR_SVT_STYLE_LIGHT_ITALIC.string.text
 msgid "Light Italic"
@@ -73882,7 +73892,7 @@ msgstr "Iodálach Dubh"
 
 #: ctrltool.src#STR_SVT_FONTMAP_BOTH.string.text
 msgid "The same font will be used on both your printer and your screen."
-msgstr ""
+msgstr "Úsáidfear an cló céanna ar do phrintéir agus ar do scáileán."
 
 #: ctrltool.src#STR_SVT_FONTMAP_PRINTERONLY.string.text
 msgid "This is a printer font. The screen image may differ."
