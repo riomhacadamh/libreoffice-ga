@@ -36623,7 +36623,7 @@ msgid "Authentication request"
 msgstr "Iarratas fíordheimhnithe"
 
 #: readme.xrm#ooo_readme.Welcome.A2.a.readmeitem.text
-msgid "Last updated $Date: 2006-03-20 20:42:53 $"
+msgid "Last updated $Date: 2006-03-20 23:28:33 $"
 msgstr ""
 
 #: readme.xrm#ooo_readme.Welcome.A3.a.readmeitem.text
@@ -36712,7 +36712,7 @@ msgid ""
 msgstr ""
 "Tá sé de rún daingean ag Sun Microsystems aird a thabhairt ar do "
 "phríobháideachas ar líne agus aithnítear an gá atá agat le cosaint agus "
-"bainistíocht chuí d'eolas ar bith atá inaitheanta go pearsanta agus a "
+"bainisteoireacht chuí d'eolas ar bith atá inaitheanta go pearsanta agus a "
 "roinntear linn. Feic an ráiteas is déanaí maidir le do phríobháideachas ar "
 "líne ag Sun Microsystems ag http://www.sun.com/privacy/."
 
