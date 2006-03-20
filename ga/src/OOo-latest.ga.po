@@ -23882,7 +23882,7 @@ msgstr "Smeach Réad go Cothrománach"
 
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Commands..uno_ShowPrecedents.Label.value.text
 msgid "Trace ~Precedents"
-msgstr ""
+msgstr "Lorg Réamhsham~plaí"
 
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Commands..uno_ResetAttributes.Label.value.text
 msgid ""
@@ -23893,11 +23893,11 @@ msgstr "Formáidiú ~Réamhshocraithe"
 
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Commands..uno_ClearArrowPrecedents.Label.value.text
 msgid "~Remove Precedents"
-msgstr ""
+msgstr "Bain ~Réamhshamplaí"
 
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Commands..uno_ShowDependents.Label.value.text
 msgid "~Trace Dependents"
-msgstr ""
+msgstr "~Lorg Spleáchóga"
 
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Commands..uno_SplitWindow.Label.value.text
 msgid ""
@@ -23908,7 +23908,7 @@ msgstr "~Roinn"
 
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Commands..uno_ClearArrowDependents.Label.value.text
 msgid "Remove ~Dependents"
-msgstr ""
+msgstr "Bain ~Spleáchóga"
 
 # Fiontar, etc.
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Commands..uno_FreezePanes.Label.value.text
@@ -23917,7 +23917,7 @@ msgstr "~Reoigh"
 
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Commands..uno_ShowErrors.Label.value.text
 msgid "Trace ~Error"
-msgstr ""
+msgstr "Lorg ~Earráid"
 
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Commands..uno_DrawChart.Label.value.text
 msgid "Insert Chart"
@@ -23938,11 +23938,11 @@ msgstr "~Marcáil Sonraí Neamhbhailí"
 
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Commands..uno_RefreshArrows.Label.value.text
 msgid "Refresh Tra~ces"
-msgstr ""
+msgstr "Athnuaigh Loir~g"
 
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Commands..uno_AutoRefreshArrows.Label.value.text
 msgid "A~utoRefresh"
-msgstr ""
+msgstr "~Uath-Athnuaigh"
 
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Commands..uno_ChooseDesign.Label.value.text
 msgid "Choose Themes"
@@ -24054,18 +24054,18 @@ msgstr "Iontráil Tagairtí"
 
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Commands..uno_StatusSelectionModeExp.Label.value.text
 msgid "Status Expanded Selection"
-msgstr ""
+msgstr "Stádas an Roghnaithe Fairsingithe"
 
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Commands..uno_StatusSelectionModeExt.Label.value.text
 msgid "Status Extended Selection"
-msgstr ""
+msgstr "Stádas an Roghnaithe Breisithe"
 
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Commands..uno_GoLeftBlock.Label.value.text
 msgid ""
 "_: CalcCommands.xcu#..CalcCommands.UserInterface.Commands..uno_GoLeftBlock."
 "Label.value.text\n"
 "Page Left"
-msgstr ""
+msgstr "Brúigh Leathanach ar Chlé"
 
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Commands..uno_GoRightBlock.Label.value.text
 msgid "Page Right"
@@ -24073,27 +24073,27 @@ msgstr "Ar Dheis"
 
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Commands..uno_GoRightBlockSel.Label.value.text
 msgid "Select to Page Right"
-msgstr ""
+msgstr "Roghnaigh chun an Leathanach a bhrú ar Dheis"
 
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Commands..uno_GoUpToStartOfData.Label.value.text
 msgid "To Upper Block Margin"
-msgstr ""
+msgstr "Go dtí Imeall an Bhloic Uachtair"
 
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Commands..uno_GoDownToEndOfData.Label.value.text
 msgid "To Lower Block Margin"
-msgstr ""
+msgstr "Go dtí Imeall an Bhloic Íochtair"
 
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Commands..uno_GoLeftToStartOfData.Label.value.text
 msgid "To Left Block Margin"
-msgstr ""
+msgstr "Go dtí Imeall an Bhloic ar Chlé"
 
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Commands..uno_GoRightToEndOfData.Label.value.text
 msgid "To Right Block Margin"
-msgstr ""
+msgstr "Go dtí Imeall an Bhloic ar Dheis"
 
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Commands..uno_GoUpToStartOfDataSel.Label.value.text
 msgid "Select to Upper Block Margin"
-msgstr ""
+msgstr "Roghnaigh go dtí Imeall an Bhloic Uachtair"
 
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Commands..uno_DataConsolidate.Label.value.text
 msgid "~Consolidate..."
@@ -24101,7 +24101,7 @@ msgstr "~Daingnigh..."
 
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Commands..uno_GoDownToEndOfDataSel.Label.value.text
 msgid "Select to Lower Block Margin"
-msgstr ""
+msgstr "Roghnaigh go dtí Imeall an Bhloic Íochtair"
 
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Commands..uno_DataDataPilotRun.Label.value.text
 #: popup.src#RID_POPUP_PIVOT.SID_OPENDLG_PIVOTTABLE.menuitem.text
@@ -24110,7 +24110,7 @@ msgstr "To~saigh..."
 
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Commands..uno_GoLeftToStartOfDataSel.Label.value.text
 msgid "Select to Left Block Margin"
-msgstr ""
+msgstr "Roghnaigh go dtí Imeall an Bhloic ar Chlé"
 
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Commands..uno_FunctionDialog.Label.value.text
 msgid "~Function..."
@@ -24118,11 +24118,11 @@ msgstr "~Feidhm..."
 
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Commands..uno_GoRightToEndOfDataSel.Label.value.text
 msgid "Select to Right Block Margin"
-msgstr ""
+msgstr "Roghnaigh go dtí Imeall an Bhloic ar Dheis"
 
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Commands..uno_GoalSeekDialog.Label.value.text
 msgid "~Goal Seek..."
-msgstr ""
+msgstr "Cuardach i dtreo ~Sprice..."
 
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Commands..uno_JumpToNextTable.Label.value.text
 msgid "To Next Sheet"
@@ -24130,7 +24130,7 @@ msgstr "Go dtí an Chéad Bhileog Eile"
 
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Commands..uno_TableOperationDialog.Label.value.text
 msgid "~Multiple Operations..."
-msgstr ""
+msgstr "Oibríochtaí ~Iolracha..."
 
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Commands..uno_JumpToPrevTable.Label.value.text
 msgid "To Previous Sheet"
@@ -24157,7 +24157,7 @@ msgstr "Roghnaigh Colún"
 
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Commands..uno_StarChartDataDialog.Label.value.text
 msgid "Modify Chart Data Area"
-msgstr ""
+msgstr "Mionathraigh Limistéar Sonraí na Cairte"
 
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Commands..uno_SelectRow.Label.value.text
 msgid "Select Row"
@@ -24169,7 +24169,7 @@ msgstr "Formáidiú C~oinníollach..."
 
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Commands..uno_Deselect.Label.value.text
 msgid "Undo Selection"
-msgstr ""
+msgstr "Cealaigh an Roghnú"
 
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Commands..uno_GoToCurrentCell.Label.value.text
 msgid "To Current Cell"
@@ -24177,7 +24177,7 @@ msgstr "Go dtí an Chill Reatha"
 
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Commands..uno_SelectData.Label.value.text
 msgid "Select Data Area"
-msgstr ""
+msgstr "Roghnaigh Limistéar Sonraí"
 
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Commands..uno_SetInputMode.Label.value.text
 msgid "Set Input Mode"
@@ -24190,7 +24190,7 @@ msgstr "Scrios an tÁbhar"
 
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Commands..uno_AutoFill.Label.value.text
 msgid "AutoFill Data Series: automatic"
-msgstr ""
+msgstr "UathLíon Sraith Sonraí: uathoibríoch"
 
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Commands..uno_Cancel.Label.value.text
 msgid ""
@@ -24201,7 +24201,7 @@ msgstr "Cealaigh"
 
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Commands..uno_SelectArrayFormula.Label.value.text
 msgid "Select Array Formula"
-msgstr ""
+msgstr "Roghnaigh Foirmle Eagair"
 
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Commands..uno_JumpToNextTableSel.Label.value.text
 msgid "Select to Next Sheet"
@@ -24246,7 +24246,7 @@ msgstr "Greamú ~Speisialta..."
 
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Commands..uno_DataSelect.Label.value.text
 msgid "Selection List"
-msgstr ""
+msgstr "Liosta Roghnaithe"
 
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Commands..uno_DeleteCell.Label.value.text
 msgid "Delete C~ells..."
@@ -24376,7 +24376,7 @@ msgstr "G~náth"
 
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Commands..uno_PagebreakMode.Label.value.text
 msgid "~Page Break Preview"
-msgstr ""
+msgstr "Réamhamharc ar Bhriseadh ~Leathanaigh"
 
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Commands..uno_FunctionBox.Label.value.text
 msgid "F~unction List"
@@ -24388,11 +24388,11 @@ msgstr "~Athnuaigh Raon"
 
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Commands..uno_FocusCellAddress.Label.value.text
 msgid "Sheet Area Input Field"
-msgstr ""
+msgstr "Réimse Ionchuir Limistéir na mBileog"
 
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Commands..uno_UnderlineNone.Label.value.text
 msgid "Underline: Off"
-msgstr ""
+msgstr "Folíne: Múchtha"
 
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Commands..uno_UnderlineSingle.Label.value.text
 msgid "Underline: Single"
@@ -24634,7 +24634,7 @@ msgstr "Leithead Optamach Colúin, díreach"
 
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Commands..uno_AutomaticCalculation.Label.value.text
 msgid "Auto~Calculate"
-msgstr ""
+msgstr "~Uatháirigh"
 
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Commands..uno_Calculate.Label.value.text
 msgid "~Recalculate"
@@ -24676,7 +24676,7 @@ msgstr "~Scrios"
 
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Commands..uno_CalculateHard.Label.value.text
 msgid "Recalculate Hard"
-msgstr ""
+msgstr "~Atháirigh go Crua"
 
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Commands..uno_AutoComplete.Label.value.text
 msgid "~AutoInput"
@@ -24716,7 +24716,7 @@ msgstr "Fo-iom~láin..."
 
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Commands..uno_AutoOutline.Label.value.text
 msgid "~AutoOutline"
-msgstr ""
+msgstr "Uath~Imlínigh"
 
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Commands..uno_DataImport.Label.value.text
 msgid "Import Data"
@@ -24728,7 +24728,7 @@ msgstr "Athnuaigh Iompórtáil Sonraí"
 
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Commands..uno_DataFilterHideAutoFilter.Label.value.text
 msgid "~Hide AutoFilter"
-msgstr ""
+msgstr "~Folaigh UathScagaire"
 
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Commands..uno_SortDescending.Label.value.text
 msgid ""
@@ -24816,7 +24816,7 @@ msgstr "Roghnaigh Cnámhscéal"
 
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Commands..uno_UpdateChart.Label.value.text
 msgid "Redraw Chart"
-msgstr ""
+msgstr "Atarraing Cairt"
 
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Commands..uno_ToggleAnchorType.Label.value.text
 msgid ""
@@ -24933,7 +24933,7 @@ msgstr "Líon"
 
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Popups..uno_CellContentsMenu.Label.value.text
 msgid "Cell Co~ntents"
-msgstr ""
+msgstr "I~nneachar Cealla"
 
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Popups..uno_NamesMenu.Label.value.text
 msgid "~Names"
@@ -25775,7 +25775,7 @@ msgstr "~Cleacht Amuithe"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_Dia.Label.value.text
 msgid "SlideTransition"
-msgstr ""
+msgstr "Trasdul Sleamhnáin"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_HideSlide.Label.value.text
 msgid "~Show/Hide Slide"
@@ -25794,11 +25794,11 @@ msgstr "Sleamhnáin Sa Ró"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_TextFitToSizeTool.Label.value.text
 msgid "Fit Text to Frame"
-msgstr ""
+msgstr "Oiriúnaigh Téacs don Fhráma"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_VerticalTextFitToSizeTool.Label.value.text
 msgid "Fit Vertical Text to Frame"
-msgstr ""
+msgstr "Oiriúnaigh Téacs Ingearach don Fhráma"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_Objects3DToolbox.Label.value.text
 #: tbx_ww.src#RID_3D_OBJECTS.floatingwindow.text
@@ -25838,31 +25838,31 @@ msgstr "Gliúphointe Coibhneasta"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_GlueEscapeDirection.Label.value.text
 msgid "Exit Direction"
-msgstr ""
+msgstr "Treo Scoir"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_GlueHorzAlignCenter.Label.value.text
 msgid "Glue Point Horizontal Center"
-msgstr ""
+msgstr "GliúPhointe don Lár Cothrománach"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_GlueHorzAlignLeft.Label.value.text
 msgid "Glue Point Horizontal Left"
-msgstr ""
+msgstr "GliúPhointe don Taobh Clé Cothrománach"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_GlueHorzAlignRight.Label.value.text
 msgid "Glue Point Horizontal Right"
-msgstr ""
+msgstr "GliúPhointe don Taobh Deis Cothrománach"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_GlueVertAlignCenter.Label.value.text
 msgid "Glue Point Vertical Center"
-msgstr ""
+msgstr "GliúPhointe don Lár Ingearach"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_GlueVertAlignTop.Label.value.text
 msgid "Glue Point Vertical Top"
-msgstr ""
+msgstr "GliúPhointe don Bharr Ingearach"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_GlueVertAlignBottom.Label.value.text
 msgid "Glue Point Vertical Bottom"
-msgstr ""
+msgstr "GliúPhointe don Bhun Ingearach"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_Shell3D.Label.value.text
 msgid "Shell"
@@ -25878,19 +25878,19 @@ msgstr "Leathsféar"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_GlueEscapeDirectionLeft.Label.value.text
 msgid "Exit Direction Left"
-msgstr ""
+msgstr "Scoir Treo Clé"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_GlueEscapeDirectionRight.Label.value.text
 msgid "Exit Direction Right"
-msgstr ""
+msgstr "Scoir Treo Deis"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_GlueEscapeDirectionTop.Label.value.text
 msgid "Exit Direction Top"
-msgstr ""
+msgstr "Scoir Treo Barr"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_GlueEscapeDirectionBottom.Label.value.text
 msgid "Exit Direction Bottom"
-msgstr ""
+msgstr "Scoir Treo Bun"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_InsertToolbox.Label.value.text
 msgid ""
@@ -25911,7 +25911,7 @@ msgstr "Toi~sí..."
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_GridFront.Label.value.text
 #: menuids_tmpl.src#MN_GRID_FRONT.SID_GRID_FRONT.menuitem.text
 msgid "Grid to ~Front"
-msgstr ""
+msgstr "Greille chun Tosaigh"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_HelplinesVisible.Label.value.text
 msgid "~Display Guides"
@@ -25919,7 +25919,7 @@ msgstr "~Treoracha Taispeána"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_HelplinesFront.Label.value.text
 msgid "Guides to ~Front"
-msgstr ""
+msgstr "Treoracha chun Tosaigh"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_BeforeObject.Label.value.text
 msgid "In Front of ~Object"
@@ -25941,7 +25941,7 @@ msgstr "Scéimeanna Beochana..."
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_SlideChangeWindow.Label.value.text
 msgid "Slide Transition..."
-msgstr ""
+msgstr "Trasdul Sleamhnáin..."
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_ConnectorAttributes.Label.value.text
 msgid "~Connector..."
@@ -25999,15 +25999,15 @@ msgstr "Máistird~háileán"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_NotesMasterPage.Label.value.text
 msgid "~Notes Master"
-msgstr ""
+msgstr "Máistirchóip ~Nótaí"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_TitleMasterPage.Label.value.text
 msgid "~Title Slide Master"
-msgstr ""
+msgstr "Teideal an Mháistirshleamhnáin"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_InsertPageQuick.Label.value.text
 msgid "Insert Slide Direct"
-msgstr ""
+msgstr "Ionsáigh an Sleamhnán go Díreach"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_InsertDateFieldVar.Label.value.text
 #: menuids2_tmpl.src#MN_INSERT_FLD_DATE_VAR.SID_INSERT_FLD_DATE_VAR.menuitem.text
@@ -26353,7 +26353,7 @@ msgstr "Luas Trasdulta"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_DiaAuto.Label.value.text
 msgid "AutoTransition"
-msgstr ""
+msgstr "UathTrasdul"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_Connector.Label.value.text
 msgid ""
@@ -26381,7 +26381,7 @@ msgstr "D~earadh Sleamhnáin..."
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_NotesMode.Label.value.text
 msgid "Notes ~Page"
-msgstr ""
+msgstr "~Leathanach Nótaí"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_HandoutMode.Label.value.text
 msgid "H~andout Page"
@@ -26412,15 +26412,15 @@ msgstr "Sleamhnán/Sraith"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_CrookRotate.Label.value.text
 msgid "Set in Circle (perspective)"
-msgstr ""
+msgstr "Cuir i gCiorcal (peirspictíocht)"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_CrookSlant.Label.value.text
 msgid "Set to circle (slant)"
-msgstr ""
+msgstr "Cuir i gCiorcal (ar fiar)"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_CrookStretch.Label.value.text
 msgid "Set in Circle (distort)"
-msgstr ""
+msgstr "Cuir i gCiorcal (camtha)"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_Connect.Label.value.text
 #: menuids_tmpl.src#MN_CONNECT.SID_CONNECT.menuitem.text
@@ -26462,11 +26462,11 @@ msgstr "D~roim ar ais"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_ConnectorArrowStart.Label.value.text
 msgid "Connector Starts with Arrow"
-msgstr ""
+msgstr "Nascóir ag Tosnú le Saighead"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_ConnectorArrowEnd.Label.value.text
 msgid "Connector Ends with Arrow"
-msgstr ""
+msgstr "Nascóir ag Críochnú le Saighead"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_ConnectorArrows.Label.value.text
 msgid "Connector with Arrows"
@@ -26474,11 +26474,11 @@ msgstr "Nascóir le Saigheada"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_ConnectorCircleStart.Label.value.text
 msgid "Connector Starts with Circle"
-msgstr ""
+msgstr "Nascóir ag Tosnú le Ciorcal"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_ConnectorCircleEnd.Label.value.text
 msgid "Connector Ends with Circle"
-msgstr ""
+msgstr "Nascóir ag Críochnú le Ciorcal"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_ConnectorCircles.Label.value.text
 msgid "Connector with Circles"
@@ -26505,7 +26505,7 @@ msgstr "Dronuilleog"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_ConnectorLineArrowStart.Label.value.text
 msgid "Straight Connector starts with Arrow"
-msgstr ""
+msgstr "Nascóir Díreach ag Tosnú le Saighead"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_EllipseToolbox.Label.value.text
 msgid ""
@@ -26516,7 +26516,7 @@ msgstr "Éilips"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_ConnectorLineArrowEnd.Label.value.text
 msgid "Straight Connector ends with Arrow"
-msgstr ""
+msgstr "Nascóir Díreach ag Críochnú le Saighead"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_LineToolbox.Label.value.text
 msgid ""
@@ -26527,15 +26527,15 @@ msgstr "Cuar"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_ConnectorLineArrows.Label.value.text
 msgid "Straight Connector with Arrows"
-msgstr ""
+msgstr "Nascóir Díreach le Saigheada"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_ConnectorLineCircleStart.Label.value.text
 msgid "Straight Connector starts with Circle"
-msgstr ""
+msgstr "Nascóir Díreach ag Tosnú le Ciorcal"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_ConnectorLineCircleEnd.Label.value.text
 msgid "Straight Connector ends with Circle"
-msgstr ""
+msgstr "Nascóir Díreach ag Críochnú le Ciorcal"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_ConnectorLineCircles.Label.value.text
 msgid "Straight Connector with Circles"
@@ -26548,11 +26548,11 @@ msgstr "Nascóir Cuartha"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_ConnectorCurveArrowStart.Label.value.text
 msgid "Curved Connector Starts with Arrow"
-msgstr ""
+msgstr "Nascóir Lúbtha ag Tosnú le Saighead"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_ConnectorCurveArrowEnd.Label.value.text
 msgid "Curved Connector Ends with Arrow"
-msgstr ""
+msgstr "Nascóir Lúbtha ag Críochnú le Saighead"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_ConnectorCurveArrows.Label.value.text
 msgid "Curved Connector with Arrows"
@@ -26560,11 +26560,11 @@ msgstr "Nascóir Cuartha le Saigheada"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_ConnectorCurveCircleStart.Label.value.text
 msgid "Curved Connector Starts with Circle"
-msgstr ""
+msgstr "Nascóir Lúbtha ag Tosnú le Ciorcal"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_ConnectorCurveCircleEnd.Label.value.text
 msgid "Curved Connector Ends with Circle"
-msgstr ""
+msgstr "Nascóir Lúbtha ag Críochnú le Ciorcal"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_ConnectorCurveCircles.Label.value.text
 msgid "Curved Connector with Circles"
@@ -26578,11 +26578,11 @@ msgstr "Nascóir Líne"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_ConnectorLinesArrowStart.Label.value.text
 msgid "Line Connector Starts with Arrow"
-msgstr ""
+msgstr "Nascóir Líne ag Tosnú le Saighead"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_ConnectorLinesArrowEnd.Label.value.text
 msgid "Line Connector Ends with Arrow"
-msgstr ""
+msgstr "Nascóir Líne ag Críochnú le Saighead"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_ConnectorLinesArrows.Label.value.text
 msgid "Line Connector with Arrows"
@@ -26590,11 +26590,11 @@ msgstr "Nascóir Líne le Saigheada"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_ConnectorLinesCircleStart.Label.value.text
 msgid "Line Connector Starts with Circle"
-msgstr ""
+msgstr "Nascóir Líne ag Tosnú le Ciorcal"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_ConnectorLinesCircleEnd.Label.value.text
 msgid "Line Connector Ends with Circle"
-msgstr ""
+msgstr "Nascóir Líne ag Críochnú le Ciorcal"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_ConnectorLinesCircles.Label.value.text
 msgid "Line Connector with Circles"
@@ -26602,7 +26602,7 @@ msgstr "Nascóir Líne le Ciorcail"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_GraphicDraft.Label.value.text
 msgid "Picture Placeholders"
-msgstr ""
+msgstr "Ionadaithe Pictiúir"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_FillDraft.Label.value.text
 msgid "Contour Mode"
@@ -26618,7 +26618,7 @@ msgstr "Comhrian Amháin"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_HandlesDraft.Label.value.text
 msgid "Simple Handles"
-msgstr ""
+msgstr "Hanlaí Simplí"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_SolidCreate.Label.value.text
 msgid "Create Object with Attributes"
@@ -26626,19 +26626,19 @@ msgstr "Cruthaigh Réad le Tréithe"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_HelplinesUse.Label.value.text
 msgid "~Snap to Guides"
-msgstr ""
+msgstr "~Léim go Treoracha"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_SnapBorder.Label.value.text
 msgid "Snap to Page Margins"
-msgstr ""
+msgstr "Léim go hImill an Leathanaigh"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_SnapFrame.Label.value.text
 msgid "Snap to Object Border"
-msgstr ""
+msgstr "Léim go hImlíne an Réada"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_SnapPoints.Label.value.text
 msgid "Snap to Object Points"
-msgstr ""
+msgstr "Léim go Pointí an Réada"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_QuickEdit.Label.value.text
 msgid "Allow Quick Editing"
@@ -26646,15 +26646,15 @@ msgstr "Ceadaigh Eagarthóireacht Tapa"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_PickThrough.Label.value.text
 msgid "Select Text Area Only"
-msgstr ""
+msgstr "Roghnaigh Limistéar Téacs Amháin"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_ConvertTo1BitThreshold.Label.value.text
 msgid "1 Bit Threshold"
-msgstr ""
+msgstr "Tairseach 1 Giotáin"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_ConvertTo1BitMatrix.Label.value.text
 msgid "1 Bit Dithered"
-msgstr ""
+msgstr "1 Giotán Díodánach"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_ConvertTo4BitGrays.Label.value.text
 msgid "4 Bit grayscales"
@@ -26686,7 +26686,7 @@ msgstr "Déchliceáil chun Téacs a chur in eagar"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_ClickChangeRotation.Label.value.text
 msgid "Rotation Mode after Clicking Object"
-msgstr ""
+msgstr "Mód Rothlaithe tar éis Cliceáil ar Réad"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_ArrowsToolbox.Label.value.text
 msgid "Lines and Arrows"
@@ -26694,15 +26694,15 @@ msgstr "Línte agus Saigheada"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_LineArrowStart.Label.value.text
 msgid "Line Starts with Arrow"
-msgstr ""
+msgstr "Tosaíonn an Líne le Saighead"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_LineArrowEnd.Label.value.text
 msgid "Line Ends with Arrow"
-msgstr ""
+msgstr "Críochnaíonn an Líne le Saighead"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_LineArrows.Label.value.text
 msgid "Line with Arrows"
-msgstr ""
+msgstr "Líne le Saigheada"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_LineArrowCircle.Label.value.text
 msgid "Line with Arrow/Circle"
@@ -26741,7 +26741,7 @@ msgstr "Athainmnigh Máistir"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_CloseMasterView.Label.value.text
 msgid "Close Master View"
-msgstr ""
+msgstr "Dún an Máistiramharc"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Popups..uno_ModifyMenu.Label.value.text
 #: cfg.src#PUSHBUTTON_TEXT_CHANGE.#define.text
@@ -26833,7 +26833,7 @@ msgstr "~Máistir"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Popups..uno_MasterLayoutsMenu.Label.value.text
 msgid "Master Lay~outs"
-msgstr ""
+msgstr "Leagan ~Amach na Máistircháipéisí"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Popups..uno_MasterLayouts.Label.value.text
 msgid "Master ~Elements..."
@@ -26841,11 +26841,11 @@ msgstr "Máistir~eilimintí..."
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Popups..uno_MasterLayoutsNotes.Label.value.text
 msgid "Notes Master Layout..."
-msgstr ""
+msgstr "Leagan Amach na Máistirchóipe Nótaí..."
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Popups..uno_MasterLayoutsHandouts.Label.value.text
 msgid "Handout Master Layout..."
-msgstr ""
+msgstr "Leagan Amach an Mháistirdháileáin..."
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Popups..uno_HeaderAndFooter.Label.value.text
 msgid "~Header and Footer..."
@@ -26875,11 +26875,11 @@ msgstr "Sór~tálaí Sleamhnán"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Popups..uno_LeftPaneImpress.Label.value.text
 msgid "S~lide Pane"
-msgstr ""
+msgstr "Pána S~leamhnáin"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Popups..uno_LeftPaneDraw.Label.value.text
 msgid "~Page Pane"
-msgstr ""
+msgstr "~Pána Leathanaigh"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Popups..uno_RightPane.Label.value.text
 msgid "Tas~k Pane"
@@ -31021,7 +31021,7 @@ msgid ""
 "_: GenericCommands.xcu#..GenericCommands.UserInterface.Commands.."
 "uno_GoLeftBlock.Label.value.text\n"
 "Page Left"
-msgstr ""
+msgstr "Brúigh Leathanach ar Chlé"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_FrameSpacing.Label.value.text
 msgid "FrameSet Spacing"
@@ -36623,7 +36623,7 @@ msgid "Authentication request"
 msgstr "Iarratas fíordheimhnithe"
 
 #: readme.xrm#ooo_readme.Welcome.A2.a.readmeitem.text
-msgid "Last updated $Date: 2006-03-16 16:50:59 $"
+msgid "Last updated $Date: 2006-03-20 20:42:53 $"
 msgstr ""
 
 #: readme.xrm#ooo_readme.Welcome.A3.a.readmeitem.text
