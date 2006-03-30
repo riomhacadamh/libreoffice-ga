@@ -7,8 +7,8 @@ msgstr ""
 "Project-Id-Version: OOo\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2002-07-15 17:13+0100\n"
-"PO-Revision-Date: 2006-02-22 15:40-0000\n"
-"Last-Translator: Pat Folan <pat.folan@gmit.ie>\n"
+"PO-Revision-Date: 2006-03-26 12:14-0500\n"
+"Last-Translator: Brian Ó Broin <brianeannaNOSPAMM@NOSPAMMhotmail.com>\n"
 "Language-Team: Irish <ga@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=ISO-8859-1\n"
@@ -7808,7 +7808,7 @@ msgstr "Athdhéan:"
 
 #: dbumiscres.src#STR_UNKNOWN_TYPE_FOUND.string.text
 msgid "No corresponding column type could be found for column '#1'."
-msgstr ""
+msgstr "Níorbh fhéidir cineál colúin comhfhreagrach a aimsiú do cholún '#1'"
 
 #: query.src#STR_QUERY_UNDO_TABWINSHOW.string.text
 msgid "Add Table Window"
@@ -9906,6 +9906,14 @@ msgid ""
 "Please note that the settings made on this page will take effect immediately "
 "upon leaving the page."
 msgstr ""
+"Faoi láthair, níl an fhoirm ar léi an rialtán ceangailte (nó ceangailte go "
+"hiomlán) le foinse sonraí.\n"
+"\n"
+"Roghnaigh foinse sonraí agus tábla.\n"
+"\n"
+"\n"
+"Tabhair faoi deara go gcuirfear i bhfeidhm na socruithe a rinneadh ar an "
+"leathanach seo chomh luath is a fhágfar an leathanach."
 
 #: commonpagesdbp.src#RID_PAGE_TABLESELECTION.FT_DATASOURCE.fixedtext.text
 msgid "~Data source:"
@@ -9932,7 +9940,7 @@ msgstr ""
 
 #: commonpagesdbp.src#RID_PAGE_OPTION_DBFIELD.RB_STOREINFIELD_NO.radiobutton.text
 msgid "~No, I only want to save the value in the form."
-msgstr ""
+msgstr "~Ní hea, níl mé ach ag iarraidh an luach sa bhfoirm a shábháil."
 
 #: commonpagesdbp.src#RID_PAGE_OPTION_DBFIELD.tabpage.text
 msgid "Database Field"
@@ -9947,7 +9955,7 @@ msgstr "Foinse sonraí"
 #: commonpagesdbp.src#RID_PAGE_FORM_DATASOURCE_STATUS.FT_FORMCONTENTTYPELABEL.fixedtext.text
 #: formres.src#RID_STR_CURSORSOURCETYPE.string.text
 msgid "Content type"
-msgstr ""
+msgstr "Cineál an inneachair"
 
 #: commonpagesdbp.src#RID_STR_TYPE_QUERY.string.text
 #: formres.src#RID_RSC_ENUM_COMMAND_TYPE.2.string.text
@@ -9960,23 +9968,23 @@ msgstr "Iarratas"
 
 #: dbpilots.src#RID_DLG_GROUPBOXWIZARD.modaldialog.text
 msgid "Group Element Wizard"
-msgstr ""
+msgstr "Draoi Ball na nGrúpaí"
 
 #: dbpilots.src#RID_DLG_GRIDWIZARD.modaldialog.text
 msgid "Table Element Wizard"
-msgstr ""
+msgstr "Draoi Ball na dTáblaí"
 
 #: dbpilots.src#RID_STR_LISTWIZARD_TITLE.string.text
 msgid "List Box Wizard"
-msgstr ""
+msgstr "Draoi Bhosca Liosta"
 
 #: dbpilots.src#RID_STR_COMBOWIZARD_TITLE.string.text
 msgid "Combo Box Wizard"
-msgstr ""
+msgstr "Draoi Bosca Teaglama"
 
 #: dbpilots.src#RID_STR_COULDNOTOPENTABLE.string.text
 msgid "The table connection to the data source could not be established."
-msgstr ""
+msgstr "Níorbh fhéidir an tábla a cheangailt le foinse na sonraí."
 
 #: gridpages.src#RID_PAGE_GW_FIELDSELECTION.FL_FRAME.fixedline.text
 msgid "Table element"
@@ -16752,15 +16760,15 @@ msgstr "Leathanach Gréasáin (Baile)"
 
 #: DataAccess.xcu#..DataAccess.DriverSettings.com.sun.star.comp.sdbc.MozabDriver.ColumnAliases.BirthYear.value.text
 msgid "Birth Year"
-msgstr ""
+msgstr "Bliain rugtha"
 
 #: DataAccess.xcu#..DataAccess.DriverSettings.com.sun.star.comp.sdbc.MozabDriver.ColumnAliases.BirthMonth.value.text
 msgid "Birth Month"
-msgstr ""
+msgstr "Mí Bhreithe"
 
 #: DataAccess.xcu#..DataAccess.DriverSettings.com.sun.star.comp.sdbc.MozabDriver.ColumnAliases.BirthDay.value.text
 msgid "Birth Day"
-msgstr ""
+msgstr "Lá Breithe"
 
 #: DataAccess.xcu#..DataAccess.DriverSettings.com.sun.star.comp.sdbc.MozabDriver.ColumnAliases.Custom1.value.text
 msgid "Custom 1"
@@ -36623,7 +36631,7 @@ msgid "Authentication request"
 msgstr "Iarratas fíordheimhnithe"
 
 #: readme.xrm#ooo_readme.Welcome.A2.a.readmeitem.text
-msgid "Last updated $Date: 2006-03-20 23:28:33 $"
+msgid "Last updated $Date: 2006-03-30 07:32:50 $"
 msgstr ""
 
 #: readme.xrm#ooo_readme.Welcome.A3.a.readmeitem.text
@@ -38233,7 +38241,7 @@ msgstr "Ag bun"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Randbetween.3.string.text
 msgid "The smallest integer returned"
-msgstr ""
+msgstr "An tslánuimhir ba lú a gineadh"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Randbetween.4.string.text
 #: pvfundlg.src#RID_SCDLG_DPSUBTOTAL_OPT.LB_SHOW_FROM.1.stringlist.text
@@ -38249,7 +38257,7 @@ msgstr "Ag barr"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Randbetween.5.string.text
 msgid "The largest integer returned"
-msgstr ""
+msgstr "An tslánuimhir ba mhó a gineadh"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Gcd.1.string.text
 msgid "Returns the greatest common divisor"
@@ -48912,7 +48920,7 @@ msgstr "Roghanna"
 
 #: dbnamdlg.src#RID_SCDLG_DBNAMES.BTN_HEADER.checkbox.text
 msgid "Co~ntains column labels"
-msgstr ""
+msgstr "~Tá lipéid cholúin ann"
 
 #: dbnamdlg.src#RID_SCDLG_DBNAMES.BTN_SIZE.checkbox.text
 msgid "Insert or delete ~cells"
@@ -71074,7 +71082,7 @@ msgstr "Monatóir Priontála"
 #: view.src#DLG_PRINTMONITOR.FT_PRINTING.fixedtext.text
 #: dbui.src#DLG_PRINTMONITOR.FT_PRINTING.fixedtext.text
 msgid "is being printed on"
-msgstr ""
+msgstr "á phriontáil ar"
 
 #: view.src#MSG_ERROR_SEND_MAIL.infobox.text
 msgid ""
@@ -99319,7 +99327,7 @@ msgstr "Tábla"
 #: addresslistdialog.src#DLG_MM_ADDRESSLISTDIALOG.ST_CONNECTING.string.text
 #: dbwizres.src#RID_DB_COMMON_START___34.string.text
 msgid "Connecting to data source..."
-msgstr ""
+msgstr "Ag ceangal le foinse na sonraí..."
 
 #: addresslistdialog.src#DLG_MM_ADDRESSLISTDIALOG.modaldialog.text
 msgid "Select Address List"
@@ -99452,7 +99460,7 @@ msgstr "Ionsáigh sonraí mar:"
 
 #: dbinsdlg.src#DLG_AP_INSERT_DB_SEL.FT_DB_COLUMN.fixedtext.text
 msgid "Database ~columns"
-msgstr ""
+msgstr "~Colúin an bhunachair sonraí"
 
 #: dbinsdlg.src#DLG_AP_INSERT_DB_SEL.RB_DBFMT_FROM_DB.radiobutton.text
 msgid "From ~database"
@@ -99464,15 +99472,15 @@ msgstr "~Stíl Ailt:"
 
 #: dbinsdlg.src#DLG_AP_INSERT_DB_SEL.FT_TABLE_COL.fixedtext.text
 msgid "Tab~le column(s)"
-msgstr ""
+msgstr "Colú(i)n Tábla"
 
 #: dbinsdlg.src#DLG_AP_INSERT_DB_SEL.CB_TABLE_HEADON.checkbox.text
 msgid "Insert table heading"
-msgstr ""
+msgstr "Ionsáigh ceannteideal an tábla"
 
 #: dbinsdlg.src#DLG_AP_INSERT_DB_SEL.RB_HEADL_COLNMS.radiobutton.text
 msgid "Apply column ~name"
-msgstr ""
+msgstr "Cuir i bhfeidhm ~ainm an cholúin"
 
 #: dbinsdlg.src#DLG_AP_INSERT_DB_SEL.RB_HEADL_EMPTY.radiobutton.text
 msgid "Create row only"
@@ -99490,11 +99498,11 @@ msgstr "UathFh~ormáidigh..."
 
 #: dbinsdlg.src#DLG_AP_INSERT_DB_SEL.modaldialog.text
 msgid "Insert Database Columns"
-msgstr ""
+msgstr "Ionsáigh colúin Bhunachar Sonraí"
 
 #: dbtablepreviewdialog.src#DLG_MM_DBTABLEPREVIEWDIALOG.FI_DESCRIPTION.fixedtext.text
 msgid "The list below shows the contents of: %1"
-msgstr ""
+msgstr "Taispeánann an liosta thíos inneachar de: %1"
 
 #: dbtablepreviewdialog.src#DLG_MM_DBTABLEPREVIEWDIALOG.PB_OK.okbutton.text
 msgid ""
@@ -99508,23 +99516,23 @@ msgstr "Faighteoirí Postchumaisc"
 
 #: dbui.src#DLG_DBSELECTION.modaldialog.text
 msgid "Database Selection"
-msgstr ""
+msgstr "Rogha Bhunachar Sonraí"
 
 #: dbui.src#DLG_PRINTMONITOR.FT_SENDING.fixedtext.text
 msgid "is being sent to"
-msgstr ""
+msgstr "Á sheoladh go dtí"
 
 #: dbui.src#DLG_PRINTMONITOR.STR_EMAILMON.string.text
 msgid "Send-Monitor"
-msgstr ""
+msgstr "Monatóir Seolta"
 
 #: dbui.src#DLG_PRINTMONITOR.modelessdialog.text
 msgid "Print monitor"
-msgstr ""
+msgstr "Monatóir Priontála"
 
 #: dbui.src#SA_ADDRESS_HEADER.4.itemlist.text
 msgid "Company Name"
-msgstr ""
+msgstr "Ainm an Chomhlachta"
 
 #: dbui.src#SA_ADDRESS_HEADER.5.itemlist.text
 msgid "Address Line 1"
@@ -99544,7 +99552,7 @@ msgstr "Teileafón príobháideach"
 
 #: dbui.src#SA_ADDRESS_HEADER.12.itemlist.text
 msgid "Telephone business"
-msgstr ""
+msgstr "Gnó Theileafóin"
 
 #: dbui.src#SA_ADDRESS_HEADER.13.itemlist.text
 msgid "E-mail Address"
@@ -99556,7 +99564,7 @@ msgstr "Gnéas"
 
 #: dbui.src#STR_NOTASSIGNED.string.text
 msgid " not yet matched "
-msgstr ""
+msgstr " níor meaitseáladh go fóill é "
 
 #: dbui.src#STR_FILTER_ALL_DATA.string.text
 msgid "Address lists(*.*)"
@@ -99584,7 +99592,7 @@ msgstr "Gnáth-théacs (*.txt)"
 
 #: dbui.src#STR_FILTER_CSV.string.text
 msgid "Text Comma Separated (*.csv)"
-msgstr ""
+msgstr "Téacs camóg-dheighilte (*.csv)"
 
 #: dbui.src#DLG_MM_CREATIONMONITOR.FT_PROGRESS.fixedtext.text
 #: schedule.src#sProgress.string.text
@@ -100540,6 +100548,8 @@ msgid ""
 "The file you have selected contains more than one table. Please select the "
 "table containing the address list you want to use."
 msgstr ""
+"Tá níos mó ná tábla amháin sa chomhad a roghnaigh tú. Roghnaigh an tábla ina "
+"bhfuil an liosta seoltaí atá uait, le do thoil."
 
 #: selectdbtabledialog.src#DLG_MM_SELECTDBTABLEDDIALOG.ST_NAME.string.text
 msgid ""
@@ -101766,6 +101776,11 @@ msgid ""
 "time. Multiple selection is possible in the list on the left.\n"
 "Use the browse button to select a database file."
 msgstr ""
+"Bain úsáid as an dialóg seo chun na bunachair sonraí a aimsíonn tú i do "
+"cháipéis trí réimsí bhunachair sonraí a athchur le bunachair sonraí eile. Ní "
+"ligtear níos mó ná athrú amháin san iarraidh, ach is féidir ilroghnú sa "
+"liosta ar chlé.\n"
+"Bain úsáid as an gcnaipe brabhsála chun comhad bunachair sonraí a roghnú."
 
 #: changedb.src#DLG_CHANGE_DB.FT_DOCDBTEXT.fixedtext.text
 msgid "Database applied to document:"
@@ -108416,42 +108431,56 @@ msgid ""
 "The text document could not be created.<BR>Please check if the module "
 "'PRODUCTNAME Writer' is installed."
 msgstr ""
+"Níorbh fhéidir an téacscháipéis a chruthú. <BR> Seiceáil go bhfuil an modúl "
+"'PRODUCTNAME Writer' suiteáilte."
 
 #: dbwizres.src#RID_COMMON_START___2.string.text
 msgid ""
 "The spreadsheet could not be created.<BR>Please check if the module "
 "'PRODUCTNAME Calc' is installed."
 msgstr ""
+"Níorbh fhéidir an scarbhileog a chruthú. <BR> Seiceáil go bhfuil an modúl "
+"'PRODUCTNAME Calc' suiteáilte."
 
 #: dbwizres.src#RID_COMMON_START___3.string.text
 msgid ""
 "The presentation could not be created.<BR>Please check if the module "
 "'PRODUCTNAME Impress' is installed."
 msgstr ""
+"Níorbh fhéidir an cur i láthair a chruthú. <BR> Seiceáil go bhfuil an modúl "
+"'PRODUCTNAME Impress' suiteáilte."
 
 #: dbwizres.src#RID_COMMON_START___4.string.text
 msgid ""
 "The drawing could not be created.<BR>Please check if the module 'PRODUCTNAME "
 "Draw' is installed."
 msgstr ""
+"Níorbh fhéidir an pictiúr a chruthú. <BR> Seiceáil go bhfuil an modúl "
+"'PRODUCTNAME Draw' suiteáilte."
 
 #: dbwizres.src#RID_COMMON_START___5.string.text
 msgid ""
 "The formula could not be created.<BR>Please check if the module 'PRODUCTNAME "
 "Math' is installed."
 msgstr ""
+"Níorbh fhéidir an fhoirmle a chruthú. <BR> Seiceáil go bhfuil an modúl "
+"'PRODUCTNAME Math' suiteáilte."
 
 #: dbwizres.src#RID_COMMON_START___6.string.text
 msgid ""
 "The files required could not be found.<BR>Please start the %PRODUCTNAME "
 "Setup and choose 'Repair'."
 msgstr ""
+"Níorbh fhéidir na comhaid chuí a aimsiú. <BR> Tosaigh an %PRODUCTNAME Setup "
+"agus roghnaigh 'Deisigh'."
 
 #: dbwizres.src#RID_COMMON_START___7.string.text
 msgid ""
 "The file '<PATH>' already exists.<BR><BR>Would you like to overwrite the "
 "existing file?"
 msgstr ""
+"Is ann don chomhad '<PATH>' cheana féin.<BR><BR>Ar mhaith leat an comhad atá "
+"ann a fhorscríobh?"
 
 #: dbwizres.src#RID_COMMON_START___9.string.text
 msgid "Yes to All"
@@ -108482,11 +108511,16 @@ msgid ""
 "reset the paths to the original default settings.\n"
 "Then run the wizard again."
 msgstr ""
+"Níorbh fhéidir an draoi a rith, ceal comhaid thábhachtacha.\n"
+"Faoi 'Uirlisí - Roghanna - %PRODUCTNAME - Conairí' cliceáil an cnaipe "
+"'Réamhshocrú' chun na conairí a athshocrú go dtí na bunshocruithe a bhí ann "
+"ar dtús. \n"
+"Ansin rith an draoi arís."
 
 #: dbwizres.src#RID_DB_COMMON_START___6.string.text
 msgid ""
 "An error occurred while running the wizard. The wizard will be terminated."
-msgstr ""
+msgstr "Tharla earráid agus an draoi i mbun oibre. Tobscoirfear an draoi."
 
 #: dbwizres.src#RID_DB_COMMON_START___14.string.text
 msgid "No connection to the database could be established."
@@ -108504,7 +108538,7 @@ msgstr "Níorbh fhéidir an cháipéis a shábháil."
 
 #: dbwizres.src#RID_DB_COMMON_START___33.string.text
 msgid "Exiting the wizard"
-msgstr ""
+msgstr "Ag fágáil an draoi"
 
 #: dbwizres.src#RID_DB_COMMON_START___35.string.text
 msgid "The connection to the data source could not be established."
@@ -108512,7 +108546,7 @@ msgstr "Níorbh fhéidir nasc a bhunú leis an bhfoinse sonraí."
 
 #: dbwizres.src#RID_DB_COMMON_START___36.string.text
 msgid "The file path entered is not valid."
-msgstr ""
+msgstr "Níl an chonair a d'iontráil tú bailí."
 
 #: dbwizres.src#RID_DB_COMMON_START___37.string.text
 msgid "Please select a data source"
@@ -108548,7 +108582,7 @@ msgstr "Bog réimse síos"
 
 #: dbwizres.src#RID_DB_COMMON_START___45.string.text
 msgid "The field names from '%NAME' could not be retrieved."
-msgstr ""
+msgstr "Níorbh fhéidir ainmneacha na réimsí ó '%NAME' a aisghabháil."
 
 #: dbwizres.src#RID_DB_FORM_WIZARD_START___0.string.text
 msgid "Form Wizard"
@@ -108563,6 +108597,9 @@ msgid ""
 "Binary fields are always listed and selectable from the left list.\n"
 "If possible, they are interpreted as images."
 msgstr ""
+"Liostáiltear réimsí dénártha i gcónaí, agus is féidir iad a roghnú ón liosta "
+"ar chlé. \n"
+"Más féidir, léirmhínítear mar íomhánna iad."
 
 #: dbwizres.src#RID_DB_FORM_WIZARD_START___3.string.text
 msgid ""
@@ -108570,6 +108607,9 @@ msgid ""
 "Use subforms to show data from tables or queries with a one-to-many "
 "relationship."
 msgstr ""
+"Is foirm a ionsáitear i bhfoirm eile é fofhoirm. \n"
+"Bain úsáid as fofhoirmeacha chun sonraí ó tháblaí nó iarratais le gaol aon-"
+"le-mórán a thaispeáint."
 
 #: dbwizres.src#RID_DB_FORM_WIZARD_START___4.string.text
 msgid "~Add Subform"
@@ -108577,7 +108617,7 @@ msgstr "Cuir Fofhoirm ~Leis"
 
 #: dbwizres.src#RID_DB_FORM_WIZARD_START___5.string.text
 msgid "~Subform based on existing relation"
-msgstr ""
+msgstr "~Fofhoirm bunaithe ar ghaol atá ann cheana."
 
 #: dbwizres.src#RID_DB_FORM_WIZARD_START___6.string.text
 msgid "Tables or queries"
@@ -108585,11 +108625,11 @@ msgstr "Táblaí nó iarratais"
 
 #: dbwizres.src#RID_DB_FORM_WIZARD_START___7.string.text
 msgid "Subform based on ~manual selection of fields"
-msgstr ""
+msgstr "Fofhoirm bunaithe ar ~rogha láimhe réimsí."
 
 #: dbwizres.src#RID_DB_FORM_WIZARD_START___8.string.text
 msgid "~Which relation do you want to add?"
-msgstr ""
+msgstr "~Cén ghaol ba mhaith leat cur leis?"
 
 #: dbwizres.src#RID_DB_FORM_WIZARD_START___9.string.text
 msgid "Fields in the ~subform"
@@ -108608,42 +108648,44 @@ msgid ""
 "The join '<FIELDNAME1>' and '<FIELDNAME2>' has been selected twice.\n"
 "But joins may only be used once."
 msgstr ""
+"Roghnaíodh faoi dhó an comhcheangal '<FIELDNAME1>' AGUS '<FIELDNAME2>'. \n"
+"Ní cheadaítear comhcheangal a úsáid níos mó ná uair amháin."
 
 #: dbwizres.src#RID_DB_FORM_WIZARD_START___20.string.text
 msgid "~First joined subform field"
-msgstr ""
+msgstr "~An chéad réimse fofhoirme comhcheangailte"
 
 #: dbwizres.src#RID_DB_FORM_WIZARD_START___21.string.text
 msgid "~Second joined subform field"
-msgstr ""
+msgstr "~An dara réimse fofhoirme comhcheangailte"
 
 #: dbwizres.src#RID_DB_FORM_WIZARD_START___22.string.text
 msgid "~Third joined subform field"
-msgstr ""
+msgstr "~An tríú réimse fofhoirme comhcheangailte"
 
 #: dbwizres.src#RID_DB_FORM_WIZARD_START___23.string.text
 msgid "~Fourth joined subform field"
-msgstr ""
+msgstr "~An ceathrú réimse fofhoirme comhcheangailte"
 
 #: dbwizres.src#RID_DB_FORM_WIZARD_START___24.string.text
 msgid "F~irst joined main form field"
-msgstr ""
+msgstr "~An chéad réimse príomhfhoirme comhcheangailte"
 
 #: dbwizres.src#RID_DB_FORM_WIZARD_START___25.string.text
 msgid "S~econd joined main form field"
-msgstr ""
+msgstr "~An dara réimse príomhfhoirme comhcheangailte"
 
 #: dbwizres.src#RID_DB_FORM_WIZARD_START___26.string.text
 msgid "T~hird joined main form field"
-msgstr ""
+msgstr "~An tríú réimse príomhfhoirme comhcheangailte"
 
 #: dbwizres.src#RID_DB_FORM_WIZARD_START___27.string.text
 msgid "F~ourth joined main form field"
-msgstr ""
+msgstr "~An ceathrú réimse príomhfhoirme comhcheangailte"
 
 #: dbwizres.src#RID_DB_FORM_WIZARD_START___28.string.text
 msgid "Field border"
-msgstr ""
+msgstr "Imlíne an réimse"
 
 #: dbwizres.src#RID_DB_FORM_WIZARD_START___30.string.text
 msgid "3D look"
@@ -108687,7 +108729,7 @@ msgstr "Leagan amach na fofhoirme"
 
 #: dbwizres.src#RID_DB_FORM_WIZARD_START___44.string.text
 msgid "The form is to be ~used for entering new data only."
-msgstr ""
+msgstr "Úsáidtear an fhoirm chun sonraí nua a iontráil amháin."
 
 #: dbwizres.src#RID_DB_FORM_WIZARD_START___45.string.text
 msgid "Existing data will not be displayed "
@@ -108695,19 +108737,19 @@ msgstr "Ní thaispeánfar na sonraí atá ann "
 
 #: dbwizres.src#RID_DB_FORM_WIZARD_START___46.string.text
 msgid "T~he form is to display all data"
-msgstr ""
+msgstr "Taispeánfaidh an fhoirm na sonraí go léir."
 
 #: dbwizres.src#RID_DB_FORM_WIZARD_START___47.string.text
 msgid "Do not allow ~modification of existing data"
-msgstr ""
+msgstr "Ná lig d'athrú ar bith sna sonraí atá ann cheana."
 
 #: dbwizres.src#RID_DB_FORM_WIZARD_START___48.string.text
 msgid "Do not allow ~deletion of existing data"
-msgstr ""
+msgstr "Ná lig do scriosadh na sonraí atá ann cheana."
 
 #: dbwizres.src#RID_DB_FORM_WIZARD_START___49.string.text
 msgid "Do not allow ~addition of new data"
-msgstr ""
+msgstr "Ná lig do ~shonraí breise"
 
 #: dbwizres.src#RID_DB_FORM_WIZARD_START___50.string.text
 msgid "Name of ~the form"
@@ -108715,11 +108757,11 @@ msgstr "Ainm ~na foirme"
 
 #: dbwizres.src#RID_DB_FORM_WIZARD_START___51.string.text
 msgid "How do you want to proceed after creating the form?"
-msgstr ""
+msgstr "Cad ba mhaith leat a dhéanamh tar éis duit an fhoirm a chruthú?"
 
 #: dbwizres.src#RID_DB_FORM_WIZARD_START___52.string.text
 msgid "~Work with the form"
-msgstr ""
+msgstr "~Obair leis an bhfoirm"
 
 #: dbwizres.src#RID_DB_FORM_WIZARD_START___53.string.text
 msgid "~Modify the form"
@@ -108741,11 +108783,11 @@ msgstr "Socraigh fofhoirm"
 
 #: dbwizres.src#RID_DB_FORM_WIZARD_START___82.string.text
 msgid "Add subform fields"
-msgstr ""
+msgstr "Cur leis na réimsí fofhoirme"
 
 #: dbwizres.src#RID_DB_FORM_WIZARD_START___83.string.text
 msgid "Get joined fields"
-msgstr ""
+msgstr "Faigh réimsí comhcheangailte"
 
 #: dbwizres.src#RID_DB_FORM_WIZARD_START___84.string.text
 msgid "Arrange controls"
@@ -108773,19 +108815,19 @@ msgstr "(Am)"
 
 #: dbwizres.src#RID_DB_FORM_WIZARD_START___90.string.text
 msgid "Select the fields of your form"
-msgstr ""
+msgstr "Roghnaigh réimsí d'fhoirme"
 
 #: dbwizres.src#RID_DB_FORM_WIZARD_START___91.string.text
 msgid "Decide if you want to set up a subform"
-msgstr ""
+msgstr "Cinnigh an bhfuil tú ag iarraidh fofhoirm a shocrú"
 
 #: dbwizres.src#RID_DB_FORM_WIZARD_START___92.string.text
 msgid "Select the fields of your subform"
-msgstr ""
+msgstr "Roghnaigh réimsí d'fhofhoirme"
 
 #: dbwizres.src#RID_DB_FORM_WIZARD_START___93.string.text
 msgid "Select the joins between your forms"
-msgstr ""
+msgstr "Roghnaigh na comhcheangail idir d'fhoirmeacha"
 
 #: dbwizres.src#RID_DB_FORM_WIZARD_START___94.string.text
 msgid "Arrange the controls on your form"
@@ -108793,11 +108835,11 @@ msgstr "Leag amach na rialtáin ar d'fhoirm"
 
 #: dbwizres.src#RID_DB_FORM_WIZARD_START___95.string.text
 msgid "Select the data entry mode"
-msgstr ""
+msgstr "Roghnaigh mód iontrála na sonraí"
 
 #: dbwizres.src#RID_DB_FORM_WIZARD_START___96.string.text
 msgid "Apply the style of your form"
-msgstr ""
+msgstr "Cuir i bhfeidhm stíl d'fhoirme"
 
 #: dbwizres.src#RID_DB_FORM_WIZARD_START___97.string.text
 msgid "Set the name of the form"
@@ -108807,13 +108849,13 @@ msgstr "Roghnaigh ainm na foirme"
 msgid ""
 "_: dbwizres.src#RID_DB_QUERY_WIZARD_START___0.string.text\n"
 "Query Wizard"
-msgstr ""
+msgstr "Draoi Iarratais"
 
 #: dbwizres.src#RID_DB_QUERY_WIZARD_START___2.string.text
 msgid ""
 "_: dbwizres.src#RID_DB_QUERY_WIZARD_START___2.string.text\n"
 "Query Wizard"
-msgstr ""
+msgstr "Draoi Iarratais"
 
 #: dbwizres.src#RID_DB_QUERY_WIZARD_START___4.string.text
 msgid ""
@@ -108835,15 +108877,15 @@ msgstr "~Mionathraigh an tIarratas"
 
 #: dbwizres.src#RID_DB_QUERY_WIZARD_START___8.string.text
 msgid "~How do you want to proceed after creating the query?"
-msgstr ""
+msgstr "~Cad ba mhaith leat a dhéanamh tar éis cruthú an cheistiúcháin?"
 
 #: dbwizres.src#RID_DB_QUERY_WIZARD_START___9.string.text
 msgid "Match ~all of the following"
-msgstr ""
+msgstr "~Meaitseáil gach ceann de seo a leanas"
 
 #: dbwizres.src#RID_DB_QUERY_WIZARD_START___10.string.text
 msgid "~Match any of the following"
-msgstr ""
+msgstr "~Meaitseáil ceann ar bith de seo a leanas"
 
 #: dbwizres.src#RID_DB_QUERY_WIZARD_START___11.string.text
 msgid "~Detailed query (Shows all records of the query.)"
@@ -108852,10 +108894,11 @@ msgstr "~Mioniarratas (Taispeáin gach taifead san iarratas.)"
 #: dbwizres.src#RID_DB_QUERY_WIZARD_START___12.string.text
 msgid "~Summary query (Shows only results of aggregate functions.)"
 msgstr ""
+"~Iarratas achomair (Taispeánann torthaí na bhfeidhmeanna comhiomláin amháin)"
 
 #: dbwizres.src#RID_DB_QUERY_WIZARD_START___16.string.text
 msgid "Aggregate functions"
-msgstr ""
+msgstr "Feidhmeanna comhiomlána"
 
 #: dbwizres.src#RID_DB_QUERY_WIZARD_START___17.string.text
 msgid ""
@@ -108907,35 +108950,35 @@ msgstr "cosúil"
 
 #: dbwizres.src#RID_DB_QUERY_WIZARD_START___40.string.text
 msgid "get the sum of"
-msgstr ""
+msgstr "faigh suim de"
 
 #: dbwizres.src#RID_DB_QUERY_WIZARD_START___41.string.text
 msgid "get the average of"
-msgstr ""
+msgstr "faigh meán de"
 
 #: dbwizres.src#RID_DB_QUERY_WIZARD_START___42.string.text
 msgid "get the minimum of"
-msgstr ""
+msgstr "faigh íosmhéid de"
 
 #: dbwizres.src#RID_DB_QUERY_WIZARD_START___43.string.text
 msgid "get the maximum of"
-msgstr ""
+msgstr "faigh uasmhéid de"
 
 #: dbwizres.src#RID_DB_QUERY_WIZARD_START___44.string.text
 msgid "get the sum of <FIELD>"
-msgstr ""
+msgstr "faigh suim de <FIELD>"
 
 #: dbwizres.src#RID_DB_QUERY_WIZARD_START___45.string.text
 msgid "get the average of <FIELD>"
-msgstr ""
+msgstr "faigh meán de <FIELD>"
 
 #: dbwizres.src#RID_DB_QUERY_WIZARD_START___46.string.text
 msgid "get the minimum of <FIELD>"
-msgstr ""
+msgstr "faigh íosmhéid de <FIELD>"
 
 #: dbwizres.src#RID_DB_QUERY_WIZARD_START___47.string.text
 msgid "get the maximum of <FIELD>"
-msgstr ""
+msgstr "faigh uasmhéid de <FIELD>"
 
 #: dbwizres.src#RID_DB_QUERY_WIZARD_START___50.string.text
 msgid "Fie~lds in the Query: "
@@ -108959,11 +109002,11 @@ msgstr "Níor sannadh coinníoll ar bith."
 
 #: dbwizres.src#RID_DB_QUERY_WIZARD_START___55.string.text
 msgid "Aggregate functions: "
-msgstr ""
+msgstr "Feidhmeanna comhiomlána: "
 
 #: dbwizres.src#RID_DB_QUERY_WIZARD_START___56.string.text
 msgid "No aggregate functions were assigned."
-msgstr ""
+msgstr "Níor sannadh feidhmeanna comhiomláin"
 
 #: dbwizres.src#RID_DB_QUERY_WIZARD_START___57.string.text
 msgid "Grouped by: "
@@ -108983,7 +109026,7 @@ msgstr "Níor sannadh coinníollacha grúpála ar bith."
 
 #: dbwizres.src#RID_DB_QUERY_WIZARD_START___70.string.text
 msgid "Select the fields (columns) for your query"
-msgstr ""
+msgstr "Roghnaigh na réimsí (colúin) dod' iarratas"
 
 #: dbwizres.src#RID_DB_QUERY_WIZARD_START___71.string.text
 msgid "Select the sorting order"
@@ -109011,7 +109054,7 @@ msgstr "Sann ailiasanna más mian leat"
 
 #: dbwizres.src#RID_DB_QUERY_WIZARD_START___77.string.text
 msgid "Check the overview and decide how to proceed"
-msgstr ""
+msgstr "Seiceáil an foramharc agus cinnigh conas leanacht ar aghaidh"
 
 #: dbwizres.src#RID_DB_QUERY_WIZARD_START___80.string.text
 msgid ""
@@ -109049,19 +109092,23 @@ msgstr "Ailiasanna"
 msgid ""
 "A field that has not been assigned an aggregate function must be used in a "
 "group."
-msgstr ""
+msgstr "Ní mór réimse a úsáid i ngrúpa munar sannadh feidhm chomhiomláin dó."
 
 #: dbwizres.src#RID_DB_QUERY_WIZARD_START___89.string.text
 msgid ""
 "The condition '<FIELDNAME> <LOGICOPERATOR> <VALUE>' was chosen twice. Each "
 "condition can only be chosen once"
 msgstr ""
+"Roghnaíodh faoi dhó an coinníoll '<FIELDNAME> <LOGICOPERATOR> <VALUE>'. Ní "
+"féidir coinníoll a roghnú níos mó ná uair amháin."
 
 #: dbwizres.src#RID_DB_QUERY_WIZARD_START___90.string.text
 msgid ""
 "The aggregate function <FUNCTION> has been assigned twice to the fieldname "
 "'<NUMERICFIELD>'."
 msgstr ""
+"Sannadh an fheidhm chomhiomláin <FUNCTION> faoi dhó d'ainm réimse "
+"'<NUMERICFIELD>'."
 
 #: dbwizres.src#RID_DB_QUERY_WIZARD_START___91.string.text
 msgid ", "
@@ -109069,27 +109116,27 @@ msgstr ", "
 
 #: dbwizres.src#RID_DB_QUERY_WIZARD_START___92.string.text
 msgid "<FIELDTITLE> (<FIELDNAME>)"
-msgstr ""
+msgstr "<FIELDTITLE> (<FIELDNAME>)"
 
 #: dbwizres.src#RID_DB_QUERY_WIZARD_START___93.string.text
 msgid "<FIELDNAME> (<SORTMODE>)"
-msgstr ""
+msgstr "<FIELDNAME> (<SORTMODE>)"
 
 #: dbwizres.src#RID_DB_QUERY_WIZARD_START___94.string.text
 msgid ""
 "_: dbwizres.src#RID_DB_QUERY_WIZARD_START___94.string.text\n"
 "<FIELDNAME> <LOGICOPERATOR> <VALUE>"
-msgstr ""
+msgstr "<FIELDNAME> <LOGICOPERATOR> <VALUE>"
 
 #: dbwizres.src#RID_DB_QUERY_WIZARD_START___95.string.text
 msgid "<CALCULATEDFUNCTION> <FIELDNAME>"
-msgstr ""
+msgstr "<CALCULATEDFUNCTION> <FIELDNAME>"
 
 #: dbwizres.src#RID_DB_QUERY_WIZARD_START___96.string.text
 msgid ""
 "_: dbwizres.src#RID_DB_QUERY_WIZARD_START___96.string.text\n"
 "<FIELDNAME> <LOGICOPERATOR> <VALUE>"
-msgstr ""
+msgstr "<FIELDNAME> <LOGICOPERATOR> <VALUE>"
 
 #: dbwizres.src#RID_DB_REPORT_WIZARD_START___0.string.text
 msgid "Report Wizard"
@@ -109133,7 +109180,7 @@ msgstr "Leagan amach na sonraí"
 
 #: dbwizres.src#RID_DB_REPORT_WIZARD_START___16.string.text
 msgid "Layout of headers and footers"
-msgstr ""
+msgstr "Leagan amach na gceanntásc agus buntásc"
 
 #: dbwizres.src#RID_DB_REPORT_WIZARD_START___19.string.text
 msgid ""
@@ -109147,7 +109194,7 @@ msgstr "~Sórtáil de réir"
 
 #: dbwizres.src#RID_DB_REPORT_WIZARD_START___28.string.text
 msgid "Which fields do you want to have in your report?"
-msgstr ""
+msgstr "Cad iad na réimsí a ba mhaith leat i do thuairisc?"
 
 #: dbwizres.src#RID_DB_REPORT_WIZARD_START___29.string.text
 msgid "Do you want to add grouping levels?"
@@ -109155,15 +109202,15 @@ msgstr "Ar mhaith leat leibhéil ghrúpála a chur leis?"
 
 #: dbwizres.src#RID_DB_REPORT_WIZARD_START___30.string.text
 msgid "According to which fields do you want to sort the data?"
-msgstr ""
+msgstr "Cad iad na réimsí lenar mhaith leat na sonraí a shórtáil?"
 
 #: dbwizres.src#RID_DB_REPORT_WIZARD_START___31.string.text
 msgid "How do you want your report to look?"
-msgstr ""
+msgstr "Cén dreach ar mhaith leat a bheith ar do thuairisc?"
 
 #: dbwizres.src#RID_DB_REPORT_WIZARD_START___32.string.text
 msgid "Decide how you want to proceed"
-msgstr ""
+msgstr "Cinnigh conas ba mhaith leat leanacht ar aghaidh"
 
 #: dbwizres.src#RID_DB_REPORT_WIZARD_START___33.string.text
 msgid "Title of report"
@@ -109245,7 +109292,7 @@ msgstr "Tuairisc á Cruthú..."
 
 #: dbwizres.src#RID_DB_REPORT_WIZARD_START___63.string.text
 msgid "Number of records inserted: <COUNT>"
-msgstr ""
+msgstr "Líon na dtaifead ionsáite: <COUNT>"
 
 #: dbwizres.src#RID_DB_REPORT_WIZARD_START___64.string.text
 msgid "The form '<REPORTFORM>' does not exist."
@@ -109256,12 +109303,16 @@ msgid ""
 "The query with the statement <BR>'<STATEMENT>' <BR> could not be run. <BR> "
 "Check your data source."
 msgstr ""
+"Níorbh fhéidir an t-iarratas leis an ráiteas <BR>'<STATEMENT>' <BR> a rith. "
+"<BR> Seiceáil foinse do shonraí."
 
 #: dbwizres.src#RID_DB_REPORT_WIZARD_START___66.string.text
 msgid ""
 "The following hidden control in the form '<REPORTFORM>' could not be read: "
 "'<CONTROLNAME>'."
 msgstr ""
+"Níorbh fhéidir an rialtán folaithe seo a leanas sa bhfoirm '<REPORTFORM>' a "
+"léamh: '<CONTROLNAME>'."
 
 #: dbwizres.src#RID_DB_REPORT_WIZARD_START___67.string.text
 msgid "Importing data..."
@@ -109269,11 +109320,11 @@ msgstr "Sonraí á nIompórtáil..."
 
 #: dbwizres.src#RID_DB_REPORT_WIZARD_START___68.string.text
 msgid "Labeling fields"
-msgstr ""
+msgstr "Réimsí á lipéadú"
 
 #: dbwizres.src#RID_DB_REPORT_WIZARD_START___69.string.text
 msgid "How do you want to label the fields?"
-msgstr ""
+msgstr "Conas a ba mhaith leat na réimsí a lipéadú?"
 
 #: dbwizres.src#RID_DB_REPORT_WIZARD_START___71.string.text
 msgid ""
@@ -109288,22 +109339,30 @@ msgid ""
 "wrong name.<BR>See the Help for more detailed information.<BR>Please select "
 "another template."
 msgstr ""
+"Tharla earráid sa draoi. <BR> D'fhéadfadh an teimpléad '%PATH' a bheith "
+"fabhtach. <BR> Ní ann do na rannáin nó táblaí riachtanacha nó is ann dóibh "
+"faoin ainm mícheart. <BR> Féach 'Cabhair' d'eolas níos mine. <BR> Roghnaigh "
+"teimpléad eile, led' thoil."
 
 #: dbwizres.src#RID_DB_REPORT_WIZARD_START___73.string.text
 msgid "There is an invalid user field in a table."
-msgstr ""
+msgstr "Tá réimse úsáideora neamhbhailí i dtábla."
 
 #: dbwizres.src#RID_DB_REPORT_WIZARD_START___74.string.text
 msgid ""
 "The sort criterium '<FIELDNAME>' was chosen twice. Each criterium can only "
 "be chosen once."
 msgstr ""
+"Roghnaíodh faoi dhó an sórtchritéar '<FIELDNAME>'. Ní cheadaítear critéar a "
+"roghnú níos mó ná uair amháin."
 
 #: dbwizres.src#RID_DB_REPORT_WIZARD_START___75.string.text
 msgid ""
 "Note: The dummy text will be replaced by data from the database when the "
 "report is created."
 msgstr ""
+"Nóta: Ionadófar an téacs caoch le sonraí ón bhunachar sonraí nuair a "
+"chruthófar an tuairisc."
 
 #: dbwizres.src#RID_DB_REPORT_WIZARD_START___76.string.text
 msgid ""
@@ -109316,10 +109375,11 @@ msgstr ""
 #: dbwizres.src#RID_DB_REPORT_WIZARD_START___78.string.text
 msgid "How do you want to proceed after creating the report?"
 msgstr ""
+"Conas a ba mhaith leat leanacht ar aghaidh tar éis an tuairisc a chruthú?"
 
 #: dbwizres.src#RID_DB_REPORT_WIZARD_START___79.string.text
 msgid "What kind of report do you want to create?"
-msgstr ""
+msgstr "Cén sórt tuarascáil ba mhaith leat a chruthú?"
 
 #: dbwizres.src#RID_DB_TABLE_WIZARD_START___1.string.text
 msgid "Table Wizard"
@@ -109347,11 +109407,11 @@ msgstr "Cruthaigh tábla"
 
 #: dbwizres.src#RID_DB_TABLE_WIZARD_START___8.string.text
 msgid "Select fields for your table"
-msgstr ""
+msgstr "Roghnaigh na réimsí do do thábla"
 
 #: dbwizres.src#RID_DB_TABLE_WIZARD_START___9.string.text
 msgid "Set field types and formats"
-msgstr ""
+msgstr "Socraigh cineál agus formáidí na réimsí"
 
 #: dbwizres.src#RID_DB_TABLE_WIZARD_START___10.string.text
 msgid ""
@@ -109371,6 +109431,10 @@ msgid ""
 "table category and a sample table, choose the fields you want to include in "
 "your table. You can include fields from more than one sample table."
 msgstr ""
+"Tugann an draoi cúnamh duit tábla a chruthú do do bhunachar sonraí. Tar éis "
+"duit catagóir táblaí agus tábla samplach a roghnú, roghnaigh na réimsí ar "
+"mhaith leath a bheith i do thábla. Is féidir leat réimsí a chur ann a "
+"thagann ó níos mó ná aon tábla samplach amháin."
 
 #: dbwizres.src#RID_DB_TABLE_WIZARD_START___15.string.text
 msgid "Ca~tegory"
@@ -109396,7 +109460,7 @@ msgstr "Réimsí le ~fáil"
 
 #: dbwizres.src#RID_DB_TABLE_WIZARD_START___20.string.text
 msgid "Field information"
-msgstr ""
+msgstr "Eolas réimse"
 
 #: dbwizres.src#RID_DB_TABLE_WIZARD_START___25.string.text
 msgid "~Selected fields"
@@ -109409,6 +109473,11 @@ msgid ""
 "recommended that you have a primary key in every table. Without a primary "
 "key, it will not be possible to enter data into this table."
 msgstr ""
+"Tugann eochair phríomhúil ionannas faoi leith do gach taifead i dtábla "
+"bhunachair sonraí. Déanann eochracha príomhúla níos fusa é, sonraí i dtáblaí "
+"éagsúla a cheangailt lé chéile, agus moltar duit eochair phríomhúil a chur i "
+"ngach tábla. Gan ceann, ní bheifear in ann sonraí a chur isteach sa tábla "
+"seo."
 
 #: dbwizres.src#RID_DB_TABLE_WIZARD_START___27.string.text
 msgid "~Create a primary key"
@@ -109424,7 +109493,7 @@ msgstr "Ú~sáid réimse atá ann mar phríomheochair"
 
 #: dbwizres.src#RID_DB_TABLE_WIZARD_START___30.string.text
 msgid "Define p~rimary key as a combination of several fields "
-msgstr ""
+msgstr "~Sainigh eochair phríomhúil mar theaglaim de roinnt réimsí"
 
 #: dbwizres.src#RID_DB_TABLE_WIZARD_START___31.string.text
 msgid "F~ieldname"
@@ -109432,21 +109501,23 @@ msgstr "A~inm réimse"
 
 #: dbwizres.src#RID_DB_TABLE_WIZARD_START___32.string.text
 msgid "~Primary key fields"
-msgstr ""
+msgstr "~Réimsí na n-eochracha príomhúla"
 
 #: dbwizres.src#RID_DB_TABLE_WIZARD_START___33.string.text
 msgid "Auto ~value"
-msgstr ""
+msgstr "~Uathluach"
 
 #: dbwizres.src#RID_DB_TABLE_WIZARD_START___34.string.text
 msgid "What do you want to name your table?"
-msgstr ""
+msgstr "Cén t-ainm ba mhaith leat a chur ar do thábla?"
 
 #: dbwizres.src#RID_DB_TABLE_WIZARD_START___35.string.text
 msgid ""
 "Congratulations. You have entered all the information needed to create your "
 "table."
 msgstr ""
+"Comhghairdeas! Tá an t-eolas uilig curtha isteach agat atá a dhíth chun do "
+"thábla a chruthú!"
 
 #: dbwizres.src#RID_DB_TABLE_WIZARD_START___36.string.text
 msgid ""
@@ -109475,12 +109546,16 @@ msgid ""
 "The table name '%TABLENAME' contains a character ('%SPECIALCHAR') that might "
 "not be supported by the database."
 msgstr ""
+"Tá carachtair ('SPECIALCHAR') in ainm an tábla '%TABLENAME' gur baolaigh "
+"nach bhfuil tacaíocht dó sa mbunachar sonraí."
 
 #: dbwizres.src#RID_DB_TABLE_WIZARD_START___42.string.text
 msgid ""
 "The field name '%FIELDNAME' contains a special character ('%SPECIALCHAR') "
 "that might not be supported by the database."
 msgstr ""
+"Tá carachtair speisialta ('%SPECIALCHAR') in ainm an réimse, agus is baolaí "
+"nach bhfuil tacaíocht dó sa mbunachar sonraí"
 
 #: dbwizres.src#RID_DB_TABLE_WIZARD_START___43.string.text
 msgid ""
@@ -109505,6 +109580,8 @@ msgid ""
 "The field cannot be inserted because this would exceed the maximum number of "
 "%COUNT possible fields in the database table"
 msgstr ""
+"Ní féidir an réimse a ionsá mar rachfaí thar uasmhéid de %COUNT réimsí arbh "
+"fhéidir a bheith ann i dtábla an bhunachair sonraí."
 
 #: dbwizres.src#RID_DB_TABLE_WIZARD_START___48.string.text
 msgid ""
@@ -109524,7 +109601,7 @@ msgstr "Scéimre an tábla"
 
 #: dbwizres.src#RID_LETTERWIZARDDIALOG_START___1.string.text
 msgid "Letter Wizard"
-msgstr ""
+msgstr "Draoi na Litreach"
 
 #: dbwizres.src#RID_LETTERWIZARDDIALOG_START___2.string.text
 msgid ""
@@ -109546,7 +109623,7 @@ msgstr "Litir ~phearsanta"
 
 #: dbwizres.src#RID_LETTERWIZARDDIALOG_START___6.string.text
 msgid "~Use letterhead paper with pre-printed elements"
-msgstr ""
+msgstr "~Bain úsáid as páipéar ceannlitreach le heilimintí réamhchlóite"
 
 #: dbwizres.src#RID_LETTERWIZARDDIALOG_START___7.string.text
 msgid ""
@@ -109568,7 +109645,7 @@ msgstr "Cu~ir buntásc san áireamh"
 msgid ""
 "_: dbwizres.src#RID_LETTERWIZARDDIALOG_START___10.string.text\n"
 "~Return address in envelope window"
-msgstr ""
+msgstr "~Seoladh fillte i bhfuinneog an chlúdaigh"
 
 #: dbwizres.src#RID_LETTERWIZARDDIALOG_START___11.string.text
 msgid ""
@@ -109580,17 +109657,17 @@ msgstr "~Lógó"
 msgid ""
 "_: dbwizres.src#RID_LETTERWIZARDDIALOG_START___12.string.text\n"
 "~Return address in envelope window"
-msgstr ""
+msgstr "~Seoladh fillte i bhfuinneog an chlúdaigh"
 
 #: dbwizres.src#RID_LETTERWIZARDDIALOG_START___13.string.text
 msgid "Letter Signs"
-msgstr ""
+msgstr "Comharthaí litreach"
 
 #: dbwizres.src#RID_LETTERWIZARDDIALOG_START___14.string.text
 msgid ""
 "_: dbwizres.src#RID_LETTERWIZARDDIALOG_START___14.string.text\n"
 "S~ubject line"
-msgstr ""
+msgstr "~Líne an ábhair"
 
 #: dbwizres.src#RID_LETTERWIZARDDIALOG_START___15.string.text
 msgid "Salu~tation"
@@ -109598,13 +109675,13 @@ msgstr "Fáil~te"
 
 #: dbwizres.src#RID_LETTERWIZARDDIALOG_START___16.string.text
 msgid "Fold ~marks"
-msgstr ""
+msgstr "Línte ~Fillte"
 
 #: dbwizres.src#RID_LETTERWIZARDDIALOG_START___17.string.text
 msgid ""
 "_: dbwizres.src#RID_LETTERWIZARDDIALOG_START___17.string.text\n"
 "~Complimentary close"
-msgstr ""
+msgstr "~Beannú deiridh deámhéine"
 
 #: dbwizres.src#RID_LETTERWIZARDDIALOG_START___18.string.text
 msgid ""
@@ -109616,39 +109693,39 @@ msgstr "~Buntásc"
 msgid ""
 "_: dbwizres.src#RID_LETTERWIZARDDIALOG_START___19.string.text\n"
 "~Use user data for return address"
-msgstr ""
+msgstr "~Bain úsáid as sonraí an úsáideora don seoladh fillte"
 
 #: dbwizres.src#RID_LETTERWIZARDDIALOG_START___20.string.text
 msgid "~New sender address:"
-msgstr ""
+msgstr "~Seoladh nua an tseoltóra:"
 
 #: dbwizres.src#RID_LETTERWIZARDDIALOG_START___21.string.text
 msgid ""
 "_: dbwizres.src#RID_LETTERWIZARDDIALOG_START___21.string.text\n"
 "Use placeholders for ~recipient's address"
-msgstr ""
+msgstr "Bain úsáid as ionadchoinneálaithe do sheoladh an tseoltóra"
 
 #: dbwizres.src#RID_LETTERWIZARDDIALOG_START___22.string.text
 msgid ""
 "_: dbwizres.src#RID_LETTERWIZARDDIALOG_START___22.string.text\n"
 "Use address database for ~mail merge"
-msgstr ""
+msgstr "Bain úsáid as bunachar sonraí na seoltaí do ~phostchumasc"
 
 #: dbwizres.src#RID_LETTERWIZARDDIALOG_START___23.string.text
 msgid ""
 "_: dbwizres.src#RID_LETTERWIZARDDIALOG_START___23.string.text\n"
 "Include ~only on second and following pages"
-msgstr ""
+msgstr "Cuir isteach ar ~gach leathanach ach an chéad cheann"
 
 #: dbwizres.src#RID_LETTERWIZARDDIALOG_START___24.string.text
 msgid ""
 "_: dbwizres.src#RID_LETTERWIZARDDIALOG_START___24.string.text\n"
 "~Include page number"
-msgstr ""
+msgstr "~Cuir uimhir an leathanaigh isteach"
 
 #: dbwizres.src#RID_LETTERWIZARDDIALOG_START___25.string.text
 msgid "Letter Template"
-msgstr ""
+msgstr "Teimpléad Litreach"
 
 #: dbwizres.src#RID_LETTERWIZARDDIALOG_START___26.string.text
 msgid "Create a ~letter from this template"
@@ -109656,7 +109733,7 @@ msgstr "Cruthaigh ~litir ón teimpléad seo"
 
 #: dbwizres.src#RID_LETTERWIZARDDIALOG_START___27.string.text
 msgid "Make ~manual changes to this letter template"
-msgstr ""
+msgstr "Déan athruithe láimhe leis an teimpléad litreach seo"
 
 #: dbwizres.src#RID_LETTERWIZARDDIALOG_START___28.string.text
 msgid ""
@@ -109681,6 +109758,9 @@ msgid ""
 "This wizard helps you to create a letter template. You can then use the "
 "template as the basis for writing letters as often as desired."
 msgstr ""
+"Cabhraíonn an draoi seo leat teimpléad litreach a chruthú. Féadann tú an "
+"teimpléad a úsáid ansin mar bhonn scríbhneoireachta litreach chomh minic "
+"agus is mian leat."
 
 #: dbwizres.src#RID_LETTERWIZARDDIALOG_START___32.string.text
 msgid "~Height:"
@@ -109694,13 +109774,13 @@ msgstr "~Leithead:"
 msgid ""
 "_: dbwizres.src#RID_LETTERWIZARDDIALOG_START___34.string.text\n"
 "S~pacing to left margin:"
-msgstr ""
+msgstr "~Spásáil go (dtí) imeall ar chlé:"
 
 #: dbwizres.src#RID_LETTERWIZARDDIALOG_START___35.string.text
 msgid ""
 "_: dbwizres.src#RID_LETTERWIZARDDIALOG_START___35.string.text\n"
 "Spacing ~to top margin:"
-msgstr ""
+msgstr "S~pásáil go (dtí) imeall ag an mbarr:"
 
 #: dbwizres.src#RID_LETTERWIZARDDIALOG_START___36.string.text
 msgid ""
@@ -109712,13 +109792,13 @@ msgstr "Airde:"
 msgid ""
 "_: dbwizres.src#RID_LETTERWIZARDDIALOG_START___38.string.text\n"
 "S~pacing to left margin:"
-msgstr ""
+msgstr "~Spásáil go (dtí) imeall ar chlé:"
 
 #: dbwizres.src#RID_LETTERWIZARDDIALOG_START___39.string.text
 msgid ""
 "_: dbwizres.src#RID_LETTERWIZARDDIALOG_START___39.string.text\n"
 "Spacing ~to top margin:"
-msgstr ""
+msgstr "S~pásáil go (dtí) imeall ag an mbarr:"
 
 #: dbwizres.src#RID_LETTERWIZARDDIALOG_START___40.string.text
 msgid ""
@@ -109728,7 +109808,7 @@ msgstr "Airde:"
 
 #: dbwizres.src#RID_LETTERWIZARDDIALOG_START___41.string.text
 msgid "Use a typical letter format for this country:"
-msgstr ""
+msgstr "Bain úsáid as formáid tipiciúil litreach don tír seo:"
 
 #: dbwizres.src#RID_LETTERWIZARDDIALOG_START___42.string.text
 msgid "Sender's address"
@@ -109767,12 +109847,16 @@ msgid ""
 "This wizard creates a letter template which enables you to create multiple "
 "letters with the same layout and settings."
 msgstr ""
+"Cruthaíonn an draoi seo teimpléad litreach a ligeann duit litreacha iomadúla "
+"a chruthú leis na socruithe agus leagan amach céanna."
 
 #: dbwizres.src#RID_LETTERWIZARDDIALOG_START___49.string.text
 msgid ""
 "To create another new letter out of the template just navigate to the "
 "template location and double-click it."
 msgstr ""
+"Chun litir nua a chruthú as an teimpléad ní gá ach dul go dtí suíomh an "
+"teimpléid agus déchliceáil air."
 
 #: dbwizres.src#RID_LETTERWIZARDDIALOG_START___50.string.text
 msgid ""
@@ -109788,11 +109872,11 @@ msgstr "Suíomh agus ainm comhaid:"
 
 #: dbwizres.src#RID_LETTERWIZARDDIALOG_START___52.string.text
 msgid "How do you want to proceed?"
-msgstr ""
+msgstr "Cad ba mhaith leat a dhéanamh anois?"
 
 #: dbwizres.src#RID_LETTERWIZARDDIALOG_START___53.string.text
 msgid "Please choose the type of letter and page design"
-msgstr ""
+msgstr "Roghnaigh cineál na litreach agus dearadh an leathanaigh"
 
 #: dbwizres.src#RID_LETTERWIZARDDIALOG_START___54.string.text
 msgid "Select the items to be printed"
@@ -109800,7 +109884,7 @@ msgstr "Roghnaigh na míreanna atá le priontáil"
 
 #: dbwizres.src#RID_LETTERWIZARDDIALOG_START___55.string.text
 msgid "Specify items already on your letterhead paper"
-msgstr ""
+msgstr "Sonraigh rudaí atá ar do pháipéar ceannlitreach cheana féin"
 
 #: dbwizres.src#RID_LETTERWIZARDDIALOG_START___56.string.text
 msgid "Specify the sender and recipient information"
@@ -109808,11 +109892,11 @@ msgstr "Sonraigh faisnéis maidir leis an seoltóir agus an faighteoir"
 
 #: dbwizres.src#RID_LETTERWIZARDDIALOG_START___57.string.text
 msgid "Fill in the information you would like in the footer"
-msgstr ""
+msgstr "Líon isteach an t-eolas a ba mhaith leat a bheith sa bhuntásc"
 
 #: dbwizres.src#RID_LETTERWIZARDDIALOG_START___58.string.text
 msgid "Please specify last settings"
-msgstr ""
+msgstr "Sonraigh na socruithe deireanacha, le do thoil"
 
 #: dbwizres.src#RID_LETTERWIZARDSALUTATION_START___1.string.text
 msgid "To Whom it May Concern"
@@ -109820,7 +109904,7 @@ msgstr "Dóibh siúd lena mbaineann"
 
 #: dbwizres.src#RID_LETTERWIZARDSALUTATION_START___2.string.text
 msgid "Dear Sir or Madam"
-msgstr ""
+msgstr "A Chara"
 
 #: dbwizres.src#RID_LETTERWIZARDSALUTATION_START___3.string.text
 msgid "Hello"
@@ -109830,15 +109914,15 @@ msgstr "Haló"
 msgid ""
 "_: dbwizres.src#RID_LETTERWIZARDGREETING_START___1.string.text\n"
 "Sincerely"
-msgstr ""
+msgstr "Is mise, le meas"
 
 #: dbwizres.src#RID_LETTERWIZARDGREETING_START___2.string.text
 msgid "Best regards"
-msgstr ""
+msgstr "Le meas mór"
 
 #: dbwizres.src#RID_LETTERWIZARDGREETING_START___3.string.text
 msgid "Cheers"
-msgstr ""
+msgstr "Beir bua"
 
 #: dbwizres.src#RID_LETTERWIZARDROADMAP_START___1.string.text
 msgid ""
@@ -109848,7 +109932,7 @@ msgstr "Dearadh an leathanaigh"
 
 #: dbwizres.src#RID_LETTERWIZARDROADMAP_START___2.string.text
 msgid "Letterhead layout"
-msgstr ""
+msgstr "Leagan amach na ceannlitreach"
 
 #: dbwizres.src#RID_LETTERWIZARDROADMAP_START___3.string.text
 msgid "Printed items"
@@ -109898,7 +109982,7 @@ msgstr "~Lógó"
 msgid ""
 "_: dbwizres.src#RID_FAXWIZARDDIALOG_START___6.string.text\n"
 "S~ubject line"
-msgstr ""
+msgstr "~Líne an ábhair"
 
 #: dbwizres.src#RID_FAXWIZARDDIALOG_START___7.string.text
 msgid "S~alutation"
@@ -109908,7 +109992,7 @@ msgstr "~Fáilte"
 msgid ""
 "_: dbwizres.src#RID_FAXWIZARDDIALOG_START___8.string.text\n"
 "~Complimentary close"
-msgstr ""
+msgstr "~Beannú deámhéine"
 
 #: dbwizres.src#RID_FAXWIZARDDIALOG_START___9.string.text
 msgid ""
@@ -109920,7 +110004,7 @@ msgstr "~Buntásc"
 msgid ""
 "_: dbwizres.src#RID_FAXWIZARDDIALOG_START___10.string.text\n"
 "~Use user data for return address"
-msgstr ""
+msgstr "Bain úsáid as sonraí an ú~sáideora don seoladh fillte"
 
 #: dbwizres.src#RID_FAXWIZARDDIALOG_START___11.string.text
 msgid ""
@@ -109938,7 +110022,7 @@ msgstr "Cruthaigh ~facs ón teimpléad seo"
 
 #: dbwizres.src#RID_FAXWIZARDDIALOG_START___14.string.text
 msgid "Make ~manual changes to this fax template"
-msgstr ""
+msgstr "Déan ~athruithe láimhe ar an teimpléad facs seo"
 
 #: dbwizres.src#RID_FAXWIZARDDIALOG_START___15.string.text
 msgid ""
@@ -109957,6 +110041,8 @@ msgid ""
 "This wizard helps you to create a fax template. The template can then be "
 "used to create a fax whenever needed."
 msgstr ""
+"Cuidíonn an draoi seo duit teimpléad facs a chruthú. Féadfaí an teimpléad a "
+"úsáid ansin chun facs a chruthú nuair is gá leis."
 
 #: dbwizres.src#RID_FAXWIZARDDIALOG_START___18.string.text
 msgid ""
@@ -109993,12 +110079,16 @@ msgid ""
 "This wizard creates a fax template which enables you to create multiple "
 "faxes with the same layout and settings."
 msgstr ""
+"Cruthaíonn an draoi seo teimpléad facs a ligeann duit facsanna iomadúla a "
+"chruthú leis na socruithe agus leagan amach céanna."
 
 #: dbwizres.src#RID_FAXWIZARDDIALOG_START___24.string.text
 msgid ""
 "To create another new fax out of the template, go to the location where you "
 "saved the template and double-click the file."
 msgstr ""
+"Chun facs nua a chruthú as an teimpléad, téigh go dtí an suíomh inár "
+"shábháil tú an teimpléad agus déchliceáil ar an gcomhad."
 
 #: dbwizres.src#RID_FAXWIZARDDIALOG_START___25.string.text
 msgid "Template Name:"
@@ -110022,7 +110112,7 @@ msgstr "Roghnaigh cineál an fhacs agus dearadh an leathanaigh"
 
 #: dbwizres.src#RID_FAXWIZARDDIALOG_START___29.string.text
 msgid "Select items to include in the fax template"
-msgstr ""
+msgstr "Roghnaigh na rudaí atá uait sa teimpléad facs"
 
 #: dbwizres.src#RID_FAXWIZARDDIALOG_START___30.string.text
 msgid "Specify sender and recipient information"
@@ -110030,7 +110120,7 @@ msgstr "Sonraigh faisnéis maidir leis an seoltóir agus an faighteoir"
 
 #: dbwizres.src#RID_FAXWIZARDDIALOG_START___31.string.text
 msgid "Enter text for the footer"
-msgstr ""
+msgstr "Cuir isteach an téacs don bhuntásc"
 
 #: dbwizres.src#RID_FAXWIZARDDIALOG_START___32.string.text
 msgid ""
@@ -110042,13 +110132,13 @@ msgstr "Roghnaigh ainm agus sábháil an teimpléad"
 msgid ""
 "_: dbwizres.src#RID_FAXWIZARDDIALOG_START___33.string.text\n"
 "Include ~only on second and following pages"
-msgstr ""
+msgstr "~Cuir isteach ar gach leathanach ach an chéad cheann"
 
 #: dbwizres.src#RID_FAXWIZARDDIALOG_START___34.string.text
 msgid ""
 "_: dbwizres.src#RID_FAXWIZARDDIALOG_START___34.string.text\n"
 "~Include page number"
-msgstr ""
+msgstr "Cuir ~isteach uimhir an leathanaigh"
 
 #: dbwizres.src#RID_FAXWIZARDDIALOG_START___36.string.text
 msgid "~Type of message"
@@ -110062,13 +110152,13 @@ msgstr "Uimhir Fhacs:"
 msgid ""
 "_: dbwizres.src#RID_FAXWIZARDDIALOG_START___38.string.text\n"
 "Use placeholders for ~recipient's address"
-msgstr ""
+msgstr "Bain úsáid as ionadchoinneálaithe do sheoladh an ~fhaighteora"
 
 #: dbwizres.src#RID_FAXWIZARDDIALOG_START___39.string.text
 msgid ""
 "_: dbwizres.src#RID_FAXWIZARDDIALOG_START___39.string.text\n"
 "Use address database for ~mail merge"
-msgstr ""
+msgstr "Bain úsáid as bunachar sonraí na seoltaí do ~phostchumasc"
 
 #: dbwizres.src#RID_FAXWIZARDDIALOG_START___40.string.text
 msgid ""
@@ -110094,7 +110184,7 @@ msgstr "Dóibh siúd lena mbaineann,"
 
 #: dbwizres.src#RID_FAXWIZARDSALUTATION_START___2.string.text
 msgid "Dear Sir or Madam,"
-msgstr ""
+msgstr "A Chara,"
 
 #: dbwizres.src#RID_FAXWIZARDSALUTATION_START___3.string.text
 msgid "Hello,"
@@ -110102,13 +110192,13 @@ msgstr "Haló,"
 
 #: dbwizres.src#RID_FAXWIZARDSALUTATION_START___4.string.text
 msgid "Hi,"
-msgstr ""
+msgstr "Haló,"
 
 #: dbwizres.src#RID_FAXWIZARDGREETING_START___1.string.text
 msgid ""
 "_: dbwizres.src#RID_FAXWIZARDGREETING_START___1.string.text\n"
 "Sincerely"
-msgstr ""
+msgstr "Is mise, le meas"
 
 #: dbwizres.src#RID_FAXWIZARDGREETING_START___2.string.text
 msgid "Yours faithfully"
@@ -110116,11 +110206,11 @@ msgstr "Mise do chara"
 
 #: dbwizres.src#RID_FAXWIZARDGREETING_START___3.string.text
 msgid "Regards"
-msgstr ""
+msgstr "Le meas"
 
 #: dbwizres.src#RID_FAXWIZARDGREETING_START___4.string.text
 msgid "Love"
-msgstr ""
+msgstr "Le grá"
 
 #: dbwizres.src#RID_FAXWIZARDROADMAP_START___1.string.text
 msgid ""
@@ -110130,7 +110220,7 @@ msgstr "Dearadh an leathanaigh"
 
 #: dbwizres.src#RID_FAXWIZARDROADMAP_START___2.string.text
 msgid "Items to include"
-msgstr ""
+msgstr "Rudaí le cur isteach"
 
 #: dbwizres.src#RID_FAXWIZARDROADMAP_START___3.string.text
 msgid "Sender and Recipient"
@@ -110164,6 +110254,16 @@ msgid ""
 "You will be able to keep the documents you have published on the web up-to-"
 "date and add or remove documents at any time."
 msgstr ""
+"Chun cúnamh a thabhairt duit i bhfoilsiú cáipéisí ar an Idirlíon atá an "
+"Draoi Gréasáin seo. \n"
+"\n"
+"Aistreoidh sé na cáipéisí ionas go mbeidh siad inléite ag brabhsálaí "
+"gréasáin. Lena chois sin, ginfidh sé leathanach Chlár Ábhair le naisc a "
+"cheadós rochtain éasca ar do cháipéis. Tabharfaidh an Draoi Gréasáin seans "
+"duit dearadh agus leagan-amach do shuímh idirlín a oiriúnú. \n"
+"\n"
+"Beidh tú ábalta na cáipéisí a d'fhoilsigh tú ar an nGréasán a choimeád suas "
+"chun dáta agus cur leo nó baint uathu ag am ar bith."
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__5.string.text
 msgid "Introduction"
@@ -110191,11 +110291,11 @@ msgstr "Ú~dar:"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__12.string.text
 msgid "~Export to file format:"
-msgstr ""
+msgstr "~Easpórtáil i bhformáid comhaid:"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__13.string.text
 msgid "Enter general information for your web site"
-msgstr ""
+msgstr "Tabhair eolas ginearálta ar do shuíomh gréasáin"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__20.string.text
 msgid "E-mail:"
@@ -110207,7 +110307,7 @@ msgstr "Fógra cóipchirt:"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__25.string.text
 msgid "Where do you want to publish your web site?"
-msgstr ""
+msgstr "Cén áit ba mhaith leat do shuíomh gréasáin a fhoilsiú?"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__26.string.text
 msgid "Publish the new web site:"
@@ -110215,7 +110315,7 @@ msgstr "Foilsigh an suíomh Gréasáin nua:"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__27.string.text
 msgid "To a ~local folder"
-msgstr ""
+msgstr "Chuig comhad ~logánta"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__28.string.text
 msgid ""
@@ -110247,11 +110347,11 @@ msgstr "Sábháil m~ar:"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__36.string.text
 msgid "~Choose settings for the Web Wizard"
-msgstr ""
+msgstr "~Roghnaigh socruithe do Dhraoi an Ghréasáin"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__37.string.text
 msgid "Web site content "
-msgstr ""
+msgstr "Inneachar an tSuímh Ghréasáin"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__39.string.text
 msgid "Remo~ve"
@@ -110259,11 +110359,11 @@ msgstr "Bai~n"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__40.string.text
 msgid "Choose a layout for the table of contents of your web site"
-msgstr ""
+msgstr "Roghnaigh leagan amach do chlár ábhair do shuímh gréasáin"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__41.string.text
 msgid "Select a style for the table of contents page"
-msgstr ""
+msgstr "Roghnaigh stíl do leathanach an chláir ábhair"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__42.string.text
 msgid "~Style:"
@@ -110287,7 +110387,7 @@ msgstr "Formái~d chomhaid"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__56.string.text
 msgid "File format ~icon"
-msgstr ""
+msgstr "Deilbhín fhormáid an ~chomhaid"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__57.string.text
 msgid "Number ~of pages"
@@ -110300,6 +110400,7 @@ msgstr "~Méid (KB)"
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__59.string.text
 msgid "Click 'Preview' to see a preview in your browser:"
 msgstr ""
+"Cliceáil ar 'Réamhamharc' chun réamhamharc a fheiceáil i do bhrabhsálaí:"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__60.string.text
 msgid "Customize the selected layout"
@@ -110943,7 +111044,7 @@ msgstr "Dearadh an leathanaigh:"
 
 #: dbwizres.src#RID_AGENDAWIZARDDIALOG_START__41.string.text
 msgid "myAgendaTemplate.stw"
-msgstr ""
+msgstr "myAgendaTemplate.stw"
 
 #: dbwizres.src#RID_AGENDAWIZARDDIALOG_START__42.string.text
 msgid "My Agenda Template"
