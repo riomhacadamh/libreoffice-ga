@@ -176,7 +176,7 @@ msgstr "Tá an leabharlann seo léimh amháin."
 
 #: basidesh.src#RID_STR_REPLACELIB.string.text
 msgid "'XX' cannot be replaced."
-msgstr ""
+msgstr "Ní féidir 'XX' a ionadú."
 
 #: basidesh.src#RID_STR_IMPORTNOTPOSSIBLE.string.text
 msgid "'XX' cannot be added."
@@ -213,6 +213,9 @@ msgid ""
 "\n"
 "For more information, check the security settings."
 msgstr ""
+"De bharr slándála, ní féidir leat an macra seo a rith.\n"
+"\n"
+"Le haghaidh tuilleadh eolais, seiceáil na socruithe slándála.\n"
 
 #: basidesh.src#RID_STR_COMPILEERROR.string.text
 msgid "Compile Error: "
@@ -391,7 +394,7 @@ msgstr "Dialóg"
 #: TableWizard.xcu#..TableWizard.TableWizard.private.Tables.library.Name.value.text
 #: selector.src#RID_DLG_SCRIPTSELECTOR.TXT_SELECTOR_CATEGORIES.fixedtext.text
 msgid "Library"
-msgstr "Library"
+msgstr "Leabharlann"
 
 #: basidesh.src#RID_STR_NEWLIB.string.text
 msgid "New Library"
@@ -437,6 +440,8 @@ msgid ""
 "You will have to restart the program after this edit.\n"
 "Continue?"
 msgstr ""
+"Caithfidh tú an clár a atosú tar éis an athrú seo.\n"
+"Lean ar aghaidh mar sin féin?"
 
 #: basidesh.src#RID_STR_SEARCHALLMODULES.string.text
 msgid "Do you want to replace the text in all active modules?"
@@ -894,7 +899,7 @@ msgstr "Eolas cabhrach"
 
 #: moptions.src#RID_MACROOPTIONS.RID_FT_HELPID.fixedtext.text
 msgid "Help ID"
-msgstr ""
+msgstr "Aitheantas cabhrach"
 
 #: moptions.src#RID_MACROOPTIONS.RID_FT_HELPNAME.fixedtext.text
 msgid "Help file name"
@@ -1950,7 +1955,7 @@ msgstr "Cuir athróg in eagar"
 
 #: basic.src#LOAD_CONF.WORK.fixedtext.text
 msgid "Slot IDs"
-msgstr ""
+msgstr "Aitheantais shliotáin"
 
 #: basic.src#LOAD_CONF.FILENAME.fixedtext.text
 msgid "File.win"
@@ -1980,7 +1985,7 @@ msgstr "Clár tobscortha le GPF"
 
 #: svtmsg.src#S_APP_SHUTDOWN.string.text
 msgid "Application has been shut down"
-msgstr ""
+msgstr "Múchadh an feidhmchlár"
 
 #: svtmsg.src#S_SID_EXECUTE_FAILED_NO_DISPATCHER.string.text
 msgid "Slot ID cannot be executed. No ActiveDispatcher"
@@ -36678,7 +36683,7 @@ msgid "Authentication request"
 msgstr "Iarratas fíordheimhnithe"
 
 #: readme.xrm#ooo_readme.Welcome.A2.a.readmeitem.text
-msgid "Last updated $Date: 2006-05-09 19:46:43 $"
+msgid "Last updated $Date: 2006-05-09 19:55:37 $"
 msgstr ""
 
 #: readme.xrm#ooo_readme.Welcome.A3.a.readmeitem.text
