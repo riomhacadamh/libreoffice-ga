@@ -215,7 +215,7 @@ msgid ""
 msgstr ""
 "De bharr slándála, ní féidir leat an macra seo a rith.\n"
 "\n"
-"Le haghaidh tuilleadh eolais, seiceáil na socruithe slándála.\n"
+"Le haghaidh tuilleadh eolais, seiceáil na socruithe slándála."
 
 #: basidesh.src#RID_STR_COMPILEERROR.string.text
 msgid "Compile Error: "
@@ -36683,7 +36683,7 @@ msgid "Authentication request"
 msgstr "Iarratas fíordheimhnithe"
 
 #: readme.xrm#ooo_readme.Welcome.A2.a.readmeitem.text
-msgid "Last updated $Date: 2006-05-09 19:55:37 $"
+msgid "Last updated $Date: 2006-05-17 02:01:06 $"
 msgstr ""
 
 #: readme.xrm#ooo_readme.Welcome.A3.a.readmeitem.text
