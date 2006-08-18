@@ -36683,7 +36683,7 @@ msgid "Authentication request"
 msgstr "Iarratas fíordheimhnithe"
 
 #: readme.xrm#ooo_readme.Welcome.A2.a.readmeitem.text
-msgid "Last updated $Date: 2006-05-17 02:01:06 $"
+msgid "Last updated $Date: 2006-08-18 13:45:13 $"
 msgstr ""
 
 #: readme.xrm#ooo_readme.Welcome.A3.a.readmeitem.text
@@ -92919,7 +92919,7 @@ msgstr "Cáipéisí á seoladh mar iatáin ríomhphoist"
 
 #: optinet2.src#RID_SVXPAGE_INET_MAIL.FT_MAILERURL.fixedtext.text
 msgid "~E-mail program"
-msgstr "Clár ~Ríomhphost"
+msgstr "Clár ~Ríomhphoist"
 
 #: optjsearch.src#RID_SVXPAGE_JSEARCH_OPTIONS.FL_TREAT_AS_EQUAL.fixedline.text
 msgid "Treat as equal"
