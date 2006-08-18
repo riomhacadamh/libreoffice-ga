@@ -14,7 +14,7 @@
 #    and give current translation counts, version number in log entry
 # $ make   (rebuilds GSI and copies it to obair for Pavel's system)
 
-VERSION=SRC680_m156
+VERSION=SRC680_m162
 
 all : OOo-$(VERSION)-ga-GSI.sdf
 	bzip2 OOo-$(VERSION)-ga-GSI.sdf
@@ -41,6 +41,7 @@ OOo-$(VERSION)-ga-GSI.sdf : OOo-latest.po
 OOo-latest.po : OOo-latest.ga.po
 	rm -f $@
 	po2utf8 OOo-latest.ga.po > $@
+	sed -i 's/^msgid "Document as Microsoft \([^ ]*\) Attachment\.\.\."/msgid "Document as Microsoft \1 Attachment…"/' $@
 	chmod 400 $@
 
 propogate : FORCE
@@ -53,7 +54,7 @@ propogate : FORCE
 # relies on fact that utf-8/non-latin1 msgids are all in helpcontent
 #  only latin1/non-ascii are things like "Bézier"
 OOo.po-update : FORCE
-	find pot -name '*.pot' | egrep -v '^pot/helpcontent2' | sort | xargs msgcat -t utf-8 | iconv -f utf8 -t iso-8859-1 | sed 's/plain; charset=UTF-8/plain; charset=ISO-8859-1/' > bigole.pot
+	find pot -name '*.pot' | egrep -v '^pot/helpcontent2' | sort | xargs msgcat -t utf-8 | sed 's/^msgid "Document as Microsoft \([^ ]*\) Attachment..¦"/msgid "Document as Microsoft \1 Attachment..."/' | iconv -f utf8 -t iso-8859-1 | sed 's/plain; charset=UTF-8/plain; charset=ISO-8859-1/' > bigole.pot
 	msgmerge -C OOo-latest.ga.po -o TEMP.po /dev/null bigole.pot
 	msgcat TEMP.po > OOo-$(VERSION).ga.po
 	rm -f bigole.pot
