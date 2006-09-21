@@ -1,12 +1,12 @@
 # OOo pot file for Irish.
-#   CURRENT VERSION = SRC680_m181
+#   CURRENT VERSION = SRC680_m185
 # First version produced Sept. 2004 by Kevin Scannell using the oo2po
 # scripts by David Fraser et al
 msgid ""
 msgstr ""
 "Project-Id-Version: OOo\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-08-08 14:59+0200\n"
+"POT-Creation-Date: 2006-09-20 11:39+0200\n"
 "PO-Revision-Date: 2006-04-05 15:36-0000\n"
 "Last-Translator: Pat Folan <pat.folan@gmit.ie>\n"
 "Language-Team: \n"
@@ -4876,6 +4876,10 @@ msgstr ""
 msgid "The file \"$file$\" does not exist."
 msgstr "Níl an comhad \"$file$\" ann."
 
+#: strings.src#RID_STR_TABLE_DOES_NOT_EXIST.string.text
+msgid "There exists no table named \"$table$\"."
+msgstr "Níl aon tábla darb ainm \"$table$\" ann."
+
 #: strings.src#RID_STR_CONFLICTING_NAMES.string.text
 msgid ""
 "There are tables in the database whose names conflict with the names of "
@@ -5019,6 +5023,7 @@ msgid "Form Wizard..."
 msgstr "Draoi Foirme..."
 
 #: app.src#RID_MENU_APP_EDIT.SID_REPORT_CREATE_REPWIZ_PRE_SEL.menuitem.text
+#: toolbox_tmpl.hrc#MID_DOCUMENT_CREATE_REPWIZ.#define.text
 msgid "Report Wizard..."
 msgstr "Draoi Tuairisce..."
 
@@ -5266,9 +5271,13 @@ msgstr "Iarratais"
 msgid "Tables"
 msgstr "Táblaí"
 
-#: sbabrw.src#MID_ADMINISTRATE.#define.text
+#: sbabrw.src#MID_EDIT_DATABASE.#define.text
 msgid "Edit ~Database File..."
 msgstr "Cuir Comhad ~Bunachair Sonraí in Eagar..."
+
+#: sbabrw.src#MID_ADMINISTRATE.#define.text
+msgid "Registered databases ..."
+msgstr "Bunachair shonraí cláraithe..."
 
 #: sbabrw.src#MID_CLOSECONN.#define.text
 msgid "Disco~nnect"
@@ -5642,7 +5651,6 @@ msgstr "-"
 
 #: CollectionView.src#DLG_COLLECTION_VIEW.BTN_EXPLORERFILE_UP.imagebutton.quickhelptext
 #: iodlg.src#DLG_SVT_EXPLORERFILE.BTN_EXPLORERFILE_UP.menubutton.quickhelptext
-#: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_IncrementLevel.Label.value.text
 #: templwin.src#TB_SVT_FILEVIEW.TI_DOCTEMPLATE_PREV.toolboxitem.text
 #: filedlg2.src#STR_FILEDLG_GOUP.string.text
 #: swslots.src#FN_NUM_BULLET_UP.sfxslotinfo.text
@@ -7535,10 +7543,6 @@ msgstr "Eagar..."
 msgid "Column ~Width..."
 msgstr "Leithead ~Colúin..."
 
-#: toolbox_tmpl.hrc#MID_DOCUMENT_CREATE_REPWIZ.#define.text
-msgid "Report AutoPilot..."
-msgstr "UathPhíolóta: Tuairisc..."
-
 #: toolbox_tmpl.hrc#MID_DOCUMENT_NEW_AUTOPILOT.#define.text
 msgid "Form AutoPilot..."
 msgstr "UathPhíolóta: Foirm..."
@@ -7856,8 +7860,8 @@ msgstr "Níorbh fhéidir cineál colúin comhfhreagrach a aimsiú do cholún '#1
 
 #: dbumiscres.src#STR_WARNINGS_DURING_CONNECT.string.text
 msgid ""
-"Warnings were encountered while connecting to the data source. Press \"More"
-"\" to view them."
+"Warnings were encountered while connecting to the data source. Press "
+"\"$buttontext$\" to view them."
 msgstr ""
 
 #: dbumiscres.src#STR_NAMED_OBJECT_ALREADY_EXISTS.string.text
@@ -8488,6 +8492,14 @@ msgid ""
 "deleted and the new format appended?"
 msgstr ""
 
+#: table.src#STR_TABLEDESIGN_SAVE_ERROR.string.text
+msgid "Error while saving the table design"
+msgstr "Earráid agus dearadh an tábla á shábháil"
+
+#: table.src#STR_TABLEDESIGN_COULD_NOT_DROP_COL.string.text
+msgid "The column $column$ could not be deleted."
+msgstr "Níorbh fhéidir colún $column$ a scriosadh."
+
 #: table.src#TABLE_DESIGN_ALL_ROWS_DELETED.querybox.text
 msgid ""
 "You are trying to delete all the columns in the table. A table cannot exist "
@@ -8862,7 +8874,8 @@ msgstr "Pacáistí á nEaspórtáil"
 #: dp_gui_dialog.src#RID_DLG_LICENSE.FT_LICENSE_HEADER.fixedtext.text
 msgid ""
 "Please follow these steps to proceed with the installation of the extension:"
-msgstr "Lean na céimeanna seo chun dul ar aghaidh le suiteáil na heisínteachta:"
+msgstr ""
+"Lean na céimeanna seo chun dul ar aghaidh le suiteáil na heisínteachta:"
 
 #: dp_gui_dialog.src#RID_DLG_LICENSE.FT_LICENSE_BODY_1.fixedtext.text
 #: wizard.src#TP_LICENSE.FT_LICENSE_BODY_1.fixedtext.text
@@ -10639,6 +10652,40 @@ msgstr "Réimse Lipéid"
 msgid "Label"
 msgstr "Lipéad"
 
+#: formres.src#RID_STR_VERTICAL_ALIGN.string.text
+msgid "Vert. Alignment"
+msgstr "Ailíniú Ingearach"
+
+#: formres.src#RID_RSC_ENUM_VERTICAL_ALIGN.1.string.text
+#: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Randbetween.4.string.text
+#: pvfundlg.src#RID_SCDLG_DPSUBTOTAL_OPT.LB_SHOW_FROM.1.stringlist.text
+#: strings.src#STR_GLUE_ESCDIR_TOP.string.text
+#: animobjs.src#FLT_WIN_ANIMATION.LB_ADJUSTMENT.4.stringlist.text
+#: svdstr.src#STR_ItemValTEXTVADJTOP.string.text
+#: tbxdraw.src#RID_SVXTBX_ALIGNMENT.TBX_ALIGNMENT.SID_OBJECT_ALIGN_UP.toolboxitem.text
+#: swslots.src#FN_TABLE_VERT_NONE.sfxslotinfo.text
+#: column.src#TP_COLUMN.LB_POSITION.1.stringlist.text
+#: tabledlg.src#TP_TABLE_TEXTFLOW.LB_VERTORIENT.1.stringlist.text
+msgid "Top"
+msgstr "Ag barr"
+
+#: formres.src#RID_RSC_ENUM_VERTICAL_ALIGN.2.string.text
+msgid "Middle"
+msgstr "Meán"
+
+#: formres.src#RID_RSC_ENUM_VERTICAL_ALIGN.3.string.text
+#: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Randbetween.2.string.text
+#: pvfundlg.src#RID_SCDLG_DPSUBTOTAL_OPT.LB_SHOW_FROM.2.stringlist.text
+#: strings.src#STR_GLUE_ESCDIR_BOTTOM.string.text
+#: animobjs.src#FLT_WIN_ANIMATION.LB_ADJUSTMENT.6.stringlist.text
+#: svdstr.src#STR_ItemValTEXTVADJBOTTOM.string.text
+#: tbxdraw.src#RID_SVXTBX_ALIGNMENT.TBX_ALIGNMENT.SID_OBJECT_ALIGN_DOWN.toolboxitem.text
+#: swslots.src#FN_TABLE_VERT_BOTTOM.sfxslotinfo.text
+#: column.src#TP_COLUMN.LB_POSITION.3.stringlist.text
+#: tabledlg.src#TP_TABLE_TEXTFLOW.LB_VERTORIENT.3.stringlist.text
+msgid "Bottom"
+msgstr "Ag bun"
+
 #: formres.src#RID_STR_IMAGEPOSITION.string.text
 msgid "Graphics alignment"
 msgstr "Ailíniú grafaice"
@@ -11615,6 +11662,7 @@ msgid ""
 msgstr "Réimse Lipéid"
 
 #: pcrmiscres.src#RID_STR_PROPTITLE_IMAGEBUTTON.string.text
+#: Addons.xcu#.Addons.AddonUI.OfficeToolBar.com.sun.star.comp.framework.addon.complextoolbarcontrols.m1.Title.value.text
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_Imagebutton.Label.value.text
 #: fmstring.src#RID_STR_PROPTITLE_IMAGEBUTTON.string.text
 msgid "Image Button"
@@ -16505,6 +16553,15 @@ msgstr "Neipeailis"
 msgid "Installs Nepali support in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Suiteáil tacaíocht don Neipeailis i %PRODUCTNAME %PRODUCTVERSION"
 
+#: Langpack.ulf#OOO_LANGPACK_NAME_1064.LngText.text
+#: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_TAJIK.pairedlist.text
+msgid "Tajik"
+msgstr "Táidsícis"
+
+#: Langpack.ulf#OOO_LANGPACK_DESC_1064.LngText.text
+msgid "Installs Tajik support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr "Suiteáil tacaíocht don Táidsícis i %PRODUCTNAME %PRODUCTVERSION"
+
 #: Langpack.ulf#OOO_LANGPACK_NAME_1025.LngText.text
 #: svxitems.src#RID_SVXITEMS_PAGE_NUM_ARABIC.string.text
 #: optctl.src#RID_SVXPAGE_OPTIONS_CTL.LB_NUMERALS.1.stringlist.text
@@ -16708,7 +16765,8 @@ msgstr "Ioruais (Nynorsk)"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_2068.LngText.text
 msgid "Installs Norwegian (Nynorsk) support in %PRODUCTNAME %PRODUCTVERSION"
-msgstr "Suiteáil tacaíocht don Ioruais (Nynorsk) i %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+"Suiteáil tacaíocht don Ioruais (Nynorsk) i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_NAME_2074.LngText.text
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_SERBIAN_LATIN.pairedlist.text
@@ -16717,7 +16775,8 @@ msgstr "Seirbis (Laidineach)"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_2074.LngText.text
 msgid "Installs Serbian (Latin) support in %PRODUCTNAME %PRODUCTVERSION"
-msgstr "Suiteáil tacaíocht don tSeirbis (Laidineach) i %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+"Suiteáil tacaíocht don tSeirbis (Laidineach) i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_NAME_2108.LngText.text
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_GAELIC_IRELAND.pairedlist.text
@@ -16735,7 +16794,8 @@ msgstr "Seirbis (Coireallach)"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_3098.LngText.text
 msgid "Installs Serbian (Cyrillic) support in %PRODUCTNAME %PRODUCTVERSION"
-msgstr "Suiteáil tacaíocht don tSeirbis (Coireallach) i %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+"Suiteáil tacaíocht don tSeirbis (Coireallach) i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_NAME_5146.LngText.text
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_BOSNIAN_BOSNIA_HERZEGOVINA.pairedlist.text
@@ -16872,7 +16932,8 @@ msgstr "Malaeis (Malaeisia)"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_1086.LngText.text
 msgid "Installs Malay (Malaysian) support in %PRODUCTNAME %PRODUCTVERSION"
-msgstr "Suiteáil tacaíocht don Mhalaeis (Malaeisia) i %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+"Suiteáil tacaíocht don Mhalaeis (Malaeisia) i %PRODUCTNAME %PRODUCTVERSION"
 
 #: LaunchCo.ulf#OOO_LAUNCH_1.LngText.text
 msgid ""
@@ -16972,7 +17033,7 @@ msgstr "GB"
 #: UIText.ulf#OOO_UITEXT_3.LngText.text sfx.src#STR_KB.string.text
 #: fileview.src#STR_SVT_KB.string.text
 msgid "KB"
-msgstr "KB"
+msgstr "kB"
 
 #: UIText.ulf#OOO_UITEXT_4.LngText.text sfx.src#STR_MB.string.text
 #: fileview.src#STR_SVT_MB.string.text
@@ -17294,6 +17355,30 @@ msgid ""
 "Are you sure you want to quit the %PRODUCTNAME %PRODUCTVERSION Installation "
 "Preparation"
 msgstr ""
+
+#: Addons.xcu#.Addons.AddonUI.OfficeToolBar.com.sun.star.comp.framework.addon.complextoolbarcontrols.m2.Title.value.text
+msgid "ComboBox"
+msgstr "ComboBox"
+
+#: Addons.xcu#.Addons.AddonUI.OfficeToolBar.com.sun.star.comp.framework.addon.complextoolbarcontrols.m4.Title.value.text
+msgid "Spinfield"
+msgstr "Spinfield"
+
+#: Addons.xcu#.Addons.AddonUI.OfficeToolBar.com.sun.star.comp.framework.addon.complextoolbarcontrols.m6.Title.value.text
+msgid "Editfield"
+msgstr "Editfield"
+
+#: Addons.xcu#.Addons.AddonUI.OfficeToolBar.com.sun.star.comp.framework.addon.complextoolbarcontrols.m8.Title.value.text
+msgid "Dropdownbox"
+msgstr "Dropdownbox"
+
+#: Addons.xcu#.Addons.AddonUI.OfficeToolBar.com.sun.star.comp.framework.addon.complextoolbarcontrols.m9.Title.value.text
+msgid "Toggle Dropdown Button"
+msgstr ""
+
+#: Addons.xcu#.Addons.AddonUI.OfficeToolBar.com.sun.star.comp.framework.addon.complextoolbarcontrols.m10.Title.value.text
+msgid "Dropdown Button"
+msgstr "Cnaipe Anuas"
 
 #: Common.xcu#..Common.Menus.New.m0.Title.value.text
 msgid "~Text Document"
@@ -26644,6 +26729,7 @@ msgid "Pre~view"
 msgstr "Réamha~mharc"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_CustomAnimation.Label.value.text
+#: menuids_tmpl.src#MN_EFFECT.SID_CUSTOM_ANIMATION_PANEL.menuitem.text
 msgid "Custom Animation..."
 msgstr "Beochan Shaincheaptha..."
 
@@ -34851,15 +34937,17 @@ msgid ""
 msgstr "Go Deireadh na Cáipéise"
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_DecrementLevel.Label.value.text
-#: swslots.src#FN_NUM_BULLET_DOWN.sfxslotinfo.text
-#: swmn_tmpl.hrc#_NUMBERING_RELATED_MENU.FN_NUM_BULLET_DOWN.menuitem.text
-msgid "Down One Level"
-msgstr "An Leibhéal Thíos"
+msgid "Demote One Level"
+msgstr "Ísligh Leibhéal Amháin"
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_GoToStartOfNextPage.Label.value.text
 #: swslots.src#FN_START_OF_NEXT_PAGE.sfxslotinfo.text
 msgid "To Begin of Next Page"
 msgstr ""
+
+#: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_IncrementLevel.Label.value.text
+msgid "Promote One Level"
+msgstr "Ardaigh Leibhéal Amháin"
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_SetOptimalColumnWidth.Label.value.text
 #: swslots.src#FN_TABLE_ADJUST_CELLS.sfxslotinfo.text
@@ -34946,11 +35034,8 @@ msgid "To Column Begin"
 msgstr ""
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_DecrementSubLevels.Label.value.text
-msgid ""
-"_: WriterCommands.xcu#..WriterCommands.UserInterface.Commands.."
-"uno_DecrementSubLevels.Label.value.text\n"
-"Move Down with Subpoints"
-msgstr "Bog Síos le Fophointí"
+msgid "Demote One Level With Subpoints"
+msgstr ""
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_GoToEndOfColumn.Label.value.text
 #: swslots.src#FN_END_OF_COLUMN.sfxslotinfo.text
@@ -34958,18 +35043,12 @@ msgid "To Column End"
 msgstr "Go Deireadh an Cholúin"
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_IncrementSubLevels.Label.value.text
-msgid ""
-"_: WriterCommands.xcu#..WriterCommands.UserInterface.Commands.."
-"uno_IncrementSubLevels.Label.value.text\n"
-"Move Up with Subpoints"
-msgstr "Bog Suas le Fopointí"
+msgid "Promote One Level With Subpoints"
+msgstr ""
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_MoveUpSubItems.Label.value.text
-msgid ""
-"_: WriterCommands.xcu#..WriterCommands.UserInterface.Commands.."
-"uno_MoveUpSubItems.Label.value.text\n"
-"Move Up with Subpoints"
-msgstr "Bog Suas le Fopointí"
+msgid "Move Up with Subpoints"
+msgstr "Bog Suas le Fophointí"
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_GoToStartOfPara.Label.value.text
 #: swslots.src#FN_START_OF_PARA.sfxslotinfo.text
@@ -34977,10 +35056,7 @@ msgid "To Paragraph Begin"
 msgstr ""
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_MoveDownSubItems.Label.value.text
-msgid ""
-"_: WriterCommands.xcu#..WriterCommands.UserInterface.Commands.."
-"uno_MoveDownSubItems.Label.value.text\n"
-"Move Down with Subpoints"
+msgid "Move Down with Subpoints"
 msgstr "Bog Síos le Fophointí"
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_GoToEndOfPara.Label.value.text
@@ -39234,33 +39310,9 @@ msgstr ""
 msgid "Returns a random integer between the numbers you specify"
 msgstr "Aisfhilleann sé slánuimhir randamach idir na huimhreacha sonraithe"
 
-#: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Randbetween.2.string.text
-#: pvfundlg.src#RID_SCDLG_DPSUBTOTAL_OPT.LB_SHOW_FROM.2.stringlist.text
-#: strings.src#STR_GLUE_ESCDIR_BOTTOM.string.text
-#: animobjs.src#FLT_WIN_ANIMATION.LB_ADJUSTMENT.6.stringlist.text
-#: svdstr.src#STR_ItemValTEXTVADJBOTTOM.string.text
-#: tbxdraw.src#RID_SVXTBX_ALIGNMENT.TBX_ALIGNMENT.SID_OBJECT_ALIGN_DOWN.toolboxitem.text
-#: swslots.src#FN_TABLE_VERT_BOTTOM.sfxslotinfo.text
-#: column.src#TP_COLUMN.LB_POSITION.3.stringlist.text
-#: tabledlg.src#TP_TABLE_TEXTFLOW.LB_VERTORIENT.3.stringlist.text
-msgid "Bottom"
-msgstr "Ag bun"
-
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Randbetween.3.string.text
 msgid "The smallest integer returned"
 msgstr "An tslánuimhir ba lú a gineadh"
-
-#: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Randbetween.4.string.text
-#: pvfundlg.src#RID_SCDLG_DPSUBTOTAL_OPT.LB_SHOW_FROM.1.stringlist.text
-#: strings.src#STR_GLUE_ESCDIR_TOP.string.text
-#: animobjs.src#FLT_WIN_ANIMATION.LB_ADJUSTMENT.4.stringlist.text
-#: svdstr.src#STR_ItemValTEXTVADJTOP.string.text
-#: tbxdraw.src#RID_SVXTBX_ALIGNMENT.TBX_ALIGNMENT.SID_OBJECT_ALIGN_UP.toolboxitem.text
-#: swslots.src#FN_TABLE_VERT_NONE.sfxslotinfo.text
-#: column.src#TP_COLUMN.LB_POSITION.1.stringlist.text
-#: tabledlg.src#TP_TABLE_TEXTFLOW.LB_VERTORIENT.1.stringlist.text
-msgid "Top"
-msgstr "Ag barr"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Randbetween.5.string.text
 msgid "The largest integer returned"
@@ -61838,6 +61890,7 @@ msgstr ""
 
 #: scstring.src#SCSTR_MEDIASHELL.string.text
 #: glob.src#STR_MEDIAOBJECTBARSHELL.string.text
+#: toolbox.src#RID_DRAW_MEDIA_TOOLBOX.string.text
 msgid "Media Playback"
 msgstr "Athsheinm Meán"
 
@@ -71303,7 +71356,6 @@ msgid ""
 msgstr ""
 
 #: nocode.src#STR_INS_FILE_ICON.string.text
-#: so3res.src#STR_INS_FILE_ICON.string.text
 msgid "Inserts the contents of the file as an icon into your document ."
 msgstr ""
 
@@ -74201,6 +74253,10 @@ msgstr "Ní thacaíonn an réad aon ghníomh."
 #: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_NOTIMPL___S_MAX.string.text
 msgid "Object does not support this action."
 msgstr "Ní thacaíonn an réad leis an ngníomh seo."
+
+#: so3res.src#STR_INS_FILE_ICON.string.text
+msgid "Inserts the contents of the file as an icon into your document."
+msgstr ""
 
 #: wizardmachine.src#STR_WIZDLG_PREVIOUS.string.text
 msgid "<< Bac~k"
@@ -81584,10 +81640,6 @@ msgstr "Tigrínis (An Aetóip)"
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_AMHARIC_ETHIOPIA.pairedlist.text
 msgid "Amharic"
 msgstr "Amáiris"
-
-#: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_TAJIK.pairedlist.text
-msgid "Tajik"
-msgstr "Táidsícis"
 
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_KIRGHIZ.pairedlist.text
 msgid "Kirghiz"
@@ -90067,10 +90119,6 @@ msgid ""
 "LIKE;NOT;EMPTY;TRUE;FALSE;IS;BETWEEN;OR;AND;Average;Count;Maximum;Minimum;Sum"
 msgstr ""
 
-#: fmstring.src#RID_STR_SVT_SQL_SYNTAX_ERROR_BEFORE.string.text
-msgid "before \"#\" expression."
-msgstr "roimh shlonn \"#\"."
-
 #: fmstring.src#RID_STR_SVT_SQL_SYNTAX_VALUE_NO_LIKE.string.text
 msgid "The value #1 cannot be used with LIKE."
 msgstr "Ní féidir an luach #1 a úsáid le LIKE."
@@ -90078,10 +90126,6 @@ msgstr "Ní féidir an luach #1 a úsáid le LIKE."
 #: fmstring.src#RID_STR_SVT_SQL_SYNTAX_FIELD_NO_LIKE.string.text
 msgid "LIKE cannot be used with this field."
 msgstr "Ní féidir LIKE a úsáid leis an réimse seo."
-
-#: fmstring.src#RID_STR_SVT_SQL_SYNTAX_NO_NUM.string.text
-msgid "The field cannot be compared with a string."
-msgstr "Ní féidir an réimse a chur i gcomparáid le teaghrán."
 
 #: fmstring.src#RID_STR_SVT_SQL_SYNTAX_ACCESS_DAT_NO_VALID.string.text
 msgid ""
@@ -90114,8 +90158,8 @@ msgid "The statement contains a cyclic reference to one or more sub queries."
 msgstr ""
 
 #: fmstring.src#RID_STR_SVT_SQL_SYNTAX_COLUMN.string.text
-msgid "The column \"#\" is unknown in the table \"#\"."
-msgstr "Is anaithnid é an colún \"#\" sa tábla \"#\"."
+msgid "The column \"#1\" is unknown in the table \"#2\"."
+msgstr "Tá colún \"#1\" anaithnid sa tábla \"#2\"."
 
 #: fmstring.src#RID_STR_SVT_SQL_SYNTAX_REAL_NO_VALID.string.text
 msgid "The field cannot be compared with a floating point number."
@@ -95756,29 +95800,25 @@ msgstr "Spásáil na gCarachtar Fontwork"
 msgid ""
 "_: lboxctrl.src#RID_SVXSTR_NUM_UNDO_ACTIONS.string.text\n"
 "Actions to undo: $(ARG1)"
-msgstr ""
-"Gníomhartha le cealú: $(ARG1)"
+msgstr "Gníomhartha le cealú: $(ARG1)"
 
 #: lboxctrl.src#RID_SVXSTR_NUM_UNDO_ACTION.string.text
 msgid ""
 "_: lboxctrl.src#RID_SVXSTR_NUM_UNDO_ACTION.string.text\n"
 "Actions to undo: $(ARG1)"
-msgstr ""
-"Gníomhartha le cealú: $(ARG1)"
+msgstr "Gníomhartha le cealú: $(ARG1)"
 
 #: lboxctrl.src#RID_SVXSTR_NUM_REDO_ACTIONS.string.text
 msgid ""
 "_: lboxctrl.src#RID_SVXSTR_NUM_REDO_ACTIONS.string.text\n"
 "Actions to redo: $(ARG1)"
-msgstr ""
-"Gníomhartha le hathdhéanamh: $(ARG1)"
+msgstr "Gníomhartha le hathdhéanamh: $(ARG1)"
 
 #: lboxctrl.src#RID_SVXSTR_NUM_REDO_ACTION.string.text
 msgid ""
 "_: lboxctrl.src#RID_SVXSTR_NUM_REDO_ACTION.string.text\n"
 "Actions to redo: $(ARG1)"
-msgstr ""
-"Gníomhartha le hathdhéanamh: $(ARG1)"
+msgstr "Gníomhartha le hathdhéanamh: $(ARG1)"
 
 #: tbcontrl.src#RID_SVXSTR_TRANSPARENT.string.text
 msgid "No Fill"
@@ -96211,6 +96251,11 @@ msgstr "Cruthaigh Máistircháipéis"
 #: swslots.src#FN_NEW_HTML_DOC.sfxslotinfo.text
 msgid "Create HTML Document"
 msgstr "Cruthaigh Cáipéis HTML"
+
+#: swslots.src#FN_NUM_BULLET_DOWN.sfxslotinfo.text
+#: swmn_tmpl.hrc#_NUMBERING_RELATED_MENU.FN_NUM_BULLET_DOWN.menuitem.text
+msgid "Down One Level"
+msgstr "An Leibhéal Thíos"
 
 #: swslots.src#FN_NUM_BULLET_OUTLINE_DOWN.sfxslotinfo.text
 msgid ""
@@ -110263,7 +110308,7 @@ msgstr "Líon ~na leathanach"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__58.string.text
 msgid "~Size in KB"
-msgstr "~Méid (KB)"
+msgstr "~Méid (kB)"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__59.string.text
 msgid "Click 'Preview' to see a preview in your browser:"
