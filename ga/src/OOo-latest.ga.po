@@ -8,7 +8,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-09-20 11:39+0200\n"
 "PO-Revision-Date: 2006-04-05 15:36-0000\n"
-"Last-Translator: Pat Folan <pat.folan@gmit.ie>\n"
+"Last-Translator: Kevin Scannell <scannell@slu.edu>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=iso-8859-1\n"
@@ -11166,7 +11166,7 @@ msgstr "Cnaipe luiche brúite"
 #: formres.src#RID_STR_EVT_MOUSERELEASED.string.text
 #: macropg.src#RID_SVXSTR_EVENT_MOUSERELEASED.string.text
 msgid "Mouse button released"
-msgstr "Cnaipe luiche scaoilte "
+msgstr "Cnaipe luiche scaoilte"
 
 #: formres.src#RID_STR_EVT_POSITIONING.string.text
 #: macropg.src#RID_SVXSTR_EVENT_POSITIONING.string.text
