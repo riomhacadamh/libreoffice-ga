@@ -17,7 +17,7 @@ do
 #	msguniq "${pofile}" > ${TEMPPOT}
 	if msgmerge -N -C "${UTFCOMP}" -o "${TARGET}" /dev/null "${TEMPPOT}" > /dev/null 2>&1
 	then
-		echo "merged fine."
+		echo "merged fine." > /dev/null
 	else
 		echo "PROBLEM TRANSLATING ${pofile}!!!" >> aistriuchan.log
 		msgmerge -N -C "${UTFCOMP}" -o "${TARGET}" /dev/null "${TEMPPOT}" > aistriuchan.log 2>&1
@@ -25,7 +25,6 @@ do
 	Pofake ${TARGET} > tempe.po
 	mv -f tempe.po ${TARGET}
 	sed -i '/charset=ISO-8859-1/s/.*/"Content-Type: text\/plain; charset=UTF-8\\n"/' ${TARGET}
-	echo
 #	rm -f ${TEMPPOT} # ${pofile}
 done
 cp -Rf pot po

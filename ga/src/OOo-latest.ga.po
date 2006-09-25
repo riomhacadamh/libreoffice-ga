@@ -14982,7 +14982,7 @@ msgstr ""
 msgid ""
 "_: Control.ulf#OOO_CONTROL_189.LngText.text\n"
 "Click Restore or Continue Later to exit the wizard."
-msgstr ""
+msgstr "Cliceáil Athchóirigh nó Lean Ar Aghaidh Ar Ball chun an draoi a scor."
 
 #: Control.ulf#OOO_CONTROL_190.LngText.text
 msgid ""
@@ -15179,8 +15179,7 @@ msgstr ""
 msgid ""
 "_: Control.ulf#OOO_CONTROL_225.LngText.text\n"
 "Click Restore or Continue Later to exit the wizard."
-msgstr ""
-"Cliceáil Athchóirigh nó Lean Ar Aghaidh Ar Ball chun an draoi a scor.
+msgstr "Cliceáil Athchóirigh nó Lean Ar Aghaidh Ar Ball chun an draoi a scor."
 
 #: Control.ulf#OOO_CONTROL_226.LngText.text
 msgid ""
