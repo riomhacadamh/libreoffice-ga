@@ -4381,7 +4381,7 @@ msgstr ""
 
 #: conn_shared_res.src#STR_CANT_FIND_ROW.string.text
 msgid "Can't find the requested row."
-msgstr ""
+msgstr "Ní féidir an ró iarrtha a aimsiú."
 
 #: conn_shared_res.src#STR_CANT_FIND_CARD_FOR_ROW.string.text
 msgid "Can't find the card for the requested row."
@@ -9612,7 +9612,7 @@ msgstr "Teideal na Foinse Sonraí"
 
 #: abspilot.src#RID_DLG_ADDRESSBOOKSOURCEPILOT.STR_ROADMAP_TITLE.string.text
 msgid "Address Book Data Source"
-msgstr ""
+msgstr "Foinse Sonraí Seolaidh"
 
 #: abspilot.src#RID_PAGE_SELECTABTYPE.tabpage.text
 msgid "Welcome to the Address Data Source Wizard."
@@ -9629,7 +9629,7 @@ msgstr ""
 
 #: abspilot.src#RID_PAGE_SELECTABTYPE.FL_TYPE.fixedline.text
 msgid "Please select the type of your external address book:"
-msgstr "Roghnaigh cineál do leabhar seachtrach seoltaí:"
+msgstr "Roghnaigh cineál do leabhair seachtraigh seoltaí:"
 
 #: abspilot.src#RID_PAGE_SELECTABTYPE.RB_MORK.radiobutton.text
 msgid "Mozilla / Netscape"
@@ -9773,7 +9773,7 @@ msgstr "Addresses"
 
 #: abspilot.src#RID_STR_ADMINDIALOGTITLE.string.text
 msgid "Create Address Data Source"
-msgstr ""
+msgstr "Cruthaigh Foinse Sonraí Seolaidh"
 
 #: abspilot.src#RID_STR_NOCONNECTION.string.text
 msgid "The connection could not be established."
@@ -12076,7 +12076,7 @@ msgstr "Scarbhileog OpenDocument"
 
 #: calc_HTML_WebQuery_ui.xcu#calc_HTML_WebQuery.UIName.value.text
 msgid "Web Page Query (%productname% Calc)"
-msgstr ""
+msgstr "Iarratas ar Shuíomh Gréasáin Query (%productname% Calc)"
 
 #: calc_StarOffice_XML_Calc_Template_ui.xcu#calc_StarOffice_XML_Calc_Template.UIName.value.text
 msgid "%productname% %formatversion% Spreadsheet Template"
@@ -15174,11 +15174,13 @@ msgid ""
 "its original state prior to the installation."
 msgstr ""
 
+# Don't see "Continue Later" in PO
 #: Control.ulf#OOO_CONTROL_225.LngText.text
 msgid ""
 "_: Control.ulf#OOO_CONTROL_225.LngText.text\n"
 "Click Restore or Continue Later to exit the wizard."
 msgstr ""
+"Cliceáil Athchóirigh nó Lean Ar Aghaidh Ar Ball chun an draoi a scor.
 
 #: Control.ulf#OOO_CONTROL_226.LngText.text
 msgid ""
@@ -17405,7 +17407,7 @@ msgstr "Cáipéis ~HTML"
 
 #: Common.xcu#..Common.Menus.New.m7.Title.value.text
 msgid "~XML Form Document"
-msgstr ""
+msgstr "Cáipéis Fhoirme ~XML"
 
 #: Common.xcu#..Common.Menus.New.m8.Title.value.text
 msgid "M~aster Document"
@@ -17457,7 +17459,7 @@ msgstr "Tiontaire ~Eoró..."
 
 #: Common.xcu#..Common.Menus.Wizard.m14.Title.value.text
 msgid "Address Data Source..."
-msgstr ""
+msgstr "Foinse Sonraí Seolaidh..."
 
 #: Common.xcu#..Common.Menus.Wizard.m15.Title.value.text
 msgid "Install new dictionaries..."
@@ -31231,7 +31233,7 @@ msgstr "Rialtán Íomhá"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_BrowseView.Label.value.text
 msgid "~Web Layout"
-msgstr ""
+msgstr "Leagan Amach ~Gréasáin"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_PlugInsActive.Label.value.text
 #: globlmn_tmpl.hrc#ITEM_EDIT_PLUGINS_ACTIVE.#define.text
@@ -31256,7 +31258,7 @@ msgstr "Stíl Limistéir / Líonadh"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_AutoPilotAddressDataSource.Label.value.text
 msgid "AutoPilot: Address Data Source"
-msgstr ""
+msgstr "UathPhíolóta: Foinse Sonraí Seolaidh"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_FillColor.Label.value.text
 msgid "Fill Color"
@@ -31823,7 +31825,7 @@ msgstr ""
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_Redo.Label.value.text
 #: globlmn_tmpl.hrc#ITEM_EDIT_REDO.#define.text
 msgid "Can't Restore"
-msgstr ""
+msgstr "Ní féidir Athchóiriú"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_Undo.Label.value.text
 msgid ""
@@ -31982,11 +31984,11 @@ msgstr "Cuir an tAmharc Eagarthóireachta Ar Ais"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_BasicBreak.Label.value.text
 msgid "Interrupt Macro"
-msgstr ""
+msgstr "Stop an Macra"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_TextFitToSize.Label.value.text
 msgid "Fit to Frame"
-msgstr ""
+msgstr "Oiriúnaigh don Fhráma"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_ImageMapDialog.Label.value.text
 #: globlmn_tmpl.hrc#ITEM_EDIT_IMAP.#define.text
@@ -34304,7 +34306,7 @@ msgstr "~Cuir i bhFeidhm"
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_OnlineAutoFormat.Label.value.text
 msgid "~While Typing"
-msgstr ""
+msgstr "~Le linn clóscríofa"
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_StatePageNumber.Label.value.text
 msgid ""
@@ -34526,11 +34528,11 @@ msgstr "Luchtaigh Stíleanna..."
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_CreateAbstract.Label.value.text
 msgid "Create A~utoAbstract..."
-msgstr ""
+msgstr "Déan ~UathChoimriú..."
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_SendAbstractToStarImpress.Label.value.text
 msgid "AutoAbst~ract to Presentation..."
-msgstr ""
+msgstr "UathChoim~riú go Láithreoireacht..."
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_NameGroup.Label.value.text
 msgid "Name Group..."
@@ -35481,7 +35483,7 @@ msgstr "An ~Chéad Alt"
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_DistributeColumns.Label.value.text
 msgid "~Distribute Columns Evenly"
-msgstr ""
+msgstr "~Leag Colúin Amach Go Cothrom"
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_IncrementIndentValue.Label.value.text
 #: swslots.src#FN_INC_INDENT_OFFSET.sfxslotinfo.text
@@ -35490,7 +35492,7 @@ msgstr "Incrimintigh an Luach Eangaithe"
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_DistributeRows.Label.value.text
 msgid "Distribute Rows Equally "
-msgstr ""
+msgstr "Leag Rónna Amach Go Cothrom "
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_WrapContour.Label.value.text
 #: swslots.src#FN_FRAME_WRAP_CONTOUR.sfxslotinfo.text
@@ -35570,7 +35572,7 @@ msgstr "Tábla: Socraithe"
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_JumpToStartOfDoc.Label.value.text
 #: swslots.src#FN_START_DOC_DIRECT.sfxslotinfo.text
 msgid "Directly to Document Begin"
-msgstr ""
+msgstr "Go Tosach na Cáipéise go díreach"
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_TableModeFixProp.Label.value.text
 #: swslots.src#FN_TABLE_MODE_FIX_PROP.sfxslotinfo.text
@@ -35606,12 +35608,12 @@ msgstr "~Eagar..."
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_GotoNextIndexMark.Label.value.text
 #: swslots.src#FN_NEXT_TOXMARK.sfxslotinfo.text
 msgid "Go to Next Index Mark"
-msgstr ""
+msgstr "Téigh go dtí an chéad Mharc Innéacs eile"
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_GotoPrevIndexMark.Label.value.text
 #: swslots.src#FN_PREV_TOXMARK.sfxslotinfo.text
 msgid "Go to Previous Index Mark"
-msgstr ""
+msgstr "Téigh go dtí an Marc Innéacs roimhe seo"
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_AutoSum.Label.value.text
 #: smres.src#RID_TOOLBOXWINDOW.5.RID_SUMX.toolboxitem.text
@@ -35738,7 +35740,7 @@ msgstr "Só~rtáil..."
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_Marks.Label.value.text
 msgid "Fie~ld Shadings"
-msgstr ""
+msgstr "Scáth~líniú Réimse"
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_CalculateSel.Label.value.text
 msgid "Calculat~e"
@@ -62643,16 +62645,16 @@ msgstr "Réad gan líonadh"
 #: glob.src#STR_POOLSHEET_TEXTBODY.string.text
 #: poolfmt.src#STR_POOLCOLL_TEXT.string.text
 msgid "Text body"
-msgstr ""
+msgstr "Príomhthéacs"
 
 #: glob.src#STR_POOLSHEET_TEXTBODY_JUSTIFY.string.text
 msgid "Text body justified"
-msgstr ""
+msgstr "Príomhthéacs comhfhadaithe"
 
 #: glob.src#STR_POOLSHEET_TEXTBODY_INDENT.string.text
 #: poolfmt.src#STR_POOLCOLL_TEXT_IDENT.string.text
 msgid "First line indent"
-msgstr "Eang chéadlíne"
+msgstr "Eangú chéadlíne"
 
 #: glob.src#STR_POOLSHEET_TITLE.string.text
 msgid ""
@@ -75705,7 +75707,7 @@ msgstr "Buntéacs"
 
 #: testtool.src#TT_INLINE_TRANSLATION.TT_PB_RESTORE.pushbutton.text
 msgid "~Restore"
-msgstr "Cui~r Ar Ais"
+msgstr "Athchói~riú"
 
 #: testtool.src#TT_INLINE_TRANSLATION.workwindow.text
 msgid "Inplace Translation"
@@ -91548,7 +91550,7 @@ msgstr "Airde: "
 
 #: svxitems.src#RID_SVXITEMS_LRSPACE_LEFT.string.text
 msgid "Indent left "
-msgstr "Eang chlé "
+msgstr "Eangú ar chlé "
 
 #: svxitems.src#RID_SVXITEMS_LRSPACE_FLINE.string.text
 msgid "First Line "
@@ -91556,7 +91558,7 @@ msgstr "An Chéad Líne "
 
 #: svxitems.src#RID_SVXITEMS_LRSPACE_RIGHT.string.text
 msgid "Indent right "
-msgstr "Eang ar dheis "
+msgstr "Eangú ar dheis "
 
 #: svxitems.src#RID_SVXITEMS_SHADOW_COMPLETE.string.text
 msgid "Shadow: "
@@ -92053,7 +92055,7 @@ msgstr "Greille"
 
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.CB_WRITERFIELDSHADINGS.checkbox.text
 msgid "Field shadings"
-msgstr ""
+msgstr "Scáthlíniú Réimse"
 
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.CB_WRITERIDXSHADINGS.checkbox.text
 msgid "Index and table shadings"
@@ -93090,23 +93092,23 @@ msgstr "XML %PRODUCTNAME (Impress)"
 
 #: stbctrls.src#RID_SVXSTR_INSERT_TEXT.string.text
 msgid "INSRT"
-msgstr "INSRT"
+msgstr "IONSÁ"
 
 #: stbctrls.src#RID_SVXSTR_OVERWRITE_TEXT.string.text
 msgid "OVER"
-msgstr "OVER"
+msgstr "FORSCR"
 
 #: stbctrls.src#RID_SVXSTR_SELMODE_STD.string.text
 msgid "STD"
-msgstr "STD"
+msgstr "CAIGH"
 
 #: stbctrls.src#RID_SVXSTR_SELMODE_ER.string.text
 msgid "EXT"
-msgstr "EXT"
+msgstr "SÍN"
 
 #: stbctrls.src#RID_SVXSTR_SELMODE_ERG.string.text
 msgid "ADD"
-msgstr "ADD"
+msgstr "CUIR"
 
 #: stbctrls.src#RID_SVXSTR_XMLSEC_SIG_OK.string.text
 msgid "Digital Signature: The document signature is OK."
@@ -96510,7 +96512,7 @@ msgstr "Ailt Fholaithe"
 
 #: swslots.src#FN_VIEW_MARKS.sfxslotinfo.text
 msgid "Field Shadings"
-msgstr ""
+msgstr "Scáthlíniú Réimse"
 
 #: swslots.src#FN_VIEW_META_CHARS.sfxslotinfo.text
 msgid "Nonprinting Characters  On/Off"
@@ -96594,7 +96596,7 @@ msgstr "Mód Deartha Ann/As"
 
 #: swslots.src#FN_XFORMS_INIT.sfxslotinfo.text
 msgid "XML Form Document"
-msgstr ""
+msgstr "Cáipéis Fhoirme XML"
 
 #: swslots.src#FN_NUM_CONTINUE.sfxslotinfo.text
 #: swmn_tmpl.hrc#_NUMBERING_RELATED_MENU.FN_NUM_CONTINUE.menuitem.text
@@ -100074,7 +100076,7 @@ msgstr ""
 
 #: mmlayoutpage.src#DLG_MM_LAYOUT_PAGE.CB_ALIGN.checkbox.text
 msgid "Align to text body"
-msgstr ""
+msgstr "Ailínigh le príomhthéacs"
 
 #: mmlayoutpage.src#DLG_MM_LAYOUT_PAGE.FT_LEFT.fixedtext.text
 msgid "From ~left"
@@ -106083,7 +106085,7 @@ msgstr "Eolas 3"
 
 #: initui.src#RID_SW_SHELLRES.FLD_DOCINFO_PRINT.string.text
 msgid "Last printed"
-msgstr ""
+msgstr "Priontáilte"
 
 #: initui.src#RID_SW_SHELLRES.STR_PAGEDESC_NAME.string.text
 msgid "Convert $(ARG1)"
@@ -106491,11 +106493,11 @@ msgstr "Réamhshocrú"
 
 #: poolfmt.src#STR_POOLCOLL_TEXT_NEGIDENT.string.text
 msgid "Hanging indent"
-msgstr "Eang chrochta"
+msgstr "Eangú crochta"
 
 #: poolfmt.src#STR_POOLCOLL_TEXT_MOVE.string.text
 msgid "Text body indent"
-msgstr ""
+msgstr "Eangú príomhthéacs"
 
 #: poolfmt.src#STR_POOLCOLL_SIGNATURE.string.text
 msgid "Signature"
@@ -106515,7 +106517,7 @@ msgstr "Innéacs"
 
 #: poolfmt.src#STR_POOLCOLL_CONFRONTATION.string.text
 msgid "List Indent"
-msgstr ""
+msgstr "Eangú Liosta"
 
 #: poolfmt.src#STR_POOLCOLL_MARGINAL.string.text
 msgid ""
@@ -107132,33 +107134,33 @@ msgstr ""
 
 #: utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_SET_TMPL_TEXT__1.string.text
 msgid "Set \"Text body\" Style"
-msgstr ""
+msgstr "Socraigh stíl \"Príomhthéacs\""
 
 #: utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_SET_TMPL_INDENT__1.string.text
 msgid ""
 "_: utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_SET_TMPL_INDENT__1."
 "string.text\n"
 "Set \"Text body indent\" Style"
-msgstr ""
+msgstr "Socraigh stíl \"Eangú príomhthéacs\""
 
 #: utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_SET_TMPL_NEG_INDENT__1.string.text
 msgid "Set \"Hanging indent\" Style"
-msgstr ""
+msgstr "Socraigh stíl \"Eangú crochta\""
 
 #: utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_SET_TMPL_TEXT_INDENT__1.string.text
 msgid ""
 "_: utlui.src#RID_SHELLRES_AUTOFMTSTRS."
 "STR_AUTOFMTREDL_SET_TMPL_TEXT_INDENT__1.string.text\n"
 "Set \"Text body indent\" Style"
-msgstr ""
+msgstr "Socraigh stíl \"Eangú príomhthéacs\""
 
 #: utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_SET_TMPL_HEADLINE__1.string.text
 msgid "Set \"Heading $(ARG1)\" Style"
-msgstr ""
+msgstr "Socraigh stíl \"Ceannteideal $(ARG1)\""
 
 #: utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_SET_NUMBULET__1.string.text
 msgid "Set \"Bullet\" or \"Numbering\" Style"
-msgstr ""
+msgstr "Socraigh stíl \"Urchar\" nó \"Uimhriú\""
 
 #: utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_DEL_MORELINES__1.string.text
 msgid "Combine paragraphs"
@@ -107296,11 +107298,11 @@ msgstr ""
 
 #: utlui.src#STR_HYPERCTRL_SEL.string.text
 msgid "SEL"
-msgstr "SEL"
+msgstr "EAGAR"
 
 #: utlui.src#STR_HYPERCTRL_HYP.string.text
 msgid "HYP"
-msgstr "HYP"
+msgstr "NASC"
 
 #: web.src#STR_WRITER_WEBDOC_FULLTYPE_40.string.text
 msgid "%PRODUCTNAME 4.0 HTML"
@@ -107828,15 +107830,15 @@ msgstr "Íoslaghdaigh"
 
 #: helptext.src#SV_HELPTEXT_RESTORE.string.text
 msgid "Restore"
-msgstr "Cuir Ar Ais"
+msgstr "Athchóirigh"
 
 #: helptext.src#SV_HELPTEXT_ROLLDOWN.string.text
 msgid "Drop down"
-msgstr ""
+msgstr "Anuas"
 
 #: helptext.src#SV_HELPTEXT_ROLLUP.string.text
 msgid "Roll up"
-msgstr ""
+msgstr "Aníos"
 
 #: helptext.src#SV_HELPTEXT_HELP.string.text
 msgid ""
@@ -110264,7 +110266,7 @@ msgstr "~Roghnaigh socruithe do Dhraoi an Ghréasáin"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__37.string.text
 msgid "Web site content "
-msgstr "Inneachar an tSuímh Ghréasáin"
+msgstr "Inneachar an tSuímh Ghréasáin "
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__39.string.text
 msgid "Remo~ve"
