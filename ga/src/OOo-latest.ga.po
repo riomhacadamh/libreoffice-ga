@@ -8737,7 +8737,7 @@ msgid ""
 "_: dp_gui_dependencydialog.src#RID_DLG_DEPENDENCIES."
 "RID_DLG_DEPENDENCIES_UNKNOWN.string.text\n"
 "Unknown"
-msgstr ""
+msgstr "Anaithnid"
 
 #: dp_gui_dependencydialog.src#RID_DLG_DEPENDENCIES.modaldialog.text
 msgid "System dependencies check"
