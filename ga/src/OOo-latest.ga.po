@@ -11864,7 +11864,7 @@ msgstr "Níorbh fhéidir an comhéadan SANE a thúsú. Ní féidir scanadh."
 
 #: Addons.xcu#.Addons.AddonUI.OfficeHelp.UpdateCheckJob.Title.value.text
 msgid "Check for ~Updates..."
-msgstr ""
+msgstr "Lorg N~uashonruithe..."
 
 #: Jobs.xcu#.Jobs.Jobs.UpdateCheck.Arguments.BubbleHeading.value.text
 msgid "%PRODUCTNAME update available"
@@ -11874,6 +11874,8 @@ msgstr "Nuashonrú %PRODUCTNAME le fáil"
 msgid ""
 "Click here to go to the web site, where you can download the new update."
 msgstr ""
+"Cliceáil anseo chun dul go dtí an suíomh Gréasáin, áit ar féidir an "
+"nuashonrú a íosluchtú."
 
 #: Jobs.xcu#.Jobs.Jobs.UpdateCheck.Arguments.SearchForUpdateText.value.text
 #: app.src#DLG_CHECKFORONLINEUPDATE.RID_CHECKFORONLINEUPDATE_FT_MSG.fixedtext.text
@@ -11887,6 +11889,9 @@ msgid ""
 "A new update is available.\n"
 " Click OK to open the web site, where you can start the download."
 msgstr ""
+"Tá nuashonrú ar fáil.\n"
+" Cliceáil OK chun an suíomh Gréasáin a oscailt, áit ar féidir leat an t-"
+"íosluchtú a thosú."
 
 #: Jobs.xcu#.Jobs.Jobs.UpdateCheck.Arguments.NoUpdateFoundText.value.text
 #: app.src#INFOBOX_NO_NEW_UPDATE_AVAILABLE.infobox.text
@@ -12088,7 +12093,7 @@ msgstr "Scarbhileog OpenDocument"
 
 #: calc_HTML_WebQuery_ui.xcu#calc_HTML_WebQuery.UIName.value.text
 msgid "Web Page Query (%productname% Calc)"
-msgstr "Iarratas ar Shuíomh Gréasáin Query (%productname% Calc)"
+msgstr "Iarratas Leathanaigh Gréasáin (%productname% Calc)"
 
 #: calc_StarOffice_XML_Calc_Template_ui.xcu#calc_StarOffice_XML_Calc_Template.UIName.value.text
 msgid "%productname% %formatversion% Spreadsheet Template"
@@ -13039,11 +13044,11 @@ msgstr "Luach de dhíth."
 
 #: xforms.src#RID_STR_XFORMS_INVALID_CONSTRAINT.string.text
 msgid "The constraint '$1' not validated."
-msgstr ""
+msgstr "Níl srian '$1' bailíochtaithe."
 
 #: xforms.src#RID_STR_XFORMS_VALUE_IS_NOT_A.string.text
 msgid "The value is not of the type '$2'."
-msgstr ""
+msgstr "Níl an luach den chineál '$2'."
 
 #: xforms.src#RID_STR_XFORMS_VALUE_MAX_INCL.string.text
 msgid "The value must be smaller than or equal to $2."
@@ -13075,15 +13080,15 @@ msgstr "Ceadaítear $2 digit codánach ar a mhéad."
 
 #: xforms.src#RID_STR_XFORMS_VALUE_LENGTH.string.text
 msgid "The string must be $2 characters long."
-msgstr ""
+msgstr "Ní mór don teaghrán a bheith $2 carachtar ar fad."
 
 #: xforms.src#RID_STR_XFORMS_VALUE_MIN_LENGTH.string.text
 msgid "The string must be at least $2 characters long."
-msgstr ""
+msgstr "Ní mór don teaghrán a bheith $2 carachtar ar fad, ar a laghad."
 
 #: xforms.src#RID_STR_XFORMS_VALUE_MAX_LENGTH.string.text
 msgid "The string can only be $2 characters long at most."
-msgstr ""
+msgstr "Ní féidir leis an teaghrán a bheith níos mó ná $2 carachtar ar fad."
 
 #: xforms.src#RID_STR_DATATYPE_STRING.string.text
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_BASICSTRING.fixedtext.text
@@ -13354,6 +13359,9 @@ msgid ""
 "No removable storage device detected.\n"
 "Make sure it is plugged in properly and try again."
 msgstr ""
+"Níor aimsíodh gléas inbhainte stórála.\n"
+"Deimhnigh go bhfuil sé plugáilte isteach mar is ceart, agus bain triail eile "
+"as."
 
 #: fltdlg.src#DLG_FILTER_SELECT.FL_MIMETYPE.fixedline.text
 #: gallery.src#RID_SVXDLG_GALLERY_SEARCH_PROGRESS.FL_SEARCH_TYPE.fixedline.text
@@ -13609,6 +13617,10 @@ msgid ""
 "Warning: Not all of the imported EPS graphics could be saved at level1\n"
 "as some are at a higher level!"
 msgstr ""
+"Rabhadh: Níorbh fhéidir gach ceann de na comhaid ghrafacha iompórtáilte EPS "
+"a\n"
+"shábháil ag leibhéal a haon, toisc go bhfuil roinnt acu ag leibhéal níos "
+"airde!"
 
 #: ActionTe.ulf#OOO_ACTIONTEXT_1.LngText.text
 msgid "Advertising application"
@@ -13624,7 +13636,7 @@ msgstr "Saorspás: [1]"
 
 #: ActionTe.ulf#OOO_ACTIONTEXT_4.LngText.text
 msgid "Searching for installed applications"
-msgstr ""
+msgstr "Feidhmchláir shuiteáilte á lorg"
 
 #: ActionTe.ulf#OOO_ACTIONTEXT_5.LngText.text
 msgid "Property: [1], Signature: [2]"
@@ -13652,7 +13664,7 @@ msgstr ""
 msgid ""
 "_: ActionTe.ulf#OOO_ACTIONTEXT_10.LngText.text\n"
 "Searching for qualifying products"
-msgstr ""
+msgstr "Táirgí cáilitheacha á lorg"
 
 #: ActionTe.ulf#OOO_ACTIONTEXT_11.LngText.text
 msgid ""
@@ -13714,7 +13726,7 @@ msgstr ""
 
 #: ActionTe.ulf#OOO_ACTIONTEXT_22.LngText.text
 msgid "Searching for related applications"
-msgstr ""
+msgstr "Feidhmchlár ghaolmhara á lorg"
 
 #: ActionTe.ulf#OOO_ACTIONTEXT_23.LngText.text
 msgid "Found application"
@@ -13832,7 +13844,7 @@ msgstr "Eolas faoin táirge á fhoilsiú"
 
 #: ActionTe.ulf#OOO_ACTIONTEXT_49.LngText.text
 msgid "Registering class servers"
-msgstr ""
+msgstr "Freastalaithe aicme á gclárú"
 
 #: ActionTe.ulf#OOO_ACTIONTEXT_50.LngText.text
 msgid ""
@@ -13846,7 +13858,7 @@ msgstr "Feidhmchláir agus Comhpháirteanna COM+ á gClárú"
 
 #: ActionTe.ulf#OOO_ACTIONTEXT_52.LngText.text
 msgid "AppId: [1]{{, AppType: [2], Users: [3], RSN: [4]}}"
-msgstr ""
+msgstr "AppId: [1]{{, AppType: [2], Users: [3], RSN: [4]}}"
 
 #: ActionTe.ulf#OOO_ACTIONTEXT_53.LngText.text
 msgid "Registering extension servers"
@@ -13876,7 +13888,7 @@ msgstr "Eolas MIME á chlárú"
 msgid ""
 "_: ActionTe.ulf#OOO_ACTIONTEXT_58.LngText.text\n"
 "MIME Content Type: [1], Extension: [2]"
-msgstr ""
+msgstr "Cineál Ábhair MIME: [1], Iarmhír: [2]"
 
 #: ActionTe.ulf#OOO_ACTIONTEXT_59.LngText.text
 msgid "Registering product"
@@ -13896,17 +13908,17 @@ msgstr "Aitheantóirí an chláir á gclárú"
 msgid ""
 "_: ActionTe.ulf#OOO_ACTIONTEXT_62.LngText.text\n"
 "ProgID: [1]"
-msgstr ""
+msgstr "Aitheantas: [1]"
 
 #: ActionTe.ulf#OOO_ACTIONTEXT_63.LngText.text
 msgid "Registering type libraries"
-msgstr ""
+msgstr "Leabharlanna cineáil á gclárú"
 
 #: ActionTe.ulf#OOO_ACTIONTEXT_64.LngText.text
 msgid ""
 "_: ActionTe.ulf#OOO_ACTIONTEXT_64.LngText.text\n"
 "LibID: [1]"
-msgstr ""
+msgstr "LibID: [1]"
 
 #: ActionTe.ulf#OOO_ACTIONTEXT_65.LngText.text
 msgid "Registering user"
@@ -14004,7 +14016,7 @@ msgstr "Aicearra: [1]"
 msgid ""
 "_: ActionTe.ulf#OOO_ACTIONTEXT_84.LngText.text\n"
 "Searching for qualifying products"
-msgstr ""
+msgstr "Táirgí cáilitheacha á lorg"
 
 #: ActionTe.ulf#OOO_ACTIONTEXT_85.LngText.text
 msgid "Rolling back action:"
@@ -14106,7 +14118,7 @@ msgstr "Eolas faoin táirge á dhífhoilsiú"
 
 #: ActionTe.ulf#OOO_ACTIONTEXT_105.LngText.text
 msgid "Unregister class servers"
-msgstr ""
+msgstr "Freastalaithe aicme á ndíchlárú"
 
 #: ActionTe.ulf#OOO_ACTIONTEXT_106.LngText.text
 msgid ""
@@ -14120,7 +14132,7 @@ msgstr "Feidhmchláir agus Comhpháirteanna COM+ á nDíchlárú"
 
 #: ActionTe.ulf#OOO_ACTIONTEXT_108.LngText.text
 msgid "AppId: [1]{{, AppType: [2]}}"
-msgstr ""
+msgstr "AppId: [1]{{, AppType: [2]}}"
 
 #: ActionTe.ulf#OOO_ACTIONTEXT_109.LngText.text
 msgid "Unregistering extension servers"
@@ -14150,7 +14162,7 @@ msgstr "Eolas MIME á dhíchlárú"
 msgid ""
 "_: ActionTe.ulf#OOO_ACTIONTEXT_114.LngText.text\n"
 "MIME Content Type: [1], Extension: [2]"
-msgstr ""
+msgstr "Cineál Ábhair MIME: [1], Iarmhír: [2]"
 
 #: ActionTe.ulf#OOO_ACTIONTEXT_115.LngText.text
 msgid "Unregistering program identifiers"
@@ -14160,17 +14172,17 @@ msgstr "Aitheantóirí an chláir á ndíchlárú"
 msgid ""
 "_: ActionTe.ulf#OOO_ACTIONTEXT_116.LngText.text\n"
 "ProgID: [1]"
-msgstr ""
+msgstr "Aitheantas: [1]"
 
 #: ActionTe.ulf#OOO_ACTIONTEXT_117.LngText.text
 msgid "Unregistering type libraries"
-msgstr ""
+msgstr "Leabharlanna cineáil á ndíchlárú"
 
 #: ActionTe.ulf#OOO_ACTIONTEXT_118.LngText.text
 msgid ""
 "_: ActionTe.ulf#OOO_ACTIONTEXT_118.LngText.text\n"
 "LibID: [1]"
-msgstr ""
+msgstr "LibID: [1]"
 
 #: ActionTe.ulf#OOO_ACTIONTEXT_119.LngText.text
 msgid ""
@@ -16474,11 +16486,11 @@ msgstr "Suiteáil tacaíocht don tSótó Theas i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_NAME_1074.LngText.text
 msgid "Tswana"
-msgstr ""
+msgstr "Suáinis"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_1074.LngText.text
 msgid "Installs Tswana support in %PRODUCTNAME %PRODUCTVERSION"
-msgstr ""
+msgstr "Suiteáil tacaíocht don tSuáinis i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_NAME_1076.LngText.text
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_XHOSA.pairedlist.text
@@ -16487,7 +16499,7 @@ msgstr "Cóisis"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_1076.LngText.text
 msgid "Installs Xhosa support in %PRODUCTNAME %PRODUCTVERSION"
-msgstr ""
+msgstr "Suiteáil tacaíocht don Chóisis i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_NAME_1077.LngText.text
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_ZULU.pairedlist.text
@@ -16496,7 +16508,7 @@ msgstr "Súlúis"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_1077.LngText.text
 msgid "Installs Zulu support in %PRODUCTNAME %PRODUCTVERSION"
-msgstr ""
+msgstr "Suiteáil tacaíocht don tSúlúis i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_NAME_1078.LngText.text
 msgid "Afrikaans"
@@ -16953,6 +16965,8 @@ msgid ""
 "The Installation Wizard cannot be run properly because you are logged in as "
 "a user without sufficient administrator rights for this system."
 msgstr ""
+"Ní féidir an Draoi Suiteála a rith mar is ceart, toisc go bhfuil tú logáilte "
+"isteach mar úsáideoir gan phribhléidí cuí an riarthóra ar an gcóras seo."
 
 #: RadioBut.ulf#OOO_RADIOBUTTON_1.LngText.text
 msgid "{&MSSansBold8}&Modify"
@@ -17298,6 +17312,8 @@ msgid ""
 "A newer version of [ProductName] was found. To install an older version, the "
 "newer version needs to be removed first."
 msgstr ""
+"Aimsíodh leagan níos nuaí de [ProductName]. Chun leagan níos sine a "
+"shuiteáil, ní mór duit an leagan níos nuaí a bhaint ar dtús."
 
 #: CustomAc.ulf#OOO_CUSTOMACTION_2.LngText.text
 msgid "The same version of this product is already installed."
@@ -17305,7 +17321,7 @@ msgstr ""
 
 #: Nsis.ulf#SetupCaption.LngText.text
 msgid "%PRODUCTNAME %PRODUCTVERSION Installation Preparation"
-msgstr ""
+msgstr "Ullmhú Suiteála %PRODUCTNAME %PRODUCTVERSION"
 
 #: Nsis.ulf#MUI_TEXT_WELCOME_INFO_TITLE.LngText.text
 msgid "Thank you for downloading %PRODUCTNAME %PRODUCTVERSION."
@@ -38256,9 +38272,9 @@ msgstr ""
 "dtosú OpenOffice.org (m.sh. stopann feidhmchláir) chomh maith le fadhbanna i "
 "dtaispeáint ar an scáileán. Má tharlaíonn fadhbanna mar sin, nuashonraigh "
 "tiománaí do chárta ghrafaice nó bain triail as an tiománaí atá mar chuid de "
-"do chóras oibriúcháin. Go minic is féidir fadhbanna i dtaispeáint réada "
-"3T a réiteach trín rogha \"Úsáid OpenGL\" a dhíchumasú in 'Uirlisí - "
-"Roghanna - Amharc - Amharc 3T'."
+"do chóras oibriúcháin. Go minic is féidir fadhbanna i dtaispeáint réada 3T a "
+"réiteach trín rogha \"Úsáid OpenGL\" a dhíchumasú in 'Uirlisí - Roghanna - "
+"Amharc - Amharc 3T'."
 
 #: readme.xrm#ooo_readme.Installation.b4tz.ghtz5.readmeitem.text
 msgid ""
