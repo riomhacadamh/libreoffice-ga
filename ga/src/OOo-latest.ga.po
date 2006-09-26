@@ -144,6 +144,8 @@ msgid ""
 "The source text is too large and can be neither compiled nor saved.\n"
 "Delete some of the comments or transfer some methods into another module."
 msgstr ""
+"Tá an téacs foinseach rómhór agus ní féidir é a thiomsú nó a shábháil.\n"
+"Scrios cuid de na nótaí tráchta nó bog roinnt mhodhanna go modúl eile."
 
 #: basidesh.src#RID_STR_ERROROPENSTORAGE.string.text
 msgid "Error opening file"
@@ -163,7 +165,7 @@ msgstr "Ainm Neamhbhailí"
 
 #: basidesh.src#RID_STR_LIBNAMETOLONG.string.text
 msgid "A library name can have up to 30 characters."
-msgstr ""
+msgstr "Is féidir suas le 30 carachtar a bheith in ainm leabharlainne."
 
 #: basidesh.src#RID_STR_ERRORCHOOSEMACRO.string.text
 msgid "Macros from other documents are not accessible."
@@ -212,9 +214,9 @@ msgid ""
 "\n"
 "For more information, check the security settings."
 msgstr ""
-"De bharr slándála, ní féidir leat an macra seo a rith.\n"
+"De bharr cúiseanna slándála, ní féidir leat an macra seo a rith.\n"
 "\n"
-"Le haghaidh tuilleadh eolais, seiceáil na socruithe slándála."
+"Le haghaidh tuilleadh eolais, féach ar na socruithe slándála."
 
 #: basidesh.src#RID_STR_COMPILEERROR.string.text
 msgid "Compile Error: "
@@ -231,6 +233,8 @@ msgstr "Eochair chuardaigh gan aimsiú"
 #: basidesh.src#RID_STR_SEARCHFROMSTART.string.text
 msgid "Search to last module complete. Continue at first module?"
 msgstr ""
+"Tá an cuardach go dtí an modúl deireanach críochnaithe. Lean ar aghaidh ag "
+"an gcéad mhodúl?"
 
 #: basidesh.src#RID_STR_SEARCHREPLACES.string.text
 msgid "Search key replaced XX times"
@@ -439,7 +443,7 @@ msgid ""
 "You will have to restart the program after this edit.\n"
 "Continue?"
 msgstr ""
-"Caithfidh tú an clár a atosú tar éis an athrú seo.\n"
+"Beidh ort an clár a atosú tar éis an athrú seo.\n"
 "Lean ar aghaidh mar sin féin?"
 
 #: basidesh.src#RID_STR_SEARCHALLMODULES.string.text
@@ -1132,7 +1136,7 @@ msgstr "Ilroghnú"
 
 #: basic.src#RID_CALLDLG.modaldialog.text
 msgid "Dynamic Link No. "
-msgstr ""
+msgstr "Nasc dinimiciúil uimhir "
 
 #: basic.src#IDD_TT_ABOUT_DIALOG.1.fixedtext.text
 msgid ""
@@ -1302,6 +1306,8 @@ msgid ""
 "File has been changed on data medium\n"
 "and in the Editor. Save?"
 msgstr ""
+"Tá an comhad athraithe ar an meán faisnéise agus\n"
+"san eagarthóir. Sábháil é?"
 
 #: basic.src#IDS_ASK_DIRTY_AND_DISKCHANGE_SAVE.querybox.title
 msgid ""
@@ -1314,6 +1320,8 @@ msgid ""
 "File has been changed on data medium.\n"
 "Overwrite?"
 msgstr ""
+"Tá an comhad athraithe ar an meán faisnéise.\n"
+"Forscríobh é?"
 
 #: basic.src#IDS_ASK_DISKCHANGE_SAVE.querybox.title
 msgid ""
@@ -1324,6 +1332,8 @@ msgstr "Testtool"
 #: basic.src#IDS_ASKRELOAD.querybox.text
 msgid "File has been changed on data medium. Reload?"
 msgstr ""
+"Tá an comhad athraithe ar an meán faisnéise.\n"
+"Athluchtaigh é?"
 
 #: basic.src#IDS_ASKRELOAD.querybox.title
 msgid ""
@@ -1336,6 +1346,8 @@ msgid ""
 "File has been changed on data medium\n"
 "and in the Editor. Reload?"
 msgstr ""
+"Tá an comhad athraithe ar an meán faisnéise agus\n"
+"san eagarthóir. Athluchtaigh é?"
 
 #: basic.src#IDS_ASKDIRTYRELOAD.querybox.title
 msgid ""
@@ -1355,7 +1367,7 @@ msgstr "Testtool"
 
 #: basic.src#IDS_LOSS_OF_INFORMATION.querybox.text
 msgid "Saving in an external format causes information loss."
-msgstr ""
+msgstr "Cailltear faisnéis má shábháiltear i bhformáid eachtrach."
 
 #: basic.src#IDS_LOSS_OF_INFORMATION.querybox.title
 msgid ""
@@ -1381,7 +1393,7 @@ msgstr " ar líne "
 
 #: basic.src#IDS_NO_LONGNAME.string.text
 msgid "No entries in Hid.Lst"
-msgstr ""
+msgstr "Níl iontráil ar bith i Hid.Lst"
 
 #: basic.src#IDS_WARNING_PREFIX.string.text
 msgid ""
@@ -1636,7 +1648,7 @@ msgstr "~Céim Amháin"
 
 #: basic.src#RID_RUN.RID_RUNSTEPOVER.menuitem.text
 msgid "Si~ngle Step over Procedure"
-msgstr ""
+msgstr "Céim amhái~n thar an ngnás"
 
 #: basic.src#RID_RUN.RID_TOGLEBRKPNT.menuitem.text
 msgid "Set / Delete Break Point"
@@ -1800,7 +1812,7 @@ msgstr "Socruithe phróifíl"
 
 #: basic.src#RID_TP_PROFILE.LOG_TEXT.fixedtext.text
 msgid "Log base directory"
-msgstr ""
+msgstr "Bunchomhadlann logála"
 
 #: basic.src#RID_TP_PROFILE.BASIS_TEXT.fixedtext.text
 msgid "Base directory"
@@ -1830,15 +1842,15 @@ msgstr "..."
 
 #: basic.src#RID_TP_PROFILE.CB_AUTORELOAD.checkbox.text
 msgid "AutoReload"
-msgstr ""
+msgstr "Uath-Athluchtú"
 
 #: basic.src#RID_TP_PROFILE.CB_AUTOSAVE.checkbox.text
 msgid "Save before execute"
-msgstr ""
+msgstr "Sábháil roimh rith"
 
 #: basic.src#RID_TP_PROFILE.CB_STOPONSYNTAXERRORS.checkbox.text
 msgid "Stop on Syntax Errors"
-msgstr ""
+msgstr "Stop ag earráidí comhréire"
 
 #: basic.src#RID_TP_MISC.FL_COMMUNICATION.fixedline.text
 #: galtheme.src#RID_GALLERYSTR_THEME_COMMUNICATION.string.text
@@ -1863,11 +1875,11 @@ msgstr "Socruithe Eile"
 
 #: basic.src#RID_TP_MISC.TIMEOUT_TEXT.fixedtext.text
 msgid "Server Timeout"
-msgstr ""
+msgstr "Freastalaí thar am"
 
 #: basic.src#RID_TP_MISC.FT_LRU.fixedtext.text
 msgid "Max LRU Files"
-msgstr ""
+msgstr "Uasmhéid na gcomhad LRU"
 
 #: basic.src#RID_TP_FONT.FT_FONTSTYLE.fixedtext.text
 #: CustomAnimation.src#STR_CUSTOMANIMATION_FONT_STYLE_PROPERTY.string.text
@@ -1957,7 +1969,7 @@ msgstr "Ainm athróige"
 
 #: basic.src#IDD_EDIT_VAR.RID_FT_CONTENT_VALUE.fixedtext.text
 msgid "Previous contents"
-msgstr ""
+msgstr "Inneachar roimhe seo"
 
 #: basic.src#IDD_EDIT_VAR.RID_RB_NEW_BOOL_T.radiobutton.text
 #: format.src#STR_BASICKEY_FORMAT_TRUE.string.text
@@ -2455,7 +2467,7 @@ msgstr "Cuimhne ídithe."
 
 #: sb.src#RID_BASIC_START.SbERR_ALREADY_DIM___ERRCODE_RES_MASK.string.text
 msgid "Array already dimensioned."
-msgstr ""
+msgstr "Tugadh toisí an eagair cheana."
 
 #: sb.src#RID_BASIC_START.SbERR_OUT_OF_RANGE___ERRCODE_RES_MASK.string.text
 msgid "Index out of defined range."
@@ -2491,11 +2503,11 @@ msgstr "Atosaigh gan earráid."
 
 #: sb.src#RID_BASIC_START.SbERR_STACK_OVERFLOW___ERRCODE_RES_MASK.string.text
 msgid "Not enough stack memory."
-msgstr "Cuimhne chruaiche ídithe."
+msgstr "Níl go leor cuimhne chruaiche ann."
 
 #: sb.src#RID_BASIC_START.SbERR_PROC_UNDEFINED___ERRCODE_RES_MASK.string.text
 msgid "Sub-procedure or function procedure not defined."
-msgstr ""
+msgstr "Fo-ghnás nó gnás feidhme gan sainiú."
 
 #: sb.src#RID_BASIC_START.SbERR_BAD_DLL_LOAD___ERRCODE_RES_MASK.string.text
 msgid "Error loading DLL file."
@@ -2503,7 +2515,7 @@ msgstr "Tharla earráid agus comhad DLL á luchtú."
 
 #: sb.src#RID_BASIC_START.SbERR_BAD_DLL_CALL___ERRCODE_RES_MASK.string.text
 msgid "Wrong DLL call convention."
-msgstr ""
+msgstr "Gnás glao DLL mícheart."
 
 #: sb.src#RID_BASIC_START.SbERR_INTERNAL_ERROR___ERRCODE_RES_MASK.string.text
 msgid "Internal error $(ARG1)."
@@ -2540,11 +2552,11 @@ msgstr "Fad mícheart taifid."
 
 #: sb.src#RID_BASIC_START.SbERR_DISK_FULL___ERRCODE_RES_MASK.string.text
 msgid "Disk or hard drive full."
-msgstr ""
+msgstr "Tá an diosca nó an tiomántán crua lán"
 
 #: sb.src#RID_BASIC_START.SbERR_READ_PAST_EOF___ERRCODE_RES_MASK.string.text
 msgid "Reading exceeds EOF."
-msgstr ""
+msgstr "Léamh imithe thar dheireadh comhaid"
 
 #: sb.src#RID_BASIC_START.SbERR_BAD_RECORD_NUMBER___ERRCODE_RES_MASK.string.text
 msgid "Incorrect record number."
@@ -2576,7 +2588,7 @@ msgstr "Ní féidir athainmniú ar thiomántáin dhifriúla."
 
 #: sb.src#RID_BASIC_START.SbERR_ACCESS_ERROR___ERRCODE_RES_MASK.string.text
 msgid "Path/File access error."
-msgstr "Earráid rochtana ar Chonair/Chomhad."
+msgstr "Earráid rochtana ar chonair/chomhad."
 
 #: sb.src#RID_BASIC_START.SbERR_PATH_NOT_FOUND___ERRCODE_RES_MASK.string.text
 msgid "Path not found."
@@ -2584,7 +2596,7 @@ msgstr "Conair gan aimsiú."
 
 #: sb.src#RID_BASIC_START.SbERR_NO_OBJECT___ERRCODE_RES_MASK.string.text
 msgid "Object variable not set."
-msgstr ""
+msgstr "Níl an athróg réada socraithe."
 
 #: sb.src#RID_BASIC_START.SbERR_BAD_PATTERN___ERRCODE_RES_MASK.string.text
 msgid "Invalid string pattern."
@@ -2592,7 +2604,7 @@ msgstr "Patrún neamhbhailí teaghráin."
 
 #: sb.src#RID_BASIC_START.SBERR_IS_NULL___ERRCODE_RES_MASK.string.text
 msgid "Use of zero not permitted."
-msgstr ""
+msgstr "Ní cheadaítear úsáid nialais."
 
 #: sb.src#RID_BASIC_START.SbERR_DDE_ERROR___ERRCODE_RES_MASK.string.text
 msgid "DDE Error."
@@ -2600,7 +2612,7 @@ msgstr "Earráid DDE."
 
 #: sb.src#RID_BASIC_START.SbERR_DDE_WAITINGACK___ERRCODE_RES_MASK.string.text
 msgid "Awaiting response to DDE connection."
-msgstr ""
+msgstr "Ag feitheamh le freagra ar nasc DDE."
 
 #: sb.src#RID_BASIC_START.SbERR_DDE_OUTOFCHANNELS___ERRCODE_RES_MASK.string.text
 msgid "No DDE channels available."
@@ -2608,11 +2620,11 @@ msgstr "Níl aon chainéal DDE ar fáil."
 
 #: sb.src#RID_BASIC_START.SbERR_DDE_NO_RESPONSE___ERRCODE_RES_MASK.string.text
 msgid "No application responded to DDE connect initiation."
-msgstr ""
+msgstr "Níor fhreagair feidhmchlár ar bith ar thionscnamh nasc DDE."
 
 #: sb.src#RID_BASIC_START.SbERR_DDE_MULT_RESPONSES___ERRCODE_RES_MASK.string.text
 msgid "Too many applications responded to DDE connect initiation."
-msgstr ""
+msgstr "D'fhreagair an iomarca feidhmchlár ar thionscnamh nasc DDE."
 
 #: sb.src#RID_BASIC_START.SbERR_DDE_CHANNEL_LOCKED___ERRCODE_RES_MASK.string.text
 msgid "DDE channel locked."
@@ -2624,7 +2636,7 @@ msgstr "Ní féidir le feidhmchlár seachtrach oibríocht DDE a rith."
 
 #: sb.src#RID_BASIC_START.SbERR_DDE_TIMEOUT___ERRCODE_RES_MASK.string.text
 msgid "Timeout while waiting for DDE response."
-msgstr ""
+msgstr "Imithe thar am ag feitheamh le freagra DDE."
 
 #: sb.src#RID_BASIC_START.SbERR_DDE_USER_INTERRUPT___ERRCODE_RES_MASK.string.text
 msgid "User pressed ESCAPE during DDE operation."
@@ -2632,7 +2644,7 @@ msgstr "Bhrúigh an t-úsáideoir ESCAPE le linn oibríochta DDE."
 
 #: sb.src#RID_BASIC_START.SbERR_DDE_BUSY___ERRCODE_RES_MASK.string.text
 msgid "External application busy."
-msgstr ""
+msgstr "Feidhmchlár seachtrach gnóthach."
 
 #: sb.src#RID_BASIC_START.SbERR_DDE_NO_DATA___ERRCODE_RES_MASK.string.text
 msgid "DDE operation without data."
@@ -2648,11 +2660,11 @@ msgstr "Stopadh an feidhmchlár seachtrach."
 
 #: sb.src#RID_BASIC_START.SbERR_DDE_CONV_CLOSED___ERRCODE_RES_MASK.string.text
 msgid "DDE connection interrupted or modified."
-msgstr ""
+msgstr "Nasc DDE idirbhriste nó athraithe."
 
 #: sb.src#RID_BASIC_START.SbERR_DDE_NO_CHANNEL___ERRCODE_RES_MASK.string.text
 msgid "DDE method invoked with no channel open."
-msgstr ""
+msgstr "Glaodh modh DDE gan cainéal a bheith ar oscailt."
 
 #: sb.src#RID_BASIC_START.SbERR_DDE_INVALID_LINK___ERRCODE_RES_MASK.string.text
 msgid "Invalid DDE link format."
@@ -2664,11 +2676,11 @@ msgstr "Cailleadh an teachtaireacht DDE."
 
 #: sb.src#RID_BASIC_START.SbERR_DDE_LINK_ALREADY_EST___ERRCODE_RES_MASK.string.text
 msgid "Paste link already performed."
-msgstr ""
+msgstr "Greamú naisc déanta cheana."
 
 #: sb.src#RID_BASIC_START.SbERR_DDE_LINK_INV_TOPIC___ERRCODE_RES_MASK.string.text
 msgid "Link mode cannot be set due to invalid link topic."
-msgstr ""
+msgstr "Ní féidir an mód naisc a shocrú mar gheall ar ábhar naisc neamhbhailí."
 
 #: sb.src#RID_BASIC_START.SbERR_DDE_DLL_NOT_FOUND___ERRCODE_RES_MASK.string.text
 msgid "DDE requires the DDEML.DLL file."
@@ -2688,15 +2700,15 @@ msgstr "Níl an réad ar fáil."
 
 #: sb.src#RID_BASIC_START.SbERR_BAD_PROP_VALUE___ERRCODE_RES_MASK.string.text
 msgid "Incorrect property value."
-msgstr ""
+msgstr "Luach airí mícheart."
 
 #: sb.src#RID_BASIC_START.SbERR_PROP_READONLY___ERRCODE_RES_MASK.string.text
 msgid "This property is read-only."
-msgstr "Is léamh amháin an airí seo."
+msgstr "Tá an t-airí seo inléite amháin."
 
 #: sb.src#RID_BASIC_START.SbERR_PROP_WRITEONLY___ERRCODE_RES_MASK.string.text
 msgid "This property is write only."
-msgstr "Is scríobh amháin an airí seo."
+msgstr "Tá an t-airí seo inscríofa amháin."
 
 #: sb.src#RID_BASIC_START.SbERR_INVALID_OBJECT___ERRCODE_RES_MASK.string.text
 msgid "Invalid object reference."
@@ -2716,11 +2728,11 @@ msgstr "Úsáid neamhbhailí de réad."
 
 #: sb.src#RID_BASIC_START.SbERR_NO_OLE___ERRCODE_RES_MASK.string.text
 msgid "OLE Automation is not supported by this object."
-msgstr ""
+msgstr "Ní thacaíonn an réad seo le huathoibriú OLE."
 
 #: sb.src#RID_BASIC_START.SbERR_BAD_METHOD___ERRCODE_RES_MASK.string.text
 msgid "This property or method is not supported by the object."
-msgstr ""
+msgstr "Ní thacaíonn an réad leis an airí seo nó an modh seo."
 
 #: sb.src#RID_BASIC_START.SbERR_OLE_ERROR___ERRCODE_RES_MASK.string.text
 msgid "OLE Automation Error."
@@ -2728,15 +2740,15 @@ msgstr "Earráid Uathoibrithe OLE."
 
 #: sb.src#RID_BASIC_START.SbERR_BAD_ACTION___ERRCODE_RES_MASK.string.text
 msgid "This action is not supported by given object."
-msgstr ""
+msgstr "Ní thacaíonn an réad leis an ngníomh."
 
 #: sb.src#RID_BASIC_START.SbERR_NO_NAMED_ARGS___ERRCODE_RES_MASK.string.text
 msgid "Named arguments are not supported by given object."
-msgstr ""
+msgstr "Ní thacaíonn an réad le hargóintí ainmnithe."
 
 #: sb.src#RID_BASIC_START.SbERR_BAD_LOCALE___ERRCODE_RES_MASK.string.text
 msgid "The current locale setting is not supported by the given object."
-msgstr ""
+msgstr "Ní thacaíonn an réad leis an logchaighdeán atá socraithe faoi láthair."
 
 #: sb.src#RID_BASIC_START.SbERR_NAMED_NOT_FOUND___ERRCODE_RES_MASK.string.text
 msgid "Named argument not found."
@@ -2744,7 +2756,7 @@ msgstr "Argóint ainmnithe gan aimsiú."
 
 #: sb.src#RID_BASIC_START.SbERR_NOT_OPTIONAL___ERRCODE_RES_MASK.string.text
 msgid "Argument is not optional."
-msgstr ""
+msgstr "Níl an argóint roghnach."
 
 #: sb.src#RID_BASIC_START.SbERR_WRONG_ARGS___ERRCODE_RES_MASK.string.text
 msgid ""
@@ -2754,7 +2766,7 @@ msgstr "Tá líon na n-argóintí mícheart."
 
 #: sb.src#RID_BASIC_START.SbERR_NOT_A_COLL___ERRCODE_RES_MASK.string.text
 msgid "Object is not a list."
-msgstr ""
+msgstr "Ní liosta é an réad."
 
 #: sb.src#RID_BASIC_START.SbERR_BAD_ORDINAL___ERRCODE_RES_MASK.string.text
 msgid "Invalid ordinal number."
@@ -2770,11 +2782,11 @@ msgstr "Formáid neamhbhailí gearrthaisce."
 
 #: sb.src#RID_BASIC_START.SbERR_PROPERTY_NOT_FOUND___ERRCODE_RES_MASK.string.text
 msgid "Object does not have this property."
-msgstr ""
+msgstr "Níl an t-airí seo ag an réad."
 
 #: sb.src#RID_BASIC_START.SbERR_METHOD_NOT_FOUND___ERRCODE_RES_MASK.string.text
 msgid "Object does not have this method."
-msgstr ""
+msgstr "Níl an modh seo ag an réad."
 
 #: sb.src#RID_BASIC_START.SbERR_ARG_MISSING___ERRCODE_RES_MASK.string.text
 msgid "Required argument lacking."
@@ -2797,7 +2809,7 @@ msgstr "Ní féidir airí a shocrú."
 
 #: sb.src#RID_BASIC_START.SbERR_GETPROP_FAILED___ERRCODE_RES_MASK.string.text
 msgid "Unable to determine property."
-msgstr ""
+msgstr "Ní féidir an t-airí a dhéanamh amach."
 
 #: sb.src#RID_BASIC_START.SbERR_UNEXPECTED___ERRCODE_RES_MASK.string.text
 msgid "Unexpected symbol: $(ARG1)."
@@ -2829,7 +2841,7 @@ msgstr "Sainmhíníodh athróg $(ARG1) cheana."
 
 #: sb.src#RID_BASIC_START.SbERR_PROC_DEFINED___ERRCODE_RES_MASK.string.text
 msgid "Sub procedure or function procedure $(ARG1) already defined."
-msgstr ""
+msgstr "Fo-ghnás nó gnás feidhme $(ARG1) sainithe cheana."
 
 #: sb.src#RID_BASIC_START.SbERR_LABEL_DEFINED___ERRCODE_RES_MASK.string.text
 msgid "Label $(ARG1) already defined."
@@ -2841,11 +2853,11 @@ msgstr "Athróg $(ARG1) gan aimsiú."
 
 #: sb.src#RID_BASIC_START.SbERR_UNDEF_ARRAY___ERRCODE_RES_MASK.string.text
 msgid "Array or procedure $(ARG1) not found."
-msgstr ""
+msgstr "Níor aimsíodh an t-eagar nó an gnás $(ARG1)."
 
 #: sb.src#RID_BASIC_START.SbERR_UNDEF_PROC___ERRCODE_RES_MASK.string.text
 msgid "Procedure $(ARG1) not found."
-msgstr ""
+msgstr "Níor aimsíodh an gnás $(ARG1)."
 
 #: sb.src#RID_BASIC_START.SbERR_UNDEF_LABEL___ERRCODE_RES_MASK.string.text
 msgid "Label $(ARG1) undefined."
@@ -2857,23 +2869,23 @@ msgstr "Cineál anaithnid sonraí $(ARG1)."
 
 #: sb.src#RID_BASIC_START.SbERR_BAD_EXIT___ERRCODE_RES_MASK.string.text
 msgid "Exit $(ARG1) expected."
-msgstr ""
+msgstr "Bhíothas ag súil le scor le $(ARG1)."
 
 #: sb.src#RID_BASIC_START.SbERR_BAD_BLOCK___ERRCODE_RES_MASK.string.text
 msgid "Statement block still open: $(ARG1) missing."
-msgstr ""
+msgstr "Bloc ráitis ar oscailt fós: $(ARG1) ar iarraidh."
 
 #: sb.src#RID_BASIC_START.SbERR_BAD_BRACKETS___ERRCODE_RES_MASK.string.text
 msgid "Parentheses do not match."
-msgstr ""
+msgstr "Ní mheaitseálann na lúibíní."
 
 #: sb.src#RID_BASIC_START.SbERR_BAD_DECLARATION___ERRCODE_RES_MASK.string.text
 msgid "Symbol $(ARG1) already defined differently."
-msgstr "Tá sainmhíniú difriúil ar $(ARG1) cheana."
+msgstr "Tá sainmhíniú difriúil ar an tsiombail $(ARG1) cheana."
 
 #: sb.src#RID_BASIC_START.SbERR_BAD_PARAMETERS___ERRCODE_RES_MASK.string.text
 msgid "Parameters do not correspond to procedure."
-msgstr ""
+msgstr "Ní oireann na paraiméadair don ghnás."
 
 #: sb.src#RID_BASIC_START.SbERR_BAD_CHAR_IN_NUMBER___ERRCODE_RES_MASK.string.text
 msgid "Invalid character in number."
@@ -2881,7 +2893,7 @@ msgstr "Carachtar neamhbhailí san uimhir."
 
 #: sb.src#RID_BASIC_START.SbERR_MUST_HAVE_DIMS___ERRCODE_RES_MASK.string.text
 msgid "Array must be dimensioned."
-msgstr ""
+msgstr "Ní mór toisí an eagair a shainiú."
 
 #: sb.src#RID_BASIC_START.SbERR_NO_IF___ERRCODE_RES_MASK.string.text
 msgid "Else/Endif without If."
@@ -2889,15 +2901,15 @@ msgstr "Else/Endif gan If."
 
 #: sb.src#RID_BASIC_START.SbERR_NOT_IN_SUBR___ERRCODE_RES_MASK.string.text
 msgid "$(ARG1) not allowed within a procedure."
-msgstr ""
+msgstr "Ní cheadaítear $(ARG1) taobh istigh de ghnás."
 
 #: sb.src#RID_BASIC_START.SbERR_NOT_IN_MAIN___ERRCODE_RES_MASK.string.text
 msgid "$(ARG1) not allowed outside a procedure."
-msgstr ""
+msgstr "Ní cheadaítear $(ARG1) taobh amuigh de ghnás."
 
 #: sb.src#RID_BASIC_START.SbERR_WRONG_DIMS___ERRCODE_RES_MASK.string.text
 msgid "Dimension specifications do not match."
-msgstr ""
+msgstr "Ní mheaitseálann na toisí sonraithe."
 
 #: sb.src#RID_BASIC_START.SbERR_BAD_OPTION___ERRCODE_RES_MASK.string.text
 msgid "Unknown option: $(ARG1)."
@@ -2905,7 +2917,7 @@ msgstr "Rogha anaithnid: $(ARG1)."
 
 #: sb.src#RID_BASIC_START.SbERR_CONSTANT_REDECLARED___ERRCODE_RES_MASK.string.text
 msgid "Constant $(ARG1) redefined."
-msgstr ""
+msgstr "Tairiseach $(ARG1) athshainithe."
 
 #: sb.src#RID_BASIC_START.SbERR_PROG_TOO_LARGE___ERRCODE_RES_MASK.string.text
 msgid "Program too large."
@@ -2913,7 +2925,7 @@ msgstr "Tá an clár rómhór."
 
 #: sb.src#RID_BASIC_START.SbERR_NO_STRINGS_ARRAYS___ERRCODE_RES_MASK.string.text
 msgid "Strings or arrays not permitted."
-msgstr ""
+msgstr "Ní cheadaítear teaghráin nó eagair."
 
 #: sb.src#RID_BASIC_START.ERRCODE_BASIC_EXCEPTION___ERRCODE_RES_MASK.string.text
 msgid "An exception occurred $(ARG1)."
@@ -2921,7 +2933,7 @@ msgstr "Tharla eisceacht $(ARG1)."
 
 #: sb.src#IDS_SBERR_TERMINATED.string.text
 msgid "The macro running has been interrupted"
-msgstr ""
+msgstr "Deineadh idirbhriseadh ar an macra atá ag rith"
 
 #: sb.src#IDS_SBERR_STOREREF.string.text
 #: app.src#IDS_SBERR_STOREREF.string.text
@@ -2938,7 +2950,7 @@ msgstr "Earráid agus leabharlann '$(ARG1)' á shábháil."
 
 #: sb.src#ERRCODE_BASMGR_MGROPEN___ERRCODE_RES_MASK.string.text
 msgid "The BASIC from the file '$(ARG1)' could not be initialized."
-msgstr ""
+msgstr "Níorbh fhéidir an BASIC ó chomhad '$(ARG1)' a thúsú."
 
 #: sb.src#ERRCODE_BASMGR_MGRSAVE___ERRCODE_RES_MASK.string.text
 msgid "Error saving BASIC: '$(ARG1)'."
@@ -38244,7 +38256,7 @@ msgstr ""
 "dtosú OpenOffice.org (m.sh. stopann feidhmchláir) chomh maith le fadhbanna i "
 "dtaispeáint ar an scáileán. Má tharlaíonn fadhbanna mar sin, nuashonraigh "
 "tiománaí do chárta ghrafaice nó bain triail as an tiománaí atá mar chuid de "
-"do chóras oibriúcháin. Go minic is féidir fadhbanna i dtaispeáint oibiachtaí "
+"do chóras oibriúcháin. Go minic is féidir fadhbanna i dtaispeáint réada "
 "3T a réiteach trín rogha \"Úsáid OpenGL\" a dhíchumasú in 'Uirlisí - "
 "Roghanna - Amharc - Amharc 3T'."
 
