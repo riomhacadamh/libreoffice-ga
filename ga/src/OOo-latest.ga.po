@@ -3650,13 +3650,13 @@ msgstr "Greille"
 #: strings.src#STR_DIAGRAM_WALL.string.text
 #: attrib3.src#TAB_DIAGRAM_WALL.tabdialog.text
 msgid "Chart Wall"
-msgstr ""
+msgstr "Balla na Cairte"
 
 #: dlg_ObjectProperties.src#TAB_DIAGRAM_FLOOR.tabdialog.text
 #: strings.src#STR_DIAGRAM_FLOOR.string.text
 #: attrib3.src#TAB_DIAGRAM_FLOOR.tabdialog.text
 msgid "Chart Floor"
-msgstr ""
+msgstr "Urlár na Cairte"
 
 #: dlg_ObjectProperties.src#TAB_DIAGRAM_AREA.tabdialog.text
 #: strings.src#STR_DIAGRAM_AREA.string.text
@@ -5519,7 +5519,7 @@ msgstr "Cui~mhne in úsáid (%):"
 
 #: AdabasStat.src#DLG_ADABASSTAT.modaldialog.text
 msgid "Database Statistics"
-msgstr ""
+msgstr "Staitisticí an Bhunachair Shonraí"
 
 #: AdabasStat.src#STR_ADABAS_HELP_SYSDEVSPACE.string.text
 msgid "Contains the system tables"
@@ -7158,10 +7158,11 @@ msgstr "Sábháil Innéacs"
 #: indexdialog.src#QUERY_SAVE_CURRENT_INDEX.querybox.text
 msgid "Do you want to save the changes made to the current index?"
 msgstr ""
+"An dteastaíonn uait na hathruithe a deineadh san innéacs reatha a shábháil?"
 
 #: indexdialog.src#QUERY_SAVE_CURRENT_INDEX.querybox.title
 msgid "Exit Index Design"
-msgstr ""
+msgstr "Scoir ó Dhearadh Innéacs"
 
 #: indexdialog.src#STR_INDEX_NAME_ALREADY_USED.string.text
 msgid "There is already another index named \"$name$\"."
@@ -7172,6 +7173,8 @@ msgid ""
 "In an index definition, no table column may occur more than once. However, "
 "you have entered column \"$name$\" twice."
 msgstr ""
+"I sainiú innéacs, níl sé ceadaithe colún tábla a bheith ann ach uair amháin. "
+"Tá an colún \"$name$\" curtha isteach faoi dhó agat, áfach."
 
 #: paramdialog.src#DLG_PARAMETERS.FL_PARAMS.fixedline.text
 msgid "~Parameters"
@@ -7193,6 +7196,7 @@ msgstr "~Ar Aghaidh"
 msgid ""
 "The entry could not be converted to a valid value for the \"$name$\"column"
 msgstr ""
+"Níorbh fhéidir an iontráil a thiontú go luach bailí don cholún \"$name$\""
 
 #: paramdialog.src#DLG_PARAMETERS.modaldialog.text
 msgid "Parameter Input"
@@ -10498,6 +10502,9 @@ msgid ""
 "master form. To do this, you can specify which columns in the subform match "
 "which columns in the master form."
 msgstr ""
+"Is féidir fofhoirmeacha a úsáid le mionsonraí maidir le taifead reatha na "
+"príomhfhoirme a thaispeáint. Chuige seo, is féidir leat na colúin san "
+"fhofhoirm atá ar aon dul le colúin sa phríomhfhoirm a shonrú."
 
 #: formlinkdialog.src#RID_DLG_FORMLINKS.modaldialog.text
 msgid "Link fields"
@@ -11692,6 +11699,8 @@ msgid ""
 "These are control fields that can be used as label fields for the "
 "$control_class$ $control_name$."
 msgstr ""
+"Is réimsí rialaithe iad seo atá inúsáidte mar réimsí lipéid don $control_class"
+"$ $control_name$."
 
 #: selectlabeldialog.src#RID_DLG_SELECTLABELCONTROL.1.checkbox.text
 msgid "~No assignment"
@@ -11699,7 +11708,7 @@ msgstr "Ga~n sannadh"
 
 #: selectlabeldialog.src#RID_DLG_SELECTLABELCONTROL.modaldialog.text
 msgid "Label Field Selection"
-msgstr ""
+msgstr "Roghnú Réimse Lipéid"
 
 #: taborder.src#RID_DLG_TABORDER.PB_MOVE_UP.pushbutton.text
 #: optlingu.src#RID_SVXDLG_EDIT_MODULES.PB_EDIT_MODULES_PRIO_UP.pushbutton.text
@@ -12633,7 +12642,7 @@ msgstr "Sábháladh scagaire XML '%s' mar phacáiste '%s. "
 
 #: xmlfilterdialogstrings.src#STR_FILTERS_HAVE_BEEN_SAVED.string.text
 msgid "%s XML filters have been saved in the package '%s'."
-msgstr ""
+msgstr "Sábháladh %s scagaire XML sa phacáiste '%s'."
 
 #: xmlfilterdialogstrings.src#STR_FILTER_PACKAGE.string.text
 msgid "XSLT filter package"
@@ -12645,13 +12654,15 @@ msgstr "D'éirigh le suiteáil an scagaire XML '%s'."
 
 #: xmlfilterdialogstrings.src#STR_FILTERS_INSTALLED.string.text
 msgid "%s XML filters have been installed successfully."
-msgstr ""
+msgstr "D'éirigh le suiteáil %s scagaire XML."
 
 #: xmlfilterdialogstrings.src#STR_NO_FILTERS_FOUND.string.text
 msgid ""
 "No XML filter could be installed because the package '%s' does not contain "
 "any XML filters."
 msgstr ""
+"Níorbh fhéidir scagaire XML a shuiteáil toisc nach bhfuil scagaire XML ar "
+"bith sa phacáiste '%s'."
 
 #: xmlfiltersettingsdialog.src#DLG_XML_FILTER_SETTINGS_DIALOG.PB_XML_FILTER_NEW.pushbutton.text
 #: custsdlg.src#DLG_CUSTOMSHOW.BTN_NEW.pushbutton.text
@@ -32336,7 +32347,7 @@ msgstr "Rilíf"
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_GraphicFilterPoster.Label.value.text
 #: grfflt.src#RID_SVX_GRFFILTER_DLG_POSTER.modaldialog.text
 msgid "Posterize"
-msgstr ""
+msgstr "Mar Phóstaer"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_GraphicFilterPopart.Label.value.text
 msgid "Pop Art"
@@ -36862,6 +36873,8 @@ msgid ""
 "Please select the folder from which you want to import fonts. Add the "
 "selected fonts by clicking the OK button."
 msgstr ""
+"Roghnaigh an fillteán a theastaíonn uait clófhoirne a iompórtáil as. Suiteáil "
+"ná clófhoirne roghnaithe trí OK a chliceáil."
 
 #: padialog.src#RID_FONTIMPORT_DIALOG.RID_FIMP_FL_FROM.fixedline.text
 msgid "Source directory"
@@ -36873,7 +36886,7 @@ msgstr "Cua~rdaigh Fochomhadlanna"
 
 #: padialog.src#RID_FONTIMPORT_DIALOG.RID_FIMP_FL_TARGETOPTS.fixedline.text
 msgid "Target options"
-msgstr ""
+msgstr "Roghanna sprice"
 
 #: padialog.src#RID_FONTIMPORT_DIALOG.RID_FIMP_BOX_LINKONLY.checkbox.text
 msgid "Create ~soft links only"
@@ -36905,6 +36918,12 @@ msgid ""
 "ghostscript, for example, and have to be located in the same directory as the "
 "font files or its afm subdirectory."
 msgstr ""
+"Níor aimsíodh comhad formáide (le .afm mar eisínteacht air) don "
+"chlófhoireann\n"
+"%s\n"
+"agus dá bhrí sin ní féidir an chlófhoireann a shuiteáil. Is féidir comhaid "
+"fhormáide a chruthú le ghostscript, mar shampla, agus ní mór dóibh a bheith "
+"sa chomhadlann chéanna leis na comhaid chlófhoirne nó a fochomhadlann afm."
 
 #: padialog.src#RID_FONTIMPORT_DIALOG.RID_FIMP_STR_AFMCOPYFAILED.string.text
 msgid ""
@@ -36912,6 +36931,9 @@ msgid ""
 "   %s\n"
 "could not be copied. The font will not be installed."
 msgstr ""
+"Níorbh fhéidir an comhad tomhais don chomhad clófhoirne\n"
+"  %s\n"
+"a chóipeáil. Ní shuiteálfar an chlófhoireann."
 
 #: padialog.src#RID_FONTIMPORT_DIALOG.RID_FIMP_STR_FONTCOPYFAILED.string.text
 msgid ""
@@ -36928,10 +36950,12 @@ msgid ""
 "A directory containing a writable fonts.dir file is not located in the "
 "Fontpath. Therefore, fonts cannot be installed."
 msgstr ""
+"Níl comhadlann sa Fontpath ina bhfuil comhad fonts.dir inscríofa. Dá bhrí "
+"sin, ní féidir clófhoirne a shuiteáil."
 
 #: padialog.src#RID_FONTIMPORT_DIALOG.RID_FIMP_STR_NUMBEROFFONTSIMPORTED.string.text
 msgid "%d new fonts were added."
-msgstr ""
+msgstr "Suiteáladh %d clófhoireann nua."
 
 #: padialog.src#RID_FONTIMPORT_DIALOG.modaldialog.text
 msgid "Add Fonts"
@@ -37008,6 +37032,7 @@ msgstr "Níorbh fhéidir an printéir %s a oscailt."
 #: padialog.src#RID_PA_TXT_TESTPAGE_PRINTED.string.text
 msgid "The test page was printed succesfully. Please check the result."
 msgstr ""
+"D'éirigh le priontáil an leathanaigh thástála. Seiceáil an toradh le do thoil."
 
 #: padialog.src#RID_QRY_PRTNAME.string.text
 msgid "~New printer name"
@@ -37046,7 +37071,7 @@ msgstr "~Cuir Leis..."
 
 #: padialog.src#RID_FONTNAMEDIALOG.RID_FNTNM_FIXED.fixedtext.text
 msgid "Note: The fonts are only available to the applications."
-msgstr ""
+msgstr "Nóta: níl na clófhoirne ar fáil ach do na feidhmchláir."
 
 #: padialog.src#RID_FONTNAMEDIALOG.RID_FNTNM_STR_RENAME.string.text
 msgid "~New name for %s"
@@ -37058,7 +37083,7 @@ msgstr "Ai~nm nua ar %s (%d1 as %d2)"
 
 #: padialog.src#RID_FONTNAMEDIALOG.RID_FNTNM_STR_NOTRENAMABLE.string.text
 msgid "The font %s cannot be renamed due to missing write permission."
-msgstr ""
+msgstr "Ní féidir an chlófhoireann %s a athainmniú gan cead scríofa."
 
 #: padialog.src#RID_FONTNAMEDIALOG.modaldialog.text
 msgid "Fonts"
@@ -37082,23 +37107,23 @@ msgstr "Ní raibh aon earráid"
 
 #: padialog.src#RID_AFMERROR_NO_FONT_NAME.string.text
 msgid "The metric does not contain a 'FontName' entry."
-msgstr ""
+msgstr "Níl iontráil 'FontName' sa tomhas."
 
 #: padialog.src#RID_AFMERROR_NO_FULL_NAME.string.text
 msgid "The metric does not contain a 'FullName' entry."
-msgstr ""
+msgstr "Níl iontráil 'FullName' sa tomhas."
 
 #: padialog.src#RID_AFMERROR_NO_FAMILY_NAME.string.text
 msgid "The metric does not contain a 'FamilyName' entry."
-msgstr ""
+msgstr "Níl iontráil 'FamilyName' sa tomhas."
 
 #: padialog.src#RID_AFMERROR_MOVETO_FAILED.string.text
 msgid "The converted metric could not be written."
-msgstr ""
+msgstr "Níorbh an tomhas tiontaithe a scríobh."
 
 #: padialog.src#RID_AFMERROR_STREAM_READ_FAILED.string.text
 msgid "The metric could not be read."
-msgstr ""
+msgstr "Níorbh fhéidir an tomhas a léamh."
 
 #: padialog.src#RID_AFMERROR_STREAM_WRITE_FAILED.string.text
 msgid "A temporary file could not be created."
@@ -37106,7 +37131,7 @@ msgstr "Níorbh fhéidir comhad sealadach a chruthú."
 
 #: padialog.src#RID_AFMERROR_NOT_A_METRIC.string.text
 msgid "The file does not contain a metric."
-msgstr ""
+msgstr "Níl tomhas sa chomhad."
 
 #: padialog.src#RID_AFMERROR_BOX_TXT.string.text
 msgid ""
@@ -37117,6 +37142,12 @@ msgid ""
 "could not be converted for the following reason:\n"
 "\n"
 msgstr ""
+"Níorbh fhéidir an tomhas\n"
+"\n"
+"%s\n"
+"\n"
+"a thiontú de bharr:\n"
+"\n"
 
 #: padialog.src#RID_PROGRESS_DLG.RID_PROGRESS_PROGRESS_TXT.fixedtext.text
 #: vectdlg.src#DLG_VECTORIZE.GRP_PRGS.fixedtext.text
@@ -37130,15 +37161,15 @@ msgstr "Fan go fóill, le do thoil"
 
 #: padialog.src#RID_OPERATION_CONVERTMETRIC.string.text
 msgid "Font metrics conversion"
-msgstr ""
+msgstr "Tiontú tomhais chlófhoirne"
 
 #: padialog.src#RID_PPDIMPORT_DLG.RID_PPDIMP_GROUP_PATH.fixedline.text
 msgid "Dri~ver directory"
-msgstr ""
+msgstr "Comhadlann na dT~iománaithe"
 
 #: padialog.src#RID_PPDIMPORT_DLG.RID_PPDIMP_TXT_PATH.fixedtext.text
 msgid "Please select the driver directory."
-msgstr ""
+msgstr "Roghnaigh comhadlann na dtiománaithe"
 
 #: padialog.src#RID_PPDIMPORT_DLG.RID_PPDIMP_GROUP_DRIVER.fixedline.text
 msgid "~Selection of drivers"
@@ -37146,11 +37177,11 @@ msgstr "~Roghnú tiománaithe"
 
 #: padialog.src#RID_PPDIMPORT_DLG.RID_PPDIMP_TXT_DRIVER.fixedtext.text
 msgid "Please select the drivers to install and press \"%s\"."
-msgstr ""
+msgstr "Roghnaigh na tiománaithe atá le suiteáil agus brúigh \"%s\"."
 
 #: padialog.src#RID_PPDIMPORT_DLG.RID_PPDIMP_STR_LOADINGPPD.string.text
 msgid "Searching for drivers"
-msgstr ""
+msgstr "Tiománaithe á lorg"
 
 #: padialog.src#RID_PPDIMPORT_DLG.modaldialog.text
 msgid "Driver Installation"
@@ -37173,10 +37204,14 @@ msgid ""
 "There are still printers using the driver \"%s\". Do you really want to "
 "remove it? The corresponding printers will also be removed."
 msgstr ""
+"Tá printéirí ann fós atá ag baint úsáide as an tiománaí \"%s\". An bhfuil tú "
+"cinnte gur mian leat é a bhaint? Bainfear na printéirí sin freisin."
 
 #: padialog.src#RID_ERR_REMOVESGENPRT.string.text
 msgid "The driver \"%s\" is always needed and can therefore not be removed."
 msgstr ""
+"Tá an tiománaí \"%s\" ag teastáil i gcónaí agus ní féidir é a bhaint dá bhrí "
+"sin."
 
 #: padialog.src#RID_ERR_REMOVEDRIVERFAILED.string.text
 msgid ""
@@ -37185,12 +37220,17 @@ msgid ""
 "\n"
 "%s2."
 msgstr ""
+"Níorbh fhéidir an tiománaí \"%s1\" a bhaint. Níorbh fhéidir an comhad\n"
+"\n"
+"%s2 a bhaint."
 
 #: padialog.src#RID_ERR_REMOVEDEFAULTDRIVER.string.text
 msgid ""
 "The driver \"%s\" is used by your default printer. Therefore, it cannot be "
 "removed."
 msgstr ""
+"Tá an tiománaí \"%s\" in úsáid ag do phrintéir réamhshocraithe. Mar sin, ní "
+"féidir é a bhaint."
 
 #: padialog.src#RID_ERR_PRINTERNOTREMOVEABLE.string.text
 msgid "The printer %s cannot be removed."
@@ -37199,23 +37239,27 @@ msgstr "Ní féidir an printéir %s a bhaint."
 #: padialog.src#RID_TXT_PRINTERALREADYEXISTS.string.text
 msgid ""
 "A printer named \"%s\" already exists. This printer will not be imported."
-msgstr ""
+msgstr "Tá printéir darbh ainm \"%s\" ann cheana. Ní iompórtálfar an printéir."
 
 #: padialog.src#RID_TXT_PRINTERWITHOUTCOMMAND.string.text
 msgid ""
 "The printer \"%s\" has no valid configuration and, therefore, cannot be "
 "imported."
 msgstr ""
+"Níl cumraíocht bhailí ag an bprintéir \"%s\" agus mar sin ní féidir é a "
+"iompórtáil."
 
 #: padialog.src#RID_TXT_DRIVERDOESNOTEXIST.string.text
 msgid ""
 "The driver for the printer \"%s1\" (%s2) is not installed. Therefore the "
 "printer cannot be imported."
 msgstr ""
+"Níl tiománaí an phrintéara \"%s1\" (%s2) suiteáilte. Ní féidir an printéir a "
+"iompórtáil dá bhrí sin."
 
 #: padialog.src#RID_TXT_PRINTERADDFAILED.string.text
 msgid "The printer \"%s\" could not be added."
-msgstr ""
+msgstr "Níorbh fhéidir an printéir \"%s\" a chur leis."
 
 #: padialog.src#RID_ADD_PRINTER_DIALOG.RID_ADDP_BTN_PREV.pushbutton.text
 #: formdlgs.src#RID_SCDLG_FORMULA.BTN_BACKWARD.pushbutton.text
@@ -37300,15 +37344,15 @@ msgstr "Socraigh mar phrintéir ~réamhshocraithe"
 
 #: padialog.src#RID_ADDP_PAGE_NAME.RID_ADDP_NAME_BOX_FAXSWALLOW.checkbox.text
 msgid "Remo~ve fax number from output"
-msgstr ""
+msgstr "Bain uimhir fhacs ón aschur"
 
 #: padialog.src#RID_ADDP_PAGE_COMMAND.RID_ADDP_STR_TITLE.string.text
 msgid "Choose a command line"
-msgstr ""
+msgstr "Roghnaigh líne ordaithe"
 
 #: padialog.src#RID_ADDP_PAGE_COMMAND.RID_ADDP_CMD_TXT_COMMAND.fixedtext.text
 msgid "Please enter a c~ommand line appropriate for this device."
-msgstr ""
+msgstr "Iontráil líne ~ordaithe oiriúnach don ghléas seo."
 
 #: padialog.src#RID_ADDP_PAGE_COMMAND.RID_ADDP_CMD_TXT_PDFDIR.fixedtext.text
 msgid "PDF ~target directory"
@@ -37329,6 +37373,11 @@ msgid ""
 "\"(TMP)\" is in the command line, the PostScript code will be supplied via a "
 "file, otherwise via standard input (i.e. as a pipe)."
 msgstr ""
+"Ritear an líne ordaithe le haghaidh tiontairí PDF mar seo: i gcás gach "
+"cáipéis a phriontálfar, cuirfear comhad sealadach in áit \"(TMP)\" sa líne "
+"ordaithe agus ainm an chomhaid sprice PDF in áit \"(OUTFILE)\" sa líne "
+"ordaithe. Má bhíonn \"(TMP)\" sa líne ordaithe soláthrófar an cód PostScript "
+"i gcomhad; muna mbíonn, cuirfear isteach mar ghnáthionchur é (.i. mar phíopa)."
 
 #: padialog.src#RID_ADDP_PAGE_COMMAND.RID_ADDP_CMD_STR_FAXHELP.string.text
 msgid ""
@@ -37338,6 +37387,11 @@ msgid ""
 "appears in the command line, the PostScript code will be supplied via a file, "
 "otherwise it is passed as standard input (i.e. as a pipe)."
 msgstr ""
+"Ritear an líne ordaithe le haghaidh ceangail fhacs mar seo: i gcás gach facs "
+"a sheolfar, cuirfear comhad sealadach in áit \"(TMP)\" sa líne ordaithe agus "
+"an uimhir fhacs in áit \"(PHONE)\" sa líne ordaithe. Má bhíonn \"(TMP)\" sa "
+"líne ordaithe soláthrófar an cód PostScript i gcomhad; muna mbíonn, cuirfear "
+"isteach mar ghnáthionchur é (.i. mar phíopa)."
 
 #: padialog.src#RID_ADDP_PAGE_OLDPRINTERS.RID_ADDP_STR_TITLE.string.text
 msgid "Import printers from old versions"
@@ -37347,6 +37401,8 @@ msgstr "Iompórtáil printéirí ó sheanleaganacha"
 msgid ""
 "~These printers can be imported. Please select the ones you want to import."
 msgstr ""
+"Is féidir na prin~téirí seo a iompórtáil. Roghnaigh na cinn ar mhaith leat "
+"iad a iompórtáil."
 
 #: padialog.src#RID_ADDP_PAGE_OLDPRINTERS.RID_ADDP_OLD_BTN_SELECTALL.pushbutton.text
 msgid ""
@@ -37363,7 +37419,7 @@ msgstr "Roghnaigh tiománaí"
 
 #: padialog.src#RID_ADDP_PAGE_FAXDRIVER.RID_ADDP_FAXDRV_TXT_DRIVER.fixedtext.text
 msgid "Use the following driver for this fax connection"
-msgstr ""
+msgstr "Úsáid an tiománaí seo a leanas don nasc faics seo"
 
 #: padialog.src#RID_ADDP_PAGE_FAXDRIVER.RID_ADDP_FAXDRV_BTN_DEFAULT.radiobutton.text
 msgid ""
@@ -37375,6 +37431,7 @@ msgstr "An tiománaí ~réamhshocraithe"
 #: padialog.src#RID_ADDP_PAGE_FAXDRIVER.RID_ADDP_FAXDRV_BTN_SELECT.radiobutton.text
 msgid "A speci~fic driver, to adapt the format to another printer"
 msgstr ""
+"Tiománaí ar leith leis an bh~formáid a chur in oiriúint do phrintéir eile"
 
 #: padialog.src#RID_ADDP_PAGE_PDFDRIVER.RID_ADDP_STR_TITLE.string.text
 msgid ""
@@ -37384,7 +37441,7 @@ msgstr "Roghnaigh tiománaí"
 
 #: padialog.src#RID_ADDP_PAGE_PDFDRIVER.RID_ADDP_PDFDRV_TXT_DRIVER.fixedtext.text
 msgid "Use the following driver for this PDF converter"
-msgstr ""
+msgstr "Úsáid an tiománaí seo don tiontaire PDF seo"
 
 #: padialog.src#RID_ADDP_PAGE_PDFDRIVER.RID_ADDP_PDFDRV_BTN_DEFAULT.radiobutton.text
 msgid ""
@@ -37400,6 +37457,7 @@ msgstr "An tiománaí Adobe D~istiller(tm)"
 #: padialog.src#RID_ADDP_PAGE_PDFDRIVER.RID_ADDP_PDFDRV_BTN_SELECT.radiobutton.text
 msgid "A spec~ific driver, to adapt the format to another printer"
 msgstr ""
+"Tiománaí ar le~ith leis an bhformáid a chur in oiriúint do phrintéir eile"
 
 #: padialog.src#RID_TXT_FONT_OBLIQUE.string.text
 msgid "Oblique"
@@ -37424,7 +37482,7 @@ msgstr "Éadrom"
 
 #: padialog.src#RID_TXT_FONT_SEMIBOLD.string.text
 msgid "Semibold"
-msgstr ""
+msgstr "Leaththrom"
 
 #: padialog.src#RID_TXT_FONT_ULTRABOLD.string.text
 msgid "Ultrabold"
@@ -37449,7 +37507,7 @@ msgstr "Leath-chomhdhlúite"
 
 #: padialog.src#RID_TXT_FONT_SEMIEXPANDED.string.text
 msgid "Semiexpanded"
-msgstr ""
+msgstr "Leath-leathnaithe"
 
 #: padialog.src#RID_TXT_FONT_EXPANDED.string.text
 #: chardlg.src#RID_SVXPAGE_CHAR_POSITION.LB_KERNING2.2.stringlist.text
@@ -37458,11 +37516,11 @@ msgstr "Fairsingithe"
 
 #: padialog.src#RID_TXT_FONT_EXTRAEXPANDED.string.text
 msgid "Extraexpanded"
-msgstr ""
+msgstr "Sár-leathnaithe"
 
 #: padialog.src#RID_TXT_FONT_ULTRAEXPANDED.string.text
 msgid "Ultraexpanded"
-msgstr ""
+msgstr "Rí-leathnaithe"
 
 #: padialog.src#RID_TXT_FONT_REGULAR.string.text
 #: ctrltool.src#STR_SVT_STYLE_NORMAL.string.text
@@ -45207,7 +45265,7 @@ msgstr "Teidil na n-aiseanna"
 
 #: dlggraut.src#DLG_CHART_WIZ.modaldialog.text
 msgid "AutoFormat Chart "
-msgstr ""
+msgstr "UathFhormáidigh Cairt"
 
 #: legend.src#DLG_LEGEND.FL_LEGEND.fixedline.text
 msgid ""
@@ -46089,14 +46147,14 @@ msgid ""
 "_: module_xsltfilter.ulf#STR_NAME_MODULE_OPTIONAL_XSLTFILTERSAMPLES.LngText."
 "text\n"
 "XSLT Sample Filters"
-msgstr ""
+msgstr "Scagairí Samplacha XSLT"
 
 #: module_xsltfilter.ulf#STR_DESC_MODULE_OPTIONAL_XSLTFILTERSAMPLES.LngText.text
 msgid ""
 "_: module_xsltfilter.ulf#STR_DESC_MODULE_OPTIONAL_XSLTFILTERSAMPLES.LngText."
 "text\n"
 "XSLT Sample Filters"
-msgstr ""
+msgstr "Scagairí Samplacha XSLT"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_IF.string.text
 msgid "IF"
@@ -52712,7 +52770,7 @@ msgstr "Luach neamhbhailí"
 
 #: miscdlgs.src#RID_SCDLG_FILLSERIES.modaldialog.text
 msgid "Fill Series"
-msgstr ""
+msgstr "Líon Sraith"
 
 #: miscdlgs.src#RID_SCDLG_GROUP.STR_GROUP.string.text
 msgid "Include"
@@ -61858,7 +61916,7 @@ msgstr ""
 
 #: solvrdlg.src#RID_SCDLG_SOLVER.modelessdialog.text
 msgid "Goal Seek"
-msgstr ""
+msgstr "Cuardaigh Sprioc"
 
 #: sortdlg.src#RID_SCPAGE_SORT_FIELDS.BTN_UP1.radiobutton.text
 msgid ""
@@ -67839,7 +67897,7 @@ msgstr ""
 
 #: printdlg.src#DLG_PRINT_WARNINGS.modaldialog.text
 msgid "Warning Print Options"
-msgstr ""
+msgstr "Rabhadh Roghanna Priontála"
 
 #: prltempl.src#TAB_PRES_LAYOUT_TEMPLATE.1.RID_SVXPAGE_LINE.pageitem.text
 msgid ""
@@ -69378,6 +69436,8 @@ msgid ""
 "This Style cannot be used as a base Style,\n"
 "because it would result in a recursive reference."
 msgstr ""
+"Ní féidir an stíl seo a úsáid mar bhunstíl\n"
+"toisc go mbeadh tagairt athchúrsach ann."
 
 #: dialog.src#MSG_POOL_STYLE_NAME.infobox.text
 msgid ""
@@ -69434,12 +69494,16 @@ msgid ""
 "Cannot edit document info for documents\n"
 " in this file format."
 msgstr ""
+"Ní féidir faisnéis cáipéise a chur in eagar\n"
+"do cháipéisí san fhormáid seo."
 
 #: dialog.src#MSG_ERR_CANT_EDIT_OPEN_DOCS.errorbox.text
 msgid ""
 "Document info of documents\n"
 " being currently edited cannot be modified from within the document manager."
 msgstr ""
+"Ní féidir faisnéis cáipéise de cháipéisí atá á gcur in eagar\n"
+"a athrú ó bhainisteoir na gcáipéisí."
 
 #: dialog.src#RID_URLOPEN.modaldialog.text
 msgid "Enter URL"
@@ -69451,7 +69515,7 @@ msgstr "Ná Folaigh"
 
 #: dialog.src#MSG_ERROR_WRONG_CONFIRM.errorbox.text
 msgid "Faulty password confirmation"
-msgstr ""
+msgstr "Dearbhú lochtach focail fhaire"
 
 #: dialog.src#STR_GROUP_STYLES.string.text doc.src#STR_STYLES.string.text
 #: rubydialog.src#RID_SVXDLG_RUBY.PB_STYLIST.pushbutton.text
@@ -73543,7 +73607,7 @@ msgstr "Sannadh réimsí"
 
 #: addresstemplate.src#DLG_ADDRESSBOOKSOURCE.modaldialog.text
 msgid "Templates: Address Book Assignment"
-msgstr ""
+msgstr "Teimpléid: Sannadh Leabhar Seoltaí"
 
 #: addresstemplate.src#STR_FIELD_DEPARTMENT.string.text
 #: template.src#CorrespondenceFields_2.string.text
@@ -78748,11 +78812,11 @@ msgstr "Ai~nm cláraithe"
 
 #: doclinkdialog.src#DLG_DOCUMENTLINK.STR_EDIT_LINK.string.text
 msgid "Edit Database Link"
-msgstr ""
+msgstr "Cuir Nasc Bunachair Shonraí in Eagar"
 
 #: doclinkdialog.src#DLG_DOCUMENTLINK.STR_NEW_LINK.string.text
 msgid "Create Database Link"
-msgstr ""
+msgstr "Cruthaigh Nasc Bunachair Shonraí"
 
 #: doclinkdialog.src#STR_LINKEDDOC_DOESNOTEXIST.string.text
 msgid ""
@@ -80631,7 +80695,7 @@ msgstr "Fráma:"
 
 #: imapdlg.src#RID_SVXDLG_IMAP.modelessdialog.text
 msgid "ImageMap Editor"
-msgstr ""
+msgstr "Eagarthóir Mapa Íomhá"
 
 #: imapdlg.src#RID_SVXMN_IMAP.MN_URL.menuitem.text
 msgid "Description..."
@@ -81522,7 +81586,7 @@ msgstr ""
 #: lingu.src#RID_SVXQB_CONTINUE.querybox.text
 #: dialog.src#RID_QB_SPELL_CONTINUE.querybox.text
 msgid "Continue checking at beginning of document?"
-msgstr ""
+msgstr "Lean de sheiceáil ag tús na cáipéise?"
 
 #: lingu.src#RID_SVXQB_BW_CONTINUE.querybox.text
 msgid "Continue checking at end of document?"
@@ -95778,7 +95842,7 @@ msgstr "Cuir Spásáil na gCarachtar Fontwork in bhFeidhm"
 
 #: chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.CB_REVERSE.checkbox.text
 msgid "Reverse mapping"
-msgstr ""
+msgstr "Aismapáil"
 
 #: chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.FT_TERM.fixedtext.text
 msgid "Term"
@@ -95830,11 +95894,12 @@ msgstr "Cuir Foclóir in Eagar"
 
 #: chinese_translationdialog.src#DLG_CHINESETRANSLATION.FL_DIRECTION.fixedline.text
 msgid "Translation direction"
-msgstr ""
+msgstr "Treo aistrithe"
 
 #: chinese_translationdialog.src#DLG_CHINESETRANSLATION.CB_USE_VARIANTS.checkbox.text
 msgid "~Use Taiwan, Hong Kong SAR, and Macao SAR character variants"
 msgstr ""
+"Úsáid athraitheacha carachtar na Téaváine, RRS Hong Cong agus RRS Mhacáó"
 
 #: chinese_translationdialog.src#DLG_CHINESETRANSLATION.FL_COMMONTERMS.fixedline.text
 msgid "Common terms"
@@ -99057,7 +99122,7 @@ msgstr ""
 
 #: addresslistdialog.src#DLG_MM_ADDRESSLISTDIALOG.FT_LIST.fixedtext.text
 msgid "Your recipients are currently selected from:"
-msgstr ""
+msgstr "Tá d'fhaighteoirí roghnaithe faoi láthair ó:"
 
 #: addresslistdialog.src#DLG_MM_ADDRESSLISTDIALOG.PB_LOADLIST.pushbutton.text
 msgid ""
@@ -99099,7 +99164,7 @@ msgstr "Roghnaigh Liosta Seoltaí"
 
 #: createaddresslistdialog.src#DLG_MM_CREATEADDRESSLIST.FI_ADDRESSINFORMATION.fixedtext.text
 msgid "Address Information"
-msgstr ""
+msgstr "Eolas Seolta"
 
 #: createaddresslistdialog.src#DLG_MM_CREATEADDRESSLIST.PB_DELETE.pushbutton.text
 msgid ""
@@ -99121,7 +99186,7 @@ msgstr "S~aincheap..."
 
 #: createaddresslistdialog.src#DLG_MM_CREATEADDRESSLIST.FI_VIEWENTRIES.fixedtext.text
 msgid "Sho~w entry number"
-msgstr ""
+msgstr "Taispeáin uimhir iontrála"
 
 #: createaddresslistdialog.src#DLG_MM_CREATEADDRESSLIST.ST_FILTERNAME.string.text
 msgid "%PRODUCTNAME Adress List (.csv)"
@@ -99137,7 +99202,7 @@ msgstr "A~imsigh"
 
 #: createaddresslistdialog.src#DLG_MM_FIND_ENTRY.CB_FINDONLY.checkbox.text
 msgid "Find ~only in"
-msgstr ""
+msgstr "Ná cuardaigh ach i"
 
 #: createaddresslistdialog.src#DLG_MM_FIND_ENTRY.PB_FIND.pushbutton.text
 msgid ""
@@ -99157,7 +99222,7 @@ msgstr "Aimsigh Iontráil"
 
 #: customizeaddresslistdialog.src#DLG_MM_CUSTOMIZE_ADDRESS_LIST.FT_FIELDS.fixedtext.text
 msgid "A~ddress list elements"
-msgstr ""
+msgstr "Eilimintí liosta seoltaí"
 
 #: customizeaddresslistdialog.src#DLG_MM_CUSTOMIZE_ADDRESS_LIST.PB_ADD.pushbutton.text
 msgid ""
@@ -99462,7 +99527,7 @@ msgstr "Mioneolas"
 
 #: mailmergechildwindow.src#DLG_MM_SENDWARNING.modaldialog.text
 msgid "E-Mails could not be sent"
-msgstr ""
+msgstr "Níorbh fhéidir na teachtaireachtaí ríomhphoist a sheoladh"
 
 #: mailmergewizard.src#DLG_MAILMERGEWIZARD.ST_STARTING.string.text
 msgid "Select starting document"
@@ -100628,7 +100693,7 @@ msgstr "Cuir naisc in eagar"
 #: dialog.src#STR_SPELLING_COMPLETED.string.text
 #: olmenu.src#STR_SPELL_OK.string.text
 msgid "The spellcheck is complete."
-msgstr ""
+msgstr "Tá an tseiceáil litrithe críochnaithe."
 
 #: docstdlg.src#TP_DOC_STAT.FT_PAGE.fixedtext.text
 msgid "Number of Pages:"
@@ -105183,7 +105248,7 @@ msgstr "Cruth~aigh"
 
 #: chartins.src#DLG_INSERT_CHART.modelessdialog.text
 msgid "AutoFormat Chart (1-4)"
-msgstr ""
+msgstr "UathFhormáidigh Cairt (1-4)"
 
 #: convert.src#DLG_CONV_TEXT_TABLE.CB_SEMI.radiobutton.text
 msgid "~Semicolons"
@@ -107350,7 +107415,7 @@ msgstr "Seol Fianáin"
 
 #: fltdlg.src#DLG_FILTER_SELECT.modaldialog.text
 msgid "Filter Selection"
-msgstr ""
+msgstr "Roghnú Scagaire"
 
 #: ids.src#RID_UUI_ERRHDL._ERRCODE_UUI_IO_ABORT___ERRCODE_RES_MASK_.string.text
 msgid "The operation executed on $(ARG1) was aborted."
@@ -111709,15 +111774,15 @@ msgstr "Níorbh fhéidir an teastas a fhíorú."
 
 #: digitalsignaturesdialog.src#RID_XMLSECDLG_DIGSIG.FT_HINT_DOC.fixedtext.text
 msgid "The following have signed the document content:"
-msgstr ""
+msgstr "Tá inneachar na cáipéise sínithe ag:"
 
 #: digitalsignaturesdialog.src#RID_XMLSECDLG_DIGSIG.FT_HINT_BASIC.fixedtext.text
 msgid "The following have signed the document macro:"
-msgstr ""
+msgstr "Tá macra na cáipéise sínithe ag:"
 
 #: digitalsignaturesdialog.src#RID_XMLSECDLG_DIGSIG.FT_HINT_PACK.fixedtext.text
 msgid "The following have signed this package:"
-msgstr ""
+msgstr "Tá an pacáiste seo sínithe ag:"
 
 #: digitalsignaturesdialog.src#RID_XMLSECDLG_DIGSIG.STR_HEADERBAR.string.text
 msgid "\\tSigned by\\tDigital ID issued by\\tDate"
@@ -111736,18 +111801,18 @@ msgid ""
 "_: digitalsignaturesdialog.src#RID_XMLSECDLG_DIGSIG.STR_INVALID_SIGNATURE."
 "string.text\n"
 "The signatures in this document are invalid"
-msgstr ""
+msgstr "Tá na sínithe sa cháipéis seo neamhbhailí"
 
 #: digitalsignaturesdialog.src#RID_XMLSECDLG_DIGSIG.FI_STATE_VALID.fixedtext.text
 msgid "The signatures in this document are valid"
-msgstr ""
+msgstr "Tá na sínithe sa cháipéis seo bailí"
 
 #: digitalsignaturesdialog.src#RID_XMLSECDLG_DIGSIG.FI_STATE_BROKEN.fixedtext.text
 msgid ""
 "_: digitalsignaturesdialog.src#RID_XMLSECDLG_DIGSIG.FI_STATE_BROKEN.fixedtext."
 "text\n"
 "The signatures in this document are invalid"
-msgstr ""
+msgstr "Tá na sínithe sa cháipéis seo neamhbhailí"
 
 #: digitalsignaturesdialog.src#RID_XMLSECDLG_DIGSIG.BTN_VIEWCERT.pushbutton.text
 msgid ""
