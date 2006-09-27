@@ -103038,11 +103038,11 @@ msgstr "Fráma"
 
 #: frmpage.src#TP_FRM_URL.CB_SERVER.checkbox.text
 msgid "~Server-side image map"
-msgstr ""
+msgstr "Mapa íomhá ar thaobh an fhrea~stalaí"
 
 #: frmpage.src#TP_FRM_URL.CB_CLIENT.checkbox.text
 msgid "~Client-side image map"
-msgstr ""
+msgstr "Mapa íomhá ar thaobh an ~chliaint"
 
 #: frmpage.src#TP_FRM_URL.FL_IMAGE.fixedline.text
 msgid "Image map"
@@ -103361,12 +103361,12 @@ msgstr "Innéacs Aibítreach"
 #: cnttab.src#TP_TOX_SELECT.LB_TYPE.3.stringlist.text
 #: initui.src#RID_SW_SHELLRES.STR_TOX_ILL.string.text
 msgid "Illustration Index"
-msgstr ""
+msgstr "Innéacs Léaráidí"
 
 #: cnttab.src#TP_TOX_SELECT.LB_TYPE.4.stringlist.text
 #: initui.src#RID_SW_SHELLRES.STR_TOX_TBL.string.text
 msgid "Index of Tables"
-msgstr ""
+msgstr "Innéacs na dTáblaí"
 
 #: cnttab.src#TP_TOX_SELECT.LB_TYPE.5.stringlist.text
 #: initui.src#RID_SW_SHELLRES.STR_TOU.string.text
@@ -103376,7 +103376,7 @@ msgstr "Saincheaptha"
 #: cnttab.src#TP_TOX_SELECT.LB_TYPE.6.stringlist.text
 #: initui.src#RID_SW_SHELLRES.STR_TOX_OBJ.string.text
 msgid "Table of Objects"
-msgstr ""
+msgstr "Innéacs na Réad"
 
 #: cnttab.src#TP_TOX_SELECT.LB_TYPE.7.stringlist.text
 #: initui.src#RID_SW_SHELLRES.STR_TOX_AUTH.string.text
@@ -103406,7 +103406,7 @@ msgstr "Caibidil"
 
 #: cnttab.src#TP_TOX_SELECT.FT_LEVEL.fixedtext.text
 msgid "Evaluate up to level"
-msgstr ""
+msgstr "Luacháil suas go dtí leibhéal"
 
 #: cnttab.src#TP_TOX_SELECT.FL_CREATEFROM.fixedline.text
 msgid "Create from"
@@ -104180,7 +104180,7 @@ msgstr "léamh amháin"
 
 #: glossary.src#DLG_GLOSSARY.FL_RELATIVE.fixedline.text
 msgid "Save links relative to"
-msgstr ""
+msgstr "Sábháil naisc coibhneasta le"
 
 #: glossary.src#DLG_GLOSSARY.CB_NET_REL.checkbox.text
 msgid "Inte~rnet"
@@ -104393,7 +104393,7 @@ msgstr ""
 
 #: num.src#TP_NUM_POSITION.FT_ALIGN.fixedtext.text
 msgid "Numbering ~alignment"
-msgstr ""
+msgstr "~Ailíniú uimhrithe"
 
 #: num.src#TP_NUM_POSITION.LB_ALIGN.1.stringlist.text
 msgid ""
@@ -104688,7 +104688,7 @@ msgstr "Uasmhéid an téacs Ruby"
 
 #: pggrid.src#TP_TEXTGRID_PAGE.CB_RUBYBELOW.checkbox.text
 msgid "Ruby text below/left from base text"
-msgstr ""
+msgstr "Téacs Ruby faoi/ar chlé an bhuntéacs"
 
 #: pggrid.src#TP_TEXTGRID_PAGE.FL_DISPLAY.fixedline.text
 msgid "Grid display"
@@ -105015,7 +105015,7 @@ msgstr "An Chéad Nóta Eile"
 
 #: workctrl.src#STR_IMGBTN_SRCH_REP_DOWN.string.text
 msgid "Continue search forward"
-msgstr ""
+msgstr "Lean cuardach ar aghaidh"
 
 #: workctrl.src#STR_IMGBTN_INDEX_ENTRY_DOWN.string.text
 msgid "Next index entry"
@@ -105075,7 +105075,7 @@ msgstr "An nóta roimhe seo"
 
 #: workctrl.src#STR_IMGBTN_SRCH_REP_UP.string.text
 msgid "Continue search backwards"
-msgstr ""
+msgstr "Lean cuardach ar gcúl"
 
 #: workctrl.src#STR_IMGBTN_INDEX_ENTRY_UP.string.text
 msgid "Previous index entry"
@@ -105105,7 +105105,7 @@ msgstr "Nascleanúint"
 
 #: shells.src#MSG_NO_RULER.infobox.text
 msgid "There are no bitmaps in the Gallery theme 'Rulers'."
-msgstr ""
+msgstr "Níl aon mhapaí giotáin i dtéama Gailearaí 'Rulers'."
 
 #: shells.src#STR_GRFILTER_OPENERROR.string.text
 msgid "Graphics file cannot be opened"
@@ -105157,6 +105157,9 @@ msgid ""
 "You can accept or reject all changes,\n"
 "or accept or reject particular changes."
 msgstr ""
+"UathFhormáidiú críochnaithe.\n"
+"Is féidir leat glacadh le, nó diúltú gach athrú,\n"
+"nó glacadh le nó diúltú athruithe ar leith."
 
 #: shells.src#STR_REDLINE_ACCEPT_ALL.string.text
 msgid "Accept All"
@@ -105190,15 +105193,15 @@ msgstr "Réad"
 
 #: shells.src#RID_BEZIER_TOOLBOX.string.text
 msgid "Bézier Object Bar"
-msgstr ""
+msgstr "Barra na Réad Bézier"
 
 #: shells.src#RID_DRAW_TEXT_TOOLBOX.string.text
 msgid "Text Object Bar/Graphics"
-msgstr ""
+msgstr "Barra na Réad Téacs/Grafaic"
 
 #: shells.src#RID_NUM_TOOLBOX.string.text
 msgid "Numbering Object Bar"
-msgstr ""
+msgstr "Barra na Réad Uimhrithe"
 
 #: shells.src#STR_SHELLNAME_TABLE.string.text
 msgid ""
@@ -105230,7 +105233,7 @@ msgstr "Bézier"
 
 #: shells.src#STR_SHELLNAME_DRAW_TEXT.string.text
 msgid "Draw text"
-msgstr ""
+msgstr "Línigh téacs"
 
 #: shells.src#STR_SWBG_GRAPHIC.string.text
 msgid ""
@@ -105432,7 +105435,7 @@ msgstr ""
 
 #: split.src#DLG_SPLIT.FT_COUNT.fixedtext.text
 msgid "~Split cell into"
-msgstr ""
+msgstr "~Roinn an chill i"
 
 #: split.src#DLG_SPLIT.RB_HORZ.imageradiobutton.text
 msgid "H~orizontally"
@@ -105723,7 +105726,7 @@ msgstr "Foinse HTML"
 
 #: attrdesc.src#STR_DROP_OVER.string.text
 msgid "Drop Caps over"
-msgstr ""
+msgstr "Ceannlitreacha Anuas os cionn"
 
 #: attrdesc.src#STR_NO_DROP_LINES.string.text
 msgid "No Drop Caps"
@@ -105911,7 +105914,7 @@ msgstr "ná háirigh línte"
 
 #: attrdesc.src#STR_LINCOUNT_START.string.text
 msgid "restart line count with: "
-msgstr ""
+msgstr "athshocraigh líon na línte le: "
 
 #: attrdesc.src#STR_LUMINANCE.string.text
 msgid "Brightness: "
@@ -106251,7 +106254,7 @@ msgstr "Bosca Liosta Ann/As"
 
 #: navipi.src#TB_CONTENT.FN_SHOW_ROOT.toolboxitem.text
 msgid "Content View"
-msgstr ""
+msgstr "Amharc Inneachair"
 
 #: navipi.src#TB_CONTENT.FN_SELECT_SET_AUTO_BOOKMARK.toolboxitem.text
 msgid "Set Reminder"
@@ -106796,7 +106799,7 @@ msgstr "Téacs"
 
 #: poolfmt.src#STR_POOLCOLL_TOX_IDXH.string.text
 msgid "Index Heading"
-msgstr ""
+msgstr "Ceannteideal Innéacs"
 
 #: poolfmt.src#STR_POOLCOLL_TOX_IDX1.string.text
 msgid "Index 1"
@@ -106812,7 +106815,7 @@ msgstr "Innéacs 3"
 
 #: poolfmt.src#STR_POOLCOLL_TOX_IDXBREAK.string.text
 msgid "Index Separator"
-msgstr ""
+msgstr "Deighilteoir Innéacs"
 
 #: poolfmt.src#STR_POOLCOLL_TOX_CNTNTH.string.text
 msgid "Contents Heading"
@@ -106860,7 +106863,7 @@ msgstr "Ábhar 10"
 
 #: poolfmt.src#STR_POOLCOLL_TOX_USERH.string.text
 msgid "User Index Heading"
-msgstr ""
+msgstr "Ceannteideal Innéacs Úsáideora"
 
 #: poolfmt.src#STR_POOLCOLL_TOX_USER1.string.text
 msgid "User Index 1"
@@ -106904,15 +106907,15 @@ msgstr "Innéacs Úsáideora 10"
 
 #: poolfmt.src#STR_POOLCOLL_TOX_ILLUSH.string.text
 msgid "Illustration Index Heading"
-msgstr ""
+msgstr "Ceannteideal Innéacs Léaráidí"
 
 #: poolfmt.src#STR_POOLCOLL_TOX_ILLUS1.string.text
 msgid "Illustration Index 1"
-msgstr ""
+msgstr "Innéacs Léaráidí 1"
 
 #: poolfmt.src#STR_POOLCOLL_TOX_OBJECTH.string.text
 msgid "Object index heading"
-msgstr ""
+msgstr "Ceannteideal innéacs na réad"
 
 #: poolfmt.src#STR_POOLCOLL_TOX_OBJECT1.string.text
 msgid "Object index 1"
@@ -106920,7 +106923,7 @@ msgstr "Innéacs réada 1"
 
 #: poolfmt.src#STR_POOLCOLL_TOX_TABLESH.string.text
 msgid "Table index heading"
-msgstr ""
+msgstr "Ceannteideal innéacs na dtáblaí"
 
 #: poolfmt.src#STR_POOLCOLL_TOX_TABLES1.string.text
 msgid "Table index 1"
@@ -107050,7 +107053,7 @@ msgstr "Liosta 5"
 
 #: poolfmt.src#STR_POOLCHR_RUBYTEXT.string.text
 msgid "Rubies"
-msgstr ""
+msgstr "Téacsanna Ruby"
 
 #: poolfmt.src#STR_POOLCHR_VERT_NUM.string.text
 msgid "Vertical Numbering Symbols"
@@ -107086,7 +107089,7 @@ msgstr "Bain na hailt fholmha"
 
 #: utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_CPTL_STT_SENT_1.string.text
 msgid "Capitalize first letter of sentences"
-msgstr ""
+msgstr "Scríobh an chéad litir d'abairtí le ceannlitir"
 
 #: utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_BULLET_1.string.text
 msgid "Bullets replaced"
@@ -107106,7 +107109,7 @@ msgstr "Aithint URL"
 
 #: utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_RIGHT_MARGIN_1.string.text
 msgid "Combine single line paragraphs"
-msgstr ""
+msgstr "Comhshnaidhm ailt nach bhfuil ach líne amháin iontu"
 
 #: utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_SET_TMPL_TEXT__1.string.text
 msgid "Set \"Text body\" Style"
@@ -107306,15 +107309,15 @@ msgstr "Príomhbharra Uirlisí/Gréasán"
 
 #: web.src#RID_WEBTEXT_TOOLBOX.string.text
 msgid "Text Object Bar/Web"
-msgstr ""
+msgstr "Barra na Réad Téacs/Gréasán"
 
 #: web.src#RID_WEBFRAME_TOOLBOX.string.text
 msgid "Frame Object Bar/Web"
-msgstr ""
+msgstr "Barra na réad fráma/Gréasán"
 
 #: web.src#RID_WEBGRAPHIC_TOOLBOX.string.text
 msgid "Graphics Object Bar/Web"
-msgstr ""
+msgstr "Barra na Réad Grafach/Gréasán"
 
 #: web.src#RID_WEBOLE_TOOLBOX.string.text
 msgid "Object/Web"
@@ -107366,7 +107369,7 @@ msgstr "Teimpléad Scarbhileoige %PRODUCTNAME"
 
 #: launcher_name.ulf#printeradmin.LngText.text
 msgid "%PRODUCTNAME Printer Administration"
-msgstr ""
+msgstr "Bainistiú na bPrintéirí %PRODUCTNAME"
 
 #: cookiedg.src#DLG_COOKIES.RB_INFUTURE_SEND.radiobutton.text
 msgid ""
@@ -107384,7 +107387,7 @@ msgstr "Idirgh~níomhach"
 
 #: cookiedg.src#DLG_COOKIES.GB_INFUTURE.groupbox.text
 msgid "Future Cookie Handling"
-msgstr ""
+msgstr "Láimhsiú Fianán sa todhchaí"
 
 #: cookiedg.src#DLG_COOKIES.BTN_COOKIES_OK.pushbutton.text
 msgid ""
@@ -107703,11 +107706,11 @@ msgstr "Tá sonraí neamhbhailí san fhoirm. Ar mhaith leat dul ar aghaidh?"
 
 #: logindlg.src#DLG_UUI_LOGIN.INFO_LOGIN_REQUEST.fixedtext.text
 msgid "Enter the user name and password for %1 here."
-msgstr ""
+msgstr "Iontráil ainm úsáideora agus focal faire do %1 anseo."
 
 #: logindlg.src#DLG_UUI_LOGIN.STR_LOGIN_REALM.string.text
 msgid "Please enter user name and password for \"%2\" on %1 here."
-msgstr ""
+msgstr "Iontráil ainm úsáideora agus focal faire do \"%2\" ar %1 anseo."
 
 #: masterpasscrtdlg.src#DLG_UUI_MASTERPASSWORD_CRT.FT_MASTERPASSWORD_CRT.fixedtext.text
 msgid ""
@@ -107849,7 +107852,7 @@ msgstr "Leideanna Breisithe"
 
 #: helptext.src#SV_SHORTCUT_DOCKUNDOCK.string.text
 msgid "Dock/Undock Windows"
-msgstr ""
+msgstr "Cuir fuinneoga i nduga/Tóg iad as"
 
 #: helptext.src#SV_SHORTCUT_NEXTSUBWINDOW.string.text
 msgid "To Next Toolbar/Window"
@@ -107869,11 +107872,11 @@ msgstr "Go dtí an Barra Roghchláir"
 
 #: helptext.src#SV_SHORTCUT_SPLITTER.string.text
 msgid "Split window separator"
-msgstr ""
+msgstr "Deighilteoir i bhfuinneog roinnte"
 
 #: menu.src#SV_RESID_STRING_NOSELECTIONPOSSIBLE.string.text
 msgid "<No selection possible>"
-msgstr ""
+msgstr "<Ní féidir roghnúchán a dhéanamh>"
 
 #: menu.src#SV_RESID_MENU_EDIT.SV_MENU_EDIT_INSERTSYMBOL.menuitem.text
 msgid "~Special Character..."
@@ -107884,6 +107887,8 @@ msgid ""
 "The component (%s) could not be loaded.\n"
 "Please start setup with the repair option."
 msgstr ""
+"Níorbh fhéidir an chomhpháirt (%s) a luchtú.\n"
+"Tosaigh an clár socraithe leis an rogha 'Deisigh'."
 
 #: stdtext.src#SV_STDTEXT_DONTHINTAGAIN.string.text
 msgid "Do not show this information again."
@@ -107906,6 +107911,8 @@ msgid ""
 "%PRODUCTNAME %PRODUCTVERSION requires a Java Access Bridge 1.0.3 or later "
 "version to support accessibility."
 msgstr ""
+"Teastaíonn %PRODUCTNAME %PRODUCTVERSION Java Access Bridge 1.0.3 nó níos "
+"fearr chun inrochtaineacht a thacú."
 
 #: stdtext.src#SV_ACCESSERROR_OK_CANCEL_MSG.string.text
 msgid ""
@@ -108049,11 +108056,11 @@ msgstr "S~tíleanna Ceall"
 
 #: euro.src#STEP_CONVERTER___3.string.text
 msgid "Currency cells in the current ~sheet"
-msgstr ""
+msgstr "Cealla airgeadra sa ~bhileog reatha"
 
 #: euro.src#STEP_CONVERTER___4.string.text
 msgid "Currency cells in the entire ~document"
-msgstr ""
+msgstr "Cealla airgea~dra sa cháipéis iomlán"
 
 #: euro.src#STEP_CONVERTER___5.string.text
 msgid "~Selected range"
@@ -108065,11 +108072,11 @@ msgstr "Roghnaigh Stíleanna Cille"
 
 #: euro.src#STEP_CONVERTER___7.string.text
 msgid "Select currency cells"
-msgstr ""
+msgstr "Roghnaigh cealla airgeadra"
 
 #: euro.src#STEP_CONVERTER___8.string.text
 msgid "Currency ranges:"
-msgstr ""
+msgstr "Raonta airgeadra:"
 
 #: euro.src#STEP_CONVERTER___9.string.text
 msgid "Templates:"
@@ -108117,7 +108124,7 @@ msgstr "Stádas tiontaithe: "
 
 #: euro.src#STATUSLINE___1.string.text
 msgid "Conversion status of the cell templates:"
-msgstr ""
+msgstr "Stádas tiontaithe de na teimpléid chille:"
 
 #: euro.src#STATUSLINE___2.string.text
 msgid ""
@@ -108154,7 +108161,7 @@ msgstr "nach ann"
 
 #: euro.src#MESSAGES___6.string.text
 msgid "Should protected spreadsheets be temporarily unprotected?"
-msgstr ""
+msgstr "Ar mhaith leat bileoga cosanta a dhíchosaint go sealadach?"
 
 #: euro.src#MESSAGES___7.string.text
 msgid "Enter the password to unprotect the table %1TableName%1"
@@ -108212,7 +108219,7 @@ msgstr ""
 
 #: euro.src#MESSAGES___23.string.text importwi.src#sConvertError1.string.text
 msgid "Do you really want to terminate conversion at this point?"
-msgstr ""
+msgstr "An bhfuil tú cinnte gur mian leat an tiontú a stopadh anois?"
 
 #: euro.src#MESSAGES___24.string.text importwi.src#sConvertError2.string.text
 msgid "Cancel Wizard"
@@ -108268,7 +108275,7 @@ msgstr "Drachma na Gréige"
 
 #: euro.src#CURRENCIES___12.string.text
 msgid "The currency set for the document is not a European currency!"
-msgstr ""
+msgstr "Ní airgeadra Eorpach é an t-airgeadra socraithe sa cháipéis!"
 
 #: euro.src#CURRENCIES___13.string.text
 msgid ""
@@ -111058,6 +111065,8 @@ msgid ""
 "This wizard converts documents in %PRODUCTNAME format and Microsoft Office "
 "documents to the new OpenDocument format."
 msgstr ""
+"Tiontaíonn an draoi seo cáipéis i bhformáid %PRODUCTNAME agus cáipéisí "
+"Microsoft Office go dtí an fhormáid nua OpenDocument."
 
 #: importwi.src#sWelcometextLabel2.string.text
 msgid ""
@@ -111139,7 +111148,7 @@ msgstr ""
 
 #: importwi.src#sreeditMacro.string.text
 msgid "Document macro has to be revised."
-msgstr ""
+msgstr "Tá gá le macra sa cháipéis a leasú."
 
 #: importwi.src#scouldNotsaveDocument.string.text
 msgid "Document '<1>' could not be saved."
@@ -111360,7 +111369,7 @@ msgstr "~Foramharc na Bliana"
 
 #: schedule.src#dlgSchdlDescription.string.text
 msgid "Add holidays for"
-msgstr ""
+msgstr "Cuir laethanta saoire le haghaidh"
 
 #: schedule.src#dlgSchdlCountry.string.text
 msgid "USA"
@@ -111505,6 +111514,8 @@ msgid ""
 "In order to use the full functionality of this sample, create a document that "
 "is based on this template."
 msgstr ""
+"Chun feidhmiúlacht iomlán an tsampla seo a úsáid, cruthaigh cáipéis atá "
+"bunaithe ar an teimpléad seo."
 
 #: template.src#SAMPLES___1.string.text
 msgid "Remarks"
@@ -111519,6 +111530,8 @@ msgid ""
 "Error while saving the document to the clipboard! The following action cannot "
 "be undone."
 msgstr ""
+"Earráid agus an cháipéis á sábháil go dtí an ghearrthaisce! Ní féidir an "
+"gníomh seo a leanas a chealú."
 
 #: template.src#STYLES___3.string.text
 msgid "~OK"
@@ -111526,7 +111539,7 @@ msgstr "~OK"
 
 #: template.src#AgendaDlgName.string.text
 msgid "Minutes Template"
-msgstr ""
+msgstr "Teimpléad Miontuairiscí"
 
 #: template.src#AgendaDlgNoCancel.string.text
 msgid "An option must be confirmed."
@@ -111638,11 +111651,11 @@ msgstr "Leagan amach réamhshocraithe"
 
 #: template.src#Newsletter___2.string.text
 msgid "Commemorative publication layout"
-msgstr ""
+msgstr "Leagan amach foilseacháin comórtha"
 
 #: template.src#Newsletter___3.string.text
 msgid "Brochure layout"
-msgstr ""
+msgstr "Leagan amach bróisiúir"
 
 #: template.src#Newsletter___11.string.text
 msgid "Single-sided"
@@ -111660,7 +111673,7 @@ msgstr ""
 
 #: certificatechooser.src#RID_XMLSECDLG_CERTCHOOSER.FT_HINT_SELECT.fixedtext.text
 msgid "Select the certificate you want to use for signing"
-msgstr ""
+msgstr "Roghnaigh an teastas le do chuid teachtaireachtaí a shíniú"
 
 #: certificatechooser.src#RID_XMLSECDLG_CERTCHOOSER.STR_HEADERBAR.string.text
 msgid ""
@@ -111873,7 +111886,7 @@ msgstr "Leibhéal Slándála"
 
 #: macrosecurity.src#RID_XMLSECTP_MACROSEC.1.RID_XMLSECTP_TRUSTSOURCES.pageitem.text
 msgid "Trusted Sources"
-msgstr ""
+msgstr "Foinsí Iontaofa"
 
 #: macrosecurity.src#RID_XMLSECTP_MACROSEC.BTN_RESET.pushbutton.text
 msgid "Reset"
@@ -111912,7 +111925,7 @@ msgstr ""
 
 #: macrosecurity.src#RID_XMLSECTP_TRUSTSOURCES.FL_TRUSTCERT.fixedline.text
 msgid "Trusted certificates"
-msgstr ""
+msgstr "Teastais iontaofa"
 
 #: macrosecurity.src#RID_XMLSECTP_TRUSTSOURCES.STR_HEADERBAR.string.text
 msgid ""
@@ -111940,7 +111953,7 @@ msgstr "Bain"
 
 #: macrosecurity.src#RID_XMLSECTP_TRUSTSOURCES.FL_TRUSTFILELOC.fixedline.text
 msgid "Trusted file locations"
-msgstr ""
+msgstr "Suímh iontaofa comhad"
 
 #: macrosecurity.src#RID_XMLSECTP_TRUSTSOURCES.FI_TRUSTFILELOC.fixedtext.text
 msgid ""
