@@ -36931,7 +36931,7 @@ msgid ""
 "   %s\n"
 "could not be copied. The font will not be installed."
 msgstr ""
-"Níorbh fhéidir an comhad tomhais don chomhad clófhoirne\n"
+"Níorbh fhéidir an comhad méadrach don chomhad clófhoirne\n"
 "  %s\n"
 "a chóipeáil. Ní shuiteálfar an chlófhoireann."
 
@@ -37107,23 +37107,23 @@ msgstr "Ní raibh aon earráid"
 
 #: padialog.src#RID_AFMERROR_NO_FONT_NAME.string.text
 msgid "The metric does not contain a 'FontName' entry."
-msgstr "Níl iontráil 'FontName' sa tomhas."
+msgstr "Níl iontráil 'FontName' sa mhéadrach."
 
 #: padialog.src#RID_AFMERROR_NO_FULL_NAME.string.text
 msgid "The metric does not contain a 'FullName' entry."
-msgstr "Níl iontráil 'FullName' sa tomhas."
+msgstr "Níl iontráil 'FullName' sa mhéadrach."
 
 #: padialog.src#RID_AFMERROR_NO_FAMILY_NAME.string.text
 msgid "The metric does not contain a 'FamilyName' entry."
-msgstr "Níl iontráil 'FamilyName' sa tomhas."
+msgstr "Níl iontráil 'FamilyName' sa mhéadrach."
 
 #: padialog.src#RID_AFMERROR_MOVETO_FAILED.string.text
 msgid "The converted metric could not be written."
-msgstr "Níorbh an tomhas tiontaithe a scríobh."
+msgstr "Níorbh fhéidir an méadrach tiontaithe a scríobh."
 
 #: padialog.src#RID_AFMERROR_STREAM_READ_FAILED.string.text
 msgid "The metric could not be read."
-msgstr "Níorbh fhéidir an tomhas a léamh."
+msgstr "Níorbh fhéidir an méadrach a léamh."
 
 #: padialog.src#RID_AFMERROR_STREAM_WRITE_FAILED.string.text
 msgid "A temporary file could not be created."
@@ -37131,7 +37131,7 @@ msgstr "Níorbh fhéidir comhad sealadach a chruthú."
 
 #: padialog.src#RID_AFMERROR_NOT_A_METRIC.string.text
 msgid "The file does not contain a metric."
-msgstr "Níl tomhas sa chomhad."
+msgstr "Níl méadrach sa chomhad."
 
 #: padialog.src#RID_AFMERROR_BOX_TXT.string.text
 msgid ""
@@ -37142,7 +37142,7 @@ msgid ""
 "could not be converted for the following reason:\n"
 "\n"
 msgstr ""
-"Níorbh fhéidir an tomhas\n"
+"Níorbh fhéidir an méadrach\n"
 "\n"
 "%s\n"
 "\n"
@@ -37161,7 +37161,7 @@ msgstr "Fan go fóill, le do thoil"
 
 #: padialog.src#RID_OPERATION_CONVERTMETRIC.string.text
 msgid "Font metrics conversion"
-msgstr "Tiontú tomhais chlófhoirne"
+msgstr "Tiontú méadraigh chlófhoirne"
 
 #: padialog.src#RID_PPDIMPORT_DLG.RID_PPDIMP_GROUP_PATH.fixedline.text
 msgid "Dri~ver directory"
@@ -51048,11 +51048,11 @@ msgstr "Ní féidir imlínte a chur i bhfeidhm ar ilroghnú"
 
 #: globstr.src#RID_GLOBSTR.STR_MSSG_INSERTCELLS_0.string.text
 msgid "Inserting into merged ranges not possible"
-msgstr "Ní féidir ionsá isteach i raonta cumasctha"
+msgstr "Ní féidir ionsá isteach i raonta cumaiscthe"
 
 #: globstr.src#RID_GLOBSTR.STR_MSSG_DELETECELLS_0.string.text
 msgid "Deleting in merged ranges not possible"
-msgstr "Ní féidir scriosadh i raonta cumasctha"
+msgstr "Ní féidir scriosadh i raonta cumaiscthe"
 
 #: globstr.src#RID_GLOBSTR.STR_MSSG_MERGECELLS_0.string.text
 msgid "Cell merge not possible if cells already merged"
@@ -90484,6 +90484,24 @@ msgid ""
 "\n"
 "This product is based on the OpenOffice.org project."
 msgstr ""
+"Copyright © 2005 Sun Microsystems, Inc. All rights reserved. Sun "
+"Microsystems, Inc. has intellectual property rights relating to technology "
+"embodied in the product that is described in this document. In particular, "
+"and without limitation, these intellectual property rights may include one or "
+"more of the U.S. patents listed at http://www.sun.com/patents and one or more "
+"additional patents or pending patent applications in the U.S. and in other "
+"countries. U.S. Government Rights - Commercial software. Government users are "
+"subject to the Sun Microsystems, Inc. standard license agreement and "
+"applicable provisions of the FAR and its supplements. Use is subject to "
+"license terms. This distribution may include materials developed by third "
+"parties. Sun, Sun Microsystems, the Sun logo, Java, Solaris and StarOffice "
+"are trademarks or registered trademarks of Sun Microsystems, Inc. in the U.S. "
+"and other countries. All SPARC trademarks are used under license and are "
+"trademarks or registered trademarks of SPARC International, Inc. in the U.S. "
+"and other countries. UNIX is a registered trademark in the U.S. and other "
+"countries, exclusively licensed through X/Open Company, Ltd.\n"
+"\n"
+"This product is based on the OpenOffice.org project."
 
 #: ooo.src#RID_DEFAULTABOUT.ABOUT_FTXT_COPYRIGHT.fixedtext.text
 msgid ""
@@ -99442,7 +99460,7 @@ msgstr "Postchumasc"
 
 #: mailmergechildwindow.src#WORKAROUND.#define.text
 msgid "Return to Mail Merge Wizard"
-msgstr ""
+msgstr "Fill ar an nDraoi Postchumaisc"
 
 #: mailmergechildwindow.src#DLG_MAILMERGECHILD.floatingwindow.text
 msgid ""
@@ -99452,7 +99470,7 @@ msgstr "Draoi Postchumaisc"
 
 #: mailmergechildwindow.src#FL_STATUS.fixedline.text
 msgid "Connection status"
-msgstr ""
+msgstr "Stádas naisc"
 
 #: mailmergechildwindow.src#FT_STATUS1.fixedtext.text
 msgid "The connection to the outgoing mail server has been established"
@@ -99464,11 +99482,11 @@ msgstr "Ríomhphost á sheoladh..."
 
 #: mailmergechildwindow.src#FL_TRANSFERSTATUS.fixedline.text
 msgid "Transfer status"
-msgstr ""
+msgstr "Stádas aistrithe"
 
 #: mailmergechildwindow.src#FT_TRANSFERSTATUS.fixedtext.text
 msgid "%1 of %2 e-mails sent"
-msgstr ""
+msgstr "Seoladh %1 as %2 teachtaireacht ríomhphoist"
 
 #: mailmergechildwindow.src#FI_PAUSED.fixedtext.text
 msgid "Sending paused"
@@ -99476,7 +99494,7 @@ msgstr ""
 
 #: mailmergechildwindow.src#FT_ERRORSTATUS.fixedtext.text
 msgid "E-mails not sent: %1"
-msgstr ""
+msgstr "Níor seoladh teachtaireachtaí ríomhphoist: %1"
 
 #: mailmergechildwindow.src#PB_DETAILS.pushbutton.text
 msgid "More >>"
@@ -99501,25 +99519,27 @@ msgstr "Ríomhtheachtaireachtaí á seoladh"
 
 #: mailmergechildwindow.src#ST_SENDINGTO.string.text
 msgid "Sending to: %1"
-msgstr ""
+msgstr "Ag seoladh chuig: %1"
 
 #: mailmergechildwindow.src#ST_COMPLETED.string.text
 msgid "Successfully sent"
-msgstr ""
+msgstr "D'éirigh le seoladh"
 
 #: mailmergechildwindow.src#ST_FAILED.string.text
 msgid "Sending failed (invalid address)"
-msgstr ""
+msgstr "Theip ar sheoladh (seoladh neamhbhailí)"
 
 #: mailmergechildwindow.src#ST_TERMINATEQUERY.string.text
 msgid ""
 "There are still e-mail messages in your %PRODUCTNAME Outbox.\n"
 "Would you like to exit anyway?"
 msgstr ""
+"Tá teachtaireachtaí ríomhphoist i do bhosca amach %PRODUCTNAME fós.\n"
+"Ar mhaith leat scor mar sin féin?"
 
 #: mailmergechildwindow.src#DLG_MM_SENDWARNING.FI_WARNING.fixedtext.text
 msgid "The following error occured:"
-msgstr ""
+msgstr "Tharla an earráid seo a leanas:"
 
 #: mailmergechildwindow.src#DLG_MM_SENDWARNING.FT_DETAILS.fixedtext.text
 msgid "Detailed information"
@@ -99685,15 +99705,15 @@ msgstr "~Scrios"
 
 #: mmaddressblockpage.src#DLG_MM_SELECTADDRESSBLOCK.FI_SETTINGS.fixedtext.text
 msgid "Address block settings"
-msgstr ""
+msgstr "Socruithe an bhloic seolaidh"
 
 #: mmaddressblockpage.src#DLG_MM_SELECTADDRESSBLOCK.RB_NEVER.radiobutton.text
 msgid "N~ever include the country/region"
-msgstr ""
+msgstr "~Ná cuir an tír/réigiún san áireamh riamh"
 
 #: mmaddressblockpage.src#DLG_MM_SELECTADDRESSBLOCK.RB_ALWAYS.radiobutton.text
 msgid "~Always include the country/region"
-msgstr ""
+msgstr "~Cuir an tír/réigiún san áireamh i gcónaí"
 
 #: mmaddressblockpage.src#DLG_MM_SELECTADDRESSBLOCK.RB_DEPENDENT.radiobutton.text
 msgid "Only ~include the country/region if it is not:"
@@ -99701,23 +99721,23 @@ msgstr ""
 
 #: mmaddressblockpage.src#DLG_MM_SELECTADDRESSBLOCK.modaldialog.text
 msgid "Select Address Block"
-msgstr ""
+msgstr "Roghnaigh Bloc Seolaidh"
 
 #: mmaddressblockpage.src#WORKAROUND.#define.text
 msgid "New Address Block"
-msgstr ""
+msgstr "Bloc Nua Seolaidh"
 
 #: mmaddressblockpage.src#DLG_MM_CUSTOMIZEADDRESSBLOCK.ST_TITLE_EDIT.string.text
 msgid "Edit Address Block"
-msgstr ""
+msgstr "Cuir an Bloc Seolaidh in Eagar"
 
 #: mmaddressblockpage.src#DLG_MM_CUSTOMIZEADDRESSBLOCK.ST_TITLE_MALE.string.text
 msgid "Custom Salutation (Male Recipients)"
-msgstr ""
+msgstr "Beannacht Shaincheaptha (Faighteoir Fireannach)"
 
 #: mmaddressblockpage.src#DLG_MM_CUSTOMIZEADDRESSBLOCK.ST_TITLE_FEMALE.string.text
 msgid "Custom Salutation (Female Recipients)"
-msgstr ""
+msgstr "Beannacht Shaincheaptha (Faighteoir Baineannach)"
 
 #: mmaddressblockpage.src#DLG_MM_CUSTOMIZEADDRESSBLOCK.FT_ADDRESSELEMENTS.fixedtext.text
 msgid "Address ~elements"
@@ -99725,7 +99745,7 @@ msgstr ""
 
 #: mmaddressblockpage.src#DLG_MM_CUSTOMIZEADDRESSBLOCK.ST_SALUTATIONELEMENTS.string.text
 msgid "Salutation e~lements"
-msgstr ""
+msgstr "Ei~limintí beannachta"
 
 #: mmaddressblockpage.src#DLG_MM_CUSTOMIZEADDRESSBLOCK.IB_INSERTFIELD.imagebutton.text
 msgid ""
@@ -99740,7 +99760,7 @@ msgstr "Cuir leis an seoladh"
 
 #: mmaddressblockpage.src#DLG_MM_CUSTOMIZEADDRESSBLOCK.ST_INSERTSALUTATIONFIELD.string.text
 msgid "Add to salutation"
-msgstr ""
+msgstr "Cuir leis an bheannacht"
 
 #: mmaddressblockpage.src#DLG_MM_CUSTOMIZEADDRESSBLOCK.IB_REMOVEFIELD.imagebutton.text
 msgid ""
@@ -99751,19 +99771,19 @@ msgstr "-"
 
 #: mmaddressblockpage.src#DLG_MM_CUSTOMIZEADDRESSBLOCK.IB_REMOVEFIELD.imagebutton.quickhelptext
 msgid "Remove from address"
-msgstr ""
+msgstr "Bain ón seoladh"
 
 #: mmaddressblockpage.src#DLG_MM_CUSTOMIZEADDRESSBLOCK.ST_REMOVESALUTATIONFIELD.string.text
 msgid "Remove from salutation"
-msgstr ""
+msgstr "Bain ón bheannacht"
 
 #: mmaddressblockpage.src#DLG_MM_CUSTOMIZEADDRESSBLOCK.FT_DRAG.fixedtext.text
 msgid "1. Drag address elements here"
-msgstr ""
+msgstr "1. Tarraing eilimintí seolaidh anseo"
 
 #: mmaddressblockpage.src#DLG_MM_CUSTOMIZEADDRESSBLOCK.ST_DRAGSALUTATION.string.text
 msgid "1. ~Drag salutation elements into the box below"
-msgstr ""
+msgstr "1. ~Tarraigh eilimintí beannachta isteach sa bhosca thíos"
 
 #: mmaddressblockpage.src#DLG_MM_CUSTOMIZEADDRESSBLOCK.IB_UP.imagebutton.text
 msgid ""
@@ -99817,7 +99837,7 @@ msgstr "Bog síos"
 
 #: mmaddressblockpage.src#DLG_MM_CUSTOMIZEADDRESSBLOCK.FT_FIELD.fixedtext.text
 msgid "2. Customi~ze salutation"
-msgstr ""
+msgstr "2. Saincheap an ~bheannacht"
 
 #: mmaddressblockpage.src#DLG_MM_CUSTOMIZEADDRESSBLOCK.FI_PREVIEW.fixedtext.text
 msgid ""
@@ -99829,7 +99849,7 @@ msgstr "Réamhamharc"
 #: mmaddressblockpage.src#DLG_MM_CUSTOMIZEADDRESSBLOCK.ST_SALUTATION.string.text
 #: template.src#CorrespondenceFields_13.string.text
 msgid "Salutation"
-msgstr "Fáilte"
+msgstr "Beannacht"
 
 #: mmaddressblockpage.src#DLG_MM_CUSTOMIZEADDRESSBLOCK.ST_PUNCTUATION.string.text
 msgid "Punctuation Mark"
@@ -99850,15 +99870,15 @@ msgstr ""
 
 #: mmaddressblockpage.src#DLG_MM_ASSIGNFIELDS.ST_SALUTATIONPREVIEW.string.text
 msgid "Salutation preview"
-msgstr ""
+msgstr "Réamhamharc ar an bheannacht"
 
 #: mmaddressblockpage.src#DLG_MM_ASSIGNFIELDS.ST_ADDRESSELEMENT.string.text
 msgid "Address elements"
-msgstr ""
+msgstr "Eilimintí seolaidh"
 
 #: mmaddressblockpage.src#DLG_MM_ASSIGNFIELDS.ST_SALUTATIONELEMENT.string.text
 msgid "Salutation elements"
-msgstr ""
+msgstr "Eilimintí beannachta"
 
 #: mmaddressblockpage.src#DLG_MM_ASSIGNFIELDS.ST_MATCHESTO.string.text
 msgid "Matches to field:"
@@ -99921,7 +99941,7 @@ msgstr ""
 
 #: mmgreetingspage.src#GREETINGS_BODY.CB_PERSONALIZED.checkbox.text
 msgid "Insert personalized salutation"
-msgstr ""
+msgstr "Cuir beannacht phearsanta isteach"
 
 #: mmgreetingspage.src#GREETINGS_BODY.FT_FEMALE.fixedtext.text
 msgid "~Female"
@@ -99956,15 +99976,15 @@ msgstr "Luach réimse"
 
 #: mmgreetingspage.src#FT_NEUTRAL.fixedtext.text
 msgid "General salutation"
-msgstr ""
+msgstr "Beannacht ghinearálta"
 
 #: mmgreetingspage.src#DLG_MM_GREETINGS_PAGE.FI_HEADER.fixedtext.text
 msgid "Create a salutation"
-msgstr ""
+msgstr "Cruthaigh beannacht"
 
 #: mmgreetingspage.src#DLG_MM_GREETINGS_PAGE.CB_GREETINGLINE.checkbox.text
 msgid "This document should contain a salutation"
-msgstr ""
+msgstr "Ba chóir beannacht a bheith sa cháipéis seo"
 
 #: mmgreetingspage.src#DLG_MM_GREETINGS_PAGE.FI_PREVIEW.fixedtext.text
 msgid ""
@@ -99974,7 +99994,7 @@ msgstr "Réamhamharc"
 
 #: mmgreetingspage.src#DLG_MM_GREETINGS_PAGE.PB_ASSIGN.pushbutton.text
 msgid "~Match fields..."
-msgstr ""
+msgstr "~Meaitseáil réimsí..."
 
 #: mmgreetingspage.src#DLG_MM_GREETINGS_PAGE.IB_PREVSET.imagebutton.text
 msgid ""
@@ -99984,7 +100004,7 @@ msgstr "-"
 
 #: mmgreetingspage.src#DLG_MM_GREETINGS_PAGE.IB_PREVSET.imagebutton.quickhelptext
 msgid "Preview Previous Salutation"
-msgstr ""
+msgstr "Réamhamharc ar an Bheannacht Roimhe Seo"
 
 #: mmgreetingspage.src#DLG_MM_GREETINGS_PAGE.IB_NEXTSET.imagebutton.text
 msgid ""
@@ -99994,7 +100014,7 @@ msgstr "-"
 
 #: mmgreetingspage.src#DLG_MM_GREETINGS_PAGE.IB_NEXTSET.imagebutton.quickhelptext
 msgid "Preview Next Salutation"
-msgstr ""
+msgstr "Réamhamharc ar an Chéad Bheannacht Eile"
 
 #: mmgreetingspage.src#DLG_MM_GREETINGS_PAGE.STR_DOCUMENT.string.text
 msgid ""
@@ -100004,11 +100024,11 @@ msgstr "Cáipéis: %1"
 
 #: mmgreetingspage.src#DLG_MM_MAILBODY.CB_GREETINGLINE.checkbox.text
 msgid "This e-mail should contain a salutation"
-msgstr ""
+msgstr "Ba chóir beannacht a bheith sa teachtaireacht ríomhphoist seo"
 
 #: mmgreetingspage.src#DLG_MM_MAILBODY.FT_BODY.fixedtext.text
 msgid "Write your message here"
-msgstr ""
+msgstr "Scríobh do theachtaireacht anseo"
 
 #: mmgreetingspage.src#DLG_MM_MAILBODY.modaldialog.text
 msgid "E-Mail Message"
@@ -100016,11 +100036,11 @@ msgstr "Ríomhtheachtaireacht"
 
 #: mmlayoutpage.src#DLG_MM_LAYOUT_PAGE.FI_HEADER.fixedtext.text
 msgid "Adjust layout of address block and salutation"
-msgstr ""
+msgstr "Coigeartaigh leagan amach an bhloic seolaidh agus na beannachta"
 
 #: mmlayoutpage.src#DLG_MM_LAYOUT_PAGE.FL_POSITION.fixedline.text
 msgid "Address block position"
-msgstr ""
+msgstr "Ionad an bhloic seolaidh"
 
 #: mmlayoutpage.src#DLG_MM_LAYOUT_PAGE.CB_ALIGN.checkbox.text
 msgid "Align to text body"
@@ -100036,7 +100056,7 @@ msgstr "Ón m~barr"
 
 #: mmlayoutpage.src#DLG_MM_LAYOUT_PAGE.FL_GREETINGLINE.fixedline.text
 msgid "Salutation position"
-msgstr ""
+msgstr "Ionad na beannachta"
 
 #: mmlayoutpage.src#DLG_MM_LAYOUT_PAGE.FT_UP.fixedtext.text
 msgid ""
@@ -100069,7 +100089,7 @@ msgstr ""
 
 #: mmmergepage.src#DLG_MM_MERGE_PAGE.PB_EDIT.pushbutton.text
 msgid "~Edit individual document..."
-msgstr ""
+msgstr "Cuir cáipéis aonair in ~eagar..."
 
 #: mmmergepage.src#DLG_MM_MERGE_PAGE.FL_FIND.fixedline.text
 msgid ""
@@ -100093,39 +100113,39 @@ msgstr "~Siar"
 
 #: mmoutputpage.src#DLG_MM_OUTPUT_PAGE.FI_HEADER.fixedtext.text
 msgid "Save, print or send the document"
-msgstr ""
+msgstr "Sábháil, priontáil nó seol an cháipéis"
 
 #: mmoutputpage.src#DLG_MM_OUTPUT_PAGE.FI_OPTIONS.fixedtext.text
 msgid "Select one of the options below:"
-msgstr ""
+msgstr "Roghnaigh ceann de na roghanna thíos:"
 
 #: mmoutputpage.src#DLG_MM_OUTPUT_PAGE.RB_SAVESTARTDOC.radiobutton.text
 msgid "~Save starting document"
-msgstr ""
+msgstr "~Sábháil an cháipéis tosaithe"
 
 #: mmoutputpage.src#DLG_MM_OUTPUT_PAGE.RB_SAVEMERGEDDOC.radiobutton.text
 msgid "Save ~merged document"
-msgstr ""
+msgstr "Sábháil an cháipéis chu~masctha"
 
 #: mmoutputpage.src#DLG_MM_OUTPUT_PAGE.RB_PRINT.radiobutton.text
 msgid "~Print merged document"
-msgstr ""
+msgstr "~Priontáil an cháipéis chumaiscthe"
 
 #: mmoutputpage.src#DLG_MM_OUTPUT_PAGE.RB_SENDMAIL.radiobutton.text
 msgid "Send merged document as ~E-Mail"
-msgstr ""
+msgstr "Seol an cháipéis chumaiscthe mar ~Ríomhphost"
 
 #: mmoutputpage.src#DLG_MM_OUTPUT_PAGE.PB_SAVESTARTDOC.pushbutton.text
 msgid "Save starting ~document"
-msgstr ""
+msgstr "Sábháil an cháipéis ~tosaithe"
 
 #: mmoutputpage.src#DLG_MM_OUTPUT_PAGE.RB_SAVEASONE.radiobutton.text
 msgid "S~ave as single document"
-msgstr ""
+msgstr "Sá~bháil mar cháipéis aonair"
 
 #: mmoutputpage.src#DLG_MM_OUTPUT_PAGE.RB_SAVEINDIVIDUAL.radiobutton.text
 msgid "Sa~ve as individual documents"
-msgstr ""
+msgstr "Sábháil ~mar cháipéisí aonair"
 
 #: mmoutputpage.src#DLG_MM_OUTPUT_PAGE.PB_SAVENOW.pushbutton.text
 msgid "Save Do~cuments"
@@ -100149,7 +100169,7 @@ msgstr "G~o"
 
 #: mmoutputpage.src#DLG_MM_OUTPUT_PAGE.PB_COPYTO.pushbutton.text
 msgid "~Copy to..."
-msgstr ""
+msgstr "~Cóipeáil go..."
 
 #: mmoutputpage.src#DLG_MM_OUTPUT_PAGE.FT_SUBJECT.fixedtext.text
 msgid "S~ubject"
@@ -100167,7 +100187,7 @@ msgstr "Airí~onna..."
 
 #: mmoutputpage.src#FT_ATTACHMENT.fixedtext.text
 msgid "Name of the a~ttachment"
-msgstr ""
+msgstr "Ainm an ia~táin"
 
 #: mmoutputpage.src#RB_SENDALL.radiobutton.text
 msgid "S~end all documents"
@@ -100179,11 +100199,11 @@ msgstr "S~eol cáipéisí"
 
 #: mmoutputpage.src#ST_SAVESTART.string.text
 msgid "Save ~starting document"
-msgstr ""
+msgstr "Sábháil an ~cháipéis tosaithe"
 
 #: mmoutputpage.src#ST_SAVEMERGED.string.text
 msgid "Save merged document settings"
-msgstr ""
+msgstr "Sábháil socruithe na cáipéis chumaiscthe"
 
 #: mmoutputpage.src#ST_PRINT.string.text
 msgid "Print settings"
@@ -100198,6 +100218,8 @@ msgid ""
 "You did not specify a subject for this message. If you would like to provide "
 "one, please type it now."
 msgstr ""
+"Níor shonraigh tú ábhar na teachtaireachta seo. Más mian leat ceann a chur "
+"léi, iontráil anois é le do thoil."
 
 #: mmoutputpage.src#ST_NOSUBJECT.string.text
 msgid "No subject"
@@ -100208,6 +100230,8 @@ msgid ""
 "You did not specify a new name for the attachment. If you would like to "
 "provide one, please type it now."
 msgstr ""
+"Níor shonraigh tú ainm nua ar an iatán. Más mian leat ceann a chur léi, "
+"iontráil anois é le do thoil."
 
 #: mmoutputpage.src#ST_CONFIGUREMAIL.string.text
 msgid ""
@@ -100219,7 +100243,7 @@ msgstr ""
 
 #: mmoutputpage.src#DLG_MM_COPYTO.FI_DESCRIPTION.fixedtext.text
 msgid "Send a copy of this mail to:"
-msgstr ""
+msgstr "Seol cóip den teachtaireacht seo chuig:"
 
 #: mmoutputpage.src#DLG_MM_COPYTO.FT_CC.fixedtext.text
 msgid "~Cc"
@@ -100234,6 +100258,8 @@ msgid ""
 "Note:\n"
 "Separate e-mail addresses with a semicolon (;)."
 msgstr ""
+"Nóta:\n"
+"Scar seoltaí ríomhphoist le leathstad (;)."
 
 #: mmoutputpage.src#DLG_MM_COPYTO.modaldialog.text
 msgid "Copy To"
@@ -100244,6 +100270,8 @@ msgid ""
 "A document with the name '%1' already exists. Please save this document under "
 "a different name."
 msgstr ""
+"Tá cáipéis darb ainm '%1' ann cheana. Sábháil an cháipéis seo le hainm eile, "
+"le do thoil."
 
 #: mmoutputpage.src#DLG_MM_SAVEWARNING.FT_FILENAME.fixedtext.text
 msgid "New document name"
@@ -100251,11 +100279,11 @@ msgstr "Ainm na cáipéise nua"
 
 #: mmoutputtypepage.src#DLG_MM_OUTPUTTYPE_PAGE.FI_HEADER.fixedtext.text
 msgid "Select a document type"
-msgstr ""
+msgstr "Roghnaigh cineál cáipéise"
 
 #: mmoutputtypepage.src#DLG_MM_OUTPUTTYPE_PAGE.FT_TYPE.fixedtext.text
 msgid "What type of document do you want to create?"
-msgstr ""
+msgstr "Cén sórt cáipéis ba mhaith leat a chruthú?"
 
 #: mmoutputtypepage.src#DLG_MM_OUTPUTTYPE_PAGE.RB_LETTER.radiobutton.text
 msgid "~Letter"
@@ -100465,7 +100493,7 @@ msgstr "Athraíodh ainm an rannáin:"
 
 #: regionsw.src#STR_INFO_DUPLICATE.string.text
 msgid "Duplicate section name"
-msgstr ""
+msgstr "Ainm dúbailte rannáin"
 
 #: regionsw.src#QB_CONNECT.querybox.text
 msgid ""
@@ -109847,7 +109875,7 @@ msgstr "~Líne an ábhair"
 
 #: dbwizres.src#RID_FAXWIZARDDIALOG_START___7.string.text
 msgid "S~alutation"
-msgstr "~Fáilte"
+msgstr "~Beannacht"
 
 #: dbwizres.src#RID_FAXWIZARDDIALOG_START___8.string.text
 msgid ""
