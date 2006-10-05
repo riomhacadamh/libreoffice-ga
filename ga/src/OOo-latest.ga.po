@@ -8284,7 +8284,7 @@ msgstr "Airíonna an tábla"
 
 #: table.src#ERR_INVALID_LISTBOX_ENTRY.errorbox.text
 msgid "The text you entered is not a list element. "
-msgstr ""
+msgstr "Ní eilimint ón liosta é an téacs a d'iontráil tú."
 
 #: table.src#RID_TABLEDESIGNROWPOPUPMENU.SID_TABLEDESIGN_INSERTROWS.menuitem.text
 msgid "Insert Rows"
@@ -8343,13 +8343,16 @@ msgstr "Ionaid ~deachúlacha"
 
 #: table.src#STR_FORMAT.string.text
 msgid "Format example"
-msgstr ""
+msgstr "Sampla formáide"
 
 #: table.src#STR_HELP_BOOL_DEFAULT.string.text
 msgid ""
 "Select a value that is to appear in all new records as default.\n"
 "If the field is not to have a default value, select the empty string."
 msgstr ""
+"Roghnaigh luach atá le bheith réamhshocraithe i ngach taifead nua.\n"
+"Mura bhfuil luach réamhshocraithe i ndán don taifead, roghnaigh teaghrán "
+"folamh."
 
 #: table.src#STR_HELP_DEFAULT_VALUE.string.text
 msgid ""
@@ -8359,16 +8362,23 @@ msgid ""
 "record for the field selected. It should, therefore, correspond to the cell "
 "format that needs to be entered below."
 msgstr ""
+"Cuir isteach luach réamhshocraithe don réimse seo.\n"
+"\n"
+"Níos moille, nuair a chuirfidh tú sonraí sa tábla, bainfear úsáid as an "
+"teaghrán seo do gach taifead nua don réimse roghnaithe. Ba cheart, mar sin, "
+"go mbeadh sé comhfhreagartha do leagan amach an chill atá le líonadh thíos."
 
 #: table.src#STR_HELP_FIELD_REQUIRED.string.text
 msgid ""
 "Activate this option if this field cannot contain NULL values, i.e. the user "
 "must always enter data."
 msgstr ""
+"Gníomhachtaigh an rogha seo muna féidir luach NULL a chur sa réimse, .i. "
+"caithfidh an t-úsáideoir rud éigin a chur isteach i gcónaí."
 
 #: table.src#STR_HELP_TEXT_LENGTH.string.text
 msgid "Enter the maximum text length permitted."
-msgstr ""
+msgstr "Iontráil uasmhéid fad an téacs atá ceadaithe."
 
 #: table.src#STR_HELP_NUMERIC_TYPE.string.text
 msgid "Enter the number format."
@@ -8383,20 +8393,28 @@ msgid ""
 "The value will be corrected accordingly when it exceeds the maximum for this "
 "database."
 msgstr ""
+"Dearbhaigh fad na sonraí is féidir a bheidh sa réimse seo.\n"
+"\n"
+"Más réimsí deachúla atá i gceist, cuir isteach uasmhéid na huimhreach atá le "
+"hiontráil, agus más réimsí dénártha iad, fad an bhloic.\n"
+"Déanfar ceartú ar an luach dá réir seo nuair a sháraíonn sé uasmhéid an "
+"bhunachair sonraí seo."
 
 #: table.src#STR_HELP_SCALE.string.text
 msgid "Specify the number of decimal places permitted in this field."
-msgstr ""
+msgstr "Inis an méid ionad deachúlach atá ceadaithe sa réimse seo."
 
 #: table.src#STR_HELP_FORMAT_CODE.string.text
 msgid ""
 "This is where you see how the data would be displayed in the current format "
 "(use the button on the right to modify the format)."
 msgstr ""
+"Seo an áit a bhfeicfidh tú cén chaoi a dtaispeánfar na sonraí san fhormáid "
+"reatha (úsáid an cnaipe ar do dheis chun é seo a athrú)."
 
 #: table.src#STR_HELP_FORMAT_BUTTON.string.text
 msgid "This is where you determine the output format of the data."
-msgstr ""
+msgstr "Is anseo a ndéantar cinneadh ar fhormáid aschur na sonraí. "
 
 #: table.src#STR_HELP_AUTOINCREMENT.string.text
 msgid ""
@@ -8406,6 +8424,11 @@ msgid ""
 "assigned to each new record automatically (resulting from the increment of "
 "the previous record)."
 msgstr ""
+"Roghnaigh an ceart go mbeadh luachanna incrimintigh uathoibríoch sa réimse "
+"seo.\n"
+"\n"
+"Ní féidir sonraí a chur i réimsí don saghas seo. Cuirfear luach i ngach "
+"réimse nua go huathoibríoch (bunaithe ar incrimintigh an taifead roimhe)."
 
 #: table.src#PB_FORMAT.pushbutton.text
 #: commonpagesdbp.src#RID_PAGE_TABLESELECTION.PB_FORMDATASOURCE.pushbutton.text
@@ -8479,6 +8502,8 @@ msgid ""
 "The table filter could not be adjusted because the data source has been "
 "deleted."
 msgstr ""
+"Níorbh fhéidir an scagaire tábla a chur in oiriúint de bhrí go bhfuil an "
+"fhoinse sonraí scriosta."
 
 #: table.src#QUERY_SAVE_TABLE_EDIT_INDEXES.querybox.text
 msgid ""
@@ -8501,6 +8526,12 @@ msgid ""
 "\n"
 "Should a primary key be created now?"
 msgstr ""
+"Teastaíonn innéacs nó príomheochair uathúil le taifead sonraí a aithint sa "
+"mbunachar sonraí.\n"
+"Ní féidir sonraí a iontráil sa tábla seo ach amháin nuair atá ceann den dá "
+"choinníoll struchtúrtha seo comhlíonta.\n"
+"\n"
+"An ceart príomheochair a chruthú anois?"
 
 #: table.src#STR_TABLEDESIGN_TITLE.string.text
 msgid " - %PRODUCTNAME Base: Table Design"
@@ -8511,6 +8542,8 @@ msgid ""
 "The column \"$column$\" could not be changed. Should the column instead be "
 "deleted and the new format appended?"
 msgstr ""
+"Níorbh fhéidir \"$column$\" a athrú. An ceart an colún a scriosadh agus an "
+"fhormáid nua a iarcheangal?"
 
 #: table.src#STR_TABLEDESIGN_SAVE_ERROR.string.text
 msgid "Error while saving the table design"
@@ -8538,12 +8571,18 @@ msgid ""
 "This statement will be directly transferred to the database when the table "
 "is created."
 msgstr ""
+"Iontráil ráiteas SQL don réimse incrimintigh uathoibríoch.\n"
+"\n"
+"Aistreofar an ráiteas díreach go dtí an bunachar sonraí nuair a chruthófar "
+"an tábla."
 
 #: table.src#STR_NO_TYPE_INFO_AVAILABLE.string.text
 msgid ""
 "No type information could be retrieved from the database.\n"
 "The table design mode is not available for this data source."
 msgstr ""
+"Níorbh fhéidir aon eolas cineálacha a aisghabháil ón mbunachar sonraí.\n"
+"Níl mód dearaí an tábla ar fáil don fhoinse sonraí seo."
 
 #: table.src#STR_CHANGE_COLUMN_NAME.string.text
 msgid "change field name"
@@ -9638,7 +9677,7 @@ msgstr "Foinse Sonraí Seolaidh"
 
 #: abspilot.src#RID_PAGE_SELECTABTYPE.tabpage.text
 msgid "Welcome to the Address Data Source Wizard."
-msgstr ""
+msgstr "Fáilte go dtí draoi foinse sonraí na seolta."
 
 #: abspilot.src#RID_PAGE_SELECTABTYPE.FT_TYPE_HINTS.fixedtext.text
 msgid ""
@@ -9648,6 +9687,11 @@ msgid ""
 "\n"
 "This wizard helps you create the data source."
 msgstr ""
+"Ligeann %PRODUCTNAME duit teacht ar shonraí seolta atá suite i do chóras "
+"cheana féin. Leis seo a dhéanamh, cruthófar foinse sonraí %PRODUCTNAME ina "
+"mbeidh do chuid sonraí seolta ar fáil i bhfoirm táblach.\n"
+"\n"
+"Tabharfaidh an draoi seo cúnamh duit an fhoinse sonraí a chruthú. "
 
 #: abspilot.src#RID_PAGE_SELECTABTYPE.FL_TYPE.fixedline.text
 msgid "Please select the type of your external address book:"
@@ -9692,6 +9736,10 @@ msgid ""
 "Click the following button to open another dialog in which you then enter "
 "the necessary information."
 msgstr ""
+"Chun an fhoinse sonraí a chruthú, teastaíonn níos mó eolas.\n"
+"\n"
+"Cliceáil ar an gcnaipe atá le teacht chun dialóg nua a oscailt inar féidir "
+"leat an t-eolas a theastaíonn a iontráil."
 
 #: abspilot.src#RID_PAGE_ADMININVOKATION.FT_ERROR.fixedtext.text
 msgid ""
@@ -9699,6 +9747,9 @@ msgid ""
 "Before you proceed, please check the settings made, or (on the previous "
 "page) choose another address data source type."
 msgstr ""
+"Níorbh fhéidir ceangal leis an fhoinse sonraí.\n"
+"Sula dtosóidh tú, seiceáil na socruithe a déanú le do thoil, nó (ar an "
+"leathanach roimhe seo) roghnaigh saghas eile foinse sonraí na seolta."
 
 #: abspilot.src#RID_PAGE_TABLESELECTION.tabpage.text
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_SelectTable.Label.value.text
@@ -9713,6 +9764,9 @@ msgid ""
 "book.\n"
 "Please select the one you mainly want to work with:"
 msgstr ""
+"Tá níos mó ná leabhar seoltaí amháin san fhoinse sonraí seachtracha a "
+"roghnaigh tú.\n"
+"Roghnaigh an ceann is mó a bheidh tú ag obair leis, le do thoil:"
 
 #: abspilot.src#RID_PAGE_FIELDMAPPING.tabpage.text
 msgid ""
@@ -9731,6 +9785,14 @@ msgid ""
 "Click the button below to open another dialog where you can enter the "
 "settings for your data source."
 msgstr ""
+"Le na sonraí seolta i do theimpléid a ionchorprú, teastaíonn uaidh %"
+"PROUCTNAME fios a bheidh aige cé na réimsí ina bhfuil sonraí.\n"
+"\n"
+"Mar shampla, d'fhéadfadh sé gur chuir tú an seoladh ríomhphost i réimse darb "
+"ainm \"ríomhphost\" nó \"Ríomh-phost\" nó \"RP\" nó rud éigin eile ar fad.\n"
+"\n"
+"Cliceáil ar an gcnaipe thíos chun dialóg nua a oscailt inar féidir leat na "
+"socruithe do d'fhoinse sonraí a iontráil."
 
 #: abspilot.src#RID_PAGE_FIELDMAPPING.PB_INVOKE_FIELDS_DIALOG.pushbutton.text
 msgid ""
@@ -9751,6 +9813,11 @@ msgid ""
 "Now, just enter the name under which you want to register the data source in "
 "%PRODUCTNAME."
 msgstr ""
+"Sin an méid eolas a bhí ag teastáil chun do chuid sonraí seolta a dhéanamh "
+"comhtháite i %PRODUCTNAME.\n"
+"\n"
+"Anois, níl ort ach an t-ainm ar mhaith leat a úsáid chun an fhoinse sonraí a "
+"chlárú a iontráil i %PRODUCTNAME."
 
 #: abspilot.src#RID_PAGE_FINAL.FT_LOCATION.fixedtext.text
 #: dbwizres.src#RID_AGENDAWIZARDDIALOG_START___47.string.text
@@ -9765,7 +9832,7 @@ msgstr "Brabhsáil..."
 
 #: abspilot.src#RID_PAGE_FINAL.CB_REGISTER_DS.checkbox.text
 msgid "Make this address book available to all modules in %PRODUCTNAME."
-msgstr ""
+msgstr "Bíodh an leabhar seolta seo ar fáil do gach modúl i %PRODUCTNAME."
 
 #: abspilot.src#RID_PAGE_FINAL.FT_NAME_EXPL.fixedtext.text
 msgid "Address book name"
@@ -9776,6 +9843,8 @@ msgid ""
 "Another data source already has this name. As data sources have to have "
 "globally unique names, you need to choose another one."
 msgstr ""
+"Tá an t-ainm seo ar fhoinse sonraí eile cheana féin. Ós rud é go gcaithfidh "
+"ainm ar leith a bheidh ar gach foinse sonraí, beidh ort ceann nua a chumadh."
 
 #: abspilot.src#RID_ERR_NEEDTYPESELECTION.errorbox.text
 msgid "Please select a type of address book."
@@ -9803,7 +9872,7 @@ msgstr "Níorbh fhéidir an nasc a bhunú."
 
 #: abspilot.src#RID_STR_PLEASECHECKSETTINGS.string.text
 msgid "Please check the settings made for the data source."
-msgstr ""
+msgstr "Seiceáil na socruithe a déanú don fhoinse sonraí seo, le do thoil."
 
 #: abspilot.src#RID_STR_FIELDDIALOGTITLE.string.text
 msgid "Address Data - Field Assignment"
@@ -9815,6 +9884,9 @@ msgid ""
 "You can either assign fields now or do so later by first choosing:\n"
 "\"File - Template - Address Book Source...\""
 msgstr ""
+"Níl aon réimsí sannta faoi láthair.\n"
+"Is féidir leat réimsí a shannadh anois nó níos déanaí ach rogha a dhéanamh:\n"
+"\"Comhad - Teimpléad - Foinse Leabhair Seoltaí...\""
 
 #: bib.src#RID_BIB_STR_FIELDSELECTION.string.text
 msgid "Field selection:"
@@ -45538,6 +45610,8 @@ msgstr ""
 #: module_base.ulf#STR_DESC_MODULE_PRG_BASE.LngText.text
 msgid "Create and edit databases by using %PRODUCTNAME Base."
 msgstr ""
+"Cruthaigh agus déan eagarthóireacht ar bhunachair sonraí ag úsáid %"
+"PRODUCTNAME Base."
 
 #: module_base.ulf#STR_NAME_MODULE_PRG_BASE_BIN.LngText.text
 #: module_calc.ulf#STR_NAME_MODULE_PRG_CALC_BIN.LngText.text
@@ -45581,6 +45655,8 @@ msgid ""
 "Perform calculation, analyze information and manage lists in spreadsheets by "
 "using %PRODUCTNAME Calc."
 msgstr ""
+"Déan ríomhaireacht, déan anailís agus bainistigh liostaí i scarbhileoga tré "
+"úsáid a bhaint as %PRODUCTNAME Calc."
 
 #: module_calc.ulf#STR_DESC_MODULE_PRG_CALC_BIN.LngText.text
 msgid "The application %PRODUCTNAME Calc"
@@ -45603,6 +45679,8 @@ msgid ""
 "Add-ins are additional programs that make new functions available in %"
 "PRODUCTNAME Calc."
 msgstr ""
+"Is ea atá i ríomhchláir forlíontacha ná ríomhchláir bhreise a chuireann "
+"feidhmeanna nua ar fáil i %PRODUCTNAME Calc."
 
 #: registryitem_calc.ulf#STR_REG_VAL_NEW.LngText.text
 #: registryitem_draw.ulf#STR_REG_VAL_NEW.LngText.text
@@ -45652,6 +45730,8 @@ msgstr "%PRODUCTNAME Draw"
 msgid ""
 "Create and edit drawings, flow charts, and logos by using %PRODUCTNAME Draw."
 msgstr ""
+"Cruthaigh agus déan eagarthóireacht ar líníochtaí, sreabhchairteacha, agus "
+"lógónna le húsáid %PRODUCTNAME Draw."
 
 #: module_draw.ulf#STR_DESC_MODULE_PRG_DRAW_BIN.LngText.text
 msgid "The application %PRODUCTNAME Draw"
@@ -45684,6 +45764,7 @@ msgstr "Scagairí Grafaice"
 #: module_graphicfilter.ulf#STR_DESC_MODULE_OPTIONAL_GRFFLT.LngText.text
 msgid "Additional filters required to read alien graphic formats."
 msgstr ""
+"Teastaíonn níos mó scagairí chun formáidí grafacha strainséara a léamh."
 
 #: module_graphicfilter.ulf#STR_NAME_MODULE_OPTIONAL_GRFFLT_ADOBE.LngText.text
 msgid ""
@@ -45826,6 +45907,8 @@ msgid ""
 "Create and edit presentations for slideshows, meeting and Web pages by using "
 "%PRODUCTNAME Impress."
 msgstr ""
+"Cruthaigh agus déan eagarthóireacht ar láithreoireachtaí, cruinniú agus "
+"leathanaigh Ghréasáin le húsáid %PRODUCTNAME Impress."
 
 #: module_impress.ulf#STR_DESC_MODULE_PRG_IMPRESS_BIN.LngText.text
 msgid "The application %PRODUCTNAME Impress"
@@ -45853,13 +45936,15 @@ msgstr "Teimpléad Láithreoireachta %PRODUCTNAME %SXWFORMATVERSION"
 
 #: module_javafilter.ulf#STR_NAME_MODULE_OPTIONAL_JAVAFILTER.LngText.text
 msgid "Mobile Device Filters"
-msgstr ""
+msgstr "Scagairí Gléasanna Móibíleach"
 
 #: module_javafilter.ulf#STR_DESC_MODULE_OPTIONAL_JAVAFILTER.LngText.text
 msgid ""
 "Text and spreadsheet filters to support import/export for Palm handheld or "
 "Pocket PC (Java required)."
 msgstr ""
+"Scagairí téacs agus scarbhileoige a thacaíonn le hiompórtáil/easpórtáil do "
+"ríomhairí boise Palm nó Pocket PC (Teastaíonn Java)."
 
 #: module_javafilter.ulf#STR_NAME_MODULE_OPTIONAL_JAVAFILTER_PALM.LngText.text
 msgid "Palm"
@@ -45867,7 +45952,7 @@ msgstr "Palm"
 
 #: module_javafilter.ulf#STR_DESC_MODULE_OPTIONAL_JAVAFILTER_PALM.LngText.text
 msgid "Filters for Palm OS compatible handhelds"
-msgstr ""
+msgstr "Scagairí do ríomhairí boise comhoiriúnach do Palm OS"
 
 #: module_javafilter.ulf#STR_NAME_MODULE_OPTIONAL_JAVAFILTER_PALM_APORTISDOC.LngText.text
 msgid "AportisDoc"
@@ -45875,7 +45960,7 @@ msgstr "AportisDoc"
 
 #: module_javafilter.ulf#STR_DESC_MODULE_OPTIONAL_JAVAFILTER_PALM_APORTISDOC.LngText.text
 msgid "Support for the AportisDoc format"
-msgstr ""
+msgstr "Tacaíocht d'fhormáid AportisDoc"
 
 #: module_javafilter.ulf#STR_NAME_MODULE_OPTIONAL_JAVAFILTER_POCKETPC.LngText.text
 msgid "Pocket PC"
@@ -45884,10 +45969,12 @@ msgstr "Pocket PC"
 #: module_javafilter.ulf#STR_DESC_MODULE_OPTIONAL_JAVAFILTER_POCKETPC_WNT.LngText.text
 msgid "Filters and ActiveSync support for Pocket PC compatible handhelds"
 msgstr ""
+"Scagairí agus tacaíocht ActiveSync do ríomhairí boise comhoiriúnach do "
+"Pocket PC"
 
 #: module_javafilter.ulf#STR_DESC_MODULE_OPTIONAL_JAVAFILTER_POCKETPC_UNIX.LngText.text
 msgid "Filters for Pocket PC compatible handhelds."
-msgstr ""
+msgstr "Scagairí do ríomhairí boise comhoiriúnach do Pocket PC"
 
 #: module_javafilter.ulf#STR_NAME_MODULE_OPTIONAL_JAVAFILTER_POCKETPC_POCKET_WORD.LngText.text
 msgid ""
@@ -45963,11 +46050,11 @@ msgstr "Tharla earráid agus an Java Runtime Environment á thúsú."
 
 #: module_lingu.ulf#STR_NAME_MODULE_OPTIONAL_OO_ENGLISH.LngText.text
 msgid "English (US) Language Module"
-msgstr ""
+msgstr "Modúl Theangan Bhéarla (SAM) "
 
 #: module_lingu.ulf#STR_DESC_MODULE_OPTIONAL_OO_ENGLISH.LngText.text
 msgid "Installs the English (US) language module."
-msgstr ""
+msgstr "Suiteálann seo an Modúl Theangan Bhéarla (SAM)"
 
 #: folderitem_math.ulf#STR_FI_TOOLTIP_MATH.LngText.text
 #: launcher_comment.ulf#math.LngText.text
@@ -45985,6 +46072,8 @@ msgstr "%PRODUCTNAME Math"
 msgid ""
 "Create and edit scientific formulas and equations by using %PRODUCTNAME Math."
 msgstr ""
+"Cruthaigh agus déan eagarthóireacht ar fhoirmlí agus cothromóidí na "
+"heolaíochta ag úsáid %PRODUCTNAME Math."
 
 #: module_math.ulf#STR_DESC_MODULE_PRG_MATH_BIN.LngText.text
 msgid "The application %PRODUCTNAME Math"
@@ -46016,6 +46105,8 @@ msgid ""
 "Get automatically notified when a new update of %PRODUCTNAME becomes "
 "available."
 msgstr ""
+"Bíodh sé mar gnáthchúrsa go gcuirfear in iúl duit nuair atá nuashonrú do %"
+"PRODUCTNAME ar fáil."
 
 #: directory_ooo.ulf#STR_DIR_INTERNET.LngText.text
 #: dinfdlg.src#SID_DOCINFO.1.TP_DOCINFORELOAD.pageitem.text
@@ -46112,6 +46203,9 @@ msgid ""
 "language. See http://udk.openoffice.org/python/python-bridge.html for a "
 "complete documentation."
 msgstr ""
+"Tugann seo an cumas duit %PRODUCTNAME a uathoibriú leis an teanga scriptithe "
+"Python. Féach ar http://udk.openoffice.org/python/python-bridge.html má tá "
+"iomlán an doiciméadúcháin uait."
 
 #: module_python_mailmerge.ulf#STR_NAME_MODULE_OPTIONAL_PYTHON_MAILMERGE.LngText.text
 msgid "E-mail Mailmerge"
@@ -46119,7 +46213,7 @@ msgstr "Postchumasc"
 
 #: module_python_mailmerge.ulf#STR_DESC_MODULE_OPTIONAL_PYTHON_MAILMERGE.LngText.text
 msgid "Module for %PRODUCTNAME E-mail Mailmerge feature"
-msgstr ""
+msgstr "Modúl do ghné postchumasc ríomhphost %PRODUCTNAME"
 
 #: module_quickstart.ulf#STR_NAME_MODULE_OPTIONAL_QUICKSTART.LngText.text
 msgid "Quickstarter"
@@ -46176,6 +46270,9 @@ msgid ""
 "Create and edit text and graphics in letters, reports, documents and Web "
 "pages by using %PRODUCTNAME Writer."
 msgstr ""
+"Cruthaigh and déan eagarthóireacht ar théacs agus ar ghrafaicí i litreacha, "
+"tuairiscí, cáipéisí, agus leathanaigh Ghréasáin le húsáid %PRODUCTNAME "
+"Writer."
 
 #: module_writer.ulf#STR_DESC_MODULE_PRG_WRT_BIN.LngText.text
 msgid "The application %PRODUCTNAME Writer"
@@ -105736,7 +105833,7 @@ msgstr "Ga~n cheannteideal"
 
 #: table.src#MSG_ERR_TABLE_MERGE.infobox.text
 msgid "Selected table cells are too complex to merge."
-msgstr ""
+msgstr "Tá na cealla tábla roghnaithe róchasta le cumasc."
 
 #: tabledlg.src#TP_FORMAT_TABLE.FT_WIDTH.fixedtext.text
 msgid "W~idth"
@@ -105826,11 +105923,11 @@ msgstr "T~ar éis"
 
 #: tabledlg.src#TP_TABLE_TEXTFLOW.CB_SPLIT.checkbox.text
 msgid "Allow ~table to split across pages and columns"
-msgstr ""
+msgstr "Ceadaigh don ~tábla briseadh thar leathanaigh agus colúin"
 
 #: tabledlg.src#TP_TABLE_TEXTFLOW.CB_SPLIT_ROW.tristatebox.text
 msgid "Allow row to break a~cross pages and columns"
-msgstr ""
+msgstr "Ceadaigh don ró briseadh t~har leathanaigh agus colúin"
 
 #: tabledlg.src#TP_TABLE_TEXTFLOW.CB_HEADLINE.checkbox.text
 msgid "R~epeat heading"
