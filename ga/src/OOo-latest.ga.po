@@ -173,7 +173,7 @@ msgstr "Ní féidir macraí as cáipéisí eile a rochtain."
 
 #: basidesh.src#RID_STR_LIBISREADONLY.string.text
 msgid "This library is read-only."
-msgstr "Tá an leabharlann seo léimh amháin."
+msgstr "Tá an leabharlann seo inléite amháin."
 
 #: basidesh.src#RID_STR_REPLACELIB.string.text
 msgid "'XX' cannot be replaced."
@@ -881,7 +881,7 @@ msgstr "Roghanna"
 
 #: moduldlg.src#RID_DLG_LIBS.RID_CB_REF.checkbox.text
 msgid "Insert as reference (read-only)"
-msgstr "Ionsáigh mar thagairt (léimh-amháin)"
+msgstr "Ionsáigh mar thagairt (inléite amháin)"
 
 #: moduldlg.src#RID_DLG_LIBS.RID_CB_REPL.checkbox.text
 msgid "Replace existing libraries"
@@ -6478,7 +6478,7 @@ msgstr "Leabhar seoltaí LDAP"
 
 #: dbadmin2.src#STR_HINT_READONLY_CONNECTION.string.text
 msgid "(Connection is read-only)"
-msgstr "(Nasc léamh amháin)"
+msgstr "(Nasc inléite amháin)"
 
 #: dbadmin2.src#STR_HINT_CONNECTION_NOT_CAPABLE.string.text
 msgid "(Not supported by this connection)"
@@ -6718,7 +6718,7 @@ msgid ""
 "stored. %PRODUCTNAME Base will open these files in read-only mode."
 msgstr ""
 "Roghnaigh an fillteán ina stóráiltear na téacschomhaid CSV (Comma Separated "
-"Values). Osclóidh %PRODUCTNAME Base na comhaid seo sa mhód léimh-amháin."
+"Values). Osclóidh %PRODUCTNAME Base na comhaid seo sa mhód inléite amháin."
 
 #: dbadminsetup.src#PAGE_DBWIZARD_TEXT.STR_TEXT_PATH_OR_FILE.string.text
 msgid "Path to text files"
@@ -6858,7 +6858,7 @@ msgid ""
 msgstr ""
 "Cliceáil 'Brabhsáil...' chun scarbhileog %PRODUCTNAME nó leabhar oibre "
 "Microsoft Excel a roghnú.\n"
-"Osclófar %PRODUCTNAME an comhad seo sa mhód léimh-amháin."
+"Osclófar %PRODUCTNAME an comhad seo sa mhód inléite amháin."
 
 #: dbadminsetup.src#PAGE_DBWIZARD_SPREADSHEET.STR_SPREADSHEETPATH.string.text
 msgid "~Location and file name"
@@ -10620,7 +10620,7 @@ msgstr "Masc litriúil"
 msgid ""
 "_: formres.src#RID_STR_READONLY.string.text\n"
 "Read-only"
-msgstr "Léamh amháin"
+msgstr "Inléite amháin"
 
 #: formres.src#RID_STR_AUTOCOMPLETE.string.text
 msgid "AutoFill"
@@ -11620,7 +11620,7 @@ msgstr "Ábhartha"
 msgid ""
 "_: formres.src#RID_STR_XSD_READONLY.string.text\n"
 "Read-only"
-msgstr "Léamh amháin"
+msgstr "Inléite amháin"
 
 #: formres.src#RID_STR_XSD_CONSTRAINT.string.text
 msgid "Constraint"
@@ -13239,7 +13239,7 @@ msgstr "Cuir na socruithe scagaire in eagar"
 msgid ""
 "_: OfficeFilePicker.src#STR_SVT_FILEPICKER_READONLY.string.text\n"
 "~Read-only"
-msgstr "~Léamh amháin"
+msgstr "~Inléite amháin"
 
 #: OfficeFilePicker.src#STR_SVT_FILEPICKER_INSERT_AS_LINK.string.text
 #: miscdlgs.src#RID_SCDLG_INSCONT.BTN_LINK.checkbox.text
@@ -13343,7 +13343,7 @@ msgstr "Cineál ~comhaid:"
 msgid ""
 "_: iodlg.src#DLG_SVT_EXPLORERFILE.CB_EXPLORERFILE_READONLY.checkbox.text\n"
 "~Read-only"
-msgstr "~Léamh amháin"
+msgstr "~Inléite amháin"
 
 #: iodlg.src#DLG_SVT_EXPLORERFILE.CB_EXPLORERFILE_PASSWORD.checkbox.text
 msgid ""
@@ -51511,7 +51511,7 @@ msgstr "Ní féidir cealla cosanta a mhionathrú."
 
 #: globstr.src#RID_GLOBSTR.STR_READONLYERR.string.text
 msgid "Document opened in read-only mode."
-msgstr "Cáipéis oscailte i mód léimh amháin."
+msgstr "Cáipéis oscailte i mód inléite amháin."
 
 #: globstr.src#RID_GLOBSTR.STR_MATRIXFRAGMENTERR.string.text
 msgid "You cannot change only part of an array."
@@ -69529,7 +69529,7 @@ msgstr "~Focal Faire"
 msgid ""
 "_: dialog.src#CB_READ_ONLY.checkbox.text\n"
 "~Read-only"
-msgstr "~Léamh amháin"
+msgstr "~Inléite amháin"
 
 #: dialog.src#CB_FILE.pushbutton.text
 msgid "~File System"
@@ -69674,7 +69674,7 @@ msgstr "Cineál:"
 msgid ""
 "_: dinfdlg.src#TP_DOCINFODOC.CB_FILE_READONLY.checkbox.text\n"
 "~Read-only"
-msgstr "~Léamh amháin"
+msgstr "~Inléite amháin"
 
 #: dinfdlg.src#TP_DOCINFODOC.FT_FILE_SIZE.fixedtext.text
 #: shlxthdl.ulf#_SIZE_COLON_.LngText.text
@@ -69816,7 +69816,7 @@ msgstr "Iarmhír u~athoibríoch ar ainm comhaid"
 msgid ""
 "_: filedlghelper.src#STR_CB_READONLY.string.text\n"
 "~Read-only"
-msgstr "~Léamh amháin"
+msgstr "~Inléite amháin"
 
 #: filedlghelper.src#STR_CB_PASSWORD.string.text
 msgid "Save with ~password"
@@ -70401,7 +70401,7 @@ msgid ""
 "Do you want to open it as read-only?"
 msgstr ""
 "Ní féidir an cháipéis a oscailt chun é a chur in eagar.\n"
-"Ar mhaith leat é a oscailt sa mhód léimh amháin?"
+"Ar mhaith leat é a oscailt sa mhód inléite amháin?"
 
 #: doc.src#RID_OFFICEFILTER.string.text
 msgid "%PRODUCTNAME Documents"
@@ -70831,7 +70831,7 @@ msgstr "Tharla earráid le linn priontála"
 #: view.src#STR_READONLY.string.text
 #: gallery.src#RID_SVXSTR_GALLERY_READONLY.string.text
 msgid " (read-only)"
-msgstr " (léamh amháin)"
+msgstr " (inléite amháin)"
 
 #: view.src#STR_PRINT_NEWORI.string.text
 msgid ""
@@ -75430,7 +75430,7 @@ msgstr "Earráid agus comhad á léamh."
 
 #: errtxt.src#RID_ERRHDL.ERRCODE_SFX_DOCUMENTREADONLY.string.text
 msgid "The document was opened as read-only."
-msgstr "Osclaíodh an cháipéis sa mhód léimh amháin."
+msgstr "Osclaíodh an cháipéis sa mhód inléite amháin."
 
 #: errtxt.src#RID_ERRHDL.ERRCODE_SFX_OLEGENERAL.string.text
 msgid "General OLE Error."
@@ -81825,7 +81825,7 @@ msgstr "Tá an foclóir lán cheana."
 
 #: lingu.src#RID_SVXSTR_DIC_ERR_READONLY.string.text
 msgid "The dictionary is read-only."
-msgstr "Tá an foclóir léimh amháin."
+msgstr "Tá an foclóir inléite amháin."
 
 #: macropg.src#RID_SVXPAGE_MACROASSIGN.STR_EVENT.string.text
 msgid ""
@@ -92039,7 +92039,7 @@ msgstr ""
 
 #: optaccessibility.src#RID_SVXPAGE_ACCESSIBILITYCONFIG.CB_TEXTSELECTION.checkbox.text
 msgid "Use te~xt selection cursor in read-only text documents"
-msgstr "Úsáid cúrsóir roghnaithe téa~cs i gcáipéisí léimh-amháin"
+msgstr "Úsáid cúrsóir roghnaithe téa~cs i gcáipéisí inléite amháin"
 
 #: optaccessibility.src#RID_SVXPAGE_ACCESSIBILITYCONFIG.CB_ANIMATED_GRAPHICS.checkbox.text
 msgid "Allow animated ~graphics"
@@ -92779,7 +92779,7 @@ msgstr "Roghanna roinnt comhaid don cháipéis seo"
 
 #: optinet2.src#RID_SVXPAGE_INET_SECURITY.CB_SEC_RECOMMREADONLY.checkbox.text
 msgid "Open this document in read-only mode"
-msgstr "Oscail an cháipéis seo i mód léimh amháin"
+msgstr "Oscail an cháipéis seo i mód inléite amháin"
 
 #: optinet2.src#RID_SVXPAGE_INET_SECURITY.CB_SEC_RECORDCHANGES.checkbox.text
 msgid "Record changes"
@@ -100627,7 +100627,7 @@ msgstr "Airíonna"
 
 #: regionsw.src#CB_EDIT_IN_READONLY_TEXT.#define.text
 msgid "E~ditable in read-only document"
-msgstr "Ineagarthóireachta i g~cáipéis léimh-amháin"
+msgstr "Ineagarthóireachta i g~cáipéis inléite amháin"
 
 #: regionsw.src#CB_DDE_TEXT.#define.text
 msgid "DD~E"
@@ -100898,7 +100898,7 @@ msgstr "Roghanna Scagaire ASCII"
 
 #: dialog.src#CB_READ_ONLY.checkbox.text
 msgid "~Read-only"
-msgstr "~Léamh amháin"
+msgstr "~Inléite amháin"
 
 #: dialog.src#STR_LINKEDIT_TEXT.string.text
 msgid "Edit links"
@@ -101226,7 +101226,7 @@ msgid ""
 "Readonly content cannot be changed.\n"
 "No modifications will be accepted"
 msgstr ""
-"Ní féidir ábhar léimh-amháin a athrú.\n"
+"Ní féidir ábhar inléite amháin a athrú.\n"
 "Ní ghlacfar le mionathrú ar bith"
 
 #: docvw.src#STR_TABLE_COL_ADJUST.string.text
@@ -103270,7 +103270,7 @@ msgstr "Cosain"
 
 #: frmpage.src#TP_FRM_ADD.CB_EDIT_IN_READONLY.checkbox.text
 msgid "~Editable in read-only document"
-msgstr "In~eagarthóireachta i gcáipéis léimh-amháin"
+msgstr "In~eagarthóireachta i gcáipéis inléite amháin"
 
 #: frmpage.src#TP_FRM_ADD.CB_PRINT_FRAME.checkbox.text
 msgid "Prin~t"
@@ -104362,7 +104362,7 @@ msgstr "~Aicearra"
 #: glossary.src#DLG_GLOSSARY.LB_BIB.ST_READONLY.string.text
 #: view.src#STR_READONLY_SEL.string.text
 msgid "read-only"
-msgstr "léamh amháin"
+msgstr "inléite amháin"
 
 #: glossary.src#DLG_GLOSSARY.FL_RELATIVE.fixedline.text
 msgid "Save links relative to"
@@ -106080,7 +106080,7 @@ msgstr ""
 
 #: attrdesc.src#STR_EDIT_IN_READONLY.string.text
 msgid "Editable in read-only document"
-msgstr "Ineagarthóireachta i gcáipéis léimh-amháin"
+msgstr "Ineagarthóireachta i gcáipéis inléite amháin"
 
 #: attrdesc.src#STR_NUMRULE_OFF.string.text
 msgid "no numbering"
@@ -108395,7 +108395,7 @@ msgstr "Níl '<1>' ina comhadlann!"
 
 #: euro.src#MESSAGES___21.string.text
 msgid "Document is read-only!"
-msgstr "Tá an cháipéis léimh amháin!"
+msgstr "Tá an cháipéis inléite amháin!"
 
 #: euro.src#MESSAGES___22.string.text importwi.src#sFileExists.string.text
 msgid "The '<1>' file already exists.<CR>Do you want to overwrite it?"
