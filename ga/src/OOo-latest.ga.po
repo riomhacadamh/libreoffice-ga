@@ -90898,7 +90898,7 @@ msgstr "Briseadh i ndiaidh leathanach nua"
 
 #: svxitems.src#RID_SVXITEMS_BREAK_PAGE_BOTH.string.text
 msgid "Break before and after new page"
-msgstr ""
+msgstr "Briseadh roimh agus i ndiaidh gach leathanach nua"
 
 #: svxitems.src#RID_SVXITEMS_SHADOW_NONE.string.text
 msgid "No Shadow"
@@ -90944,7 +90944,7 @@ msgstr "Dath "
 
 #: svxitems.src#RID_SVXITEMS_ITALIC_NONE.string.text
 msgid "Not Italic"
-msgstr ""
+msgstr "Nach Iodálach"
 
 #: svxitems.src#RID_SVXITEMS_ITALIC_OBLIQUE.string.text
 msgid "Oblique italic"
@@ -91198,7 +91198,7 @@ msgstr "Tábstopanna"
 
 #: svxitems.src#RID_ATTR_CHAR_POSTURE.string.text
 msgid "Font posture"
-msgstr ""
+msgstr "Cuma an chló"
 
 #: svxitems.src#RID_ATTR_CHAR_WEIGHT.string.text
 msgid "Font weight"
@@ -91253,7 +91253,7 @@ msgstr "Caochadh"
 
 #: svxitems.src#RID_ATTR_CHAR_CHARSETCOLOR.string.text
 msgid "Character set color"
-msgstr ""
+msgstr "Dath an tacair carachtar"
 
 #: svxitems.src#RID_ATTR_PARA_LINESPACE.string.text
 #: svdstr.src#SIP_EE_PARA_SBL.string.text
@@ -91328,7 +91328,7 @@ msgstr "Caochadh"
 #: svxitems.src#RID_ATTR_PARA_REGISTER.string.text
 #: attrdesc.src#STR_REGISTER_ON.string.text
 msgid "Register-true"
-msgstr ""
+msgstr "Tabhall-fíor"
 
 #: svxitems.src#RID_ATTR_BRUSH_CHAR.string.text
 msgid ""
@@ -91350,7 +91350,7 @@ msgstr "Teanga na gclófhoirne Áiseach"
 
 #: svxitems.src#RID_ATTR_CHAR_CJK_POSTURE.string.text
 msgid "Posture of Asian fonts"
-msgstr ""
+msgstr "Cuma na gclónna Áiseacha"
 
 #: svxitems.src#RID_ATTR_CHAR_CJK_WEIGHT.string.text
 msgid "Weight of Asian fonts"
@@ -91363,7 +91363,7 @@ msgstr "CTL"
 
 #: svxitems.src#RID_ATTR_CHAR_CTL_FONTHEIGHT.string.text
 msgid "Size of complex scripts"
-msgstr ""
+msgstr "Méid na scripteanna casta"
 
 #: svxitems.src#RID_ATTR_CHAR_CTL_LANGUAGE.string.text
 msgid "Language of complex scripts"
@@ -91371,11 +91371,11 @@ msgstr "Teanga na scripteanna casta"
 
 #: svxitems.src#RID_ATTR_CHAR_CTL_POSTURE.string.text
 msgid "Posture of complex scripts"
-msgstr ""
+msgstr "Cuma na scripteanna casta"
 
 #: svxitems.src#RID_ATTR_CHAR_CTL_WEIGHT.string.text
 msgid "Weight of complex scripts"
-msgstr "Trom na scripteanna coimpléascacha"
+msgstr "Trom na scripteanna casta"
 
 #: svxitems.src#RID_ATTR_CHAR_TWO_LINES.string.text
 msgid ""
@@ -91422,7 +91422,7 @@ msgstr "Ailíniú téacs go hingearach"
 
 #: svxitems.src#RID_SINGLE_LINE0.string.text
 msgid "Single, fine lines"
-msgstr ""
+msgstr "Singil, línte míne"
 
 #: svxitems.src#RID_SINGLE_LINE1.string.text
 msgid "Single, thin"
@@ -91442,11 +91442,11 @@ msgstr "Singil, trom"
 
 #: svxitems.src#RID_DOUBLE_LINE0.string.text
 msgid "Double, fine lines, spacing: small"
-msgstr ""
+msgstr "Dúbailte, línte míne, spásáil: beag"
 
 #: svxitems.src#RID_DOUBLE_LINE1.string.text
 msgid "Double, fine line, spacing: large"
-msgstr ""
+msgstr "Dúbailte, líne mhín, spásáil: mór"
 
 #: svxitems.src#RID_DOUBLE_LINE2.string.text
 msgid "Double, thin, spacing: small"
@@ -91458,31 +91458,31 @@ msgstr "Dúbailte, tiubh, spásáil: mór"
 
 #: svxitems.src#RID_DOUBLE_LINE4.string.text
 msgid "Double, inside: fine lines, outside: thin, spacing: large"
-msgstr ""
+msgstr "Dúbailte, istigh: línte míne, amuigh: tanaí, spásáil: mór"
 
 #: svxitems.src#RID_DOUBLE_LINE5.string.text
 msgid "Double, inside: fine lines, outside: thick, spacing: large"
-msgstr ""
+msgstr "Dúbailte, istigh: línte míne, amuigh: tiubh, spásáil: mór"
 
 #: svxitems.src#RID_DOUBLE_LINE6.string.text
 msgid "Double, inside: fine lines, outside: very thick, spacing: large"
-msgstr ""
+msgstr "Dúbailte, istigh: línte míne, amuigh: an-tiubh, spásáil: mór"
 
 #: svxitems.src#RID_DOUBLE_LINE7.string.text
 msgid "Double, inside: thin, outside: thick, spacing: large"
-msgstr ""
+msgstr "Dúbailte, istigh: tanaí, amuigh: tiubh, spásáil: mór"
 
 #: svxitems.src#RID_DOUBLE_LINE8.string.text
 msgid "Double, inside: thick, outside: thin, spacing: small"
-msgstr ""
+msgstr "Dúbailte, istigh: tiubh, amuigh: tanaí, spásáil: beag"
 
 #: svxitems.src#RID_DOUBLE_LINE9.string.text
 msgid "Double, inside: thick, outside: very thick, spacing: large"
-msgstr ""
+msgstr "Dúbailte, istigh: tiubh, amuigh: an-tiubh, spásáil: mór"
 
 #: svxitems.src#RID_DOUBLE_LINE10.string.text
 msgid "Double, inside: very thick, outside: thick, Spacing: large"
-msgstr ""
+msgstr "Dúbailte, istigh: an-tiubh, amuigh: tiubh, Spásáil: mór"
 
 #: svxitems.src#RID_SVXITEMS_HORJUST_LEFT.string.text
 msgid ""
@@ -106048,7 +106048,7 @@ msgstr ""
 
 #: attrdesc.src#STR_REGISTER_OFF.string.text
 msgid "Not register-true"
-msgstr ""
+msgstr "Nach tabhall-fíor"
 
 #: attrdesc.src#STR_HORI_RIGHT.string.text
 msgid "at the right"
