@@ -30019,7 +30019,7 @@ msgid ""
 "_: GenericCommands.xcu#..GenericCommands.UserInterface.Commands.."
 "uno_BasicShapes.circle_pie.Label.value.text\n"
 "Circle Pie"
-msgstr ""
+msgstr "Píchiorcal"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_BasicShapes.isosceles_triangle.Label.value.text
 msgid "Isosceles Triangle"
@@ -30983,7 +30983,7 @@ msgstr "~Bunachar Sonraí Bibleagrafaíochta"
 #: svdstr.src#STR_ObjNameSingulSECTE.string.text
 #: tbxdraw.src#RID_SVXTBX_DRAW.TBX_DRAW.SID_DRAW_PIE.toolboxitem.text
 msgid "Ellipse Pie"
-msgstr ""
+msgstr "Pí-éilips"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_BezierEliminatePoints.Label.value.text
 msgid "Eliminate Points"
@@ -32209,7 +32209,7 @@ msgid ""
 "_: GenericCommands.xcu#..GenericCommands.UserInterface.Commands.."
 "uno_CirclePie.Label.value.text\n"
 "Circle Pie"
-msgstr ""
+msgstr "Píchiorcal"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_CirclePie_Unfilled.Label.value.text
 msgid "Circle Pie, Unfilled"
@@ -32226,7 +32226,7 @@ msgstr ""
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_EllipseCut.Label.value.text
 #: svdstr.src#STR_ObjNameSingulCCUTE.string.text
 msgid "Ellipse Segment"
-msgstr ""
+msgstr "Deighleog Éilips"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_EllipseCut_Unfilled.Label.value.text
 msgid "Ellipse Segment, unfilled"
@@ -93631,11 +93631,11 @@ msgstr "Airc"
 msgid ""
 "_: svdstr.src#STR_ObjNameSingulCCUT.string.text\n"
 "Circle segment"
-msgstr ""
+msgstr "Deighleog Chiorcail"
 
 #: svdstr.src#STR_ObjNamePluralCCUT.string.text
 msgid "Circle segments"
-msgstr ""
+msgstr "Deighleoga Ciorcail"
 
 #: svdstr.src#STR_ObjNameSingulCIRCE.string.text
 #: tbxdraw.src#RID_SVXTBX_DRAW.TBX_DRAW.SID_DRAW_ELLIPSE.toolboxitem.text
@@ -93644,7 +93644,7 @@ msgstr "Éilips"
 
 #: svdstr.src#STR_ObjNamePluralSECTE.string.text
 msgid "Ellipse Pies"
-msgstr ""
+msgstr "Pí-éilipsí"
 
 #: svdstr.src#STR_ObjNameSingulCARCE.string.text
 msgid "Elliptical arc"
@@ -93656,7 +93656,7 @@ msgstr "Airc éilipseacha"
 
 #: svdstr.src#STR_ObjNamePluralCCUTE.string.text
 msgid "Ellipse Segments"
-msgstr ""
+msgstr "Deighleoga Éilips"
 
 #: svdstr.src#STR_ObjNameSingulPOLY_PntAnz.string.text
 msgid "Polygon %N corners"
@@ -93737,6 +93737,8 @@ msgid ""
 "_: svdstr.src#STR_ObjNamePluralCOMBLINE.string.text\n"
 "Curve objects"
 msgstr ""
+"_: svdstr.src#STR_ObjNamePluralCOMBLINE.string.text\n"
+"Réada cuair"
 
 #: svdstr.src#STR_ObjNameSingulCOMBFILL.string.text
 msgid ""
@@ -93749,6 +93751,8 @@ msgid ""
 "_: svdstr.src#STR_ObjNamePluralCOMBFILL.string.text\n"
 "Curve objects"
 msgstr ""
+"_: svdstr.src#STR_ObjNamePluralCOMBFILL.string.text\n"
+"Réada cuair"
 
 #: svdstr.src#STR_ObjNameSingulNATSPLN.string.text
 msgid "Natural Spline"
@@ -93791,24 +93795,32 @@ msgid ""
 "_: svdstr.src#STR_ObjNameSingulFITTEXT.string.text\n"
 "Fit-to-size text object"
 msgstr ""
+"_: svdstr.src#STR_ObjNameSingulFITTEXT.string.text\n"
+"Réad téacs líon-an-spás"
 
 #: svdstr.src#STR_ObjNamePluralFITTEXT.string.text
 msgid ""
 "_: svdstr.src#STR_ObjNamePluralFITTEXT.string.text\n"
 "Fit-to-size text objects"
 msgstr ""
+"_: svdstr.src#STR_ObjNamePluralFITTEXT.string.text\n"
+"Réada téacs líon-an-spás"
 
 #: svdstr.src#STR_ObjNameSingulFITALLTEXT.string.text
 msgid ""
 "_: svdstr.src#STR_ObjNameSingulFITALLTEXT.string.text\n"
 "Fit-to-size text object"
 msgstr ""
+"_: svdstr.src#STR_ObjNameSingulFITALLTEXT.string.text\n"
+"Réad téacs líon-an-spás"
 
 #: svdstr.src#STR_ObjNamePluralFITALLTEXT.string.text
 msgid ""
 "_: svdstr.src#STR_ObjNamePluralFITALLTEXT.string.text\n"
 "Fit-to-size text objects"
 msgstr ""
+"_: svdstr.src#STR_ObjNamePluralFITALLTEXT.string.text\n"
+"Réada téacs líon-an-spás"
 
 #: svdstr.src#STR_ObjNameSingulTITLETEXT.string.text
 msgid "Title text"
@@ -93970,11 +93982,11 @@ msgstr "Tagráin"
 
 #: svdstr.src#STR_ObjNameSingulPAGE.string.text
 msgid "Preview object"
-msgstr ""
+msgstr "Réad Réamhamhairc"
 
 #: svdstr.src#STR_ObjNamePluralPAGE.string.text
 msgid "Preview objects"
-msgstr ""
+msgstr "Réada Réamhamhairc"
 
 #: svdstr.src#STR_ObjNameSingulMEASURE.string.text
 msgid "Dimension line"
@@ -94064,7 +94076,7 @@ msgstr "le cóip"
 
 #: svdstr.src#STR_EditPosSize.string.text
 msgid "Set position and size for %O"
-msgstr ""
+msgstr "Socraigh suíomh agus méid ar %O"
 
 #: svdstr.src#STR_EditDelete.string.text
 msgid "Delete %O"
@@ -94084,7 +94096,7 @@ msgstr "Bog %O chun tosaigh"
 
 #: svdstr.src#STR_EditPutToBtm.string.text
 msgid "Move %O to back"
-msgstr ""
+msgstr "Cúlaigh %O"
 
 #: svdstr.src#STR_EditRevOrder.string.text
 msgid "Reverse order of %O"
@@ -94419,7 +94431,7 @@ msgstr "Díchum %O"
 
 #: svdstr.src#STR_DragRectEckRad.string.text
 msgid "Alter radius by %O"
-msgstr ""
+msgstr "Athraigh ga %O"
 
 #: svdstr.src#STR_DragPathObj.string.text
 msgid ""
@@ -94441,11 +94453,11 @@ msgstr "Bog %O"
 
 #: svdstr.src#STR_DragCaptTail.string.text
 msgid "Move end point of %O"
-msgstr ""
+msgstr "Bog críochphointe de %O"
 
 #: svdstr.src#STR_DragCircAngle.string.text
 msgid "Adjust angle by %O"
-msgstr ""
+msgstr "Athraigh uillinn %O"
 
 #: svdstr.src#STR_DragEdgeTail.string.text
 msgid ""
@@ -94515,7 +94527,7 @@ msgstr "Cóipeáil %O"
 
 #: svdstr.src#STR_UndoObjOrdNum.string.text
 msgid "Change object order of %O"
-msgstr ""
+msgstr "Athraigh ord réada de %O"
 
 #: svdstr.src#STR_UndoObjSetText.string.text
 msgid "Edit text of %O"
@@ -94539,19 +94551,19 @@ msgstr "Athraigh ord na leathanaigh"
 
 #: svdstr.src#STR_UndoNewPageMasterDscr.string.text
 msgid "Assign background page"
-msgstr ""
+msgstr "Sann leathanach cúlra"
 
 #: svdstr.src#STR_UndoDelPageMasterDscr.string.text
 msgid "Clear background page assignment"
-msgstr ""
+msgstr "Glan sannadh an leathanaigh cúlra"
 
 #: svdstr.src#STR_UndoMovPageMasterDscr.string.text
 msgid "Move background page assignment"
-msgstr ""
+msgstr "Bog sannadh an leathanaigh cúlra"
 
 #: svdstr.src#STR_UndoChgPageMasterDscr.string.text
 msgid "Change background page assignment"
-msgstr ""
+msgstr "Athraigh sannadh an leathanaigh cúlra"
 
 #: svdstr.src#STR_UndoMergeModel.string.text
 msgid "Insert document"
@@ -94599,7 +94611,7 @@ msgstr "Cineál 4"
 
 #: svdstr.src#STR_ItemValFITTOSIZEALLLINES.string.text
 msgid "Fit to size (all rows separately) "
-msgstr ""
+msgstr "Líon an spás (gach ró leis féin) "
 
 #: svdstr.src#STR_ItemValFITTOSIZERESIZEAT.string.text
 msgid "Use hard attributes"
@@ -94689,7 +94701,7 @@ msgstr "uathoibríoch"
 
 #: svdstr.src#STR_ItemValMEASURE_TEXTLEFTOUTSIDE.string.text
 msgid "left outside"
-msgstr ""
+msgstr "amuigh ar chlé"
 
 #: svdstr.src#STR_ItemValMEASURE_TEXTINSIDE.string.text
 msgid "inside (centered)"
@@ -94727,13 +94739,15 @@ msgstr "ciorcal iomlán"
 
 #: svdstr.src#STR_ItemValCIRC_SECT.string.text
 msgid "Circle Pie"
-msgstr ""
+msgstr "Píchiorcal"
 
 #: svdstr.src#STR_ItemValCIRC_CUT.string.text
 msgid ""
 "_: svdstr.src#STR_ItemValCIRC_CUT.string.text\n"
 "Circle segment"
 msgstr ""
+"_: svdstr.src#STR_ItemValCIRC_CUT.string.text\n"
+"Deighleog Chiorcail"
 
 #: svdstr.src#STR_ItemValCIRC_ARC.string.text
 msgid ""
@@ -94755,17 +94769,19 @@ msgstr "Dath na scáthanna"
 
 #: svdstr.src#STR_ItemNam_SHADOWXDIST.string.text
 msgid "Horizontal shadow outline"
-msgstr ""
+msgstr "Scáth-imlíne cothrománach"
 
 #: svdstr.src#STR_ItemNam_SHADOWYDIST.string.text
 msgid "Vertical shadow outline"
-msgstr ""
+msgstr "Scáth-imlíne ingearach"
 
 #: svdstr.src#STR_ItemNam_SHADOWTRANSPARENCE.string.text
 msgid ""
 "_: svdstr.src#STR_ItemNam_SHADOWTRANSPARENCE.string.text\n"
 "Shadow transparency"
 msgstr ""
+"_: svdstr.src#STR_ItemNam_SHADOWTRANSPARENCE.string.text\n"
+"Scáth-thréshoilseán"
 
 #: svdstr.src#STR_ItemNam_SHADOW3D.string.text
 msgid ""
@@ -94785,7 +94801,7 @@ msgstr "Cineál tagráin"
 
 #: svdstr.src#STR_ItemNam_CAPTIONFIXEDANGLE.string.text
 msgid "Given angle"
-msgstr ""
+msgstr "Uillinn tugtha"
 
 #: svdstr.src#STR_ItemNam_CAPTIONANGLE.string.text
 msgid "Angle"
@@ -94863,11 +94879,11 @@ msgstr "Uathoiriúnaigh leithead an fhráma"
 
 #: svdstr.src#STR_ItemNam_TEXT_MINFRAMEWIDTH.string.text
 msgid "Min. frame width"
-msgstr ""
+msgstr "Leithead íosta fráma"
 
 #: svdstr.src#STR_ItemNam_TEXT_MAXFRAMEWIDTH.string.text
 msgid "Max. frame width"
-msgstr ""
+msgstr "Leithead uasta fráma"
 
 #: svdstr.src#STR_ItemNam_TEXT_VERTADJUST.string.text
 msgid ""
@@ -94886,6 +94902,8 @@ msgid ""
 "_: svdstr.src#STR_ItemNam_TEXT_FITTOSIZE.string.text\n"
 "Fit text to frame"
 msgstr ""
+"_: svdstr.src#STR_ItemNam_TEXT_FITTOSIZE.string.text\n"
+"Oiriúnaigh téacs go dtí an fráma"
 
 #: svdstr.src#STR_ItemNam_GRAFRED.string.text
 msgid ""
@@ -94947,7 +94965,7 @@ msgstr "Tréithe éagsúla"
 
 #: svdstr.src#STR_ItemNam_OBJSIZEPROTECT.string.text
 msgid "Size Protection"
-msgstr ""
+msgstr "Cosaint méid"
 
 #: svdstr.src#STR_ItemNam_LAYERID.string.text
 msgid "Layer Indicator"
@@ -94971,7 +94989,7 @@ msgstr "Uillinn tosaigh"
 
 #: svdstr.src#STR_ItemNam_ENDANGLE.string.text
 msgid "Final angle"
-msgstr ""
+msgstr "Uillinn dheireanach"
 
 #: svdstr.src#STR_ItemNam_POSITIONX.string.text
 msgid "X Position"
@@ -94995,7 +95013,7 @@ msgstr "Tréith anaithnid"
 
 #: svdstr.src#SIP_XA_LINEDASH.string.text
 msgid "Line pattern"
-msgstr ""
+msgstr "Patrún líne"
 
 #: svdstr.src#SIP_XA_LINEWIDTH.string.text
 msgid "Line width"
@@ -95003,7 +95021,7 @@ msgstr "Leithead líne"
 
 #: svdstr.src#SIP_XA_LINESTART.string.text
 msgid "Line head"
-msgstr ""
+msgstr "Ceann na líne"
 
 #: svdstr.src#SIP_XA_LINEEND.string.text
 msgid "Line end"
@@ -95011,11 +95029,11 @@ msgstr "Deireadh an líne"
 
 #: svdstr.src#SIP_XA_LINESTARTWIDTH.string.text
 msgid "Line head width"
-msgstr ""
+msgstr "Leithead cinn líne"
 
 #: svdstr.src#SIP_XA_LINEENDWIDTH.string.text
 msgid "Line end width"
-msgstr ""
+msgstr "Leithead deiridh líne"
 
 #: svdstr.src#SIP_XA_LINESTARTCENTER.string.text
 msgid "Center arrowhead"
@@ -95023,7 +95041,7 @@ msgstr "Ceann saighde sa lár"
 
 #: svdstr.src#SIP_XA_LINEENDCENTER.string.text
 msgid "Center arrowend"
-msgstr ""
+msgstr "Lár deiridh saighde"
 
 #: svdstr.src#SIP_XA_LINETRANSPARENCE.string.text
 msgid "Line transparency"
@@ -95031,7 +95049,7 @@ msgstr "Trédhearcacht na líne"
 
 #: svdstr.src#SIP_XA_LINEJOINT.string.text
 msgid "Line joint"
-msgstr ""
+msgstr "Alt líne"
 
 #: svdstr.src#SIP_XA_LINERESERVED2.string.text
 msgid "Line reserved for 2"
@@ -95071,7 +95089,7 @@ msgstr "Haisteáil"
 
 #: svdstr.src#SIP_XA_FILLBITMAP.string.text
 msgid "Fillbitmap"
-msgstr ""
+msgstr "Fillbitmap"
 
 #: svdstr.src#SIP_XA_FILLTRANSPARENCE.string.text
 msgid ""
@@ -95089,15 +95107,15 @@ msgstr "Líon le tíleanna"
 
 #: svdstr.src#SIP_XA_FILLBMP_POS.string.text
 msgid "Fillbitmap position"
-msgstr ""
+msgstr "Ionad Fillbitmap"
 
 #: svdstr.src#SIP_XA_FILLBMP_SIZEX.string.text
 msgid "Fillbitmap width"
-msgstr ""
+msgstr "Leithead Fillbitmap"
 
 #: svdstr.src#SIP_XA_FILLBMP_SIZEY.string.text
 msgid "Height of fillbitmap"
-msgstr ""
+msgstr "Airde fillbitmap"
 
 #: svdstr.src#SIP_XA_FILLFLOATTRANSPARENCE.string.text
 msgid "Transparent gradient"
@@ -95105,19 +95123,19 @@ msgstr "Grádán trédhearcach"
 
 #: svdstr.src#SIP_XA_SECONDARYFILLCOLOR.string.text
 msgid "Fill reserved for 2"
-msgstr ""
+msgstr "Líonadh in áirithe do 2"
 
 #: svdstr.src#SIP_XA_FILLBMP_SIZELOG.string.text
 msgid "Tile size not in %"
-msgstr ""
+msgstr "Ní % é an méid tíle"
 
 #: svdstr.src#SIP_XA_FILLBMP_TILEOFFSETX.string.text
 msgid "Tile offset X in %"
-msgstr ""
+msgstr "Eas-tíliú X mar %"
 
 #: svdstr.src#SIP_XA_FILLBMP_TILEOFFSETY.string.text
 msgid "Tile offset Y in %"
-msgstr ""
+msgstr "Eas-tíliú Y mar %"
 
 #: svdstr.src#SIP_XA_FILLBMP_STRETCH.string.text
 msgid "Bitmap scaling"
@@ -95149,11 +95167,11 @@ msgstr "Mapa giotáin curtha in áirithe do 8"
 
 #: svdstr.src#SIP_XA_FILLBMP_POSOFFSETX.string.text
 msgid "Tile position X in %"
-msgstr ""
+msgstr "Ionad tíle X mar %"
 
 #: svdstr.src#SIP_XA_FILLBMP_POSOFFSETY.string.text
 msgid "Tile position Y in %"
-msgstr ""
+msgstr "Ionad tíle Y mar %"
 
 #: svdstr.src#SIP_XA_FILLBACKGROUND.string.text
 msgid "Background fill"
@@ -95161,15 +95179,15 @@ msgstr "Líonadh an chúlra"
 
 #: svdstr.src#SIP_XA_FILLRESERVED10.string.text
 msgid "Fill reserved for 10"
-msgstr ""
+msgstr "Líonadh in áirithe do 10"
 
 #: svdstr.src#SIP_XA_FILLRESERVED11.string.text
 msgid "Fill reserved for 11"
-msgstr ""
+msgstr "Líonadh in áirithe do 11"
 
 #: svdstr.src#SIP_XA_FILLRESERVED_LAST.string.text
 msgid "Fill reserved for 12"
-msgstr ""
+msgstr "Líonadh in áirithe do 12"
 
 #: svdstr.src#SIP_XATTRSET_FILL.string.text
 msgid "Area attributes"
@@ -95189,7 +95207,7 @@ msgstr "Spásáil Fontwork"
 
 #: svdstr.src#SIP_XA_FORMTXTSTART.string.text
 msgid "Fontwork font begin"
-msgstr ""
+msgstr "Tús cló Fontwork"
 
 #: svdstr.src#SIP_XA_FORMTXTMIRROR.string.text
 msgid "Fontwork mirror"
@@ -95209,11 +95227,11 @@ msgstr "Dath an scátha Fontwork"
 
 #: svdstr.src#SIP_XA_FORMTXTSHDWXVAL.string.text
 msgid "Fontwork shadow offset X"
-msgstr ""
+msgstr "Seach-chur scátha Fontwork X"
 
 #: svdstr.src#SIP_XA_FORMTXTSHDWYVAL.string.text
 msgid "Fontwork shadow offset Y"
-msgstr ""
+msgstr "Seach-chur scátha Fontwork Y"
 
 #: svdstr.src#SIP_XA_FORMTXTSTDFORM.string.text
 msgid "Fontwork default form"
@@ -95225,7 +95243,7 @@ msgstr "Folaigh an imlíne Fontwork"
 
 #: svdstr.src#SIP_XA_FORMTXTSHDWTRANSP.string.text
 msgid "Fontwork shadow transparency"
-msgstr ""
+msgstr "Trédhearcacht scátha Fontwork"
 
 #: svdstr.src#SIP_XA_FTRESERVED2.string.text
 msgid "Fontwork reserved for 2"
@@ -95261,17 +95279,19 @@ msgstr "Dath na scáthanna"
 
 #: svdstr.src#SIP_SA_SHADOWXDIST.string.text
 msgid "Shadow spacing X"
-msgstr ""
+msgstr "Spásáil scátha X"
 
 #: svdstr.src#SIP_SA_SHADOWYDIST.string.text
 msgid "Shadow spacing Y"
-msgstr ""
+msgstr "Spásáil scátha Y"
 
 #: svdstr.src#SIP_SA_SHADOWTRANSPARENCE.string.text
 msgid ""
 "_: svdstr.src#SIP_SA_SHADOWTRANSPARENCE.string.text\n"
 "Shadow transparency"
 msgstr ""
+"_: svdstr.src#SIP_SA_SHADOWTRANSPARENCE.string.text\n"
+"Trédhearcacht scátha"
 
 #: svdstr.src#SIP_SA_SHADOW3D.string.text
 msgid ""
@@ -95291,7 +95311,7 @@ msgstr "Cineál na heochrach eolais"
 
 #: svdstr.src#SIP_SA_CAPTIONFIXEDANGLE.string.text
 msgid "Fixed legend angle"
-msgstr ""
+msgstr "Uillinn eochrach eolais fosaithe"
 
 #: svdstr.src#SIP_SA_CAPTIONANGLE.string.text
 msgid "Legend angle"
@@ -95303,31 +95323,35 @@ msgstr "Spásáil idir línte na heochrach eolais"
 
 #: svdstr.src#SIP_SA_CAPTIONESCDIR.string.text
 msgid "Legend exit alignment"
-msgstr ""
+msgstr "Ailíniú scoir na heochrach eolais"
 
 #: svdstr.src#SIP_SA_CAPTIONESCISREL.string.text
 msgid ""
 "_: svdstr.src#SIP_SA_CAPTIONESCISREL.string.text\n"
 "Relative exit legend"
 msgstr ""
+"_: svdstr.src#SIP_SA_CAPTIONESCISREL.string.text\n"
+"Scor na heochrach eolais coibhneasta"
 
 #: svdstr.src#SIP_SA_CAPTIONESCREL.string.text
 msgid ""
 "_: svdstr.src#SIP_SA_CAPTIONESCREL.string.text\n"
 "Relative exit legend"
 msgstr ""
+"_: svdstr.src#SIP_SA_CAPTIONESCREL.string.text\n"
+"Scor na heochrach eolais coibhneasta"
 
 #: svdstr.src#SIP_SA_CAPTIONESCABS.string.text
 msgid "Absolute exit of legend"
-msgstr ""
+msgstr "Scor na heochrach eolais absalóideach"
 
 #: svdstr.src#SIP_SA_CAPTIONLINELEN.string.text
 msgid "Legend line length"
-msgstr ""
+msgstr "Fad líne na heochrach eolais"
 
 #: svdstr.src#SIP_SA_CAPTIONFITLINELEN.string.text
 msgid "AutoLength of legend lines"
-msgstr ""
+msgstr "Uathfhad línte na heochrach eolais"
 
 #: svdstr.src#SIP_SA_ECKENRADIUS.string.text
 msgid ""
@@ -95348,6 +95372,8 @@ msgid ""
 "_: svdstr.src#SIP_SA_TEXT_FITTOSIZE.string.text\n"
 "Fit text to frame"
 msgstr ""
+"_: svdstr.src#STR_ItemNam_TEXT_FITTOSIZE.string.text\n"
+"Oiriúnaigh téacs go dtí an fráma"
 
 #: svdstr.src#SIP_SA_TEXT_LEFTDIST.string.text
 msgid "Left text frame spacing"
@@ -95359,11 +95385,11 @@ msgstr "Spásáil an fhráma téacs ar dheis"
 
 #: svdstr.src#SIP_SA_TEXT_UPPERDIST.string.text
 msgid "Upper text frame spacing"
-msgstr ""
+msgstr "Spásáil an fhráma téacs uachtair"
 
 #: svdstr.src#SIP_SA_TEXT_LOWERDIST.string.text
 msgid "Lower text frame spacing"
-msgstr ""
+msgstr "Spásáil an fhráma téacs íochtair"
 
 #: svdstr.src#SIP_SA_TEXT_VERTADJUST.string.text
 msgid ""
@@ -95377,11 +95403,11 @@ msgstr "Uasairde an fhráma"
 
 #: svdstr.src#SIP_SA_TEXT_MINFRAMEWIDTH.string.text
 msgid "Minimal frame width"
-msgstr "Íosleithead an fhráma"
+msgstr "Leithead íosta fráma"
 
 #: svdstr.src#SIP_SA_TEXT_MAXFRAMEWIDTH.string.text
 msgid "Maximal frame width"
-msgstr "Uasleithead an fhráma"
+msgstr "Leithead uasta fráma"
 
 #: svdstr.src#SIP_SA_TEXT_AUTOGROWWIDTH.string.text
 msgid "AutoFit width"
@@ -95403,15 +95429,15 @@ msgstr "Treo na teilitéipe"
 
 #: svdstr.src#SIP_SA_TEXT_ANISTARTINSIDE.string.text
 msgid "Ticker start inside"
-msgstr ""
+msgstr "Tús teilitéipe istigh"
 
 #: svdstr.src#SIP_SA_TEXT_ANISTOPINSIDE.string.text
 msgid "Ticker stop inside"
-msgstr ""
+msgstr "Stad teilitéipe istigh"
 
 #: svdstr.src#SIP_SA_TEXT_ANICOUNT.string.text
 msgid "Number of ticker runs"
-msgstr ""
+msgstr "Líon na rití teilitéipe"
 
 #: svdstr.src#SIP_SA_TEXT_ANIDELAY.string.text
 msgid "Speed of ticker"
@@ -95419,11 +95445,11 @@ msgstr "Luas na teilitéipe"
 
 #: svdstr.src#SIP_SA_TEXT_ANIAMOUNT.string.text
 msgid "Ticker step size"
-msgstr ""
+msgstr "Méid na céime teilitéipe"
 
 #: svdstr.src#SIP_SA_TEXT_CONTOURFRAME.string.text
 msgid "Outline text flow"
-msgstr ""
+msgstr "Imlíne sreabh an téacs"
 
 #: svdstr.src#SIP_SA_CUSTOMSHAPE_ADJUSTMENT.string.text
 msgid "Shape Adjustment"
@@ -95435,15 +95461,15 @@ msgstr "Tréithe saincheaptha"
 
 #: svdstr.src#SIP_SA_TEXT_USEFIXEDCELLHEIGHT.string.text
 msgid "Use font-independent line spacing"
-msgstr ""
+msgstr "Úsáid spásáil línte nach mbraitheann ar an gcló"
 
 #: svdstr.src#SIP_SA_WORDWRAP.string.text
 msgid "Word wrap text in shape"
-msgstr ""
+msgstr "Timfhilleadh focal sa chruth"
 
 #: svdstr.src#SIP_SA_AUTOGROWSIZE.string.text
 msgid "Auto grow shape to fit text"
-msgstr ""
+msgstr "Uathfhás an cruth de réir an téacs"
 
 #: svdstr.src#SIP_SA_RESERVE18.string.text
 msgid "SvDraw reserved for 18"
@@ -95459,27 +95485,27 @@ msgstr "Cineál nascóra"
 
 #: svdstr.src#SIP_SA_EDGENODE1HORZDIST.string.text
 msgid "Horz. spacing object 1"
-msgstr ""
+msgstr "Réad spásála cothrománach 1"
 
 #: svdstr.src#SIP_SA_EDGENODE1VERTDIST.string.text
 msgid "Vert. spacing object 1"
-msgstr ""
+msgstr "Réad spásála ingearach 1"
 
 #: svdstr.src#SIP_SA_EDGENODE2HORZDIST.string.text
 msgid "Horz. spacing object 2"
-msgstr ""
+msgstr "Réad spásála cothrománach 2"
 
 #: svdstr.src#SIP_SA_EDGENODE2VERTDIST.string.text
 msgid "Vert. spacing object 2"
-msgstr ""
+msgstr "Réad spásála ingearach 2"
 
 #: svdstr.src#SIP_SA_EDGENODE1GLUEDIST.string.text
 msgid "Glue spacing object 1"
-msgstr ""
+msgstr "Réad spásála gliú 1"
 
 #: svdstr.src#SIP_SA_EDGENODE2GLUEDIST.string.text
 msgid "Glue spacing object 2"
-msgstr ""
+msgstr "Réad spásála gliú 2"
 
 #: svdstr.src#SIP_SA_EDGELINEDELTAANZ.string.text
 msgid "Number of movable lines"
@@ -95487,15 +95513,15 @@ msgstr "Líon na línte inbhogtha"
 
 #: svdstr.src#SIP_SA_EDGELINE1DELTA.string.text
 msgid "Offset line 1"
-msgstr ""
+msgstr "Líne sheach-churtha 1"
 
 #: svdstr.src#SIP_SA_EDGELINE2DELTA.string.text
 msgid "Offset line 2"
-msgstr ""
+msgstr "Líne sheach-churtha 2"
 
 #: svdstr.src#SIP_SA_EDGELINE3DELTA.string.text
 msgid "Offset line 3"
-msgstr ""
+msgstr "Líne sheach-churtha 3"
 
 #: svdstr.src#SIP_SA_MEASUREKIND.string.text
 msgid "Type of dimensioning"
@@ -95511,43 +95537,43 @@ msgstr "Luach toise - ionad ingearach"
 
 #: svdstr.src#SIP_SA_MEASURELINEDIST.string.text
 msgid "Dimension line space"
-msgstr ""
+msgstr "Spáis línte toiseach"
 
 #: svdstr.src#SIP_SA_MEASUREHELPLINEOVERHANG.string.text
 msgid "Dimension help line overhang"
-msgstr ""
+msgstr "Starradh na línte cabhrach toiseach"
 
 #: svdstr.src#SIP_SA_MEASUREHELPLINEDIST.string.text
 msgid "Dimension help line spacing"
-msgstr ""
+msgstr "Spásáil na línte cabhrach toiseach"
 
 #: svdstr.src#SIP_SA_MEASUREHELPLINE1LEN.string.text
 msgid "Backlog of dimension help line 1"
-msgstr ""
+msgstr "Riaráiste na línte cabhrach toiseach 1"
 
 #: svdstr.src#SIP_SA_MEASUREHELPLINE2LEN.string.text
 msgid "Backlog of dimension help line 2"
-msgstr ""
+msgstr "Riaráiste na línte cabhrach toiseach 2"
 
 #: svdstr.src#SIP_SA_MEASUREBELOWREFEDGE.string.text
 msgid "Lower edge dimensioning"
-msgstr ""
+msgstr "Socrú méide an chiumhais íochtair"
 
 #: svdstr.src#SIP_SA_MEASURETEXTROTA90.string.text
 msgid "Dimension value across dimension line"
-msgstr ""
+msgstr "Luach toiseach ar fud na línte toiseach"
 
 #: svdstr.src#SIP_SA_MEASURETEXTUPSIDEDOWN.string.text
 msgid "Rotate dimension value by 180 degree"
-msgstr ""
+msgstr "Rothlaigh an luach toiseach 180 céim"
 
 #: svdstr.src#SIP_SA_MEASUREOVERHANG.string.text
 msgid "Dimension line overhang"
-msgstr ""
+msgstr "Starradh na línte toiseach"
 
 #: svdstr.src#SIP_SA_MEASUREUNIT.string.text
 msgid "Measure unit"
-msgstr ""
+msgstr "Aonad tomhais"
 
 #: svdstr.src#SIP_SA_MEASURESCALE.string.text
 msgid "Additional scale factor"
@@ -95555,39 +95581,39 @@ msgstr "Fachtóir scála sa bhreis"
 
 #: svdstr.src#SIP_SA_MEASURESHOWUNIT.string.text
 msgid "Measure unit display"
-msgstr ""
+msgstr "Taispeáint an aonaid tomhais"
 
 #: svdstr.src#SIP_SA_MEASUREFORMATSTRING.string.text
 msgid "Dimension value format"
-msgstr ""
+msgstr "Formáid an luacha toiseach"
 
 #: svdstr.src#SIP_SA_MEASURETEXTAUTOANGLE.string.text
 msgid "AutoPositioning of the dimension value"
-msgstr ""
+msgstr "Uathshuí an luacha toiseach"
 
 #: svdstr.src#SIP_SA_MEASURETEXTAUTOANGLEVIEW.string.text
 msgid "Angle for the automatic positioning of the dimension value"
-msgstr ""
+msgstr "Uillinn uathshuite an luacha toiseach"
 
 #: svdstr.src#SIP_SA_MEASURETEXTISFIXEDANGLE.string.text
 msgid "Determination of the dimension value angle"
-msgstr ""
+msgstr "Dearbhú luacha na huillinne toiseach"
 
 #: svdstr.src#SIP_SA_MEASURETEXTFIXEDANGLE.string.text
 msgid "Angle of the dimension value"
-msgstr ""
+msgstr "Uillinn an luacha toiseach"
 
 #: svdstr.src#SIP_SA_MEASURERESERVE05.string.text
 msgid "Dimensioning reserved 5"
-msgstr ""
+msgstr "Socrú méide in áirithe 5"
 
 #: svdstr.src#SIP_SA_MEASURERESERVE06.string.text
 msgid "Dimensioning reserved for 6"
-msgstr ""
+msgstr "Socrú méide in áirithe 6"
 
 #: svdstr.src#SIP_SA_MEASURERESERVE07.string.text
 msgid "Dimensioning reserved for 7"
-msgstr ""
+msgstr "Socrú méide in áirithe 7"
 
 #: svdstr.src#SIP_SA_CIRCKIND.string.text
 msgid "Type of circle"
@@ -95601,7 +95627,7 @@ msgstr "Uillinn tosaigh"
 
 #: svdstr.src#SIP_SA_CIRCENDANGLE.string.text
 msgid "End angle"
-msgstr ""
+msgstr "Uillinn deiridh"
 
 #: svdstr.src#SIP_SA_CIRCRESERVE0.string.text
 msgid "Circle reserved for 0"
@@ -95621,11 +95647,11 @@ msgstr "Ciorcal curtha in áirithe do 3"
 
 #: svdstr.src#SIP_SA_OBJMOVEPROTECT.string.text
 msgid "Protected object position"
-msgstr ""
+msgstr "Ionad réada cosanta"
 
 #: svdstr.src#SIP_SA_OBJSIZEPROTECT.string.text
 msgid "Protected object size"
-msgstr ""
+msgstr "Méid réada cosanta"
 
 #: svdstr.src#SIP_SA_OBJPRINTABLE.string.text
 msgid "Object, printable"
@@ -95699,11 +95725,11 @@ msgstr "Bog go hingearach"
 
 #: svdstr.src#SIP_SA_RESIZEXONE.string.text
 msgid "Resize X, single"
-msgstr ""
+msgstr "Athraigh méid X, aonarach"
 
 #: svdstr.src#SIP_SA_RESIZEYONE.string.text
 msgid "Resize Y, single"
-msgstr ""
+msgstr "Athraigh méid Y, aonarach"
 
 #: svdstr.src#SIP_SA_ROTATEONE.string.text
 msgid "Single rotation"
@@ -95719,11 +95745,11 @@ msgstr "Fiar aonair ingearach"
 
 #: svdstr.src#SIP_SA_RESIZEXALL.string.text
 msgid "Resize X, complete"
-msgstr ""
+msgstr "Athraigh méid X, iomlán"
 
 #: svdstr.src#SIP_SA_RESIZEYALL.string.text
 msgid "Resize Y, complete"
-msgstr ""
+msgstr "Athraigh méid Y, iomlán"
 
 #: svdstr.src#SIP_SA_ROTATEALL.string.text
 msgid "Rotate all"
@@ -95765,7 +95791,7 @@ msgstr "Taispeáin urchair"
 
 #: svdstr.src#SIP_EE_PARA_OUTLLRSPACE.string.text
 msgid "Numbering indents"
-msgstr ""
+msgstr "Eangaí uimhrithe"
 
 #: svdstr.src#SIP_EE_PARA_OUTLLEVEL.string.text
 msgid "Numbering level"
@@ -95801,7 +95827,7 @@ msgstr "Trom (tiús)"
 
 #: svdstr.src#SIP_EE_CHAR_SHADOW.string.text
 msgid "Font shadow"
-msgstr ""
+msgstr "Scáthchló"
 
 #: svdstr.src#SIP_EE_CHAR_ESCAPEMENT.string.text
 msgid "Superscript/subscript"
