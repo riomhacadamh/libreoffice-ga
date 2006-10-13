@@ -6056,16 +6056,14 @@ msgid ""
 "_: dbadmin.src#DLG_DATABASE_ADMINISTRATION.tabdialog.text\n"
 "Database properties"
 msgstr ""
-"_: dbadmin.src#DLG_DATABASE_ADMINISTRATION.tabdialog.text\n"
-"Airíonna Bunachar Sonraí"
+"Airíonna bunachar sonraí"
 
 #: dbadmin.src#DLG_DATABASE_TYPE_CHANGE.modaldialog.text
 msgid ""
 "_: dbadmin.src#DLG_DATABASE_TYPE_CHANGE.modaldialog.text\n"
 "Database properties"
 msgstr ""
-"_: dbadmin.src#DLG_DATABASE_TYPE_CHANGE.modaldialog.text\n"
-"Airíonna Bunachar Sonraí"
+"Airíonna bunachar sonraí"
 
 #: dbadmin.src#PAGE_GENERAL.FT_GENERALHEADERTEXT.fixedtext.text
 msgid "Welcome to the %PRODUCTNAME Database Wizard"
@@ -93737,7 +93735,6 @@ msgid ""
 "_: svdstr.src#STR_ObjNamePluralCOMBLINE.string.text\n"
 "Curve objects"
 msgstr ""
-"_: svdstr.src#STR_ObjNamePluralCOMBLINE.string.text\n"
 "Réada cuair"
 
 #: svdstr.src#STR_ObjNameSingulCOMBFILL.string.text
@@ -93751,7 +93748,6 @@ msgid ""
 "_: svdstr.src#STR_ObjNamePluralCOMBFILL.string.text\n"
 "Curve objects"
 msgstr ""
-"_: svdstr.src#STR_ObjNamePluralCOMBFILL.string.text\n"
 "Réada cuair"
 
 #: svdstr.src#STR_ObjNameSingulNATSPLN.string.text
@@ -93795,7 +93791,6 @@ msgid ""
 "_: svdstr.src#STR_ObjNameSingulFITTEXT.string.text\n"
 "Fit-to-size text object"
 msgstr ""
-"_: svdstr.src#STR_ObjNameSingulFITTEXT.string.text\n"
 "Réad téacs líon-an-spás"
 
 #: svdstr.src#STR_ObjNamePluralFITTEXT.string.text
@@ -93803,7 +93798,6 @@ msgid ""
 "_: svdstr.src#STR_ObjNamePluralFITTEXT.string.text\n"
 "Fit-to-size text objects"
 msgstr ""
-"_: svdstr.src#STR_ObjNamePluralFITTEXT.string.text\n"
 "Réada téacs líon-an-spás"
 
 #: svdstr.src#STR_ObjNameSingulFITALLTEXT.string.text
@@ -93811,7 +93805,6 @@ msgid ""
 "_: svdstr.src#STR_ObjNameSingulFITALLTEXT.string.text\n"
 "Fit-to-size text object"
 msgstr ""
-"_: svdstr.src#STR_ObjNameSingulFITALLTEXT.string.text\n"
 "Réad téacs líon-an-spás"
 
 #: svdstr.src#STR_ObjNamePluralFITALLTEXT.string.text
@@ -93819,7 +93812,6 @@ msgid ""
 "_: svdstr.src#STR_ObjNamePluralFITALLTEXT.string.text\n"
 "Fit-to-size text objects"
 msgstr ""
-"_: svdstr.src#STR_ObjNamePluralFITALLTEXT.string.text\n"
 "Réada téacs líon-an-spás"
 
 #: svdstr.src#STR_ObjNameSingulTITLETEXT.string.text
@@ -94746,7 +94738,6 @@ msgid ""
 "_: svdstr.src#STR_ItemValCIRC_CUT.string.text\n"
 "Circle segment"
 msgstr ""
-"_: svdstr.src#STR_ItemValCIRC_CUT.string.text\n"
 "Deighleog Chiorcail"
 
 #: svdstr.src#STR_ItemValCIRC_ARC.string.text
@@ -94780,7 +94771,6 @@ msgid ""
 "_: svdstr.src#STR_ItemNam_SHADOWTRANSPARENCE.string.text\n"
 "Shadow transparency"
 msgstr ""
-"_: svdstr.src#STR_ItemNam_SHADOWTRANSPARENCE.string.text\n"
 "Scáth-thréshoilseán"
 
 #: svdstr.src#STR_ItemNam_SHADOW3D.string.text
@@ -94902,7 +94892,6 @@ msgid ""
 "_: svdstr.src#STR_ItemNam_TEXT_FITTOSIZE.string.text\n"
 "Fit text to frame"
 msgstr ""
-"_: svdstr.src#STR_ItemNam_TEXT_FITTOSIZE.string.text\n"
 "Oiriúnaigh téacs go dtí an fráma"
 
 #: svdstr.src#STR_ItemNam_GRAFRED.string.text
@@ -95290,7 +95279,6 @@ msgid ""
 "_: svdstr.src#SIP_SA_SHADOWTRANSPARENCE.string.text\n"
 "Shadow transparency"
 msgstr ""
-"_: svdstr.src#SIP_SA_SHADOWTRANSPARENCE.string.text\n"
 "Trédhearcacht scátha"
 
 #: svdstr.src#SIP_SA_SHADOW3D.string.text
@@ -95330,7 +95318,6 @@ msgid ""
 "_: svdstr.src#SIP_SA_CAPTIONESCISREL.string.text\n"
 "Relative exit legend"
 msgstr ""
-"_: svdstr.src#SIP_SA_CAPTIONESCISREL.string.text\n"
 "Scor na heochrach eolais coibhneasta"
 
 #: svdstr.src#SIP_SA_CAPTIONESCREL.string.text
@@ -95338,7 +95325,6 @@ msgid ""
 "_: svdstr.src#SIP_SA_CAPTIONESCREL.string.text\n"
 "Relative exit legend"
 msgstr ""
-"_: svdstr.src#SIP_SA_CAPTIONESCREL.string.text\n"
 "Scor na heochrach eolais coibhneasta"
 
 #: svdstr.src#SIP_SA_CAPTIONESCABS.string.text
@@ -95372,7 +95358,6 @@ msgid ""
 "_: svdstr.src#SIP_SA_TEXT_FITTOSIZE.string.text\n"
 "Fit text to frame"
 msgstr ""
-"_: svdstr.src#STR_ItemNam_TEXT_FITTOSIZE.string.text\n"
 "Oiriúnaigh téacs go dtí an fráma"
 
 #: svdstr.src#SIP_SA_TEXT_LEFTDIST.string.text
@@ -99975,7 +99960,6 @@ msgid ""
 "_: mailmergewizard.src#DLG_MAILMERGEWIZARD.ST_ADDRESSBLOCK.string.text\n"
 "Insert address block"
 msgstr ""
-"_: mailmergewizard.src#DLG_MAILMERGEWIZARD.ST_ADDRESSBLOCK.string.text\n"
 "Ionsáigh bloc seoltaí"
 
 #: mailmergewizard.src#DLG_MAILMERGEWIZARD.ST_ADDRESSLIST.string.text
@@ -100013,7 +99997,6 @@ msgid ""
 "_: mmaddressblockpage.src#DLG_MM_ADDRESSBLOCK_PAGE.FI_HEADER.fixedtext.text\n"
 "Insert address block"
 msgstr ""
-"_: mailmergewizard.src#DLG_MAILMERGEWIZARD.ST_ADDRESSBLOCK.string.text\n"
 "Ionsáigh bloc seoltaí"
 
 #: mmaddressblockpage.src#DLG_MM_ADDRESSBLOCK_PAGE.FI_ADDRESSLIST.fixedtext.text
