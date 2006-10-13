@@ -282,7 +282,7 @@ msgstr "Ar mhaith leat an dialóg XX a scriosadh?"
 
 #: basidesh.src#RID_STR_QUERYDELLIB.string.text
 msgid "Do you want to delete the XX library?"
-msgstr "Ar mhaith leat an leabharlann XX a scriosadh"
+msgstr "Ar mhaith leat an leabharlann XX a scriosadh?"
 
 #: basidesh.src#RID_STR_QUERYDELLIBREF.string.text
 msgid "Do you want to delete the reference to the XX library?"
@@ -2247,7 +2247,7 @@ msgstr "Níl aon chnaipe Réamhshocraithe ag ($Arg1)"
 
 #: svtmsg.src#S_BUTTON_ID_NOT_THERE.string.text
 msgid "There is no button with ID ($Arg1) at ($Arg2)"
-msgstr "Níl aon chnaipe \"OK\" ag ($Arg1)"
+msgstr "Níl aon chnaipe le haitheantas ($Arg1) ag ($Arg2)"
 
 #: svtmsg.src#S_BUTTONID_REQUIRED.string.text
 msgid "A button ID needs to be given at ($Arg1)"
@@ -2395,7 +2395,7 @@ msgstr ""
 
 #: ttmsg.src#S_NO_FILES_FOUND.string.text
 msgid "No ($Arg1) files found"
-msgstr "Níor aimsíodh aon chomhad $(Arg1)"
+msgstr "Níor aimsíodh aon chomhad ($Arg1)"
 
 #: ttmsg.src#S_ERRORS_DETECTED.string.text
 msgid "** ($Arg1) errors occurred"
@@ -2552,11 +2552,11 @@ msgstr "Fad mícheart taifid."
 
 #: sb.src#RID_BASIC_START.SbERR_DISK_FULL___ERRCODE_RES_MASK.string.text
 msgid "Disk or hard drive full."
-msgstr "Tá an diosca nó an tiomántán crua lán"
+msgstr "Tá an diosca nó an tiomántán crua lán."
 
 #: sb.src#RID_BASIC_START.SbERR_READ_PAST_EOF___ERRCODE_RES_MASK.string.text
 msgid "Reading exceeds EOF."
-msgstr "Léamh imithe thar dheireadh comhaid"
+msgstr "Léamh imithe thar dheireadh comhaid."
 
 #: sb.src#RID_BASIC_START.SbERR_BAD_RECORD_NUMBER___ERRCODE_RES_MASK.string.text
 msgid "Incorrect record number."
@@ -4452,6 +4452,7 @@ msgstr ""
 "\n"
 "Ní úsáidfear an t-eolas ach chun caighdeán %PRODUCTNAME% a fheabhsú agus ní "
 "roinnfear le haon tríú páirtí é.\n"
+"Chun tuilleadh eolais a fháil maidir le polasaí príobháideachta Sun Microsystems, déan cuairt ar\n"
 
 #: crashrep.ulf#_PRIVACY_URL_.LngText.text
 msgid "http://www.sun.com/privacy/"
@@ -6657,7 +6658,7 @@ msgstr ""
 msgid "Do you want the wizard to register the database in %PRODUCTNAME?"
 msgstr ""
 "An bhfuil tú ag iarraidh ar an draoi an bunachar sonraí a chlárú i %"
-"PRODUCTNAME"
+"PRODUCTNAME?"
 
 #: dbadminsetup.src#PAGE_DBWIZARD_FINAL.RB_REGISTERDATASOURCE.radiobutton.text
 msgid "~Yes, register the database for me"
@@ -6696,14 +6697,13 @@ msgid ""
 "Please contact your system administrator if you are unsure about the "
 "following settings."
 msgstr ""
-"Cuir isteach an t-eolas a theastaíonn chun ceangailt leis an aicme thiománaí "
-"JDBC le do thoil. \n"
-"Téigh i dteagmháil le do riarthóir chórais le do thoil , muna bhfuil tú "
-"lánsásta faoi na freagraí seo a leanas."
+"Cuir isteach an t-eolas a theastaíonn chun ceangailt le bunachar sonraí MySQL le JDBC. Tabhair faoi deara gur gá le haicme thiománaí JDBC a shuiteáil ar do ríomhaire agus a chlárú le %PRODUCTNAME.\n"
+"Téigh i dteagmháil le do riarthóir chórais le do thoil, muna bhfuil tú "
+"lánsásta faoi na socruithe seo a leanas."
 
 #: dbadminsetup.src#PAGE_DBWIZARD_MYSQL_JDBC.STR_MYSQL_DRIVERCLASSTEXT.string.text
 msgid "MySQL JDBC d~river class:"
-msgstr "~Aicme thiománaí JDBC do chuid MySQL"
+msgstr "~Aicme thiománaí JDBC de chuid MySQL"
 
 #: dbadminsetup.src#PAGE_DBWIZARD_MYSQL_JDBC.STR_MYSQL_DEFAULT.string.text
 msgid "Default: 3306"
@@ -6841,7 +6841,7 @@ msgstr "Réamhshocrú: 1521"
 
 #: dbadminsetup.src#PAGE_DBWIZARD_ORACLE.STR_ORACLE_DRIVERCLASSTEXT.string.text
 msgid "Oracle JDBC ~driver class"
-msgstr "~Aicme thiománaí JDBC do chuid Oracle"
+msgstr "~Aicme thiománaí JDBC de chuid Oracle"
 
 #: dbadminsetup.src#PAGE_DBWIZARD_ORACLE.STR_ORACLE_HELPTEXT.string.text
 msgid ""
@@ -6851,8 +6851,8 @@ msgid ""
 "Please contact your system administrator if you are unsure about the "
 "following settings."
 msgstr ""
-"Cuir isteach an t-eolas a theastaíonn chun ceangailt leis an mbunachar "
-"sonraí le do thoil. Bíodh a fhios agat go gcaithfidh aicme thiománaí JDBC a "
+"Cuir isteach an t-eolas a theastaíonn chun ceangailt le bunachar "
+"sonraí Oracle le do thoil. Bíodh a fhios agat go gcaithfidh aicme thiománaí JDBC a "
 "bheidh suiteáilte agus cláraithe le %PRODUCTNAME.\n"
 "Téigh i dteagmháil le do riarthóir chórais muna bhfuil tú lánsásta faoi na "
 "freagraí seo a leanas."
@@ -7065,7 +7065,7 @@ msgid ""
 "Could not load the program library #lib# or it is corrupted. The ODBC data "
 "source configuration is not available."
 msgstr ""
-"Níorbh fhéidir leabharlann ríomhchláir #lib$ a luchtú, nó is truaillithe í. "
+"Níorbh fhéidir leabharlann ríomhchláir #lib# a luchtú, nó is truaillithe í. "
 "Níl aon fháil ar chumraíocht na foinse sonraí ODBC."
 
 #: dsselect.src#DLG_DATASOURCE_SELECTION.modaldialog.text
@@ -7872,7 +7872,7 @@ msgstr "Athdhéan:"
 
 #: dbumiscres.src#STR_UNKNOWN_TYPE_FOUND.string.text
 msgid "No corresponding column type could be found for column '#1'."
-msgstr "Níorbh fhéidir cineál colúin comhfhreagrach a aimsiú do cholún '#1'"
+msgstr "Níorbh fhéidir cineál colúin comhfhreagrach a aimsiú do cholún '#1'."
 
 #: dbumiscres.src#STR_WARNINGS_DURING_CONNECT.string.text
 msgid ""
@@ -9430,7 +9430,7 @@ msgid ""
 msgstr ""
 "Tá siúl againn go dtaithíonn sé leat a bheidh ag obair le %PRODUCTNAME.\n"
 "\n"
-"Leis an draoi a fhágáil, cliceáil ar \"Fág\""
+"Leis an draoi a fhágáil, cliceáil ar \"Críochnaigh\"."
 
 #: setup.ulf#_APP_TITLE_.LngText.text
 msgid "Setup"
@@ -9784,7 +9784,7 @@ msgid ""
 "settings for your data source."
 msgstr ""
 "Le na sonraí seolta i do theimpléid a ionchorprú, teastaíonn uaidh %"
-"PROUCTNAME fios a bheidh aige cé na réimsí ina bhfuil sonraí.\n"
+"PRODUCTNAME fios a bheidh aige cé na réimsí ina bhfuil sonraí.\n"
 "\n"
 "Mar shampla, d'fhéadfadh sé gur chuir tú an seoladh ríomhphost i réimse darb "
 "ainm \"ríomhphost\" nó \"Ríomh-phost\" nó \"RP\" nó rud éigin eile ar fad.\n"
@@ -11103,7 +11103,7 @@ msgstr "Gan fráma;Cuma 3T;ar an réidh"
 
 #: formres.src#RID_STR_LISTSOURCE_TYPE.string.text
 msgid "Valuelist;Table;Query;Sql;Sql [Native];Tablefields"
-msgstr "Luachliosta;Tábla;Iarratas;Sql;Sql;[Native];Réimsítábla"
+msgstr "Luachliosta;Tábla;Iarratas;Sql;Sql [Dúchasach];Réimsítábla"
 
 #: formres.src#RID_STR_ALIGNMENT.string.text
 msgid "Left;Center;Right"
@@ -12742,7 +12742,7 @@ msgstr "scagaire gan sainmhíniú"
 
 #: xmlfilterdialogstrings.src#STR_FILTER_HAS_BEEN_SAVED.string.text
 msgid "The XML filter '%s' has been saved as package '%s'. "
-msgstr "Sábháladh scagaire XML '%s' mar phacáiste '%s. "
+msgstr "Sábháladh scagaire XML '%s' mar phacáiste '%s'. "
 
 #: xmlfilterdialogstrings.src#STR_FILTERS_HAVE_BEEN_SAVED.string.text
 msgid "%s XML filters have been saved in the package '%s'."
@@ -13148,7 +13148,7 @@ msgstr "Ní mór an luach a bheith níos lú ná $2."
 
 #: xforms.src#RID_STR_XFORMS_VALUE_MIN_INCL.string.text
 msgid "The value must be greater than or equal to $2."
-msgstr "Ní mór an luach a bheith níos mó ná, nó cothrom le $2"
+msgstr "Ní mór an luach a bheith níos mó ná, nó cothrom le $2."
 
 #: xforms.src#RID_STR_XFORMS_VALUE_MIN_EXCL.string.text
 msgid "The value must be greater than $2."
@@ -17168,7 +17168,7 @@ msgid ""
 "This feature, and all subfeatures, will be installed to run from the CD."
 msgstr ""
 "Déanfar an sainghné seo agus a chuid fo-shainghnéithe a shuiteáil le "
-"ritheacht ón dlúthdhiosca."
+"rith ón dlúthdhiosca."
 
 #: UIText.ulf#OOO_UITEXT_8.LngText.text
 msgid ""
@@ -17182,13 +17182,13 @@ msgid ""
 "This feature, and all subfeatures, will be installed to run from the network."
 msgstr ""
 "Déanfar an sainghné seo agus a chuid fo-shainghnéithe a shuiteáil le "
-"ritheacht ón líonra."
+"rith ón líonra."
 
 #: UIText.ulf#OOO_UITEXT_10.LngText.text
 msgid ""
 "_: UIText.ulf#OOO_UITEXT_10.LngText.text\n"
 "This feature will be installed to run from CD."
-msgstr "Déanfar an sainghné seo a shuiteáil le ritheacht ón dlúthdhiosca."
+msgstr "Déanfar an sainghné seo a shuiteáil le rith ón dlúthdhiosca."
 
 #: UIText.ulf#OOO_UITEXT_11.LngText.text
 msgid "This feature will be installed on local hard drive."
@@ -17196,7 +17196,7 @@ msgstr "Suiteálfar an ghné seo ar an diosca crua logánta."
 
 #: UIText.ulf#OOO_UITEXT_12.LngText.text
 msgid "This feature will be installed to run from network."
-msgstr "Déanfar an sainghné seo a shuiteáil le ritheacht ón líonra."
+msgstr "Déanfar an sainghné seo a shuiteáil le rith ón líonra."
 
 #: UIText.ulf#OOO_UITEXT_13.LngText.text
 msgid "Fldr|New Folder"
@@ -17214,7 +17214,7 @@ msgstr "Déanfar an sainghné seo a shuiteáil nuair atá gá leis."
 msgid ""
 "_: UIText.ulf#OOO_UITEXT_16.LngText.text\n"
 "This feature will be installed to run from CD."
-msgstr "Déanfar an sainghné seo a shuiteáil le ritheacht ón dlúthdhiosca."
+msgstr "Déanfar an sainghné seo a shuiteáil le rith ón dlúthdhiosca."
 
 #: UIText.ulf#OOO_UITEXT_17.LngText.text
 msgid "This feature will be installed on the local hard drive."
@@ -17222,7 +17222,7 @@ msgstr "Suiteálfar an ghné seo ar an diosca crua logánta."
 
 #: UIText.ulf#OOO_UITEXT_18.LngText.text
 msgid "This feature will be installed to run from the network."
-msgstr "Déanfar an sainghné seo a shuiteáil le ritheacht ón líonra."
+msgstr "Déanfar an sainghné seo a shuiteáil le rith ón líonra."
 
 #: UIText.ulf#OOO_UITEXT_19.LngText.text
 msgid "This feature will become unavailable."
@@ -17242,14 +17242,14 @@ msgstr "Suiteálfar an ghné seo ar do dhiosca crua logánta."
 
 #: UIText.ulf#OOO_UITEXT_23.LngText.text
 msgid "This feature will be available to run from the network."
-msgstr "Beidh an sainghné seo ar fáil le ritheacht ón líonra."
+msgstr "Beidh an sainghné seo ar fáil le rith ón líonra."
 
 #: UIText.ulf#OOO_UITEXT_24.LngText.text
 msgid ""
 "This feature will be uninstalled completely, and you won't be able to run it "
 "from CD."
 msgstr ""
-"Scriosfar an sainghné seo ina iomlán agus ní bheidh tú ábalta é a ritheacht "
+"Scriosfar an sainghné seo ina iomlán agus ní bheidh tú ábalta é a rith "
 "ón dlúthdhiosca."
 
 #: UIText.ulf#OOO_UITEXT_25.LngText.text
@@ -17257,19 +17257,19 @@ msgid ""
 "This feature was run from the CD but will be set to be installed when "
 "required."
 msgstr ""
-"Bhí an sainghné seo ag ritheacht ón dlúthdhiosca ach anois beidh sé "
+"Bhí an sainghné seo ag rith ón dlúthdhiosca ach anois beidh sé "
 "socraithe le suiteáil nuair atá gá leis."
 
 #: UIText.ulf#OOO_UITEXT_26.LngText.text
 msgid "This feature will continue to be run from the CD"
-msgstr "Coinneoidh an sainghné seo ag ritheacht ón dlúthdhiosca"
+msgstr "Coinneoidh an sainghné seo ag rith ón dlúthdhiosca"
 
 #: UIText.ulf#OOO_UITEXT_27.LngText.text
 msgid ""
 "This feature was run from the CD but will be installed on the local hard "
 "drive."
 msgstr ""
-"Bhí an sainghné seo ag ritheacht ón dlúthdhiosca ach anois beidh sé "
+"Bhí an sainghné seo ag rith ón dlúthdhiosca ach anois beidh sé "
 "socraithe le suiteáil ar an diosca crua logánta."
 
 #: UIText.ulf#OOO_UITEXT_28.LngText.text
@@ -17302,7 +17302,7 @@ msgid ""
 "available to run from CD."
 msgstr ""
 "Scriosfar an sainghné seo ó do dhiosca crua ach beidh tú ábalta é a "
-"ritheacht ón dlúthdhiosca."
+"rith ón dlúthdhiosca."
 
 #: UIText.ulf#OOO_UITEXT_34.LngText.text
 msgid "This feature will remain on your local hard drive."
@@ -17314,7 +17314,7 @@ msgid ""
 "available to run from the network."
 msgstr ""
 "Scriosfar an sainghné seo ó do dhiosca crua ach beidh tú ábalta é a "
-"ritheacht ón líon."
+"rith ón líon."
 
 #: UIText.ulf#OOO_UITEXT_36.LngText.text
 msgid ""
@@ -17322,13 +17322,13 @@ msgid ""
 "from the network."
 msgstr ""
 "Scriosfar an sainghné seo ina iomlán ó do dhiosca crua agus ní bheidh tú "
-"ábalta é a ritheacht ón líonra."
+"ábalta é a rith ón líonra."
 
 #: UIText.ulf#OOO_UITEXT_37.LngText.text
 msgid ""
 "This feature was run from the network but will be installed when required."
 msgstr ""
-"Bhí an sainghné seo ag ritheacht ón líonra ach anois beidh sé socraithe le "
+"Bhí an sainghné seo ag rith ón líonra ach anois beidh sé socraithe le "
 "suiteáil nuair atá gá leis."
 
 #: UIText.ulf#OOO_UITEXT_38.LngText.text
@@ -17336,12 +17336,12 @@ msgid ""
 "This feature was run from the network but will be installed on the local "
 "hard drive."
 msgstr ""
-"Bhí an sainghné seo ag ritheacht ón líonra ach anois déanfar é a shuiteáil "
+"Bhí an sainghné seo ag rith ón líonra ach anois déanfar é a shuiteáil "
 "ar an diosca crua logánta."
 
 #: UIText.ulf#OOO_UITEXT_39.LngText.text
 msgid "This feature will continue to be run from the network"
-msgstr "Beidh an sainghné seo fós ag ritheacht ón líonra"
+msgstr "Beidh an sainghné seo fós ag rith ón líonra"
 
 #: UIText.ulf#OOO_UITEXT_40.LngText.text
 msgid ""
@@ -24631,7 +24631,7 @@ msgstr "A Uasail <2>,"
 #: Writer.xcu#..Writer.MailMergeWizard.NeutralGreetingLines.value.text
 msgid "To whom it may concern,;Dear Friends,;Dear Sir or Madam,;Hello,"
 msgstr ""
-"Dóibh siúd lena mbaineann,A Chairde,;A dhuine uasail nó a bhean uasal,;Dia "
+"Dóibh siúd lena mbaineann,;A Chairde,;A dhuine uasail nó a bhean uasal,;Dia "
 "duit,"
 
 #: Writer.xcu#..Writer.Insert.Caption.WriterObject.Table.Settings.CaptionText.value.text
@@ -31031,7 +31031,7 @@ msgid ""
 "_: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_SaveAs."
 "Label.value.text\n"
 "Save ~As..."
-msgstr "Sábháil ~Mar"
+msgstr "Sábháil ~Mar..."
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_CloseDoc.Label.value.text
 msgid ""
@@ -31306,7 +31306,7 @@ msgstr "Ísligh"
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_Organizer.Label.value.text
 #: globlmn_tmpl.hrc#ITEM_FILE_DOCTEMPLATE.SID_ORGANIZER.menuitem.text
 msgid "~Organize..."
-msgstr "~Eagraigh"
+msgstr "~Eagraigh..."
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_OutlineFormat.Label.value.text
 msgid "Formatting On/Off"
@@ -32768,7 +32768,7 @@ msgstr "Téacs -> Taifead"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_RecTotal.Label.value.text
 msgid "Total No. of Records"
-msgstr "Líon na dTaifead"
+msgstr "Líon Iomlán na dTaifead"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_RecSave.Label.value.text
 #: gridctrl.src#RID_SVXMNU_ROWS.SID_FM_RECORD_SAVE.menuitem.text
@@ -33875,7 +33875,7 @@ msgid ""
 "_: StartModuleCommands.xcu#..StartModuleCommands.UserInterface.Commands.."
 "uno_SaveAs.Label.value.text\n"
 "Save ~As..."
-msgstr "Sábháil ~Mar"
+msgstr "Sábháil ~Mar..."
 
 #: StartModuleCommands.xcu#..StartModuleCommands.UserInterface.Commands..uno_SendMail.Label.value.text
 msgid ""
@@ -37281,7 +37281,7 @@ msgstr "Comhadlann na dT~iománaithe"
 
 #: padialog.src#RID_PPDIMPORT_DLG.RID_PPDIMP_TXT_PATH.fixedtext.text
 msgid "Please select the driver directory."
-msgstr "Roghnaigh comhadlann na dtiománaithe"
+msgstr "Roghnaigh comhadlann na dtiománaithe."
 
 #: padialog.src#RID_PPDIMPORT_DLG.RID_PPDIMP_GROUP_DRIVER.fixedline.text
 msgid "~Selection of drivers"
@@ -38171,7 +38171,7 @@ msgid ""
 "tools) via Java accessibility support"
 msgstr ""
 "Gnome 2.6 nó níos déanaí de dhíth chun tacú le huirlisí teicneolaíochta "
-"cúnta trí thacaíocht inrochtaineachta Java "
+"cúnta (uirlisí AT) trí thacaíocht inrochtaineachta Java "
 
 #: readme.xrm#ooo_readme.Installation.Sols2.n4234rw.readmeitem.text
 msgid ""
@@ -38789,8 +38789,8 @@ msgid ""
 "Portions Copyright 1998, 1999 James Clark. Portions Copyright 1996, 1998 "
 "Netscape Communications Corporation."
 msgstr ""
-"Cuid Cóipcheart 1998, 1999 James Clark. Cuid Cóipcheart 1996, 1998 Netscape "
-"Communications Corporation."
+"Portions Copyright 1998, 1999 James Clark. Portions Copyright 1996, 1998 "
+"Netscape Communications Corporation."
 
 #: readme.xrm#ooo_readme.GettingInvolved.A1.a.readmeitem.text
 msgid "Getting Involved "
@@ -45977,7 +45977,7 @@ msgstr ""
 
 #: module_javafilter.ulf#STR_DESC_MODULE_OPTIONAL_JAVAFILTER_POCKETPC_UNIX.LngText.text
 msgid "Filters for Pocket PC compatible handhelds."
-msgstr "Scagairí do ríomhairí boise comhoiriúnach do Pocket PC"
+msgstr "Scagairí do ríomhairí boise comhoiriúnach do Pocket PC."
 
 #: module_javafilter.ulf#STR_NAME_MODULE_OPTIONAL_JAVAFILTER_POCKETPC_POCKET_WORD.LngText.text
 msgid ""
@@ -46057,7 +46057,7 @@ msgstr "Modúl Theangan Bhéarla (SAM) "
 
 #: module_lingu.ulf#STR_DESC_MODULE_OPTIONAL_OO_ENGLISH.LngText.text
 msgid "Installs the English (US) language module."
-msgstr "Suiteálann seo an Modúl Theangan Bhéarla (SAM)"
+msgstr "Suiteálann seo an Modúl Theangan Bhéarla (SAM)."
 
 #: folderitem_math.ulf#STR_FI_TOOLTIP_MATH.LngText.text
 #: launcher_comment.ulf#math.LngText.text
@@ -46356,7 +46356,7 @@ msgstr "NEG"
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_PI.string.text
 #: symbol.src#RID_UI_SYMBOL_NAMES.32.itemlist.text
 msgid "PI"
-msgstr "PÍ"
+msgstr "PI"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_RANDOM.string.text
 msgid "RAND"
@@ -70527,7 +70527,7 @@ msgstr ""
 #: globlmn_tmpl.hrc#ITEM_FILE_SAVEASDOC.#define.text
 #: outline.src#DLG_TAB_OUTLINE.MN_FORM.MN_SAVE.menuitem.text
 msgid "Save ~As..."
-msgstr "Sábháil ~Mar"
+msgstr "Sábháil ~Mar..."
 
 #: doc.src#STR_WIZARD.string.text
 msgid " AutoPilot"
@@ -102057,6 +102057,7 @@ msgid ""
 "~Close"
 msgstr "~Dún"
 
+# I think this is right, not "B.S. Exchange"
 #: changedb.src#DLG_CHANGE_DB.modaldialog.text
 msgid "Exchange Databases"
 msgstr "Malartaigh Bunachair Shonraí"
