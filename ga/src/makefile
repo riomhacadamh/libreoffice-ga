@@ -14,9 +14,10 @@
 #    and give current translation counts, version number in log entry
 # $ make   (rebuilds GSI and copies it to obair for Pavel's system)
 
-VERSION=SRC680_m185
+VERSION=SRC680_m187
 
 all : OOo-$(VERSION)-ga-GSI.sdf
+	${HOME}/seal/gsicheck/gsicheck -c -l ga OOo-$(VERSION)-ga-GSI.sdf
 	bzip2 OOo-$(VERSION)-ga-GSI.sdf
 	cp -f OOo-$(VERSION)-ga-GSI.sdf.bz2 ${HOME}/public_html/obair/GSI_ga.sdf.bz2
 	bunzip2 OOo-$(VERSION)-ga-GSI.sdf.bz2
