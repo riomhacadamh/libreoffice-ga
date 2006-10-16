@@ -4118,7 +4118,7 @@ msgstr "~Uirlisí"
 #: ChartCommands.xcu#..ChartCommands.UserInterface.Commands..uno_DiagramObjects.Label.value.text
 #: menuids_tmpl.src#MN_DIAGRAM_OBJECTS.SID_DIAGRAM_OBJECTS.menuitem.text
 msgid "~Object Properties..."
-msgstr "~Airíonna..."
+msgstr "~Airíonna an Réada..."
 
 #: MenuItems_tmpl.hrc#MN_CHART_TITLE.SID_CHART_TITLE.SID_DIAGRAM_TITLE_MAIN.menuitem.text
 #: menuids_tmpl.src#MN_CHART_TITLE.SID_CHART_TITLE.SID_DIAGRAM_TITLE_MAIN.menuitem.text
@@ -6609,8 +6609,8 @@ msgid ""
 msgstr ""
 "Is féidir leat ceangailt a dhéanamh le bunachar sonraí MySQL ag úsáid ODBC "
 "nó JDBC. \n"
-"Téigh i dteagmháil le do riarthóir chórais le do thoil , muna bhfuil tú "
-"lánsásta faoi na freagraí seo a leanas."
+"Téigh i dteagmháil le riarthóir do chórais le do thoil , muna bhfuil tú "
+"lánsásta faoi na socruithe seo a leanas."
 
 #: dbadminsetup.src#PAGE_DBWIZARD_MYSQL_INTRO.FT_MYSQLCONNECTIONMODE.fixedtext.text
 msgid "How do you want to connect to your MySQL database?"
@@ -6700,12 +6700,12 @@ msgstr ""
 "Cuir isteach an t-eolas a theastaíonn chun ceangailt le bunachar sonraí "
 "MySQL le JDBC. Tabhair faoi deara gur gá le haicme thiománaí JDBC a "
 "shuiteáil ar do ríomhaire agus a chlárú le %PRODUCTNAME.\n"
-"Téigh i dteagmháil le do riarthóir chórais le do thoil, muna bhfuil tú "
+"Téigh i dteagmháil le riarthóir do chórais le do thoil, muna bhfuil tú "
 "lánsásta faoi na socruithe seo a leanas."
 
 #: dbadminsetup.src#PAGE_DBWIZARD_MYSQL_JDBC.STR_MYSQL_DRIVERCLASSTEXT.string.text
 msgid "MySQL JDBC d~river class:"
-msgstr "~Aicme thiománaí JDBC de chuid MySQL"
+msgstr "~Aicme thiománaí JDBC de chuid MySQL:"
 
 #: dbadminsetup.src#PAGE_DBWIZARD_MYSQL_JDBC.STR_MYSQL_DEFAULT.string.text
 msgid "Default: 3306"
@@ -6757,8 +6757,8 @@ msgid ""
 msgstr ""
 "Cuir isteach an t-eolas a theastaíonn chun ceangailt leis an eolaire LDAP le "
 "do thoil. \n"
-"Téigh i dteagmháil le do riarthóir chórais le do thoil , muna bhfuil tú "
-"lánsásta faoi na freagraí seo a leanas."
+"Téigh i dteagmháil le riarthóir do chórais le do thoil , muna bhfuil tú "
+"lánsásta faoi na socruithe seo a leanas."
 
 #: dbadminsetup.src#PAGE_DBWIZARD_LDAP.STR_LDAP_DEFAULT.string.text
 msgid "Default: 389"
@@ -6796,8 +6796,8 @@ msgid ""
 msgstr ""
 "Cuir isteach URL na foinse sonraí ADO atá uait ceangailt a dhéanamh leis.\n"
 "Cliceáil ar 'Brabhsáil' le socraithe árthid soláthara \n"
-"Téigh i dteagmháil le do riarthóir chórais le do thoil , muna bhfuil tú "
-"lánsásta faoi na freagraí seo a leanas."
+"Téigh i dteagmháil le riarthóir do chórais le do thoil, muna bhfuil tú "
+"lánsásta faoi na socruithe seo a leanas."
 
 #: dbadminsetup.src#PAGE_DBWIZARD_ODBC.STR_ODBC_HEADERTEXT.string.text
 msgid "Set up a connection to an ODBC database"
@@ -6813,10 +6813,10 @@ msgid ""
 msgstr ""
 "Cuir isteach ainm an bhunachair sonraí ODBC atá uait ceangailt a dhéanamh "
 "leis.\n"
-"Cliceáil ar 'Brabhsáil' le bunachar sonraí ODBC atá cláraithe i %"
-"PRODUCTNAME. a phiocadh\n"
-"Téigh i dteagmháil le do riarthóir chórais le do thoil , muna bhfuil tú "
-"lánsásta faoi na freagraí seo a leanas."
+"Cliceáil ar 'Brabhsáil...' le bunachar sonraí ODBC atá cláraithe i %"
+"PRODUCTNAME a roghnú.\n"
+"Téigh i dteagmháil le riarthóir do chórais le do thoil, muna bhfuil tú "
+"lánsásta faoi na socruithe seo a leanas."
 
 #: dbadminsetup.src#PAGE_DBWIZARD_JDBC.STR_JDBC_HEADERTEXT.string.text
 msgid "Set up a connection to a JDBC database"
@@ -6830,8 +6830,8 @@ msgid ""
 msgstr ""
 "Cuir isteach an t-eolas a theastaíonn chun ceangailt leis an tiománaí ranga "
 "JDBC le do thoil. \n"
-"Téigh i dteagmháil le do riarthóir chórais le do thoil , muna bhfuil tú "
-"lánsásta faoi na freagraí seo a leanas."
+"Téigh i dteagmháil le riarthóir do chórais le do thoil, muna bhfuil tú "
+"lánsásta faoi na socruithe seo a leanas."
 
 #: dbadminsetup.src#PAGE_DBWIZARD_ORACLE.STR_ORACLE_HEADERTEXT.string.text
 msgid "Set up a connection to an Oracle database"
@@ -6856,8 +6856,8 @@ msgstr ""
 "Cuir isteach an t-eolas a theastaíonn chun ceangailt le bunachar sonraí "
 "Oracle le do thoil. Bíodh a fhios agat go gcaithfidh aicme thiománaí JDBC a "
 "bheidh suiteáilte agus cláraithe le %PRODUCTNAME.\n"
-"Téigh i dteagmháil le do riarthóir chórais muna bhfuil tú lánsásta faoi na "
-"freagraí seo a leanas."
+"Téigh i dteagmháil le riarthóir do chórais muna bhfuil tú lánsásta faoi na "
+"socruithe seo a leanas."
 
 #: dbadminsetup.src#PAGE_DBWIZARD_SPREADSHEET.STR_SPREADSHEET_HEADERTEXT.string.text
 msgid "Set up a connection to spreadsheets"
@@ -9326,7 +9326,7 @@ msgstr ""
 "Déanadh an draoi seo treorú duit tríd an gcomhaontú ceadúnais agus clárú %"
 "PRODUCTNAME.\n"
 "\n"
-"Cliceáil ar \"Ar Aghaidh\" le dul chun cinn"
+"Cliceáil ar \"Ar Aghaidh\" le dul chun cinn."
 
 #: wizard.src#TP_LICENSE.FT_LICENSE_HEADER.fixedtext.text
 msgid "Please follow these steps to accept the license"
@@ -56776,7 +56776,7 @@ msgstr "Luach dearfach le fréamh chearnach le háireamh aige."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_RANDOM.1.string.text
 msgid "Returns a random number between 0 and 1."
-msgstr "ais-seol uimhir randamach idir 0 agus 1"
+msgstr "Aisfhilleann sé uimhir randamach idir 0 agus 1."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_IS_EVEN.1.string.text
 msgid "Returns TRUE if value is an even integer."
@@ -62003,6 +62003,7 @@ msgid ""
 msgstr ""
 "D'aimsigh %PRODUCTNAME Calc earráid san fhoirmle a iontráladh.\n"
 "Ar mhaith leat glacadh leis an gceartúchán molta thíos?\n"
+"\n"
 
 #: scstring.src#SCSTR_GRFILTER_OPENERROR.string.text
 msgid "Graphics file can not be opened"
@@ -65002,7 +65003,7 @@ msgid ""
 "You can change the selected bitmap \\or add a new one."
 msgstr ""
 "Mionathraíodh an mapa giotáin gan sábháil. \n"
-"Is féidir leat an mapa giotáin roghnaithe \\a athrú nó ceann nua a chur leis."
+"Is féidir leat an mapa giotáin roghnaithe a athrú \\nó ceann nua a chur leis."
 
 #: sdstring.src#STR_LINESTYLE.string.text
 #: tabline.src#RID_SVXPAGE_LINE_DEF.FT_LINESTYLE.fixedtext.text
@@ -66806,11 +66807,11 @@ msgstr "Sleamhnán le Clár na nÁbhar"
 
 #: strings.src#STR_ASK_GALLERY_INSERT.string.text
 msgid "Do you want to add the sound to the Gallery?"
-msgstr "Ar mhaith leat an fhuaim a chur leis an nGailearaí"
+msgstr "Ar mhaith leat an fhuaim a chur leis an nGailearaí?"
 
 #: strings.src#STR_TWAIN_NO_SOURCE_UNX.string.text
 msgid "No SANE source is available at the moment."
-msgstr ""
+msgstr "Faoi láthair, níl aon fhoinse SANE ar fáil."
 
 #: strings.src#STR_TWAIN_NO_SOURCE.string.text
 msgid "At present, no TWAIN source is available."
@@ -66904,7 +66905,7 @@ msgstr "Díghrúpáil Meiteachomha(i)d..."
 
 #: strings.src#STR_BREAK_FAIL.string.text
 msgid "It was not possible to ungroup all drawing objects."
-msgstr "Níorbh fhéidir gach réad líníochta a dhíghrúpáil"
+msgstr "Níorbh fhéidir gach réad líníochta a dhíghrúpáil."
 
 #: strings.src#STR_PUBDLG_SAMENAME.string.text
 msgid ""
@@ -68998,7 +68999,7 @@ msgstr "Earráid agus an córas réada á thúsú."
 
 #: app.src#MSG_IOERR_FILE_NOT_FOUND.string.text
 msgid "The file $(FILE) doesn't exist."
-msgstr "Níl an comhad $(FILE) ann"
+msgstr "Níl comhad $(FILE) ann."
 
 #: app.src#MSG_IOERR_PATH_NOT_FOUND.string.text
 msgid "The path to file $(FILE) doesn't exist."
@@ -69808,7 +69809,7 @@ msgid ""
 "This Style cannot be used as a base Style,\n"
 "because it would result in a recursive reference."
 msgstr ""
-"Ní féidir an stíl seo a úsáid mar bhunstíl\n"
+"Ní féidir an stíl seo a úsáid mar bhunstíl,\n"
 "toisc go mbeadh tagairt athchúrsach ann."
 
 #: dialog.src#MSG_POOL_STYLE_NAME.infobox.text
@@ -70290,7 +70291,8 @@ msgid ""
 msgstr ""
 "Tá réada trédhearcacha i do cháipéis.\n"
 "D'fhéadfadh sé go mbeadh moill ar am priontála ar\n"
-"phrintéirí áirithe. An ceart an gné thrédhearcach a laghdú?"
+"phrintéirí áirithe. An ceart an gné thrédhearcach\n"
+"a laghdú?"
 
 #: printopt.src#RID_WARN_PRINTTRANSPARENCY.BTN_PRINTTRANS_YES.okbutton.text
 msgid ""
@@ -75553,8 +75555,8 @@ msgid ""
 "The object cannot be accessed\n"
 "due to insufficient user rights."
 msgstr ""
-"Ní féidir an réad a rochtain.\n"
-"Níl go leor ceadanna agat."
+"Ní féidir an réad a rochtain\n"
+"toisc nach bhfuil go leor ceadanna agat."
 
 #: errtxt.src#RID_ERRHDL.ERRCODE_IO_LOCKVIOLATION.string.text
 msgid "Sharing violation while accessing the object."
@@ -79420,14 +79422,16 @@ msgid ""
 msgstr ""
 "Bailíonn an uirlis tuairisc earráide seo eolas faoin gcaoi a bhfuil %"
 "PRODUCTNAME ag feidhmiú agus seolann go Sun Microsystems é mar chabhair chun "
-"leagain úire a fheabhsú. \\n\n"
+"leagain úire a fheabhsú.\n"
+"\n"
 "Tá sé éasca - cuir an tuairisc ar aghaidh gan aon iarracht eile trí "
-"ghliogáil ar 'Seol' sa chéad dialóg eile, nó tig leag cur síos gearr a "
-"dhéanamh ar an dóigh ar tharla an earráid agus 'Seol' a ghliogáil ansin. Más "
-"mian leat an tuairisc a fheiceáil, gliogáil ar an gcnaipe 'Taispeáin "
-"Tuairisc'. Ní chuirfear sonraí ar bith má ghliogálann tú 'Ná Seol'\n"
+"chliceáil ar 'Seol' sa chéad dialóg eile, nó tig leag cur síos gearr a "
+"dhéanamh ar an dóigh ar tharla an earráid agus 'Seol' a chliceáil ansin. Más "
+"mian leat an tuairisc a fheiceáil, cliceáil ar an gcnaipe 'Taispeáin "
+"Tuairisc'. Ní chuirfear sonraí ar bith má chliceálann tú 'Ná Seol'\n"
+"\n"
 "Is chun caighdeán %PRODUCTNAME a fheabhsú amháin a úsáidfear an t-eolas seo "
-"agus ní thabharfar é do thríú páirtí ar bith.Tá breis eolais faoi pholasasí "
+"agus ní thabharfar é do thríú páirtí ar bith.  Tá breis eolais faoi pholasaí "
 "príobháideachta Sun Microsystems ar fáil ag \n"
 "http://www.sun.com/privacy/"
 
@@ -83157,7 +83161,7 @@ msgstr "Paraiméadair thosaigh sa~nnta"
 
 #: optjava.src#RID_SVXDLG_JAVA_PARAMETER.FT_EXAMPLE.fixedtext.text
 msgid "For example: -Dmyprop=c:\\program files\\java"
-msgstr "Mar shampla: -Dmyprop=c:\\cláir\\java"
+msgstr "Mar shampla: -Dmyprop=c:\\program files\\java"
 
 #: optjava.src#RID_SVXDLG_JAVA_PARAMETER.PB_REMOVE.pushbutton.text
 msgid ""
@@ -84467,7 +84471,7 @@ msgstr "Tharla earráid agus an script %LANGUAGENAME \"%SCRIPTNAME\" á rith."
 #: scriptdlg.src#RID_SVXSTR_EXCEPTION_RUNNING.string.text
 msgid ""
 "An exception occurred while running the %LANGUAGENAME script %SCRIPTNAME."
-msgstr "Tharla eisceacht agus an script %LANGUAGENAME \"%SCRIPTNAME\" á rith"
+msgstr "Tharla eisceacht agus an script %LANGUAGENAME \"%SCRIPTNAME\" á rith."
 
 #: scriptdlg.src#RID_SVXSTR_ERROR_AT_LINE.string.text
 msgid ""
@@ -84605,7 +84609,7 @@ msgid ""
 "Modify the selected hatching type or add a new hatching type."
 msgstr ""
 "Athraíodh cineál na haisteála gan sábháil. \n"
-"Athraigh an cineál roghnaithe haisteála, nó cruthaigh cineál nua?"
+"Athraigh an cineál roghnaithe haisteála, nó cruthaigh cineál nua."
 
 #: sdstring.src#RID_SVXSTR_CHANGE.string.text
 msgid ""
@@ -88519,7 +88523,7 @@ msgstr "Iarthar na hEorpa (ISO-8859-1)"
 
 #: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_ISO_8859_2.pairedlist.text
 msgid "Eastern Europe (ISO-8859-2)"
-msgstr "Oirthear na hEorpa (ISO-8859-2"
+msgstr "Oirthear na hEorpa (ISO-8859-2)"
 
 #: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_ISO_8859_3.pairedlist.text
 msgid "Latin 3 (ISO-8859-3)"
@@ -90964,7 +90968,7 @@ msgid ""
 "OpenOffice.org acknowledges all community members, especially those "
 "mentioned at http://www.openoffice.org/welcome/credits.html."
 msgstr ""
-"Cóipcheart 2000-2006 Sun Microsystems Inc.\n"
+"Copyright 2000-2006 Sun Microsystems Inc.\n"
 "Chruthaigh \\\" OOO_VENDOR \\\" an táirge seo, bunaithe ar OpenOffice.org.\n"
 "Aithníonn OpenOffice.org an comhphobal ar fad, ach go háirithe na daoine atá "
 "luaite ag http://www.openoffice.org/welcome/credits.html."
@@ -98940,7 +98944,7 @@ msgstr ""
 
 #: mailconfigpage.src#DLG_MM_SERVERAUTHENTICATION.CB_AUTHENTICATION.checkbox.text
 msgid "The outgoing mail server (SMTP) requires au~thentication"
-msgstr "Éilíonn an freas~talaí ríomhphoist amach fíordheimhniú"
+msgstr "Éilíonn an freas~talaí ríomhphoist amach (SMTP) fíordheimhniú"
 
 #: mailconfigpage.src#DLG_MM_SERVERAUTHENTICATION.RB_SEP_AUTHENTICATION.radiobutton.text
 msgid "The outgoing mail server (SMTP) requires ~separate authentication"
@@ -99023,6 +99027,7 @@ msgstr ""
 msgid "Use %WRITERCOMPATIBILITYVERSIONOOO11 tabstop formatting"
 msgstr "Úsáid formáidiú na dtábstopanna %WRITERCOMPATIBILITYVERSIONOOO11"
 
+# "leading" in typesetting sense here
 #: optcomp.src#TP_OPTCOMPATIBILITY_PAGE.STR_EXTERNAL_LEADING.string.text
 msgid "Do not add leading (extra space) between lines of text"
 msgstr "Ná cuir spás breise idir línte téacs"
@@ -99858,7 +99863,7 @@ msgstr "Seoladh, Líne 1"
 
 #: dbui.src#SA_ADDRESS_HEADER.6.itemlist.text
 msgid "Address Line 2"
-msgstr "Seoladh, Líne 1"
+msgstr "Seoladh, Líne 2"
 
 #: dbui.src#SA_ADDRESS_HEADER.9.itemlist.text
 msgid "ZIP"
@@ -100621,7 +100626,7 @@ msgstr "Sábháil ~Cáipéisí"
 
 #: mmoutputpage.src#DLG_MM_OUTPUT_PAGE.PB_PRINTERSETTINGS.pushbutton.text
 msgid "P~roperties..."
-msgstr "Ai~ríonna"
+msgstr "Ai~ríonna..."
 
 #: mmoutputpage.src#DLG_MM_OUTPUT_PAGE.RB_PRINTALL.radiobutton.text
 msgid "Print ~all documents"
@@ -108092,7 +108097,7 @@ msgstr "Ní thacaítear leis an leagan Java atá suiteáilte."
 
 #: ids.src#RID_UUI_ERRHDL._ERRCODE_UUI_WRONGJAVA_VERSION___ERRCODE_RES_MASK_.string.text
 msgid "The installed Java version $(ARG1) is not supported."
-msgstr "Ní thacaítear leis an leagan Java ($(ARG1)) atá suiteáilte."
+msgstr "Ní thacaítear leis an leagan Java $(ARG1) atá suiteáilte."
 
 #: ids.src#RID_UUI_ERRHDL._ERRCODE_UUI_WRONGJAVA_MIN___ERRCODE_RES_MASK_.string.text
 msgid ""
@@ -109268,7 +109273,7 @@ msgstr "~Mioniarratas (Taispeáin gach taifead san iarratas.)"
 #: dbwizres.src#RID_DB_QUERY_WIZARD_START___12.string.text
 msgid "~Summary query (Shows only results of aggregate functions.)"
 msgstr ""
-"~Iarratas achomair (Taispeánann torthaí na bhfeidhmeanna comhiomláin amháin)"
+"~Iarratas achomair (Taispeánann torthaí na bhfeidhmeanna comhiomláin amháin.)"
 
 #: dbwizres.src#RID_DB_QUERY_WIZARD_START___16.string.text
 msgid "Aggregate functions"
@@ -109380,7 +109385,7 @@ msgstr "Feidhmeanna comhiomlána: "
 
 #: dbwizres.src#RID_DB_QUERY_WIZARD_START___56.string.text
 msgid "No aggregate functions were assigned."
-msgstr "Níor sannadh feidhmeanna comhiomláin"
+msgstr "Níor sannadh feidhmeanna comhiomlána."
 
 #: dbwizres.src#RID_DB_QUERY_WIZARD_START___57.string.text
 msgid "Grouped by: "
@@ -109474,7 +109479,7 @@ msgid ""
 "condition can only be chosen once"
 msgstr ""
 "Roghnaíodh faoi dhó an coinníoll '<FIELDNAME> <LOGICOPERATOR> <VALUE>'. Ní "
-"féidir coinníoll a roghnú níos mó ná uair amháin."
+"féidir coinníoll a roghnú níos mó ná uair amháin"
 
 #: dbwizres.src#RID_DB_QUERY_WIZARD_START___90.string.text
 msgid ""
@@ -109890,8 +109895,8 @@ msgid ""
 "Congratulations. You have entered all the information needed to create your "
 "table."
 msgstr ""
-"Comhghairdeas! Tá an t-eolas uilig curtha isteach agat atá a dhíth chun do "
-"thábla a chruthú!"
+"Comhghairdeas. Tá an t-eolas uilig curtha isteach agat atá a dhíth chun do "
+"thábla a chruthú."
 
 #: dbwizres.src#RID_DB_TABLE_WIZARD_START___36.string.text
 msgid ""
@@ -110868,7 +110873,7 @@ msgstr "Easpórtáil á hullmhú..."
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__81.string.text
 msgid "Copying layout files..."
-msgstr "Ag cóipeáil leagan amach na gcomhad"
+msgstr "Comhaid leagain amach á gcóipeáil..."
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__82.string.text
 msgid "Preparing table of contents generation..."
@@ -110920,11 +110925,11 @@ msgstr "Roghnaigh íomhá chúlra: "
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START___100.string.text
 msgid "Icon sets"
-msgstr "Foirne Deilbhíní"
+msgstr "Foirne deilbhíní"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START___101.string.text
 msgid "Choose an icon set:"
-msgstr "Roghnaigh foireann deilbhíní"
+msgstr "Roghnaigh foireann deilbhíní:"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__104.string.text
 msgid "Your web site was created successfully into: %FILENAME"
@@ -110932,7 +110937,7 @@ msgstr "D'éirigh le cruthú do láithreáin lín i: %FILENAME"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__105.string.text
 msgid "One or more errors occurred when generating the web site."
-msgstr "Tharla botún amháin nó níos mó i rith ghiniúna an láithreáin lín"
+msgstr "Tharla botún amháin nó níos mó i rith ghiniúna an láithreáin Ghréasáin."
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__106.string.text
 msgid "An error occurred while generating the table of contents page(s). "
