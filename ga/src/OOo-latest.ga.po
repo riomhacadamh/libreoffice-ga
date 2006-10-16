@@ -14680,7 +14680,7 @@ msgstr ""
 
 #: Control.ulf#OOO_CONTROL_81.LngText.text
 msgid "[DATABASEDIR]"
-msgstr ""
+msgstr "[DATABASEDIR]"
 
 #: Control.ulf#OOO_CONTROL_82.LngText.text
 msgid "Install [ProductName] database to:"
@@ -14723,7 +14723,7 @@ msgstr "{&MSSansBold8}Sprioc-chomhadlann"
 
 #: Control.ulf#OOO_CONTROL_91.LngText.text
 msgid "[INSTALLDIR]"
-msgstr ""
+msgstr "[INSTALLDIR]"
 
 #: Control.ulf#OOO_CONTROL_92.LngText.text
 msgid ""
@@ -14938,7 +14938,7 @@ msgstr ""
 
 #: Control.ulf#OOO_CONTROL_145.LngText.text
 msgid "Remove [ProductName] from your computer."
-msgstr ""
+msgstr "Bain [ProductName] ó do ríomhaire."
 
 #: Control.ulf#OOO_CONTROL_146.LngText.text
 msgid ""
@@ -15683,11 +15683,11 @@ msgstr "Cineál teachtaireachta: [1], Argóint: [2]"
 
 #: Error.ulf#OOO_ERROR_11.LngText.text
 msgid "=== Logging started: [Date]  [Time] ==="
-msgstr "=== Logáil tosaithe: [Dáta]  [Am] ==="
+msgstr "=== Logáil tosaithe: [Date]  [Time] ==="
 
 #: Error.ulf#OOO_ERROR_12.LngText.text
 msgid "=== Logging stopped: [Date]  [Time] ==="
-msgstr "=== Logáil stoptha: [Dáta]  [Am] ==="
+msgstr "=== Logáil stoptha: [Date]  [Time] ==="
 
 #: Error.ulf#OOO_ERROR_13.LngText.text
 msgid "Action start [Time]: [1]."
@@ -109920,16 +109920,16 @@ msgid ""
 "The table name '%TABLENAME' contains a character ('%SPECIALCHAR') that might "
 "not be supported by the database."
 msgstr ""
-"Tá carachtair ('SPECIALCHAR') in ainm an tábla '%TABLENAME' gur baolaigh "
-"nach bhfuil tacaíocht dó sa mbunachar sonraí."
+"Tá carachtar ('%SPECIALCHAR') in ainm an tábla '%TABLENAME' gur baolaigh "
+"nach dtacaíonn an bunachar sonraí leis."
 
 #: dbwizres.src#RID_DB_TABLE_WIZARD_START___42.string.text
 msgid ""
 "The field name '%FIELDNAME' contains a special character ('%SPECIALCHAR') "
 "that might not be supported by the database."
 msgstr ""
-"Tá carachtair speisialta ('%SPECIALCHAR') in ainm an réimse, agus is baolaí "
-"nach bhfuil tacaíocht dó sa mbunachar sonraí"
+"Tá carachtair speisialta ('%SPECIALCHAR') in ainm an réimse '%FIELDNAME', agus is baolaí "
+"nach dtacaíonn an bunachar sonraí leis."
 
 #: dbwizres.src#RID_DB_TABLE_WIZARD_START___43.string.text
 msgid ""
