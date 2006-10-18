@@ -1,12 +1,12 @@
 # OOo pot file for Irish.
-#   CURRENT VERSION = SRC680_m187
+#   CURRENT VERSION = SRC680_m188
 # First version produced Sept. 2004 by Kevin Scannell using the oo2po
 # scripts by David Fraser et al
 msgid ""
 msgstr ""
 "Project-Id-Version: OOo\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-10-08 22:44+0200\n"
+"POT-Creation-Date: 2006-10-15 20:55+0200\n"
 "PO-Revision-Date: 2006-10-18 16:30-0000\n"
 "Last-Translator: Pat Folan <pat.folan@gmit.ie>\n"
 "Language-Team: \n"
@@ -7757,6 +7757,7 @@ msgstr "Microsoft Access"
 
 #: dbumiscres.src#RSC_DATASOURCE_TYPE_UINAMES.STR_FLAT.string.text
 #: formres.src#RID_STR_TEXT.string.text Text_ui.xcu#Text.UIName.value.text
+#: Writer.xcu#..Writer.Insert.Caption.WriterObject.Frame.Settings.Category.value.text
 #: datefunc.src#RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_Rot13.2.string.text
 #: glob.src#STR_POOLSHEET_TEXT.string.text
 #: pubdlg.src#DLG_PUBLISHING.PAGE6_TEXT.pushbutton.text
@@ -12204,13 +12205,13 @@ msgstr "Téacs CSV"
 msgid "Text Encoded (%productname% Master Document)"
 msgstr "Téacs Ionchódaithe (Máistircháipéis %productname%)"
 
-#: Text__encoded___StarWriter_Web__ui.xcu#Text__encoded___StarWriter/Web_.UIName.value.text
-msgid "Text Encoded (%productname% Writer/Web)"
-msgstr "Téacs Ionchódaithe (%productname% Writer/Web)"
-
 #: Text__encoded__ui.xcu#Text__encoded_.UIName.value.text
 msgid "Text Encoded"
 msgstr "Téacs Ionchódaithe"
+
+#: Text__encoded___StarWriter_Web__ui.xcu#Text__encoded___StarWriter/Web_.UIName.value.text
+msgid "Text Encoded (%productname% Writer/Web)"
+msgstr "Téacs Ionchódaithe (%productname% Writer/Web)"
 
 #: calc8_template_ui.xcu#calc8_template.UIName.value.text
 #: registryitem_calc.ulf#STR_REG_VAL_OO_CALC_TEMPLATE.LngText.text
@@ -15629,18 +15630,6 @@ msgid ""
 "Spanish"
 msgstr "Spáinnis"
 
-#: CustomAc.ulf#OOO_CUSTOMACTION_1.LngText.text
-msgid ""
-"A newer version of [ProductName] was found. To install an older version, the "
-"newer version needs to be removed first."
-msgstr ""
-"Aimsíodh leagan níos nuaí de [ProductName]. Chun leagan níos sine a "
-"shuiteáil, ní mór duit an leagan níos nuaí a bhaint ar dtús."
-
-#: CustomAc.ulf#OOO_CUSTOMACTION_2.LngText.text
-msgid "The same version of this product is already installed."
-msgstr "Tá an leagan seo suiteáilte cheana."
-
 #: Error.ulf#OOO_ERROR_1.LngText.text
 msgid "{{Fatal error: }}"
 msgstr "{{Earráid mharfach: }}"
@@ -16524,6 +16513,64 @@ msgstr ""
 "Teastaíonn pribhléidí Riarthóra chun cumraíocht a dhéanamh ar fhréamhacha "
 "fíorúla IIS."
 
+#: Property.ulf#OOO_ARPCOMMENTSTEMPLATE.LngText.text
+msgid "Comment in the Add-Remove-Programs Applet"
+msgstr ""
+
+#: Property.ulf#OOO_ARPCONTACTTEMPLATE.LngText.text
+msgid "Department for technical support"
+msgstr "Roinn tacaíochta teicniúla"
+
+#: Property.ulf#OOO_ARPHELPLINKTEMPLATE.LngText.text
+msgid ""
+"_: Property.ulf#OOO_ARPHELPLINKTEMPLATE.LngText.text\n"
+"http://www.openoffice.org"
+msgstr "http://www.openoffice.org"
+
+#: Property.ulf#OOO_ARPHELPTELEPHONETEMPLATE.LngText.text
+msgid "x-xxx-xxx-xxx"
+msgstr "x-xxx-xxx-xxx"
+
+#: Property.ulf#OOO_ARPURLINFOABOUTTEMPLATE.LngText.text
+msgid ""
+"_: Property.ulf#OOO_ARPURLINFOABOUTTEMPLATE.LngText.text\n"
+"http://www.openoffice.org"
+msgstr "http://www.openoffice.org"
+
+#: Property.ulf#OOO_ARPURLUPDATEINFOTEMPLATE.LngText.text
+msgid ""
+"_: Property.ulf#OOO_ARPURLUPDATEINFOTEMPLATE.LngText.text\n"
+"http://www.openoffice.org"
+msgstr "http://www.openoffice.org"
+
+#: Property.ulf#OOO_STR_MS_WORD_DOCUMENT.LngText.text
+msgid "Microsoft Word Document"
+msgstr "Cáipéis Microsoft Word"
+
+#: Property.ulf#OOO_STR_MS_WORD_TEMPLATE.LngText.text
+msgid "Microsoft Word Template"
+msgstr "Teimpléad Microsoft Word"
+
+#: Property.ulf#OOO_STR_MS_EXCEL_WORKSHEET.LngText.text
+msgid "Microsoft Excel Worksheet"
+msgstr "Scarbhileog Microsoft Excel"
+
+#: Property.ulf#OOO_STR_MS_EXCEL_TEMPLATE.LngText.text
+msgid "Microsoft Excel Template"
+msgstr "Teimpléad Microsoft Excel"
+
+#: Property.ulf#OOO_STR_MS_POWERPOINT_PRESENTATION.LngText.text
+msgid "Microsoft PowerPoint Presentation"
+msgstr "Láithreoireacht Microsoft PowerPoint"
+
+#: Property.ulf#OOO_STR_MS_POWERPOINT_TEMPLATE.LngText.text
+msgid "Microsoft PowerPoint Template"
+msgstr "Teimpléad Microsoft PowerPoint"
+
+#: Property.ulf#OOO_STR_MS_POWERPOINT_SHOW.LngText.text
+msgid "Microsoft PowerPoint Show"
+msgstr "Seó Microsoft PowerPoint"
+
 #: Langpack.ulf#OOO_LANGPACK_NAME_TOP.LngText.text
 msgid "Additional language packs"
 msgstr "Pacáistí teanga eile"
@@ -17225,140 +17272,6 @@ msgstr ""
 "Ní féidir an Draoi Suiteála a rith mar is ceart, toisc go bhfuil tú logáilte "
 "isteach mar úsáideoir gan phribhléidí cuí an riarthóra ar an gcóras seo."
 
-#: Nsis.ulf#SetupCaption.LngText.text
-msgid "%PRODUCTNAME %PRODUCTVERSION Installation Preparation"
-msgstr "Ullmhú Suiteála %PRODUCTNAME %PRODUCTVERSION"
-
-#: Nsis.ulf#MUI_TEXT_WELCOME_INFO_TITLE.LngText.text
-msgid "Thank you for downloading %PRODUCTNAME %PRODUCTVERSION."
-msgstr "Go raibh maith agat as íosluchtú %PRODUCTNAME %PRODUCTVERSION."
-
-#: Nsis.ulf#MUI_TEXT_WELCOME_INFO_TEXT.LngText.text
-msgid ""
-"The installation files must be unpacked and copied to your hard disk in "
-"preparation for the installation. After that, the %PRODUCTNAME installation "
-"will start automatically.\\r\n"
-"\\r\n"
-"Click \\'Next\\' to continue."
-msgstr ""
-"Caithfidh na comhaid suiteála a bheith díphacáilte agus cóipeáilte ar do "
-"dhiosca crua le haghaidh na suiteála. Tar éis sin, tosófar suiteáil %"
-"PRODUCTNAME go huathoibríoch.\\r\n"
-"\\r\n"
-"Cliceáil \\'Ar Aghaidh\\' chun dul ar aghaidh."
-
-#: Nsis.ulf#MUI_TEXT_DIRECTORY_TITLE.LngText.text
-msgid "Select Folder"
-msgstr "Roghnaigh Fillteán"
-
-#: Nsis.ulf#MUI_TEXT_DIRECTORY_SUBTITLE.LngText.text
-msgid "Select the folder in which to save the unpacked files."
-msgstr "Roghnaigh an fillteán ina sábhálfar na comhaid dhíphacáilte."
-
-#: Nsis.ulf#InstallBtn.LngText.text
-msgid "&Unpack"
-msgstr "&Díphacáil"
-
-#: Nsis.ulf#DirText.LngText.text
-msgid ""
-"The %PRODUCTNAME %PRODUCTVERSION installation files will be unpacked and "
-"saved in the folder shown below. If you would like to save %PRODUCTNAME to a "
-"different folder, click \\'Browse\\' to select another folder."
-msgstr ""
-"Díphacálfar na comhaid suiteála %PRODUCTNAME %PRODUCTVERSION agus sábhálfar "
-"iad san fhillteán thíosluaite. Más mian leat %PRODUCTNAME a shábháil i "
-"bhfillteán difriúil, cliceáil \\'Brabhsáil\\' chun fillteán eile a roghnú."
-
-#: Nsis.ulf#DirSubText.LngText.text
-msgid "Destination Folder"
-msgstr "Sprioc-Chomhadlann"
-
-#: Nsis.ulf#SpaceRequired.LngText.text
-msgid "Space required: "
-msgstr "Spás de dhíth: "
-
-#: Nsis.ulf#SpaceAvailable.LngText.text
-msgid "Space available: "
-msgstr "Spás le fáil: "
-
-#: Nsis.ulf#MUI_TEXT_INSTALLING_TITLE.LngText.text
-msgid "Unpacking"
-msgstr "Á Dhíphacáil"
-
-#: Nsis.ulf#MUI_TEXT_INSTALLING_SUBTITLE.LngText.text
-msgid "Please wait while the installation files are being unpacked."
-msgstr "Fan go fóill; comhaid suiteála á ndíphacáil."
-
-#: Nsis.ulf#Extract.LngText.text
-msgid "Extract: "
-msgstr "Bain Amach: "
-
-#: Nsis.ulf#MUI_TEXT_ABORTWARNING.LngText.text
-msgid ""
-"Are you sure you want to quit the %PRODUCTNAME %PRODUCTVERSION Installation "
-"Preparation"
-msgstr ""
-"An bhfuil tú cinnte gur mian leat an tUllmhú Suiteála %PRODUCTNAME %"
-"PRODUCTVERSION a scor"
-
-#: Property.ulf#OOO_ARPCOMMENTSTEMPLATE.LngText.text
-msgid "Comment in the Add-Remove-Programs Applet"
-msgstr ""
-
-#: Property.ulf#OOO_ARPCONTACTTEMPLATE.LngText.text
-msgid "Department for technical support"
-msgstr "Roinn tacaíochta teicniúla"
-
-#: Property.ulf#OOO_ARPHELPLINKTEMPLATE.LngText.text
-msgid ""
-"_: Property.ulf#OOO_ARPHELPLINKTEMPLATE.LngText.text\n"
-"http://www.openoffice.org"
-msgstr "http://www.openoffice.org"
-
-#: Property.ulf#OOO_ARPHELPTELEPHONETEMPLATE.LngText.text
-msgid "x-xxx-xxx-xxx"
-msgstr "x-xxx-xxx-xxx"
-
-#: Property.ulf#OOO_ARPURLINFOABOUTTEMPLATE.LngText.text
-msgid ""
-"_: Property.ulf#OOO_ARPURLINFOABOUTTEMPLATE.LngText.text\n"
-"http://www.openoffice.org"
-msgstr "http://www.openoffice.org"
-
-#: Property.ulf#OOO_ARPURLUPDATEINFOTEMPLATE.LngText.text
-msgid ""
-"_: Property.ulf#OOO_ARPURLUPDATEINFOTEMPLATE.LngText.text\n"
-"http://www.openoffice.org"
-msgstr "http://www.openoffice.org"
-
-#: Property.ulf#OOO_STR_MS_WORD_DOCUMENT.LngText.text
-msgid "Microsoft Word Document"
-msgstr "Cáipéis Microsoft Word"
-
-#: Property.ulf#OOO_STR_MS_WORD_TEMPLATE.LngText.text
-msgid "Microsoft Word Template"
-msgstr "Teimpléad Microsoft Word"
-
-#: Property.ulf#OOO_STR_MS_EXCEL_WORKSHEET.LngText.text
-msgid "Microsoft Excel Worksheet"
-msgstr "Scarbhileog Microsoft Excel"
-
-#: Property.ulf#OOO_STR_MS_EXCEL_TEMPLATE.LngText.text
-msgid "Microsoft Excel Template"
-msgstr "Teimpléad Microsoft Excel"
-
-#: Property.ulf#OOO_STR_MS_POWERPOINT_PRESENTATION.LngText.text
-msgid "Microsoft PowerPoint Presentation"
-msgstr "Láithreoireacht Microsoft PowerPoint"
-
-#: Property.ulf#OOO_STR_MS_POWERPOINT_TEMPLATE.LngText.text
-msgid "Microsoft PowerPoint Template"
-msgstr "Teimpléad Microsoft PowerPoint"
-
-#: Property.ulf#OOO_STR_MS_POWERPOINT_SHOW.LngText.text
-msgid "Microsoft PowerPoint Show"
-msgstr "Seó Microsoft PowerPoint"
-
 #: RadioBut.ulf#OOO_RADIOBUTTON_1.LngText.text
 msgid "{&MSSansBold8}&Modify"
 msgstr "{&MSSansBold8}&Mionathraigh"
@@ -17697,6 +17610,94 @@ msgstr "Difríochtaí"
 #: UIText.ulf#OOO_UITEXT_48.LngText.text
 msgid "Disk Size"
 msgstr "Méid an Diosca"
+
+#: CustomAc.ulf#OOO_CUSTOMACTION_1.LngText.text
+msgid ""
+"A newer version of [ProductName] was found. To install an older version, the "
+"newer version needs to be removed first."
+msgstr ""
+"Aimsíodh leagan níos nuaí de [ProductName]. Chun leagan níos sine a "
+"shuiteáil, ní mór duit an leagan níos nuaí a bhaint ar dtús."
+
+#: CustomAc.ulf#OOO_CUSTOMACTION_2.LngText.text
+msgid "The same version of this product is already installed."
+msgstr "Tá an leagan seo suiteáilte cheana."
+
+#: Nsis.ulf#SetupCaption.LngText.text
+msgid "%PRODUCTNAME %PRODUCTVERSION Installation Preparation"
+msgstr "Ullmhú Suiteála %PRODUCTNAME %PRODUCTVERSION"
+
+#: Nsis.ulf#MUI_TEXT_WELCOME_INFO_TITLE.LngText.text
+msgid "Thank you for downloading %PRODUCTNAME %PRODUCTVERSION."
+msgstr "Go raibh maith agat as íosluchtú %PRODUCTNAME %PRODUCTVERSION."
+
+#: Nsis.ulf#MUI_TEXT_WELCOME_INFO_TEXT.LngText.text
+msgid ""
+"The installation files must be unpacked and copied to your hard disk in "
+"preparation for the installation. After that, the %PRODUCTNAME installation "
+"will start automatically.\\r\n"
+"\\r\n"
+"Click \\'Next\\' to continue."
+msgstr ""
+"Caithfidh na comhaid suiteála a bheith díphacáilte agus cóipeáilte ar do "
+"dhiosca crua le haghaidh na suiteála. Tar éis sin, tosófar suiteáil %"
+"PRODUCTNAME go huathoibríoch.\\r\n"
+"\\r\n"
+"Cliceáil \\'Ar Aghaidh\\' chun dul ar aghaidh."
+
+#: Nsis.ulf#MUI_TEXT_DIRECTORY_TITLE.LngText.text
+msgid "Select Folder"
+msgstr "Roghnaigh Fillteán"
+
+#: Nsis.ulf#MUI_TEXT_DIRECTORY_SUBTITLE.LngText.text
+msgid "Select the folder in which to save the unpacked files."
+msgstr "Roghnaigh an fillteán ina sábhálfar na comhaid dhíphacáilte."
+
+#: Nsis.ulf#InstallBtn.LngText.text
+msgid "&Unpack"
+msgstr "&Díphacáil"
+
+#: Nsis.ulf#DirText.LngText.text
+msgid ""
+"The %PRODUCTNAME %PRODUCTVERSION installation files will be unpacked and "
+"saved in the folder shown below. If you would like to save %PRODUCTNAME to a "
+"different folder, click \\'Browse\\' to select another folder."
+msgstr ""
+"Díphacálfar na comhaid suiteála %PRODUCTNAME %PRODUCTVERSION agus sábhálfar "
+"iad san fhillteán thíosluaite. Más mian leat %PRODUCTNAME a shábháil i "
+"bhfillteán difriúil, cliceáil \\'Brabhsáil\\' chun fillteán eile a roghnú."
+
+#: Nsis.ulf#DirSubText.LngText.text
+msgid "Destination Folder"
+msgstr "Sprioc-Chomhadlann"
+
+#: Nsis.ulf#SpaceRequired.LngText.text
+msgid "Space required: "
+msgstr "Spás de dhíth: "
+
+#: Nsis.ulf#SpaceAvailable.LngText.text
+msgid "Space available: "
+msgstr "Spás le fáil: "
+
+#: Nsis.ulf#MUI_TEXT_INSTALLING_TITLE.LngText.text
+msgid "Unpacking"
+msgstr "Á Dhíphacáil"
+
+#: Nsis.ulf#MUI_TEXT_INSTALLING_SUBTITLE.LngText.text
+msgid "Please wait while the installation files are being unpacked."
+msgstr "Fan go fóill; comhaid suiteála á ndíphacáil."
+
+#: Nsis.ulf#Extract.LngText.text
+msgid "Extract: "
+msgstr "Bain Amach: "
+
+#: Nsis.ulf#MUI_TEXT_ABORTWARNING.LngText.text
+msgid ""
+"Are you sure you want to quit the %PRODUCTNAME %PRODUCTVERSION Installation "
+"Preparation"
+msgstr ""
+"An bhfuil tú cinnte gur mian leat an tUllmhú Suiteála %PRODUCTNAME %"
+"PRODUCTVERSION a scor"
 
 #: Common.xcu#..Common.Menus.New.m0.Title.value.text
 msgid "~Text Document"
@@ -24481,13 +24482,6 @@ msgstr "StarWriter 3.0 - 5.0"
 msgid "StarWriter 3.0 - 5.0 Templates"
 msgstr "Teimpléid StarWriter 3.0 - 5.0"
 
-#: UI.xcu#..UI.FilterClassification.LocalFilters.Classes.text.DisplayName.value.text
-msgid ""
-"_: UI.xcu#..UI.FilterClassification.LocalFilters.Classes.text.DisplayName."
-"value.text\n"
-"Text"
-msgstr "Téacs"
-
 #: UI.xcu#..UI.FilterClassification.LocalFilters.Classes.excel456.DisplayName.value.text
 msgid "Microsoft Excel 4.x - 5.0 / 95"
 msgstr "Microsoft Excel 4.x - 5.0 / 95"
@@ -24855,13 +24849,6 @@ msgid ""
 "CaptionText.value.text\n"
 ": "
 msgstr ": "
-
-#: Writer.xcu#..Writer.Insert.Caption.WriterObject.Frame.Settings.Category.value.text
-msgid ""
-"_: Writer.xcu#..Writer.Insert.Caption.WriterObject.Frame.Settings.Category."
-"value.text\n"
-"Text"
-msgstr "Téacs"
 
 #: Writer.xcu#..Writer.Insert.Caption.WriterObject.Frame.Settings.CaptionText.value.text
 msgid ""
@@ -26852,313 +26839,6 @@ msgid ""
 "private_resource/toolbar/toolbar.UIName.value.text\n"
 "Standard"
 msgstr "Caighdeánach"
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBClearQuery.Label.value.text
-msgid "Clear Query"
-msgstr "Glan an tIarratas"
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBAddRelation.Label.value.text
-msgid "New Relation..."
-msgstr "Gaol Nua..."
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBAddTable.Label.value.text
-msgid "Add Tables..."
-msgstr "Cuir Táblaí Leis..."
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBIndexDesign.Label.value.text
-msgid "~Index Design..."
-msgstr "Dearadh an ~Innéacs..."
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBChangeDesignMode.Label.value.text
-msgid "Switch Design View On/Off"
-msgstr "Amharc Deartha: Ann/As"
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_PasteSpecial.Label.value.text
-msgid ""
-"_: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_PasteSpecial."
-"Label.value.text\n"
-"Paste ~Special..."
-msgstr "Greamú ~Speisialta..."
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBDelete.Label.value.text
-msgid ""
-"_: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBDelete.Label."
-"value.text\n"
-"Delete"
-msgstr "Scrios"
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBRename.Label.value.text
-msgid ""
-"_: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBRename.Label."
-"value.text\n"
-"Rename..."
-msgstr "Athainmnigh..."
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBEdit.Label.value.text
-msgid ""
-"_: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBEdit.Label."
-"value.text\n"
-"Edit..."
-msgstr "Eagar..."
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBOpen.Label.value.text
-msgid ""
-"_: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBOpen.Label."
-"value.text\n"
-"Open Database Object..."
-msgstr "Oscail Réad Bunachair Sonraí..."
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBTableDelete.Label.value.text
-msgid ""
-"_: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBTableDelete."
-"Label.value.text\n"
-"Delete"
-msgstr "Scrios"
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBTableRename.Label.value.text
-msgid ""
-"_: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBTableRename."
-"Label.value.text\n"
-"Rename..."
-msgstr "Athainmnigh..."
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBTableEdit.Label.value.text
-msgid ""
-"_: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBTableEdit."
-"Label.value.text\n"
-"Edit..."
-msgstr "Eagar..."
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBTableOpen.Label.value.text
-msgid ""
-"_: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBTableOpen."
-"Label.value.text\n"
-"Open Database Object..."
-msgstr "Oscail Réad Bunachair Sonraí..."
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBQueryDelete.Label.value.text
-msgid ""
-"_: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBQueryDelete."
-"Label.value.text\n"
-"Delete"
-msgstr "Scrios"
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBQueryRename.Label.value.text
-msgid ""
-"_: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBQueryRename."
-"Label.value.text\n"
-"Rename..."
-msgstr "Athainmnigh..."
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBQueryEdit.Label.value.text
-msgid ""
-"_: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBQueryEdit."
-"Label.value.text\n"
-"Edit..."
-msgstr "Eagar..."
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBQueryOpen.Label.value.text
-msgid ""
-"_: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBQueryOpen."
-"Label.value.text\n"
-"Open Database Object..."
-msgstr "Oscail Réad Bunachair Sonraí..."
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBFormDelete.Label.value.text
-msgid ""
-"_: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBFormDelete."
-"Label.value.text\n"
-"Delete"
-msgstr "Scrios"
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBFormRename.Label.value.text
-msgid ""
-"_: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBFormRename."
-"Label.value.text\n"
-"Rename..."
-msgstr "Athainmnigh..."
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBFormEdit.Label.value.text
-msgid ""
-"_: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBFormEdit."
-"Label.value.text\n"
-"Edit..."
-msgstr "Eagar..."
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBFormOpen.Label.value.text
-msgid ""
-"_: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBFormOpen."
-"Label.value.text\n"
-"Open Database Object..."
-msgstr "Oscail Réad Bunachair Sonraí..."
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBReportDelete.Label.value.text
-msgid ""
-"_: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBReportDelete."
-"Label.value.text\n"
-"Delete"
-msgstr "Scrios"
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBReportRename.Label.value.text
-msgid ""
-"_: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBReportRename."
-"Label.value.text\n"
-"Rename..."
-msgstr "Athainmnigh..."
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBReportEdit.Label.value.text
-msgid ""
-"_: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBReportEdit."
-"Label.value.text\n"
-"Edit..."
-msgstr "Eagar..."
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBReportOpen.Label.value.text
-msgid ""
-"_: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBReportOpen."
-"Label.value.text\n"
-"Open Database Object..."
-msgstr "Oscail Réad Bunachair Sonraí..."
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBNewFormAutoPilot.Label.value.text
-msgid ""
-"_: DbuCommands.xcu#..DbuCommands.UserInterface.Commands.."
-"uno_DBNewFormAutoPilot.Label.value.text\n"
-"Form Wizard..."
-msgstr "Draoi Foirme..."
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBNewTableAutoPilot.Label.value.text
-msgid "Table Wizard..."
-msgstr "Draoi Tábla..."
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBNewQueryAutoPilot.Label.value.text
-msgid "Query Wizard..."
-msgstr "Draoi Iarratais..."
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBNewFormAutoPilotWithPreSelection.Label.value.text
-msgid ""
-"_: DbuCommands.xcu#..DbuCommands.UserInterface.Commands.."
-"uno_DBNewFormAutoPilotWithPreSelection.Label.value.text\n"
-"Form Wizard..."
-msgstr "Draoi Foirme..."
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBNewReportAutoPilot.Label.value.text
-msgid ""
-"_: DbuCommands.xcu#..DbuCommands.UserInterface.Commands.."
-"uno_DBNewReportAutoPilot.Label.value.text\n"
-"Report Wizard..."
-msgstr "Draoi Tuairisce..."
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBNewReportAutoPilotWithPreSelection.Label.value.text
-msgid ""
-"_: DbuCommands.xcu#..DbuCommands.UserInterface.Commands.."
-"uno_DBNewReportAutoPilotWithPreSelection.Label.value.text\n"
-"Report Wizard..."
-msgstr "Draoi Tuairisce..."
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBDSProperties.Label.value.text
-#: padialog.src#RID_PADIALOG.RID_PA_BTN_CONF.pushbutton.text
-#: navipi.src#RID_POPUP_NAVIPI_SCENARIO.RID_NAVIPI_SCENARIO_EDIT.menuitem.text
-#: imapdlg.src#RID_SVXDLG_IMAP.TBX_IMAPDLG1.TBI_PROPERTY.toolboxitem.text
-msgid "Properties..."
-msgstr "Airíonna..."
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBDSConnectionType.Label.value.text
-msgid "Connection Type..."
-msgstr "Cineál Naisc..."
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBDSAdvancedSettings.Label.value.text
-msgid "Advanced Settings..."
-msgstr "Ardsocruithe..."
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBNewQuery.Label.value.text
-msgid "Query (Design View)..."
-msgstr "Iarratas (Amharc ar Dhearadh)..."
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBNewQuerySql.Label.value.text
-msgid "Query (SQL View)..."
-msgstr "Iarratas (Amharc SQL)..."
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBNewTable.Label.value.text
-msgid "Table Design..."
-msgstr "Dearadh Tábla..."
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBNewView.Label.value.text
-msgid "View Design..."
-msgstr "Amharc ar Dhearadh..."
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBNewFolder.Label.value.text
-msgid "Folder..."
-msgstr "Fillteán..."
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBRelationDesign.Label.value.text
-msgid "Relationships..."
-msgstr "Gaolta..."
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBUserAdmin.Label.value.text
-msgid "User Administration..."
-msgstr "Riar na nÚsáideoirí..."
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBTableFilter.Label.value.text
-msgid "Table Filter..."
-msgstr "Scagaire Tábla..."
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBRefreshTables.Label.value.text
-msgid "Refresh Tables"
-msgstr "Athnuaigh na Táblaí"
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBDirectSQL.Label.value.text
-msgid "SQL..."
-msgstr "SQL..."
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DSBEditDoc.Label.value.text
-msgid "Edit Data"
-msgstr "Cuir na Sonraí in Eagar"
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DSBFormLetter.Label.value.text
-msgid ""
-"_: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DSBFormLetter."
-"Label.value.text\n"
-"~Mail Merge..."
-msgstr "Postchu~masc..."
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DSBInsertColumns.Label.value.text
-msgid "Data to Text..."
-msgstr "Sonraí go Téacs..."
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DSBInsertContent.Label.value.text
-msgid "Data to Fields"
-msgstr "Sonraí go Réimsí"
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DSBDocumentDataSource.Label.value.text
-msgid "Data Source of Current Document"
-msgstr "Foinse Sonraí na Cáipéise Reatha"
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBSendReportAsMail.Label.value.text
-msgid "Report As E-Mail..."
-msgstr "Seol Tuarascáil trí Ríomhphost..."
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBSendReportToWriter.Label.value.text
-msgid "Report to Text Document..."
-msgstr "Tuairisc go Cáipéis Téacs..."
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBQueryPreview.Label.value.text
-msgid ""
-"_: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBQueryPreview."
-"Label.value.text\n"
-"Preview"
-msgstr "Réamhamharc"
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Popups..uno_DBDatabaseObjectsMenu.Label.value.text
-msgid "Database Objects"
-msgstr "Réada Bunachar Sonraí"
-
-#: DbuCommands.xcu#..DbuCommands.UserInterface.Popups..uno_DBPreview.Label.value.text
-msgid ""
-"_: DbuCommands.xcu#..DbuCommands.UserInterface.Popups..uno_DBPreview.Label."
-"value.text\n"
-"Preview"
-msgstr "Réamhamharc"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_Polygon.Label.value.text
 msgid "Polygon, filled"
@@ -30179,6 +29859,124 @@ msgid ""
 "Special"
 msgstr "Speisialta"
 
+#: MathCommands.xcu#..MathCommands.UserInterface.Commands..uno_ChangeFont.Label.value.text
+msgid "~Fonts..."
+msgstr "~Clónna..."
+
+#: MathCommands.xcu#..MathCommands.UserInterface.Commands..uno_ChangeFontSize.Label.value.text
+msgid "F~ont Size..."
+msgstr "~Clómhéid..."
+
+#: MathCommands.xcu#..MathCommands.UserInterface.Commands..uno_ChangeDistance.Label.value.text
+msgid "~Spacing..."
+msgstr "~Spásáil..."
+
+#: MathCommands.xcu#..MathCommands.UserInterface.Commands..uno_ChangeAlignment.Label.value.text
+msgid "A~lignment..."
+msgstr "Ai~líniú..."
+
+#: MathCommands.xcu#..MathCommands.UserInterface.Commands..uno_RedrawAutomatic.Label.value.text
+msgid "~AutoUpdate Display"
+msgstr ""
+
+#: MathCommands.xcu#..MathCommands.UserInterface.Commands..uno_Textmode.Label.value.text
+msgid "~Text Mode"
+msgstr "Mód ~Téacs"
+
+#: MathCommands.xcu#..MathCommands.UserInterface.Commands..uno_InsertFormula.Label.value.text
+msgid "~Import Formula..."
+msgstr "~Iompórtáil Foirmle..."
+
+#: MathCommands.xcu#..MathCommands.UserInterface.Commands..uno_FitInWindow.Label.value.text
+msgid "Fit To Window"
+msgstr "Oiriúnaigh don Fhuinneog"
+
+#: MathCommands.xcu#..MathCommands.UserInterface.Commands..uno_InsertConfigName.Label.value.text
+#: strings.src#STR_INSERT_TEXT.string.text
+msgid "Insert Text"
+msgstr "Ionsáigh Téacs"
+
+#: MathCommands.xcu#..MathCommands.UserInterface.Commands..uno_InsertCommand.Label.value.text
+msgid "Insert Command"
+msgstr "Ionsáigh Ordú"
+
+#: MathCommands.xcu#..MathCommands.UserInterface.Commands..uno_ModifyStatus.Label.value.text
+#: globstr.src#RID_GLOBSTR.STR_DOC_MODIFIED.string.text
+#: shlxthdl.ulf#_MODIFIED_.LngText.text
+#: initui.src#RID_SW_SHELLRES.FLD_DOCINFO_CHANGE.string.text
+msgid "Modified"
+msgstr "Mionathraithe"
+
+#: MathCommands.xcu#..MathCommands.UserInterface.Commands..uno_TextStatus.Label.value.text
+msgid "Text Status"
+msgstr "Stádas an Téacs"
+
+#: MathCommands.xcu#..MathCommands.UserInterface.Commands..uno_NextError.Label.value.text
+msgid "Ne~xt Error"
+msgstr "An Chéad Earráid ~Eile"
+
+#: MathCommands.xcu#..MathCommands.UserInterface.Commands..uno_PrevError.Label.value.text
+msgid "Pr~evious Error"
+msgstr "An ~Earráid Roimhe Seo"
+
+#: MathCommands.xcu#..MathCommands.UserInterface.Commands..uno_NextMark.Label.value.text
+msgid "~Next Marker"
+msgstr "A~n Chéad Mharcóir Eile"
+
+#: MathCommands.xcu#..MathCommands.UserInterface.Commands..uno_PrevMark.Label.value.text
+msgid "Previous ~Marker"
+msgstr "An ~Marcóir Roimhe Seo"
+
+#: MathCommands.xcu#..MathCommands.UserInterface.Commands..uno_SymbolCatalogue.Label.value.text
+msgid ""
+"_: MathCommands.xcu#..MathCommands.UserInterface.Commands.."
+"uno_SymbolCatalogue.Label.value.text\n"
+"~Catalog..."
+msgstr "~Catalóg..."
+
+#: MathCommands.xcu#..MathCommands.UserInterface.Commands..uno_Preferences.Label.value.text
+msgid ""
+"_: MathCommands.xcu#..MathCommands.UserInterface.Commands..uno_Preferences."
+"Label.value.text\n"
+"Options"
+msgstr "Roghanna"
+
+#: MathCommands.xcu#..MathCommands.UserInterface.Commands..uno_View50.Label.value.text
+msgid "0.5"
+msgstr "0.5"
+
+#: MathCommands.xcu#..MathCommands.UserInterface.Commands..uno_View100.Label.value.text
+#: animobjs.src#FLT_WIN_ANIMATION.LB_LOOP_COUNT.1.stringlist.text
+msgid "1"
+msgstr "1"
+
+#: MathCommands.xcu#..MathCommands.UserInterface.Commands..uno_View200.Label.value.text
+#: animobjs.src#FLT_WIN_ANIMATION.LB_LOOP_COUNT.2.stringlist.text
+msgid "2"
+msgstr "2"
+
+#: MathCommands.xcu#..MathCommands.UserInterface.Commands..uno_ZoomIn.Label.value.text
+msgid "Z~oom In"
+msgstr "~Súmáil Isteach"
+
+#: MathCommands.xcu#..MathCommands.UserInterface.Commands..uno_ZoomOut.Label.value.text
+msgid "Zoo~m Out"
+msgstr "Sú~máil Amach"
+
+#: MathCommands.xcu#..MathCommands.UserInterface.Commands..uno_Draw.Label.value.text
+#: smres.src#RID_VIEWMENU.SID_DRAW.menuitem.text
+msgid "U~pdate"
+msgstr "~Nuashonraigh"
+
+#: MathCommands.xcu#..MathCommands.UserInterface.Commands..uno_Adjust.Label.value.text
+msgid "Sho~w All"
+msgstr "Taispeáin ~Uile"
+
+#: MathCommands.xcu#..MathCommands.UserInterface.Commands..uno_FormelCursor.Label.value.text
+#: smres.src#RID_MATH_TOOLBOX.SID_FORMULACURSOR.toolboxitem.text
+msgid "Formula Cursor"
+msgstr ""
+
 #: GenericCategories.xcu#..GenericCategories.Commands.Categories.0.Name.value.text
 #: app.src#GID_INTERN.string.text
 msgid "Internal"
@@ -32754,7 +32552,7 @@ msgid "Image Options"
 msgstr "Roghanna Íomhá"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_FrameContent.Label.value.text
-#: newhelp.src#WIN_HELP_INDEX.TC_INDEX.HELP_INDEX_PAGE_CONTENTS.pageitem.text
+#: newhelp.src#WIN_HELPINDEX.TC_INDEX.HELP_INDEX_PAGE_CONTENTS.pageitem.text
 #: postdlg.src#RID_SVXDLG_POSTIT.FL_POSTIT.fixedline.text
 #: drpcps.src#TP_DROPCAPS.FL_CONTENT.fixedline.text
 #: optdlg.src#TP_OPTPRINT_PAGE.FL_1.fixedline.text
@@ -34147,124 +33945,6 @@ msgid ""
 "private_resource/toolbar/masterviewtoolbar.UIName.value.text\n"
 "Master View"
 msgstr "Máistiramharc"
-
-#: MathCommands.xcu#..MathCommands.UserInterface.Commands..uno_ChangeFont.Label.value.text
-msgid "~Fonts..."
-msgstr "~Clónna..."
-
-#: MathCommands.xcu#..MathCommands.UserInterface.Commands..uno_ChangeFontSize.Label.value.text
-msgid "F~ont Size..."
-msgstr "~Clómhéid..."
-
-#: MathCommands.xcu#..MathCommands.UserInterface.Commands..uno_ChangeDistance.Label.value.text
-msgid "~Spacing..."
-msgstr "~Spásáil..."
-
-#: MathCommands.xcu#..MathCommands.UserInterface.Commands..uno_ChangeAlignment.Label.value.text
-msgid "A~lignment..."
-msgstr "Ai~líniú..."
-
-#: MathCommands.xcu#..MathCommands.UserInterface.Commands..uno_RedrawAutomatic.Label.value.text
-msgid "~AutoUpdate Display"
-msgstr ""
-
-#: MathCommands.xcu#..MathCommands.UserInterface.Commands..uno_Textmode.Label.value.text
-msgid "~Text Mode"
-msgstr "Mód ~Téacs"
-
-#: MathCommands.xcu#..MathCommands.UserInterface.Commands..uno_InsertFormula.Label.value.text
-msgid "~Import Formula..."
-msgstr "~Iompórtáil Foirmle..."
-
-#: MathCommands.xcu#..MathCommands.UserInterface.Commands..uno_FitInWindow.Label.value.text
-msgid "Fit To Window"
-msgstr "Oiriúnaigh don Fhuinneog"
-
-#: MathCommands.xcu#..MathCommands.UserInterface.Commands..uno_InsertConfigName.Label.value.text
-#: strings.src#STR_INSERT_TEXT.string.text
-msgid "Insert Text"
-msgstr "Ionsáigh Téacs"
-
-#: MathCommands.xcu#..MathCommands.UserInterface.Commands..uno_InsertCommand.Label.value.text
-msgid "Insert Command"
-msgstr "Ionsáigh Ordú"
-
-#: MathCommands.xcu#..MathCommands.UserInterface.Commands..uno_ModifyStatus.Label.value.text
-#: globstr.src#RID_GLOBSTR.STR_DOC_MODIFIED.string.text
-#: shlxthdl.ulf#_MODIFIED_.LngText.text
-#: initui.src#RID_SW_SHELLRES.FLD_DOCINFO_CHANGE.string.text
-msgid "Modified"
-msgstr "Mionathraithe"
-
-#: MathCommands.xcu#..MathCommands.UserInterface.Commands..uno_TextStatus.Label.value.text
-msgid "Text Status"
-msgstr "Stádas an Téacs"
-
-#: MathCommands.xcu#..MathCommands.UserInterface.Commands..uno_NextError.Label.value.text
-msgid "Ne~xt Error"
-msgstr "An Chéad Earráid ~Eile"
-
-#: MathCommands.xcu#..MathCommands.UserInterface.Commands..uno_PrevError.Label.value.text
-msgid "Pr~evious Error"
-msgstr "An ~Earráid Roimhe Seo"
-
-#: MathCommands.xcu#..MathCommands.UserInterface.Commands..uno_NextMark.Label.value.text
-msgid "~Next Marker"
-msgstr "A~n Chéad Mharcóir Eile"
-
-#: MathCommands.xcu#..MathCommands.UserInterface.Commands..uno_PrevMark.Label.value.text
-msgid "Previous ~Marker"
-msgstr "An ~Marcóir Roimhe Seo"
-
-#: MathCommands.xcu#..MathCommands.UserInterface.Commands..uno_SymbolCatalogue.Label.value.text
-msgid ""
-"_: MathCommands.xcu#..MathCommands.UserInterface.Commands.."
-"uno_SymbolCatalogue.Label.value.text\n"
-"~Catalog..."
-msgstr "~Catalóg..."
-
-#: MathCommands.xcu#..MathCommands.UserInterface.Commands..uno_Preferences.Label.value.text
-msgid ""
-"_: MathCommands.xcu#..MathCommands.UserInterface.Commands..uno_Preferences."
-"Label.value.text\n"
-"Options"
-msgstr "Roghanna"
-
-#: MathCommands.xcu#..MathCommands.UserInterface.Commands..uno_View50.Label.value.text
-msgid "0.5"
-msgstr "0.5"
-
-#: MathCommands.xcu#..MathCommands.UserInterface.Commands..uno_View100.Label.value.text
-#: animobjs.src#FLT_WIN_ANIMATION.LB_LOOP_COUNT.1.stringlist.text
-msgid "1"
-msgstr "1"
-
-#: MathCommands.xcu#..MathCommands.UserInterface.Commands..uno_View200.Label.value.text
-#: animobjs.src#FLT_WIN_ANIMATION.LB_LOOP_COUNT.2.stringlist.text
-msgid "2"
-msgstr "2"
-
-#: MathCommands.xcu#..MathCommands.UserInterface.Commands..uno_ZoomIn.Label.value.text
-msgid "Z~oom In"
-msgstr "~Súmáil Isteach"
-
-#: MathCommands.xcu#..MathCommands.UserInterface.Commands..uno_ZoomOut.Label.value.text
-msgid "Zoo~m Out"
-msgstr "Sú~máil Amach"
-
-#: MathCommands.xcu#..MathCommands.UserInterface.Commands..uno_Draw.Label.value.text
-#: smres.src#RID_VIEWMENU.SID_DRAW.menuitem.text
-msgid "U~pdate"
-msgstr "~Nuashonraigh"
-
-#: MathCommands.xcu#..MathCommands.UserInterface.Commands..uno_Adjust.Label.value.text
-msgid "Sho~w All"
-msgstr "Taispeáin ~Uile"
-
-#: MathCommands.xcu#..MathCommands.UserInterface.Commands..uno_FormelCursor.Label.value.text
-#: smres.src#RID_MATH_TOOLBOX.SID_FORMULACURSOR.toolboxitem.text
-msgid "Formula Cursor"
-msgstr ""
 
 #: MathWindowState.xcu#..MathWindowState.UIElements.States.private_resource/toolbar/standardbar.UIName.value.text
 msgid ""
@@ -37192,6 +36872,313 @@ msgid ""
 "private_resource/toolbar/fontworkshapetype.UIName.value.text\n"
 "Fontwork Shape"
 msgstr "Cruth Fontwork"
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBClearQuery.Label.value.text
+msgid "Clear Query"
+msgstr "Glan an tIarratas"
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBAddRelation.Label.value.text
+msgid "New Relation..."
+msgstr "Gaol Nua..."
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBAddTable.Label.value.text
+msgid "Add Tables..."
+msgstr "Cuir Táblaí Leis..."
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBIndexDesign.Label.value.text
+msgid "~Index Design..."
+msgstr "Dearadh an ~Innéacs..."
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBChangeDesignMode.Label.value.text
+msgid "Switch Design View On/Off"
+msgstr "Amharc Deartha: Ann/As"
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_PasteSpecial.Label.value.text
+msgid ""
+"_: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_PasteSpecial."
+"Label.value.text\n"
+"Paste ~Special..."
+msgstr "Greamú ~Speisialta..."
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBDelete.Label.value.text
+msgid ""
+"_: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBDelete.Label."
+"value.text\n"
+"Delete"
+msgstr "Scrios"
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBRename.Label.value.text
+msgid ""
+"_: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBRename.Label."
+"value.text\n"
+"Rename..."
+msgstr "Athainmnigh..."
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBEdit.Label.value.text
+msgid ""
+"_: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBEdit.Label."
+"value.text\n"
+"Edit..."
+msgstr "Eagar..."
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBOpen.Label.value.text
+msgid ""
+"_: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBOpen.Label."
+"value.text\n"
+"Open Database Object..."
+msgstr "Oscail Réad Bunachair Sonraí..."
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBTableDelete.Label.value.text
+msgid ""
+"_: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBTableDelete."
+"Label.value.text\n"
+"Delete"
+msgstr "Scrios"
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBTableRename.Label.value.text
+msgid ""
+"_: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBTableRename."
+"Label.value.text\n"
+"Rename..."
+msgstr "Athainmnigh..."
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBTableEdit.Label.value.text
+msgid ""
+"_: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBTableEdit."
+"Label.value.text\n"
+"Edit..."
+msgstr "Eagar..."
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBTableOpen.Label.value.text
+msgid ""
+"_: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBTableOpen."
+"Label.value.text\n"
+"Open Database Object..."
+msgstr "Oscail Réad Bunachair Sonraí..."
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBQueryDelete.Label.value.text
+msgid ""
+"_: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBQueryDelete."
+"Label.value.text\n"
+"Delete"
+msgstr "Scrios"
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBQueryRename.Label.value.text
+msgid ""
+"_: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBQueryRename."
+"Label.value.text\n"
+"Rename..."
+msgstr "Athainmnigh..."
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBQueryEdit.Label.value.text
+msgid ""
+"_: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBQueryEdit."
+"Label.value.text\n"
+"Edit..."
+msgstr "Eagar..."
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBQueryOpen.Label.value.text
+msgid ""
+"_: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBQueryOpen."
+"Label.value.text\n"
+"Open Database Object..."
+msgstr "Oscail Réad Bunachair Sonraí..."
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBFormDelete.Label.value.text
+msgid ""
+"_: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBFormDelete."
+"Label.value.text\n"
+"Delete"
+msgstr "Scrios"
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBFormRename.Label.value.text
+msgid ""
+"_: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBFormRename."
+"Label.value.text\n"
+"Rename..."
+msgstr "Athainmnigh..."
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBFormEdit.Label.value.text
+msgid ""
+"_: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBFormEdit."
+"Label.value.text\n"
+"Edit..."
+msgstr "Eagar..."
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBFormOpen.Label.value.text
+msgid ""
+"_: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBFormOpen."
+"Label.value.text\n"
+"Open Database Object..."
+msgstr "Oscail Réad Bunachair Sonraí..."
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBReportDelete.Label.value.text
+msgid ""
+"_: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBReportDelete."
+"Label.value.text\n"
+"Delete"
+msgstr "Scrios"
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBReportRename.Label.value.text
+msgid ""
+"_: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBReportRename."
+"Label.value.text\n"
+"Rename..."
+msgstr "Athainmnigh..."
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBReportEdit.Label.value.text
+msgid ""
+"_: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBReportEdit."
+"Label.value.text\n"
+"Edit..."
+msgstr "Eagar..."
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBReportOpen.Label.value.text
+msgid ""
+"_: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBReportOpen."
+"Label.value.text\n"
+"Open Database Object..."
+msgstr "Oscail Réad Bunachair Sonraí..."
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBNewFormAutoPilot.Label.value.text
+msgid ""
+"_: DbuCommands.xcu#..DbuCommands.UserInterface.Commands.."
+"uno_DBNewFormAutoPilot.Label.value.text\n"
+"Form Wizard..."
+msgstr "Draoi Foirme..."
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBNewTableAutoPilot.Label.value.text
+msgid "Table Wizard..."
+msgstr "Draoi Tábla..."
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBNewQueryAutoPilot.Label.value.text
+msgid "Query Wizard..."
+msgstr "Draoi Iarratais..."
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBNewFormAutoPilotWithPreSelection.Label.value.text
+msgid ""
+"_: DbuCommands.xcu#..DbuCommands.UserInterface.Commands.."
+"uno_DBNewFormAutoPilotWithPreSelection.Label.value.text\n"
+"Form Wizard..."
+msgstr "Draoi Foirme..."
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBNewReportAutoPilot.Label.value.text
+msgid ""
+"_: DbuCommands.xcu#..DbuCommands.UserInterface.Commands.."
+"uno_DBNewReportAutoPilot.Label.value.text\n"
+"Report Wizard..."
+msgstr "Draoi Tuairisce..."
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBNewReportAutoPilotWithPreSelection.Label.value.text
+msgid ""
+"_: DbuCommands.xcu#..DbuCommands.UserInterface.Commands.."
+"uno_DBNewReportAutoPilotWithPreSelection.Label.value.text\n"
+"Report Wizard..."
+msgstr "Draoi Tuairisce..."
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBDSProperties.Label.value.text
+#: padialog.src#RID_PADIALOG.RID_PA_BTN_CONF.pushbutton.text
+#: navipi.src#RID_POPUP_NAVIPI_SCENARIO.RID_NAVIPI_SCENARIO_EDIT.menuitem.text
+#: imapdlg.src#RID_SVXDLG_IMAP.TBX_IMAPDLG1.TBI_PROPERTY.toolboxitem.text
+msgid "Properties..."
+msgstr "Airíonna..."
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBDSConnectionType.Label.value.text
+msgid "Connection Type..."
+msgstr "Cineál Naisc..."
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBDSAdvancedSettings.Label.value.text
+msgid "Advanced Settings..."
+msgstr "Ardsocruithe..."
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBNewQuery.Label.value.text
+msgid "Query (Design View)..."
+msgstr "Iarratas (Amharc ar Dhearadh)..."
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBNewQuerySql.Label.value.text
+msgid "Query (SQL View)..."
+msgstr "Iarratas (Amharc SQL)..."
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBNewTable.Label.value.text
+msgid "Table Design..."
+msgstr "Dearadh Tábla..."
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBNewView.Label.value.text
+msgid "View Design..."
+msgstr "Amharc ar Dhearadh..."
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBNewFolder.Label.value.text
+msgid "Folder..."
+msgstr "Fillteán..."
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBRelationDesign.Label.value.text
+msgid "Relationships..."
+msgstr "Gaolta..."
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBUserAdmin.Label.value.text
+msgid "User Administration..."
+msgstr "Riar na nÚsáideoirí..."
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBTableFilter.Label.value.text
+msgid "Table Filter..."
+msgstr "Scagaire Tábla..."
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBRefreshTables.Label.value.text
+msgid "Refresh Tables"
+msgstr "Athnuaigh na Táblaí"
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBDirectSQL.Label.value.text
+msgid "SQL..."
+msgstr "SQL..."
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DSBEditDoc.Label.value.text
+msgid "Edit Data"
+msgstr "Cuir na Sonraí in Eagar"
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DSBFormLetter.Label.value.text
+msgid ""
+"_: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DSBFormLetter."
+"Label.value.text\n"
+"~Mail Merge..."
+msgstr "Postchu~masc..."
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DSBInsertColumns.Label.value.text
+msgid "Data to Text..."
+msgstr "Sonraí go Téacs..."
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DSBInsertContent.Label.value.text
+msgid "Data to Fields"
+msgstr "Sonraí go Réimsí"
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DSBDocumentDataSource.Label.value.text
+msgid "Data Source of Current Document"
+msgstr "Foinse Sonraí na Cáipéise Reatha"
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBSendReportAsMail.Label.value.text
+msgid "Report As E-Mail..."
+msgstr "Seol Tuarascáil trí Ríomhphost..."
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBSendReportToWriter.Label.value.text
+msgid "Report to Text Document..."
+msgstr "Tuairisc go Cáipéis Téacs..."
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBQueryPreview.Label.value.text
+msgid ""
+"_: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBQueryPreview."
+"Label.value.text\n"
+"Preview"
+msgstr "Réamhamharc"
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Popups..uno_DBDatabaseObjectsMenu.Label.value.text
+msgid "Database Objects"
+msgstr "Réada Bunachar Sonraí"
+
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Popups..uno_DBPreview.Label.value.text
+msgid ""
+"_: DbuCommands.xcu#..DbuCommands.UserInterface.Popups..uno_DBPreview.Label."
+"value.text\n"
+"Preview"
+msgstr "Réamhamharc"
 
 #: padialog.src#RID_FONTIMPORT_DIALOG.RID_FIMP_TXT_HELP.fixedtext.text
 msgid ""
@@ -48267,7 +48254,7 @@ msgid "% of total"
 msgstr "% den iomlán"
 
 #: pvfundlg.src#RID_SCDLG_DPDATAFIELD.LB_TYPE.9.stringlist.text
-#: newhelp.src#WIN_HELP_INDEX.TC_INDEX.HELP_INDEX_PAGE_INDEX.pageitem.text
+#: newhelp.src#WIN_HELPINDEX.TC_INDEX.HELP_INDEX_PAGE_INDEX.pageitem.text
 #: multmrk.src#DLG_MULTMRK.FT_ENTRY.fixedtext.text
 msgid "Index"
 msgstr "Innéacs"
@@ -69554,14 +69541,14 @@ msgstr "Mionathraigh nasc"
 msgid "Modify Link"
 msgstr "Mionathraigh Nasc"
 
-#: newhelp.src#WIN_HELP_INDEX.TC_INDEX.HELP_INDEX_PAGE_SEARCH.pageitem.text
+#: newhelp.src#WIN_HELPINDEX.TC_INDEX.HELP_INDEX_PAGE_SEARCH.pageitem.text
 #: mediatyp.src#STR_SVT_MIMETYPE_CNT_SRCHBOX.string.text
 #: hyprlink.src#RID_SVXDLG_HYPERLINK.BTN_INET_SEARCH.toolboxitem.text
 #: gallery.src#RID_SVXDLG_GALLERY_SEARCH_PROGRESS.modaldialog.text
 msgid "Find"
 msgstr "Aimsigh"
 
-#: newhelp.src#WIN_HELP_INDEX.TC_INDEX.HELP_INDEX_PAGE_BOOKMARKS.pageitem.text
+#: newhelp.src#WIN_HELPINDEX.TC_INDEX.HELP_INDEX_PAGE_BOOKMARKS.pageitem.text
 #: fldref.src#TP_FLD_REF.STR_REFBOOKMARK.string.text
 #: bookmark.src#DLG_INSERT_BOOKMARK.FL_BOOKMARK.fixedline.text
 #: utlui.src#STR_CONTENT_TYPE_BOOKMARK.string.text
@@ -82645,10 +82632,6 @@ msgstr "Taispeáin fo-leibhéil"
 msgid "Start at"
 msgstr "Tosaigh ag"
 
-#: numpages.src#RID_SVXPAGE_NUM_OPTIONS.CB_USE_BULLET.tristatebox.text
-msgid "Show symbol"
-msgstr "Taispeáin siombail"
-
 #: numpages.src#RID_SVXPAGE_NUM_OPTIONS.FT_ALIGN.fixedtext.text
 msgid ""
 "_: numpages.src#RID_SVXPAGE_NUM_OPTIONS.FT_ALIGN.fixedtext.text\n"
@@ -83458,42 +83441,6 @@ msgstr "Luchtaigh %PRODUCTNAME i rith tosaithe an chórais"
 #: optmemory.src#OFA_TP_MEMORY.STR_QUICKLAUNCH_UNX.string.text
 msgid "Enable systray quickstarter"
 msgstr "Cumasaigh an meardhúisire i dtráidire an chórais"
-
-#: optupdt.src#RID_SVXPAGE_ONLINEUPDATE.FL_OPTIONS.fixedline.text
-msgid "Online Update Options"
-msgstr "Roghanna Nuashonraithe Ar Líne"
-
-#: optupdt.src#RID_SVXPAGE_ONLINEUPDATE.RB_EVERYDAY.radiobutton.text
-msgid "Every Da~y"
-msgstr "Gach ~Lá"
-
-#: optupdt.src#RID_SVXPAGE_ONLINEUPDATE.RB_EVERYWEEK.radiobutton.text
-msgid "Every ~Week"
-msgstr "Gach ~Seachtain"
-
-#: optupdt.src#RID_SVXPAGE_ONLINEUPDATE.RB_EVERYMONTH.radiobutton.text
-msgid "Every ~Month"
-msgstr "Gach ~Mí"
-
-#: optupdt.src#RID_SVXPAGE_ONLINEUPDATE.PB_CHECKNOW.pushbutton.text
-msgid "Check ~now"
-msgstr "Seiceáil a~nois"
-
-#: optupdt.src#RID_SVXPAGE_ONLINEUPDATE.CB_AUTODOWNLOAD.checkbox.text
-msgid "~Download updates automatically"
-msgstr "Íos~luchtaigh nuashonruithe go huathoibríoch"
-
-#: optupdt.src#RID_SVXPAGE_ONLINEUPDATE.FT_DESTPATHLABEL.fixedtext.text
-msgid "Download destination:"
-msgstr "Sprioc-chomhadlann íosluchtaithe:"
-
-#: optupdt.src#RID_SVXPAGE_ONLINEUPDATE.PB_CHANGEPATH.pushbutton.text
-msgid "Ch~ange..."
-msgstr "~Athraigh..."
-
-#: optupdt.src#RID_SVXPAGE_ONLINEUPDATE.tabpage.text
-msgid "OnlineUpdate"
-msgstr "Nuashonrú Ar Líne"
 
 #: page.src#RID_SVXPAGE_PAGE.FL_PAPER_SIZE.fixedline.text
 msgid "Paper format"
@@ -84380,6 +84327,313 @@ msgstr "Focal faire neamhbhailí"
 #: passwd.src#RID_SVXDLG_PASSWORD.STR_ERR_REPEAT_PASSWD.string.text
 msgid "Passwords do not match"
 msgstr "Ní ionann na focail fhaire"
+
+#: test.src#RID_SVXPAGE_POSITION.FT_POS_X.fixedtext.text
+msgid ""
+"_: test.src#RID_SVXPAGE_POSITION.FT_POS_X.fixedtext.text\n"
+"Position ~X"
+msgstr "Ionad ~X"
+
+#: test.src#RID_SVXPAGE_POSITION.FT_POS_Y.fixedtext.text
+msgid ""
+"_: test.src#RID_SVXPAGE_POSITION.FT_POS_Y.fixedtext.text\n"
+"Position ~Y"
+msgstr "Ionad ~Y"
+
+#: test.src#RID_SVXPAGE_POSITION.GRP_POSITION.groupbox.text
+msgid ""
+"_: test.src#RID_SVXPAGE_POSITION.GRP_POSITION.groupbox.text\n"
+"Position"
+msgstr "Ionad"
+
+#: test.src#RID_SVXPAGE_POSITION.CTL_RECT.control.text
+msgid ""
+"_: test.src#RID_SVXPAGE_POSITION.CTL_RECT.control.text\n"
+"-"
+msgstr "-"
+
+#: test.src#RID_SVXPAGE_POSITION.CTL_RECT.control.quickhelptext
+msgid ""
+"_: test.src#RID_SVXPAGE_POSITION.CTL_RECT.control.quickhelptext\n"
+"Base point"
+msgstr "Bunphointe"
+
+#: test.src#RID_SVXPAGE_POSITION.GB_ANCHOR.groupbox.text
+msgid "Anchoring"
+msgstr "Ancaireacht"
+
+#: test.src#RID_SVXPAGE_POSITION.FT_ANCHOR.fixedtext.text
+msgid ""
+"_: test.src#RID_SVXPAGE_POSITION.FT_ANCHOR.fixedtext.text\n"
+"~Anchor"
+msgstr "~Ancaire"
+
+#: test.src#RID_SVXPAGE_POSITION.LB_ANCHOR.1.stringlist.text
+msgid "To Paragraph"
+msgstr "Go hAlt"
+
+#: test.src#RID_SVXPAGE_POSITION.LB_ANCHOR.2.stringlist.text
+msgid ""
+"_: test.src#RID_SVXPAGE_POSITION.LB_ANCHOR.2.stringlist.text\n"
+"As character"
+msgstr "Mar charachtar"
+
+#: test.src#RID_SVXPAGE_POSITION.LB_ANCHOR.4.stringlist.text
+msgid "To Frame"
+msgstr "Go Fráma"
+
+#: test.src#RID_SVXPAGE_POSITION.LB_ORIENT.1.stringlist.text
+msgid "From Top"
+msgstr "Ón mBarr"
+
+#: test.src#RID_SVXPAGE_POSITION.LB_ORIENT.2.stringlist.text
+msgid ""
+"_: test.src#RID_SVXPAGE_POSITION.LB_ORIENT.2.stringlist.text\n"
+"Above"
+msgstr "Thuas"
+
+#: test.src#RID_SVXPAGE_POSITION.LB_ORIENT.3.stringlist.text
+msgid ""
+"_: test.src#RID_SVXPAGE_POSITION.LB_ORIENT.3.stringlist.text\n"
+"Centered"
+msgstr "Láraithe"
+
+#: test.src#RID_SVXPAGE_POSITION.LB_ORIENT.4.stringlist.text
+msgid ""
+"_: test.src#RID_SVXPAGE_POSITION.LB_ORIENT.4.stringlist.text\n"
+"Below"
+msgstr "Thíos"
+
+#: test.src#RID_SVXPAGE_POSITION.LB_ORIENT.5.stringlist.text
+msgid ""
+"_: test.src#RID_SVXPAGE_POSITION.LB_ORIENT.5.stringlist.text\n"
+"Top of character"
+msgstr "Barr an charachtair"
+
+#: test.src#RID_SVXPAGE_POSITION.LB_ORIENT.6.stringlist.text
+msgid ""
+"_: test.src#RID_SVXPAGE_POSITION.LB_ORIENT.6.stringlist.text\n"
+"Center of character"
+msgstr "Lárphointe an charachtair"
+
+#: test.src#RID_SVXPAGE_POSITION.LB_ORIENT.7.stringlist.text
+msgid ""
+"_: test.src#RID_SVXPAGE_POSITION.LB_ORIENT.7.stringlist.text\n"
+"Bottom of character"
+msgstr "Bun an charachtair"
+
+#: test.src#RID_SVXPAGE_POSITION.LB_ORIENT.8.stringlist.text
+msgid ""
+"_: test.src#RID_SVXPAGE_POSITION.LB_ORIENT.8.stringlist.text\n"
+"Top of line"
+msgstr "Barr na líne"
+
+#: test.src#RID_SVXPAGE_POSITION.LB_ORIENT.9.stringlist.text
+msgid ""
+"_: test.src#RID_SVXPAGE_POSITION.LB_ORIENT.9.stringlist.text\n"
+"Center of line"
+msgstr "Lárphointe na líne"
+
+#: test.src#RID_SVXPAGE_POSITION.LB_ORIENT.10.stringlist.text
+msgid ""
+"_: test.src#RID_SVXPAGE_POSITION.LB_ORIENT.10.stringlist.text\n"
+"Bottom of line"
+msgstr "Bun na líne"
+
+#: test.src#RID_SVXPAGE_POSITION.TSB_PROTECT.tristatebox.text
+msgid ""
+"_: test.src#RID_SVXPAGE_POSITION.TSB_PROTECT.tristatebox.text\n"
+"Pr~otect"
+msgstr "C~osain"
+
+#: test.src#RID_SVXPAGE_POSITION.tabpage.text
+msgid ""
+"_: test.src#RID_SVXPAGE_POSITION.tabpage.text\n"
+"Position"
+msgstr "Ionad"
+
+#: test.src#RID_SVXPAGE_SIZE.FT_WIDTH.fixedtext.text
+msgid ""
+"_: test.src#RID_SVXPAGE_SIZE.FT_WIDTH.fixedtext.text\n"
+"Wi~dth"
+msgstr "Leithea~d"
+
+#: test.src#RID_SVXPAGE_SIZE.FT_HEIGHT.fixedtext.text
+msgid ""
+"_: test.src#RID_SVXPAGE_SIZE.FT_HEIGHT.fixedtext.text\n"
+"H~eight"
+msgstr "Aird~e"
+
+#: test.src#RID_SVXPAGE_SIZE.CTL_RECT.control.text
+msgid ""
+"_: test.src#RID_SVXPAGE_SIZE.CTL_RECT.control.text\n"
+"-"
+msgstr "-"
+
+#: test.src#RID_SVXPAGE_SIZE.CTL_RECT.control.quickhelptext
+msgid ""
+"_: test.src#RID_SVXPAGE_SIZE.CTL_RECT.control.quickhelptext\n"
+"Base point"
+msgstr "Bunphointe"
+
+#: test.src#RID_SVXPAGE_SIZE.CBX_SCALE.checkbox.text
+msgid ""
+"_: test.src#RID_SVXPAGE_SIZE.CBX_SCALE.checkbox.text\n"
+"~Keep ratio"
+msgstr "~Caomhnaigh an cóimheas"
+
+#: test.src#RID_SVXPAGE_SIZE.GRP_SIZE.groupbox.text
+msgid ""
+"_: test.src#RID_SVXPAGE_SIZE.GRP_SIZE.groupbox.text\n"
+"Size"
+msgstr "Méid"
+
+#: test.src#RID_SVXPAGE_SIZE.TSB_PROTECT.tristatebox.text
+msgid ""
+"_: test.src#RID_SVXPAGE_SIZE.TSB_PROTECT.tristatebox.text\n"
+"Pr~otect"
+msgstr "C~osain"
+
+#: test.src#RID_SVXPAGE_SIZE.TSB_AUTOGROW_WIDTH.tristatebox.text
+msgid ""
+"_: test.src#RID_SVXPAGE_SIZE.TSB_AUTOGROW_WIDTH.tristatebox.text\n"
+"~Fit width to text"
+msgstr "~Oiriúnaigh leiteadh go dtí an téacs"
+
+#: test.src#RID_SVXPAGE_SIZE.TSB_AUTOGROW_HEIGHT.tristatebox.text
+msgid ""
+"_: test.src#RID_SVXPAGE_SIZE.TSB_AUTOGROW_HEIGHT.tristatebox.text\n"
+"Fit ~height to text"
+msgstr "~Oiriúnaigh airde go dtí an téacs"
+
+#: test.src#RID_SVXPAGE_SIZE.tabpage.text
+msgid ""
+"_: test.src#RID_SVXPAGE_SIZE.tabpage.text\n"
+"Size"
+msgstr "Méid"
+
+#: test.src#RID_SVXPAGE_ANGLE.FT_POS_X.fixedtext.text
+msgid ""
+"_: test.src#RID_SVXPAGE_ANGLE.FT_POS_X.fixedtext.text\n"
+"Position ~X"
+msgstr "Ionad ~X"
+
+#: test.src#RID_SVXPAGE_ANGLE.FT_POS_Y.fixedtext.text
+msgid ""
+"_: test.src#RID_SVXPAGE_ANGLE.FT_POS_Y.fixedtext.text\n"
+"Position ~Y"
+msgstr "Ionad ~Y"
+
+#: test.src#RID_SVXPAGE_ANGLE.FT_ANGLE.fixedtext.text
+msgid ""
+"_: test.src#RID_SVXPAGE_ANGLE.FT_ANGLE.fixedtext.text\n"
+"~Angle"
+msgstr "~Uillinn"
+
+#: test.src#RID_SVXPAGE_ANGLE.MTR_FLD_ANGLE.metricfield.text
+msgid ""
+"_: test.src#RID_SVXPAGE_ANGLE.MTR_FLD_ANGLE.metricfield.text\n"
+" degrees"
+msgstr " céim"
+
+#: test.src#RID_SVXPAGE_ANGLE.CTL_RECT.control.text
+msgid ""
+"_: test.src#RID_SVXPAGE_ANGLE.CTL_RECT.control.text\n"
+"-"
+msgstr "-"
+
+#: test.src#RID_SVXPAGE_ANGLE.CTL_RECT.control.quickhelptext
+msgid ""
+"_: test.src#RID_SVXPAGE_ANGLE.CTL_RECT.control.quickhelptext\n"
+"Rotation point"
+msgstr "Pointe rothlaithe"
+
+#: test.src#RID_SVXPAGE_ANGLE.GRP_POSITION.groupbox.text
+msgid ""
+"_: test.src#RID_SVXPAGE_ANGLE.GRP_POSITION.groupbox.text\n"
+"Pivot point"
+msgstr "Maighdeog"
+
+#: test.src#RID_SVXPAGE_ANGLE.GRP_ANGLE.groupbox.text
+msgid ""
+"_: test.src#RID_SVXPAGE_ANGLE.GRP_ANGLE.groupbox.text\n"
+"Rotation angle"
+msgstr "Uillinn rothlaithe"
+
+#: test.src#RID_SVXPAGE_ANGLE.tabpage.text
+msgid ""
+"_: test.src#RID_SVXPAGE_ANGLE.tabpage.text\n"
+"Angle"
+msgstr "Uillinn"
+
+#: test.src#RID_SVXPAGE_SLANT.FT_RADIUS.fixedtext.text
+msgid ""
+"_: test.src#RID_SVXPAGE_SLANT.FT_RADIUS.fixedtext.text\n"
+"~Radius"
+msgstr "~Ga"
+
+#: test.src#RID_SVXPAGE_SLANT.FT_ANGLE.fixedtext.text
+msgid ""
+"_: test.src#RID_SVXPAGE_SLANT.FT_ANGLE.fixedtext.text\n"
+"~Angle"
+msgstr "~Uillinn"
+
+#: test.src#RID_SVXPAGE_SLANT.MTR_FLD_ANGLE.metricfield.text
+msgid ""
+"_: test.src#RID_SVXPAGE_SLANT.MTR_FLD_ANGLE.metricfield.text\n"
+" degrees"
+msgstr " céim"
+
+#: test.src#RID_SVXPAGE_SLANT.GRP_RADIUS.groupbox.text
+msgid ""
+"_: test.src#RID_SVXPAGE_SLANT.GRP_RADIUS.groupbox.text\n"
+"Corner radius"
+msgstr "Ga na gcoirnéal"
+
+#: test.src#RID_SVXPAGE_SLANT.GRP_SLANT.groupbox.text
+msgid ""
+"_: test.src#RID_SVXPAGE_SLANT.GRP_SLANT.groupbox.text\n"
+"Slant"
+msgstr "Claon"
+
+#: test.src#RID_SVXPAGE_SLANT.tabpage.text
+msgid ""
+"_: test.src#RID_SVXPAGE_SLANT.tabpage.text\n"
+"Slant / Corner Radius"
+msgstr "Claon / Ga na gCoirnéal"
+
+#: test.src#RID_SVXDLG_TRANSFORM.TAB_CONTROL.RID_SVXPAGE_POSITION.pageitem.text
+msgid ""
+"_: test.src#RID_SVXDLG_TRANSFORM.TAB_CONTROL.RID_SVXPAGE_POSITION.pageitem."
+"text\n"
+"Position"
+msgstr "Ionad"
+
+#: test.src#RID_SVXDLG_TRANSFORM.TAB_CONTROL.RID_SVXPAGE_SIZE.pageitem.text
+msgid ""
+"_: test.src#RID_SVXDLG_TRANSFORM.TAB_CONTROL.RID_SVXPAGE_SIZE.pageitem.text\n"
+"Size"
+msgstr "Méid"
+
+#: test.src#RID_SVXDLG_TRANSFORM.TAB_CONTROL.RID_SVXPAGE_ANGLE.pageitem.text
+msgid ""
+"_: test.src#RID_SVXDLG_TRANSFORM.TAB_CONTROL.RID_SVXPAGE_ANGLE.pageitem."
+"text\n"
+"Rotation"
+msgstr "Rothlú"
+
+#: test.src#RID_SVXDLG_TRANSFORM.TAB_CONTROL.RID_SVXPAGE_SLANT.pageitem.text
+msgid ""
+"_: test.src#RID_SVXDLG_TRANSFORM.TAB_CONTROL.RID_SVXPAGE_SLANT.pageitem."
+"text\n"
+"Slant / Corner Radius"
+msgstr "Claon / Ga na gCoirnéal"
+
+#: test.src#RID_SVXDLG_TRANSFORM.tabdialog.text
+msgid ""
+"_: test.src#RID_SVXDLG_TRANSFORM.tabdialog.text\n"
+"Position and Size"
+msgstr "Ionad agus Méid"
 
 #: postdlg.src#RID_SVXDLG_POSTIT.FT_LASTEDITLABEL.fixedtext.text
 msgid ""
@@ -87215,313 +87469,6 @@ msgstr "~Deis/Bun"
 msgid "Tabs"
 msgstr "Táib"
 
-#: test.src#RID_SVXPAGE_POSITION.FT_POS_X.fixedtext.text
-msgid ""
-"_: test.src#RID_SVXPAGE_POSITION.FT_POS_X.fixedtext.text\n"
-"Position ~X"
-msgstr "Ionad ~X"
-
-#: test.src#RID_SVXPAGE_POSITION.FT_POS_Y.fixedtext.text
-msgid ""
-"_: test.src#RID_SVXPAGE_POSITION.FT_POS_Y.fixedtext.text\n"
-"Position ~Y"
-msgstr "Ionad ~Y"
-
-#: test.src#RID_SVXPAGE_POSITION.GRP_POSITION.groupbox.text
-msgid ""
-"_: test.src#RID_SVXPAGE_POSITION.GRP_POSITION.groupbox.text\n"
-"Position"
-msgstr "Ionad"
-
-#: test.src#RID_SVXPAGE_POSITION.CTL_RECT.control.text
-msgid ""
-"_: test.src#RID_SVXPAGE_POSITION.CTL_RECT.control.text\n"
-"-"
-msgstr "-"
-
-#: test.src#RID_SVXPAGE_POSITION.CTL_RECT.control.quickhelptext
-msgid ""
-"_: test.src#RID_SVXPAGE_POSITION.CTL_RECT.control.quickhelptext\n"
-"Base point"
-msgstr "Bunphointe"
-
-#: test.src#RID_SVXPAGE_POSITION.GB_ANCHOR.groupbox.text
-msgid "Anchoring"
-msgstr "Ancaireacht"
-
-#: test.src#RID_SVXPAGE_POSITION.FT_ANCHOR.fixedtext.text
-msgid ""
-"_: test.src#RID_SVXPAGE_POSITION.FT_ANCHOR.fixedtext.text\n"
-"~Anchor"
-msgstr "~Ancaire"
-
-#: test.src#RID_SVXPAGE_POSITION.LB_ANCHOR.1.stringlist.text
-msgid "To Paragraph"
-msgstr "Go hAlt"
-
-#: test.src#RID_SVXPAGE_POSITION.LB_ANCHOR.2.stringlist.text
-msgid ""
-"_: test.src#RID_SVXPAGE_POSITION.LB_ANCHOR.2.stringlist.text\n"
-"As character"
-msgstr "Mar charachtar"
-
-#: test.src#RID_SVXPAGE_POSITION.LB_ANCHOR.4.stringlist.text
-msgid "To Frame"
-msgstr "Go Fráma"
-
-#: test.src#RID_SVXPAGE_POSITION.LB_ORIENT.1.stringlist.text
-msgid "From Top"
-msgstr "Ón mBarr"
-
-#: test.src#RID_SVXPAGE_POSITION.LB_ORIENT.2.stringlist.text
-msgid ""
-"_: test.src#RID_SVXPAGE_POSITION.LB_ORIENT.2.stringlist.text\n"
-"Above"
-msgstr "Thuas"
-
-#: test.src#RID_SVXPAGE_POSITION.LB_ORIENT.3.stringlist.text
-msgid ""
-"_: test.src#RID_SVXPAGE_POSITION.LB_ORIENT.3.stringlist.text\n"
-"Centered"
-msgstr "Láraithe"
-
-#: test.src#RID_SVXPAGE_POSITION.LB_ORIENT.4.stringlist.text
-msgid ""
-"_: test.src#RID_SVXPAGE_POSITION.LB_ORIENT.4.stringlist.text\n"
-"Below"
-msgstr "Thíos"
-
-#: test.src#RID_SVXPAGE_POSITION.LB_ORIENT.5.stringlist.text
-msgid ""
-"_: test.src#RID_SVXPAGE_POSITION.LB_ORIENT.5.stringlist.text\n"
-"Top of character"
-msgstr "Barr an charachtair"
-
-#: test.src#RID_SVXPAGE_POSITION.LB_ORIENT.6.stringlist.text
-msgid ""
-"_: test.src#RID_SVXPAGE_POSITION.LB_ORIENT.6.stringlist.text\n"
-"Center of character"
-msgstr "Lárphointe an charachtair"
-
-#: test.src#RID_SVXPAGE_POSITION.LB_ORIENT.7.stringlist.text
-msgid ""
-"_: test.src#RID_SVXPAGE_POSITION.LB_ORIENT.7.stringlist.text\n"
-"Bottom of character"
-msgstr "Bun an charachtair"
-
-#: test.src#RID_SVXPAGE_POSITION.LB_ORIENT.8.stringlist.text
-msgid ""
-"_: test.src#RID_SVXPAGE_POSITION.LB_ORIENT.8.stringlist.text\n"
-"Top of line"
-msgstr "Barr na líne"
-
-#: test.src#RID_SVXPAGE_POSITION.LB_ORIENT.9.stringlist.text
-msgid ""
-"_: test.src#RID_SVXPAGE_POSITION.LB_ORIENT.9.stringlist.text\n"
-"Center of line"
-msgstr "Lárphointe na líne"
-
-#: test.src#RID_SVXPAGE_POSITION.LB_ORIENT.10.stringlist.text
-msgid ""
-"_: test.src#RID_SVXPAGE_POSITION.LB_ORIENT.10.stringlist.text\n"
-"Bottom of line"
-msgstr "Bun na líne"
-
-#: test.src#RID_SVXPAGE_POSITION.TSB_PROTECT.tristatebox.text
-msgid ""
-"_: test.src#RID_SVXPAGE_POSITION.TSB_PROTECT.tristatebox.text\n"
-"Pr~otect"
-msgstr "C~osain"
-
-#: test.src#RID_SVXPAGE_POSITION.tabpage.text
-msgid ""
-"_: test.src#RID_SVXPAGE_POSITION.tabpage.text\n"
-"Position"
-msgstr "Ionad"
-
-#: test.src#RID_SVXPAGE_SIZE.FT_WIDTH.fixedtext.text
-msgid ""
-"_: test.src#RID_SVXPAGE_SIZE.FT_WIDTH.fixedtext.text\n"
-"Wi~dth"
-msgstr "Leithea~d"
-
-#: test.src#RID_SVXPAGE_SIZE.FT_HEIGHT.fixedtext.text
-msgid ""
-"_: test.src#RID_SVXPAGE_SIZE.FT_HEIGHT.fixedtext.text\n"
-"H~eight"
-msgstr "Aird~e"
-
-#: test.src#RID_SVXPAGE_SIZE.CTL_RECT.control.text
-msgid ""
-"_: test.src#RID_SVXPAGE_SIZE.CTL_RECT.control.text\n"
-"-"
-msgstr "-"
-
-#: test.src#RID_SVXPAGE_SIZE.CTL_RECT.control.quickhelptext
-msgid ""
-"_: test.src#RID_SVXPAGE_SIZE.CTL_RECT.control.quickhelptext\n"
-"Base point"
-msgstr "Bunphointe"
-
-#: test.src#RID_SVXPAGE_SIZE.CBX_SCALE.checkbox.text
-msgid ""
-"_: test.src#RID_SVXPAGE_SIZE.CBX_SCALE.checkbox.text\n"
-"~Keep ratio"
-msgstr "~Caomhnaigh an cóimheas"
-
-#: test.src#RID_SVXPAGE_SIZE.GRP_SIZE.groupbox.text
-msgid ""
-"_: test.src#RID_SVXPAGE_SIZE.GRP_SIZE.groupbox.text\n"
-"Size"
-msgstr "Méid"
-
-#: test.src#RID_SVXPAGE_SIZE.TSB_PROTECT.tristatebox.text
-msgid ""
-"_: test.src#RID_SVXPAGE_SIZE.TSB_PROTECT.tristatebox.text\n"
-"Pr~otect"
-msgstr "C~osain"
-
-#: test.src#RID_SVXPAGE_SIZE.TSB_AUTOGROW_WIDTH.tristatebox.text
-msgid ""
-"_: test.src#RID_SVXPAGE_SIZE.TSB_AUTOGROW_WIDTH.tristatebox.text\n"
-"~Fit width to text"
-msgstr "~Oiriúnaigh leiteadh go dtí an téacs"
-
-#: test.src#RID_SVXPAGE_SIZE.TSB_AUTOGROW_HEIGHT.tristatebox.text
-msgid ""
-"_: test.src#RID_SVXPAGE_SIZE.TSB_AUTOGROW_HEIGHT.tristatebox.text\n"
-"Fit ~height to text"
-msgstr "~Oiriúnaigh airde go dtí an téacs"
-
-#: test.src#RID_SVXPAGE_SIZE.tabpage.text
-msgid ""
-"_: test.src#RID_SVXPAGE_SIZE.tabpage.text\n"
-"Size"
-msgstr "Méid"
-
-#: test.src#RID_SVXPAGE_ANGLE.FT_POS_X.fixedtext.text
-msgid ""
-"_: test.src#RID_SVXPAGE_ANGLE.FT_POS_X.fixedtext.text\n"
-"Position ~X"
-msgstr "Ionad ~X"
-
-#: test.src#RID_SVXPAGE_ANGLE.FT_POS_Y.fixedtext.text
-msgid ""
-"_: test.src#RID_SVXPAGE_ANGLE.FT_POS_Y.fixedtext.text\n"
-"Position ~Y"
-msgstr "Ionad ~Y"
-
-#: test.src#RID_SVXPAGE_ANGLE.FT_ANGLE.fixedtext.text
-msgid ""
-"_: test.src#RID_SVXPAGE_ANGLE.FT_ANGLE.fixedtext.text\n"
-"~Angle"
-msgstr "~Uillinn"
-
-#: test.src#RID_SVXPAGE_ANGLE.MTR_FLD_ANGLE.metricfield.text
-msgid ""
-"_: test.src#RID_SVXPAGE_ANGLE.MTR_FLD_ANGLE.metricfield.text\n"
-" degrees"
-msgstr " céim"
-
-#: test.src#RID_SVXPAGE_ANGLE.CTL_RECT.control.text
-msgid ""
-"_: test.src#RID_SVXPAGE_ANGLE.CTL_RECT.control.text\n"
-"-"
-msgstr "-"
-
-#: test.src#RID_SVXPAGE_ANGLE.CTL_RECT.control.quickhelptext
-msgid ""
-"_: test.src#RID_SVXPAGE_ANGLE.CTL_RECT.control.quickhelptext\n"
-"Rotation point"
-msgstr "Pointe rothlaithe"
-
-#: test.src#RID_SVXPAGE_ANGLE.GRP_POSITION.groupbox.text
-msgid ""
-"_: test.src#RID_SVXPAGE_ANGLE.GRP_POSITION.groupbox.text\n"
-"Pivot point"
-msgstr "Maighdeog"
-
-#: test.src#RID_SVXPAGE_ANGLE.GRP_ANGLE.groupbox.text
-msgid ""
-"_: test.src#RID_SVXPAGE_ANGLE.GRP_ANGLE.groupbox.text\n"
-"Rotation angle"
-msgstr "Uillinn rothlaithe"
-
-#: test.src#RID_SVXPAGE_ANGLE.tabpage.text
-msgid ""
-"_: test.src#RID_SVXPAGE_ANGLE.tabpage.text\n"
-"Angle"
-msgstr "Uillinn"
-
-#: test.src#RID_SVXPAGE_SLANT.FT_RADIUS.fixedtext.text
-msgid ""
-"_: test.src#RID_SVXPAGE_SLANT.FT_RADIUS.fixedtext.text\n"
-"~Radius"
-msgstr "~Ga"
-
-#: test.src#RID_SVXPAGE_SLANT.FT_ANGLE.fixedtext.text
-msgid ""
-"_: test.src#RID_SVXPAGE_SLANT.FT_ANGLE.fixedtext.text\n"
-"~Angle"
-msgstr "~Uillinn"
-
-#: test.src#RID_SVXPAGE_SLANT.MTR_FLD_ANGLE.metricfield.text
-msgid ""
-"_: test.src#RID_SVXPAGE_SLANT.MTR_FLD_ANGLE.metricfield.text\n"
-" degrees"
-msgstr " céim"
-
-#: test.src#RID_SVXPAGE_SLANT.GRP_RADIUS.groupbox.text
-msgid ""
-"_: test.src#RID_SVXPAGE_SLANT.GRP_RADIUS.groupbox.text\n"
-"Corner radius"
-msgstr "Ga na gcoirnéal"
-
-#: test.src#RID_SVXPAGE_SLANT.GRP_SLANT.groupbox.text
-msgid ""
-"_: test.src#RID_SVXPAGE_SLANT.GRP_SLANT.groupbox.text\n"
-"Slant"
-msgstr "Claon"
-
-#: test.src#RID_SVXPAGE_SLANT.tabpage.text
-msgid ""
-"_: test.src#RID_SVXPAGE_SLANT.tabpage.text\n"
-"Slant / Corner Radius"
-msgstr "Claon / Ga na gCoirnéal"
-
-#: test.src#RID_SVXDLG_TRANSFORM.TAB_CONTROL.RID_SVXPAGE_POSITION.pageitem.text
-msgid ""
-"_: test.src#RID_SVXDLG_TRANSFORM.TAB_CONTROL.RID_SVXPAGE_POSITION.pageitem."
-"text\n"
-"Position"
-msgstr "Ionad"
-
-#: test.src#RID_SVXDLG_TRANSFORM.TAB_CONTROL.RID_SVXPAGE_SIZE.pageitem.text
-msgid ""
-"_: test.src#RID_SVXDLG_TRANSFORM.TAB_CONTROL.RID_SVXPAGE_SIZE.pageitem.text\n"
-"Size"
-msgstr "Méid"
-
-#: test.src#RID_SVXDLG_TRANSFORM.TAB_CONTROL.RID_SVXPAGE_ANGLE.pageitem.text
-msgid ""
-"_: test.src#RID_SVXDLG_TRANSFORM.TAB_CONTROL.RID_SVXPAGE_ANGLE.pageitem."
-"text\n"
-"Rotation"
-msgstr "Rothlú"
-
-#: test.src#RID_SVXDLG_TRANSFORM.TAB_CONTROL.RID_SVXPAGE_SLANT.pageitem.text
-msgid ""
-"_: test.src#RID_SVXDLG_TRANSFORM.TAB_CONTROL.RID_SVXPAGE_SLANT.pageitem."
-"text\n"
-"Slant / Corner Radius"
-msgstr "Claon / Ga na gCoirnéal"
-
-#: test.src#RID_SVXDLG_TRANSFORM.tabdialog.text
-msgid ""
-"_: test.src#RID_SVXDLG_TRANSFORM.tabdialog.text\n"
-"Position and Size"
-msgstr "Ionad agus Méid"
-
 #: textanim.src#RID_SVXPAGE_TEXTANIMATION.FL_EFFECT.fixedline.text
 msgid "Text animation effects"
 msgstr "maisíocht bheochana"
@@ -88973,6 +88920,42 @@ msgstr "~Luaineach"
 #: zoom.src#RID_SVXDLG_ZOOM.FL_ZOOM.fixedline.text
 msgid "Zoom factor"
 msgstr "Fachtóir súmála"
+
+#: optupdt.src#RID_SVXPAGE_ONLINEUPDATE.FL_OPTIONS.fixedline.text
+msgid "Online Update Options"
+msgstr "Roghanna Nuashonraithe Ar Líne"
+
+#: optupdt.src#RID_SVXPAGE_ONLINEUPDATE.RB_EVERYDAY.radiobutton.text
+msgid "Every Da~y"
+msgstr "Gach ~Lá"
+
+#: optupdt.src#RID_SVXPAGE_ONLINEUPDATE.RB_EVERYWEEK.radiobutton.text
+msgid "Every ~Week"
+msgstr "Gach ~Seachtain"
+
+#: optupdt.src#RID_SVXPAGE_ONLINEUPDATE.RB_EVERYMONTH.radiobutton.text
+msgid "Every ~Month"
+msgstr "Gach ~Mí"
+
+#: optupdt.src#RID_SVXPAGE_ONLINEUPDATE.PB_CHECKNOW.pushbutton.text
+msgid "Check ~now"
+msgstr "Seiceáil a~nois"
+
+#: optupdt.src#RID_SVXPAGE_ONLINEUPDATE.CB_AUTODOWNLOAD.checkbox.text
+msgid "~Download updates automatically"
+msgstr "Íos~luchtaigh nuashonruithe go huathoibríoch"
+
+#: optupdt.src#RID_SVXPAGE_ONLINEUPDATE.FT_DESTPATHLABEL.fixedtext.text
+msgid "Download destination:"
+msgstr "Sprioc-chomhadlann íosluchtaithe:"
+
+#: optupdt.src#RID_SVXPAGE_ONLINEUPDATE.PB_CHANGEPATH.pushbutton.text
+msgid "Ch~ange..."
+msgstr "~Athraigh..."
+
+#: optupdt.src#RID_SVXPAGE_ONLINEUPDATE.tabpage.text
+msgid "OnlineUpdate"
+msgstr "Nuashonrú Ar Líne"
 
 #: editeng.src#RID_EDITUNDO_SETATTRIBS.string.text
 #: outliner.src#RID_OUTLUNDO_ATTR.string.text
@@ -101058,109 +101041,6 @@ msgid ""
 "Table"
 msgstr "Tábla"
 
-#: abstract.src#DLG_INSERT_ABSTRACT.FL_1.fixedline.text
-msgid ""
-"_: abstract.src#DLG_INSERT_ABSTRACT.FL_1.fixedline.text\n"
-"Properties"
-msgstr "Airíonna"
-
-#: abstract.src#DLG_INSERT_ABSTRACT.FT_LEVEL.fixedtext.text
-msgid "Included outline levels"
-msgstr "Leibhéil imlíne curtha san áireamh"
-
-#: abstract.src#DLG_INSERT_ABSTRACT.FT_PARA.fixedtext.text
-msgid "Subpoints per level"
-msgstr "Fophointí sa leibhéal"
-
-#: abstract.src#DLG_INSERT_ABSTRACT.FT_DESC.fixedtext.text
-msgid ""
-"The abstract contains the selected number of paragraphs from the included "
-"outline levels."
-msgstr ""
-
-#: abstract.src#DLG_INSERT_ABSTRACT.modaldialog.text
-msgid "Create AutoAbstract"
-msgstr "Cruthaigh UathChoimriú"
-
-#: ascfldlg.src#DLG_ASCII_FILTER.FL_1.fixedline.text
-msgid ""
-"_: ascfldlg.src#DLG_ASCII_FILTER.FL_1.fixedline.text\n"
-"Properties"
-msgstr "Airíonna"
-
-#: ascfldlg.src#DLG_ASCII_FILTER.FT_FONT.fixedtext.text
-msgid "Default fonts"
-msgstr "Clónna réamhshocraithe"
-
-#: ascfldlg.src#DLG_ASCII_FILTER.FT_LANGUAGE.fixedtext.text
-msgid "Lan~guage"
-msgstr "Tean~ga"
-
-#: ascfldlg.src#DLG_ASCII_FILTER.FT_CRLF.fixedtext.text
-msgid "~Paragraph break"
-msgstr "Briseadh ~ailt"
-
-#: ascfldlg.src#DLG_ASCII_FILTER.RB_CRLF.radiobutton.text
-msgid "~CR & LF"
-msgstr "~CR & LF"
-
-#: ascfldlg.src#DLG_ASCII_FILTER.RB_CR.radiobutton.text
-msgid "C~R"
-msgstr "C~R"
-
-#: ascfldlg.src#DLG_ASCII_FILTER.RB_LF.radiobutton.text
-msgid "~LF"
-msgstr "~LF"
-
-#: ascfldlg.src#DLG_ASCII_FILTER.modaldialog.text
-msgid "ASCII Filter Options"
-msgstr "Roghanna Scagaire ASCII"
-
-#: dialog.src#CB_READ_ONLY.checkbox.text
-msgid "~Read-only"
-msgstr "~Inléite amháin"
-
-#: dialog.src#STR_LINKEDIT_TEXT.string.text
-msgid "Edit links"
-msgstr "Cuir naisc in eagar"
-
-#: dialog.src#STR_SPELLING_COMPLETED.string.text
-#: olmenu.src#STR_SPELL_OK.string.text
-msgid "The spellcheck is complete."
-msgstr "Tá an tseiceáil litrithe críochnaithe."
-
-#: docstdlg.src#TP_DOC_STAT.FT_PAGE.fixedtext.text
-msgid "Number of Pages:"
-msgstr "Líon na Leathanach:"
-
-#: docstdlg.src#TP_DOC_STAT.FT_TABLE.fixedtext.text
-msgid "Number of Tables:"
-msgstr "Líon na dTáblaí:"
-
-#: docstdlg.src#TP_DOC_STAT.FT_GRF.fixedtext.text
-msgid "Number of Graphics:"
-msgstr "Líon na nGrafaicí:"
-
-#: docstdlg.src#TP_DOC_STAT.FT_OLE.fixedtext.text
-msgid "Number of OLE Objects:"
-msgstr "Líon na Réad OLE:"
-
-#: docstdlg.src#TP_DOC_STAT.FT_PARA.fixedtext.text
-msgid "Number of Paragraphs:"
-msgstr "Líon na nAlt:"
-
-#: docstdlg.src#TP_DOC_STAT.FT_WORD.fixedtext.text
-msgid "Number of Words:"
-msgstr "Líon na bhFocal:"
-
-#: docstdlg.src#TP_DOC_STAT.FT_CHAR.fixedtext.text
-msgid "Number of Characters:"
-msgstr "Líon na gCarachtar:"
-
-#: docstdlg.src#TP_DOC_STAT.FT_LINE.fixedtext.text
-msgid "Number of Lines:"
-msgstr "Líon na Línte:"
-
 #: regionsw.src#FT_SUBREG_TEXT.#define.text
 msgid "~Section"
 msgstr "~Rannán"
@@ -101393,6 +101273,109 @@ msgstr "~Roimh an rannán"
 #: regionsw.src#TP_SECTION_INDENTS.FT_AFTER.fixedtext.text
 msgid "~After section"
 msgstr "I ndi~aidh an rannáin"
+
+#: abstract.src#DLG_INSERT_ABSTRACT.FL_1.fixedline.text
+msgid ""
+"_: abstract.src#DLG_INSERT_ABSTRACT.FL_1.fixedline.text\n"
+"Properties"
+msgstr "Airíonna"
+
+#: abstract.src#DLG_INSERT_ABSTRACT.FT_LEVEL.fixedtext.text
+msgid "Included outline levels"
+msgstr "Leibhéil imlíne curtha san áireamh"
+
+#: abstract.src#DLG_INSERT_ABSTRACT.FT_PARA.fixedtext.text
+msgid "Subpoints per level"
+msgstr "Fophointí sa leibhéal"
+
+#: abstract.src#DLG_INSERT_ABSTRACT.FT_DESC.fixedtext.text
+msgid ""
+"The abstract contains the selected number of paragraphs from the included "
+"outline levels."
+msgstr ""
+
+#: abstract.src#DLG_INSERT_ABSTRACT.modaldialog.text
+msgid "Create AutoAbstract"
+msgstr "Cruthaigh UathChoimriú"
+
+#: ascfldlg.src#DLG_ASCII_FILTER.FL_1.fixedline.text
+msgid ""
+"_: ascfldlg.src#DLG_ASCII_FILTER.FL_1.fixedline.text\n"
+"Properties"
+msgstr "Airíonna"
+
+#: ascfldlg.src#DLG_ASCII_FILTER.FT_FONT.fixedtext.text
+msgid "Default fonts"
+msgstr "Clónna réamhshocraithe"
+
+#: ascfldlg.src#DLG_ASCII_FILTER.FT_LANGUAGE.fixedtext.text
+msgid "Lan~guage"
+msgstr "Tean~ga"
+
+#: ascfldlg.src#DLG_ASCII_FILTER.FT_CRLF.fixedtext.text
+msgid "~Paragraph break"
+msgstr "Briseadh ~ailt"
+
+#: ascfldlg.src#DLG_ASCII_FILTER.RB_CRLF.radiobutton.text
+msgid "~CR & LF"
+msgstr "~CR & LF"
+
+#: ascfldlg.src#DLG_ASCII_FILTER.RB_CR.radiobutton.text
+msgid "C~R"
+msgstr "C~R"
+
+#: ascfldlg.src#DLG_ASCII_FILTER.RB_LF.radiobutton.text
+msgid "~LF"
+msgstr "~LF"
+
+#: ascfldlg.src#DLG_ASCII_FILTER.modaldialog.text
+msgid "ASCII Filter Options"
+msgstr "Roghanna Scagaire ASCII"
+
+#: dialog.src#CB_READ_ONLY.checkbox.text
+msgid "~Read-only"
+msgstr "~Inléite amháin"
+
+#: dialog.src#STR_LINKEDIT_TEXT.string.text
+msgid "Edit links"
+msgstr "Cuir naisc in eagar"
+
+#: dialog.src#STR_SPELLING_COMPLETED.string.text
+#: olmenu.src#STR_SPELL_OK.string.text
+msgid "The spellcheck is complete."
+msgstr "Tá an tseiceáil litrithe críochnaithe."
+
+#: docstdlg.src#TP_DOC_STAT.FT_PAGE.fixedtext.text
+msgid "Number of Pages:"
+msgstr "Líon na Leathanach:"
+
+#: docstdlg.src#TP_DOC_STAT.FT_TABLE.fixedtext.text
+msgid "Number of Tables:"
+msgstr "Líon na dTáblaí:"
+
+#: docstdlg.src#TP_DOC_STAT.FT_GRF.fixedtext.text
+msgid "Number of Graphics:"
+msgstr "Líon na nGrafaicí:"
+
+#: docstdlg.src#TP_DOC_STAT.FT_OLE.fixedtext.text
+msgid "Number of OLE Objects:"
+msgstr "Líon na Réad OLE:"
+
+#: docstdlg.src#TP_DOC_STAT.FT_PARA.fixedtext.text
+msgid "Number of Paragraphs:"
+msgstr "Líon na nAlt:"
+
+#: docstdlg.src#TP_DOC_STAT.FT_WORD.fixedtext.text
+msgid "Number of Words:"
+msgstr "Líon na bhFocal:"
+
+#: docstdlg.src#TP_DOC_STAT.FT_CHAR.fixedtext.text
+msgid "Number of Characters:"
+msgstr "Líon na gCarachtar:"
+
+#: docstdlg.src#TP_DOC_STAT.FT_LINE.fixedtext.text
+msgid "Number of Lines:"
+msgstr "Líon na Línte:"
 
 #: wordcountdialog.src#DLG_WORDCOUNT.FL_CURRENT.fixedline.text
 msgid "Current selection"
