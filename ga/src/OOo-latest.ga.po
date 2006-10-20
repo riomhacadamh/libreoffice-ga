@@ -7577,7 +7577,7 @@ msgstr "Cuir colúin i bhfeidhm"
 
 #: WizardPages.src#STR_WIZ_TYPE_SELECT_TITEL.string.text
 msgid "Type formatting"
-msgstr ""
+msgstr "Formáidiú cló"
 
 #: WizardPages.src#STR_WIZ_PKEY_ALREADY_DEFINED.string.text
 msgid "The following fields have already been set as primary keys:\n"
@@ -8964,6 +8964,8 @@ msgid ""
 "Accept the License Agreement for the extension by pressing the \\'Accept\\' "
 "button."
 msgstr ""
+"Glac leis an Chomhaontú um Cheadúnas le haghaidh na heisínteachta trí "
+"chnaipe \\'Glac leis\\' a bhrú."
 
 #: dp_gui_dialog.src#RID_DLG_LICENSE.PB_LICENSE_DOWN.pushbutton.text
 msgid "~Scroll Down"
@@ -8991,6 +8993,9 @@ msgid ""
 "because every user has to agree to the license agreement of the extension. "
 "The extension will not be installed."
 msgstr ""
+"Ní féidir eisínteacht %NAME a shuiteáil faoi \"Eisínteachtaí %PRODUCTNAME\", "
+"toisc go bhfuil gá le gach úsáideoir a ghlacadh le ceadúnas na "
+"heisínteachta. Ní shuiteálfar an eisínteacht."
 
 #: dp_gui_versionboxes.src#RID_QUERYBOX_VERSION_LESS.infobox.text
 msgid ""
@@ -8999,6 +9004,10 @@ msgid ""
 "Press OK to replace the installed extension.\n"
 "Press Cancel to abort the installation."
 msgstr ""
+"Tá tú ar tí leagan $NEW d'eisínteacht $NAME a shuiteáil. Tá an leagan níos "
+"nuaí $DEPLOYED suiteáilte cheana.\n"
+"Brúigh OK chun an eisínteacht nua a chur in ionad na heisínteachta atá ann.\n"
+"Brúigh Cealaigh chun an tsuiteáil a thobscor."
 
 #: dp_gui_versionboxes.src#RID_QUERYBOX_VERSION_EQUAL.infobox.text
 msgid ""
@@ -9007,6 +9016,10 @@ msgid ""
 "Press OK to replace the installed extension.\n"
 "Press Cancel to abort the installation."
 msgstr ""
+"Tá tú ar tí leagan $NEW d'eisínteacht $NAME a shuiteáil. Tá an leagan sin "
+"suiteáilte cheana.\n"
+"Brúigh OK chun an eisínteacht a chur in ionad na heisínteachta atá ann.\n"
+"Brúigh Cealaigh chun an tsuiteáil a thobscor."
 
 #: dp_gui_versionboxes.src#RID_QUERYBOX_VERSION_GREATER.infobox.text
 msgid ""
@@ -9015,6 +9028,10 @@ msgid ""
 "Press OK to replace the installed extension.\n"
 "Press Cancel to abort the installation."
 msgstr ""
+"Tá tú ar tí leagan $NEW d'eisínteacht $NAME a shuiteáil. Tá an leagan níos "
+"sine $DEPLOYED suiteáilte cheana.\n"
+"Brúigh OK chun an eisínteacht nua a chur in ionad na heisínteachta atá ann.\n"
+"Brúigh Cealaigh chun an tsuiteáil a thobscor."
 
 #: dp_manager.src#RID_STR_COPYING_PACKAGE.string.text
 msgid "Copying: "
@@ -9694,7 +9711,7 @@ msgstr "Portaingéilis (An Phortaingéil)"
 
 #: abspilot.src#RID_DLG_ADDRESSBOOKSOURCEPILOT.modaldialog.text
 msgid "Address Book Data Source Wizard"
-msgstr ""
+msgstr "Draoi Foinse Sonraí Seolaidh"
 
 #: abspilot.src#RID_DLG_ADDRESSBOOKSOURCEPILOT.STR_SELECT_ABTYPE.string.text
 msgid "Address book type"
@@ -10363,7 +10380,7 @@ msgstr " (Am)"
 
 #: groupboxpages.src#RID_PAGE_GROUPRADIOSELECTION.FT_RADIOLABELS.fixedtext.text
 msgid "Which ~names do you want to give the option fields?"
-msgstr ""
+msgstr "Cé acu ai~nmneacha is mian leat a chur ar na réimsí rogha?"
 
 #: groupboxpages.src#RID_PAGE_GROUPRADIOSELECTION.FT_RADIOBUTTONS.fixedtext.text
 msgid ""
@@ -10397,10 +10414,11 @@ msgstr "Roghnú an Réimse Réamhshocraithe"
 #: groupboxpages.src#RID_PAGE_OPTIONVALUES.FT_OPTIONVALUES_EXPL.fixedtext.text
 msgid "When you select an option, the option group is given a specific value."
 msgstr ""
+"Nuair a roghnaíonn tú rogha, cuirtear luach faoi leith ar an ngrúpa roghanna."
 
 #: groupboxpages.src#RID_PAGE_OPTIONVALUES.FT_OPTIONVALUES.fixedtext.text
 msgid "Which ~value do you want to assign to each option?"
-msgstr ""
+msgstr "Cé acu l~uach ar mhaith leat chur ar gach rogha?"
 
 #: groupboxpages.src#RID_PAGE_OPTIONVALUES.FT_RADIOBUTTONS.fixedtext.text
 msgid ""
@@ -10414,11 +10432,11 @@ msgstr "Luachanna Réimse"
 
 #: groupboxpages.src#RID_PAGE_OPTIONS_FINAL.FT_NAMEIT.fixedtext.text
 msgid "Which ~caption is to be given to your option group?"
-msgstr ""
+msgstr "Cé acu ~ceannteideal ar mhaith leat a chur le do ghrúpa roghanna?"
 
 #: groupboxpages.src#RID_PAGE_OPTIONS_FINAL.FT_THATSALL.fixedtext.text
 msgid "These were all details needed to create the option group."
-msgstr ""
+msgstr "Ba iad na sonraí a raibh gá leo agus an grúpa roghanna á chruthú."
 
 #: groupboxpages.src#RID_PAGE_OPTIONS_FINAL.tabpage.text
 msgid "Create Option Group"
@@ -10429,6 +10447,8 @@ msgid ""
 "You can either save the value of the option group in a database field or use "
 "it for a later action."
 msgstr ""
+"Is féidir leat luach an ghrúpa roghanna a shábháil i réimse bunachair "
+"sonraí, nó is féidir é a úsáid i ngníomh amach anseo."
 
 #: listcombopages.src#RID_PAGE_LCW_CONTENTSELECTION_TABLE.FL_FRAME.fixedline.text
 #: fmstring.src#RID_STR_CONTROL.string.text
@@ -12388,15 +12408,15 @@ msgstr "Socraigh Focal Faire Oscailte"
 
 #: impdialog.src#STR_PDF_EXPORT_CB_PERM.string.text
 msgid "~Restrict permissions"
-msgstr ""
+msgstr "~Teorannaigh ceadanna"
 
 #: impdialog.src#STR_PDF_EXPORT_OSPWD.string.text
 msgid "Set ~permission password..."
-msgstr ""
+msgstr "Socraigh ~focal faire na gceadanna..."
 
 #: impdialog.src#STR_PDF_EXPORT_ODPWD.string.text
 msgid "Set Permission Password"
-msgstr ""
+msgstr "Socraigh Focal Faire na gCeadanna"
 
 #: impdialog.src#RID_PDF_TAB_GENER.FL_PAGES.fixedline.text
 #: acredlin.src#RID_SCDLG_CHANGES.FT_ASSIGN.fixedtext.text
@@ -13808,13 +13828,13 @@ msgstr "Táirgí cáilitheacha á lorg"
 msgid ""
 "_: ActionTe.ulf#OOO_ACTIONTEXT_11.LngText.text\n"
 "Computing space requirements"
-msgstr ""
+msgstr "Riachtanais spáis á aimsiú"
 
 #: ActionTe.ulf#OOO_ACTIONTEXT_12.LngText.text
 msgid ""
 "_: ActionTe.ulf#OOO_ACTIONTEXT_12.LngText.text\n"
 "Computing space requirements"
-msgstr ""
+msgstr "Riachtanais spáis á aimsiú"
 
 #: ActionTe.ulf#OOO_ACTIONTEXT_13.LngText.text
 msgid "Creating folders"
@@ -13860,7 +13880,7 @@ msgstr "Comhad: [1],  Comhadlann: [9],  Méid: [6]"
 msgid ""
 "_: ActionTe.ulf#OOO_ACTIONTEXT_21.LngText.text\n"
 "Computing space requirements"
-msgstr ""
+msgstr "Riachtanais spáis á aimsiú"
 
 #: ActionTe.ulf#OOO_ACTIONTEXT_22.LngText.text
 msgid "Searching for related applications"
@@ -13928,7 +13948,7 @@ msgstr "Coinníollacha tosaithe á luacháil"
 
 #: ActionTe.ulf#OOO_ACTIONTEXT_37.LngText.text
 msgid "Migrating feature states from related applications"
-msgstr ""
+msgstr "Staideanna gnéithe á n-aistriú ó fheidhmchláir ghaolmhara"
 
 #: ActionTe.ulf#OOO_ACTIONTEXT_38.LngText.text
 msgid "Application: [1]"
@@ -16515,7 +16535,7 @@ msgstr ""
 
 #: Property.ulf#OOO_ARPCOMMENTSTEMPLATE.LngText.text
 msgid "Comment in the Add-Remove-Programs Applet"
-msgstr ""
+msgstr "Nóta san Fheidhmchláirín Add-Remove-Programs"
 
 #: Property.ulf#OOO_ARPCONTACTTEMPLATE.LngText.text
 msgid "Department for technical support"
@@ -26745,7 +26765,7 @@ msgstr "Scálaigh Téacs"
 
 #: ChartCommands.xcu#..ChartCommands.UserInterface.Commands..uno_DataDescriptionType.Label.value.text
 msgid "Caption Type for Chart Data"
-msgstr ""
+msgstr "Cineál an Cheannteidil le haghaidh Sonraí Cairte"
 
 #: ChartCommands.xcu#..ChartCommands.UserInterface.Commands..uno_LegendPosition.Label.value.text
 msgid "Legend Position"
@@ -28513,7 +28533,7 @@ msgid ""
 "_: Effects.xcu#..Effects.UserInterface.Effects.ooo_entrance_unfold.Label."
 "value.text\n"
 "Unfold"
-msgstr ""
+msgstr "Dífhill"
 
 #: Effects.xcu#..Effects.UserInterface.Effects.ooo_entrance_whip.Label.value.text
 msgid ""
@@ -28652,7 +28672,7 @@ msgstr "Splanc Lonrach"
 
 #: Effects.xcu#..Effects.UserInterface.Effects.ooo_emphasis_color_over_by_word.Label.value.text
 msgid "Color Over by Word"
-msgstr ""
+msgstr "Cuir dath anuas ar gach focal"
 
 #: Effects.xcu#..Effects.UserInterface.Effects.ooo_emphasis_reveal_underline.Label.value.text
 msgid "Reveal Underline"
@@ -28664,7 +28684,7 @@ msgstr "Cumasc Datha"
 
 #: Effects.xcu#..Effects.UserInterface.Effects.ooo_emphasis_color_over_by_letter.Label.value.text
 msgid "Color Over by Letter"
-msgstr ""
+msgstr "Cuir dath anuas ar gach litir"
 
 #: Effects.xcu#..Effects.UserInterface.Effects.ooo_emphasis_complementary_color.Label.value.text
 msgid "Complementary Color"
@@ -28935,7 +28955,7 @@ msgid ""
 "_: Effects.xcu#..Effects.UserInterface.Effects.ooo_exit_unfold.Label.value."
 "text\n"
 "Unfold"
-msgstr ""
+msgstr "Dífhill"
 
 #: Effects.xcu#..Effects.UserInterface.Effects.ooo_exit_zoom.Label.value.text
 msgid ""
