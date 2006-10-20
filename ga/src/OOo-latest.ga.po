@@ -79907,7 +79907,7 @@ msgstr "Lár"
 
 #: fontwork.src#RID_SVXDLG_FONTWORK.TBX_ADJUST.TBI_ADJUST_AUTOSIZE.toolboxitem.text
 msgid "AutoSize Text"
-msgstr ""
+msgstr "UathMhéid Téacs"
 
 #: fontwork.src#RID_SVXDLG_FONTWORK.MTR_FLD_DISTANCE.metricfield.text
 msgid ""
@@ -85776,6 +85776,9 @@ msgid ""
 "Then drag the command to the Commands list of the Toolbars tab page in the "
 "Customize dialog."
 msgstr ""
+"Chun ordú a chur le barra uirlisí, roghnaigh an chatagóir agus an t-ordú. "
+"Ansin tarraing an t-ordú ar an liosta Orduithe de chluaisín Barraí Uirlisí "
+"sa dialóg \"Saincheap\"."
 
 #: selector.src#RID_DLG_SCRIPTSELECTOR.BOX_SELECTOR_CATEGORIES.STR_MYMACROS.string.text
 msgid ""
@@ -86181,7 +86184,7 @@ msgstr "Limistéar ailt"
 msgid ""
 "_: swframeposstrings.src#RID_SVXSW_FRAMEPOSITIONS.STR_PRTAREA.string.text\n"
 "Paragraph text area"
-msgstr ""
+msgstr "Limistéar téacs ailt"
 
 #: swframeposstrings.src#RID_SVXSW_FRAMEPOSITIONS.STR_REL_PG_LEFT.string.text
 msgid "Left page border"
@@ -86257,7 +86260,7 @@ msgstr "Thíos"
 
 #: swframeposstrings.src#RID_SVXSW_FRAMEPOSITIONS.STR_REL_PG_TOP.string.text
 msgid "Top page border"
-msgstr ""
+msgstr "Imlíne ag barr an leathanaigh"
 
 #: swframeposstrings.src#RID_SVXSW_FRAMEPOSITIONS.STR_REL_PG_BOTTOM.string.text
 msgid "Bottom page border"
@@ -86265,11 +86268,11 @@ msgstr "Imlíne ag bun an leathanaigh"
 
 #: swframeposstrings.src#RID_SVXSW_FRAMEPOSITIONS.STR_REL_FRM_TOP.string.text
 msgid "Top paragraph border"
-msgstr ""
+msgstr "Imlíne ag barr an ailt"
 
 #: swframeposstrings.src#RID_SVXSW_FRAMEPOSITIONS.STR_REL_FRM_BOTTOM.string.text
 msgid "Bottom paragraph border"
-msgstr ""
+msgstr "Imlíne ag bun an ailt"
 
 #: swframeposstrings.src#RID_SVXSW_FRAMEPOSITIONS.STR_REL_BORDER.string.text
 msgid "Margin"
@@ -86280,23 +86283,23 @@ msgid ""
 "_: swframeposstrings.src#RID_SVXSW_FRAMEPOSITIONS.STR_REL_PRTAREA.string."
 "text\n"
 "Paragraph text area"
-msgstr ""
+msgstr "Limistéar téacs ailt"
 
 #: swframeposstrings.src#RID_SVXSW_FRAMEPOSITIONS.STR_FLY_REL_PG_LEFT.string.text
 msgid "Left frame border"
-msgstr ""
+msgstr "Imlíne an fhráma ar chlé"
 
 #: swframeposstrings.src#RID_SVXSW_FRAMEPOSITIONS.STR_FLY_MIR_REL_PG_LEFT.string.text
 msgid "Inner frame border"
-msgstr ""
+msgstr "Imlíne istigh an fhráma"
 
 #: swframeposstrings.src#RID_SVXSW_FRAMEPOSITIONS.STR_FLY_REL_PG_RIGHT.string.text
 msgid "Right frame border"
-msgstr ""
+msgstr "Imlíne an fhráma ar dheis"
 
 #: swframeposstrings.src#RID_SVXSW_FRAMEPOSITIONS.STR_FLY_MIR_REL_PG_RIGHT.string.text
 msgid "Outer frame border"
-msgstr ""
+msgstr "Imlíne amuigh an fhráma"
 
 #: swframeposstrings.src#RID_SVXSW_FRAMEPOSITIONS.STR_FLY_REL_PG_FRAME.string.text
 msgid "Entire frame"
@@ -87145,7 +87148,7 @@ msgstr "~Lárnach"
 
 #: tabline.src#RID_SVXPAGE_LINE.CBX_SYNCHRONIZE.checkbox.text
 msgid "Synchroni~ze ends"
-msgstr ""
+msgstr "~Sioncrónaigh an dhá cheann"
 
 #: tabline.src#RID_SVXPAGE_LINE.FL_EDGE_STYLE.fixedline.text
 msgid "Corner style"
@@ -87631,7 +87634,7 @@ msgstr "~Oiriúnaigh an cruth don téacs"
 
 #: textattr.src#RID_SVXPAGE_TEXTATTR.FL_DISTANCE.fixedline.text
 msgid "Spacing to borders"
-msgstr ""
+msgstr "Spásáil go himlínte"
 
 #: textattr.src#RID_SVXPAGE_TEXTATTR.FT_LEFT.fixedtext.text
 msgid ""
@@ -89864,6 +89867,11 @@ msgid ""
 "\n"
 "How do you want to proceed?"
 msgstr ""
+"Tá an t-ásc seo nasctha leis an bhfoirm.\n"
+"\n"
+"Caillfidh tú do chuid athruithe nuair a athluchtófar an fhoirm.\n"
+"\n"
+"Cad ba mhaith leat a dhéanamh?"
 
 #: datanavi.src#RID_ERR_INVALID_XMLNAME.errorbox.text
 msgid "The name '%1' is not valid in XML. Please enter a different name."
@@ -90379,11 +90387,11 @@ msgstr "Déan cuardach ar"
 
 #: fmsearch.src#RID_SVXDLG_SEARCHFORM.RB_SEARCHFORNULL.radiobutton.text
 msgid "Field content is ~NULL"
-msgstr ""
+msgstr "Is ~NULL é inneachar an réimse"
 
 #: fmsearch.src#RID_SVXDLG_SEARCHFORM.RB_SEARCHFORNOTNULL.radiobutton.text
 msgid "Field content is not NU~LL"
-msgstr ""
+msgstr "Ní NU~LL é inneachar an réimse"
 
 #: fmsearch.src#RID_SVXDLG_SEARCHFORM.FL_WHERE.fixedline.text
 msgid "Where to search"
@@ -90463,7 +90471,7 @@ msgstr "Cuardach Taifead"
 
 #: fmsearch.src#RID_STR_RECORDSEARCH_METHODS.string.text
 msgid "anywhere in the field;beginning of field;end of field;entire field"
-msgstr ""
+msgstr "áit ar bith sa réimse;tús an réimse;deireadh an réimse;réimse iomlán"
 
 #: fmsearch.src#RID_STR_RECORDSEARCH_BUTTONS.string.text
 msgid "From top;From bottom;Search;Cancel"
@@ -90482,6 +90490,8 @@ msgid ""
 "Overflow, search continued at the beginning;Overflow, search continued at "
 "the end"
 msgstr ""
+"Cuardach thar maoil, lean ar aghaidh ón tús;Cuardach thar maoil, lean ar "
+"aghaidh ón deireadh"
 
 #: fmsearch.src#RID_STR_SEARCH_COUNTING.string.text
 msgid "counting records"
@@ -90671,6 +90681,7 @@ msgstr ""
 msgid ""
 "LIKE;NOT;EMPTY;TRUE;FALSE;IS;BETWEEN;OR;AND;Average;Count;Maximum;Minimum;Sum"
 msgstr ""
+"LIKE;NOT;EMPTY;TRUE;FALSE;IS;BETWEEN;OR;AND;Average;Count;Maximum;Minimum;Sum"
 
 #: fmstring.src#RID_STR_SVT_SQL_SYNTAX_VALUE_NO_LIKE.string.text
 msgid "The value #1 cannot be used with LIKE."
@@ -90710,7 +90721,7 @@ msgstr "Tá iarratas darb ainm \"#\" sa bhunachar sonraí cheana."
 
 #: fmstring.src#RID_STR_SVT_SQL_CYCLIC_SUB_QUERIES.string.text
 msgid "The statement contains a cyclic reference to one or more sub queries."
-msgstr ""
+msgstr "Tá tagairt chiorclach d'fho-iarratas amháin ar a laghad sa ráiteas."
 
 #: fmstring.src#RID_STR_SVT_SQL_SYNTAX_COLUMN.string.text
 msgid "The column \"#1\" is unknown in the table \"#2\"."
@@ -91224,12 +91235,16 @@ msgid ""
 "The form layer wasn't loaded as the required IO-services (stardiv.uno.io.*) "
 "could not be instantiated."
 msgstr ""
+"Níor luchtaíodh an sraith fhoirme toisc nach féidir na seirbhísí "
+"riachtanacha I/A (stardiv.uno.io.*) a áscú."
 
 #: svxerr.src#RID_SVXERRCODE._ERRCODE_SVX_FORMS_NOIOSERVICES___ERRCODE_CLASS_WRITE____ERRCODE_RES_MASK.string.text
 msgid ""
 "The form layer wasn't written as the required IO services (stardiv.uno.io.*) "
 "could not be instantiated."
 msgstr ""
+"Níor scríobhadh an sraith foirme toisc nach féidir na seirbhísí riachtanacha "
+"I/A (stardiv.uno.io.*) a áscú."
 
 #: svxerr.src#RID_SVXERRCODE._ERRCODE_SVX_FORMS_READWRITEFAILED___ERRCODE_CLASS_READ____ERRCODE_RES_MASK.string.text
 msgid ""
@@ -91252,17 +91267,21 @@ msgid ""
 "An error occurred while reading one of the bullets. Not all of the bullets "
 "were loaded."
 msgstr ""
+"Tharla earráid agus ceann de na hurchair á léamh. Níor luchtaíodh na "
+"hurchair uile."
 
 #: svxerr.src#RID_SVXERRCODE.ERRCODE_SVX_MODIFIED_VBASIC_STORAGE___ERRCODE_RES_MASK.string.text
 msgid ""
 "All changes to the Basic Code are lost.The original VBA Macro Code is saved "
 "instead."
 msgstr ""
+"Cailleadh gach athrú ar an gcód Basic. Sábháladh an Bunchód Macra VBA ina "
+"ionad."
 
 #: svxerr.src#RID_SVXERRCODE.ERRCODE_SVX_VBASIC_STORAGE_EXIST___ERRCODE_RES_MASK.string.text
 msgid ""
 "The original VBA Basic Code contained in the document will not be saved."
-msgstr ""
+msgstr "Ní shábhálfar an Bunchód Basic VBA atá sa cháipéis."
 
 #: svxerr.src#RID_SVXERRCODE.ERRCODE_SVX_WRONGPASS___ERRCODE_RES_MASK.string.text
 msgid "The password is incorrect. The document cannot be opened."
@@ -91273,12 +91292,17 @@ msgid ""
 "The encryption method used in this document is not supported. Only Microsoft "
 "Office 97/2000 compatible password encryption is supported."
 msgstr ""
+"Ní thacaítear leis an mhodh criptithe a úsáideadh sa cháipéis seo. Ní "
+"thacaítear ach le criptiú focail faire atá comhoiriúnach le Microsoft Office "
+"97/2000."
 
 #: svxerr.src#RID_SVXERRCODE.ERRCODE_SVX_READ_FILTER_PPOINT___ERRCODE_RES_MASK.string.text
 msgid ""
 "The loading of password-encrypted Microsoft PowerPoint presentations is not "
 "supported."
 msgstr ""
+"Ní thacaítear le luchtú láithreoireachtaí Microsoft PowerPoint a bhfuil "
+"focail fhaire chriptithe acu."
 
 #: svxerr.src#RID_SVXERRCODE.ERRCODE_SVX_EXPORT_FILTER_CRYPT___ERRCODE_RES_MASK.string.text
 msgid ""
@@ -91286,6 +91310,9 @@ msgid ""
 "Office format.\n"
 "Do you want to save the document without password protection?"
 msgstr ""
+"Ní thacaítear le cosaint fhocal faire nuair a shábháiltear cáipéis i "
+"bhformáid Microsoft Office.\n"
+"Ar mhaith leat an cháipéis a shábháil gan chosaint fhocal faire?"
 
 #: svxitems.src#RID_SVXITEMS_EXTRAS_CHARCOLOR.string.text
 msgid ""
@@ -92052,7 +92079,7 @@ msgstr ""
 
 #: svxitems.src#RID_SVXITEMS_PROT_SIZE_FALSE.string.text
 msgid "Size not protected"
-msgstr ""
+msgstr "Méid gan chosaint"
 
 #: svxitems.src#RID_SVXITEMS_PROT_POS_TRUE.string.text
 #: svdstr.src#STR_ItemNam_OBJMOVEPROTECT.string.text
@@ -92081,7 +92108,7 @@ msgstr "Spásáil díchumasaithe"
 
 #: svxitems.src#RID_SVXITEMS_BOXINF_MDIST_TRUE.string.text
 msgid "Keep spacing interval"
-msgstr ""
+msgstr "Caomhnaigh spásáil"
 
 #: svxitems.src#RID_SVXITEMS_BOXINF_MDIST_FALSE.string.text
 msgid "Allowed to fall short of spacing interval"
@@ -92103,7 +92130,7 @@ msgstr "Deireadh an Leathanaigh"
 
 #: svxitems.src#RID_SVXITEMS_PAGE_END_FALSE.string.text
 msgid "No Page End"
-msgstr ""
+msgstr "Gan Deireadh Leathanaigh"
 
 #: svxitems.src#RID_SVXITEMS_MARGIN_LEFT.string.text
 msgid "Left margin: "
@@ -92111,7 +92138,7 @@ msgstr "Imeall ar chlé: "
 
 #: svxitems.src#RID_SVXITEMS_MARGIN_TOP.string.text
 msgid "Top margin: "
-msgstr ""
+msgstr "Imeall ag an mbarr: "
 
 #: svxitems.src#RID_SVXITEMS_MARGIN_RIGHT.string.text
 msgid "Right margin: "
@@ -92242,11 +92269,11 @@ msgstr "Rialú baintreacha "
 
 #: svxitems.src#RID_SVXITEMS_HYPHEN_MINLEAD.string.text
 msgid "Characters at end of line"
-msgstr ""
+msgstr "Carachtair ag deireadh na líne"
 
 #: svxitems.src#RID_SVXITEMS_HYPHEN_MINTRAIL.string.text
 msgid "Characters at beginning of line"
-msgstr ""
+msgstr "Carachtair ag tús na líne"
 
 #: svxitems.src#RID_SVXITEMS_HYPHEN_MAX.string.text
 msgid "Hyphens"
@@ -92287,7 +92314,7 @@ msgstr "Dath an chúlra: "
 
 #: svxitems.src#RID_SVXITEMS_PATTERN_COLOR.string.text
 msgid "Pattern color: "
-msgstr ""
+msgstr "Dath an phatrúin: "
 
 #: svxitems.src#RID_SVXITEMS_BRUSH_CHAR.string.text
 msgid ""
@@ -92345,11 +92372,11 @@ msgstr "Gan spásáil uathoibríoch carachtar"
 
 #: svxitems.src#RID_SVXITEMS_HNGPNCT_OFF.string.text
 msgid "No hanging punctuation at line end"
-msgstr ""
+msgstr "Gan poncaíocht chrochta ag deireadh na líne"
 
 #: svxitems.src#RID_SVXITEMS_HNGPNCT_ON.string.text
 msgid "Hanging punctuation at line end"
-msgstr ""
+msgstr "Poncaíocht chrochta ag deireadh na líne"
 
 #: svxitems.src#RID_SVXITEMS_FORBIDDEN_RULE_OFF.string.text
 msgid "Apply list of forbidden characters to beginning and end of lines"
@@ -92395,7 +92422,7 @@ msgstr "Téacs ailínithe le bonnlíne"
 
 #: svxitems.src#RID_SVXITEMS_PARAVERTALIGN_TOP.string.text
 msgid "Text aligned top"
-msgstr ""
+msgstr "Téacs ailínithe ag an mbarr"
 
 #: svxitems.src#RID_SVXITEMS_PARAVERTALIGN_CENTER.string.text
 msgid "Text aligned middle"
@@ -92403,7 +92430,7 @@ msgstr "Téacs ailínithe sa lár"
 
 #: svxitems.src#RID_SVXITEMS_PARAVERTALIGN_BOTTOM.string.text
 msgid "Text aligned bottom"
-msgstr ""
+msgstr "Téacs ailínithe ag an mbun"
 
 #: svxitems.src#RID_SVXITEMS_FRMDIR_HORI_LEFT_TOP.string.text
 msgid "Text direction left-to-right (horizontal)"
@@ -93728,6 +93755,8 @@ msgid ""
 "Digital Signature: The document signature does not match the document "
 "content. We strongly recommend you to do not trust this document."
 msgstr ""
+"Síniú Digiteach: Ní mheaitseálann síniú na cáipéise le hinneachar na "
+"cáipéise. Ní ceart duit muinín a chur sa cháipéis seo."
 
 #: stbctrls.src#RID_SVXSTR_XMLSEC_NO_SIG.string.text
 msgid "Digital Signature: The document is not signed."
@@ -97430,7 +97459,7 @@ msgstr "Diúltaigh athrú: $1"
 
 #: undo.src#STR_DONTEXPAND.string.text
 msgid "Stop attribute"
-msgstr ""
+msgstr "Stop tréith"
 
 #: undo.src#STR_AUTOCORRECT.string.text
 msgid ""
@@ -97480,7 +97509,7 @@ msgstr "Cuir tréithe tábla i bhfeidhm"
 
 #: undo.src#STR_TABLE_AUTOFMT.string.text
 msgid "AutoFormat Table"
-msgstr ""
+msgstr "UathFhormáidigh Tábla"
 
 #: undo.src#STR_TABLE_DELBOX.string.text
 msgid "Delete row/column"
@@ -98424,7 +98453,7 @@ msgstr "~Cill"
 
 #: mn.src#MN_TAB2.MN_SUB_TBLROW.FN_TABLE_ROW_SPLIT.menuitem.text
 msgid "Allow Row to Break A~cross Pages and Columns"
-msgstr ""
+msgstr "~Ceadaigh don ró briseadh thar leathanaigh agus colúin"
 
 #: mn.src#MN_TAB2.MN_SUB_TBLROW.FN_TABLE_OPTIMAL_HEIGHT.menuitem.text
 msgid "~Optimal Height"
@@ -98633,15 +98662,15 @@ msgstr "~Leag Amach"
 
 #: mn.src#MN_ALIGN_FRAME.MN_FORMAT_FRM_HORZ.FN_FRAME_ALIGN_VERT_TOP.menuitem.text
 msgid "Base at ~Top"
-msgstr ""
+msgstr "Bonn ag an m~Barr"
 
 #: mn.src#MN_ALIGN_FRAME.MN_FORMAT_FRM_HORZ.FN_FRAME_ALIGN_VERT_CENTER.menuitem.text
 msgid "Base in ~Middle"
-msgstr ""
+msgstr "Bonn sa ~Lár"
 
 #: mn.src#MN_ALIGN_FRAME.MN_FORMAT_FRM_HORZ.FN_FRAME_ALIGN_VERT_BOTTOM.menuitem.text
 msgid "Base at ~Bottom"
-msgstr ""
+msgstr "Bonn ag an ~mBun"
 
 #: mn.src#MN_GRF_POPUPMENU.FN_FORMAT_GRAFIC_DLG.menuitem.text
 msgid "~Picture..."
@@ -99073,7 +99102,7 @@ msgstr "Tástáil na Socruith~e..."
 
 #: mailconfigpage.src#DLG_MM_TESTACCOUNTSETTINGS.FI_INFO.fixedtext.text
 msgid "%PRODUCTNAME is testing the e-mail account settings..."
-msgstr ""
+msgstr "Tá %PRODUCTNAME ag baint triail as na socruithe cuntais ríomhphoist..."
 
 #: mailconfigpage.src#DLG_MM_TESTACCOUNTSETTINGS.FI_ERROR.fixedtext.text
 msgid "Errors"
@@ -99110,6 +99139,9 @@ msgid ""
 "system's settings and the settings in %PRODUCTNAME. Check the server name, "
 "the port and the secure connections settings"
 msgstr ""
+"Níorbh fhéidir le %PRODUCTNAME nascadh leis an bhfreastalaí ríomhphoist "
+"amach. Seiceáil socruithe do chórais agus na socruithe %PRODUCTNAME. "
+"Seiceáil ainm an fhreastalaí, an port, agus na socruithe naisc daingin"
 
 #: mailconfigpage.src#DLG_MM_SERVERAUTHENTICATION.CB_AUTHENTICATION.checkbox.text
 msgid "The outgoing mail server (SMTP) requires au~thentication"
@@ -99118,6 +99150,7 @@ msgstr "Éilíonn an freas~talaí ríomhphoist amach (SMTP) fíordheimhniú"
 #: mailconfigpage.src#DLG_MM_SERVERAUTHENTICATION.RB_SEP_AUTHENTICATION.radiobutton.text
 msgid "The outgoing mail server (SMTP) requires ~separate authentication"
 msgstr ""
+"Éilíonn an freastalaí ríomhphoist amach (SMTP) fíordheimhniú ~faoi leith"
 
 #: mailconfigpage.src#DLG_MM_SERVERAUTHENTICATION.FT_OUTGOINGSERVER.fixedtext.text
 msgid "Outgoing mail server:"
@@ -99128,6 +99161,9 @@ msgid ""
 "The outgoing mail server uses the same authentication as the ~incoming mail "
 "server. Enter the settings of the incoming mail server."
 msgstr ""
+"Úsáideann an freastalaí ríomhphoist amach an fíordheimhniú céanna leis an "
+"bhfreastalaí ríomhphoist isteach. Iontráil socruithe an fhreastalaí "
+"ríomhphoist isteach."
 
 #: mailconfigpage.src#DLG_MM_SERVERAUTHENTICATION.FT_INCOMINGSERVER.fixedtext.text
 msgid "Incoming mail server:"
@@ -103615,7 +103651,7 @@ msgstr "Aird~e (ar a laghad)"
 
 #: frmpage.src#TP_FRM_STD.CB_AUTOHEIGHT.checkbox.text
 msgid "AutoSize"
-msgstr ""
+msgstr "UathMhéid"
 
 #: frmpage.src#TP_FRM_STD.CB_FIXEDRATIO.checkbox.text
 msgid "~Keep ratio"
