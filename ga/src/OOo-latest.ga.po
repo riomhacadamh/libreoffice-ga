@@ -9545,8 +9545,8 @@ msgid ""
 "This package requires a newer version of the Windows Installer. \n"
 "Do you want to update the version of the Windows Installer on your system?"
 msgstr ""
-"Ní mór leagan níos nua den Suiteoir Windows don phacáiste seo. \n"
-"Ar mhaith leat leagan an tSuiteora Windows ar do chóras a uasdhátú?"
+"Ní mór leagan níos nua den Suiteálaí Windows don phacáiste seo. \n"
+"Ar mhaith leat leagan an tSuiteálaí Windows ar do chóras a uasdhátú?"
 
 #: setup.ulf#_USAGE_.LngText.text
 msgid ""
@@ -37960,7 +37960,7 @@ msgstr "~Doimhneacht na ndathanna"
 
 #: rtsetup.src#RID_RTS_FONTSUBSTPAGE.RID_RTS_FS_ENABLE_BTN.checkbox.text
 msgid "~Enable font replacement"
-msgstr "Lig d'athchur clófhoirne"
+msgstr "~Lig d'athchur clófhoirne"
 
 #: rtsetup.src#RID_RTS_FONTSUBSTPAGE.RID_RTS_FS_SUBST_TXT.fixedtext.text
 msgid "Replaced ~fonts"
@@ -37974,7 +37974,7 @@ msgstr "~Bain"
 
 #: rtsetup.src#RID_RTS_FONTSUBSTPAGE.RID_RTS_FS_FROM_TXT.fixedtext.text
 msgid "Repla~ce font"
-msgstr "A~thchur clófhoireann"
+msgstr "A~thchuir clófhoireann"
 
 #: rtsetup.src#RID_RTS_FONTSUBSTPAGE.RID_RTS_FS_TO_TXT.fixedtext.text
 msgid "by ~printer font"
@@ -38004,7 +38004,7 @@ msgstr "~Cumraigh mar"
 
 #: rtsetup.src#RID_RTS_COMMANDPAGE.RID_RTS_CMD_BOX_SWALLOWFAXNO.checkbox.text
 msgid "~Fax number will be removed from output"
-msgstr "Bainfear uimhir an fhaics ón aschur"
+msgstr "Bainfear uimhir an ~fhacs ón aschur"
 
 #: rtsetup.src#RID_RTS_COMMANDPAGE.RID_RTS_CMD_TXT_PDFDIR.fixedtext.text
 msgid "PDF target directory :"
@@ -38041,12 +38041,12 @@ msgid ""
 "file name. If \"(TMP)\" is in the command line, the PostScript code will be "
 "supplied via a file, otherwise via standard input (i.e. as a pipe)."
 msgstr ""
-"Feidhmítear an líne orduithe do thiontairí PDF mar seo leanas: do ghach "
-"doiciméad a phriontaítear, athchuirtear\"(TMP)\" i líne na n-orduithe le in "
-"the command line is replaced by a temporary file and \"(OUTFILE)\" in the "
-"command line is replaced by the target PDF file name. If \"(TMP)\" is in the "
-"command line, the PostScript code will be supplied via a file, otherwise via "
-"standard input (i.e. as a pipe). "
+"Feidhmítear an líne orduithe do thiontairí PDF mar seo leanas: do gach "
+"cáipéis a phriontáiltear, athchuirtear \"(TMP)\" i líne na n-orduithe le "
+"comhad sealadach agus athchuirtear \"(OUTFILE)\" i líne na n-orduithe le "
+"hainm an sprioc-chomhad PDF. Má tá \"(TMP)\" i líne na n-orduithe, tugtar "
+"an cód PostScript trí chomhad, agus trí ionchur caighdeánach i ngach cás eile "
+"(.i. mar phíopa)."
 
 #: rtsetup.src#RID_RTS_COMMANDPAGE.RID_RTS_CMD_STR_PRINTERHELP.string.text
 msgid ""
@@ -38055,7 +38055,7 @@ msgid ""
 "command line."
 msgstr ""
 "Cuirtear an líne orduithe do ghléasanna priontála i bhfeidhm mar seo leanas: "
-"cuirtear an cód PostScript ar fáil mar ionchur caighdeánach (i.e. mar "
+"cuirtear an cód PostScript ar fáil mar ionchur caighdeánach (.i. mar "
 "phíopa) go dtí an líne orduithe."
 
 #: rtsetup.src#RID_RTS_COMMANDPAGE.RID_RTS_CMD_STR_FAXHELP.string.text
@@ -38066,12 +38066,12 @@ msgid ""
 "in the command line, the PostScript code will be supplied via a file, "
 "otherwise it is passed as standard input (i.e. as a pipe)."
 msgstr ""
-"Cuirtear an líne orduithe do ghléasanna fax i bhfeidhm mar seo leanas: do "
-"ghach fax a sheoltar, aischuirtear \"(TMP)\" i líne na n-orduithe le comhad "
-"sealadach.  agus aischuiirtear \"(PHONE)\" i líne na n-orduithe le huimhir "
-"an fhaics. Má ann do \"(TMP)\" i líne na n-orduithe, cuirfear an cód "
-"PostScript ar fáil mar chomhad. I gcásanna eile, deighleáilfear leis mar "
-"inchur caighdeánach (i.e. mar phíopa)."
+"Cuirtear an líne orduithe do ghléasanna facs i bhfeidhm mar seo leanas: do "
+"gach facs a sheoltar, aischuirtear \"(TMP)\" i líne na n-orduithe le comhad "
+"sealadach, agus aischuirtear \"(PHONE)\" i líne na n-orduithe le huimhir "
+"an fhacs. Má ann do \"(TMP)\" i líne na n-orduithe, cuirfear an cód "
+"PostScript ar fáil mar chomhad. I gcásanna eile, deighleálfar leis mar "
+"ionchur caighdeánach (.i. mar phíopa)."
 
 #: rtsetup.src#RID_RTS_OTHERPAGE.RID_RTS_OTHER_LEFTMARGIN_TXT.fixedtext.text
 #: hdft.src#_TEXT_FT_LMARGIN.#define.text
@@ -39194,7 +39194,7 @@ msgid ""
 msgstr ""
 "Is féidir leatsa cabhrú go mór leis an tionscadal tábhachtach foinsí "
 "oscailte seo fiú muna bhfuil agat ach beagán taithí ar dhearadh bogearraí nó "
-"ar chódáil. Tusa!"
+"ar ríomhchlárú. Tusa!"
 
 #: readme.xrm#ooo_readme.JoinProjects.A3.a.readmeitem.text
 msgid "At "
@@ -67438,7 +67438,7 @@ msgstr "Barra Feidhme (mód amhairc)"
 
 #: PaneDockingWindow.src#FLT_LEFT_PANE_IMPRESS_DOCKING_WINDOW.dockingwindow.text
 msgid "Slide Pane"
-msgstr "Pána na Sleamhan"
+msgstr "Pána na Sleamhnán"
 
 #: PaneDockingWindow.src#FLT_LEFT_PANE_DRAW_DOCKING_WINDOW.dockingwindow.text
 msgid "Page Pane"
@@ -69091,9 +69091,9 @@ msgid ""
 "Do you want to try to save your changes in all open documents before the "
 "program is terminated?"
 msgstr ""
-"Tharla botún gan choinne sa chlár.\n"
+"Tharla earráid gan choinne sa chlár.\n"
 "\n"
-"Ar mhaith leat iarracht a dhéanamh na hathruithe i ngach doiciméad atá "
+"Ar mhaith leat iarracht a dhéanamh na hathruithe i ngach cáipéis atá "
 "oscailte a shábháil sula ndúntar an clár?"
 
 #: app.src#MSG_ERR_NO_WEBBROWSER_FOUND.errorbox.text
@@ -69103,7 +69103,7 @@ msgid ""
 "default  location requested during the browser installation."
 msgstr ""
 "Níorbh fhéidir le %PRODUCTNAME brabhsálaí a aimsiú ar do chóras. Seiceáil do "
-"roghanna deisce, nó suiteáil brabhsálaí (mar shampla Mozilla) san áit "
+"roghanna deisce, nó suiteáil brabhsálaí (mar shampla Mozilla Firefox) san áit "
 "réamhshocraithe nuair a iarrtar ort é agus tú á shuiteáil."
 
 #: app.src#RID_WARN_POST_MAILTO.warningbox.text
@@ -69160,7 +69160,7 @@ msgid ""
 "This application is as object or print server active.\n"
 "Do you want to terminate anyway?"
 msgstr ""
-"Tá an feidhmchlár seo gníomhach mar oibiacht nó freastalaí priontála.\n"
+"Tá an feidhmchlár seo gníomhach mar réad nó freastalaí priontála.\n"
 "Ar mhaith leat críochnú mar sin féin?"
 
 #: app.src#STR_NODOUBLE.string.text
@@ -69202,7 +69202,7 @@ msgid ""
 "Another error occurred during the save recovery.\n"
 "Possibly, the data could not be entirely saved."
 msgstr ""
-"Tharla botún eile i rith an athshlánaithe sábhála.\n"
+"Tharla earráid eile i rith an athshlánaithe sábhála.\n"
 "D'fhéadfaí nár sábháladh an t-eolas ar fad."
 
 #: app.src#STR_SYSRESEXCEPTION.string.text
@@ -69227,24 +69227,24 @@ msgid ""
 "because too many files are open.\n"
 "Please close some files and try again."
 msgstr ""
-"Níorbh fhéidir an comhad $(FILE) a oscailt,\n"
+"Níorbh fhéidir comhad $(FILE) a oscailt,\n"
 "mar tá an iomarca comhad ar oscailt cheana féin.\n"
 "Dún roinnt comhad agus bain triail as arís."
 
 #: app.src#MSG_IOERR_ACCESS_DENIED.string.text
 msgid "The file $(FILE) could not be opened due to missing access rights."
 msgstr ""
-"Níorbh fhéidir an comhad $(FILE) a oscailt mar gheall ar chearta rochtana a "
+"Níorbh fhéidir comhad $(FILE) a oscailt mar gheall ar chearta rochtana a "
 "bheith in easnamh."
 
 #: app.src#MSG_IOERR_INVALID_ACCESS.string.text
 msgid "The file $(FILE) could not be accessed."
-msgstr "Níorbh fhéidir an comhad $(FILE) a rochtain."
+msgstr "Níorbh fhéidir comhad $(FILE) a rochtain."
 
 #: app.src#MSG_IOERR_INVALID_HANDLE.string.text
 msgid "The file $(FILE) could not be opened due to an invalid file handle."
 msgstr ""
-"Níorbh fhéidir an comhad $(FILE) a oscailt mar gheall ar comhadainm "
+"Níorbh fhéidir comhad $(FILE) a oscailt mar gheall ar comhadainm "
 "neamhbhailí."
 
 #: app.src#MSG_IOERR_CANNOT_MAKE.string.text
@@ -69324,7 +69324,7 @@ msgstr "Priontáil an cháipéis"
 #: app.src#STR_EVENT_MODIFYCHANGED.string.text
 #: macropg.src#RID_SVXSTR_EVENT_MODIFYCHANGED.string.text
 msgid "'Modified' status was changed"
-msgstr "Athraíodh an stádas 'Mionathruithe'"
+msgstr "Athraíodh an stádas 'Mionathraithe'"
 
 #: app.src#STR_ERR_NOTEMPLATE.string.text
 msgid "The selected template has an incorrect format"
@@ -69371,7 +69371,7 @@ msgstr "Barra Cabhrach"
 
 #: app.src#RID_STR_HLPFILENOTEXIST.string.text
 msgid "The help file for this topic is not installed."
-msgstr "Níl aon comhad cabhartha don ábhar seo suiteáilte."
+msgstr "Níl aon chomhad cabhartha don ábhar seo suiteáilte."
 
 #: app.src#RID_STR_HLPAPPNOTSTARTED.string.text
 msgid "The help system could not be started"
@@ -69472,7 +69472,7 @@ msgstr "Breiseáin"
 #: app.src#STR_KEY_FAVORITES_DIR.string.text
 #: optpath.src#RID_SVXSTR_KEY_FAVORITES_DIR.string.text
 msgid "Folder Bookmarks"
-msgstr "Leabharmhairc Comhad"
+msgstr "Leabharmharcanna Comhad"
 
 #: app.src#STR_KEY_ADDINS_PATH.string.text
 #: optpath.src#RID_SVXSTR_KEY_ADDINS_PATH.string.text
@@ -69509,7 +69509,7 @@ msgstr "Oscail Cáipéis"
 
 #: app.src#STR_QUICKSTART_PRELAUNCH.string.text
 msgid "Load %PRODUCTNAME During System Start-Up"
-msgstr "Lódáil %PRODUCTNAME i rith Thosaithe an Chórais"
+msgstr "Luchtaigh %PRODUCTNAME i rith Thosaithe an Chórais"
 
 #: app.src#STR_QUERY_UPDATE_LINKS.string.text
 #: nocode.src#STR_QUERYUPDATELINKS.string.text
@@ -69555,14 +69555,14 @@ msgid ""
 "Execution of macros is disabled for this document.\n"
 " "
 msgstr ""
-"Ní hionann inneachar an dhoiciméid digishínithe agus/nó na macraithe agus "
-"síniú an dhoiciméid reatha.\n"
+"Ní hionann inneachar na cáipéise digishínithe agus/nó na macraí agus "
+"síniú na cáipéise reatha.\n"
 "\n"
-"D'fhéadfaí é seo trí láimhseáil an doiciméid nó trí dhamáiste structúrach "
-"don doiciméid mar gheall ar aistriú an eolais.\n"
+"D'fhéadfaí é seo trí láimhseáil na cáipéise nó trí dhamáiste structúrach "
+"don cháipéis mar gheall ar aistriú an eolais.\n"
 "\n"
-"Molaimid gan muinín iomlán a bheith agat in inneachar an doiciméid reatha.\n"
-"Díchumasaíodh rith macraithe do doiciméid seo.\n"
+"Molaimid gan muinín iomlán a bheith agat in inneachar na cáipéise reatha.\n"
+"Díchumasaíodh rith macraí don cháipéis seo.\n"
 " "
 
 #: app.src#RID_XMLSEC_WARNING_BROKENSIGNATURE.warningbox.title
@@ -69580,15 +69580,15 @@ msgid ""
 "The document has to be saved before it can be signed.\n"
 "Do you want to save the document?"
 msgstr ""
-"Ní mór an doiciméid a shábháil sula mbeifear in ann é a shíniú.\n"
-"Ar mhaith leat an doiciméad a shábháil?"
+"Ní mór an cháipéis a shábháil sula mbeifear in ann é a shíniú.\n"
+"Ar mhaith leat an cháipéis a shábháil?"
 
 #: app.src#RID_XMLSEC_INFO_WRONGDOCFORMAT.infobox.text
 msgid ""
 "This document must be saved in OpenDocument file format before it can be "
 "digitally signed."
 msgstr ""
-"Ní mór an doiciméad seo a shábháil i bhformáid OpenDocument sula mbeifear in "
+"Ní mór an cháipéis seo a shábháil i bhformáid OpenDocument sula mbeifear in "
 "ann é a dhigishíniú."
 
 #: app.src#DLG_CHECKFORONLINEUPDATE.modaldialog.text
@@ -69853,6 +69853,13 @@ msgid ""
 "- Click 'No' to use the latest OpenDocument file format and be sure all "
 "formatting and content is saved correctly."
 msgstr ""
+"D'fhéadfaí inneachar a bheith sa cháipéis seo nach féidir a shábháil i "
+"bhformáid %FORMATNAME. An bhfuil tú cinnte gur maith leat an cháipéis a "
+"shábháil sa bhformáid seo mar sin féin?\n"
+"\n"
+"- Cliceáil 'Tá' chun an cháipéis a shábháil i bhformáid %FORMATNAME.\n"
+"- Cliceáil 'Níl' chun an fhormáid OpenDocument is déanaí a úsáid agus chun "
+"cinntiú go sábhálfar i gceart gach formáidiú agus inneachar."
 
 #: alienwarn.src#RID_DLG_ALIEN_WARNING.PB_YES.okbutton.text
 msgid ""
@@ -70690,7 +70697,7 @@ msgid ""
 " information loss. Do you still want to close?"
 msgstr ""
 "D'fhéadfaí gur chailleadh eolais trí shábháil a dhéanamh\n"
-"i bhformáid seachtrach. Ar mhaith leat a dhúnadh mar sin féin?"
+"i bhformáid sheachtrach. Ar mhaith leat a dhúnadh mar sin féin?"
 
 #: doc.src#MSG_CONFIRM_OVERWRITE_TEMPLATE.querybox.text
 msgid ""
@@ -70698,14 +70705,14 @@ msgid ""
 "Do you want to overwrite document template?"
 msgstr ""
 "Ainm in úsáid cheana féin.\n"
-"Ar mhaith leat teimpléad an doiciméid a fhorscríobh?"
+"Ar mhaith leat teimpléad na cáipéise a fhorscríobh?"
 
 #: doc.src#MSG_QUERY_LOAD_TEMPLATE.querybox.text
 msgid ""
 "The Styles in this document do not match your current Styles. Should your "
 "current Styles be applied to this document?"
 msgstr ""
-"Ní hionann na stíleanna sa doiciméid seo agus do stíleanna reatha.  Ar "
+"Ní hionann na stíleanna sa cháipéis seo agus do stíleanna reatha.  Ar "
 "cheart do stíleanna reatha a leagan air?"
 
 #: doc.src#STR_DELETE_REGION.string.text
@@ -70758,7 +70765,7 @@ msgstr "Tá an cháipéis oscailte cheana le cur in eagar."
 
 #: doc.src#STR_ERROR_SAVE.string.text
 msgid "Error recording document "
-msgstr "Earráid ag taifeadadh an doiciméid"
+msgstr "Earráid ag taifeadadh na cáipéise "
 
 #: doc.src#STR_TEMPLATE_FILTER.string.text
 msgid ""
@@ -70836,7 +70843,7 @@ msgstr "Ní féidir an t-eolas faoin cháipéis a léamh."
 
 #: doc.src#STR_ERROR_NOSTORAGE.string.text
 msgid "The selected file has an incorrect format."
-msgstr "Tá formáid mícheart ag an gcomhad roghnaithe."
+msgstr "Tá formáid mhícheart ag an gcomhad roghnaithe."
 
 #: doc.src#STR_QUERY_MUSTOWNFORMAT.string.text
 msgid ""
@@ -70866,7 +70873,7 @@ msgstr "Bunleabharlanna %PRODUCTNAME"
 
 #: doc.src#RID_STR_WARNSTYLEOVERWRITE.string.text
 msgid "Should the \"$(ARG1)\" Style be replaced?"
-msgstr "Ar cheart an stíl \"$(ARG1)\" a ionadú?"
+msgstr "Ar cheart stíl \"$(ARG1)\" a ionadú?"
 
 #: doc.src#STR_DOC_LOADING.string.text
 msgid "Loading Document"
@@ -70914,7 +70921,7 @@ msgid ""
 "template with the same name exists at \"$(FOUND)\". Should this template be "
 "used in the future when comparing?"
 msgstr ""
-"Níor aimsíodh an teimpléad \"$(TEMPLATE)\" sa bhunáit. Is ann do theimpléad "
+"Níor aimsíodh teimpléad \"$(TEMPLATE)\" sa bhunáit. Is ann do theimpléad "
 "den ainm céanna ag \"$(FOUND)\". Ar cheart an teimpléad seo a úsáid as seo "
 "amach nuair atáthar ag comparáidiú?"
 
@@ -70923,8 +70930,8 @@ msgid ""
 "The template \"$(TEMPLATE)\" has not been found. Should the template be "
 "looked for the next time the document is opened ?"
 msgstr ""
-"Níor aimsíodh an teimpléad \"$(TEMPLATE)\". Ar cheart é a lorg nuair a "
-"osclófar an doiciméad an chéad uair eile?"
+"Níor aimsíodh teimpléad \"$(TEMPLATE)\". Ar cheart é a lorg nuair a "
+"osclófar an cháipéis an chéad uair eile?"
 
 #: doc.src#STR_AUTOMATICVERSION.string.text
 msgid "Automatically saved version"
@@ -70995,7 +71002,7 @@ msgid ""
 "\n"
 msgstr ""
 "Tá :\n"
-"sa doiciméad seo\n"
+"sa cháipéis seo\n"
 
 #: doc.src#STR_HIDDENINFO_RECORDCHANGES.string.text
 msgid "Recorded changes"
@@ -71038,8 +71045,8 @@ msgid ""
 "An attempt was made to execute a macro.\n"
 "For security reasons, macro support is disabled."
 msgstr ""
-"Deineadh iarracht macra a chur i bhfeidhm.\n"
-"Ar chúinsí slándála, díchoimisiúnadh feidhm macraithe."
+"Deineadh iarracht macra a rith.\n"
+"Ar chúinsí slándála, díchumasaíodh feidhm macraí."
 
 #: doc.src#STR_ERROR_DELETE_TEMPLATE_DIR.string.text
 msgid "Some template files are protected and can not be deleted."
@@ -71108,7 +71115,7 @@ msgstr "Cúlraí Láithreoireachta"
 
 #: doctempl.src#RID_CNT_STR_WAITING.string.text
 msgid "The templates are being initialized for first-time usage."
-msgstr "Tá na teimpléid á thúsú d'úsáid na céad uaire."
+msgstr "Tá na teimpléid á dtúsú d'úsáid na céad uaire."
 
 #: docvor.src#DLG_ORGANIZE.BTN_ADDRESSTEMPLATE.pushbutton.text
 msgid "~Address Book..."
@@ -71272,8 +71279,8 @@ msgid ""
 "Execution of this macros is disabled due to the current macro security "
 "setting. Therefore, some functionality may not be available."
 msgstr ""
-"Tá macraithe sa doiciméid seo.\n"
-"Díchumasaíodh rith macraithe mar gheall ar shocruithe slándála macraithe. "
+"Tá macraí sa cháipéis seo.\n"
+"Díchumasaíodh rith macraí mar gheall ar shocruithe slándála macraí. "
 "Mar sin, b'fhéidir nach bhfeidhmeoidh sé mar is ceart."
 
 #: menu.src#STR_MENU_CFGITEM.string.text
@@ -71317,7 +71324,7 @@ msgid ""
 "is not available. \n"
 "Do you want to use the standard printer $2 ?"
 msgstr ""
-"Formáideadh an doiciméad seo do phrintéir %1. Níl teacht ar an bprintéir sin "
+"Formáidíodh an cháipéis seo do phrintéir $1. Níl teacht ar an bprintéir sin "
 "faoi láthair. \n"
 "Ar mhaith leat printéir caighdeánach $2 a úsáid?"
 
@@ -71347,7 +71354,7 @@ msgid ""
 msgstr ""
 "Athraíodh méid agus treoshuíomh an leathanaigh.\n"
 "Ar mhaith leat na socruithe nua a shábháil\n"
-"sa doiciméad reatha?"
+"sa cháipéis reatha?"
 
 #: view.src#STR_PRINT_NEWSIZE.string.text
 msgid ""
@@ -71357,7 +71364,7 @@ msgid ""
 msgstr ""
 "Athraíodh méid an leathanaigh.\n"
 "Ar cheart na socruithe nua a shábháil\n"
-"sa doiciméad reatha?"
+"sa cháipéis reatha?"
 
 #: view.src#STR_PRINT_NEWORISIZE.string.text
 msgid ""
@@ -71368,7 +71375,7 @@ msgid ""
 msgstr ""
 "Athraíodh méid agus treoshuíomh an leathanaigh.\n"
 "Ar mhaith leat na socruithe nua a shábháil\n"
-"sa doiciméad reatha?"
+"sa cháipéis reatha?"
 
 #: view.src#STR_PREVIEW_DOCINFO.string.text
 msgid ""
@@ -98201,7 +98208,7 @@ msgid ""
 msgstr ""
 "D'fhéadfaí eolas a chailliúint \n"
 "mar gheall ar an aistriú go formáid HTML. \n"
-"Ar mhaith leat an doiciméad a shábháil?"
+"Ar mhaith leat an cháipéis a shábháil?"
 
 #: app.src#MSG_SAVEAS_HTML_QUERY.querybox.text
 msgid ""
@@ -98209,9 +98216,9 @@ msgid ""
 "format.\n"
 "Would you like to save the document as HTML?"
 msgstr ""
-"Ní féidir an cód foinsithe a thaispeáint ach má shábháilfear an doiciméad i "
+"Ní féidir an cód foinseach a thaispeáint ach má shábhálfar an cháipéis i "
 "bhformáid HTML.\n"
-"Ar mhaith leat an doiciméad a shábháil mar HTML?"
+"Ar mhaith leat an cháipéis a shábháil mar HTML?"
 
 #: app.src#STR_ABSTRACT_TITLE.string.text
 msgid "Abstract: "
@@ -98248,7 +98255,7 @@ msgid ""
 "Your document contains address database fields. Do you want to print a form "
 "letter?"
 msgstr ""
-"Tá réimsí bunachar seoltaí i do dhoiciméad. Ar mhaith leat litir foirme a "
+"Tá réimsí bunachar seoltaí i do cháipéis. Ar mhaith leat litir foirme a "
 "phriontáil?"
 
 #: app.src#DLG_MERGE_SOURCE_UNAVAILABLE.ST_MERGE_SOURCE_UNAVAILABLE.fixedtext.text
@@ -98258,7 +98265,7 @@ msgid ""
 "\n"
 "Please check the connections settings."
 msgstr ""
-"Níor aimsíodh an fhoinse sonraí \\'%1\\' Mar sin, níorbh fhéidir nasc le "
+"Níor aimsíodh foinse sonraí \\'%1\\' Mar sin, níorbh fhéidir nasc le "
 "foinse na sonraí a chruthú.\n"
 "\n"
 "Seiceáil socruithe an naisc."
@@ -98286,9 +98293,9 @@ msgid ""
 "In large documents, delays can occur when the document is edited. Do you "
 "want to show the changes to avoid delays?"
 msgstr ""
-"Sa doiciméad reatha, tá athruithe á dtaifeadú gan na hathruithe a "
-"thaispeáint mar sin. I ndoiciméid móra, d'fhéadfaí moillí suntasacha a "
-"tharlú agus an doiciméad á chur in eagar. Ar mhaith leat na hathruithe a "
+"Sa cháipéis reatha, tá athruithe á dtaifeadú gan na hathruithe a "
+"thaispeáint mar sin. I gcáipéisí móra, d'fhéadfaí moillí suntasacha a "
+"tharlú agus an cháipéis á chur in eagar. Ar mhaith leat na hathruithe a "
 "thaispeáint chun na moillí seo a sheachaint?"
 
 #: error.src#STR_COMCORE_CANT_SHOW.string.text
@@ -101603,7 +101610,7 @@ msgid ""
 "data into the document when the cursor is not in a table."
 msgstr ""
 "Ní féidir tábla a chur isteach i dtábla eile. Ach is féidir leat na sonraí a "
-"ghreamú isteach sa doiciméad nuair nach bhfuil an cursóir i dtábla."
+"ghreamú isteach sa cháipéis nuair nach bhfuil an cursóir i dtábla."
 
 #: dochdl.src#MSG_ERR_INSERT_GLOS.infobox.text
 #: view.src#MSG_ERR_INSERT_GLOS.infobox.text
@@ -106461,7 +106468,7 @@ msgstr "Réamhamharc an Leathanaigh"
 #: view.src#DLG_WRAP.querybox.text
 msgid "Do you want to continue checking at the beginning of the document?"
 msgstr ""
-"Ar mhaith leat leanacht ar aghaidh leis an seiceáil ag tús an doiciméid?"
+"Ar mhaith leat leanacht ar aghaidh leis an seiceáil ag tús na cáipéise?"
 
 #: view.src#DLG_PRT_FIELDNAME.querybox.text
 msgid ""
@@ -106469,21 +106476,21 @@ msgid ""
 "Do you want to print the document with field names?"
 msgstr ""
 "Tá an rogha Taispeáin Orduithe na Réimsí marcáilte.\n"
-"Ar mhaith leat an doiciméad seo a phriontáil le hainmneacha na reimsí?"
+"Ar mhaith leat an cháipéis seo a phriontáil le hainmneacha na reimsí?"
 
 #: view.src#DLG_THESAURUS.querybox.text
 msgid ""
 "This word appears in the list of words you want to avoid! Start thesaurus?"
 msgstr ""
 "Tá an focal seo i liosta na bhfocal arbh fhearr leat a sheachaint! Tosaigh "
-"teasáras?"
+"an teasáras?"
 
 #: view.src#MSG_SEARCH_END.querybox.text
 msgid ""
 "%PRODUCTNAME Writer has searched to the end of the document. Do you want to "
 "continue at the beginning?"
 msgstr ""
-"%PRODUCTNAME Chuardaigh Writer go deireadh an doiciméid. Ar mhaith leat "
+"Chuardaigh %PRODUCTNAME Writer go deireadh na cáipéise. Ar mhaith leat "
 "leanacht ar aghaidh ag an deireadh?"
 
 #: view.src#MSG_SEARCH_START.querybox.text
@@ -106491,7 +106498,7 @@ msgid ""
 "%PRODUCTNAME Writer has searched to the beginning of the document. Do you "
 "want to continue at the end?"
 msgstr ""
-"%PRODUCTNAME Chuardaigh Writer go tús an doiciméid. Ar mhaith leat leanacht "
+"Chuardaigh %PRODUCTNAME Writer go tús na cáipéise. Ar mhaith leat leanacht "
 "ar aghaidh ag an deireadh?"
 
 #: view.src#MSG_NO_MERGE_ENTRY.infobox.text
@@ -110196,9 +110203,9 @@ msgid ""
 "recommended that you have a primary key in every table. Without a primary "
 "key, it will not be possible to enter data into this table."
 msgstr ""
-"Tugann eochair phríomhúil ionannas faoi leith do gach taifead i dtábla "
+"Tugann príomheochair ionannas faoi leith do gach taifead i dtábla "
 "bhunachair sonraí. Déanann eochracha príomhúla níos fusa é, sonraí i dtáblaí "
-"éagsúla a cheangailt lé chéile, agus moltar duit eochair phríomhúil a chur i "
+"éagsúla a cheangailt lé chéile, agus moltar duit príomheochair a chur i "
 "ngach tábla. Gan ceann, ní bheifear in ann sonraí a chur isteach sa tábla "
 "seo."
 
@@ -110216,7 +110223,7 @@ msgstr "Ú~sáid réimse atá ann mar phríomheochair"
 
 #: dbwizres.src#RID_DB_TABLE_WIZARD_START___30.string.text
 msgid "Define p~rimary key as a combination of several fields "
-msgstr "~Sainigh eochair phríomhúil mar theaglaim de roinnt réimsí"
+msgstr "~Sainigh príomheochair mar theaglaim de roinnt réimsí"
 
 #: dbwizres.src#RID_DB_TABLE_WIZARD_START___31.string.text
 msgid "F~ieldname"
@@ -111137,7 +111144,7 @@ msgstr "Saincheap an leagan amach roghnaithe"
 msgid ""
 "Include the following information for each document in the table of contents:"
 msgstr ""
-"Cuir an t-eolas seo a leanas san áireamh do gach doiciméad sa chlár ábhair:"
+"Cuir an t-eolas seo a leanas san áireamh do gach cáipéis sa chlár ábhair:"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__62.string.text
 msgid "Optimize the layout for screen resolution:"
@@ -111282,20 +111289,20 @@ msgstr "D'éirigh le cruthú do láithreáin lín i: %FILENAME"
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__105.string.text
 msgid "One or more errors occurred when generating the web site."
 msgstr ""
-"Tharla botún amháin nó níos mó i rith ghiniúna an láithreáin Ghréasáin."
+"Tharla earráid amháin nó níos mó i rith ghiniúna an láithreáin Ghréasáin."
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__106.string.text
 msgid "An error occurred while generating the table of contents page(s). "
-msgstr "Tharla botún i rith ghiniúna leathanach/-aigh an chláir ábhair"
+msgstr "Tharla earráid i rith ghiniúna leathanach/-aigh an chláir ábhair"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__107.string.text
 msgid "An error occurred while copying the layout files. "
-msgstr "Tharla botún i rith chóipeála na gcomhad don leagan amach."
+msgstr "Tharla earráid i rith chóipeála na gcomhad don leagan amach."
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__108.string.text
 msgid ""
 "An error occurred while gathering document information for '%FILENAME'. "
-msgstr "Tharla botún i rith chruinnithe eolais an doiciméid do '%FILENAME'"
+msgstr "Tharla earráid i rith chruinnithe eolais na cáipéise do '%FILENAME'"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__109.string.text
 msgid "An error occurred while exporting the document '%FILENAME'."
@@ -111304,7 +111311,7 @@ msgstr "Tharla earráid agus cáipéis '%FILENAME' á heaspórtáil."
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__110.string.text
 msgid "An error occurred while creating a directory for exporting '%FILENAME'."
 msgstr ""
-"Tharla botún i rith chruthaithe chomhadlainne chun '%FILENAME' a easpórtáil"
+"Tharla earráid i rith chruthaithe chomhadlainne chun '%FILENAME' a easpórtáil"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__111.string.text
 msgid "A security error acoccurred while exporting the document '%FILENAME'."
@@ -111318,7 +111325,7 @@ msgstr "Tharla earráid I/A agus cáipéis '%FILENAME' á heaspórtáil."
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__113.string.text
 msgid "An error occurred while copying media files to the temporary directory."
 msgstr ""
-"Tharla botún i rith cóipeála na comhad meán go dtí an chomhadlann sealadach "
+"Tharla earráid i rith cóipeála na comhad meán go dtí an chomhadlann sealadach "
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__114.string.text
 msgid "The web site could not be copied to the following destination: %URL"
@@ -111784,7 +111791,7 @@ msgstr "Teimpléad mo chláir oibre"
 
 #: dbwizres.src#RID_AGENDAWIZARDDIALOG_START__43.string.text
 msgid "An unexpected error occurred while saving the agenda template."
-msgstr "\"Tharla botún gan choinne agus teimpléad an chláir oibre á shábháil."
+msgstr "Tharla earráid gan choinne agus teimpléad an chláir oibre á shábháil."
 
 #: dbwizres.src#RID_AGENDAWIZARDDIALOG_START__48.string.text
 msgid "Click to replace this text"
@@ -111816,7 +111823,7 @@ msgstr "Ainm agus suíomh"
 
 #: dbwizres.src#RID_AGENDAWIZARDDIALOG_START__56.string.text
 msgid "An unexpected error occurred while opening the agenda template."
-msgstr "Tharla botún gan choinne agus teimpléad an chláir oibre á oscailt"
+msgstr "Tharla earráid gan choinne agus teimpléad an chláir oibre á oscailt."
 
 #: dbwizres.src#RID_AGENDAWIZARDDIALOG_START__57.string.text
 msgid ""
@@ -112531,7 +112538,7 @@ msgstr "Roghnaigh Teastas"
 
 #: certificateviewer.src#RID_XMLSECDLG_CERTVIEWER.1.RID_XMLSECTP_CERTPATH.pageitem.text
 msgid "Certification Path"
-msgstr "Cosán Deimhniúcháin"
+msgstr "Conair Dheimhniúcháin"
 
 #: certificateviewer.src#RID_XMLSECDLG_CERTVIEWER.tabdialog.text
 msgid "View Certificate"
@@ -112559,7 +112566,7 @@ msgstr "Bailí ó %SDATE% go %EDATE%"
 
 #: certificateviewer.src#RID_XMLSECTP_GENERAL.FI_CORRPRIVKEY.fixedtext.text
 msgid "You have a private key that corresponds to this certificate."
-msgstr "Tá eochair aitheanta agat a fhreagraíonn don teastas seo."
+msgstr "Tá eochair príobháideach agat a fhreagraíonn don teastas seo."
 
 #: certificateviewer.src#RID_XMLSECTP_GENERAL.STR_CERTIFICATE_NOT_VALIDATED.string.text
 msgid ""
@@ -112627,7 +112634,7 @@ msgstr "Méarlorg MD5"
 
 #: certificateviewer.src#RID_XMLSECTP_CERTPATH.FT_CERTPATH.fixedtext.text
 msgid "Certification path"
-msgstr "Cosán deimhniúcháin"
+msgstr "Conair dheimhniúcháin"
 
 #: certificateviewer.src#RID_XMLSECTP_CERTPATH.BTN_VIEWCERT.pushbutton.text
 msgid ""
