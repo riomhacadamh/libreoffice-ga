@@ -107135,7 +107135,7 @@ msgstr "OLE"
 msgid ""
 "_: poolfmt.src#STR_POOLFRM_MARGINAL.string.text\n"
 "Marginalia"
-msgstr "Nótaí imill"
+msgstr "Nótaí Imill"
 
 #: poolfmt.src#STR_POOLFRM_WATERSIGN.string.text
 msgid ""
@@ -107181,7 +107181,7 @@ msgstr "Eangú Liosta"
 msgid ""
 "_: poolfmt.src#STR_POOLCOLL_MARGINAL.string.text\n"
 "Marginalia"
-msgstr "Nótaí imill"
+msgstr "Nótaí Imill"
 
 #: poolfmt.src#STR_POOLCOLL_HEADLINE1.string.text
 msgid "Heading 1"
