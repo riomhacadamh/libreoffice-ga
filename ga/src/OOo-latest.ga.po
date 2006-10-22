@@ -38044,9 +38044,9 @@ msgstr ""
 "Feidhmítear an líne orduithe do thiontairí PDF mar seo leanas: do gach "
 "cáipéis a phriontáiltear, athchuirtear \"(TMP)\" i líne na n-orduithe le "
 "comhad sealadach agus athchuirtear \"(OUTFILE)\" i líne na n-orduithe le "
-"hainm an sprioc-chomhad PDF. Má tá \"(TMP)\" i líne na n-orduithe, tugtar "
-"an cód PostScript trí chomhad, agus trí ionchur caighdeánach i ngach cás eile "
-"(.i. mar phíopa)."
+"hainm an sprioc-chomhad PDF. Má tá \"(TMP)\" i líne na n-orduithe, tugtar an "
+"cód PostScript trí chomhad, agus trí ionchur caighdeánach i ngach cás eile (."
+"i. mar phíopa)."
 
 #: rtsetup.src#RID_RTS_COMMANDPAGE.RID_RTS_CMD_STR_PRINTERHELP.string.text
 msgid ""
@@ -38055,8 +38055,8 @@ msgid ""
 "command line."
 msgstr ""
 "Cuirtear an líne orduithe do ghléasanna priontála i bhfeidhm mar seo leanas: "
-"cuirtear an cód PostScript ar fáil mar ionchur caighdeánach (.i. mar "
-"phíopa) go dtí an líne orduithe."
+"cuirtear an cód PostScript ar fáil mar ionchur caighdeánach (.i. mar phíopa) "
+"go dtí an líne orduithe."
 
 #: rtsetup.src#RID_RTS_COMMANDPAGE.RID_RTS_CMD_STR_FAXHELP.string.text
 msgid ""
@@ -38068,10 +38068,10 @@ msgid ""
 msgstr ""
 "Cuirtear an líne orduithe do ghléasanna facs i bhfeidhm mar seo leanas: do "
 "gach facs a sheoltar, aischuirtear \"(TMP)\" i líne na n-orduithe le comhad "
-"sealadach, agus aischuirtear \"(PHONE)\" i líne na n-orduithe le huimhir "
-"an fhacs. Má ann do \"(TMP)\" i líne na n-orduithe, cuirfear an cód "
-"PostScript ar fáil mar chomhad. I gcásanna eile, deighleálfar leis mar "
-"ionchur caighdeánach (.i. mar phíopa)."
+"sealadach, agus aischuirtear \"(PHONE)\" i líne na n-orduithe le huimhir an "
+"fhacs. Má ann do \"(TMP)\" i líne na n-orduithe, cuirfear an cód PostScript "
+"ar fáil mar chomhad. I gcásanna eile, deighleálfar leis mar ionchur "
+"caighdeánach (.i. mar phíopa)."
 
 #: rtsetup.src#RID_RTS_OTHERPAGE.RID_RTS_OTHER_LEFTMARGIN_TXT.fixedtext.text
 #: hdft.src#_TEXT_FT_LMARGIN.#define.text
@@ -40063,7 +40063,7 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Bin.3.string."
 "text\n"
 "The decimal integer to be converted"
-msgstr ""
+msgstr "An tslánuimhir dheachúlach le tiontú"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Bin.4.string.text
 msgid ""
@@ -40095,7 +40095,7 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Hex.3.string."
 "text\n"
 "The decimal integer to be converted"
-msgstr ""
+msgstr "An tslánuimhir dheachúlach le tiontú"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Hex.4.string.text
 msgid ""
@@ -40127,7 +40127,7 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Oct.3.string."
 "text\n"
 "The decimal number"
-msgstr ""
+msgstr "An tslánuimhir dheachúlach"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Oct.4.string.text
 msgid ""
@@ -40261,7 +40261,7 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Erf.3.string."
 "text\n"
 "The lower limit for integration"
-msgstr ""
+msgstr "Foirceann íochtair na suimeála"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Erf.4.string.text
 msgid "Upper limit"
@@ -40269,7 +40269,7 @@ msgstr "Uasteorainn"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Erf.5.string.text
 msgid "The upper limit for integration"
-msgstr ""
+msgstr "Foirceann uachtair na suimeála"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Erfc.1.string.text
 msgid "Returns the complementary error function"
@@ -40287,7 +40287,7 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Erfc.3.string."
 "text\n"
 "The lower limit for integration"
-msgstr ""
+msgstr "Foirceann íochtair na suimeála"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Gestep.1.string.text
 msgid "Tests whether a number is greater than a threshold value"
@@ -40765,28 +40765,28 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc.3."
 "string.text\n"
 "Cost of the asset"
-msgstr ""
+msgstr "Costas na sócmhainne"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc.4.string.text
 msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc.4."
 "string.text\n"
 "Date purchased"
-msgstr ""
+msgstr "Dáta a ceannaíodh"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc.5.string.text
 msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc.5."
 "string.text\n"
 "Purchase date of the asset"
-msgstr ""
+msgstr "Dáta a ceannaíodh an tsócmhainn"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc.6.string.text
 msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc.6."
 "string.text\n"
 "First period"
-msgstr ""
+msgstr "An chéad tréimhse"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc.7.string.text
 msgid "Date the first period ends"
@@ -40815,7 +40815,7 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc.11."
 "string.text\n"
 "The period"
-msgstr ""
+msgstr "An tréimhse"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc.12.string.text
 msgid ""
@@ -40829,7 +40829,7 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc.13."
 "string.text\n"
 "The rate of depreciation"
-msgstr ""
+msgstr "An ráta dímheasa"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc.14.string.text
 msgid ""
@@ -40865,28 +40865,28 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc.3."
 "string.text\n"
 "Cost of the asset"
-msgstr ""
+msgstr "Costas na sócmhainne"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc.4.string.text
 msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc.4."
 "string.text\n"
 "Date purchased"
-msgstr ""
+msgstr "Dáta a ceannaíodh"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc.5.string.text
 msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc.5."
 "string.text\n"
 "Purchase date of the asset"
-msgstr ""
+msgstr "Dáta a ceannaíodh an tsócmhainn"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc.6.string.text
 msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc.6."
 "string.text\n"
 "First period"
-msgstr ""
+msgstr "An chéad tréimhse"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc.7.string.text
 msgid "The date the first period ends"
@@ -40915,7 +40915,7 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc.11."
 "string.text\n"
 "The period"
-msgstr ""
+msgstr "An tréimhse"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc.12.string.text
 msgid ""
@@ -40929,7 +40929,7 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc.13."
 "string.text\n"
 "The rate of depreciation"
-msgstr ""
+msgstr "An ráta dímheasa"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc.14.string.text
 msgid ""
@@ -41307,7 +41307,7 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Duration.7."
 "string.text\n"
 "The coupon rate"
-msgstr ""
+msgstr "Ráta cúpóin"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Duration.8.string.text
 msgid ""
@@ -41368,14 +41368,14 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Effect.4.string."
 "text\n"
 "Npery"
-msgstr ""
+msgstr "Npery"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Effect.5.string.text
 msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Effect.5.string."
 "text\n"
 "The periods"
-msgstr ""
+msgstr "Na tréimhsí"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc.1.string.text
 msgid ""
@@ -41401,14 +41401,14 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc.4."
 "string.text\n"
 "Nper"
-msgstr ""
+msgstr "Nper"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc.5.string.text
 msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc.5."
 "string.text\n"
 "Number of payment periods"
-msgstr ""
+msgstr "Líon na dtréimhsí íocaíochta"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc.6.string.text
 msgid ""
@@ -41429,28 +41429,28 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc.8."
 "string.text\n"
 "Start period"
-msgstr ""
+msgstr "Tréimhse tosaigh"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc.9.string.text
 msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc.9."
 "string.text\n"
 "The start period"
-msgstr ""
+msgstr "An tréimhse tosaigh"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc.10.string.text
 msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc.10."
 "string.text\n"
 "End period"
-msgstr ""
+msgstr "Tréimhse deiridh"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc.11.string.text
 msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc.11."
 "string.text\n"
 "The end period"
-msgstr ""
+msgstr "An tréimhse deiridh"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc.12.string.text
 msgid ""
@@ -41464,7 +41464,7 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc.13."
 "string.text\n"
 "The type of maturity"
-msgstr ""
+msgstr "An cineál aibíochta"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt.1.string.text
 msgid "Returns the cumulative interest to be paid between two periods"
@@ -41489,14 +41489,14 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt.4.string."
 "text\n"
 "Nper"
-msgstr ""
+msgstr "Nper"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt.5.string.text
 msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt.5.string."
 "text\n"
 "Number of payment periods"
-msgstr ""
+msgstr "Líon na dtréimhsí íocaíochta"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt.6.string.text
 msgid ""
@@ -41517,28 +41517,28 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt.8.string."
 "text\n"
 "Start period"
-msgstr ""
+msgstr "Tréimhse tosaigh"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt.9.string.text
 msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt.9.string."
 "text\n"
 "The start period"
-msgstr ""
+msgstr "An tréimhse tosaigh"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt.10.string.text
 msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt.10."
 "string.text\n"
 "End period"
-msgstr ""
+msgstr "Tréimhse deiridh"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt.11.string.text
 msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt.11."
 "string.text\n"
 "The end period"
-msgstr ""
+msgstr "An tréimhse deiridh"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt.12.string.text
 msgid ""
@@ -41552,7 +41552,7 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt.13."
 "string.text\n"
 "The type of maturity"
-msgstr ""
+msgstr "An cineál aibíochta"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price.1.string.text
 msgid ""
@@ -41869,7 +41869,7 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mduration.7."
 "string.text\n"
 "The coupon rate"
-msgstr ""
+msgstr "Ráta cúpóin"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mduration.8.string.text
 msgid ""
@@ -41931,14 +41931,14 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Nominal.4.string."
 "text\n"
 "Npery"
-msgstr ""
+msgstr "Npery"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Nominal.5.string.text
 msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Nominal.5.string."
 "text\n"
 "The periods"
-msgstr ""
+msgstr "Na tréimhsí"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dollarfr.1.string.text
 msgid ""
@@ -41954,7 +41954,7 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dollarfr.3."
 "string.text\n"
 "The decimal number"
-msgstr ""
+msgstr "An tslánuimhir dheachúlach"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dollarfr.4.string.text
 msgid ""
@@ -42458,7 +42458,7 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice.9."
 "string.text\n"
 "The first coupon date"
-msgstr ""
+msgstr "An chéad dáta cúpóin"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice.10.string.text
 msgid ""
@@ -42588,7 +42588,7 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield.9."
 "string.text\n"
 "The first coupon date"
-msgstr ""
+msgstr "An chéad dáta cúpóin"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield.10.string.text
 msgid ""
@@ -42698,14 +42698,14 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice.6."
 "string.text\n"
 "Last interest"
-msgstr ""
+msgstr "Ús deiridh"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice.7.string.text
 msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice.7."
 "string.text\n"
 "The last interest date"
-msgstr ""
+msgstr "Dáta an úis deiridh"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice.8.string.text
 msgid ""
@@ -42814,14 +42814,14 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield.6."
 "string.text\n"
 "Last interest"
-msgstr ""
+msgstr "Ús deiridh"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield.7.string.text
 msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield.7."
 "string.text\n"
 "The last interest date"
-msgstr ""
+msgstr "Dáta an úis deiridh"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield.8.string.text
 msgid ""
@@ -43842,7 +43842,7 @@ msgid ""
 "_: datefunc.src#RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DiffWeeks.3."
 "string.text\n"
 "First day of the period"
-msgstr ""
+msgstr "Céad lá na tréimhse"
 
 #: datefunc.src#RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DiffWeeks.4.string.text
 msgid ""
@@ -43926,7 +43926,7 @@ msgid ""
 "_: datefunc.src#RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DiffYears.3."
 "string.text\n"
 "First day of the period"
-msgstr ""
+msgstr "Céad lá na tréimhse"
 
 #: datefunc.src#RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DiffYears.4.string.text
 msgid ""
@@ -58013,7 +58013,7 @@ msgstr "Eagar sonraí X."
 msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_RGP.6.string.text\n"
 "Linear_type"
-msgstr ""
+msgstr "Cineál_líneach"
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_RGP.7.string.text
 msgid ""
@@ -58068,7 +58068,7 @@ msgstr "Eagar sonraí X."
 msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_RKP.6.string.text\n"
 "Function_type"
-msgstr ""
+msgstr "Cineál_feidhme"
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_RKP.7.string.text
 msgid ""
@@ -58132,7 +58132,7 @@ msgstr ""
 msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_TREND.8.string.text\n"
 "Linear_type"
-msgstr ""
+msgstr "Cineál_líneach"
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_TREND.9.string.text
 msgid ""
@@ -58183,7 +58183,7 @@ msgstr ""
 msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_GROWTH.8.string.text\n"
 "Function_type"
-msgstr ""
+msgstr "Cineál_feidhme"
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_GROWTH.9.string.text
 msgid ""
@@ -58484,6 +58484,8 @@ msgid ""
 "Number 1, number 2, ... are 1 to 30 numerical arguments which portray a "
 "sample."
 msgstr ""
+"Is iad Uimhir 1, uimhir 2, ... argóintí uimhriúla idir 1 agus 30 a léiríonn "
+"sampla."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_AVE_DEV.1.string.text
 msgid ""
@@ -58553,6 +58555,8 @@ msgid ""
 "Number 1, number 2, ... are 1 to 30 numerical arguments which portray a "
 "sample."
 msgstr ""
+"Is iad Uimhir 1, uimhir 2, ... argóintí uimhriúla idir 1 agus 30 a léiríonn "
+"sampla."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_HAR_MEAN.1.string.text
 msgid "Returns the harmonic mean of a sample."
@@ -58572,6 +58576,8 @@ msgid ""
 "Number 1, number 2, ... are 1 to 30 numerical arguments which portray a "
 "sample."
 msgstr ""
+"Is iad Uimhir 1, uimhir 2, ... argóintí uimhriúla idir 1 agus 30 a léiríonn "
+"sampla."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_MODAL_VALUE.1.string.text
 msgid "Returns the most common value in a sample."
@@ -58591,6 +58597,8 @@ msgid ""
 "Number 1, number 2, ... are 1 to 30 numerical arguments which portray a "
 "sample."
 msgstr ""
+"Is iad Uimhir 1, uimhir 2, ... argóintí uimhriúla idir 1 agus 30 a léiríonn "
+"sampla."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_MEDIAN.1.string.text
 msgid "Returns the median of a given sample."
@@ -58608,6 +58616,8 @@ msgid ""
 "Number 1, number 2, ... are 1 to 30 numerical arguments which portray a "
 "sample."
 msgstr ""
+"Is iad Uimhir 1, uimhir 2, ... argóintí uimhriúla idir 1 agus 30 a léiríonn "
+"sampla."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_PERCENTILE.1.string.text
 msgid "Returns the alpha quantile of a sample."
@@ -58688,13 +58698,13 @@ msgstr "Eagar na sonraí sa sampla."
 msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_LARGE.4.string.text\n"
 "Rank_c"
-msgstr ""
+msgstr "Rang_c"
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_LARGE.5.string.text
 msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_LARGE.5.string.text\n"
 "The ranking of the value."
-msgstr ""
+msgstr "Rangú an luacha."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_SMALL.1.string.text
 msgid "Returns the k-th smallest value of a sample."
@@ -58716,13 +58726,13 @@ msgstr "Eagar na sonraí sa sampla."
 msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_SMALL.4.string.text\n"
 "Rank_c"
-msgstr ""
+msgstr "Rang_c"
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_SMALL.5.string.text
 msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_SMALL.5.string.text\n"
 "The ranking of the value."
-msgstr ""
+msgstr "Rangú an luacha."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_PERCENT_RANK.1.string.text
 msgid "Returns the percentage rank of a value in a sample."
@@ -58992,7 +59002,7 @@ msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_BINOM_DIST.5.string."
 "text\n"
 "The total number of trials."
-msgstr ""
+msgstr "Líon iomlán na dtrialacha."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_BINOM_DIST.6.string.text
 msgid ""
@@ -59006,7 +59016,7 @@ msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_BINOM_DIST.7.string."
 "text\n"
 "The success probability of a trial."
-msgstr ""
+msgstr "Dóchúlacht ratha na trialach."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_BINOM_DIST.8.string.text
 msgid ""
@@ -59056,7 +59066,7 @@ msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_NEG_BINOM_VERT.7."
 "string.text\n"
 "The success probability of a trial."
-msgstr ""
+msgstr "Dóchúlacht ratha na trialach."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_KRIT_BINOM.1.string.text
 msgid "Border arguments of the binomial distribution."
@@ -59074,7 +59084,7 @@ msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_KRIT_BINOM.3.string."
 "text\n"
 "The total number of trials."
-msgstr ""
+msgstr "Líon iomlán na dtrialacha."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_KRIT_BINOM.4.string.text
 msgid ""
@@ -59088,7 +59098,7 @@ msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_KRIT_BINOM.5.string."
 "text\n"
 "The success probability of a trial."
-msgstr ""
+msgstr "Dóchúlacht ratha na trialach."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_KRIT_BINOM.6.string.text
 msgid ""
@@ -59168,7 +59178,7 @@ msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_NORM_DIST.5.string."
 "text\n"
 "The mean value. The mean value of the normal distribution."
-msgstr ""
+msgstr "An meánluach.  Meánluach an dáileacháin normalaigh."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_NORM_DIST.6.string.text
 msgid ""
@@ -59182,7 +59192,7 @@ msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_NORM_DIST.7.string."
 "text\n"
 "Standard deviation. The standard deviation of the normal distribution."
-msgstr ""
+msgstr "Diallas caighdeánach.  Diallas caighdeánach an dáileacháin normalaigh."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_NORM_DIST.8.string.text
 msgid ""
@@ -59227,7 +59237,7 @@ msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_NORM_INV.5.string."
 "text\n"
 "The mean value. The mean value of the normal distribution."
-msgstr ""
+msgstr "An meánluach.  Meánluach an dáileacháin normalaigh."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_NORM_INV.6.string.text
 msgid ""
@@ -59241,7 +59251,7 @@ msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_NORM_INV.7.string."
 "text\n"
 "Standard deviation. The standard deviation of the normal distribution."
-msgstr ""
+msgstr "Diallas caighdeánach.  Diallas caighdeánach an dáileacháin normalaigh."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_STD_NORM_DIST.1.string.text
 msgid "The values of the standard normal cumulative distribution."
@@ -59280,7 +59290,7 @@ msgstr ""
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_LOG_NORM_DIST.1.string.text
 msgid "Values of the log normal distribution."
-msgstr ""
+msgstr "Luachanna an dáileacháin lognormálta."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_LOG_NORM_DIST.2.string.text
 msgid ""
@@ -59305,7 +59315,7 @@ msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_LOG_NORM_DIST.5."
 "string.text\n"
 "Mean value. The mean value of the log normal distribution."
-msgstr ""
+msgstr "An meánluach.  Meánluach an dáileacháin lognormálta."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_LOG_NORM_DIST.6.string.text
 msgid ""
@@ -59320,6 +59330,7 @@ msgid ""
 "string.text\n"
 "Standard deviation. The standard deviation of the log normal distribution."
 msgstr ""
+"Diallas caighdeánach.  Diallas caighdeánach an dáileacháin lognormálta."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_LOG_INV.1.string.text
 msgid "Values of the inverse of the lognormal distribution."
@@ -59350,7 +59361,7 @@ msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_LOG_INV.5.string."
 "text\n"
 "Mean value. The mean value of the log normal distribution."
-msgstr ""
+msgstr "An meánluach.  Meánluach an dáileacháin lognormálta."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_LOG_INV.6.string.text
 msgid ""
@@ -59365,6 +59376,7 @@ msgid ""
 "text\n"
 "Standard deviation. The standard deviation of the log normal distribution."
 msgstr ""
+"Diallas caighdeánach.  Diallas caighdeánach an dáileacháin lognormálta."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_EXP_DIST.1.string.text
 msgid "Values of the exponential distribution."
@@ -59432,7 +59444,7 @@ msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_GAMMA_DIST.5.string."
 "text\n"
 "The Alpha parameter of the Gamma distribution."
-msgstr ""
+msgstr "Paraiméadar Alfa an dáileacháin Gáma."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_GAMMA_DIST.6.string.text
 msgid ""
@@ -59446,7 +59458,7 @@ msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_GAMMA_DIST.7.string."
 "text\n"
 "The Beta parameter of the Gamma distribution."
-msgstr ""
+msgstr "Paraiméadar Béite an dáileacháin Gáma."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_GAMMA_DIST.8.string.text
 msgid ""
@@ -59491,7 +59503,7 @@ msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_GAMMA_INV.5.string."
 "text\n"
 "The Alpha parameter of the Gamma distribution."
-msgstr ""
+msgstr "Paraiméadar Alfa an dáileacháin Gáma."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_GAMMA_INV.6.string.text
 msgid ""
@@ -59505,7 +59517,7 @@ msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_GAMMA_INV.7.string."
 "text\n"
 "The Beta parameter of the Gamma distribution."
-msgstr ""
+msgstr "Paraiméadar Béite an dáileacháin Gáma."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_GAMMA_LN.1.string.text
 msgid "Returns the natural logarithm of the gamma function."
@@ -59551,7 +59563,7 @@ msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_BETA_DIST.5.string."
 "text\n"
 "The Alpha parameter of the Beta distribution."
-msgstr ""
+msgstr "Paraiméadar Alfa an dáileacháin Béite."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_BETA_DIST.6.string.text
 msgid ""
@@ -59565,7 +59577,7 @@ msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_BETA_DIST.7.string."
 "text\n"
 "The Beta parameter of the Beta distribution."
-msgstr ""
+msgstr "Paraiméadar Béite an dáileacháin Béite."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_BETA_DIST.8.string.text
 msgid ""
@@ -59624,7 +59636,7 @@ msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_BETA_INV.5.string."
 "text\n"
 "The Alpha parameter of the Beta distribution."
-msgstr ""
+msgstr "Paraiméadar Alfa an dáileacháin Béite."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_BETA_INV.6.string.text
 msgid ""
@@ -59638,7 +59650,7 @@ msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_BETA_INV.7.string."
 "text\n"
 "The Beta parameter of the Beta distribution."
-msgstr ""
+msgstr "Paraiméadar Béite an dáileacháin Béite."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_BETA_INV.8.string.text
 msgid ""
@@ -59736,11 +59748,11 @@ msgstr ""
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_HYP_GEOM_DIST.4.string.text
 msgid "n_sample"
-msgstr ""
+msgstr "n_sampla"
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_HYP_GEOM_DIST.5.string.text
 msgid "The size of the sample."
-msgstr ""
+msgstr "Méid an tsampla."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_HYP_GEOM_DIST.6.string.text
 msgid "successes"
@@ -59782,7 +59794,7 @@ msgstr "céimeanna_saoirse"
 msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_T_DIST.5.string.text\n"
 "The degrees of freedom of the T distribution."
-msgstr ""
+msgstr "Céimeanna saoirse an dáileacháin T."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_T_DIST.6.string.text
 msgid ""
@@ -59820,7 +59832,7 @@ msgstr "céimeanna_saoirse"
 msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_T_INV.5.string.text\n"
 "The degrees of freedom of the T distribution."
-msgstr ""
+msgstr "Céimeanna saoirse an dáileacháin T."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_F_DIST.1.string.text
 msgid "Values of the F probability distribution."
@@ -59840,7 +59852,7 @@ msgstr ""
 msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_F_DIST.4.string.text\n"
 "degrees_freedom_1"
-msgstr ""
+msgstr "céimeanna_saoirse_1"
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_F_DIST.5.string.text
 msgid ""
@@ -59852,7 +59864,7 @@ msgstr ""
 msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_F_DIST.6.string.text\n"
 "degrees_freedom_2"
-msgstr ""
+msgstr "céimeanna_saoirse_2"
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_F_DIST.7.string.text
 msgid ""
@@ -59880,7 +59892,7 @@ msgstr ""
 msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_F_INV.4.string.text\n"
 "degrees_freedom_1"
-msgstr ""
+msgstr "céimeanna_saoirse_1"
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_F_INV.5.string.text
 msgid ""
@@ -59892,7 +59904,7 @@ msgstr ""
 msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_F_INV.6.string.text\n"
 "degrees_freedom_2"
-msgstr ""
+msgstr "céimeanna_saoirse_2"
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_F_INV.7.string.text
 msgid ""
@@ -59927,7 +59939,7 @@ msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_CHI_DIST.5.string."
 "text\n"
 "The degrees of freedom of the chi square distribution."
-msgstr ""
+msgstr "Céimeanna saoirse an dáileacháin chi-chearnaithe."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_CHI_INV.1.string.text
 msgid "Values of the inverse chi-squared distribution."
@@ -59958,7 +59970,7 @@ msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_CHI_INV.5.string."
 "text\n"
 "The degrees of freedom of the chi square distribution."
-msgstr ""
+msgstr "Céimeanna saoirse an dáileacháin chi-chearnaithe."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_STANDARD.1.string.text
 msgid "Converts a random variable to a normalized value."
@@ -60092,7 +60104,7 @@ msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_CONFIDENCE.5.string."
 "text\n"
 "The standard deviation of the population."
-msgstr ""
+msgstr "Diallas caighdeánach an phobail."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_CONFIDENCE.6.string.text
 msgid "size"
@@ -60100,7 +60112,7 @@ msgstr "méid"
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_CONFIDENCE.7.string.text
 msgid "The size of the population."
-msgstr ""
+msgstr "Méid an phobail."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_Z_TEST.1.string.text
 msgid "Returns the two-tailed P value of a z test."
@@ -60137,7 +60149,7 @@ msgstr "sigme"
 msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_Z_TEST.7.string.text\n"
 "The standard deviation of the population."
-msgstr ""
+msgstr "Diallas caighdeánach an phobail."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_CHI_TEST.1.string.text
 msgid "Returns the chi square independence test."
@@ -60579,7 +60591,7 @@ msgstr "tagairt"
 msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_COLUMN.3.string.text\n"
 "The reference to a cell or a range."
-msgstr ""
+msgstr "An tagairt do chill nó do raon."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_ROW.1.string.text
 msgid "Defines the internal row number of a reference."
@@ -60595,7 +60607,7 @@ msgstr "tagairt"
 msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_ROW.3.string.text\n"
 "The reference to a cell or a range."
-msgstr ""
+msgstr "An tagairt do chill nó do raon."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_TABLE.1.string.text
 msgid "Returns the internal sheet number of a reference or a string."
@@ -60658,7 +60670,7 @@ msgstr "tagairt"
 msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_TABLES.3.string.text\n"
 "The reference to a cell or a range."
-msgstr ""
+msgstr "An tagairt do chill nó do raon."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_H_LOOKUP.1.string.text
 msgid "Horizontal search and reference to the cells located below."
@@ -69103,8 +69115,8 @@ msgid ""
 "default  location requested during the browser installation."
 msgstr ""
 "Níorbh fhéidir le %PRODUCTNAME brabhsálaí a aimsiú ar do chóras. Seiceáil do "
-"roghanna deisce, nó suiteáil brabhsálaí (mar shampla Mozilla Firefox) san áit "
-"réamhshocraithe nuair a iarrtar ort é agus tú á shuiteáil."
+"roghanna deisce, nó suiteáil brabhsálaí (mar shampla Mozilla Firefox) san "
+"áit réamhshocraithe nuair a iarrtar ort é agus tú á shuiteáil."
 
 #: app.src#RID_WARN_POST_MAILTO.warningbox.text
 msgid ""
@@ -69244,8 +69256,7 @@ msgstr "Níorbh fhéidir comhad $(FILE) a rochtain."
 #: app.src#MSG_IOERR_INVALID_HANDLE.string.text
 msgid "The file $(FILE) could not be opened due to an invalid file handle."
 msgstr ""
-"Níorbh fhéidir comhad $(FILE) a oscailt mar gheall ar comhadainm "
-"neamhbhailí."
+"Níorbh fhéidir comhad $(FILE) a oscailt mar gheall ar comhadainm neamhbhailí."
 
 #: app.src#MSG_IOERR_CANNOT_MAKE.string.text
 msgid "The file $(FILE) could not be created."
@@ -69555,11 +69566,11 @@ msgid ""
 "Execution of macros is disabled for this document.\n"
 " "
 msgstr ""
-"Ní hionann inneachar na cáipéise digishínithe agus/nó na macraí agus "
-"síniú na cáipéise reatha.\n"
+"Ní hionann inneachar na cáipéise digishínithe agus/nó na macraí agus síniú "
+"na cáipéise reatha.\n"
 "\n"
-"D'fhéadfaí é seo trí láimhseáil na cáipéise nó trí dhamáiste structúrach "
-"don cháipéis mar gheall ar aistriú an eolais.\n"
+"D'fhéadfaí é seo trí láimhseáil na cáipéise nó trí dhamáiste structúrach don "
+"cháipéis mar gheall ar aistriú an eolais.\n"
 "\n"
 "Molaimid gan muinín iomlán a bheith agat in inneachar na cáipéise reatha.\n"
 "Díchumasaíodh rith macraí don cháipéis seo.\n"
@@ -70712,8 +70723,8 @@ msgid ""
 "The Styles in this document do not match your current Styles. Should your "
 "current Styles be applied to this document?"
 msgstr ""
-"Ní hionann na stíleanna sa cháipéis seo agus do stíleanna reatha.  Ar "
-"cheart do stíleanna reatha a leagan air?"
+"Ní hionann na stíleanna sa cháipéis seo agus do stíleanna reatha.  Ar cheart "
+"do stíleanna reatha a leagan air?"
 
 #: doc.src#STR_DELETE_REGION.string.text
 msgid "Are you sure you want to delete the region \"$1\"?"
@@ -70921,17 +70932,17 @@ msgid ""
 "template with the same name exists at \"$(FOUND)\". Should this template be "
 "used in the future when comparing?"
 msgstr ""
-"Níor aimsíodh teimpléad \"$(TEMPLATE)\" sa bhunáit. Is ann do theimpléad "
-"den ainm céanna ag \"$(FOUND)\". Ar cheart an teimpléad seo a úsáid as seo "
-"amach nuair atáthar ag comparáidiú?"
+"Níor aimsíodh teimpléad \"$(TEMPLATE)\" sa bhunáit. Is ann do theimpléad den "
+"ainm céanna ag \"$(FOUND)\". Ar cheart an teimpléad seo a úsáid as seo amach "
+"nuair atáthar ag comparáidiú?"
 
 #: doc.src#STR_TEMPL_RESET.string.text
 msgid ""
 "The template \"$(TEMPLATE)\" has not been found. Should the template be "
 "looked for the next time the document is opened ?"
 msgstr ""
-"Níor aimsíodh teimpléad \"$(TEMPLATE)\". Ar cheart é a lorg nuair a "
-"osclófar an cháipéis an chéad uair eile?"
+"Níor aimsíodh teimpléad \"$(TEMPLATE)\". Ar cheart é a lorg nuair a osclófar "
+"an cháipéis an chéad uair eile?"
 
 #: doc.src#STR_AUTOMATICVERSION.string.text
 msgid "Automatically saved version"
@@ -71280,8 +71291,8 @@ msgid ""
 "setting. Therefore, some functionality may not be available."
 msgstr ""
 "Tá macraí sa cháipéis seo.\n"
-"Díchumasaíodh rith macraí mar gheall ar shocruithe slándála macraí. "
-"Mar sin, b'fhéidir nach bhfeidhmeoidh sé mar is ceart."
+"Díchumasaíodh rith macraí mar gheall ar shocruithe slándála macraí. Mar sin, "
+"b'fhéidir nach bhfeidhmeoidh sé mar is ceart."
 
 #: menu.src#STR_MENU_CFGITEM.string.text
 msgid "Configuration Menu"
@@ -98265,8 +98276,8 @@ msgid ""
 "\n"
 "Please check the connections settings."
 msgstr ""
-"Níor aimsíodh foinse sonraí \\'%1\\' Mar sin, níorbh fhéidir nasc le "
-"foinse na sonraí a chruthú.\n"
+"Níor aimsíodh foinse sonraí \\'%1\\' Mar sin, níorbh fhéidir nasc le foinse "
+"na sonraí a chruthú.\n"
 "\n"
 "Seiceáil socruithe an naisc."
 
@@ -98293,10 +98304,10 @@ msgid ""
 "In large documents, delays can occur when the document is edited. Do you "
 "want to show the changes to avoid delays?"
 msgstr ""
-"Sa cháipéis reatha, tá athruithe á dtaifeadú gan na hathruithe a "
-"thaispeáint mar sin. I gcáipéisí móra, d'fhéadfaí moillí suntasacha a "
-"tharlú agus an cháipéis á chur in eagar. Ar mhaith leat na hathruithe a "
-"thaispeáint chun na moillí seo a sheachaint?"
+"Sa cháipéis reatha, tá athruithe á dtaifeadú gan na hathruithe a thaispeáint "
+"mar sin. I gcáipéisí móra, d'fhéadfaí moillí suntasacha a tharlú agus an "
+"cháipéis á chur in eagar. Ar mhaith leat na hathruithe a thaispeáint chun na "
+"moillí seo a sheachaint?"
 
 #: error.src#STR_COMCORE_CANT_SHOW.string.text
 msgid "Graphic cannot be displayed."
@@ -110203,11 +110214,10 @@ msgid ""
 "recommended that you have a primary key in every table. Without a primary "
 "key, it will not be possible to enter data into this table."
 msgstr ""
-"Tugann príomheochair ionannas faoi leith do gach taifead i dtábla "
-"bhunachair sonraí. Déanann eochracha príomhúla níos fusa é, sonraí i dtáblaí "
-"éagsúla a cheangailt lé chéile, agus moltar duit príomheochair a chur i "
-"ngach tábla. Gan ceann, ní bheifear in ann sonraí a chur isteach sa tábla "
-"seo."
+"Tugann príomheochair ionannas faoi leith do gach taifead i dtábla bhunachair "
+"sonraí. Déanann eochracha príomhúla níos fusa é, sonraí i dtáblaí éagsúla a "
+"cheangailt lé chéile, agus moltar duit príomheochair a chur i ngach tábla. "
+"Gan ceann, ní bheifear in ann sonraí a chur isteach sa tábla seo."
 
 #: dbwizres.src#RID_DB_TABLE_WIZARD_START___27.string.text
 msgid "~Create a primary key"
@@ -111325,7 +111335,8 @@ msgstr "Tharla earráid I/A agus cáipéis '%FILENAME' á heaspórtáil."
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__113.string.text
 msgid "An error occurred while copying media files to the temporary directory."
 msgstr ""
-"Tharla earráid i rith cóipeála na comhad meán go dtí an chomhadlann sealadach "
+"Tharla earráid i rith cóipeála na comhad meán go dtí an chomhadlann "
+"sealadach "
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__114.string.text
 msgid "The web site could not be copied to the following destination: %URL"
