@@ -5793,12 +5793,12 @@ msgstr "Comhad Microsoft Access"
 #: RelationDlg.src#DLG_REL_PROPERTIES.WND_CONTROL.FL_INVOLVED_TABLES.fixedline.text
 #: querydlg.src#DLG_QRY_JOIN.WND_CONTROL.FL_INVOLVED_TABLES.fixedline.text
 msgid "Tables involved"
-msgstr ""
+msgstr "Táblaí i gceist"
 
 #: RelationDlg.src#DLG_REL_PROPERTIES.WND_CONTROL.FL_INVOLVED_FIELDS.fixedline.text
 #: querydlg.src#DLG_QRY_JOIN.WND_CONTROL.FL_INVOLVED_FIELDS.fixedline.text
 msgid "Fields involved"
-msgstr ""
+msgstr "Réimsí i gceist"
 
 #: RelationDlg.src#DLG_REL_PROPERTIES.FL_CASC_UPD.fixedline.text
 msgid "Update options"
@@ -7275,7 +7275,7 @@ msgstr "- neamhní -"
 
 #: queryfilter.src#DLG_FILTERCRIT.STR_COMPARE_OPERATORS.string.text
 msgid "=;<>;<;<=;>;>=;like;not like;null;not null"
-msgstr ""
+msgstr "=;<>;<;<=;>;>=;like;not like;null;not null"
 
 #: queryfilter.src#DLG_FILTERCRIT.modaldialog.text
 #: filter.src#RID_SCDLG_FILTER.modelessdialog.text
@@ -7974,6 +7974,8 @@ msgstr "(gan tábla)"
 #: query.src#STR_QRY_ORDERBY_UNRELATED.string.text
 msgid "The database only supports sorting for visible fields."
 msgstr ""
+"Ní thacaíonn an bunachar sonraí le sortáil, ach amháin má tá réimsí "
+"infheicthe i gceist."
 
 #: query.src#RID_QUERYFUNCTION_POPUPMENU.ID_QUERY_FUNCTION.menuitem.text
 #: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBViewFunctions.Label.value.text
@@ -8052,6 +8054,8 @@ msgid ""
 "The statement will not be applied when querying in the SQL dialect of the "
 "database."
 msgstr ""
+"Ní chuirfear an ráiteas i bhfeidhm fad a dhéantar iarratais i gcanúint SQL "
+"an bhunachair sonraí."
 
 #: query.src#ERR_QRY_AMB_FIELD.errorbox.text
 msgid "Field name not found or not unique"
@@ -8107,6 +8111,8 @@ msgid ""
 "The corresponding data source has been deleted. Therefore, data relevant to "
 "that data source cannot be saved."
 msgstr ""
+"Tá an foinse sonraí chomhfhreagrach scriosta. Dá bhrí sin, ní féidir sonraí "
+"a bhaineann leis an bhfoinse sonraí sin a shábháil."
 
 #: query.src#STR_QRY_COLUMN_NOT_FOUND.string.text
 msgid "The column '$name$' is unknown."
@@ -8114,7 +8120,7 @@ msgstr "Colún anaithnid '$name$'."
 
 #: query.src#STR_QRY_JOIN_COLUMN_COMPARE.string.text
 msgid "Columns can only be compared using '='."
-msgstr ""
+msgstr "Ní féidir colúin a chóimheas, ach amháin le '=' a úsáid."
 
 #: query.src#STR_QRY_LIKE_LEFT_NO_COLUMN.string.text
 msgid "You must use a column name before 'LIKE'."
@@ -8181,22 +8187,28 @@ msgstr "Airíonna Comhcheangail"
 #: querydlg.src#STR_JOIN_TYPE_HINT.string.text
 msgid "Please note that some databases may not support this join type."
 msgstr ""
+"Tugtar faoi dheara nach dtacaíonn roinnt bunachair sonraí leis an saghas "
+"comhcheangail seo."
 
 #: querydlg.src#STR_QUERY_INNER_JOIN.string.text
 msgid ""
 "Includes only records for which the contents of the related fields of both "
 "tables are identical."
 msgstr ""
+"Ní chuimsítear ach taifid a bhfuil le hinneachar comhionann acu i réimsí "
+"gaolmhara an dhá tábla."
 
 #: querydlg.src#STR_QUERY_LEFTRIGHT_JOIN.string.text
 msgid ""
 "Contains ALL records from table '%1' but only records from table '%2' where "
 "the values in the related fields are matching."
 msgstr ""
+"Coinnítear GACH taifead ón tábla '%1', agus taifid ón tábla '%2' a bhfuil le "
+"luachanna comhoiriúnacha acu sna réimsí gaolmhara."
 
 #: querydlg.src#STR_QUERY_FULL_JOIN.string.text
 msgid "Contains ALL records from '%1' and from '%2'."
-msgstr ""
+msgstr "Coinnítear GACH taifead ó '%1' agus ó '%2'."
 
 #: relation.src#STR_QUERY_REL_EDIT_RELATION.string.text
 msgid "This relation already exsits. Do you want to edit it?"
@@ -8749,6 +8761,13 @@ msgid ""
 "\n"
 "Do you really want to continue?"
 msgstr ""
+"Tá ásc eile de %PRODUCTNAME ag dul isteach i do chuid socruithe phearsanta, "
+"é sin nó tá do shocruithe phearsanta faoi ghlas.\n"
+"Is féidir le rochtain chomhuaineach neamh-chomhsheasmhachta a chruthú i "
+"measc do chuid socruithe phearsanta. Sula leanann tú ar aghaidh, bí cinnte "
+"go ndúnann an t-úsáideoir '$u' an t-ásc %PRODUCTNAME ar an óstach '$h'.\n"
+"\n"
+"An bhfuil tú cinnte gur mian leat leanúint?"
 
 #: desktop.src#STR_TITLE_USERDATALOCKED.string.text
 msgid ""
@@ -29126,7 +29145,7 @@ msgstr "Muileata"
 
 #: Effects.xcu#..Effects.UserInterface.Effects.ooo_motionpath_equal_triangle.Label.value.text
 msgid "Equal Triangle"
-msgstr ""
+msgstr "Triantán Cothrom"
 
 #: Effects.xcu#..Effects.UserInterface.Effects.ooo_motionpath_oval.Label.value.text
 msgid "Oval"
@@ -29708,19 +29727,19 @@ msgstr "Roinn go hIngearach Amach"
 
 #: Effects.xcu#..Effects.UserInterface.Transitions.diagonal_squares_left_down.Label.value.text
 msgid "Diagonal Squares Left-Down"
-msgstr ""
+msgstr "Cearnóga Tríthrasnánacha Clé-Síos"
 
 #: Effects.xcu#..Effects.UserInterface.Transitions.diagonal_squares_left_up.Label.value.text
 msgid "Diagonal Squares Left-Up"
-msgstr ""
+msgstr "Cearnóga Tríthrasnánacha Clé-Suas"
 
 #: Effects.xcu#..Effects.UserInterface.Transitions.diagonal_squares_right_down.Label.value.text
 msgid "Diagonal Squares Right-Down"
-msgstr ""
+msgstr "Cearnóga Tríthrasnánacha Deas-Síos"
 
 #: Effects.xcu#..Effects.UserInterface.Transitions.diagonal_squares_right_up.Label.value.text
 msgid "Diagonal Squares Right-Up"
-msgstr ""
+msgstr "Cearnóga Tríthrasnánacha Deas-Suas"
 
 #: Effects.xcu#..Effects.UserInterface.Transitions.uncover_down.Label.value.text
 msgid "Uncover Down"
@@ -30458,7 +30477,7 @@ msgstr ""
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_ArrowShapes.quad_arrow.Label.value.text
 msgid "4-way Arrow"
-msgstr ""
+msgstr "Saighead 4-threo"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_ArrowShapes.corner_right_arrow.Label.value.text
 msgid "Corner Right Arrow"
@@ -32381,7 +32400,7 @@ msgstr "Cearnóg"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_Square_Rounded.Label.value.text
 msgid "Rounded Square"
-msgstr ""
+msgstr "Cearnóg Chuar"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_OnlineRegistrationDlg.Label.value.text
 #: globlmn_tmpl.hrc#ITEM_HELP_ONLINE_REGISTRATION.#define.text
@@ -32398,7 +32417,7 @@ msgstr "Cearnóg, Gan Líonadh"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_Square_Rounded_Unfilled.Label.value.text
 msgid "Rounded Square, Unfilled"
-msgstr ""
+msgstr "Cearnóg Chuar, Neamhlíonta"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_GoToEndOfDataSel.Label.value.text
 msgid "Select to File End"
@@ -46471,6 +46490,8 @@ msgid ""
 "Loads basic components on system start to accelerate start up time of %"
 "PRODUCTNAME %PRODUCTVERSION."
 msgstr ""
+"Lódálaítear bunchomhpháirteanna ar thosú an chórais chun an t-am tosaithe de "
+"%PRODUCTNAME %PRODUCTVERSION a luathú."
 
 #: module_testtool.ulf#STR_NAME_MODULE_OPTIONAL_TESTTOOL.LngText.text
 msgid ""
@@ -53375,7 +53396,7 @@ msgstr "12/30/1899 (~réamhshocrú)"
 
 #: optdlg.src#RID_SCPAGE_CALC.BTN_DATESTD.radiobutton.quickhelptext
 msgid "Value 0 corresponds to 12/30/1899"
-msgstr ""
+msgstr "Comhfhreagraíonn an luach 0 le 12/30/1899"
 
 #: optdlg.src#RID_SCPAGE_CALC.BTN_DATESC10.radiobutton.text
 msgid "01/01/1900 (Star~Calc 1.0)"
@@ -53383,7 +53404,7 @@ msgstr "01/01/1900 (Star~Calc 1.0)"
 
 #: optdlg.src#RID_SCPAGE_CALC.BTN_DATESC10.radiobutton.quickhelptext
 msgid "Value 0 corresponds to 01/01/1900"
-msgstr ""
+msgstr "Comhfhreagraíonn an luach 0 le 01/01/1900"
 
 #: optdlg.src#RID_SCPAGE_CALC.BTN_DATE1904.radiobutton.text
 msgid "~01/01/1904"
@@ -53391,7 +53412,7 @@ msgstr "~01/01/1904"
 
 #: optdlg.src#RID_SCPAGE_CALC.BTN_DATE1904.radiobutton.quickhelptext
 msgid "0 corresponds to 01/01/1904"
-msgstr ""
+msgstr "Comhfhreagraíonn 0 le 01/01/1904"
 
 #: optdlg.src#RID_SCPAGE_CALC.FT_PREC.fixedtext.text
 #: numfmt.src#RID_SVXPAGE_NUMBERFORMAT.FT_DECIMALS.fixedtext.text
@@ -67511,7 +67532,7 @@ msgstr "-"
 
 #: animobjs.src#FLT_WIN_ANIMATION.NUM_FLD_BITMAP.numericfield.quickhelptext
 msgid "Image Number"
-msgstr ""
+msgstr "Uimhir Íomhá"
 
 #: animobjs.src#FLT_WIN_ANIMATION.TIME_FIELD.timefield.text
 msgid ""
@@ -67532,7 +67553,7 @@ msgstr "-"
 
 #: animobjs.src#FLT_WIN_ANIMATION.LB_LOOP_COUNT.listbox.quickhelptext
 msgid "Loop Count"
-msgstr ""
+msgstr "Áireamh Lúb"
 
 #: animobjs.src#FLT_WIN_ANIMATION.LB_LOOP_COUNT.3.stringlist.text
 msgid "3"
@@ -77864,8 +77885,9 @@ msgid ""
 "The menu configuration for %SAVE IN SELECTION% will be reset to the factory "
 "settings. Do you want to continue?"
 msgstr ""
-"Fillfidh cumraíocht an roghchláir %SAVE IN SELECTION% go dtí na "
-"réamhshocruithe. Ar mhaith leat dul ar aghaidh?"
+"_: cfg.src#QBX_CONFIRM_RESET.querybox.text\n"
+"Athshocrófar an chumraíocht roghchláir do %SAVE IN SELECTION% ar ais go "
+"socruithe na monarchan. Ar mhaith leat leanúint?"
 
 #: cfg.src#RID_SVXSTR_CONFIRM_MENU_RESET.string.text
 msgid ""
@@ -77889,6 +77911,8 @@ msgid ""
 "This will delete all changes previously made to this toolbar. Do you really "
 "want to reset the toolbar?"
 msgstr ""
+"Scriosfar gach athrú a rinneadh don bharra uirlisí roimh seo. An bhfuil tú "
+"cinnte gur mian leat an barra uirlisí a athshocrú?"
 
 #: cfg.src#RID_SVXSTR_LABEL_NEW_NAME.string.text
 msgid "~New name"
@@ -79316,7 +79340,7 @@ msgstr "%"
 
 #: contdlg.src#RID_SVXDLG_CONTOUR.MTF_TOLERANCE.metricfield.quickhelptext
 msgid "Color Tolerance"
-msgstr ""
+msgstr "Lamháltas Datha"
 
 #: contdlg.src#RID_SVXDLG_CONTOUR.floatingwindow.text
 msgid "Contour Editor"
@@ -80685,6 +80709,9 @@ msgid ""
 "Removing headers or footers deletes the contents.\n"
 "Do you want to delete this text?"
 msgstr ""
+"Má baineann tú amach ceanntáscanna nó buntáscanna, scriosfar a bhfuil "
+"iontu.\n"
+"Ar mhaith leat an téacs seo a scrios?"
 
 #: hlmarkwn.src#RID_SVXFLOAT_HYPERLINK_MARKWND.BT_APPLY.pushbutton.text
 msgid ""
@@ -82305,6 +82332,8 @@ msgstr "[Uile]"
 msgid ""
 "This word appears in the list of words you want to avoid. Start thesaurus?"
 msgstr ""
+"Tá an focal seo ar cheann de na focail a bhfuil uait a sheachaint. Ar mhaith "
+"leat an téasaras a thosú?"
 
 #: lingu.src#RID_SVXQB_CONTINUE.querybox.text
 #: dialog.src#RID_QB_SPELL_CONTINUE.querybox.text
@@ -87652,7 +87681,7 @@ msgstr "-"
 
 #: textanim.src#RID_SVXPAGE_TEXTANIMATION.BTN_LEFT.imagebutton.quickhelptext
 msgid "To Left"
-msgstr ""
+msgstr "Faoi Chlé"
 
 #: textanim.src#RID_SVXPAGE_TEXTANIMATION.BTN_RIGHT.imagebutton.text
 msgid ""
@@ -87662,7 +87691,7 @@ msgstr "-"
 
 #: textanim.src#RID_SVXPAGE_TEXTANIMATION.BTN_RIGHT.imagebutton.quickhelptext
 msgid "To Right"
-msgstr ""
+msgstr "Faoi Dheis"
 
 #: textanim.src#RID_SVXPAGE_TEXTANIMATION.BTN_DOWN.imagebutton.text
 msgid ""
@@ -89361,7 +89390,7 @@ msgstr "-"
 
 #: float3d.src#RID_SVXFLOAT_3D.BTN_SHADOW_3D.imagebutton.quickhelptext
 msgid "3D Shadowing On/Off"
-msgstr ""
+msgstr "Scáthú Tríthoiseach Air/As"
 
 #: float3d.src#RID_SVXFLOAT_3D.FT_SLANT.fixedtext.text
 msgid "S~urface angle"
@@ -89938,6 +89967,9 @@ msgid ""
 "model.\n"
 "Do you really want to delete this model?"
 msgstr ""
+"Má scriosann tú an shamhail '$MODELNAME', rachfar i bhfeidhm ar gach rialtán "
+"atá bainte leis an samhail seo faoi láthair.\n"
+"An bhfuil tú cinnte gur mian leat an shamhail seo a scrios?"
 
 #: datanavi.src#RID_QRY_REMOVE_INSTANCE.querybox.text
 msgid ""
@@ -89945,6 +89977,9 @@ msgid ""
 "to this instance.\n"
 "Do you really want to delete this instance?"
 msgstr ""
+"Má scriosann tú an t-ásc '$INSTANCENAME', rachfar i bhfeidhm ar gach rialtán "
+"atá bainte leis an ásc seo faoi láthair.\n"
+"An bhfuil tú cinnte gur mian leat an t-ásc seo a scrios?"
 
 #: datanavi.src#RID_QRY_REMOVE_ELEMENT.querybox.text
 msgid ""
@@ -89952,6 +89987,9 @@ msgid ""
 "this element.\n"
 "Do you really want to delete this element?"
 msgstr ""
+"Má scriosann tú an eilimint '$ELEMENTNAME', rachfar i bhfeidhm ar gach "
+"rialtán atá bainte leis an eilimint seo faoi láthair.\n"
+"An bhfuil tú cinnte gur mian leat an eilimint seo a scrios?"
 
 #: datanavi.src#RID_QRY_REMOVE_ATTRIBUTE.querybox.text
 msgid "Do you really want to delete the attribute '$ATTRIBUTENAME'?"
@@ -89965,6 +90003,10 @@ msgid ""
 "\n"
 "Do you really want to delete this submission?"
 msgstr ""
+"Má scriosann tú an t-aighneacht '$SUBMISSIONNAME', rachfar i bhfeidhm ar "
+"gach rialtán atá bainte leis an aighneacht seo faoi láthair.\n"
+"\n"
+"An bhfuil tú cinnte gur mian leat an t-aighneacht seo a scrios?"
 
 #: datanavi.src#RID_QRY_REMOVE_BINDING.querybox.text
 msgid ""
@@ -89973,6 +90015,10 @@ msgid ""
 "\n"
 "Do you really want to delete this binding?"
 msgstr ""
+"Má scriosann tú an ceangal '$BINDINGNAME', rachfar i bhfeidhm ar gach "
+"rialtán atá bainte leis an gceangal seo faoi láthair.\n"
+"\n"
+"An bhfuil tú cinnte gur mian leat an ceangal seo a scrios?"
 
 #: datanavi.src#RID_QRY_LINK_WARNING.messbox.text
 msgid ""
@@ -92995,7 +93041,7 @@ msgstr ""
 
 #: optdict.src#RID_SFXQB_SET_LANGUAGE.querybox.text
 msgid "Do you want to change the '%1' dictionary language?"
-msgstr ""
+msgstr "Ar mhaith leat an teanga fhoclóra do '%1' a athrú?"
 
 #: optgenrl.src#RID_SFXPAGE_GENERAL.FT_COMPANY.fixedtext.text
 msgid "~Company"
@@ -93069,6 +93115,12 @@ msgid ""
 "You can find the registration form in the menu Help - Registration...\n"
 "Do you really want to change your User Data?"
 msgstr ""
+"Athraíodh na Sonraí Úsáideora.\n"
+"Tugtar faoi dheara go dtiocfaidh an eochair clárúcháin chun bheith "
+"neamhbhailí má leanann tú ar aghaidh.\n"
+"Dá bhrí sin, is gá le eochar clárúcháin nua as seo go ceann 30 lá.\n"
+"Tá an foirm chlárúcháin ar fáil sa roghchlár Cabhair - Clárúchán...\n"
+"An bhfuil tú cinnte gur mian leat do Shonraí Úsáideora a athrú?"
 
 #: optgrid.src#RID_SVXPAGE_GRID.GRP_DRAWGRID.fixedline.text
 msgid ""
@@ -101320,6 +101372,8 @@ msgid ""
 "A file connection will delete the contents of the current section. Connect "
 "anyway?"
 msgstr ""
+"Scriosfar a bhfuil sa rannán reatha má dhéantar nasc comhaid. Ar mhaith leat "
+"nasc a dhéanamh ainneoin é sin?"
 
 #: regionsw.src#REG_WRONG_PASSWORD.infobox.text
 msgid "The password entered is invalid."
@@ -104749,6 +104803,8 @@ msgid ""
 "The document already contains the bibliography entry but with different "
 "data. Do you want to adjust the existing entries?"
 msgstr ""
+"Tá an iontráil bibleagrafaíoch sa doiciméad seo cheana féin, ach tá sonraí "
+"eile ann. Ar mhaith leat na hiontrála atá ann a shocrú?"
 
 #: multmrk.src#DLG_MULTMRK.FL_TOX.fixedline.text
 msgid ""
@@ -106003,6 +106059,8 @@ msgstr "Cuir Athruithe in Eagar"
 #: shells.src#DLG_IMPORT_DBNAME.querybox.text
 msgid "Use database name as default database for the document?"
 msgstr ""
+"Ar mhaith leat ainm an bhunachair sonraí a úsáid mar bhunachar sonraí "
+"réamhshocraithe don doiciméad?"
 
 #: shells.src#RID_TABLE_TOOLBOX.string.text
 msgid "Table Object Bar"
