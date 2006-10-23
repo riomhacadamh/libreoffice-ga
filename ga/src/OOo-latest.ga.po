@@ -4710,7 +4710,7 @@ msgstr ""
 
 #: strings.src#RID_STR_TRIED_OPEN_TABLE.string.text
 msgid "Tried to open the table $name$."
-msgstr ""
+msgstr "Rinneadh iarracht tábla $name$ a oscailt."
 
 #: strings.src#RID_STR_CONNECTION_INVALID.string.text
 msgid "No connection could be established."
@@ -4721,6 +4721,7 @@ msgid ""
 "The table $name$ already exists. It is not visible because it has been "
 "filtered out."
 msgstr ""
+"Tá tábla $name$ ann cheana. Níl sé le feiceáil mar gur scagadh amach é."
 
 #: strings.src#RID_STR_NEED_CONFIG_WRITE_ACCESS.string.text
 msgid ""
@@ -4778,6 +4779,8 @@ msgid ""
 "The given command is not a SELECT statement.\n"
 "Only queries are allowed."
 msgstr ""
+"Ní ráiteas SELECT é an t-ordú a tugadh.\n"
+"Ní cheadaítear ach iarratais."
 
 #: strings.src#RID_STR_NO_VALUE_CHANGED.string.text
 msgid "No values were modified."
@@ -4788,32 +4791,38 @@ msgid ""
 "Values could not be inserted. The XRowUpdate interface is not supported by "
 "ResultSet."
 msgstr ""
+"Ní fhéadfaí luachanna a chur isteach. Ní thacaíonn ResultSet leis an "
+"gcomhéadan XRowUpdate."
 
 #: strings.src#RID_STR_NO_XRESULTSETUPDATE.string.text
 msgid ""
 "Values could not be inserted. The XResultSetUpdate interface is not "
 "supported by ResultSet."
 msgstr ""
+"Ní fhéadfaí luachanna a chur isteach. Ní thacaíonn ResultSet leis an "
+"gcomhéadan XResultSetUpdate."
 
 #: strings.src#RID_STR_NO_UPDATE_MISSING_CONDITION.string.text
 msgid "Values could not be modified, due to a missing condition statement."
 msgstr ""
+"Ní fhéadfaí luachanna a mhionathrú, mar go raibh ráiteas coinníollach in "
+"easnamh."
 
 #: strings.src#RID_STR_NO_COLUMN_ADD.string.text
 msgid "The adding of columns is not supported."
-msgstr ""
+msgstr "Ní thacaítear le suimiú colún."
 
 #: strings.src#RID_STR_NO_COLUMN_DROP.string.text
 msgid "The dropping of columns is not supported."
-msgstr ""
+msgstr "Ní thacaítear le baint colún."
 
 #: strings.src#RID_STR_NO_CONDITION_FOR_PK.string.text
 msgid "The WHERE condition could not be created for the primary key."
-msgstr ""
+msgstr "Ní fhéadfaí an coinníoll WHERE a chruthú don phríomheochair."
 
 #: strings.src#RID_STR_COLUMN_UNKNOWN_PROP.string.text
 msgid "The column does not support the property '%value'."
-msgstr ""
+msgstr "Ní thacaíonn an colún leis an airí '%value'."
 
 #: strings.src#RID_STR_COLUMN_NOT_SEARCHABLE.string.text
 msgid "The column is not searchable!"
@@ -4821,7 +4830,7 @@ msgstr "Ní féidir an colún a chuardach!"
 
 #: strings.src#RID_STR_NOT_SEQUENCE_INT8.string.text
 msgid "The value of the columns is not of the type Sequence<sal_Int8>."
-msgstr ""
+msgstr "Níl luach na gcolún den chineál Sequence<sal_Int8>"
 
 #: strings.src#RID_STR_COLUMN_NOT_VALID.string.text
 msgid "The column is not valid."
@@ -4829,7 +4838,7 @@ msgstr "Níl an colún bailí."
 
 #: strings.src#RID_STR_COLUMN_MUST_VISIBLE.string.text
 msgid "The column '%name' must be visible as a column."
-msgstr ""
+msgstr "Caithfidh colún '%name' a bheith le feiceáil mar cholún."
 
 #: strings.src#RID_STR_NO_XQUERIESSUPPLIER.string.text
 msgid "The interface XQueriesSupplier is not available."
@@ -4845,19 +4854,22 @@ msgstr "Ní cheadaítear glao 'absolute(0)'."
 
 #: strings.src#RID_STR_NO_RELATIVE.string.text
 msgid "Relative positioning is not allowed in this state."
-msgstr ""
+msgstr "Níl suíomh coibhneasta ceadaithe sa staid seo."
 
 #: strings.src#RID_STR_NO_REFESH_AFTERLAST.string.text
 msgid ""
 "A row cannot be refreshed when the ResultSet is positioned after the last "
 "row."
 msgstr ""
+"Ní féidir ró a athnuachan nuair atá an ResultSet suite tar éis an ró deiridh."
 
 #: strings.src#RID_STR_NO_MOVETOINSERTROW_CALLED.string.text
 msgid ""
 "A new row cannot be inserted when the ResultSet is not first moved to the "
 "insert row."
 msgstr ""
+"Ní féidir ró nua a ionsá mura n-aistrítear an ResultSet ar dtús chuig an ró "
+"ionsá."
 
 #: strings.src#RID_STR_NO_UPDATEROW.string.text
 msgid "A row cannot be modified in this state"
@@ -4873,19 +4885,22 @@ msgstr "Ní thacaíonn an tiománaí le hathainmniú comhad."
 
 #: strings.src#RID_STR_NO_ALTER_COLUMN_DEF.string.text
 msgid "The driver does not support the modification of column descriptions."
-msgstr ""
+msgstr "Ní thacaíonn an tiománaí le mionathrú ar thuairisc na gcolún."
 
 #: strings.src#RID_STR_COLUMN_ALTER_BY_NAME.string.text
 msgid ""
 "The driver does not support the modification of column descriptions by "
 "changing the name."
 msgstr ""
+"Ní thacaíonn an tiománaí le mionathrú na dtuairiscí colún trí ainm a athrú."
 
 #: strings.src#RID_STR_COLUMN_ALTER_BY_INDEX.string.text
 msgid ""
 "The driver does not support the modification of column descriptions by "
 "changing the index."
 msgstr ""
+"Ní thacaíonn an tiománaí le mionathrú ar thuairisc na gcolún trí innéacs a "
+"athrú."
 
 #: strings.src#RID_STR_FILE_DOES_NOT_EXIST.string.text
 #: dbumiscres.src#STR_FILE_DOES_NOT_EXIST.string.text
@@ -4902,6 +4917,9 @@ msgid ""
 "existing queries. To make full use of all queries and tables, make sure they "
 "have distinct names."
 msgstr ""
+"Tá táblaí sa bhunachar sonraí a bhfuil a n-ainmneacha i gcoinbhleacht le "
+"hainmneacha na n-iarratas atá ann cheana. Chun lánúsáid a bhaint as gach "
+"iarratas agus tábla, déan cinnte go bhfuil ainmneacha ar leith acu."
 
 #: strings.src#RID_STR_COMMAND_LEADING_TO_ERROR.string.text
 msgid ""
@@ -4909,6 +4927,9 @@ msgid ""
 "\n"
 "$command$"
 msgstr ""
+"An t-ordú SQL a threoraíonn chuig an earráid seo:\n"
+"\n"
+"$command$"
 
 #: sdbt_strings.src#STR_NAME_ALREADY_USED_IN_DB.string.text
 msgid "The name '$name$' is already in use in the database."
@@ -8655,6 +8676,10 @@ msgid ""
 "All modified files have been saved and can\n"
 "probably be recovered at program restart."
 msgstr ""
+"Tharla earráid dhocheartaithe.\n"
+"\n"
+"Tá gach comhad mionathraithe sábháilte agus is dócha gur féidir iad a "
+"athshlánú nuair a atosaítear an feidhmchlár."
 
 #: desktop.src#STR_BOOTSTRAP_ERR_CANNOT_START.string.text
 msgid "The application cannot be started. "
@@ -8717,11 +8742,15 @@ msgid ""
 "Start the setup application to repair the installation from the CD or the "
 "folder containing the installation packages."
 msgstr ""
+"Tosaigh an feidhmchlár cumraíochta chun an tsuiteáil a dheisiú ón "
+"dlúthdhiosca nó ón bhfillteán ina bhfuil na pacáistí suiteála."
 
 #: desktop.src#STR_CONFIG_ERR_SETTINGS_INCOMPLETE.string.text
 msgid ""
 "The startup settings for accessing the central configuration are incomplete. "
 msgstr ""
+"Tá na socruithe suiteála chun rochtain a fháil ar an gcumraíocht lárnach "
+"neamhchríochnaithe."
 
 #: desktop.src#STR_CONFIG_ERR_CANNOT_CONNECT.string.text
 msgid "A connection to the central configuration could not be established. "
@@ -8743,6 +8772,8 @@ msgid ""
 "The changes to your personal settings cannot be stored centrally because of "
 "missing access rights. "
 msgstr ""
+"Ní féidir na hathruithe ar do shocruithe pearsanta a stóráil go lárnach mar "
+"go bhfuil cearta rochtana in easnamh. "
 
 #: desktop.src#STR_BOOTSTRAP_ERR_CFG_DATAACCESS.string.text
 msgid ""
@@ -8786,13 +8817,16 @@ msgstr "%PRODUCTNAME %PRODUCTVERSION"
 
 #: desktop.src#EBX_ERR_PRINTDISABLED.errorbox.text
 msgid "Printing is disabled. No documents can be printed."
-msgstr ""
+msgstr "Priontáil díchumasaithe. Ní féidir aon cháipéis a phriontáil."
 
 #: desktop.src#INFOBOX_EXPIRED.infobox.text
 msgid ""
 "This Evaluation Version has expired. To find out more about %PRODUCTNAME,\n"
 "visit www.sun.com/%PRODUCTNAME."
 msgstr ""
+"Tá an Leagan Meastóireachta seo éagtha. Chun tuilleadh eolais a fháil faoi %"
+"PRODUCTNAME,\n"
+"tabhair cuairt ar www.sun.com/%PRODUCTNAME."
 
 #: desktop.src#STR_TITLE_EXPIRED.string.text
 msgid ""
@@ -8802,7 +8836,7 @@ msgstr "%PRODUCTNAME %PRODUCTVERSION"
 
 #: desktop.src#STR_BOOTSTRAP_ERR_NO_PATHSET_SERVICE.string.text
 msgid "The path manager is not available.\n"
-msgstr ""
+msgstr "Níl an bainisteoir conaire ar fáil.\n"
 
 #: desktop.src#STR_BOOSTRAP_ERR_NOTENOUGHDISKSPACE.string.text
 msgid ""
@@ -8811,6 +8845,10 @@ msgid ""
 "restart %PRODUCTNAME:\n"
 "\n"
 msgstr ""
+"Ní fhéadfaí suiteáil úsáideora %PRODUCTNAME a chur i gcrích mar nach bhfuil "
+"go leor spás diosca ar fáil. Déan níos mó spás diosca a shaoradh ag an "
+"suíomh seo a leanas agus déan %PRODUCTNAME a atosú:\n"
+"\n"
 
 #: desktop.src#STR_BOOSTRAP_ERR_NOACCESSRIGHTS.string.text
 msgid ""
@@ -8819,6 +8857,10 @@ msgid ""
 "following location and restart %PRODUCTNAME:\n"
 "\n"
 msgstr ""
+"Ní fhéadfaí suiteáil úsáideora %PRODUCTNAME a phróiseáil mar go bhfuil "
+"cearta rochtana ar iarraidh. Déan cinnte go bhfuil go leor cearta rochtana "
+"agat den láthair seo a leanas agus déan %PRODUCTNAME a atosú:\n"
+"\n"
 
 #: dp_gui_dependencydialog.src#RID_DLG_DEPENDENCIES.RID_DLG_DEPENDENCIES_TEXT.fixedtext.text
 msgid ""
@@ -10509,6 +10551,11 @@ msgid ""
 "Choose the table from which the data should be used as basis for the list "
 "content:"
 msgstr ""
+"Ar an taobh dheis, feicfidh tú na táblaí go léir ó fhoinse sonraí na "
+"foirme.\n"
+"\n"
+"\n"
+"Roghnaigh an tábla as ar chóir na sonraí a úsáid mar bhonn don ábhar liosta:"
 
 #: listcombopages.src#RID_PAGE_LCW_CONTENTSELECTION_TABLE.tabpage.text
 msgid "Table Selection"
@@ -10527,13 +10574,15 @@ msgstr "Taispeáin réimse"
 
 #: listcombopages.src#RID_PAGE_LCW_CONTENTSELECTION_FIELD.STR_FIELDINFO_COMBOBOX.string.text
 msgid "The contents of the field selected will be shown in the combo box list."
-msgstr ""
+msgstr "Taispeánfar ábhar an réimse roghnaithe i liosta an bhosca teaglama."
 
 #: listcombopages.src#RID_PAGE_LCW_CONTENTSELECTION_FIELD.STR_FIELDINFO_LISTBOX.string.text
 msgid ""
 "The contents of the selected field will be shown in the list box if the "
 "linked fields are identical."
 msgstr ""
+"Taispeánfar ábhar an réimse roghnaithe sa bhosca liosta má tá na réimsí "
+"nasctha ionann le chéile."
 
 #: listcombopages.src#RID_PAGE_LCW_CONTENTSELECTION_FIELD.tabpage.text
 msgid ""
@@ -10546,24 +10595,28 @@ msgid ""
 "This is where you select fields with matching contents so that the value "
 "from the display field will be shown."
 msgstr ""
+"Is anseo a roghnaíonn tú réimsí le hábhar comhoiriúnach ionas go "
+"dtaispeánfar an luach ón réimse."
 
 #: listcombopages.src#RID_PAGE_LCW_FIELDLINK.FT_VALUELISTFIELD.fixedtext.text
 msgid "Field from the ~Value Table"
-msgstr ""
+msgstr "Réimse ón ~Tábla Luacha"
 
 #: listcombopages.src#RID_PAGE_LCW_FIELDLINK.FT_TABLEFIELD.fixedtext.text
 msgid "Field from the ~List Table"
-msgstr ""
+msgstr "Réimse ón Tábla ~Liosta"
 
 #: listcombopages.src#RID_PAGE_LCW_FIELDLINK.tabpage.text
 msgid "Field Link"
-msgstr ""
+msgstr "Nasc Réimse"
 
 #: listcombopages.src#RID_STR_COMBOWIZ_DBFIELD.string.text
 msgid ""
 "You can either save the value of the combo box in a database field or use it "
 "for display purposes."
 msgstr ""
+"Tig leat luach an bhosca teaglama a shábháil i réimse bunachar sonraí nó é a "
+"úsáid chun taispeána."
 
 #: protdlg.src#MD_PROTCHK_DIALOG.GB_DEFAULT_BROWSER.groupbox.text
 msgid "Set default browser "
@@ -13130,7 +13183,7 @@ msgstr "Scagaire XML Tástála: %s"
 
 #: strings.src#RID_BASELISTBOX_ERROR_FILLLIST.string.text
 msgid "The contents of a combo box or list field could not be determined."
-msgstr ""
+msgstr "Ní fhéadfaí ábhar an bhosca teaglama nó réimse liosta a dhearbhú."
 
 #: strings.src#RID_STR_IMPORT_GRAPHIC.string.text
 msgid "Insert graphics"
@@ -13194,7 +13247,7 @@ msgstr "Bain grafaicí"
 
 #: strings.src#RID_STR_INVALIDSTREAM.string.text
 msgid "The given stream is invalid."
-msgstr ""
+msgstr "Sruth neamhbhailí atá tugtha."
 
 #: strings.src#RID_STR_SYNTAXERROR.string.text
 #: fmstring.src#RID_STR_SYNTAXERROR.string.text
@@ -13206,6 +13259,8 @@ msgid ""
 "The value types supported by the binding cannot be used for exchanging data "
 "with this control."
 msgstr ""
+"Ní féidir na cineálacha luacha a dtacaíonn an ceangal leo a úsáid chun "
+"sonraí a mhalartú leis an rialú seo."
 
 #: strings.src#RID_STR_LABEL_RECORD.string.text
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_RecText.Label.value.text
@@ -13219,6 +13274,9 @@ msgid ""
 "time acts as validator. You need to revoke the value binding, before you can "
 "set a new validator."
 msgstr ""
+"Tá an rialú nasctha le ceangal seachtrach luacha, a fheidhmíonn ag an am "
+"céanna mar bhailíochtóir. Ní mór duit an ceangal luacha a chúlghairm, sular "
+"féidir leat bailíochtóír nua a shocrú."
 
 #: strings.src#RID_STR_LABEL_OF.string.text
 #: globstr.src#RID_GLOBSTR.STR_HF_OF.string.text
@@ -32108,7 +32166,7 @@ msgstr "~Feidhmchláirín..."
 #: globlmn_tmpl.hrc#ITEM_FORMAT_FRAME_TO_BOTTOM.#define.text
 #: imapdlg.src#RID_SVXMN_IMAP.MN_POSITION.MN_FRAME_TO_BOTTOM.menuitem.text
 msgid "~Send to Back"
-msgstr ""
+msgstr "~Cuir go dtí an cúl"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_SourceView.Label.value.text
 #: docvw.src#MN_READONLY_POPUP.MN_READONLY_SOURCEVIEW.menuitem.text
@@ -32802,7 +32860,7 @@ msgstr "Easpórtáil mar PDF go díreach"
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_ObjectBarVisible.Label.value.text
 #: globlmn_tmpl.hrc#ITEM_VIEW_TOGGLEOBJECTBAR.#define.text
 msgid "~Object Bar"
-msgstr ""
+msgstr "~Barra Réada"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_FunctionBarVisible.Label.value.text
 #: globlmn_tmpl.hrc#ITEM_VIEW_TOGGLEFUNCTIONBAR.#define.text
@@ -44116,7 +44174,7 @@ msgstr "Mód cairte"
 
 #: glob.src#STR_STDOBJECTBARSHELL.string.text
 msgid "Chart Bar"
-msgstr ""
+msgstr "Barra Cairte"
 
 #: glob.src#STR_APPLICATIONOBJECTBAR.string.text
 #: app.src#RID_ENVTOOLBOX.string.text
@@ -47689,7 +47747,7 @@ msgstr "~Aonleithid"
 
 #: asciiopt.src#RID_SCDLG_ASCII.RB_SEPARATED.radiobutton.text
 msgid "~Separated by"
-msgstr "~Deighilte le"
+msgstr "~Deighilte ag"
 
 #: asciiopt.src#RID_SCDLG_ASCII.FT_CHARSET.fixedtext.text
 msgid "Ch~aracter set"
@@ -47699,21 +47757,22 @@ msgstr "T~acar carachtar"
 msgid "Te~xt delimiter"
 msgstr "Teormharcóir téa~cs"
 
+# these follow "deighilte ag"
 #: asciiopt.src#RID_SCDLG_ASCII.CKB_TAB.checkbox.text
 msgid "~Tab"
-msgstr "~Táb"
+msgstr "~Táib"
 
 #: asciiopt.src#RID_SCDLG_ASCII.CKB_SEMICOLON.checkbox.text
 msgid "S~emicolon"
-msgstr "L~eathstad"
+msgstr "L~eathstadanna"
 
 #: asciiopt.src#RID_SCDLG_ASCII.CKB_COMMA.checkbox.text
 msgid "~Comma"
-msgstr "~Camóg"
+msgstr "~Camóga"
 
 #: asciiopt.src#RID_SCDLG_ASCII.CKB_SPACE.checkbox.text
 msgid "S~pace"
-msgstr "S~pás"
+msgstr "S~pásanna"
 
 #: asciiopt.src#RID_SCDLG_ASCII.CKB_OTHER.checkbox.text
 msgid "~Other"
@@ -51630,12 +51689,15 @@ msgstr "Ní cheadaítear forluí idir táblaí DataPilot."
 #: globstr.src#RID_GLOBSTR.STR_PIVOT_NOTEMPTY.string.text
 msgid "The destination range is not empty. Overwrite existing contents?"
 msgstr ""
+"Níl an spriocraon folamh. Ar cheart an ceann atá ann cheana a fhorscríobh?"
 
 #: globstr.src#RID_GLOBSTR.STR_DATAPILOT_SUBTOTAL.string.text
 msgid ""
 "The source range contains subtotals which may distort the results. Use it "
 "anyway?"
 msgstr ""
+"Tá fo-iomláin sa raon foinse a d'fhéadfadh na torthaí a chur as a riocht. Ar "
+"cheart é a úsáid ar aon nós?"
 
 #: globstr.src#RID_GLOBSTR.STR_PIVOT_PROGRESS.string.text
 msgid ""
@@ -51732,7 +51794,7 @@ msgstr "Teasáras"
 
 #: globstr.src#RID_GLOBSTR.STR_FILL_TAB.string.text
 msgid "Fill Sheets"
-msgstr ""
+msgstr "Líon Bileoga"
 
 #: globstr.src#RID_GLOBSTR.STR_NO_VALUE.string.text
 msgid "#VALUE!"
@@ -51965,7 +52027,7 @@ msgstr "Earráid: tagairt neamhbhailí"
 
 #: globstr.src#RID_GLOBSTR.STR_LONG_ERR_NO_CONV.string.text
 msgid "Error: Calculation does not converge"
-msgstr ""
+msgstr "Earráid: Níl an ríomh ag coinbhéirsiú"
 
 #: globstr.src#RID_GLOBSTR.STR_LONG_ERR_NO_VALUE.string.text
 msgid "Error: No result"
@@ -51987,6 +52049,7 @@ msgstr "Dath na greille"
 #: globstr.src#RID_GLOBSTR.STR_MERGE_NOTEMPTY.string.text
 msgid "Should the contents of the hidden cells be moved into the first cell?"
 msgstr ""
+"Ar cheart inneachar na gceall folaithe a bhogadh isteach sa chéad chill?"
 
 #: globstr.src#RID_GLOBSTR.STR_CELL_FILTER.string.text
 msgid ""
@@ -51996,7 +52059,7 @@ msgstr "Scagaire"
 
 #: globstr.src#RID_GLOBSTR.STR_TARGETNOTFOUND.string.text
 msgid "The target database range does not exist."
-msgstr ""
+msgstr "Níl an spriocraon bunachair sonraí ann."
 
 #: globstr.src#RID_GLOBSTR.STR_INVALID_EPS.string.text
 msgid "Invalid increment"
@@ -52054,6 +52117,9 @@ msgid ""
 "a table range of at least\n"
 "3x3 cells must be selected."
 msgstr ""
+"Chun UathFhormáidiú a chur i bhfeidhm,\n"
+"ní mór réim tábla de 3×3 chealla\n"
+"ar a laghad a roghnú."
 
 #: globstr.src#RID_GLOBSTR.STR_CASCADE.string.text
 msgid "(nested)"
@@ -52157,15 +52223,20 @@ msgid ""
 "Please check your installation and install \n"
 "the desired language if necessary"
 msgstr ""
+"Níl sé ar fáil le haghaidh litreora\n"
+"Seiceáil an suiteáil atá agat agus suiteáil \n"
+"sa teanga atá uait é más gá"
 
 #: globstr.src#RID_GLOBSTR.STR_THESAURUS_NO_STRING.string.text
 msgid "Thesaurus can only be used in text cells!"
-msgstr ""
+msgstr "Ní féidir teasáras a úsáid ach i gcealla téacs!"
 
 #: globstr.src#RID_GLOBSTR.STR_SPELLING_BEGIN_TAB.string.text
 msgid ""
 "Should the spellcheck be continued at the beginning of the current sheet?"
 msgstr ""
+"Ar cheart leanúint ar aghaidh ag seiceáil an litriú ag tús na bileoige "
+"reatha?"
 
 #: globstr.src#RID_GLOBSTR.STR_SPELLING_NO_LANG.string.text
 msgid ""
@@ -52173,10 +52244,13 @@ msgid ""
 "Please check your installation and install \n"
 "the desired language if necessary"
 msgstr ""
+"Níl sé ar fáil don teasáras.\n"
+"Seiceáil an suiteáil atá agat agus suiteáil \n"
+"sa teanga atá uait más gá"
 
 #: globstr.src#RID_GLOBSTR.STR_SPELLING_STOP_OK.string.text
 msgid "The spellcheck of this sheet has been completed."
-msgstr ""
+msgstr "Tá litriú na bileoige seo curtha i gcrích."
 
 #: globstr.src#RID_GLOBSTR.STR_NOLANGERR.string.text
 msgid "No language set"
@@ -52234,12 +52308,16 @@ msgid ""
 "The new table contains absolute references to other tables which may be "
 "incorrect!"
 msgstr ""
+"Tá tagairtí absalóideacha sa tábla nua do tháblaí eile a d'fhéadfadh a "
+"bheith mícheart!"
 
 #: globstr.src#RID_GLOBSTR.STR_NAMECONFLICT.string.text
 msgid ""
 "Due to identical names, an existing range name in the destination document "
 "has been altered!"
 msgstr ""
+"Mar go raibh na hainmneacha céanna orthu, tá athrú déanta ar ainm raoin a "
+"bhí sa sprioc-cháipéis cheana!"
 
 #: globstr.src#RID_GLOBSTR.STR_ERR_AUTOFILTER.string.text
 msgid "AutoFilter not possible"
@@ -52250,12 +52328,16 @@ msgid ""
 "%PRODUCTNAME Calc has searched to the beginning of the sheet. Do you want to "
 "continue at the end?"
 msgstr ""
+"Tá cuardach déanta ag %PRODUCTNAME Calc go tús na bileoige. An mian leat "
+"leanúint ar aghaidh ag an deireadh?"
 
 #: globstr.src#RID_GLOBSTR.STR_MSSG_SEARCHANDREPLACE_2.string.text
 msgid ""
 "%PRODUCTNAME Calc has searched to the end of the sheet. Do you want to "
 "continue at the beginning?"
 msgstr ""
+"Tá cuardach déanta ag %PRODUCTNAME Calc go deireadh na bileoige. An mian "
+"leat leanúint ar aghaidh ag an tús?"
 
 #: globstr.src#RID_GLOBSTR.STR_MSSG_SEARCHANDREPLACE_3.string.text
 #: sdstring.src#STR_SAR_TITLE.string.text
@@ -52268,12 +52350,16 @@ msgid ""
 "%PRODUCTNAME Calc has searched to the beginning of the document. Do you want "
 "to continue at the end?"
 msgstr ""
+"Tá cuardach déanta ag %PRODUCTNAME Calc go dtí tús na cáipéise. An mian leat "
+"leanúint ar aghaidh ag an deireadh?"
 
 #: globstr.src#RID_GLOBSTR.STR_MSSG_SEARCHANDREPLACE_5.string.text
 msgid ""
 "%PRODUCTNAME Calc has searched to the end of the document. Do you want to "
 "continue at the beginning?"
 msgstr ""
+"Tá cuardach déanta ag %PRODUCTNAME Calc go deireadh na cáipéise. An mian "
+"leat leanúint ar aghaidh ag an tús?"
 
 #: globstr.src#RID_GLOBSTR.STR_CREATENAME_REPLACE.string.text
 msgid "Replace existing definition of #?"
@@ -52281,7 +52367,7 @@ msgstr ""
 
 #: globstr.src#RID_GLOBSTR.STR_CREATENAME_MARKERR.string.text
 msgid "Invalid selection for range names"
-msgstr ""
+msgstr "Rogha neamhbhailí d'ainmneacha raoin"
 
 #: globstr.src#RID_GLOBSTR.STR_CONSOLIDATE_ERR1.string.text
 msgid "References can not be inserted above the source data."
@@ -52442,6 +52528,8 @@ msgid ""
 "This file contains queries. The results of these queries were not saved.\n"
 "Do you want these queries to be repeated?"
 msgstr ""
+"Tá iarratais sa chomhad seo. Níor sábháladh torthaí na n-iarratas.\n"
+"Ar mhaith leat na hiarratais seo a dhéanamh arís?"
 
 #: globstr.src#RID_GLOBSTR.STR_FILTER_TOOMANY.string.text
 msgid "Too many conditions"
@@ -52452,6 +52540,8 @@ msgid ""
 "Filled cells cannot be shifted\n"
 "beyond the sheet."
 msgstr ""
+"Ní féidir cealla lána a aistriú\n"
+"lasmuigh den bhileog."
 
 #: globstr.src#RID_GLOBSTR.STR_TABINSERT_ERROR.string.text
 msgid "The table could not be inserted."
@@ -52463,17 +52553,19 @@ msgstr "Níorbh fhéidir na bileoga a scriosadh."
 
 #: globstr.src#RID_GLOBSTR.STR_PASTE_ERROR.string.text
 msgid "The contents of the clipboard could not be pasted."
-msgstr ""
+msgstr "Ní fhéadfaí ábhar na gearrthaisce a ghreamú."
 
 #: globstr.src#RID_GLOBSTR.STR_PASTE_FULL.string.text
 msgid "There is not enough space on the sheet to insert here."
-msgstr ""
+msgstr "Níl dóthain spáis ar an mbileog chun ionsá anseo."
 
 #: globstr.src#RID_GLOBSTR.STR_PASTE_BIGGER.string.text
 msgid ""
 "The content of the clipboard is bigger than the range selected.\n"
 "Do you want to insert it anyway?"
 msgstr ""
+"Tá ábhar na gearrthaisce níos mó ná an raon roghnaithe.\n"
+"An dteastaíonn uait é a ionsá ar aon nós?"
 
 #: globstr.src#RID_GLOBSTR.STR_ERR_NOREF.string.text
 msgid "No references found."
@@ -52481,7 +52573,7 @@ msgstr "Níor aimsíodh aon tagairt."
 
 #: globstr.src#RID_GLOBSTR.STR_ERR_LINKOVERLAP.string.text
 msgid "Source and destination must not overlap."
-msgstr ""
+msgstr "Ná bíodh foinse agus sprioc ag trasnaíl ar a chéile."
 
 #: globstr.src#RID_GLOBSTR.STR_GRAPHICNAME.string.text
 msgid ""
@@ -67062,7 +67154,7 @@ msgstr "Ar mhaith leat an fhuaim a chur leis an nGailearaí?"
 
 #: strings.src#STR_TWAIN_NO_SOURCE_UNX.string.text
 msgid "No SANE source is available at the moment."
-msgstr "Faoi láthair, níl aon fhoinse SANE ar fáil."
+msgstr "Níl foinse ar bith SANE ar fáil faoi láthair."
 
 #: strings.src#STR_TWAIN_NO_SOURCE.string.text
 msgid "At present, no TWAIN source is available."
@@ -67231,11 +67323,11 @@ msgstr "Téacs"
 
 #: strings.src#STR_HTMLEXP_OUTLINE.string.text
 msgid "With contents"
-msgstr ""
+msgstr "Le hábhar"
 
 #: strings.src#STR_HTMLEXP_NOOUTLINE.string.text
 msgid "Without contents"
-msgstr ""
+msgstr "Gan ábhar"
 
 #: strings.src#STR_WEBVIEW_SAVE.string.text
 msgid "To given page"
@@ -76529,7 +76621,7 @@ msgstr "Logáil Amach"
 
 #: globlmn_tmpl.hrc#ITEM_FILE_BACKTOWEBTOP.#define.text
 msgid "Back to Webtop"
-msgstr ""
+msgstr "Ar ais go Webtop"
 
 #: globlmn_tmpl.hrc#ITEM_EDIT_UNDO.#define.text
 msgid "Can't Undo"
@@ -76559,7 +76651,7 @@ msgstr "Barra ~Stádais"
 
 #: globlmn_tmpl.hrc#ITEM_VIEW_TOGGLEIMESTATUSWINDOW.#define.text
 msgid "~Input Method Status"
-msgstr ""
+msgstr "Stádas Modh ~Ionchurtha"
 
 #: globlmn_tmpl.hrc#ITEM_VIEW_TASKBAR.#define.text
 msgid ""
@@ -76641,7 +76733,7 @@ msgstr "~Clár Ábhair"
 
 #: globlmn_tmpl.hrc#ITEM_HELP_HELPONHELP.#define.text
 msgid "Using Help"
-msgstr ""
+msgstr "Ag úsáid Cabhair"
 
 #: globlmn_tmpl.hrc#ITEM_HELP_ABOUT.#define.text
 msgid "A~bout %PRODUCTNAME..."
@@ -108371,7 +108463,7 @@ msgstr ""
 
 #: ids.src#RID_UUI_ERRHDL._ERRCODE_UUI_IO_ACCESSDENIED___ERRCODE_RES_MASK_.string.text
 msgid "Access to $(ARG1) was denied."
-msgstr ""
+msgstr "Diúltaíodh rochtain ar $(ARG1)."
 
 #: ids.src#RID_UUI_ERRHDL._ERRCODE_UUI_IO_ALREADYEXISTS___ERRCODE_RES_MASK_.string.text
 msgid "$(ARG1) already exists."
@@ -108446,7 +108538,7 @@ msgstr ""
 
 #: ids.src#RID_UUI_ERRHDL._ERRCODE_UUI_IO_INVALIDLENGTH___ERRCODE_RES_MASK_.string.text
 msgid "The data from $(ARG1) has an invalid length."
-msgstr ""
+msgstr "Tá fad neamhbhailí sna sonraí ó $(ARG1)."
 
 #: ids.src#RID_UUI_ERRHDL._ERRCODE_UUI_IO_INVALIDPARAMETER___ERRCODE_RES_MASK_.string.text
 msgid "The operation on $(ARG1) was started with an invalid parameter."
@@ -108598,6 +108690,7 @@ msgstr ""
 msgid ""
 "The file '$(ARG1)' could not be repaired and therefore cannot be opened."
 msgstr ""
+"Ní fhéadfaí an comhad '$(ARG1)' a dheisiú agus mar sin ní féidir é a oscailt."
 
 #: ids.src#RID_UUI_ERRHDL._ERRCODE_UUI_CONFIGURATION_BROKENDATA_NOREMOVE___ERRCODE_RES_MASK_.string.text
 msgid ""
