@@ -1127,7 +1127,7 @@ msgstr "Airíonna: "
 
 #: dlgresid.src#RID_STR_BRWTITLE_NO_PROPERTIES.string.text
 msgid "No Control marked"
-msgstr ""
+msgstr "Níl Rialtán marcáilte"
 
 #: dlgresid.src#RID_STR_BRWTITLE_MULTISELECT.string.text
 #: formres.src#RID_STR_MULTISELECTION.string.text
@@ -3952,7 +3952,7 @@ msgstr "Taispeáin téacs an ~lipéid"
 
 #: res_DataLabel_tmpl.hrc#RESOURCE_DATALABEL__xpos__ypos__.CB_SYMBOL.checkbox.text
 msgid "~Show legend icon with label"
-msgstr ""
+msgstr "Tai~speáin deilbhín na heochrach eolais le lipéad"
 
 #: res_LegendPosition_tmpl.hrc#RESOURCE_LEGENDPOSITION__ypos__.RBT_LEFT.radiobutton.text
 #: objdraw.src#MN_TEXT_ATTR.RID_MN_FORMAT_ALGN.SID_ALIGNLEFT.menuitem.text
@@ -4015,7 +4015,7 @@ msgstr "~Céatadán"
 
 #: res_Statistic_tmpl.hrc#RESOURCE_STATISTIC__imagelistsyposition__linelength__.RBT_BIGERROR.radiobutton.text
 msgid "~Error margin"
-msgstr ""
+msgstr "Lamháil ~earráide"
 
 #: res_Statistic_tmpl.hrc#RESOURCE_STATISTIC__imagelistsyposition__linelength__.RBT_CONST.radiobutton.text
 msgid "~Constant value"
@@ -4345,19 +4345,19 @@ msgstr "Ionad agus ~Méid..."
 
 #: conn_shared_res.src#STR_NO_MOZIILA_ADDRESSBOOK.string.text
 msgid "No Mozilla Addressbook Directories Exist."
-msgstr ""
+msgstr "Níl comhadlann leabhair sheoltaí Mozilla ann."
 
 #: conn_shared_res.src#STR_NO_THUNDERBIRD_ADDRESSBOOK.string.text
 msgid "No Thunderbird Addressbook Directories Exist."
-msgstr ""
+msgstr "Níl comhadlann leabhar seoltaí Thunderbird ann."
 
 #: conn_shared_res.src#STR_NO_OUTLOOKEXPRESS_ADDRESSBOOK.string.text
 msgid "No Outlook Express Addressbook Exists."
-msgstr ""
+msgstr "Níl leabhar seoltaí Outlook Express ann."
 
 #: conn_shared_res.src#STR_NO_OUTLOOK_ADDRESSBOOK.string.text
 msgid "No Outlook (MAPI) Addressbook Exists."
-msgstr ""
+msgstr "Níl leabhar seoltaí Outlook (MAPI) ann."
 
 #: conn_shared_res.src#STR_COULDNOTCONNECT_TO_LDAP.string.text
 msgid "Unable to connect to LDAP Server."
@@ -4365,25 +4365,28 @@ msgstr "Ní féidir nascadh le Freastalaí LDAP."
 
 #: conn_shared_res.src#STR_NO_TABLE_CREATION_SUPPORT.string.text
 msgid "Creating tables is not supported for this kind of address books."
-msgstr ""
+msgstr "Ní thacaítear le cruthú táblaí don chineál seo leabhair sheoltaí."
 
 #: conn_shared_res.src#STR_MOZILLA_IS_RUNNING.string.text
 msgid "Cannot create new address books while Mozilla is running."
-msgstr ""
+msgstr "Ní féidir leabhair sheoltaí nua a chruthú agus Mozilla ag rith."
 
 #: conn_shared_res.src#STR_COULD_NOT_RETRIEVE_AB_ENTRY.string.text
 msgid "An address book entry could not be retrieved, an unknown error occured."
 msgstr ""
+"Níorbh fhéidir iontráil a fháil ón leabhar seoltaí; tharla earráid anaithnid."
 
 #: conn_shared_res.src#STR_COULD_NOT_GET_DIRECTORY_NAME.string.text
 msgid ""
 "An address book directory name could not be retrieved, an unknown error "
 "occured."
 msgstr ""
+"Níorbh fhéidir ainm comhadlainne an leabhair sheoltaí a fháil; tharla "
+"earráid anaithnid."
 
 #: conn_shared_res.src#STR_TIMEOUT_WAITING.string.text
 msgid "Timed out while waiting for the result."
-msgstr ""
+msgstr "Imithe thar am ag feitheamh leis an toradh."
 
 #: conn_shared_res.src#STR_ERR_EXECUTING_QUERY.string.text
 msgid "An error occured while executing the query."
@@ -4392,13 +4395,15 @@ msgstr "Tharla earráid agus an t-iarratas á rith."
 #: conn_shared_res.src#STR_MOZILLA_IS_RUNNIG_NO_CHANGES.string.text
 msgid ""
 "You can't make any changes to mozilla address book when mozilla is running."
-msgstr ""
+msgstr "Ní féidir leat leabhar seoltaí Mozilla a athrú agus Mozilla ag rith."
 
 #: conn_shared_res.src#STR_FOREIGN_PROCESS_CHANGED_AB.string.text
 msgid ""
 "Mozilla Address Book has been changed out of this process, we can't modify "
 "it in this condition."
 msgstr ""
+"Athraíodh Leabhar Seoltaí Mozilla taobh amuigh den phróiseas seo; ní féidir "
+"é a athrú agus é sa riocht seo."
 
 #: conn_shared_res.src#STR_CANT_FIND_ROW.string.text
 msgid "Can't find the requested row."
@@ -4406,7 +4411,7 @@ msgstr "Ní féidir an ró iarrtha a aimsiú."
 
 #: conn_shared_res.src#STR_CANT_FIND_CARD_FOR_ROW.string.text
 msgid "Can't find the card for the requested row."
-msgstr ""
+msgstr "Ní féidir an cárta a aimsiú don ró iarrtha."
 
 #: crashrep.ulf#_WELCOME_CAPTION_.LngText.text
 msgid ""
@@ -7921,6 +7926,8 @@ msgid ""
 "Warnings were encountered while connecting to the data source. Press "
 "\"$buttontext$\" to view them."
 msgstr ""
+"Fuarthas rabhaidh le linn ceangal leis an bhfoinse sonraí. Brúigh "
+"\"$buttontext$\" le hiad a fheiceáil."
 
 #: dbumiscres.src#STR_NAMED_OBJECT_ALREADY_EXISTS.string.text
 msgid ""
@@ -9221,10 +9228,13 @@ msgid ""
 "because every user has to agree to the license agreement of the extension. "
 "The extension will not be installed."
 msgstr ""
+"Ní féidir an rogha \"--shared\" a úsáid chun an eisínteacht %NAME a "
+"shuiteáil toisc go gcaithfidh gach úsáideoir glacadh le comhaontú ceadúnais "
+"na heisínteachta. Ní shuiteálfar an eisínteacht."
 
 #: unopkg.src#RID_STR_UNOPKG_ACCEPT_LIC_1.string.text
 msgid "Extension License Agreement:"
-msgstr ""
+msgstr "Comhaontú Ceadúnais na hEisínteachta:"
 
 #: unopkg.src#RID_STR_UNOPKG_ACCEPT_LIC_2.string.text
 msgid ""
@@ -9232,6 +9242,10 @@ msgid ""
 "Agreement by typing \"yes\" on the console then press the Return key. Type "
 "\"no\" to decline and to abort the extension setup."
 msgstr ""
+"Léigh an Comhaontú Ceadúnais atá á thaispeáint thuas. Glac leis an "
+"gComhaontú Ceadúnais trí \"tá\" a chlóbhualadh ar an gconsól agus an eochair "
+"aisfhillte a bhrú. Clóbhuail \"níl\" le diúltú agus deireadh a chur le "
+"suiteáil na heisínteachta."
 
 #: unopkg.src#RID_STR_UNOPKG_ACCEPT_LIC_3.string.text
 msgid "[Enter \"yes\" or \"no\"]:"
@@ -9240,6 +9254,7 @@ msgstr "[Iontráil \"tá\" nó \"níl\"]:"
 #: unopkg.src#RID_STR_UNOPKG_ACCEPT_LIC_4.string.text
 msgid "Your input was not correct. Please enter \"yes\" or \"no\":"
 msgstr ""
+"Ní raibh do chuid ionchuir ceart. Iontráil \"tá\" nó \"níl\" le do thoil:"
 
 #: unopkg.src#RID_STR_UNOPKG_ACCEPT_LIC_YES.string.text
 msgid "YES"
@@ -10729,6 +10744,24 @@ msgid ""
 "\n"
 "We hope you enjoy working with %PRODUCTNAME."
 msgstr ""
+"Fáilte go %PRODUCTNAME %PRODUCTVERSION OEM\n"
+"\n"
+"Le %PRODUCTNAME %PRODUCTVERSION OEM a thosú, iontráil do shonraí pearsanta "
+"sa bhosca dialóige a leanann téacs an cheadúnais. Tá eolas tábhachtach sa "
+"chomhad 'léigh mé' atá lonnaithe i gcomhadlann %PRODUCTNAME. Léigh na "
+"comhaid seo go cúramach le do thoil. Tig leat mioneolas a fháil freisin ó "
+"shuíomh gréasáin Sun\n"
+"\n"
+"http://www.sun.com/staroffice.\n"
+"\n"
+"Tacaíocht agus Teagasc:\n"
+"Is féidir tacaíocht bhogearraí le fáil SAOR IN AISCE ar feadh 60 lá tar éis "
+"an dáta ceannaithe. Téigh go dtí an suíomh seo a leanas chun leas a bhaint "
+"as an tairiscint seo:\n"
+"\n"
+"http://www.sun.com/star/service\n"
+"\n"
+"Tá súil againn go mbainfidh tú taitneamh as bheith ag obair le %PRODUCTNAME."
 
 #: preload.src#RID_TP_LICENSE.FT_INFO1.fixedtext.text
 #: resource.src#DLG_LICENSE.FT_INFO1.fixedtext.text
@@ -11927,6 +11960,9 @@ msgid ""
 "Please note that this will affect all controls which are bound to this data "
 "type."
 msgstr ""
+"An dteastaíonn uait an cineál sonraí '#type#' a scriosadh sa tsamhail?\n"
+"Tabhair faoi deara go mbeidh tionchar ag seo ar gach rialtán atá ceangailte "
+"leis an gcineál sonraí seo."
 
 #: pcrmiscres.src#RID_STR_PROPTITLE_FIXEDTEXT.string.text
 msgid ""
@@ -13761,6 +13797,13 @@ msgid ""
 "retry saving the data.\n"
 "\n"
 msgstr ""
+"Níorbh fhéidir le %PRODUCTNAME faisnéis thábhachtach inmheánach a shábháil "
+"de bharr easpa spáis diosca ag an suíomh seo:\n"
+"%PATH\n"
+"\n"
+"Ní féidir leat leanadh ag obair le %PRODUCTNAME gan tuilleadh spáis diosca "
+"saor a chur ar fáil ansin.\n"
+"\n"
 
 #: resource.src#STR_RESTORE_TOOLBARS.string.text
 #: dialog.src#STR_RESET.string.text
@@ -26945,7 +26988,7 @@ msgstr "Sonraí an Tábla"
 
 #: DbBrowserWindowState.xcu#..DbBrowserWindowState.UIElements.States.private_resource/toolbar/toolbar.UIName.value.text
 msgid "Table Data View"
-msgstr ""
+msgstr "Amharc Sonraí Tábla"
 
 #: DbQueryWindowState.xcu#..DbQueryWindowState.UIElements.States.private_resource/toolbar/designobjectbar.UIName.value.text
 msgid "Design"
@@ -26957,7 +27000,7 @@ msgstr "SQL"
 
 #: DbQueryWindowState.xcu#..DbQueryWindowState.UIElements.States.private_resource/toolbar/toolbar.UIName.value.text
 msgid "Query Design"
-msgstr ""
+msgstr "Dearadh Iarratais"
 
 #: DbRelationWindowState.xcu#..DbRelationWindowState.UIElements.States.private_resource/toolbar/toolbar.UIName.value.text
 msgid ""
@@ -30108,7 +30151,7 @@ msgstr "Taispeáin ~Uile"
 #: MathCommands.xcu#..MathCommands.UserInterface.Commands..uno_FormelCursor.Label.value.text
 #: smres.src#RID_MATH_TOOLBOX.SID_FORMULACURSOR.toolboxitem.text
 msgid "Formula Cursor"
-msgstr ""
+msgstr "Cúrsóir Fhoirmle"
 
 #: GenericCategories.xcu#..GenericCategories.Commands.Categories.0.Name.value.text
 #: app.src#GID_INTERN.string.text
@@ -30528,7 +30571,7 @@ msgstr "Saighead Chlé"
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_ArrowShapes.right_arrow.Label.value.text
 #: smres.src#RID_TOOLBOXWINDOW.9.RID_RIGHTARROW.toolboxitem.text
 msgid "Right Arrow"
-msgstr ""
+msgstr "Saighead Deis"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_ArrowShapes.up_arrow.Label.value.text
 #: smres.src#RID_TOOLBOXWINDOW.9.RID_UPARROW.toolboxitem.text
@@ -30649,7 +30692,7 @@ msgstr "Sreabhchairt: Sonraí"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_FlowChartShapes.flowchart_predefined_process.Label.value.text
 msgid "Flowchart: Predefined Process"
-msgstr ""
+msgstr "Sreabhchairt: Próiseas Réamhshainmhínithe"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_FlowChartShapes.flowchart_internal_storage.Label.value.text
 msgid "Flowchart: Internal Storage"
@@ -46266,6 +46309,8 @@ msgid ""
 "Create and edit presentations for slideshows, meeting and Web pages by using "
 "Impress."
 msgstr ""
+"Cruthaigh láithreoireachtaí agus cuir in eagar iad le haghaidh taispeántas "
+"sleamhnán, cruinnithe agus leathanaigh Ghréasán le Impress."
 
 #: module_impress.ulf#STR_NAME_MODULE_PRG_IMPRESS.LngText.text
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SD_EDITOPTIONS.1.itemlist.text
@@ -54191,11 +54236,11 @@ msgstr "Earráid i struchtúr an chomhaid le linn iompórtála."
 
 #: scerrors.src#RID_ERRHDLSC.SCERR_IMPORT_NI___ERRCODE_RES_MASK.string.text
 msgid "There is no filter available for this file type."
-msgstr ""
+msgstr "Níl scagaire ar fáil don chineál comhaid seo."
 
 #: scerrors.src#RID_ERRHDLSC.SCERR_IMPORT_UNKNOWN_BIFF___ERRCODE_RES_MASK.string.text
 msgid "Unknown or unsupported Excel file format."
-msgstr ""
+msgstr "Formáid chomhaid Excel anaithnid nó gan tacú leis."
 
 #: scerrors.src#RID_ERRHDLSC.SCERR_IMPORT_NI_BIFF___ERRCODE_RES_MASK.string.text
 msgid "Excel file format not yet implemented."
@@ -54212,6 +54257,7 @@ msgstr "Earráid inmheánach iompórtála."
 #: scerrors.src#RID_ERRHDLSC.SCERR_IMPORT_8K_LIMIT___ERRCODE_RES_MASK.string.text
 msgid "The file contains data after row 8192 and therefore can not be read."
 msgstr ""
+"Tá sonraí sa chomhad i ndiaidh ró 8192 agus dá bhrí sin ní féidir é a léamh."
 
 #: scerrors.src#RID_ERRHDLSC.SCERR_IMPORT_FILE_ROWCOL___ERRCODE_RES_MASK.string.text
 msgid ""
@@ -54250,25 +54296,31 @@ msgstr "Níor sábháladh ach an bhileog reatha."
 #: scerrors.src#RID_ERRHDLSC.SCWARN_IMPORT_RANGE_OVERFLOW___ERRCODE_RES_MASK.string.text
 msgid ""
 "The maximum number of rows has been exceeded. Excess rows were not imported!"
-msgstr ""
+msgstr "Tá uasmhéid na rónna sáraithe. Níor iompórtáladh rónna sa bhreis!"
 
 #: scerrors.src#RID_ERRHDLSC.SCWARN_IMPORT_ROW_OVERFLOW___ERRCODE_RES_MASK.string.text
 msgid ""
 "The data could not be loaded completely because the maximum number of rows "
 "per sheet was exceeded."
 msgstr ""
+"Níorbh fhéidir na sonraí a luchtú ina n-iomláine toisc gur sáraíodh uasmhéid "
+"na rónna sa bhileog."
 
 #: scerrors.src#RID_ERRHDLSC.SCWARN_IMPORT_COLUMN_OVERFLOW___ERRCODE_RES_MASK.string.text
 msgid ""
 "The data could not be loaded completely because the maximum number of "
 "columns per sheet was exceeded."
 msgstr ""
+"Níorbh fhéidir na sonraí a luchtú ina n-iomláine toisc gur sáraíodh uasmhéid "
+"na gcolún sa bhileog."
 
 #: scerrors.src#RID_ERRHDLSC.SCWARN_IMPORT_SHEET_OVERFLOW___ERRCODE_RES_MASK.string.text
 msgid ""
 "Some sheets could not be loaded because the maximum number of sheets was "
 "exceeded."
 msgstr ""
+"Níorbh fhéidir roinnt bhileoga a luchtú toisc gur sáraíodh uasmhéid na "
+"mbileog."
 
 #: scerrors.src#RID_ERRHDLSC.SCWARN_IMPORT_OPEN_FM3___ERRCODE_RES_MASK.string.text
 msgid "Corresponding FM3-File could not be opened."
@@ -54282,22 +54334,29 @@ msgstr "Earráid i struchtúr an chomhaid-FM3 comhfhreagraigh."
 msgid ""
 "Document too complex for automatic calculation. Press F9 to recalculate."
 msgstr ""
+"Tá an cháipéis róchasta le hí a ríomh go huathoibríoch. Brúigh F9 le "
+"athríomh."
 
 #: scerrors.src#RID_ERRHDLSC.SCWARN_EXPORT_MAXROW___ERRCODE_RES_MASK.string.text
 msgid ""
 "The document contains more rows than supported in the selected format.\n"
 "Additional rows were not saved."
 msgstr ""
+"Tá níos mó rónna sa cháipéis ná tacaítear leo san fhormáid roghnaithe.\n"
+"Níor sábháladh rónna breise."
 
 #: scerrors.src#RID_ERRHDLSC.SCWARN_IMPORT_INFOLOST___ERRCODE_RES_MASK.string.text
 msgid ""
 "The document contains information not recognized by this program version.\n"
 "Resaving the document will delete this information!"
 msgstr ""
+"Tá faisnéis sa cháipéis nach n-aithníonn an leagan seo den fheidhmchlár.\n"
+"Scriosfar an fhaisnéis seo má athshábhálfar an cháipéis!"
 
 #: scerrors.src#RID_ERRHDLSC.SCWARN_EXPORT_DATALOST___ERRCODE_RES_MASK.string.text
 msgid "Not all cell contents could be saved in the specified format."
 msgstr ""
+"Níorbh fhéidir inneachar gach cille a shábháil san fhormáid shonraithe."
 
 #: scerrors.src#RID_ERRHDLSC.SCWARN_EXPORT_NONCONVERTIBLE_CHARS___ERRCODE_RES_MASK.string.text
 msgid ""
@@ -54307,6 +54366,11 @@ msgid ""
 "\n"
 "$(ARG1)"
 msgstr ""
+"Níorbh fhéidir na carachtair seo a leanas a thiontú go dtí an tacar "
+"carachtar roghnaithe\n"
+"agus scríobhadh iad mar ionadaithe sa bhfoirm &#1234;:\n"
+"\n"
+"$(ARG1)"
 
 #: scerrors.src#RID_ERRHDLSC.SCWARN_IMPORT_FILE_ROWCOL___ERRCODE_RES_MASK.string.text
 msgid ""
@@ -68964,7 +69028,7 @@ msgstr "Roghnaigh dearadh ~sleamhnán"
 
 #: sdpreslt.src#DLG_PRESLT.CBX_MASTER_PAGE.checkbox.text
 msgid "~Exchange background page"
-msgstr ""
+msgstr "Malartaigh an l~eathanach cúlra"
 
 #: sdpreslt.src#DLG_PRESLT.CBX_CHECK_MASTERS.checkbox.text
 msgid "~Delete unused backgrounds"
@@ -72042,7 +72106,7 @@ msgstr "Níorbh fhéidir ainm an naisc a mhiondealú a thuilleadh"
 #: nocode.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_NO_INVERSE_S_MAX.string.text
 #: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_NO_INVERSE_S_MAX.string.text
 msgid "The connection name has no inverse."
-msgstr ""
+msgstr "Níl inbhéarta ag ainm an naisc."
 
 #: nocode.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_NO_PREFIX_S_MAX.string.text
 msgid "No common prefix exists"
@@ -72059,6 +72123,7 @@ msgstr "Tá ainm an naisc isteach sa cheann eile."
 msgid ""
 "The connection names (the receiver and the other moniker) are identical."
 msgstr ""
+"Is ionann iad ainmneacha na nasc (an faighteoir agus an leasainm eile)."
 
 #: nocode.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_ME_S_MAX.string.text
 msgid ""
@@ -72069,7 +72134,7 @@ msgstr "Tá ainm an naisc isteach sa cheann eile."
 #: nocode.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_NOT_BINDABLE_S_MAX.string.text
 #: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_NOT_BINDABLE_S_MAX.string.text
 msgid "The connection name cannot be connected. This is a relative name."
-msgstr ""
+msgstr "Ní féidir ceangal le hainm an naisc. Is ainm coibhneasta é seo."
 
 #: nocode.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_NOT_IMPLEMENTED_S_MAX.string.text
 msgid "Operation not implemented"
@@ -72098,12 +72163,12 @@ msgstr "Innéacs neamhbhailí"
 #: nocode.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_CANNOT_DOVERB_NOW___S_MAX.string.text
 #: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_CANNOT_DOVERB_NOW___S_MAX.string.text
 msgid "The action cannot be executed in the object's current state."
-msgstr ""
+msgstr "Ní féidir an gníomh a dhéanamh agus an réad ina staid reatha."
 
 #: nocode.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_OLEOBJ_INVALIDHWND___S_MAX.string.text
 #: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_OLEOBJ_INVALIDHWND___S_MAX.string.text
 msgid "An invalid window was passed when activated."
-msgstr ""
+msgstr "Tugadh fuinneog neamhbhailí ag an gcur i ngníomh."
 
 #: nocode.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_NOVERBS___S_MAX.string.text
 msgid "The object does not support any actions"
@@ -72112,7 +72177,7 @@ msgstr "Ní thacaíonn an réad aon ghníomh"
 #: nocode.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_INVALIDVERB___S_MAX.string.text
 #: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_INVALIDVERB___S_MAX.string.text
 msgid "The action is not defined. The default action will be executed."
-msgstr ""
+msgstr "Níl an gníomh sainmhínithe. Déanfar an gníomh réamhshocraithe."
 
 #: nocode.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_CONNECT___S_MAX.string.text
 #: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_CONNECT___S_MAX.string.text
@@ -72135,30 +72200,36 @@ msgstr "$(ERR) agus réad á ghníomhachtú"
 
 #: nocode.src#STR_INS_OBJECT.string.text so3res.src#STR_INS_OBJECT.string.text
 msgid "Inserts a new %1-Object into your document."
-msgstr ""
+msgstr "Ionsánn réad den chineál %1 i do cháipéis."
 
 #: nocode.src#STR_INS_OBJECT_ICON.string.text
 #: so3res.src#STR_INS_OBJECT_ICON.string.text
 msgid "Inserts a new %1-Object into your document as a symbol."
-msgstr ""
+msgstr "Ionsánn réad den chineál %1 i do cháipéis mar shiombail."
 
 #: nocode.src#STR_INS_FILE.string.text so3res.src#STR_INS_FILE.string.text
 msgid ""
 "Inserts the contents of the file into your document to enable later editing "
 "in the original application."
 msgstr ""
+"Ionsánn inneachar an chomhaid i do cháipéis le go bhféadfaí é a chur in "
+"eagar níos déanaí sa bhfeidhmchlár bhunaidh."
 
 #: nocode.src#STR_INS_PLUGIN.string.text so3res.src#STR_INS_PLUGIN.string.text
 msgid ""
 "Inserts a plug-in object into your document with a reference to the plug-in "
 "data. When the object is activated, the plug-in is automatically executed."
 msgstr ""
+"Ionsánn réad breiseáin i do cháipéis le tagairt do na sonraí breiseáin. "
+"Ritear an breiseán go huathoibríoch nuair a chuirtear an réad i ngníomh."
 
 #: nocode.src#STR_INS_APPLET.string.text so3res.src#STR_INS_APPLET.string.text
 msgid ""
 "Inserts an applet object into your document. When the object is activated, "
 "the applet is automatically executed."
 msgstr ""
+"Ionsánn réad feidhmchláirín i do cháipéis. Nuair a ghníomhachtaítear an "
+"réad, ritear an feidhmchláirín go huathoibríoch."
 
 #: nocode.src#STR_INS_FILE_ICON.string.text
 msgid "Inserts the contents of the file as an icon into your document ."
@@ -72171,6 +72242,9 @@ msgid ""
 "the source file. Changes made to the source file will be reflected in your "
 "document."
 msgstr ""
+"Ionsánn inneachar an chomhaid i do cháipéis agus cruthaíonn nasc go dtí an "
+"comhad foinseach. Beidh athruithe a dhéantar sa chomhad foinseach le "
+"feiceáil i do cháipéis."
 
 #: nocode.src#STR_INS_FILE_ICON_LINK.string.text
 #: so3res.src#STR_INS_FILE_ICON_LINK.string.text
@@ -72178,19 +72252,22 @@ msgid ""
 "Inserts an icon into your document representing the file. Changes made to "
 "the source file will be reflected in your document."
 msgstr ""
+"Ionsánn deilbhín i do cháipéis a sheasann don chomhad. Beidh athruithe a "
+"dhéantar sa chomhad foinseach le feiceáil i do cháipéis."
 
 #: nocode.src#STR_PASTE.string.text so3res.src#STR_PASTE.string.text
 msgid "Pastes the contents of the clipboard as %1 in your document."
-msgstr ""
+msgstr "Greamaíonn inneachar na gearrthaisce mar %1 i do cháipéis."
 
 #: nocode.src#STR_CONVERT_TO.string.text so3res.src#STR_CONVERT_TO.string.text
 msgid "Converts the selected %1object to the object type %2."
-msgstr ""
+msgstr "Tiontaíonn an réad roghnaithe den chineál %1 go dtí an cineál %2."
 
 #: nocode.src#STR_ACTIVATE_AS.string.text
 #: so3res.src#STR_ACTIVATE_AS.string.text
 msgid "All objects of type %1 are activated as %2, but not converted"
 msgstr ""
+"Tá gach réad den chineál %1 gníomhachtaithe mar %2, ach níl siad tiontaithe"
 
 #: nocode.src#STR_VERB_OPEN.string.text
 msgid ""
@@ -72675,7 +72752,7 @@ msgstr "Spásáil na ~Línte"
 
 #: smres.src#RID_DISTANCEDIALOG.1.4.string.text
 msgid "~Root spacing"
-msgstr ""
+msgstr "Spásáil f~réimhe"
 
 #: smres.src#RID_DISTANCEDIALOG.2.1.string.text
 msgid ""
@@ -72732,7 +72809,7 @@ msgstr "Lúibíní"
 
 #: smres.src#RID_DISTANCEDIALOG.6.2.string.text
 msgid "~Excess size (left/right)"
-msgstr ""
+msgstr "Méid bhr~eise (clé/deas)"
 
 #: smres.src#RID_DISTANCEDIALOG.6.3.string.text
 msgid ""
@@ -73119,15 +73196,15 @@ msgstr "Ní Cothrom Le"
 
 #: smres.src#RID_TOOLBOXWINDOW.2.RID_XAPPROXY.toolboxitem.text
 msgid "Is Approximately Equal"
-msgstr ""
+msgstr "atá neaschothrom le"
 
 #: smres.src#RID_TOOLBOXWINDOW.2.RID_XDIVIDESY.toolboxitem.text
 msgid "Divides"
-msgstr ""
+msgstr "a roinneann"
 
 #: smres.src#RID_TOOLBOXWINDOW.2.RID_XNDIVIDESY.toolboxitem.text
 msgid "Does Not Divide"
-msgstr ""
+msgstr "nach roinneann"
 
 #: smres.src#RID_TOOLBOXWINDOW.2.RID_XLTY.toolboxitem.text
 msgid "Is Less Than"
@@ -73139,7 +73216,7 @@ msgstr "Níos Mó Ná"
 
 #: smres.src#RID_TOOLBOXWINDOW.2.RID_XSIMEQY.toolboxitem.text
 msgid "Is Similar Or Equal"
-msgstr ""
+msgstr "atá cosúil no cothrom le"
 
 #: smres.src#RID_TOOLBOXWINDOW.2.RID_XPARALLELY.toolboxitem.text
 msgid "Is Parallel To"
@@ -73191,27 +73268,27 @@ msgstr "Chuig"
 
 #: smres.src#RID_TOOLBOXWINDOW.2.RID_DLARROW.toolboxitem.text
 msgid "Double Arrow Left"
-msgstr ""
+msgstr "Saighead Dúbailte Clé"
 
 #: smres.src#RID_TOOLBOXWINDOW.2.RID_DLRARROW.toolboxitem.text
 msgid "Double Arrow Left And Right"
-msgstr ""
+msgstr "Saighead Dúbailte Deas agus Clé"
 
 #: smres.src#RID_TOOLBOXWINDOW.2.RID_DRARROW.toolboxitem.text
 msgid "Double Arrow Right"
-msgstr ""
+msgstr "Saighead Dúbailte Deas"
 
 #: smres.src#RID_TOOLBOXWINDOW.3.RID_XINY.toolboxitem.text
 msgid "Is In"
-msgstr ""
+msgstr "atá i"
 
 #: smres.src#RID_TOOLBOXWINDOW.3.RID_XNOTINY.toolboxitem.text
 msgid "Is Not In"
-msgstr ""
+msgstr "nach bhfuil i"
 
 #: smres.src#RID_TOOLBOXWINDOW.3.RID_XOWNSY.toolboxitem.text
 msgid "Owns"
-msgstr ""
+msgstr "ar leis"
 
 #: smres.src#RID_TOOLBOXWINDOW.3.RID_EMPTYSET.toolboxitem.text
 msgid "Empty Set"
@@ -73261,7 +73338,7 @@ msgstr "Nach Fo-Thacar"
 
 #: smres.src#RID_TOOLBOXWINDOW.3.RID_XNSUBSETEQY.toolboxitem.text
 msgid "Not Subset Or Equal"
-msgstr ""
+msgstr "nach bhfuil ina fho-thacar no cothrom le"
 
 #: smres.src#RID_TOOLBOXWINDOW.3.RID_XNSUPSETY.toolboxitem.text
 msgid "Not Superset"
@@ -73269,7 +73346,7 @@ msgstr "Nach For-Thacar"
 
 #: smres.src#RID_TOOLBOXWINDOW.3.RID_XNSUPSETEQY.toolboxitem.text
 msgid "Not Superset Or Equal"
-msgstr ""
+msgstr "nach bhfuil ina fhor-thacar no cothrom le"
 
 #: smres.src#RID_TOOLBOXWINDOW.3.RID_SETN.toolboxitem.text
 msgid "Natural Numbers Set"
@@ -73506,7 +73583,7 @@ msgstr "Ponc Dúbailte"
 
 #: smres.src#RID_TOOLBOXWINDOW.6.RID_OVERLINEX.toolboxitem.text
 msgid "Line Over"
-msgstr ""
+msgstr "Líne Thar"
 
 #: smres.src#RID_TOOLBOXWINDOW.6.RID_UNDERLINEX.toolboxitem.text
 msgid "Line Below"
@@ -73607,11 +73684,11 @@ msgstr "Lúibíní Oibríochta (Inscálaithe)"
 
 #: smres.src#RID_TOOLBOXWINDOW.7.RID_XOVERBRACEY.toolboxitem.text
 msgid "Braces Top (Scalable)"
-msgstr ""
+msgstr "Barr Lúibíní Slabhracha (Inscálaithe)"
 
 #: smres.src#RID_TOOLBOXWINDOW.7.RID_XUNDERBRACEY.toolboxitem.text
 msgid "Braces Bottom (Scalable)"
-msgstr ""
+msgstr "Bun Lúibíní Slabhracha (Inscálaithe)"
 
 #: smres.src#RID_TOOLBOXWINDOW.8.RID_LSUPX.toolboxitem.text
 msgid "Superscript Left"
@@ -73715,7 +73792,7 @@ msgstr "Lambda-Barra"
 
 #: smres.src#RID_TOOLBOXWINDOW.9.RID_RE.toolboxitem.text
 msgid "Real Part"
-msgstr ""
+msgstr "Cuid Réadach"
 
 #: smres.src#RID_TOOLBOXWINDOW.9.RID_IM.toolboxitem.text
 msgid "Imaginary Part"
@@ -73739,11 +73816,11 @@ msgstr "Poncanna Go hIngearach"
 
 #: smres.src#RID_TOOLBOXWINDOW.9.RID_DOTSUP.toolboxitem.text
 msgid "Dots To Top"
-msgstr ""
+msgstr "Poncanna go Barr"
 
 #: smres.src#RID_TOOLBOXWINDOW.9.RID_DOTSDOWN.toolboxitem.text
 msgid "Dots to Bottom"
-msgstr ""
+msgstr "Poncanna go Bun"
 
 #: smres.src#RID_TOOLBOXWINDOW.10.RID_UNBINOPS_CAT.toolboxitem.text
 msgid "Unary/Binary Operators"
@@ -73826,7 +73903,7 @@ msgstr "Carachtar gan choinne"
 
 #: smres.src#RID_ERR_OVERFLOW.string.text
 msgid "Formula entry too complex"
-msgstr ""
+msgstr "Iontráil foirmle atá róchasta"
 
 #: smres.src#RID_ERR_LGROUPEXPECTED.string.text
 msgid "'{' expected"
@@ -74526,7 +74603,7 @@ msgstr "Ionad"
 
 #: addresstemplate.src#STR_FIELD_ADDRFORM.string.text
 msgid "Addr. Form"
-msgstr ""
+msgstr "Foirm Sheolta"
 
 #: addresstemplate.src#STR_FIELD_INITIALS.string.text
 #: template.src#CorrespondenceFields_12.string.text
@@ -74999,6 +75076,8 @@ msgid ""
 "The object found does not support the interface required for the desired "
 "operation."
 msgstr ""
+"Ní thacaíonn an réad a aimsíodh leis an gcomhéadan atá de dhíth don obráid "
+"iarrtha."
 
 #: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_NO_INTERFACE_S_MAX.string.text
 msgid "Interface not supported."
@@ -75042,7 +75121,7 @@ msgstr "Falsa."
 
 #: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_NEED_GENERIC_S_MAX.string.text
 msgid "Monikers must be composed generically."
-msgstr ""
+msgstr "Caithfear leasainmneacha a chumadh go cineálach."
 
 #: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_PENDING_S_MAX.string.text
 msgid "Data not available at this time."
@@ -75050,7 +75129,7 @@ msgstr "Níl na sonraí ar fáil faoi láthair."
 
 #: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_NOT_INPLACEACTIVE___S_MAX.string.text
 msgid "Object could not be activated InPlace."
-msgstr ""
+msgstr "Níorbh fhéidir an réad a chur i ngníomh ina ionad."
 
 #: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_LINDEX___S_MAX.string.text
 msgid "Invalid index."
@@ -75066,7 +75145,7 @@ msgstr "Ní thacaíonn an réad leis an ngníomh seo."
 
 #: so3res.src#STR_INS_FILE_ICON.string.text
 msgid "Inserts the contents of the file as an icon into your document."
-msgstr ""
+msgstr "Ionsánn inneachar an chomhaid mar dheilbhín i do cháipéis."
 
 #: wizardmachine.src#STR_WIZDLG_PREVIOUS.string.text
 msgid "<< Bac~k"
@@ -75292,6 +75371,8 @@ msgid ""
 "For the selected Java runtime environment to work properly, %PRODUCTNAME "
 "must be restarted. Please restart %PRODUCTNAME now."
 msgstr ""
+"Ionas go n-oibreoidh timpeallacht ama rite Java i gceart, caithfear %"
+"PRODUCTNAME a atosú. Atosaigh %PRODUCTNAME anois le do thoil."
 
 #: javaerror.src#STR_WARNING_JAVANOTFOUND.string.text
 msgid ""
@@ -75372,6 +75453,8 @@ msgid ""
 "For the selected Java runtime environment to work properly, %PRODUCTNAME "
 "must be restarted. Please restart %PRODUCTNAME now."
 msgstr ""
+"Ionas go n-oibreoidh an timpeallacht ama rite Java roghnaithe i gceart, "
+"caithfear %PRODUCTNAME a atosú. Atosaigh %PRODUCTNAME anois le do thoil."
 
 #: patchjavaerror.src#STR_WARNING_JAVANOTFOUND.string.text
 msgid ""
@@ -76482,6 +76565,9 @@ msgid ""
 "A ZIP code should begin with a number (or in some cases a letter) and\n"
 "can only contain numbers, letters, spaces and dashes."
 msgstr ""
+"Tá an cód ZIP a shonraíodh neamhbhailí.\n"
+"Caithfidh cód ZIP tosú le huimhir (nó le litir i gcásanna áirithe) agus níl\n"
+"sé ceadaithe a bheith ann ach uimhreacha, litreacha, spásanna agus daiseanna."
 
 #: testtool.src#DisplayHidToolBox.TT_SHOW.toolboxitem.text
 msgid "Display IDs"
@@ -76533,7 +76619,7 @@ msgstr "Caillfear an t-aistriúchán. Lean ar aghaidh mar sin féin?"
 
 #: testtool.src#TT_NO_CONTROL.errorbox.text
 msgid "The Control is no longer valid. The Translation cannot be saved."
-msgstr ""
+msgstr "Níl an Rialtán fós bailí. Ní féidir an tAistriúchán a shábháil."
 
 #: testtool.src#TT_GPF.string.text
 msgid "GPF occurred"
@@ -90227,7 +90313,7 @@ msgstr "Tá an t-ainm '%1' ann cheana. Iontráil ainm nua le do thoil."
 
 #: datanavi.src#RID_ERR_EMPTY_SUBMISSIONNAME.errorbox.text
 msgid "The submission must have a name."
-msgstr ""
+msgstr "Caithfear ainm a bheith ar an aighneas."
 
 #: datanavi.src#RID_SVXDLG_ADD_DATAITEM.FL_ITEM.fixedline.text
 msgid "Item"
@@ -98551,7 +98637,7 @@ msgstr "Earráid agus sonraí á léamh ón ghearrthaisce."
 
 #: error.src#RID_SW_ERRHDL.ERR_CODE___ERRCODE_CLASS_READ___ERR_SWG_FILE_FORMAT_ERROR__.string.text
 msgid "File format error found."
-msgstr ""
+msgstr "Earráid aimsithe i bhformáid chomhaid."
 
 #: error.src#RID_SW_ERRHDL.ERR_CODE___ERRCODE_CLASS_READ___ERR_SW6_INPUT_FILE__.string.text
 msgid "Input file error."
@@ -98580,6 +98666,8 @@ msgid ""
 "This file was saved with WinWord in 'Fast Save' mode. Please unmark the "
 "WinWord option 'Allow Fast Saves' and save the file again."
 msgstr ""
+"Sábháladh an comhad seo le WinWord sa mhód 'Sábháil Tapaidh'. Díroghnaigh an "
+"rogha 'Ceadaigh Sábháil Tapaidh' i WinWord agus sábháil an comhad arís."
 
 #: error.src#RID_SW_ERRHDL.ERR_CODE___ERRCODE_CLASS_READ___ERR_W4W_WRITE_TMP_ERROR__.string.text
 msgid "Error writing temporary file."
@@ -98626,6 +98714,7 @@ msgstr "Earráid agus comhad sealadach á léamh."
 #: error.src#RID_SW_ERRHDL.ERR_CODE___ERRCODE_CLASS_WRITE___ERR_SWG_LARGE_DOC_ERROR__.string.text
 msgid "The document exceeds the allowed 3.1/4.0 text document size."
 msgstr ""
+"Tá an cháipéis seo níos mó ná an méid ceadaithe do cháipéisí téacs 3.1/4.0."
 
 #: error.src#RID_SW_ERRHDL.ERR_CODE___ERRCODE_CLASS_WRITE___ERR_WRITE_ERROR_FILE__.string.text
 msgid ""
@@ -98736,6 +98825,8 @@ msgid ""
 "This file was saved with WinWord in 'Fast Save' mode. Please unmark the "
 "WinWord option 'Allow Fast Saves' and save the file again."
 msgstr ""
+"Sábháladh an comhad seo le WinWord sa mhód 'Sábháil Tapaidh'. Díroghnaigh an "
+"rogha 'Ceadaigh Sábháil Tapaidh' i WinWord agus sábháil an comhad arís."
 
 #: error.src#RID_SW_ERRHDL.WARN_CODE___ERRCODE_CLASS_READ___WARN_SWG_FEATURES_LOST__.string.text
 msgid "Not all attributes could be read."
@@ -98747,11 +98838,11 @@ msgstr "Níorbh fhéidir gach tréith a thaifeadadh."
 
 #: error.src#RID_SW_ERRHDL.WARN_CODE___ERRCODE_CLASS_READ___WARN_SWG_OLE__.string.text
 msgid "Some OLE objects could only be loaded as graphics."
-msgstr ""
+msgstr "Níorbh fhéidir roinnt réada OLE a luchtú ach mar graificí."
 
 #: error.src#RID_SW_ERRHDL.WARN_CODE___ERRCODE_CLASS_WRITE___WARN_SWG_OLE__.string.text
 msgid "Some OLE objects could only be saved as graphics."
-msgstr ""
+msgstr "Níorbh fhéidir roinnt réada OLE a shábháil ach mar graificí."
 
 #: error.src#RID_SW_ERRHDL.WARN_CODE___ERRCODE_CLASS_READ___WARN_SWG_POOR_LOAD__.string.text
 msgid "Document could not be completely loaded."
@@ -100512,7 +100603,7 @@ msgstr "Postchumasc"
 
 #: mailmergechildwindow.src#WORKAROUND.#define.text
 msgid "Return to Mail Merge Wizard"
-msgstr "Fill ar an nDraoi Postchumaisc"
+msgstr "Fill ar an Draoi Postchumaisc"
 
 #: mailmergechildwindow.src#DLG_MAILMERGECHILD.floatingwindow.text
 msgid ""
@@ -100656,6 +100747,8 @@ msgid ""
 "Select the address list containing the address data you want to use. This "
 "data is needed to create the address block."
 msgstr ""
+"Roghnaigh an liosta seoltaí ina bhfuil na sonraí a theastaíonn uait a úsáid. "
+"Tá na sonraí seo riachtanach le bloc an tseolta a chruthú."
 
 #: mmaddressblockpage.src#DLG_MM_ADDRESSBLOCK_PAGE.PB_ADDRESSLIST.pushbutton.text
 msgid "Select A~ddress List..."
@@ -100663,15 +100756,15 @@ msgstr "Roghnaigh ~Liosta Seoltaí..."
 
 #: mmaddressblockpage.src#DLG_MM_ADDRESSBLOCK_PAGE.STR_CHANGEADDRESS.string.text
 msgid "Select Different A~ddress List..."
-msgstr ""
+msgstr "Roghnaigh Liosta ~Eile Seoltaí..."
 
 #: mmaddressblockpage.src#DLG_MM_ADDRESSBLOCK_PAGE.FI_CURRENTADDRESS.fixedtext.text
 msgid "Current address list: %1"
-msgstr ""
+msgstr "Liosta seoltaí reatha: %1"
 
 #: mmaddressblockpage.src#DLG_MM_ADDRESSBLOCK_PAGE.CB_ADDRESS.checkbox.text
 msgid "~This document shall contain an address block"
-msgstr ""
+msgstr "Beidh bloc seol~taí sa cháipéis seo"
 
 #: mmaddressblockpage.src#DLG_MM_ADDRESSBLOCK_PAGE.CB_HIDE_EMPTY_PARA.checkbox.text
 msgid "~Suppress lines with just empty fields"
@@ -100686,10 +100779,12 @@ msgid ""
 "Match the field name used in the mail merge to the column headers in your "
 "data source."
 msgstr ""
+"Meaitseáil an t-ainm réimse a úsáidtear sa chumasc poist leis na ceanntásca "
+"colúin i d'fhoinse sonraí."
 
 #: mmaddressblockpage.src#DLG_MM_ADDRESSBLOCK_PAGE.PB_ASSIGN.pushbutton.text
 msgid "Match ~Fields..."
-msgstr ""
+msgstr "Meaitseáil ~Réimsí..."
 
 #: mmaddressblockpage.src#DLG_MM_ADDRESSBLOCK_PAGE.FI_FOURTH.fixedtext.text
 msgid "4."
@@ -100697,7 +100792,7 @@ msgstr "4."
 
 #: mmaddressblockpage.src#DLG_MM_ADDRESSBLOCK_PAGE.FI_PREVIEW.fixedtext.text
 msgid "Check if the address data matches correctly."
-msgstr ""
+msgstr "Seiceáil go bhfuil meaitseáil na sonraí seolta i gceart."
 
 #: mmaddressblockpage.src#DLG_MM_ADDRESSBLOCK_PAGE.IB_PREVSET.imagebutton.text
 msgid ""
@@ -100729,7 +100824,7 @@ msgstr "Cáipéis: %1"
 
 #: mmaddressblockpage.src#DLG_MM_SELECTADDRESSBLOCK.FT_SELECT.fixedtext.text
 msgid "~Select your preferred address block"
-msgstr ""
+msgstr "Roghnaigh an bloc ~seolta is fearr leat"
 
 #: mmaddressblockpage.src#DLG_MM_SELECTADDRESSBLOCK.PB_NEW.pushbutton.text
 msgid ""
@@ -100765,7 +100860,7 @@ msgstr "~Cuir an tír/réigiún san áireamh i gcónaí"
 
 #: mmaddressblockpage.src#DLG_MM_SELECTADDRESSBLOCK.RB_DEPENDENT.radiobutton.text
 msgid "Only ~include the country/region if it is not:"
-msgstr ""
+msgstr "Cu~ir an tír/réigiúin san áireamh mura bhfuil sí:"
 
 #: mmaddressblockpage.src#DLG_MM_SELECTADDRESSBLOCK.modaldialog.text
 msgid "Select Address Block"
@@ -100789,7 +100884,7 @@ msgstr "Beannacht Shaincheaptha (Faighteoir Baineannach)"
 
 #: mmaddressblockpage.src#DLG_MM_CUSTOMIZEADDRESSBLOCK.FT_ADDRESSELEMENTS.fixedtext.text
 msgid "Address ~elements"
-msgstr ""
+msgstr "~Eilimintí seolta"
 
 #: mmaddressblockpage.src#DLG_MM_CUSTOMIZEADDRESSBLOCK.ST_SALUTATIONELEMENTS.string.text
 msgid "Salutation e~lements"
@@ -100906,15 +101001,18 @@ msgstr "Comhartha Poncaíochta"
 #: mmaddressblockpage.src#DLG_MM_ASSIGNFIELDS.FI_MATCHING.fixedtext.text
 msgid "Assign the fields from your data source to match the address elements."
 msgstr ""
+"Sainigh na réimsí i d'fhoinse sonraí a mheaitseálann na heilimintí seolta."
 
 #: mmaddressblockpage.src#DLG_MM_ASSIGNFIELDS.ST_SALUTATIONMATCHING.string.text
 msgid ""
 "Assign the fields from your data source to match the salutation elements."
 msgstr ""
+"Sainigh na réimsí i d'fhoinse sonraí a mheaitseálann na heilimintí "
+"beannaithe."
 
 #: mmaddressblockpage.src#DLG_MM_ASSIGNFIELDS.FI_PREVIEW.fixedtext.text
 msgid "Address block preview"
-msgstr ""
+msgstr "Réamhamharc an bhloc seolta"
 
 #: mmaddressblockpage.src#DLG_MM_ASSIGNFIELDS.ST_SALUTATIONPREVIEW.string.text
 msgid "Salutation preview"
@@ -100930,7 +101028,7 @@ msgstr "Eilimintí beannachta"
 
 #: mmaddressblockpage.src#DLG_MM_ASSIGNFIELDS.ST_MATCHESTO.string.text
 msgid "Matches to field:"
-msgstr ""
+msgstr "Meaitseálann an réimse:"
 
 #: mmaddressblockpage.src#DLG_MM_ASSIGNFIELDS.ST_PREVIEW.string.text
 msgid ""
@@ -100944,7 +101042,7 @@ msgstr "< neamhní >"
 
 #: mmaddressblockpage.src#DLG_MM_ASSIGNFIELDS.modaldialog.text
 msgid "Match Fields"
-msgstr ""
+msgstr "Meaitseáil Réimsí"
 
 #: mmdocselectpage.src#DLG_MM_DOCSELECT_PAGE.FI_HEADER.fixedtext.text
 msgid "Select starting document for the mail merge"
@@ -101372,13 +101470,15 @@ msgstr ""
 
 #: mmpreparemergepage.src#DLG_MM_PREPAREMERGE_PAGE.FI_HEADER.fixedtext.text
 msgid "Preview and edit the document"
-msgstr ""
+msgstr "Réamhamharc agus cur in eagar na cáipéise"
 
 #: mmpreparemergepage.src#DLG_MM_PREPAREMERGE_PAGE.FI_PREVIEW.fixedtext.text
 msgid ""
 "The preview of a merged document is visible now. To see the preview of "
 "another document click one of the arrows."
 msgstr ""
+"Tá réamhamharc de cháipéis chumaiscthe le feiscint anois. Cliceáil ceann de "
+"na saighde le réamhamharc de cháipéis eile a fheiceáil."
 
 #: mmpreparemergepage.src#DLG_MM_PREPAREMERGE_PAGE.FT_RECIPIENT.fixedtext.text
 msgid "~Recipient"
@@ -101426,7 +101526,7 @@ msgstr ""
 
 #: mmpreparemergepage.src#DLG_MM_PREPAREMERGE_PAGE.CB_EXCLUDE.checkbox.text
 msgid "E~xclude this recipient"
-msgstr ""
+msgstr "~Fág an faighteoir seo amuigh"
 
 #: mmpreparemergepage.src#DLG_MM_PREPAREMERGE_PAGE.FL_NOTEHEADER.fixedline.text
 msgid "Edit Document"
@@ -101442,6 +101542,13 @@ msgid ""
 "return to the wizard by clicking 'Return to Mail Merge Wizard' in the small "
 "window."
 msgstr ""
+"Scríobh nó cuir do cháipéis in eagar anois mura bhfuil sin déanta agat "
+"cheana. Cuirfear na hathruithe i bhfeidhm i ngach cháipéis chumaiscthe.\n"
+"\n"
+"Laghdófar an draoi go fuinneog bheag tar éis chliceáil ar 'Cuir Cáipéis in "
+"Eagar...' sa chaoi go mbeidh tú in ann an cháipéis phostchumaisc a chur in "
+"eagar. Ina dhiaidh sin, fill ar an draoi trí chiceáil ar 'Fill ar an Draoi "
+"Postchumaisc' sa bhfuinneog bheag."
 
 #: mmpreparemergepage.src#DLG_MM_PREPAREMERGE_PAGE.PB_EDIT.pushbutton.text
 msgid "~Edit Document..."
@@ -112647,11 +112754,11 @@ msgstr ""
 
 #: template.src#CorrespondenceNoTextmark.string.text
 msgid "The bookmark 'Recipient' is missing."
-msgstr ""
+msgstr "Tá an leabharmharc 'Faighteoir' ar iarraidh."
 
 #: template.src#CorrespondenceNoTextmark_1.string.text
 msgid "Form letter fields can not be included."
-msgstr ""
+msgstr "Ní féidir réimsí as litreacha foirme a chur san áireamh."
 
 #: template.src#CorrespondenceMsgError.string.text
 msgid "An error has occurred."
@@ -112663,11 +112770,11 @@ msgstr "Aon fhaighteoir"
 
 #: template.src#CorrespondenceDialog_2.string.text
 msgid "Several recipients (address database)"
-msgstr ""
+msgstr "Scata faighteoirí (bunachar sonraí seoltaí)"
 
 #: template.src#CorrespondenceDialog_3.string.text
 msgid "Use of This Template"
-msgstr ""
+msgstr "Úsáid an Teimpléid Seo"
 
 #: template.src#CorrespondenceFields.string.text
 msgid "Click placeholder and overwrite"
@@ -112679,7 +112786,7 @@ msgstr "Cód Poist"
 
 #: template.src#CorrespondenceFields_11.string.text
 msgid "Form of Address"
-msgstr ""
+msgstr "Foirm Sheolta"
 
 #: template.src#CorrespondenceFields_14.string.text
 msgid "Home Phone"
