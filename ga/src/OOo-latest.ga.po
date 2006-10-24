@@ -2000,7 +2000,7 @@ msgstr "Cuir athróg in eagar"
 
 #: basic.src#LOAD_CONF.WORK.fixedtext.text
 msgid "Slot IDs"
-msgstr "Aitheantais shliotáin"
+msgstr "Aitheantais sliotáin"
 
 #: basic.src#LOAD_CONF.FILENAME.fixedtext.text
 msgid "File.win"
@@ -2016,7 +2016,7 @@ msgstr "Tosach an chláir: ($Arg1); ($Arg2)"
 
 #: basmsg.src#S_ERROR_OUTSIDE_TESTCASE.string.text
 msgid "Error outside of test case"
-msgstr ""
+msgstr "Earráid lasmuigh de chás tástála"
 
 #: basmsg.src#S_WARNING_PREFIX.string.text
 msgid ""
@@ -2203,11 +2203,11 @@ msgstr "Níor roghnaíodh iontráil i ($Arg2) ag ($Arg1)"
 
 #: svtmsg.src#S_SELECT_DESELECT_VIA_STRING_NOT_IMPLEMENTED.string.text
 msgid "Select/Deselect with string not implemented at ($Arg1)"
-msgstr ""
+msgstr "Níl Roghnú/Díroghnú le teaghrán ar fáil ag ($Arg1)"
 
 #: svtmsg.src#S_ALLOWED_ONLY_IN_FLOATING_MODE.string.text
 msgid "Method only allowed in floating mode at ($Arg1)"
-msgstr ""
+msgstr "Ní cheadaítear an modh ach sa mhód snámhphointe ag ($Arg1)"
 
 #: svtmsg.src#S_ALLOWED_ONLY_IN_DOCKING_MODE.string.text
 msgid "Method only allowed in docking mode at ($Arg1)"
@@ -2257,10 +2257,11 @@ msgstr "Tá gá le haitheantas cnaipe ag ($Arg1)"
 #: svtmsg.src#S_UNKNOWN_TYPE.string.text
 msgid "Unknown object type ($Arg1) from UId or method '($Arg2)' not supported"
 msgstr ""
+"Cineál anaithnid réada ($Arg1) ó UId nó ní thacaítear le modh '($Arg2)'"
 
 #: svtmsg.src#S_UNPACKING_STORAGE_FAILED.string.text
 msgid "Unpacking storage \"($Arg1)\" to \"($Arg2)\" failed"
-msgstr ""
+msgstr "Theip ar \"($Arg1)\" a dhíphacáil go \"($Arg2)\""
 
 #: svtmsg.src#S_NO_LIST_BOX_BUTTON.string.text
 msgid "ListBoxButton does not exist in ($Arg1)"
@@ -2291,6 +2292,7 @@ msgstr "Gan scrollbharra ag ($Arg1)"
 #: svtmsg.src#S_NO_SAX_PARSER.string.text
 msgid "No SAX Parser when using ($Arg1). Initialize with 'SAXReadFile' first."
 msgstr ""
+"Gan pharsálaí SAX agus ($Arg1) in úsáid. Túsaigh le 'SAXReadFile' ar dtús."
 
 #: svtmsg.src#S_CANNOT_CREATE_DIRECTORY.string.text
 msgid "Cannot create Directory: \"($Arg1)\""
@@ -2299,6 +2301,7 @@ msgstr "Ní féidir an chomhadlann a chruthú: \"($Arg1)\""
 #: svtmsg.src#S_DIRECTORY_NOT_EMPTY.string.text
 msgid "Directory has to be Empty to unpack to. Directory: \"($Arg1)\""
 msgstr ""
+"Ní féidir díphacáil i gcomhadlann nach bhfuil folamh. Comhadlann \"($Arg1)\""
 
 #: svtmsg.src#S_DEPRECATED.string.text
 msgid "Deprecated! Please change the script."
@@ -2306,11 +2309,12 @@ msgstr "Gné Lochtach! Athraigh an script le do thoil."
 
 #: svtmsg.src#S_SIZE_BELOW_MINIMUM.string.text
 msgid "The Size is below the minimum. x=($Arg1) ,y=($Arg2)"
-msgstr ""
+msgstr "Níos lú ná an íosmhéid. x=($Arg1) ,y=($Arg2)"
 
 #: svtmsg.src#S_CANNOT_FIND_FLOATING_WIN.string.text
 msgid "Cannot find FloatingWindow for floating DockingWindow at ($Arg1)."
 msgstr ""
+"Ní féidir FloatingWindow a aimsiú do DockingWindow inathraitheach ag ($Arg1)."
 
 #: testtool.src#S_INVALID_KEYCODE.string.text
 msgid "Is an invalid KeyCode!"
@@ -2322,6 +2326,9 @@ msgid ""
 "could not be found.\n"
 "This file is indispensable."
 msgstr ""
+"\n"
+"gan aimsiú.\n"
+"Tá an comhad seo riachtanach."
 
 #: testtool.src#S_READING_LONGNAMES.string.text
 msgid "Reading long-names"
@@ -2329,7 +2336,7 @@ msgstr "Ainmneacha fada á léamh"
 
 #: testtool.src#S_READING_SLOT_IDS.string.text
 msgid "Reading Slot IDs"
-msgstr ""
+msgstr "Aitheantais Sliotáin á léamh"
 
 #: testtool.src#S_READING_CONTROLS.string.text
 msgid "Reading Controls"
@@ -2373,11 +2380,11 @@ msgstr "Ainm fada anaithnid: ($Arg1)"
 
 #: ttmsg.src#S_FIRST_SHORTNAME_REQ_ASTRX.string.text
 msgid "First short-name must start with * . Ignoring."
-msgstr ""
+msgstr "Caithfidh an chéad ainm gearr tosú le * . Ag déanamh neamhshuim air."
 
 #: ttmsg.src#S_TIMOUT_WAITING.string.text
 msgid "Server Timeout while waiting for answer. Sequence No: ($Arg1)"
-msgstr ""
+msgstr "Freastalaí thar am ag feitheamh le freagra. Uimhir seichimh: ($Arg1)"
 
 #: ttmsg.src#S_APPLICATION_RESTARTED.string.text
 msgid "Application has been restarted."
@@ -2389,11 +2396,11 @@ msgstr "Ní féidir feidhmchlár \"($Arg1)\" a thosú."
 
 #: ttmsg.src#S_TIMOUT_SENDING.string.text
 msgid "Server Timeout while sending. Sequence No: ($Arg1)"
-msgstr ""
+msgstr "Freastalaí thar am le linn seolta. Uimhir Seichimh: ($Arg1)"
 
 #: ttmsg.src#S_NO_CONNECTION.string.text
 msgid "No connection. Sequence No: ($Arg1)"
-msgstr ""
+msgstr "Gan nasc. Uimhir Seichimh: ($Arg1)"
 
 #: ttmsg.src#S_NO_FILES_FOUND.string.text
 msgid "No ($Arg1) files found"
@@ -2417,11 +2424,11 @@ msgstr "** Ní raibh aon rabhadh"
 
 #: ttmsg.src#S_INCLUDE_FILE_WARNINGS_DETECTED.string.text
 msgid "** ($Arg1) warnings occurred during initialization"
-msgstr ""
+msgstr "** Tharla ($Arg1) rabhadh le linn túsaithe"
 
 #: ttmsg.src#S_NO_INCLUDE_FILE_WARNINGS_DETECTED.string.text
 msgid "** No warnings occurred during initialization"
-msgstr ""
+msgstr "** Níor tharla rabhadh ar bith le linn túsaithe"
 
 #: ttmsg.src#S_UNKNOWN_SLOT_CONTROL.string.text
 msgid "Slot/Control unknown :\"($Arg1)\""
@@ -2429,15 +2436,15 @@ msgstr "Sliotán/Rialtán anaithnid :\"($Arg1)\""
 
 #: ttmsg.src#S_RETURN_SEQUENCE_MISSMATCH.string.text
 msgid "Return Stream has wrong sequence: ($Arg1) instead of ($Arg2)"
-msgstr ""
+msgstr "Tá seicheamh mícheart ag an sruth aisfhillte: ($Arg1) in ionad ($Arg2)"
 
 #: ttmsg.src#S_RETURNED_VALUE_ID_MISSMATCH.string.text
 msgid "Return value received but different Id expected"
-msgstr ""
+msgstr "Fuarthas luach aisfhillte ach bhíothas ag súil le haitheantas difriúil"
 
 #: ttmsg.src#S_RETURNED_VALUE_NO_RECEIVER.string.text
 msgid "Return value received but no receiver defined"
-msgstr ""
+msgstr "Fuarthas luach aisfhillte ach ní raibh faighteoir socraithe"
 
 #: ttmsg.src#S_UNKNOWN_METHOD.string.text
 msgid "Unknown method on object :($Arg1).($Arg2)"
@@ -3336,7 +3343,7 @@ msgstr "Cúlú iltéarmach"
 #: dlg_ChartType.src#DLG_DIAGRAM_TYPE.FL_DIMENSION.fixedline.text
 #: diagrtyp.src#DLG_DIAGRAM_TYPE.FL_DIMENSION.fixedline.text
 msgid "Chart category"
-msgstr ""
+msgstr "Catagóir na cairte"
 
 #: dlg_ChartType.src#DLG_DIAGRAM_TYPE.RBT_2D.radiobutton.text
 #: diagrtyp.src#DLG_DIAGRAM_TYPE.RBT_2D.radiobutton.text
@@ -3741,11 +3748,11 @@ msgstr "Ord"
 #: tp_AxisLabel.src#TP_AXIS_LABEL.RB_AXIS_LABEL_UPDOWN.radiobutton.text
 #: tplabel.src#TP_AXIS_LABEL.RB_AXIS_LABEL_UPDOWN.radiobutton.text
 msgid "St~agger odd"
-msgstr ""
+msgstr "Scaip n~a cinn corra óna chéile"
 
 #: tp_AxisLabel.src#TP_AXIS_LABEL.RB_AXIS_LABEL_DOWNUP.radiobutton.text
 msgid "Stagger ~even"
-msgstr ""
+msgstr "Scaip na ~cinn cothroma óna chéile"
 
 #: tp_AxisLabel.src#TP_AXIS_LABEL.RB_AXIS_LABEL_AUTOORDER.radiobutton.text
 #: tabledlg.src#TP_FORMAT_TABLE.RB_FULL.radiobutton.text
@@ -3822,7 +3829,7 @@ msgstr "Uathoibríoch"
 #: tp_Scale.src#TP_SCALE_Y.TXT_STEP_MAIN.fixedtext.text
 #: tpscaley.src#TP_SCALE_Y.TXT_STEP_MAIN.fixedtext.text
 msgid "Major ~interval:"
-msgstr ""
+msgstr "Mór-id~irchéim:"
 
 #: tp_Scale.src#TP_SCALE_Y.CBX_AUTO_STEP_MAIN.checkbox.text
 msgid ""
@@ -3833,7 +3840,7 @@ msgstr "Uathoibríoch"
 #: tp_Scale.src#TP_SCALE_Y.TXT_STEP_HELP.fixedtext.text
 #: tpscaley.src#TP_SCALE_Y.TXT_STEP_HELP.fixedtext.text
 msgid "Mi~nor interval:"
-msgstr ""
+msgstr "Mio~n-idirchéim:"
 
 #: tp_Scale.src#TP_SCALE_Y.CBX_AUTO_STEP_HELP.checkbox.text
 msgid ""
@@ -3860,7 +3867,7 @@ msgstr "~Scála logartamach"
 #: tp_Scale.src#TP_SCALE_Y.FL_TICKS.fixedline.text
 #: tpscaley.src#TP_SCALE_Y.FL_TICKS.fixedline.text
 msgid "Major interval marks"
-msgstr ""
+msgstr "Marcanna mór-idirchéime"
 
 #: tp_Scale.src#TP_SCALE_Y.CBX_TICKS_INNER.checkbox.text
 #: tpscaley.src#TP_SCALE_Y.CBX_TICKS_INNER.checkbox.text
@@ -3875,7 +3882,7 @@ msgstr "~amuigh"
 #: tp_Scale.src#TP_SCALE_Y.FL_HELPTICKS.fixedline.text
 #: tpscaley.src#TP_SCALE_Y.FL_HELPTICKS.fixedline.text
 msgid "Minor interval marks"
-msgstr ""
+msgstr "Marcanna mion-idirchéime"
 
 #: tp_Scale.src#TP_SCALE_Y.CBX_HELPTICKS_INNER.checkbox.text
 #: tpscaley.src#TP_SCALE_Y.CBX_HELPTICKS_INNER.checkbox.text
@@ -4263,13 +4270,13 @@ msgstr "~Greille"
 #: ChartCommands.xcu#..ChartCommands.UserInterface.Commands..uno_DiagramWall.Label.value.text
 #: menuids_tmpl.src#MN_DIAGRAM_WALL.SID_DIAGRAM_WALL.menuitem.text
 msgid "Chart ~Wall..."
-msgstr ""
+msgstr "~Balla na Cairte..."
 
 #: MenuItems_tmpl.hrc#MN_DIAGRAM_FLOOR.SID_DIAGRAM_FLOOR.menuitem.text
 #: ChartCommands.xcu#..ChartCommands.UserInterface.Commands..uno_DiagramFloor.Label.value.text
 #: menuids_tmpl.src#MN_DIAGRAM_FLOOR.SID_DIAGRAM_FLOOR.menuitem.text
 msgid "~Chart Floor..."
-msgstr ""
+msgstr "U~rlár na Cairte..."
 
 #: MenuItems_tmpl.hrc#MN_DIAGRAM_AREA.SID_DIAGRAM_AREA.menuitem.text
 #: ChartCommands.xcu#..ChartCommands.UserInterface.Commands..uno_DiagramArea.Label.value.text
@@ -4940,6 +4947,8 @@ msgid ""
 "You cannot give a table and a query the same name. Please use a name which "
 "is not yet used by a query or table."
 msgstr ""
+"Ní féidir an t-ainm céanna a chur ar thábla agus ar iarratas. Roghnaigh ainm "
+"nach bhfuil ar aon iarratas nó tábla fós."
 
 #: sdbt_strings.src#STR_BASENAME_TABLE.string.text
 #: toolbar.src#RID_BIB_TOOLBAR.TBC_FT_SOURCE.toolboxitem.text
@@ -5431,7 +5440,7 @@ msgstr "Tá an t-ainm \"#\" ann cheana."
 
 #: sbagrid.src#STR_NO_COLUMNNAME_MATCHING.string.text
 msgid "No matching column names were found."
-msgstr ""
+msgstr "Níor aimsíodh ainm colúin comhoiriúnach ar bith."
 
 #: sbagrid.src#STR_ERROR_OCCURED_WHILE_COPYING.string.text
 msgid "An error occurred. Do you want to continue copying?"
@@ -5439,7 +5448,7 @@ msgstr "Tharla earráid. Ar mhaith leat dul ar aghaidh leis an chóipeáil?"
 
 #: sbagrid.src#STR_DATASOURCE_GRIDCONTROL_NAME.string.text
 msgid "Data source table view"
-msgstr ""
+msgstr "Amharc tábla ar fhoinse sonraí"
 
 #: sbagrid.src#STR_DATASOURCE_GRIDCONTROL_DESC.string.text
 msgid "Shows the selected table or query."
@@ -5545,7 +5554,7 @@ msgstr "DATAD~EVSPACE:"
 
 #: AdabasStat.src#DLG_ADABASSTAT.FL_SIZES.fixedline.text
 msgid "Database sizes"
-msgstr ""
+msgstr "Méideanna na mbunachar sonraí"
 
 #: AdabasStat.src#DLG_ADABASSTAT.FT_SIZE.fixedtext.text
 msgid "S~ize (MB):"
@@ -5581,7 +5590,7 @@ msgstr "Méid iomlán na gcomhad bunachair sonraí"
 
 #: AdabasStat.src#STR_ADABAS_HELP_FREESIZE.string.text
 msgid "Currently available space before a new datadev file is created."
-msgstr ""
+msgstr "Spás le fáil sula gcruthófar comhad nua datadev."
 
 #: AdabasStat.src#STR_ADABAS_HELP_MEMORYUSING.string.text
 msgid "Currently used memory"
@@ -5592,6 +5601,8 @@ msgid ""
 "No information could be displayed because no access rights exist for the "
 "required system tables."
 msgstr ""
+"Níorbh fhéidir aon eolas a thaispeáint toisc nach bhfuil cearta rochtana ann "
+"ar na táblaí riachtanacha córais."
 
 #: AdabasStatDlg.src#DLG_DATABASE_ADABASADMIN.STR_PAGETITLE_ADABAS_STATISTIC.string.text
 msgid "Adabas D Statistics"
@@ -5786,7 +5797,7 @@ msgstr "Níor aimsíodh foinsí sonraí Adabas D ar do chóras."
 
 #: ConnectionPage.src#STR_CONNECTION_TEST.string.text
 msgid "Connection Test"
-msgstr ""
+msgstr "Tástáil Naisc"
 
 #: ConnectionPage.src#STR_CONNECTION_SUCCESS.string.text
 msgid "The connection was established successfully."
@@ -7554,7 +7565,7 @@ msgstr "Athnuaigh"
 
 #: toolbox_tmpl.hrc#MID_NEW_VIEW_DESIGN.#define.text
 msgid "New ~View Design"
-msgstr ""
+msgstr "Dearadh Nua ~Amhairc"
 
 #: toolbox_tmpl.hrc#MID_NEW_TABLE_DESIGN.#define.text
 msgid "New ~Table Design"
@@ -8161,11 +8172,12 @@ msgstr ""
 
 #: query.src#STR_QUERYDESIGN.string.text
 msgid " - %PRODUCTNAME Base: Query Design"
-msgstr " - %PRODUCTNAME Base: Amharc ar Iarratas"
+msgstr " - %PRODUCTNAME Base: Dearadh Iarratais"
 
+# not "Amharc ar an Dearadh" (I don't think)
 #: query.src#STR_VIEWDESIGN.string.text
 msgid " - %PRODUCTNAME Base: View Design"
-msgstr " - %PRODUCTNAME Base: Amharc ar an Dearadh"
+msgstr " - %PRODUCTNAME Base: Dearadh Amhairc"
 
 #: query.src#STR_ERROR_PARSING_STATEMENT.string.text
 msgid "The SQL command which constitutes the query could not be parsed."
@@ -8581,7 +8593,7 @@ msgstr ""
 
 #: table.src#STR_TABLEDESIGN_TITLE.string.text
 msgid " - %PRODUCTNAME Base: Table Design"
-msgstr " - %PRODUCTNAME Base: Dearadh an Tábla"
+msgstr " - %PRODUCTNAME Base: Dearadh Tábla"
 
 #: table.src#STR_TABLEDESIGN_ALTER_ERROR.string.text
 msgid ""
@@ -11163,7 +11175,7 @@ msgstr "Formáidiú"
 
 #: formres.src#RID_STR_CLASSID.string.text
 msgid "Class ID"
-msgstr "Aitheantais ranga"
+msgstr "Aitheantas ranga"
 
 #: formres.src#RID_STR_HEIGHT.string.text
 #: dlgeos2.src#DLG_EXPORT_EMET.FT_SIZEY.fixedtext.text
@@ -28655,7 +28667,7 @@ msgid ""
 "_: Effects.xcu#..Effects.UserInterface.Effects.ooo_entrance_center_revolve."
 "Label.value.text\n"
 "Center Revolve"
-msgstr ""
+msgstr "Imrothlú Lárnach"
 
 #: Effects.xcu#..Effects.UserInterface.Effects.ooo_entrance_fade_in_and_swivel.Label.value.text
 msgid "Fade in and Swivel"
@@ -28850,7 +28862,7 @@ msgstr ""
 
 #: Effects.xcu#..Effects.UserInterface.Effects.ooo_emphasis_bold_reveal.Label.value.text
 msgid "Bold Reveal"
-msgstr ""
+msgstr "Nochtadh Trom"
 
 #: Effects.xcu#..Effects.UserInterface.Effects.ooo_emphasis_wave.Label.value.text
 msgid ""
@@ -29009,7 +29021,7 @@ msgid ""
 "_: Effects.xcu#..Effects.UserInterface.Effects.ooo_exit_center_revolve.Label."
 "value.text\n"
 "Center Revolve"
-msgstr ""
+msgstr "Imrothlú Lárnach"
 
 #: Effects.xcu#..Effects.UserInterface.Effects.ooo_exit_colored_lettering.Label.value.text
 msgid ""
@@ -29306,7 +29318,7 @@ msgstr "Preab Ar Dheis"
 
 #: Effects.xcu#..Effects.UserInterface.Effects.ooo_motionpath_curvy_left.Label.value.text
 msgid "Curvy Left"
-msgstr ""
+msgstr "Cuarach Ar Chlé"
 
 #: Effects.xcu#..Effects.UserInterface.Effects.ooo_motionpath_left.Label.value.text
 msgid ""
@@ -29348,7 +29360,7 @@ msgstr "Buille an chroí"
 
 #: Effects.xcu#..Effects.UserInterface.Effects.ooo_motionpath_curvy_right.Label.value.text
 msgid "Curvy Right"
-msgstr ""
+msgstr "Cuarach Ar Dheis"
 
 #: Effects.xcu#..Effects.UserInterface.Effects.ooo_motionpath_decaying_wave.Label.value.text
 msgid "Decaying Wave"
@@ -29356,11 +29368,11 @@ msgstr "Tonn Meatach"
 
 #: Effects.xcu#..Effects.UserInterface.Effects.ooo_motionpath_diagonal_down_right.Label.value.text
 msgid "Diagonal Down Right"
-msgstr ""
+msgstr "Trasnán Anuas Ar Dheis"
 
 #: Effects.xcu#..Effects.UserInterface.Effects.ooo_motionpath_diagonal_up_right.Label.value.text
 msgid "Diagonal Up Right"
-msgstr ""
+msgstr "Trasnán Aníos Ar Dheis"
 
 #: Effects.xcu#..Effects.UserInterface.Effects.ooo_motionpath_down.Label.value.text
 msgid ""
@@ -29387,7 +29399,7 @@ msgstr "Fill Anuas"
 
 #: Effects.xcu#..Effects.UserInterface.Effects.ooo_motionpath_turn_down_right.Label.value.text
 msgid "Turn Down Right"
-msgstr ""
+msgstr "Cas Anuas Ar Dheis"
 
 #: Effects.xcu#..Effects.UserInterface.Effects.ooo_motionpath_turn_up.Label.value.text
 msgid "Turn Up"
@@ -29395,7 +29407,7 @@ msgstr "Fill Aníos"
 
 #: Effects.xcu#..Effects.UserInterface.Effects.ooo_motionpath_turn_up_right.Label.value.text
 msgid "Turn Up Right"
-msgstr ""
+msgstr "Cas Aníos Ar Dheis"
 
 #: Effects.xcu#..Effects.UserInterface.Effects.ooo_motionpath_up.Label.value.text
 msgid ""
@@ -29594,11 +29606,11 @@ msgstr "Isteach ó lár an scáileáin"
 
 #: Effects.xcu#..Effects.UserInterface.Properties.in_slightly.Label.value.text
 msgid "In slightly"
-msgstr ""
+msgstr "Beagán isteach"
 
 #: Effects.xcu#..Effects.UserInterface.Properties.out_slightly.Label.value.text
 msgid "Out slightly"
-msgstr ""
+msgstr "Beagán amach"
 
 #: Effects.xcu#..Effects.UserInterface.Properties.left_down.Label.value.text
 msgid "Left down"
@@ -41047,7 +41059,7 @@ msgstr ""
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint.1.string.text
 msgid "Returns the accrued interest for a security that pays periodic interest"
-msgstr ""
+msgstr "Aisfhilleann sé an t-ús fabhraithe d'urrús a íocann ús tréimhsiúil"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint.2.string.text
 msgid ""
@@ -41058,11 +41070,11 @@ msgstr "Eisiúint"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint.3.string.text
 msgid "Issue date of the security"
-msgstr ""
+msgstr "Dáta eisiúna an urrúis"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint.4.string.text
 msgid "First interest"
-msgstr ""
+msgstr "An chéad ús"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint.5.string.text
 msgid "First interest date of the security"
@@ -41142,6 +41154,7 @@ msgstr "An bonn"
 msgid ""
 "Returns the accrued interest for a security that pays interest at maturity"
 msgstr ""
+"Aisfhilleann an t-ús fabhraithe d'urrús a íocann ús ar theacht in aibíocht"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrintm.2.string.text
 msgid ""
@@ -41289,7 +41302,7 @@ msgstr "An bonn"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Disc.1.string.text
 msgid "Returns the discount rate for a security"
-msgstr ""
+msgstr "Aisfhilleann sé an ráta lascaine d'urrús"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Disc.2.string.text
 msgid ""
@@ -41366,6 +41379,8 @@ msgid ""
 "Returns the annual Macaulay duration of a security with periodic interest "
 "payments"
 msgstr ""
+"Aisfhilleann sé an mharthanacht Macaulay d'urrús a bhfuil íocaíochtaí "
+"tréimhsiúla úis aige"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Duration.2.string.text
 msgid ""
@@ -41453,7 +41468,7 @@ msgstr "An bonn"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Effect.1.string.text
 msgid "Returns the effective annual interest rate"
-msgstr ""
+msgstr "Aisfhilleann an ráta éifeachtach bliantúil úis"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Effect.2.string.text
 msgid "Nominal rate"
@@ -41568,7 +41583,7 @@ msgstr "An cineál aibíochta"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt.1.string.text
 msgid "Returns the cumulative interest to be paid between two periods"
-msgstr ""
+msgstr "Aisfhilleann sé an t-ús carnach le híoc idir dhá dháta"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt.2.string.text
 msgid ""
@@ -42015,16 +42030,16 @@ msgstr "An bonn"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Nominal.1.string.text
 msgid "Returns the annual nominal interest rate"
-msgstr ""
+msgstr "Aisfhilleann sé an ráta úis ainmniúil bliantúil"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Nominal.2.string.text
 msgid "Effective rate"
-msgstr "Ráta glan"
+msgstr "Ráta éifeachtach"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Nominal.3.string.text
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_NOMINAL.3.string.text
 msgid "The effective interest rate"
-msgstr "An ráta úis éifeachtach."
+msgstr "An ráta éifeachtach úis"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Nominal.4.string.text
 msgid ""
@@ -42081,7 +42096,7 @@ msgstr "Dollar codánach"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dollarde.3.string.text
 msgid "The number as a fraction"
-msgstr ""
+msgstr "An uimhir mar chodán"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dollarde.4.string.text
 msgid ""
@@ -42099,7 +42114,7 @@ msgstr "An roinnteoir"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield.1.string.text
 msgid "Returns the yield on a security that pays periodic interest"
-msgstr ""
+msgstr "Aisfhilleann sé an toradh d'urrús a íocann ús tréimhsiúil"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield.2.string.text
 msgid ""
@@ -42201,7 +42216,7 @@ msgstr "An bonn"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yielddisc.1.string.text
 msgid "Returns the annual yield for a discounted security"
-msgstr ""
+msgstr "Aisfhilleann sé an toradh bliantúil d'urrús lascainithe"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yielddisc.2.string.text
 msgid ""
@@ -42455,7 +42470,7 @@ msgstr "Ráta lascaine"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillyield.1.string.text
 msgid "Returns the yield for a treasury bill"
-msgstr ""
+msgstr "Aisfhilleann toradh bille státchiste"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillyield.2.string.text
 msgid ""
@@ -43032,7 +43047,7 @@ msgstr "Buille Faoi Thuairim"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Xirr.7.string.text
 msgid "The guess"
-msgstr ""
+msgstr "Buille faoi thuairim"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Xnpv.1.string.text
 msgid "Returns the net present value for a non-periodic schedule of payments"
@@ -43156,7 +43171,7 @@ msgstr "An bonn"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupncd.1.string.text
 msgid "Returns the first coupon date after the settlement date"
-msgstr ""
+msgstr "Aisfhilleann sé an chéad dáta cúpóin tar éis an dáta socraíochta"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupncd.2.string.text
 msgid ""
@@ -43219,6 +43234,8 @@ msgid ""
 "Returns the number of days in the coupon period containing the settlement "
 "date"
 msgstr ""
+"Aisfhilleann sé líon na laethanta sa tréimhse cúpóin ina bhfuil an dáta "
+"socraíochta"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdays.2.string.text
 msgid ""
@@ -43280,6 +43297,8 @@ msgstr "An bonn"
 msgid ""
 "Returns the number of days from the settlement date to the next coupon date"
 msgstr ""
+"Aisfhilleann líon na laethanta ón dáta socraíochta go dtí an chéad dáta "
+"cúpóin eile"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaysnc.2.string.text
 msgid ""
@@ -43342,6 +43361,8 @@ msgid ""
 "Returns the number of days from the beginning of the coupon period to the "
 "settlement date"
 msgstr ""
+"Aisfhilleann sé líon na laethanta ó thús na tréimhse cúpóin go dtí an dáta "
+"socraíochta"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaybs.2.string.text
 msgid ""
@@ -43401,7 +43422,7 @@ msgstr "An bonn"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Couppcd.1.string.text
 msgid "Returns the last coupon date preceding the settlement date"
-msgstr ""
+msgstr "Aisfhilleann sé an dáta deiridh cúpóin roimh an dáta socraíochta"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Couppcd.2.string.text
 msgid ""
@@ -43928,7 +43949,7 @@ msgstr "FACTDOUBLE"
 
 #: datefunc.src#RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DiffWeeks.1.string.text
 msgid "Calculates the number of weeks in a specific period"
-msgstr ""
+msgstr "Áiríonn sé líon na seachtainí i dtréimhse sonraithe"
 
 #: datefunc.src#RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DiffWeeks.2.string.text
 msgid ""
@@ -43973,7 +43994,7 @@ msgstr ""
 
 #: datefunc.src#RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DiffMonths.1.string.text
 msgid "Determines the number of months in a specific period."
-msgstr ""
+msgstr "Áiríonn sé líon na míonna i dtréimhse sonraithe."
 
 #: datefunc.src#RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DiffMonths.2.string.text
 msgid ""
@@ -44012,7 +44033,7 @@ msgstr ""
 
 #: datefunc.src#RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DiffYears.1.string.text
 msgid "Calculates the number of years in a specific period."
-msgstr ""
+msgstr "Áiríonn sé líon na mblianta i dtréimhse sonraithe."
 
 #: datefunc.src#RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DiffYears.2.string.text
 msgid ""
@@ -44077,7 +44098,7 @@ msgstr "Lá ar bith sa bhliain sainithe"
 #: datefunc.src#RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DaysInMonth.1.string.text
 msgid ""
 "Returns the number of days of the month in which the date entered occurs"
-msgstr ""
+msgstr "Aisfhilleann líon na laethanta sa mhí ina bhfuil an dáta a iontráladh"
 
 #: datefunc.src#RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DaysInMonth.2.string.text
 msgid ""
@@ -44088,12 +44109,13 @@ msgstr "Dáta"
 
 #: datefunc.src#RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DaysInMonth.3.string.text
 msgid "Any day in the desired month"
-msgstr ""
+msgstr "Lá ar bith sa mhí sainithe"
 
 #: datefunc.src#RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DaysInYear.1.string.text
 msgid ""
 "Returns the number of days of the year in which the date entered occurs."
 msgstr ""
+"Aisfhilleann sé líon na laethanta sa bhliain ina bhfuil an dáta a iontráladh."
 
 #: datefunc.src#RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DaysInYear.2.string.text
 msgid ""
@@ -44113,6 +44135,7 @@ msgstr "Lá ar bith sa bhliain sainithe"
 msgid ""
 "Returns the number of weeks of the year in which the date entered occurs"
 msgstr ""
+"Aisfhilleann sé líon na seachtainí sa bhliain ina bhfuil an dáta a iontráladh"
 
 #: datefunc.src#RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_WeeksInYear.2.string.text
 msgid ""
@@ -44130,11 +44153,11 @@ msgstr "Lá ar bith sa bhliain sainithe"
 
 #: datefunc.src#RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_Rot13.1.string.text
 msgid "Encrypts or decrypts a text using the ROT13 algorithm"
-msgstr ""
+msgstr "Criptigh nó díchriptigh téacs leis an algartam ROT13"
 
 #: datefunc.src#RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_Rot13.3.string.text
 msgid "Text to be encrypted or text already encrypted"
-msgstr ""
+msgstr "Téacs le criptiú nó téacs le díchriptiú"
 
 #: datefunc.src#RID_DATE_FUNCTION_NAMES.DATE_FUNCNAME_DiffWeeks.string.text
 msgid "WEEKS"
@@ -45211,7 +45234,7 @@ msgstr ""
 msgid ""
 "_: attrib3.src#TP_ALIGNMENT.RBT_DOWNUP.radiobutton.text\n"
 "Stagger ~even"
-msgstr ""
+msgstr "Scaip na ~cinn cothroma óna chéile"
 
 #: attrib3.src#TP_ALIGNMENT.RBT_AUTOORDER.radiobutton.text
 msgid ""
@@ -45853,7 +45876,7 @@ msgstr "~Tíl"
 msgid ""
 "_: tplabel.src#TP_AXIS_LABEL.RB_AXIS_LABEL_DOWNUP.radiobutton.text\n"
 "Stagger ~even"
-msgstr ""
+msgstr "Scaip na ~cinn cothroma óna chéile"
 
 #: tplabel.src#TP_AXIS_LABEL.RB_AXIS_LABEL_AUTOORDER.radiobutton.text
 msgid ""
@@ -56361,7 +56384,7 @@ msgstr "Tréimhsí. An méid íocaíochtaí úis in aghaidh na bliana."
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_NOMINAL.1.string.text
 msgid ""
 "Calculates the yearly nominal interest rate as an effective interest rate."
-msgstr "Áiríonn sé an ráta úis ainmniúil bliantúil mar ráta úis éifeachtach."
+msgstr "Áiríonn sé an ráta úis ainmniúil bliantúil mar ráta éifeachtach úis."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_NOMINAL.2.string.text
 msgid "effect_rate"
@@ -57237,7 +57260,7 @@ msgstr "Luach idir -1 agus 1 le arc síneas le haisfhilleadh aige."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_ARC_COS_HYP.1.string.text
 msgid "Returns the inverse hyperbolic cosine of a number."
-msgstr ""
+msgstr "Aisfhilleann sé an comhshíneas hipearbóileach inbhéartach d'uimhir."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_ARC_COS_HYP.2.string.text
 msgid ""
@@ -57254,7 +57277,7 @@ msgstr ""
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_ARC_SIN_HYP.1.string.text
 msgid "Returns the inverse hyperbolic sine of a number."
-msgstr ""
+msgstr "Aisfhilleann sé an síneas hipearbóileach inbhéartach d'uimhir."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_ARC_SIN_HYP.2.string.text
 msgid ""
@@ -73299,7 +73322,7 @@ msgstr "Fréamh N-ú"
 
 #: smres.src#RID_TOOLBOXWINDOW.4.RID_SINHX.toolboxitem.text
 msgid "Hyperbolic Sine"
-msgstr "Sín Hipearbóileach"
+msgstr "Síneas Hipearbóileach"
 
 #: smres.src#RID_TOOLBOXWINDOW.4.RID_COSHX.toolboxitem.text
 msgid "Hyperbolic Cosine"
@@ -73319,7 +73342,7 @@ msgstr "Luach Uimhriúil"
 
 #: smres.src#RID_TOOLBOXWINDOW.4.RID_ARSINHX.toolboxitem.text
 msgid "Area Hyperbolic Sine"
-msgstr "Sín Hipearbóileach Inbhéartach"
+msgstr "Síneas Hipearbóileach Inbhéartach"
 
 #: smres.src#RID_TOOLBOXWINDOW.4.RID_ARCOSHX.toolboxitem.text
 msgid "Area Hyperbolic Cosine"
