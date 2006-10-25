@@ -1,12 +1,12 @@
 # OOo pot file for Irish.
-#   CURRENT VERSION = SRC680_m188
+#   CURRENT VERSION = SRC680_m189
 # First version produced Sept. 2004 by Kevin Scannell using the oo2po
 # scripts by David Fraser et al
 msgid ""
 msgstr ""
 "Project-Id-Version: OOo\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-10-15 20:55+0200\n"
+"POT-Creation-Date: 2006-10-20 11:12+0200\n"
 "PO-Revision-Date: 2006-10-18 16:30-0000\n"
 "Last-Translator: Pat Folan <pat.folan@gmit.ie>\n"
 "Language-Team: \n"
@@ -46909,7 +46909,7 @@ msgid "SIGN"
 msgstr "SIGN"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_ABS.string.text
-#: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_ADRESS.6.string.text
+#: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_ADDRESS.6.string.text
 msgid "ABS"
 msgstr "ABS"
 
@@ -47416,7 +47416,7 @@ msgstr "DVARP"
 msgid "INDIRECT"
 msgstr "INDIRECT"
 
-#: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_ADRESS.string.text
+#: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_ADDRESS.string.text
 msgid "ADDRESS"
 msgstr "ADDRESS"
 
@@ -52366,6 +52366,10 @@ msgstr "Folaigh bileog"
 #: globstr.src#RID_GLOBSTR.STR_UNDO_TAB_RTL.string.text
 msgid "Flip sheet"
 msgstr "Smeach an bhileog"
+
+#: globstr.src#RID_GLOBSTR.STR_UNDO_TAB_R1C1.string.text
+msgid "Toggle the use of R1C1 notation"
+msgstr ""
 
 #: globstr.src#RID_GLOBSTR.STR_CHART_MAINTITLE.string.text
 #: strings.src#STR_CHART_MAINTITLE.string.text
@@ -60760,39 +60764,41 @@ msgid ""
 "The X data array."
 msgstr "Eagar sonraí X."
 
-#: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_ADRESS.1.string.text
+#: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_ADDRESS.1.string.text
 msgid "Returns the reference to a cell as text."
 msgstr ""
 
-#: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_ADRESS.2.string.text
+#: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_ADDRESS.2.string.text
 msgid ""
-"_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_ADRESS.2.string.text\n"
+"_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_ADDRESS.2.string."
+"text\n"
 "row"
 msgstr "ró"
 
-#: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_ADRESS.3.string.text
+#: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_ADDRESS.3.string.text
 msgid "The row number of the cell."
 msgstr ""
 
-#: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_ADRESS.4.string.text
+#: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_ADDRESS.4.string.text
 msgid ""
-"_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_ADRESS.4.string.text\n"
+"_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_ADDRESS.4.string."
+"text\n"
 "column"
 msgstr "colún"
 
-#: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_ADRESS.5.string.text
+#: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_ADDRESS.5.string.text
 msgid "The column number of the cell."
 msgstr ""
 
-#: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_ADRESS.7.string.text
+#: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_ADDRESS.7.string.text
 msgid "Specifies whether absolute or relative referencing is to be used."
 msgstr ""
 
-#: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_ADRESS.8.string.text
+#: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_ADDRESS.8.string.text
 msgid "sheet"
 msgstr "bileog"
 
-#: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_ADRESS.9.string.text
+#: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_ADDRESS.9.string.text
 msgid "The spreadsheet name of the cell reference."
 msgstr ""
 
