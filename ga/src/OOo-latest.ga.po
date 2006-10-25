@@ -66645,7 +66645,7 @@ msgstr "Seinn fuaim"
 
 #: strings.src#STR_CLICK_ACTION_VERB.string.text
 msgid "Start object action"
-msgstr ""
+msgstr "Tosaigh an gníomh réada"
 
 #: strings.src#STR_CLICK_ACTION_PROGRAM.string.text
 msgid "Run program"
@@ -66718,67 +66718,67 @@ msgstr "Céimnigh Ón Lár"
 
 #: strings.src#STR_EFFECT_DISCARD_FROM_L.string.text
 msgid "Fly In From Left"
-msgstr "Eitil Isteach Ó Chlé"
+msgstr "Eitilt Isteach Ó Chlé"
 
 #: strings.src#STR_EFFECT_DISCARD_FROM_UL.string.text
 msgid "Fly In From Top Left"
-msgstr "Eitil Isteach Ón mBarr ar Chlé"
+msgstr "Eitilt Isteach Ón mBarr ar Chlé"
 
 #: strings.src#STR_EFFECT_DISCARD_FROM_T.string.text
 msgid "Fly In From Top"
-msgstr "Eitil Isteach Ón mBarr"
+msgstr "Eitilt Isteach Ón mBarr"
 
 #: strings.src#STR_EFFECT_DISCARD_FROM_UR.string.text
 msgid "Fly In From Upper Right"
-msgstr "Eitil Isteach Ón mBarr ar Dheis"
+msgstr "Eitilt Isteach Ón mBarr ar Dheis"
 
 #: strings.src#STR_EFFECT_DISCARD_FROM_R.string.text
 msgid "Fly In From Right"
-msgstr "Eitil Isteach Ó Dheis"
+msgstr "Eitilt Isteach Ó Dheis"
 
 #: strings.src#STR_EFFECT_DISCARD_FROM_LR.string.text
 msgid "Fly In From Lower Right"
-msgstr "Eitil Isteach Ón mBun ar Dheis"
+msgstr "Eitilt Isteach Ón mBun ar Dheis"
 
 #: strings.src#STR_EFFECT_DISCARD_FROM_B.string.text
 msgid "Fly In From Bottom"
-msgstr "Eitil Isteach Ón Bhun"
+msgstr "Eitilt Isteach Ón Bhun"
 
 #: strings.src#STR_EFFECT_DISCARD_FROM_LL.string.text
 msgid "Fly In From Lower Left"
-msgstr "Eitil Isteach Ón mBun ar Chlé"
+msgstr "Eitilt Isteach Ón mBun ar Chlé"
 
 #: strings.src#STR_EFFECT_DISCARD_S_FROM_L.string.text
 msgid "Short Fly In From Left"
-msgstr ""
+msgstr "Eitilt Ghairid Isteach Ó Chlé"
 
 #: strings.src#STR_EFFECT_DISCARD_S_FROM_UL.string.text
 msgid "Short Fly In From Upper Left"
-msgstr ""
+msgstr "Eitilt Ghairid Isteach Ón mBarr ar Chlé"
 
 #: strings.src#STR_EFFECT_DISCARD_S_FROM_T.string.text
 msgid "Short Fly In From Top"
-msgstr ""
+msgstr "Eitilt Ghairid Isteach Ón mBarr"
 
 #: strings.src#STR_EFFECT_DISCARD_S_FROM_UR.string.text
 msgid "Short Fly In From Upper Right"
-msgstr ""
+msgstr "Eitilt Ghairid Isteach Ón mBarr ar Dheis"
 
 #: strings.src#STR_EFFECT_DISCARD_S_FROM_R.string.text
 msgid "Short Fly In From Right"
-msgstr ""
+msgstr "Eitilt Ghairid Isteach Ó Dheis"
 
 #: strings.src#STR_EFFECT_DISCARD_S_FROM_LR.string.text
 msgid "Short Fly In From Lower Right"
-msgstr ""
+msgstr "Eitilt Ghairid Isteach Ón mBun ar Dheis"
 
 #: strings.src#STR_EFFECT_DISCARD_S_FROM_B.string.text
 msgid "Short Fly In From Bottom"
-msgstr ""
+msgstr "Eitilt Ghairid Isteach Ón Bhun"
 
 #: strings.src#STR_EFFECT_DISCARD_S_FROM_LL.string.text
 msgid "Short Fly In From Lower Left"
-msgstr ""
+msgstr "Eitilt Ghairid Isteach Ón mBun ar Chlé"
 
 #: strings.src#STR_EFFECT_VERTICAL_STRIPES.string.text
 msgid "Fade Vertically"
@@ -66878,7 +66878,7 @@ msgstr "Oscail Go Cothrománach"
 
 #: strings.src#STR_EFFECT_PATH.string.text
 msgid "Move Along Curve"
-msgstr ""
+msgstr "Bog Ar Feadh Cuair"
 
 #: strings.src#STR_EFFECT_UNCOVER.string.text
 msgid "Uncover"
@@ -66886,11 +66886,11 @@ msgstr "Nocht"
 
 #: strings.src#STR_EFFECT_UNCOVER_TO_L.string.text
 msgid "Uncover To Left"
-msgstr ""
+msgstr "Nocht Ar Chlé"
 
 #: strings.src#STR_EFFECT_UNCOVER_TO_UL.string.text
 msgid "Uncover To Upper Left"
-msgstr ""
+msgstr "Nocht go dtí an Barr ar Chlé"
 
 #: strings.src#STR_EFFECT_UNCOVER_TO_T.string.text
 msgid "Uncover Upwards"
@@ -66898,15 +66898,15 @@ msgstr "Nocht Aníos"
 
 #: strings.src#STR_EFFECT_UNCOVER_TO_UR.string.text
 msgid "Uncover To Upper Right"
-msgstr ""
+msgstr "Nocht go dtí an Barr ar Dheis"
 
 #: strings.src#STR_EFFECT_UNCOVER_TO_R.string.text
 msgid "Uncover To Right"
-msgstr ""
+msgstr "Nocht Ar Dheis"
 
 #: strings.src#STR_EFFECT_UNCOVER_TO_LR.string.text
 msgid "Uncover To Lower Right"
-msgstr ""
+msgstr "Nocht go dtí an Bun ar dheis"
 
 #: strings.src#STR_EFFECT_UNCOVER_TO_B.string.text
 msgid "Uncover Downwards"
@@ -66914,11 +66914,11 @@ msgstr "Nocht Anuas"
 
 #: strings.src#STR_EFFECT_UNCOVER_TO_LL.string.text
 msgid "Uncover To Lower Left"
-msgstr ""
+msgstr "Nocht go dtí an Bun ar Chlé"
 
 #: strings.src#STR_EFFECT_MOVE_TO_L.string.text
 msgid "Fly Out Left"
-msgstr ""
+msgstr "Eitilt Amach Ar Chlé"
 
 #: strings.src#STR_EFFECT_MOVE_TO_UL.string.text
 msgid "Fly Out Upper Left"
@@ -97217,7 +97217,7 @@ msgstr "Dialóg na Réimsí"
 
 #: swslots.src#FN_INSERT_FLD_AUTHOR.sfxslotinfo.text
 msgid "Insert Author Field"
-msgstr ""
+msgstr "Ionsáigh Réimse Údair"
 
 #: swslots.src#FN_INSERT_FLD_DATE.sfxslotinfo.text
 msgid "Insert Date"
@@ -97267,7 +97267,7 @@ msgstr "Ionsáigh Rialóir Cothrománach"
 
 #: swslots.src#FN_INSERT_IDX_ENTRY_DLG.sfxslotinfo.text
 msgid "Insert Index Marker"
-msgstr ""
+msgstr "Ionsáigh Marcálaí Innéacs"
 
 #: swslots.src#FN_INSERT_REF_FIELD.sfxslotinfo.text
 msgid "Insert Field Reference"
@@ -97467,11 +97467,11 @@ msgstr "Sórtáil"
 
 #: swslots.src#FN_START_OF_DOCUMENT.sfxslotinfo.text
 msgid "To Document Begin"
-msgstr ""
+msgstr "Go Tús na Cáipéise"
 
 #: swslots.src#FN_START_OF_DOCUMENT_SEL.sfxslotinfo.text
 msgid "Select to Document Begin"
-msgstr ""
+msgstr "Roghnaigh go Tús na Cáipéise"
 
 #: swslots.src#FN_STAT_PAGE.sfxslotinfo.text
 msgid ""
@@ -97485,11 +97485,11 @@ msgstr "Mód an Roghnaithe"
 
 #: swslots.src#FN_TABLE_BALANCE_CELLS.sfxslotinfo.text
 msgid "Space Columns Equally"
-msgstr ""
+msgstr "Spásáil Colúin Go Cothrom"
 
 #: swslots.src#FN_TABLE_BALANCE_ROWS.sfxslotinfo.text
 msgid "Space Rows Equally "
-msgstr ""
+msgstr "Spásáil Rónna Go Cothrom"
 
 #: swslots.src#FN_TABLE_DELETE_ROW.sfxslotinfo.text
 msgid ""
@@ -97504,15 +97504,15 @@ msgstr "Cumaisc Cealla"
 
 #: swslots.src#FN_FORMAT_APPLY_HEAD1.sfxslotinfo.text
 msgid "Apply Style Heading 1"
-msgstr ""
+msgstr "Cuir Stíl i bhFeidhm: Ceannteideal 1"
 
 #: swslots.src#FN_FORMAT_APPLY_HEAD2.sfxslotinfo.text
 msgid "Apply Style Heading 2"
-msgstr ""
+msgstr "Cuir Stíl i bhFeidhm: Ceannteideal 2"
 
 #: swslots.src#FN_FORMAT_APPLY_HEAD3.sfxslotinfo.text
 msgid "Apply Style Heading 3"
-msgstr ""
+msgstr "Cuir Stíl i bhFeidhm: Ceannteideal 3"
 
 #: swslots.src#FN_FORMAT_APPLY_DEFAULT.sfxslotinfo.text
 msgid "Apply Style Default"
@@ -97520,7 +97520,7 @@ msgstr "Cuir an Stíl Réamhshocraithe i bhFeidhm"
 
 #: swslots.src#FN_FORMAT_APPLY_TEXTBODY.sfxslotinfo.text
 msgid "Apply Style Textbody"
-msgstr ""
+msgstr "Cuir Stíl i bhFeidhm: Príomhthéacs"
 
 #: swslots.src#FN_TABLE_SELECT_COL.sfxslotinfo.text
 msgid "Select Column"
@@ -97557,7 +97557,7 @@ msgstr "Nuashonraigh Innéacsanna"
 
 #: swslots.src#FN_VIEW_BOUNDS.sfxslotinfo.text
 msgid "Text Limits"
-msgstr ""
+msgstr "Teorainneacha Téacs"
 
 #: swslots.src#FN_VIEW_FIELDNAME.sfxslotinfo.text
 msgid "Field Names On/Off"
@@ -97583,7 +97583,7 @@ msgstr "Carachtair Neamhphriontála  Ann/As"
 
 #: swslots.src#FN_VIEW_TABLEGRID.sfxslotinfo.text
 msgid "Table Limits"
-msgstr ""
+msgstr "Teorainneacha Tábla"
 
 #: swslots.src#SID_ATTR_CHAR_COLOR2.sfxslotinfo.text
 msgid "Font Color"
@@ -97618,7 +97618,7 @@ msgstr "Dún an Réamhamharc"
 
 #: swslots.src#FN_TABLE_ROW_SPLIT.sfxslotinfo.text
 msgid "Break across page and columns"
-msgstr ""
+msgstr "Bris thar leathanaigh agus colúin"
 
 #: swslots.src#FN_WORDCOUNT_DIALOG.sfxslotinfo.text
 #: wordcountdialog.src#DLG_WORDCOUNT.modaldialog.text
@@ -99338,6 +99338,9 @@ msgid ""
 "Page numbers cannot be applied to the current page.  Even numbers can be "
 "used on left pages, odd numbers on right pages."
 msgstr ""
+"Ní féidir uimhreacha leathanaigh a chur i bhfeidhm ar an leathanach reatha. "
+"Is féidir uimhreacha cothroma a úsáid ar leathanaigh ar chlé, uimhreacha "
+"corra ar leathanaigh ar dheis."
 
 #: drpcps.src#DLG_DROPCAPS.1.TP_DROPCAPS.pageitem.text
 msgid ""
@@ -100803,7 +100806,7 @@ msgstr "-"
 
 #: mmaddressblockpage.src#DLG_MM_ADDRESSBLOCK_PAGE.IB_PREVSET.imagebutton.quickhelptext
 msgid "Preview Previous Address Block"
-msgstr ""
+msgstr "Réamhamharc ar an mBloc Seoltaí Roimhe Seo"
 
 #: mmaddressblockpage.src#DLG_MM_ADDRESSBLOCK_PAGE.IB_NEXTSET.imagebutton.text
 msgid ""
@@ -100814,7 +100817,7 @@ msgstr "-"
 
 #: mmaddressblockpage.src#DLG_MM_ADDRESSBLOCK_PAGE.IB_NEXTSET.imagebutton.quickhelptext
 msgid "Preview Next Address Block"
-msgstr ""
+msgstr "Réamhamharc ar an chéad Bhloc Seoltaí Eile"
 
 #: mmaddressblockpage.src#DLG_MM_ADDRESSBLOCK_PAGE.STR_DOCUMENT.string.text
 msgid ""
@@ -101046,7 +101049,7 @@ msgstr "Meaitseáil Réimsí"
 
 #: mmdocselectpage.src#DLG_MM_DOCSELECT_PAGE.FI_HEADER.fixedtext.text
 msgid "Select starting document for the mail merge"
-msgstr ""
+msgstr "Roghnaigh cáipéis tosaigh le haghaidh postchumaisc"
 
 #: mmdocselectpage.src#DLG_MM_DOCSELECT_PAGE.FT_HOWTO.fixedtext.text
 msgid "Select the document upon which to base the mail merge document"
@@ -101054,15 +101057,15 @@ msgstr ""
 
 #: mmdocselectpage.src#DLG_MM_DOCSELECT_PAGE.RB_CURRENTDOC.radiobutton.text
 msgid "Use the current ~document"
-msgstr ""
+msgstr "Úsáid an ~cháipéis reatha"
 
 #: mmdocselectpage.src#DLG_MM_DOCSELECT_PAGE.RB_NEWDOC.radiobutton.text
 msgid "Create a ne~w document"
-msgstr ""
+msgstr "Cruthaigh cáipéis ~nua"
 
 #: mmdocselectpage.src#DLG_MM_DOCSELECT_PAGE.RB_LOADDOC.radiobutton.text
 msgid "Start from ~existing document"
-msgstr ""
+msgstr "Tosaigh le cáipéis atá ~ann"
 
 #: mmdocselectpage.src#DLG_MM_DOCSELECT_PAGE.PB_LOADDOC.pushbutton.text
 msgid ""
@@ -101072,7 +101075,7 @@ msgstr "B~rabhsáil..."
 
 #: mmdocselectpage.src#DLG_MM_DOCSELECT_PAGE.RB_LOADTEMPLATE.radiobutton.text
 msgid "Start from a t~emplate"
-msgstr ""
+msgstr "Tosaigh le t~eimpléad"
 
 #: mmdocselectpage.src#DLG_MM_DOCSELECT_PAGE.PB_BROWSETEMPLATE.pushbutton.text
 msgid ""
@@ -101083,7 +101086,7 @@ msgstr "B~rabhsáil..."
 
 #: mmdocselectpage.src#DLG_MM_DOCSELECT_PAGE.RB_RECENTDOC.radiobutton.text
 msgid "Start fro~m a recently saved starting document"
-msgstr ""
+msgstr "Tosaigh le cáipéis a ~sábháladh le déanaí"
 
 #: mmgreetingspage.src#GREETINGS_BODY.CB_PERSONALIZED.checkbox.text
 msgid "Insert personalized salutation"
@@ -106347,11 +106350,11 @@ msgstr ""
 
 #: shells.src#RID_TABLE_TOOLBOX.string.text
 msgid "Table Object Bar"
-msgstr ""
+msgstr "Barra Réada Tábla"
 
 #: shells.src#RID_FRAME_TOOLBOX.string.text
 msgid "Frame Object Bar"
-msgstr ""
+msgstr "Barra Réada Fráma"
 
 #: shells.src#RID_OLE_TOOLBOX.string.text
 msgid ""
@@ -106599,7 +106602,7 @@ msgstr "Cea~ngail leis an chéad tábla eile"
 
 #: rowht.src#DLG_ROW_HEIGHT.CB_AUTOHEIGHT.checkbox.text
 msgid "~Fit to size"
-msgstr ""
+msgstr "~Oiriúnaigh go dtí an mhéid"
 
 #: split.src#DLG_SPLIT.FT_COUNT.fixedtext.text
 msgid "~Split cell into"
@@ -107035,7 +107038,7 @@ msgstr "ag an mbun"
 
 #: attrdesc.src#STR_LINE_CENTER.string.text
 msgid "Line centered"
-msgstr ""
+msgstr "Líne láraithe"
 
 #: attrdesc.src#STR_REGISTER_OFF.string.text
 msgid "Not register-true"
@@ -108130,7 +108133,7 @@ msgstr "Téacs Réamhfhormáidithe"
 
 #: poolfmt.src#STR_POOLCOLL_HTML_DD.string.text
 msgid "List Contents"
-msgstr ""
+msgstr "Inneachar an Liosta"
 
 #: poolfmt.src#STR_POOLCOLL_HTML_DT.string.text
 msgid "List Heading"
@@ -108627,7 +108630,7 @@ msgstr "Roghnú Scagaire"
 
 #: ids.src#RID_UUI_ERRHDL._ERRCODE_UUI_IO_ABORT___ERRCODE_RES_MASK_.string.text
 msgid "The operation executed on $(ARG1) was aborted."
-msgstr ""
+msgstr "Rinneadh tobscor ar an oibríocht a ritheadh ar $(ARG1)."
 
 #: ids.src#RID_UUI_ERRHDL._ERRCODE_UUI_IO_ACCESSDENIED___ERRCODE_RES_MASK_.string.text
 msgid "Access to $(ARG1) was denied."
@@ -108666,11 +108669,11 @@ msgstr "Níorbh fhéidir na sonraí ó $(ARG1) a léamh."
 
 #: ids.src#RID_UUI_ERRHDL._ERRCODE_UUI_IO_CANTSEEK___ERRCODE_RES_MASK_.string.text
 msgid "The seek operation on $(ARG1) could not be performed."
-msgstr ""
+msgstr "Níorbh fhéidir an oibríocht 'seek' a dhéanamh ar $(ARG1)."
 
 #: ids.src#RID_UUI_ERRHDL._ERRCODE_UUI_IO_CANTTELL___ERRCODE_RES_MASK_.string.text
 msgid "The tell operation on $(ARG1) could not be performed."
-msgstr ""
+msgstr "Níorbh fhéidir an oibríocht 'tell' a dhéanamh ar $(ARG1)."
 
 #: ids.src#RID_UUI_ERRHDL._ERRCODE_UUI_IO_CANTWRITE___ERRCODE_RES_MASK_.string.text
 msgid "Data for $(ARG1) could not be written."
@@ -108702,7 +108705,7 @@ msgstr "Tá carachtair neamhbhailí i $(ARG1)."
 
 #: ids.src#RID_UUI_ERRHDL._ERRCODE_UUI_IO_INVALIDDEVICE___ERRCODE_RES_MASK_.string.text
 msgid "The device (drive) $(ARG1) is invalid."
-msgstr ""
+msgstr "Tá gléas (tiomántán) $(ARG1) neamhbhailí."
 
 #: ids.src#RID_UUI_ERRHDL._ERRCODE_UUI_IO_INVALIDLENGTH___ERRCODE_RES_MASK_.string.text
 msgid "The data from $(ARG1) has an invalid length."
@@ -108710,7 +108713,7 @@ msgstr "Tá fad neamhbhailí sna sonraí ó $(ARG1)."
 
 #: ids.src#RID_UUI_ERRHDL._ERRCODE_UUI_IO_INVALIDPARAMETER___ERRCODE_RES_MASK_.string.text
 msgid "The operation on $(ARG1) was started with an invalid parameter."
-msgstr ""
+msgstr "Tosaíodh an oibríocht ar $(ARG1) le paraiméadar neamhbhailí."
 
 #: ids.src#RID_UUI_ERRHDL._ERRCODE_UUI_IO_ISWILDCARD___ERRCODE_RES_MASK_.string.text
 msgid "The operation cannot be performed because $(ARG1) contains wildcards."
@@ -108722,7 +108725,7 @@ msgstr "Earráid le linn comhrochtana ar $(ARG1)."
 
 #: ids.src#RID_UUI_ERRHDL._ERRCODE_UUI_IO_MISPLACEDCHAR___ERRCODE_RES_MASK_.string.text
 msgid "$(ARG1) contains misplaced characters."
-msgstr ""
+msgstr "Tá carachtair as áit i $(ARG1)."
 
 #: ids.src#RID_UUI_ERRHDL._ERRCODE_UUI_IO_NAMETOOLONG___ERRCODE_RES_MASK_.string.text
 msgid "The name $(ARG1) contains too many characters."
@@ -108765,6 +108768,8 @@ msgstr ""
 #: ids.src#RID_UUI_ERRHDL._ERRCODE_UUI_IO_PENDING___ERRCODE_RES_MASK_.string.text
 msgid "The operation on $(ARG1) cannot continue because more data is pending."
 msgstr ""
+"Ní féidir leanúint ar aghaidh leis an oibríocht ar $(ARG1): ag feitheamh le "
+"tuilleadh sonraí."
 
 #: ids.src#RID_UUI_ERRHDL._ERRCODE_UUI_IO_RECURSIVE___ERRCODE_RES_MASK_.string.text
 msgid "$(ARG1) cannot be copied into itself."
@@ -108807,20 +108812,24 @@ msgid ""
 "The installed Java version is not supported, at least version $(ARG1) is "
 "required."
 msgstr ""
+"Ní thacaítear leis an leagan suiteáilte Java; leagan $(ARG1) de dhíth ar a "
+"laghad."
 
 #: ids.src#RID_UUI_ERRHDL._ERRCODE_UUI_WRONGJAVA_VERSION_MIN___ERRCODE_RES_MASK_.string.text
 msgid ""
 "The installed Java version $(ARG1) is not supported, at least version "
 "$(ARG2) is required."
 msgstr ""
+"Ní thacaítear leis an leagan suiteáilte Java $(ARG1); leagan $(ARG1) de "
+"dhíth ar a laghad."
 
 #: ids.src#RID_UUI_ERRHDL._ERRCODE_UUI_BADPARTNERSHIP___ERRCODE_RES_MASK_.string.text
 msgid "The data associated with the partnership is corrupted."
-msgstr ""
+msgstr "Tá na sonraí a bhaineann leis an gcomhpháirtíocht truaillithe."
 
 #: ids.src#RID_UUI_ERRHDL._ERRCODE_UUI_BADPARTNERSHIP_NAME___ERRCODE_RES_MASK_.string.text
 msgid "The data associated with the partnership $(ARG1) is corrupted."
-msgstr ""
+msgstr "Tá na sonraí a bhaineann leis an gcomhpháirtíocht $(ARG1) truaillithe."
 
 #: ids.src#RID_UUI_ERRHDL._ERRCODE_UUI_IO_NOTREADY_VOLUME___ERRCODE_RES_MASK_.string.text
 msgid "Volume $(ARG1) is not ready."
@@ -112572,7 +112581,7 @@ msgstr "SAM"
 
 #: schedule.src#dlgTime.string.text
 msgid "Time Frame"
-msgstr ""
+msgstr "Teorainn Ama"
 
 #: schedule.src#dlgYear.string.text
 msgid ""
