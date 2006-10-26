@@ -30083,7 +30083,7 @@ msgstr "Ai~líniú..."
 
 #: MathCommands.xcu#..MathCommands.UserInterface.Commands..uno_RedrawAutomatic.Label.value.text
 msgid "~AutoUpdate Display"
-msgstr ""
+msgstr "Nu~ashonraigh an Scáileán go hUathoibríoch"
 
 #: MathCommands.xcu#..MathCommands.UserInterface.Commands..uno_Textmode.Label.value.text
 msgid "~Text Mode"
@@ -30334,7 +30334,7 @@ msgstr "Cruth Fontwork"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_FontworkSameLetterHeights.Label.value.text
 msgid "Fontwork Same Letter Heights"
-msgstr ""
+msgstr "Comhairde Litreach Fontwork"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_FontworkAlignmentFloater.Label.value.text
 #: fontworkgallery.src#RID_SVXFLOAT_FONTWORK_ALIGNMENT.floatingwindow.text
@@ -30615,7 +30615,7 @@ msgstr "Saighead Síos"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_ArrowShapes.left_right_arrow.Label.value.text
 msgid "Left and Right Arrow"
-msgstr ""
+msgstr "Saighead Déthreo"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_ArrowShapes.up_down_arrow.Label.value.text
 msgid "Up and Down Arrow"
@@ -30623,11 +30623,11 @@ msgstr "Saighead Suas agus Síos"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_ArrowShapes.up_right_arrow.Label.value.text
 msgid "Up and Right Arrow"
-msgstr ""
+msgstr "Saighead Suas agus Ar Dheis"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_ArrowShapes.up_right_down_arrow.Label.value.text
 msgid "Up, Right and Down Arrow"
-msgstr ""
+msgstr "Saighead Suas, Ar Dheis, agus Síos"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_ArrowShapes.quad_arrow.Label.value.text
 msgid "4-way Arrow"
@@ -30643,11 +30643,11 @@ msgstr "Saighead Roinnte"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_ArrowShapes.striped_right_arrow.Label.value.text
 msgid "Striped Right Arrow"
-msgstr ""
+msgstr "Saighead Stríocach Ar Dheis"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_ArrowShapes.notched_right_arrow.Label.value.text
 msgid "Notched Right Arrow"
-msgstr ""
+msgstr "Saighead Eangach Ar Dheis"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_ArrowShapes.pentagon_right.Label.value.text
 msgid ""
@@ -30758,7 +30758,7 @@ msgstr "Sreabhchairt: Ceanglóir"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_FlowChartShapes.flowchart_off_page_connector.Label.value.text
 msgid "Flowchart: Off-page Connector"
-msgstr ""
+msgstr "Sreabhchairt: Ceanglóir As Leathanach"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_FlowChartShapes.flowchart_card.Label.value.text
 msgid "Flowchart: Card"
@@ -30893,7 +30893,7 @@ msgstr "Fáinne"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_StarShapes.doorplate.Label.value.text
 msgid "Doorplate"
-msgstr ""
+msgstr "Pláta dorais"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_FontworkShapeType.fontwork_plain_text.Label.value.text
 msgid "Plain Text"
@@ -30926,99 +30926,99 @@ msgstr "Cuar Anuas"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_FontworkShapeType.fontwork_triangle_up.Label.value.text
 msgid "Triangle Up"
-msgstr ""
+msgstr "Triantán Suas"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_FontworkShapeType.fontwork_triangle_down.Label.value.text
 msgid "Triangle Down"
-msgstr ""
+msgstr "Triantán Síos"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_FontworkShapeType.fontwork_fade_right.Label.value.text
 msgid "Fade Right"
-msgstr ""
+msgstr "Céimnigh ar Dheis"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_FontworkShapeType.fontwork_fade_left.Label.value.text
 msgid "Fade Left"
-msgstr ""
+msgstr "Céimnigh ar Chlé"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_FontworkShapeType.fontwork_fade_up.Label.value.text
 msgid "Fade Up"
-msgstr ""
+msgstr "Céimnigh Suas"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_FontworkShapeType.fontwork_fade_down.Label.value.text
 msgid "Fade Down"
-msgstr ""
+msgstr "Céimnigh Síos"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_FontworkShapeType.fontwork_slant_up.Label.value.text
 msgid "Slant Up"
-msgstr ""
+msgstr "Claon Suas"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_FontworkShapeType.fontwork_slant_down.Label.value.text
 msgid "Slant Down"
-msgstr ""
+msgstr "Claon Síos"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_FontworkShapeType.fontwork_fade_up_and_right.Label.value.text
 msgid "Fade Up and Right"
-msgstr ""
+msgstr "Céimnigh Suas agus ar Dheis"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_FontworkShapeType.fontwork_fade_up_and_left.Label.value.text
 msgid "Fade Up and Left"
-msgstr ""
+msgstr "Céimnigh Suas agus ar Chlé"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_FontworkShapeType.fontwork_chevron_up.Label.value.text
 msgid "Chevron Up"
-msgstr ""
+msgstr "Rachtán Suas"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_FontworkShapeType.fontwork_chevron_down.Label.value.text
 msgid "Chevron Down"
-msgstr ""
+msgstr "Rachtán Síos"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_FontworkShapeType.fontwork_arch_up_curve.Label.value.text
 msgid "Arch Up (Curve)"
-msgstr ""
+msgstr "Áirse Suas (Cuar)"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_FontworkShapeType.fontwork_arch_down_curve.Label.value.text
 msgid "Arch Down (Curve)"
-msgstr ""
+msgstr "Áirse Síos (Cuar)"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_FontworkShapeType.fontwork_arch_left_curve.Label.value.text
 msgid "Arch Left (Curve)"
-msgstr ""
+msgstr "Áirse Ar Chlé (Cuar)"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_FontworkShapeType.fontwork_arch_right_curve.Label.value.text
 msgid "Arch Right (Curve)"
-msgstr ""
+msgstr "Áirse Ar Dheis (Cuar)"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_FontworkShapeType.fontwork_circle_curve.Label.value.text
 msgid "Circle (Curve)"
-msgstr ""
+msgstr "Ciorcal (Cuar)"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_FontworkShapeType.fontwork_open_circle_curve.Label.value.text
 msgid "Open Circle (Curve)"
-msgstr ""
+msgstr "Ciorcal Oscailte (Cuar)"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_FontworkShapeType.fontwork_arch_up_pour.Label.value.text
 msgid "Arch Up (Pour)"
-msgstr ""
+msgstr "Áirse Suas (Doirt)"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_FontworkShapeType.fontwork_arch_down_pour.Label.value.text
 msgid "Arch Down (Pour)"
-msgstr ""
+msgstr "Áirse Síos (Doirt)"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_FontworkShapeType.fontwork_arch_left_pour.Label.value.text
 msgid "Arch Left (Pour)"
-msgstr ""
+msgstr "Áirse Ar Chlé (Doirt)"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_FontworkShapeType.fontwork_arch_right_pour.Label.value.text
 msgid "Arch Right (Pour)"
-msgstr ""
+msgstr "Áirse Ar Dheis (Doirt)"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_FontworkShapeType.fontwork_circle_pour.Label.value.text
 msgid "Circle (Pour)"
-msgstr ""
+msgstr "Ciorcal (Doirt)"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_FontworkShapeType.fontwork_open_circle_pour.Label.value.text
 msgid "Open Circle (Pour)"
-msgstr ""
+msgstr "Ciorcal Oscailte (Doirt)"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_UndoAction.Label.value.text
 msgid ""
@@ -31029,7 +31029,7 @@ msgstr "Ní féidir Cealú"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_GrabControlFocus.Label.value.text
 msgid "Control Focus"
-msgstr ""
+msgstr "Fócas Rialaithe"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_ScrollBar.Label.value.text
 msgid "Scrollbar"
@@ -31049,11 +31049,11 @@ msgstr "Caschnaipe"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_ConvertToScrollBar.Label.value.text
 msgid "Replace with Scrollbar"
-msgstr ""
+msgstr "Ionadaigh le Scrollbharra"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_ConvertToSpinButton.Label.value.text
 msgid "Replace with Spin Button"
-msgstr ""
+msgstr "Ionadaigh le Caschnaipe"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_ConvertToNavigationBar.Label.value.text
 msgid "Replace with Navigation Bar"
@@ -31076,7 +31076,7 @@ msgstr "Tosaigh an tEagarthóir Íomhá"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_AddWatch.Label.value.text
 msgid "Enable Watch"
-msgstr ""
+msgstr "Cumasaigh Faire"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_CharFontName.Label.value.text
 msgid "Font Name"
@@ -31432,7 +31432,7 @@ msgstr "~Oscail..."
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_CircleCut.Label.value.text
 #: tbxdraw.src#RID_SVXTBX_DRAW.TBX_DRAW.SID_DRAW_CIRCLECUT.toolboxitem.text
 msgid "Circle Segment"
-msgstr ""
+msgstr "Deighleog Chiorcail"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_SaveAs.Label.value.text
 msgid ""
@@ -31874,7 +31874,7 @@ msgstr "~Folaigh Sonraí"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_ZoomPageWidth.Label.value.text
 msgid "Zoom Page Width"
-msgstr ""
+msgstr "Súmáil go leithead an leathanaigh"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_ShowDetail.Label.value.text
 #: datanavi.src#RID_SVXWIN_DATANAVIGATOR.MB_INSTANCES.MID_SHOW_DETAILS.menuitem.text
@@ -32608,7 +32608,7 @@ msgstr "Ciorcal, Gan Líonadh"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_Pie_Unfilled.Label.value.text
 msgid "Ellipse Pie, Unfilled"
-msgstr ""
+msgstr "Pí-éilips, Gan Líonadh"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_CirclePie.Label.value.text
 msgid ""
@@ -32619,15 +32619,15 @@ msgstr "Píchiorcal"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_CirclePie_Unfilled.Label.value.text
 msgid "Circle Pie, Unfilled"
-msgstr ""
+msgstr "Píchiorcal, Gan Líonadh"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_CircleArc.Label.value.text
 msgid "Circle Arc"
-msgstr ""
+msgstr "Arc de Chiorcal"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_CircleCut_Unfilled.Label.value.text
 msgid "Circle Segment, Unfilled"
-msgstr ""
+msgstr "Deighleog Chiorcail, Gan Líonadh"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_EllipseCut.Label.value.text
 #: svdstr.src#STR_ObjNameSingulCCUTE.string.text
@@ -32636,7 +32636,7 @@ msgstr "Deighleog Éilips"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_EllipseCut_Unfilled.Label.value.text
 msgid "Ellipse Segment, unfilled"
-msgstr ""
+msgstr "Deighleog Éilips, gan líonadh"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_Polygon_Diagonal.Label.value.text
 msgid "Polygon (45°), Filled"
@@ -32661,11 +32661,11 @@ msgstr "Cuar"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_ZoomNext.Label.value.text
 msgid "Zoom Next"
-msgstr ""
+msgstr "Súmáil Ar Aghaidh"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_ZoomPrevious.Label.value.text
 msgid "Zoom Previous"
-msgstr ""
+msgstr "Súmáil Siar"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_GridVisible.Label.value.text
 msgid "~Display Grid"
@@ -32954,7 +32954,7 @@ msgstr "Barra ~Feidhme"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_ShowImeStatusWindow.Label.value.text
 msgid "Input M~ethod Status"
-msgstr ""
+msgstr "Stádas ~Modh Ionchurtha"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_OptionBarVisible.Label.value.text
 #: menuids2_tmpl.src#MN_TOGGLEOPTIONBAR.SID_TOGGLEOPTIONBAR.menuitem.text
@@ -33392,7 +33392,7 @@ msgstr "Cuir Scagaire Bunaithe ar Fhoirm i bhFeidhm"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_FormFilterNavigator.Label.value.text
 msgid "Filter Navigation"
-msgstr ""
+msgstr "Nascleanúint Scagairí"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_ConvertToEdit.Label.value.text
 msgid "Replace with Text Box"
@@ -34401,7 +34401,7 @@ msgstr "Rialóir ~Cothrománach..."
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_SetAnchorAtChar.Label.value.text
 #: swslots.src#FN_TOOL_ANKER_AT_CHAR.sfxslotinfo.text
 msgid "Anchor to Character"
-msgstr ""
+msgstr "Ancaire le Charachtar"
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_SetAnchorAtChar.ContextLabel.value.text
 #: mn.src#MN_ANCHOR.FN_TOOL_ANKER.FN_TOOL_ANKER_AT_CHAR.menuitem.text
@@ -34672,7 +34672,7 @@ msgstr "Athraigh Ancaire"
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_SetAnchorToPage.Label.value.text
 #: swslots.src#FN_TOOL_ANKER_PAGE.sfxslotinfo.text
 msgid "Anchor To Page"
-msgstr ""
+msgstr "Ancaire: le Leathanach"
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_SetAnchorToPage.ContextLabel.value.text
 msgid ""
@@ -34684,7 +34684,7 @@ msgstr "Go Le~athanach"
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_SetAnchorToPara.Label.value.text
 #: swslots.src#FN_TOOL_ANKER_PARAGRAPH.sfxslotinfo.text
 msgid "Anchor To Paragraph"
-msgstr ""
+msgstr "Ancaire le hAlt"
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_SetAnchorToPara.ContextLabel.value.text
 #: mn.src#MN_ANCHOR.FN_TOOL_ANKER.FN_TOOL_ANKER_PARAGRAPH.menuitem.text
@@ -34710,7 +34710,7 @@ msgstr "Draoi Postchu~maisc..."
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_SetAnchorToFrame.Label.value.text
 #: swslots.src#FN_TOOL_ANKER_FRAME.sfxslotinfo.text
 msgid "Anchor To Frame"
-msgstr ""
+msgstr "Ancaire le Fráma"
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_SetAnchorToFrame.ContextLabel.value.text
 #: mn.src#MN_AT_FRAME.FN_TOOL_ANKER_FRAME.menuitem.text
@@ -34892,7 +34892,7 @@ msgstr "Roghnaigh Carachtar ar Dheis"
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_LineUpSel.Label.value.text
 #: swslots.src#FN_LINE_UP_SEL.sfxslotinfo.text
 msgid "Select to Top Line"
-msgstr ""
+msgstr "Roghnaigh go dtí an líne ag an mbarr"
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_LineDownSel.Label.value.text
 msgid ""
@@ -34904,7 +34904,7 @@ msgstr "Roghnaigh Síos"
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_StartOfLineSel.Label.value.text
 #: swslots.src#FN_START_OF_LINE_SEL.sfxslotinfo.text
 msgid "Select to Begin of Line"
-msgstr ""
+msgstr "Roghnaigh go Tús na Líne"
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_EndOfLineSel.Label.value.text
 #: swslots.src#FN_END_OF_LINE_SEL.sfxslotinfo.text
@@ -34928,7 +34928,7 @@ msgstr "Roghnaigh go Deireadh na Cáipéise"
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_GoToStartOfNextPageSel.Label.value.text
 #: swslots.src#FN_START_OF_NEXT_PAGE_SEL.sfxslotinfo.text
 msgid "Select to Begin of Next Page"
-msgstr ""
+msgstr "Roghnaigh go Tús an Chéad Leathanaigh Eile"
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_GoToEndOfNextPageSel.Label.value.text
 #: swslots.src#FN_END_OF_NEXT_PAGE_SEL.sfxslotinfo.text
@@ -34938,7 +34938,7 @@ msgstr "Roghnaigh go Deireadh an Chéad Leathanaigh Eile"
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_GoToStartOfPrevPageSel.Label.value.text
 #: swslots.src#FN_START_OF_PREV_PAGE_SEL.sfxslotinfo.text
 msgid "Select to Begin of Previous Page"
-msgstr ""
+msgstr "Roghnaigh Go Tús an Leathanaigh Roimhe Seo"
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_GoToEndOfPrevPageSel.Label.value.text
 #: swslots.src#FN_END_OF_PREV_PAGE_SEL.sfxslotinfo.text
@@ -34948,7 +34948,7 @@ msgstr "Roghnaigh Go Deireadh an Leathanaigh Roimhe Seo"
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_GoToStartOfPageSel.Label.value.text
 #: swslots.src#FN_START_OF_PAGE_SEL.sfxslotinfo.text
 msgid "Select to Page Begin"
-msgstr ""
+msgstr "Roghnaigh go Tús an Leathanaigh"
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_SendOutlineToStarImpress.Label.value.text
 msgid "Outline to ~Presentation"
@@ -34982,7 +34982,7 @@ msgstr "Cruthaigh Cáipéis ~HTML"
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_StartOfParaSel.Label.value.text
 #: swslots.src#FN_START_OF_PARA_SEL.sfxslotinfo.text
 msgid "Select to Paragraph Begin"
-msgstr ""
+msgstr "Roghnaigh go Tús an Ailt"
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_EndOfParaSel.Label.value.text
 #: swslots.src#FN_END_OF_PARA_SEL.sfxslotinfo.text
@@ -34997,7 +34997,7 @@ msgstr "Roghnaigh go dtí an Focal ar Dheis"
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_WordLeftSel.Label.value.text
 #: swslots.src#FN_PREV_WORD_SEL.sfxslotinfo.text
 msgid "Select to Begin of Word"
-msgstr ""
+msgstr "Roghnaigh go Tús an Fhocail"
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_GotoNextSentenceSel.Label.value.text
 #: swslots.src#FN_NEXT_SENT_SEL.sfxslotinfo.text
@@ -35200,7 +35200,7 @@ msgstr "Ailínigh leis an mBun"
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_AlignVerticalCenter.Label.value.text
 #: swslots.src#FN_FRAME_ALIGN_VERT_CENTER.sfxslotinfo.text
 msgid "Align Vertical Center"
-msgstr ""
+msgstr "Ailínigh go hIngearach Sa Lár"
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_PageStyleApply.Label.value.text
 #: globstr.src#RID_GLOBSTR.STR_UNDO_APPLYPAGESTYLE.string.text
@@ -35404,7 +35404,7 @@ msgstr "Go dtí an líne thíos"
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_GoToStartOfLine.Label.value.text
 #: swslots.src#FN_START_OF_LINE.sfxslotinfo.text
 msgid "To Line Begin"
-msgstr ""
+msgstr "Go dtí Tús na Líne"
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_ExecuteMacroField.Label.value.text
 #: swslots.src#FN_EXECUTE_MACROFIELD.sfxslotinfo.text
@@ -35641,7 +35641,7 @@ msgstr "Cuardaigh Arís"
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_DelToStartOfSentence.Label.value.text
 #: swslots.src#FN_DELETE_BACK_SENT.sfxslotinfo.text
 msgid "Delete to Start of Sentence"
-msgstr ""
+msgstr "Scrios go Tús na Abairte"
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_DelToEndOfWord.Label.value.text
 #: swslots.src#FN_DELETE_WORD.sfxslotinfo.text
@@ -35651,7 +35651,7 @@ msgstr "Scrios go Deireadh an Fhocail"
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_DelToStartOfWord.Label.value.text
 #: swslots.src#FN_DELETE_BACK_WORD.sfxslotinfo.text
 msgid "Delete to Start of Word"
-msgstr ""
+msgstr "Scrios go Tús an Fhocail"
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_DelToEndOfLine.Label.value.text
 #: swslots.src#FN_DELETE_LINE.sfxslotinfo.text
@@ -35661,7 +35661,7 @@ msgstr "Scrios go Deireadh an Líne"
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_DelToStartOfLine.Label.value.text
 #: swslots.src#FN_DELETE_BACK_LINE.sfxslotinfo.text
 msgid "Delete to Start of Line"
-msgstr ""
+msgstr "Scrios go Tús na Líne"
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_DelToEndOfPara.Label.value.text
 #: swslots.src#FN_DELETE_PARA.sfxslotinfo.text
@@ -35671,7 +35671,7 @@ msgstr "Scrios Go Deireadh an Ailt"
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_DelToStartOfPara.Label.value.text
 #: swslots.src#FN_DELETE_BACK_PARA.sfxslotinfo.text
 msgid "Delete to Start of Paragraph"
-msgstr ""
+msgstr "Scrios Go Tús an Ailt"
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_DelLine.Label.value.text
 msgid ""
@@ -35794,7 +35794,7 @@ msgstr "An Leabharmharc Roimhe Seo"
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_GoToStartOfTable.Label.value.text
 #: swslots.src#FN_START_TABLE.sfxslotinfo.text
 msgid "To Table Begin"
-msgstr ""
+msgstr "Go Tús an Tábla"
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_ResetTableProtection.Label.value.text
 #: swslots.src#FN_TABLE_UNSET_READ_ONLY.sfxslotinfo.text
@@ -35964,7 +35964,7 @@ msgstr "Scáthánaigh Réad ar Leathanaigh Chothroma"
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_IndexMarkToIndex.Label.value.text
 #: swslots.src#FN_IDX_MARK_TO_IDX.sfxslotinfo.text
 msgid "Index Mark to Index"
-msgstr ""
+msgstr "Marc Innéacs le hInnéacsú"
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_JumpToFootnoteArea.Label.value.text
 #: swslots.src#FN_TO_FOOTNOTE_AREA.sfxslotinfo.text
@@ -36041,7 +36041,7 @@ msgstr "Ag barr"
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_RowSplit.Label.value.text
 msgid "Allow Row to Break Across Pages and Columns"
-msgstr ""
+msgstr "Ceadaigh don ró briseadh thar leathanaigh agus colúin"
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_SelectText.Label.value.text
 #: swslots.src#FN_SELECT_PARA.sfxslotinfo.text
@@ -36088,7 +36088,7 @@ msgstr "Go Tosach na Cáipéise go díreach"
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_TableModeFixProp.Label.value.text
 #: swslots.src#FN_TABLE_MODE_FIX_PROP.sfxslotinfo.text
 msgid "Table: Fixed, Proportional"
-msgstr ""
+msgstr "Tábla: Aonleithid"
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_RefreshView.Label.value.text
 #: swslots.src#FN_REFRESH_VIEW.sfxslotinfo.text
@@ -36203,7 +36203,7 @@ msgstr "Aibhsiú"
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_CharBackgroundExt.Label.value.text
 #: swslots.src#SID_ATTR_CHAR_COLOR_BACKGROUND_EXT.sfxslotinfo.text
 msgid "Highlight Fill"
-msgstr ""
+msgstr "Líonadh Aibhsithe"
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_VRuler.Label.value.text
 #: swslots.src#FN_VLINEAL.sfxslotinfo.text
@@ -44394,7 +44394,7 @@ msgstr "Cairt XYZ"
 
 #: strings.src#STR_NORMAL_LINES.string.text
 msgid "Normal with lines"
-msgstr ""
+msgstr "Gnáth le línte"
 
 #: strings.src#STR_2D.string.text
 msgid "2D "
@@ -44469,11 +44469,11 @@ msgstr "Eochair eolais"
 
 #: strings.src#STR_LEGEND_SYMBOL_ROW.string.text
 msgid "Data series symbol"
-msgstr ""
+msgstr "Siombail sraithe sonraí"
 
 #: strings.src#STR_LEGEND_SYMBOL_COL.string.text
 msgid "Data column symbol"
-msgstr ""
+msgstr "Siombail cholúin sonraí"
 
 #: strings.src#STR_MARKED.string.text
 msgid "$(OBJ) selected"
@@ -44552,11 +44552,11 @@ msgstr "Cuir greille in eagar"
 
 #: strings.src#STR_UNDO_DIAGRAM_WALL.string.text
 msgid "Edit chart wall"
-msgstr ""
+msgstr "Cuir balla na cairte in eagar"
 
 #: strings.src#STR_UNDO_DIAGRAM_FLOOR.string.text
 msgid "Edit chart floor"
-msgstr ""
+msgstr "Cuir urlár na cairte in eagar"
 
 #: strings.src#STR_UNDO_DIAGRAM_AREA.string.text
 msgid "Edit chart area"
@@ -44619,10 +44619,11 @@ msgstr "Caithfidh an t-eatramh a bheith níos mó ná 0."
 #: strings.src#STR_STEPMAIN_LT_MAXVALUE.string.text
 msgid "Major interval must not be larger than the range definition."
 msgstr ""
+"Ní cheadaítear don mhór-idirchéim a bheith níos mó ná an raon socraithe."
 
 #: strings.src#STR_STEPHELP_LT_STEPMAIN.string.text
 msgid "Minor interval must be smaller than the major interval."
-msgstr "Caithfidh an mioneatramh a bheith níos lú ná an príomheatramh."
+msgstr "Caithfidh an mhion-idirchéim a bheith níos lú ná an mhór-idirchéim."
 
 #: strings.src#STR_BAD_LOGARITHM.string.text
 msgid ""
@@ -44684,6 +44685,8 @@ msgid ""
 "X axis values must be sorted.\n"
 "Sort them now?"
 msgstr ""
+"Caithfidh na luachanna ar an X-ais a bheith sórtáilte.\n"
+"Sórtáil iad anois?"
 
 #: strings.src#STR_UNDO_REMOVEPOINTATTRS.string.text
 msgid "Remove data point attributes"
@@ -49960,7 +49963,7 @@ msgstr "~Foirmlí"
 
 #: pagedlg.src#RID_SCPAGE_TABLE.BTN_NULLVALS.checkbox.text
 msgid "Zero ~values"
-msgstr ""
+msgstr "~Luachanna nialasacha"
 
 #: pagedlg.src#RID_SCPAGE_TABLE.BTN_TOPDOWN.radiobutton.text
 msgid "~Top to bottom, then right"
@@ -49968,7 +49971,7 @@ msgstr "~Barr go bun, ansin ar dheis"
 
 #: pagedlg.src#RID_SCPAGE_TABLE.BTN_LEFTRIGHT.radiobutton.text
 msgid "~Left to right, then down"
-msgstr ""
+msgstr "C~lé go deas, ansin síos"
 
 #: pagedlg.src#RID_SCPAGE_TABLE.BTN_PAGENO.checkbox.text
 msgid "First ~page number"
@@ -51944,7 +51947,7 @@ msgstr "Líon"
 #: globstr.src#RID_GLOBSTR.STR_FUN_TEXT_COUNT2.string.text
 #: stbctrls.src#RID_SVXMNU_PSZ_FUNC.PSZ_FUNC_COUNT2.menuitem.text
 msgid "CountA"
-msgstr ""
+msgstr "LíonA"
 
 #: globstr.src#RID_GLOBSTR.STR_FUN_TEXT_AVG.string.text
 msgid ""
@@ -52549,7 +52552,7 @@ msgstr "Foirmlí"
 
 #: globstr.src#RID_GLOBSTR.STR_SCATTR_PAGE_NULLVALS.string.text
 msgid "Zero Values"
-msgstr ""
+msgstr "Luachanna Nialasacha"
 
 #: globstr.src#RID_GLOBSTR.STR_SCATTR_PAGE_PRINTDIR.string.text
 msgid "Print direction"
@@ -52825,7 +52828,7 @@ msgstr "Bogadh an raon ó #1 go #2"
 
 #: globstr.src#RID_GLOBSTR.STR_END_REDLINING_TITLE.string.text
 msgid "Exit Recording"
-msgstr ""
+msgstr "Stop Taifeadadh"
 
 #: globstr.src#RID_GLOBSTR.STR_END_REDLINING.string.text
 msgid ""
@@ -53452,7 +53455,7 @@ msgstr "Grúpa"
 
 #: miscdlgs.src#RID_SCDLG_NAMES_CREATE.BTN_TOP.checkbox.text
 msgid "~Top row"
-msgstr ""
+msgstr "Ró ag an m~barr"
 
 #: miscdlgs.src#RID_SCDLG_NAMES_CREATE.BTN_LEFT.checkbox.text
 msgid "~Left column"
@@ -53460,7 +53463,7 @@ msgstr "Colún ar c~lé"
 
 #: miscdlgs.src#RID_SCDLG_NAMES_CREATE.BTN_BOTTOM.checkbox.text
 msgid "~Bottom row"
-msgstr ""
+msgstr "Ró ag an ~mbun"
 
 #: miscdlgs.src#RID_SCDLG_NAMES_CREATE.BTN_RIGHT.checkbox.text
 msgid "~Right column"
@@ -54032,7 +54035,7 @@ msgstr "Ná ~priontáil ach bileoga roghnaithe"
 
 #: popup.src#RID_POPUP_CELLS.string.text
 msgid "Cell pop-up menu"
-msgstr ""
+msgstr "Roghchlár aníos cille"
 
 #: popup.src#RID_POPUP_CELLS.SID_CELL_FORMAT_RESET.menuitem.text
 msgid ""
@@ -54090,7 +54093,7 @@ msgstr "Lio~sta Roghnúchán..."
 
 #: popup.src#RID_POPUP_TAB.string.text
 msgid "Sheet bar pop-up menu"
-msgstr ""
+msgstr "Roghchlár aníos barra bileoige"
 
 #: popup.src#RID_POPUP_TAB.FID_INS_TABLE.menuitem.text
 msgid "~Insert Sheet..."
