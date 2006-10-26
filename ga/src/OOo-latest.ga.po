@@ -2356,7 +2356,7 @@ msgstr "Níl an t-ainm ann: #($Arg1)"
 
 #: ttmsg.src#S_DOUBLE_NAME.string.text
 msgid "Name double: ($Arg1)"
-msgstr ""
+msgstr "Ainm dúbailte: ($Arg1)"
 
 #: ttmsg.src#S_READING_FILE.string.text
 msgid "Reading the files"
@@ -3774,7 +3774,7 @@ msgstr "Ionad"
 #: tp_PointGeometry.src#TP_LAYOUT.FT_LY_SHAPE.fixedtext.text
 #: attrib3.src#TP_LAYOUT.FT_LY_SHAPE.fixedtext.text
 msgid "Bar/column shape"
-msgstr ""
+msgstr "Cruth an bharra/cholúin"
 
 #: tp_PointGeometry.src#TP_LAYOUT.LB_LY_SHAPE.1.stringlist.text
 #: attrib3.src#TP_LAYOUT.LB_LY_SHAPE.1.stringlist.text
@@ -62157,7 +62157,7 @@ msgstr "Táblaí Data Pilot"
 
 #: scstring.src#SCSTR_AUDITSHELL.string.text
 msgid "Detective Fill Mode"
-msgstr ""
+msgstr "Mód Líonta Braiteach"
 
 #: scstring.src#STR_ROWHEIGHT.string.text
 msgid ""
@@ -63055,11 +63055,11 @@ msgstr "Ainm gan sainmhíniú nó tagairt mhícheart cheall."
 
 #: tabopdlg.src#RID_SCDLG_TABOP.STR_NOCOLFORMULA.string.text
 msgid "Formulas don't form a column."
-msgstr ""
+msgstr "Ní cuid de cholún iad na foirmlí."
 
 #: tabopdlg.src#RID_SCDLG_TABOP.STR_NOROWFORMULA.string.text
 msgid "Formulas don't form a row."
-msgstr ""
+msgstr "Ní chuid de ró iad na foirmlí."
 
 #: tabopdlg.src#RID_SCDLG_TABOP.modelessdialog.text
 msgid ""
@@ -63081,7 +63081,7 @@ msgstr "Maisíochtaí Cló"
 
 #: textdlgs.src#RID_SCDLG_CHAR.1.RID_SVXPAGE_CHAR_POSITION.pageitem.text
 msgid "Font Position"
-msgstr ""
+msgstr "Ionad Cló"
 
 #: textdlgs.src#RID_SCDLG_CHAR.1.pushbutton.text
 msgid ""
@@ -63587,7 +63587,7 @@ msgstr "Taispeáin nótaí"
 
 #: pubdlg.src#DLG_PUBLISHING.PAGE2_TITEL_KIOSK.fixedline.text
 msgid "Advance slides"
-msgstr ""
+msgstr "Cuir sleamhnáin ar aghaidh"
 
 #: pubdlg.src#DLG_PUBLISHING.PAGE2_CHG_DEFAULT.radiobutton.text
 msgid "~As stated in document"
@@ -63605,7 +63605,7 @@ msgstr ""
 
 #: pubdlg.src#DLG_PUBLISHING.PAGE2_DURATION_TMF.timefield.quickhelptext
 msgid "~Duration of page"
-msgstr ""
+msgstr "~Fad ama ar gach leathanach"
 
 #: pubdlg.src#DLG_PUBLISHING.PAGE2_ENDLESS.checkbox.text
 msgid "~Endless"
@@ -63856,7 +63856,7 @@ msgstr "Scéimeanna Beochana"
 
 #: CustomAnimation.src#RID_EFFECT_CONTEXTMENU.CM_WITH_CLICK.menuitem.text
 msgid "Start On ~Click"
-msgstr ""
+msgstr "Tosaigh Ar ~Chlic"
 
 #: CustomAnimation.src#RID_EFFECT_CONTEXTMENU.CM_WITH_PREVIOUS.menuitem.text
 msgid "Start ~With Previous"
@@ -64106,6 +64106,8 @@ msgid ""
 "First select the slide element and then click 'Add...' to add an animation "
 "effect."
 msgstr ""
+"Roghnaigh eilimint an tsleamhnáin ar dtús, agus ansin cliceáil 'Cuir "
+"Leis...' chun beochain a chur leis."
 
 #: CustomAnimationCreateDialog.src#DLG_CUSTOMANIMATION_CREATE.1.RID_TP_CUSTOMANIMATION_ENTRANCE.pageitem.text
 msgid "Entrance"
@@ -64214,7 +64216,7 @@ msgstr "Folaigh tar éis beochana"
 
 #: CustomAnimationDialog.src#RID_TP_CUSTOMANIMATION_EFFECT.LB_AFTER_EFFECT.4.stringlist.text
 msgid "Hide on next animation"
-msgstr ""
+msgstr "Folaigh ar an chéad bheochan eile"
 
 #: CustomAnimationDialog.src#RID_TP_CUSTOMANIMATION_EFFECT.FT_DIMCOLOR.fixedtext.text
 msgid "Dim Color"
@@ -64288,7 +64290,7 @@ msgstr "Luas"
 
 #: CustomAnimationDialog.src#RID_TP_CUSTOMANIMATION_DURATION.CBX_REWIND.checkbox.text
 msgid "Rewind when done playing"
-msgstr ""
+msgstr "Atochrais nuair a stopfaidh sé"
 
 #: CustomAnimationDialog.src#RID_TP_CUSTOMANIMATION_DURATION.FL_TRIGGER.fixedline.text
 msgid ""
@@ -64303,7 +64305,7 @@ msgstr "Beoigh mar chuid de sheicheamh cliceanna"
 
 #: CustomAnimationDialog.src#RID_TP_CUSTOMANIMATION_DURATION.RB_INTERACTIVE.radiobutton.text
 msgid "Start effect on click of"
-msgstr ""
+msgstr "Tosaigh an mhaisíocht ar chlic de"
 
 #: CustomAnimationDialog.src#RID_TP_CUSTOMANIMATION_DURATION.tabpage.text
 msgid ""
@@ -65669,7 +65671,7 @@ msgstr "Barra na Réad Gliúphointe"
 
 #: strings.src#STR_GRAPHIC_TEXT_TOOLBOX.string.text
 msgid "Text Object Bar/Draw"
-msgstr ""
+msgstr "Barra na Réad Téacs/Líníocht"
 
 #: strings.src#STR_DEFAULTVIEW.string.text
 msgid ""
@@ -65963,7 +65965,7 @@ msgstr "~Go Cuar"
 
 #: strings.src#STR_UNDO_BEZCONV.string.text
 msgid "Convert polygon segment"
-msgstr ""
+msgstr "Tiontaigh mír pholagáin"
 
 #: strings.src#STR_UNDO_BEZSMOOTH.string.text
 msgid "Modify curve smoothing"
@@ -66137,7 +66139,7 @@ msgstr "Dún ~Réad"
 
 #: strings.src#STR_LINEEND.string.text
 msgid "Line Ends"
-msgstr ""
+msgstr "Deirí na Líne"
 
 #: strings.src#STR_DESC_LINEEND.string.text
 #: sdstring.src#RID_SVXSTR_DESC_LINEEND.string.text
@@ -66425,6 +66427,8 @@ msgid ""
 "The format of the new pages will be adapted.\n"
 "Do you want to adapt the objects, too?"
 msgstr ""
+"Cuirfear formáid na leathanach nua in oiriúint.\n"
+"Ar mhaith leat na réada a oiriúnú freisin?"
 
 #: strings.src#STR_CREATE_PAGES.string.text
 msgid "Create slides"
@@ -66471,6 +66475,10 @@ msgid ""
 "but cannot be undone. Do you want to continue and\n"
 "thus assign the new slide design?"
 msgstr ""
+"Cuirfidh seo an liosta gníomhanna is féidir a chealú ar neamhní. Beidh "
+"bailíocht ag athruithe a deineadh go nuige seo, ach ní bheifear in ann iad a "
+"chealú. Ar mhaith leat leanacht ar aghaidh agus an dearadh nua sleamhnáin a "
+"shannadh?"
 
 #: strings.src#RID_UNDO_DELETE_WARNING.CB_UNDO_DELETE_DISABLE.checkbox.text
 msgid "~Do not show this warning again"
@@ -66550,15 +66558,15 @@ msgstr "Ní féidir grafaic a iompórtáil: cuimhne ídithe"
 
 #: strings.src#STR_END_SEARCHING.string.text
 msgid "The document search is finished."
-msgstr ""
+msgstr "Críochnaíodh cuardach na cáipéis."
 
 #: strings.src#STR_END_SPELLING.string.text
 msgid "Spellcheck of entire document has been completed."
-msgstr ""
+msgstr "Críochnaíodh seiceáil litrithe na cáipéis ar fad."
 
 #: strings.src#STR_END_SPELLING_OBJ.string.text
 msgid "The spellcheck for the selected objects has been completed."
-msgstr ""
+msgstr "Críochnaíodh seiceáil litrithe na réad roghnaithe."
 
 #: strings.src#STR_NOLANGUAGE.string.text
 msgid "The selected language is not available."
@@ -66573,6 +66581,9 @@ msgid ""
 "You have a large amount of data saved in the clipboard.\n"
 "Do you want the clipboard content to be available for other applications?"
 msgstr ""
+"Tá slám mór sonraí sábháilte agat sa ghearrthaisce.\n"
+"Ar mhaith leat inneachar an ghearrthaisce a bheith ar fáil i bhfeidhmchláir "
+"eile?"
 
 #: strings.src#STR_ASK_FOR_CONVERT_TO_BEZIER.string.text
 msgid "Convert selected object to curve?"
@@ -66601,7 +66612,7 @@ msgstr "Cuir leagan amach na láithreoireachta i bhfeidhm"
 
 #: strings.src#STR_DEMO_EXPORT_LIMIT.string.text
 msgid "A maximum of 10 objects can be exported"
-msgstr ""
+msgstr "Ní féidir níos mó ná 10 réad a easpórtáil"
 
 #: strings.src#STR_STRING_NOTFOUND.string.text
 msgid ""
@@ -95772,7 +95783,7 @@ msgstr "Ceann na líne"
 
 #: svdstr.src#SIP_XA_LINEEND.string.text
 msgid "Line end"
-msgstr "Deireadh an líne"
+msgstr "Deireadh na líne"
 
 #: svdstr.src#SIP_XA_LINESTARTWIDTH.string.text
 msgid "Line head width"
