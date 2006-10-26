@@ -14930,6 +14930,9 @@ msgid ""
 "volumes, choose to install less features onto local drives, or select "
 "different destination drives."
 msgstr ""
+"Níl go leor spáis ar na himleabhair aibhsithe do na gnéithe atá roghnaithe "
+"faoi láthair. Is féidir comhaid a bhaint ó na himleabhair aibhsithe, níos lú "
+"gnéithe a shuiteáil ar thiomántáin logánta, nó tiomántáin eile a roghnú."
 
 #: Control.ulf#OOO_CONTROL_98.LngText.text
 msgid "{&MSSansBold8}Disk Space Requirements"
@@ -15163,6 +15166,9 @@ msgid ""
 "volumes, choose to install less features onto local drives, or select "
 "different destination drives."
 msgstr ""
+"Níl go leor spáis ar na himleabhair aibhsithe do na gnéithe atá roghnaithe "
+"faoi láthair. Is féidir comhaid a bhaint ó na himleabhair aibhsithe, níos lú "
+"gnéithe a shuiteáil ar thiomántáin logánta, nó tiomántáin eile a roghnú."
 
 #: Control.ulf#OOO_CONTROL_155.LngText.text
 msgid "{&MSSansBold8}Out of Disk Space"
@@ -15321,6 +15327,9 @@ msgid ""
 "continue this installation at a later time or you can restore your system to "
 "its original state prior to the installation."
 msgstr ""
+"Is féidir leat aon chomhpháirteanna suiteáilte a choimeád ar do chóras i "
+"dtreo go mbeidh tú in ann leanúint leis an tsuiteáil seo níos déanaí, nó is "
+"féidir do chóras a athchóiriú go dtí an staid roimh an tsuiteáil."
 
 #: Control.ulf#OOO_CONTROL_189.LngText.text
 msgid ""
@@ -15340,6 +15349,8 @@ msgid ""
 "The wizard was interrupted before [ProductName] could be completely "
 "installed."
 msgstr ""
+"Briseadh isteach ar an draoi sularbh fhéidir [ProductName] a shuiteáil go "
+"hiomlán."
 
 #: Control.ulf#OOO_CONTROL_192.LngText.text
 msgid ""
@@ -15525,6 +15536,9 @@ msgid ""
 "continue this installation at a later time or you can restore your system to "
 "its original state prior to the installation."
 msgstr ""
+"Is féidir leat aon chomhpháirteanna suiteáilte a choimeád ar do chóras i "
+"dtreo go mbeidh tú in ann leanúint leis an tsuiteáil seo níos déanaí, nó is "
+"féidir do chóras a athchóiriú go dtí an staid roimh an tsuiteáil."
 
 # Don't see "Continue Later" in PO
 #: Control.ulf#OOO_CONTROL_225.LngText.text
@@ -15545,6 +15559,8 @@ msgid ""
 "The wizard was interrupted before [ProductName] could be completely "
 "installed."
 msgstr ""
+"Briseadh isteach ar an draoi sularbh fhéidir [ProductName] a shuiteáil go "
+"hiomlán."
 
 #: Control.ulf#OOO_CONTROL_228.LngText.text
 msgid "Progress done"
@@ -30686,7 +30702,7 @@ msgstr ""
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_ArrowShapes.s_sharped_arrow.Label.value.text
 msgid "S-shaped Arrow"
-msgstr ""
+msgstr "Saighead i gcruth S"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_FlowChartShapes.flowchart_process.Label.value.text
 msgid "Flowchart: Process"
@@ -31891,7 +31907,7 @@ msgstr "Dath an Chúlra"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_BackgroundPatternController.Label.value.text
 msgid "Background Pattern"
-msgstr ""
+msgstr "Patrún Cúlra"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_OpenHyperlinkOnCursor.Label.value.text
 msgid "Open Hyperlink"
@@ -33292,7 +33308,7 @@ msgstr "Rialtán Íomhá"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_RemoveFilterSort.Label.value.text
 msgid "Remove Filter/Sort"
-msgstr ""
+msgstr "Bain Scagaire/Sórtáil"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_Sortup.Label.value.text
 msgid ""
@@ -35351,7 +35367,7 @@ msgstr "C~ealla"
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_GoUp.Label.value.text
 #: swslots.src#FN_LINE_UP.sfxslotinfo.text
 msgid "To Top Line"
-msgstr ""
+msgstr "Go dtí an líne ag an mbarr"
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_EntireColumn.Label.value.text
 msgid ""
@@ -35383,7 +35399,7 @@ msgstr "~Tábla"
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_GoDown.Label.value.text
 #: swslots.src#FN_LINE_DOWN.sfxslotinfo.text
 msgid "To Line Below"
-msgstr ""
+msgstr "Go dtí an líne thíos"
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_GoToStartOfLine.Label.value.text
 #: swslots.src#FN_START_OF_LINE.sfxslotinfo.text
@@ -35440,7 +35456,7 @@ msgstr "Ísligh Leibhéal Amháin"
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_GoToStartOfNextPage.Label.value.text
 #: swslots.src#FN_START_OF_NEXT_PAGE.sfxslotinfo.text
 msgid "To Begin of Next Page"
-msgstr ""
+msgstr "Go tús an chéad leathanaigh eile"
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_IncrementLevel.Label.value.text
 msgid "Promote One Level"
@@ -35469,7 +35485,7 @@ msgstr "Tarraing Chun Tosaigh"
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_GoToStartOfPrevPage.Label.value.text
 #: swslots.src#FN_START_OF_PREV_PAGE.sfxslotinfo.text
 msgid "To Begin of Previous Page"
-msgstr ""
+msgstr "Go tús an leathanaigh roimhe seo"
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_JumpDownThisLevel.Label.value.text
 #: swslots.src#FN_NUM_BULLET_NEXT.sfxslotinfo.text
@@ -35503,7 +35519,7 @@ msgstr "Bog Síos"
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_GoToStartOfPage.Label.value.text
 #: swslots.src#FN_START_OF_PAGE.sfxslotinfo.text
 msgid "To Page Begin"
-msgstr ""
+msgstr "Go tús an leathanaigh"
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_GoToEndOfPage.Label.value.text
 #: swslots.src#FN_END_OF_PAGE.sfxslotinfo.text
@@ -35528,7 +35544,7 @@ msgstr "Airde Optamach Ró"
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_GoToStartOfColumn.Label.value.text
 #: swslots.src#FN_START_OF_COLUMN.sfxslotinfo.text
 msgid "To Column Begin"
-msgstr ""
+msgstr "Go tús an cholúin"
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_DecrementSubLevels.Label.value.text
 msgid "Demote One Level With Subpoints"
@@ -35550,7 +35566,7 @@ msgstr "Bog Suas le Fophointí"
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_GoToStartOfPara.Label.value.text
 #: swslots.src#FN_START_OF_PARA.sfxslotinfo.text
 msgid "To Paragraph Begin"
-msgstr ""
+msgstr "Go tús an ailt"
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_MoveDownSubItems.Label.value.text
 msgid "Move Down with Subpoints"
@@ -35824,7 +35840,7 @@ msgstr "An Tábla Roimhe Seo"
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_GoToStartOfNextColumn.Label.value.text
 #: swslots.src#FN_START_OF_NEXT_COLUMN.sfxslotinfo.text
 msgid "To Begin of Next Column"
-msgstr ""
+msgstr "Go tús an chéad cholúin eile"
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_WrapIdeal.Label.value.text
 msgid "~Optimal Page Wrap"
@@ -35842,7 +35858,7 @@ msgstr "Sa ~Chúlra"
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_GoToStartOfPrevColumn.Label.value.text
 #: swslots.src#FN_START_OF_PREV_COLUMN.sfxslotinfo.text
 msgid "To Begin of Previous Column"
-msgstr ""
+msgstr "Go tús an cholúin roimhe seo"
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_GoToEndOfPrevColumn.Label.value.text
 #: swslots.src#FN_END_OF_PREV_COLUMN.sfxslotinfo.text
@@ -40921,6 +40937,8 @@ msgid ""
 "Returns the prorated linear depreciation of an asset for each accounting "
 "period"
 msgstr ""
+"Aisfhilleann sé an dímheas líneach pro rata de shócmhainn i ngach tréimhse "
+"chuntasaíochta"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc.2.string.text
 msgid ""
@@ -41012,7 +41030,7 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc.15."
 "string.text\n"
 "The year basis to be used"
-msgstr ""
+msgstr "An bhonnbhliain le úsáid"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc.1.string.text
 msgid ""
@@ -41021,6 +41039,8 @@ msgid ""
 "Returns the prorated linear depreciation of an asset for each accounting "
 "period"
 msgstr ""
+"Aisfhilleann sé an dímheas líneach pro rata de shócmhainn i ngach tréimhse "
+"chuntasaíochta"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc.2.string.text
 msgid ""
@@ -41112,7 +41132,7 @@ msgid ""
 "_: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc.15."
 "string.text\n"
 "The year basis to be used"
-msgstr ""
+msgstr "An bhonnbhliain le úsáid"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint.1.string.text
 msgid "Returns the accrued interest for a security that pays periodic interest"
@@ -51639,13 +51659,13 @@ msgstr "Ní féidir ionsá in ilroghnú"
 msgid ""
 "_: globstr.src#RID_GLOBSTR.STR_MSSG_PASTEFROMCLIP_1.string.text\n"
 "Cell merge not possible if cells already merged!"
-msgstr ""
+msgstr "Ní féidir cealla a chumasc má tá siad cumaiscthe cheana!"
 
 #: globstr.src#RID_GLOBSTR.STR_MSSG_MOVEBLOCKTO_0.string.text
 msgid ""
 "_: globstr.src#RID_GLOBSTR.STR_MSSG_MOVEBLOCKTO_0.string.text\n"
 "Cell merge not possible if cells already merged!"
-msgstr ""
+msgstr "Ní féidir cealla a chumasc má tá siad cumaiscthe cheana!"
 
 #: globstr.src#RID_GLOBSTR.STR_MSSG_APPLYPATTLINES_0.string.text
 msgid "Cannot apply borders to multiple selection"
@@ -57630,7 +57650,7 @@ msgstr "Uimhir"
 msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_LOG.3.string.text\n"
 "A value greater than 0 for which the logarithm is to be calculated."
-msgstr ""
+msgstr "Luach níos mó ná 0 a bhfuil a logartam le ríomh."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_LOG.4.string.text
 msgid ""
@@ -57655,7 +57675,7 @@ msgstr "Uimhir"
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_LN.3.string.text
 msgid ""
 "A value greater than 0 for which the natural logarithm is to be calculated."
-msgstr ""
+msgstr "Luach níos mó ná 0 a bhfuil a logartam aiceanta le ríomh."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_LOG10.1.string.text
 msgid "Calculates the base-10 logarithm of a number."
@@ -57671,7 +57691,7 @@ msgstr "Uimhir"
 msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_LOG10.3.string.text\n"
 "A value greater than 0 for which the logarithm is to be calculated."
-msgstr ""
+msgstr "Luach níos mó ná 0 a bhfuil a logartam le ríomh."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_FACT.1.string.text
 msgid "Calculates the factorial of a number."
@@ -57765,7 +57785,7 @@ msgstr "An uimhir atá le slánú síos."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_TRUNC.1.string.text
 msgid "Truncates the decimal places of a number."
-msgstr ""
+msgstr "Teascann sé na hionaid dheachúla d'uimhir."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_TRUNC.2.string.text
 msgid ""
@@ -57790,7 +57810,7 @@ msgstr ""
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_ROUND.1.string.text
 msgid "Rounds a number to a predefined accuracy."
-msgstr ""
+msgstr "Slánaíonn sé uimhir go cruinneas réamhshocraithe."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_ROUND.2.string.text
 msgid ""
@@ -57812,11 +57832,11 @@ msgstr "líon"
 msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_ROUND.5.string.text\n"
 "The number of places to which a number is to be rounded."
-msgstr ""
+msgstr "Líon na ndeachúlacha chuig a slánófar an uimhir."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_ROUND_UP.1.string.text
 msgid "Rounds a number up to the predefined accuracy."
-msgstr ""
+msgstr "Slánaíonn sé uimhir suas go cruinneas réamhshocraithe."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_ROUND_UP.2.string.text
 msgid ""
@@ -57844,11 +57864,11 @@ msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_ROUND_UP.5.string."
 "text\n"
 "The number of places to which a number is to be rounded."
-msgstr ""
+msgstr "Líon na ndeachúlacha chuig a slánófar an uimhir."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_ROUND_DOWN.1.string.text
 msgid "Rounds a number down to a predefined accuracy."
-msgstr ""
+msgstr "Slánaíonn sé uimhir síos go cruinneas réamhshocraithe."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_ROUND_DOWN.2.string.text
 msgid ""
@@ -57873,13 +57893,15 @@ msgstr "líon"
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_ROUND_DOWN.5.string.text
 msgid "The number of places down to which a number is to be rounded."
-msgstr ""
+msgstr "Líon na ndeachúlacha a slánófar an uimhir síos chuige."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_EVEN.1.string.text
 msgid ""
 "Rounds a positive number up and negative number down to the nearest even "
 "integer."
 msgstr ""
+"Slánaíonn sé uimhir dheimhneach suas agus uimhir dhiúltach síos go dtí an "
+"tslánuimhir chothrom is gaire."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_EVEN.2.string.text
 msgid ""
@@ -57898,6 +57920,8 @@ msgid ""
 "Rounds a positive number up and negative number down to the nearest odd "
 "integer."
 msgstr ""
+"Slánaíonn sé uimhir dheimhneach suas agus uimhir dhiúltach síos go dtí an "
+"tslánuimhir chorr is gaire."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_ODD.2.string.text
 msgid ""
@@ -58134,7 +58158,7 @@ msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_SUM_X2MY2.3.string."
 "text\n"
 "First array where the square of the arguments are totalled."
-msgstr ""
+msgstr "An chéad eagar; suimeofar cearnóga na n-iontrálacha den eagar seo."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_SUM_X2MY2.4.string.text
 msgid ""
@@ -58163,7 +58187,7 @@ msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_SUM_X2DY2.3.string."
 "text\n"
 "First array where the square of the arguments are totalled."
-msgstr ""
+msgstr "An chéad eagar; suimeofar cearnóga na n-iontrálacha den eagar seo."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_SUM_X2DY2.4.string.text
 msgid ""
@@ -58372,7 +58396,7 @@ msgstr "sonraí_nua X"
 msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_TREND.7.string.text\n"
 "The array of X data for recalculating the values."
-msgstr ""
+msgstr "An t-eagar de shonraí X le haghaidh athchomhairimh na luachanna."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_TREND.8.string.text
 msgid ""
@@ -58423,7 +58447,7 @@ msgstr "sonraí_nua_X"
 msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_GROWTH.7.string.text\n"
 "The array of X data for recalculating the values."
-msgstr ""
+msgstr "An t-eagar de shonraí X le haghaidh athchomhairimh na luachanna."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_GROWTH.8.string.text
 msgid ""
@@ -60137,7 +60161,7 @@ msgstr "céimeanna_saoirse_1"
 msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_F_DIST.5.string.text\n"
 "The degrees of freedom in the numerator of the F distribution."
-msgstr ""
+msgstr "Céimeanna saoirse in uimhreoir an F-dáileacháin."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_F_DIST.6.string.text
 msgid ""
@@ -60149,7 +60173,7 @@ msgstr "céimeanna_saoirse_2"
 msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_F_DIST.7.string.text\n"
 "The degrees of freedom in the denominator of the F distribution."
-msgstr ""
+msgstr "Céimeanna saoirse i gcomhainmneoir an F-dáileacháin."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_F_INV.1.string.text
 msgid "Values of the inverse F distribution."
@@ -60177,7 +60201,7 @@ msgstr "céimeanna_saoirse_1"
 msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_F_INV.5.string.text\n"
 "The degrees of freedom in the numerator of the F distribution."
-msgstr ""
+msgstr "Céimeanna saoirse in uimhreoir an F-dáileacháin."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_F_INV.6.string.text
 msgid ""
@@ -60189,7 +60213,7 @@ msgstr "céimeanna_saoirse_2"
 msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_F_INV.7.string.text\n"
 "The degrees of freedom in the denominator of the F distribution."
-msgstr ""
+msgstr "Céimeanna saoirse i gcomhainmneoir an F-dáileacháin."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_CHI_DIST.1.string.text
 msgid "Values of the chi square distribution."
@@ -60831,7 +60855,7 @@ msgstr "tagairt"
 msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_AREAS.3.string.text\n"
 "The reference to a (multiple) range."
-msgstr ""
+msgstr "An tagairt do raon/d'ilraon."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_CHOSE.1.string.text
 msgid "Selects a value from a list of up to 30 value arguments."
@@ -61058,7 +61082,7 @@ msgstr "tagairt"
 msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_INDEX.3.string.text\n"
 "The reference to a (multiple) range."
-msgstr ""
+msgstr "An tagairt do raon/d'ilraon."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_INDEX.4.string.text
 msgid ""
@@ -61119,7 +61143,7 @@ msgstr "Critéar cuardaigh"
 msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_LOOKUP.3.string.text\n"
 "The value to be used for comparison."
-msgstr ""
+msgstr "An luach le cur i gcomparáid."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_LOOKUP.4.string.text
 msgid "Search vector"
@@ -61151,7 +61175,7 @@ msgstr "Critéar cuardaigh"
 msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_MATCH.3.string.text\n"
 "The value to be used for comparison."
-msgstr ""
+msgstr "An luach le cur i gcomparáid."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_MATCH.4.string.text
 msgid "lookup_array"
@@ -61448,7 +61472,7 @@ msgstr "aimsigh_téacs"
 msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_FIND.3.string.text\n"
 "The text to be found."
-msgstr ""
+msgstr "An téacs le haimsiú."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_FIND.4.string.text
 msgid ""
@@ -61460,7 +61484,7 @@ msgstr "téacs"
 msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_FIND.5.string.text\n"
 "The text in which a search is to be made."
-msgstr ""
+msgstr "An téacs ina ndéanfar an cuardach."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_FIND.6.string.text
 msgid ""
@@ -61486,7 +61510,7 @@ msgstr "aimsigh_téacs"
 msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_SEARCH.3.string.text\n"
 "The text to be found."
-msgstr ""
+msgstr "An téacs le haimsiú."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_SEARCH.4.string.text
 msgid ""
@@ -61498,7 +61522,7 @@ msgstr "téacs"
 msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_SEARCH.5.string.text\n"
 "The text in which a search is to be made."
-msgstr ""
+msgstr "An téacs ina ndéanfar an cuardach."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_SEARCH.6.string.text
 msgid ""
@@ -61975,7 +61999,7 @@ msgstr ""
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_ROMAN.1.string.text
 msgid "Converts a number to a Roman numeral."
-msgstr ""
+msgstr "Tiontaíonn sé uimhir go huimhir Rómhánach."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_ROMAN.2.string.text
 msgid ""
@@ -62002,7 +62026,7 @@ msgstr ""
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_ARABIC.1.string.text
 msgid "Calculates the value of a Roman numeral."
-msgstr ""
+msgstr "Ríomhann sé luach d'uimhir Rómhánach."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_ARABIC.2.string.text
 msgid ""
@@ -62012,7 +62036,7 @@ msgstr "Téacs"
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_ARABIC.3.string.text
 msgid "The text that represents a Roman numeral."
-msgstr ""
+msgstr "An téacs a léiríonn uimhir Rómhánach."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_INFO.1.string.text
 msgid "Returns information about the environment."
@@ -62028,6 +62052,7 @@ msgstr "Téacs"
 msgid ""
 "Can be \"osversion\", \"system\", \"release\", \"numfile\", and \"recalc\"."
 msgstr ""
+"Ceann de \"osversion\", \"system\", \"release\", \"numfile\", nó \"recalc\"."
 
 #: scstring.src#SCSTR_APPLICATION.string.text
 msgid "%PRODUCTNAME Calc 6.0"
@@ -62082,11 +62107,11 @@ msgstr "Cealla"
 
 #: scstring.src#SCSTR_CELLSHELL.string.text
 msgid "Functions for Cells"
-msgstr ""
+msgstr "Feidhmeanna do Chealla"
 
 #: scstring.src#SCSTR_FORMATSHELL.string.text
 msgid "Formats for Cells"
-msgstr ""
+msgstr "Formáidí do Chealla"
 
 #: scstring.src#SCSTR_DRAWSHELL.string.text
 msgid "Graphics objects"
@@ -64228,7 +64253,7 @@ msgid ""
 "_: CustomAnimationDialog.src#RID_TP_CUSTOMANIMATION_DURATION.LB_START.1."
 "stringlist.text\n"
 "On click"
-msgstr ""
+msgstr "Ar chlic"
 
 #: CustomAnimationDialog.src#RID_TP_CUSTOMANIMATION_DURATION.LB_START.2.stringlist.text
 msgid ""
@@ -64369,7 +64394,7 @@ msgid ""
 "_: CustomAnimationPane.src#DLG_CUSTOMANIMATIONPANE.LB_START.1.stringlist."
 "text\n"
 "On click"
-msgstr ""
+msgstr "Ar chlic"
 
 #: CustomAnimationPane.src#DLG_CUSTOMANIMATIONPANE.LB_START.2.stringlist.text
 msgid ""
@@ -64542,7 +64567,7 @@ msgstr "Go dtí an chéad sleamhnán eile"
 
 #: SlideTransitionPane.src#DLG_SLIDE_TRANSITION_PANE.RB_ADVANCE_ON_MOUSE.radiobutton.text
 msgid "On mouse click"
-msgstr ""
+msgstr "Ar chlic luiche"
 
 #: SlideTransitionPane.src#DLG_SLIDE_TRANSITION_PANE.RB_ADVANCE_AUTO.radiobutton.text
 msgid ""
