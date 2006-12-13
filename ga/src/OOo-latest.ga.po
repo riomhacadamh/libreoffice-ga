@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: Pat Folan <pat.folan@gmit.ie>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 #: mediacontrol.src#AVMEDIA_STR_OPEN.string.text
