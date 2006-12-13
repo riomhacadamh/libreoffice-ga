@@ -14,7 +14,7 @@
 #    and give current translation counts, version number in log entry
 # $ make   (rebuilds GSI and copies it to obair for Pavel's system)
 
-VERSION=SRC680_m188
+VERSION=SRC680_m196
 
 all : OOo-$(VERSION)-ga-GSI.sdf
 	${HOME}/seal/gsicheck/gsicheck -c -l ga OOo-$(VERSION)-ga-GSI.sdf
@@ -31,19 +31,9 @@ all : OOo-$(VERSION)-ga-GSI.sdf
 #     to create a sh script "language pack" that should be installable
 #     on top of a clean English binary install of this snapshot
 #   tools->options->language, choose "ga" and restart
-OOo-$(VERSION)-ga-GSI.sdf : OOo-latest.po
+OOo-$(VERSION)-ga-GSI.sdf : OOo-latest.ga.po
 	bash oonua
 	po2oo -l ga -t en-US.sdf -i po -o $@
-
-# this is the compendium to be used to create the finished GSI/SDF,
-# obtained by converting to utf-8
-# used to do Pofake too, but now this is done in oonua with msgmerge
-# Pofake OOo-$(VERSION).ga.po | msgcat - > OOotemp.po
-OOo-latest.po : OOo-latest.ga.po
-	rm -f $@
-	po2utf8 OOo-latest.ga.po > $@
-	sed -i 's/^msgid "Document as Microsoft \([^ ]*\) Attachment\.\.\."/msgid "Document as Microsoft \1 Attachment…"/' $@
-	chmod 400 $@
 
 propogate : FORCE
 	perl adhoc.pl | msgcat - - > OOo-temp.ga.po
@@ -55,7 +45,7 @@ propogate : FORCE
 # relies on fact that utf-8/non-latin1 msgids are all in helpcontent
 #  only latin1/non-ascii are things like "Bézier"
 OOo.po-update : FORCE
-	find pot -name '*.pot' | egrep -v '^pot/helpcontent2' | sort | xargs msgcat -t utf-8 | sed 's/^msgid "Document as Microsoft \([^ ]*\) Attachment..¦"/msgid "Document as Microsoft \1 Attachment..."/' | sed '/#: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_FMT.13.stringlist.text/,/#: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_FMT.20.stringlist.text/{N; N; N; N; d}' | iconv -f utf8 -t iso-8859-1 | sed 's/plain; charset=UTF-8/plain; charset=ISO-8859-1/' > bigole.pot
+	find pot -name '*.pot' | egrep -v '^pot/helpcontent2' | sort | xargs msgcat -t utf-8 > bigole.pot
 	msgmerge -C OOo-latest.ga.po -o TEMP.po /dev/null bigole.pot
 	msgcat TEMP.po > OOo-$(VERSION).ga.po
 	rm -f bigole.pot TEMP.po
