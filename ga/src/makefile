@@ -42,8 +42,6 @@ propogate : FORCE
 	mv -f OOo-temp.ga.po OOo-latest.ga.po
 
 # once per version bump -- see instructions at the top
-# relies on fact that utf-8/non-latin1 msgids are all in helpcontent
-#  only latin1/non-ascii are things like "Bézier"
 OOo.po-update : FORCE
 	find pot -name '*.pot' | egrep -v '^pot/helpcontent2' | sort | xargs msgcat -t utf-8 > bigole.pot
 	msgmerge -C OOo-latest.ga.po -o TEMP.po /dev/null bigole.pot
