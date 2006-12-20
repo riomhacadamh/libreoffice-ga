@@ -5115,7 +5115,7 @@ msgstr " - %PRODUCTNAME Base"
 msgid ""
 "The wizard will guide you through the steps necessary to create a report."
 msgstr ""
-"Déanadh an draoi seo treorú duit trí na céimeanna chun tuairisc a chruthú."
+"Béarfaidh an draoi seo thú trí na céimeanna chun tuairisc a chruthú."
 
 #: app.src#RID_STR_FORMS_HELP_TEXT.string.text
 msgid ""
@@ -5128,7 +5128,7 @@ msgstr ""
 #: app.src#RID_STR_FORMS_HELP_TEXT_WIZARD.string.text
 msgid "The wizard will guide you through the steps necessary to create a form."
 msgstr ""
-"Déanadh an draoi seo treorú duit trí na céimeanna chun foirm a chruthú."
+"Béarfaidh an draoi seo thú trí na céimeanna chun foirm a chruthú."
 
 #: app.src#RID_STR_QUERIES_HELP_TEXT.string.text
 msgid ""
@@ -5146,7 +5146,7 @@ msgstr "Cruthaigh iarratas agus tú ag iontráil ráitis SQL go díreach."
 msgid ""
 "The wizard will guide you through the steps necessary to create a query."
 msgstr ""
-"Déanadh an draoi seo treorú duit trí na céimeanna chun iarratas a chruthú."
+"Béarfaidh an draoi seo thú trí na céimeanna chun iarratas a chruthú."
 
 #: app.src#RID_STR_TABLES_HELP_TEXT_DESIGN.string.text
 msgid ""
@@ -9028,7 +9028,7 @@ msgstr "Eisínteacht(aí) á (n)Easpórtáil"
 msgid ""
 "Please follow these steps to proceed with the installation of the extension:"
 msgstr ""
-"Lean na céimeanna seo chun dul ar aghaidh le suiteáil na heisínteachta:"
+"Lean na treoracha seo chun dul ar aghaidh le suiteáil na heisínteachta:"
 
 #: dp_gui_dialog.src#RID_DLG_LICENSE.FT_LICENSE_BODY_1.fixedtext.text
 #: wizard.src#TP_LICENSE.FT_LICENSE_BODY_1.fixedtext.text
@@ -9043,7 +9043,7 @@ msgid ""
 "Read the complete License Agreement. Use the scroll bar or the \\'Scroll Down"
 "\\' button in this dialog to view the entire license text."
 msgstr ""
-"Léigh an comhaontú ceadúnais uile. Úsáid an barra scrollaigh nó an cnaipe"
+"Léigh an ceadúnas uile. Úsáid an barra scrollaigh nó an cnaipe"
 "\\'Scroll Down\\' sa dialóg seo chun an ceadúnas a léamh ina iomláine."
 
 #: dp_gui_dialog.src#RID_DLG_LICENSE.FT_LICENSE_BODY_2.fixedtext.text
@@ -9242,8 +9242,8 @@ msgid ""
 "Agreement by typing \"yes\" on the console then press the Return key. Type "
 "\"no\" to decline and to abort the extension setup."
 msgstr ""
-"Léigh an Comhaontú Ceadúnais atá á thaispeáint thuas. Glac leis an "
-"gComhaontú Ceadúnais trí \"tá\" a chlóbhualadh ar an gconsól agus an eochair "
+"Léigh an Ceadúnas uile atá á thaispeáint thuas. Glac leis an "
+"gCeadúnas trí \"tá\" a chlóbhualadh ar an gconsól agus an eochair "
 "aisfhillte a bhrú. Clóbhuail \"níl\" le diúltú agus deireadh a chur le "
 "suiteáil na heisínteachta."
 
@@ -9317,10 +9317,9 @@ msgid ""
 "\n"
 "Click 'Next' to continue."
 msgstr ""
-"Déanadh an draoi seo treorú duit tríd an gcomhaontú ceadúnais, aistriú na "
-"seansonraí uaidh %OLD_VERSION agus clárú %PRODUCTNAME.\n"
+"Béarfaidh an draoi seo thú tríd an gcomhaontú ceadúnais, trí aistriú na "
+"seansonraí ó %OLD_VERSION, agus trí chlárú %PRODUCTNAME.\n"
 "\n"
-"Cliceáil ar 'Ar Aghaidh' le dul chun cinn."
 
 #: wizard.src#STR_WELCOME_OEM.string.text
 msgid ""
@@ -9336,7 +9335,7 @@ msgid ""
 "\n"
 "Click 'Next' to continue."
 msgstr ""
-"Déanadh an draoi seo treorú duit tríd an gcomhaontú ceadúnais agus clárú %"
+"Béarfaidh an draoi seo thú tríd an gcomhaontú ceadúnais agus trí chlárú %"
 "PRODUCTNAME.\n"
 "\n"
 "Tá eolas tábhachtach sa chomhad \"readme\" atá lonnaithe sa chomhadlann %"
@@ -9346,7 +9345,6 @@ msgstr ""
 "\n"
 "http://www.sun.com/%PRODUCTNAME.\n"
 "\n"
-"Cliceáil ar 'Ar Aghaidh' le dul chun cinn."
 
 #: wizard.src#STR_WELCOME_OEM_EXT.string.text
 msgid ""
@@ -9368,7 +9366,7 @@ msgid ""
 "\n"
 "Click 'Next' to continue."
 msgstr ""
-"Déanadh an draoi seo treorú duit tríd an gcomhaontú ceadúnais agus clárú %"
+"Béarfaidh an draoi seo thú tríd an gcomhaontú ceadúnais agus trí chlárú %"
 "PRODUCTNAME.\n"
 "\n"
 "Tá eolas tábhachtach sna comhaid readme atá lonnaithe san fhillteán %"
@@ -9398,7 +9396,7 @@ msgid ""
 "\n"
 "Click 'Next' to continue."
 msgstr ""
-"Déanadh an draoi seo treorú duit tríd an gcomhaontú ceadúnais agus clárú %"
+"Béarfaidh an draoi seo thú tríd an gcomhaontú ceadúnais agus trí chlárú %"
 "PRODUCTNAME.\n"
 "\n"
 "Ligeann an leagan seo cead duit luacháil a dhéanamh ar lán úsáid an "
@@ -9407,7 +9405,6 @@ msgstr ""
 "tuilleadh eolas faoi %PRODUCTNAME, tabhair cuairt ar www.sun.com/%"
 "PRODUCTNAME\n"
 "\n"
-"Cliceáil ar 'Ar Aghaidh' le dul chun cinn."
 
 #: wizard.src#STR_FINISH.string.text
 #: padialog.src#RID_ADD_PRINTER_DIALOG.RID_ADDP_BTN_FINISH.okbutton.text
@@ -9444,28 +9441,26 @@ msgid ""
 "\n"
 "Click 'Next' to continue."
 msgstr ""
-"Déanadh an draoi seo treorú duit tríd an gcomhaontú ceadúnais agus clárú %"
+"Béarfaidh an draoi seo thú tríd an gcomhaontú ceadúnais agus trí chlárú %"
 "PRODUCTNAME.\n"
 "\n"
-"Cliceáil ar 'Ar Aghaidh' le dul chun cinn."
 
 #: wizard.src#TP_LICENSE.FT_LICENSE_HEADER.fixedtext.text
 msgid "Please follow these steps to accept the license"
-msgstr "Lean na céimeanna thuas leis an gceadúnas a ghlacadh, le do thoil"
+msgstr "Lean na treoracha thíos chun an ceadúnas a ghlacadh, le do thoil"
 
 #: wizard.src#TP_LICENSE.FT_LICENSE_BODY_1_TXT.fixedtext.text
 msgid ""
 "View the complete License Agreement. Please use the scrollbar or the '%"
 "PAGEDOWN' button in this dialog to view the entire license text."
 msgstr ""
-"Léigh an comhaontú ceadúnais uile. Úsáid an barra scrollaigh nó an cnaipe '%"
+"Léigh an ceadúnas uile. Úsáid an barra scrollaigh nó an cnaipe '%"
 "PAGEDOWN' chun an ceadúnas a léamh ina iomlán."
 
 #: wizard.src#TP_LICENSE.FT_LICENSE_BODY_2_TXT.fixedtext.text
 msgid "Click 'Accept' to accept the terms of the Agreement."
 msgstr ""
-"Cliceáil 'Glac Leis' chun glacadh le coinníollacha an Chomhaontú um "
-"Cheadúnas."
+"Cliceáil 'Glac Leis' chun glacadh le coinníollacha an Cheadúnais."
 
 #: wizard.src#TP_LICENSE.PB_LICENSE_DOWN.pushbutton.text
 msgid "Scroll Do~wn"
@@ -9531,27 +9526,27 @@ msgstr "~Cuardaigh nuashonruithe go huathoibríoch"
 
 #: wizard.src#TP_USER.FT_USER_HEADER.fixedtext.text
 msgid "Provide your full name and initials below"
-msgstr "Tabhair d'ainm iomlán agus d'inisealacha thíos"
+msgstr "Tabhair d'ainm iomlán agus do thúslitreacha thíos"
 
 #: wizard.src#TP_USER.FT_USER_BODY.fixedtext.text
 msgid ""
 "The user name will be used in the document properties, templates and when "
 "you record changes made to documents."
 msgstr ""
-"Úsáidfear an t-ainm úsáideora in airíonna na cáipéise, teimpléid agus nuair "
-"a dhéanfar taifead at athrú a déanadh don cháipéis."
+"Úsáidfear ainm an úsáideora in airíonna na gcáipéisí agus na dteimpléad agus nuair "
+"a dhéanfar taifead ar athruithe i gcáipéisí."
 
 #: wizard.src#TP_USER.FT_USER_FIRST.fixedtext.text
 msgid "~First name"
-msgstr "Ainm ~baiste"
+msgstr "~Ainm"
 
 #: wizard.src#TP_USER.FT_USER_LAST.fixedtext.text
 msgid "~Last name"
-msgstr "Ainm s~loinne"
+msgstr "S~loinne"
 
 #: wizard.src#TP_USER.FT_USER_INITIALS.fixedtext.text
 msgid "~Initials"
-msgstr "~Inisealacha"
+msgstr "Túsl~itreacha"
 
 #: wizard.src#TP_USER.FT_USER_FATHER.fixedtext.text
 msgid "~Father's name"
@@ -9571,7 +9566,7 @@ msgid ""
 "product."
 msgstr ""
 "Anois is féidir leat clárú mar úsáideoir %PRODUCTNAME. Níl sé éigeantach "
-"agus níl oibleagáid ort.\n"
+"agus níl aon oibleagáid ort.\n"
 "\n"
 "Má chláraíonn tú, is féidir linn inseacht duit faoi fhorbairtí nua a "
 "bhaineann leis an táirge seo."
@@ -9586,7 +9581,7 @@ msgstr "Ba mhaith liom c~lárú amach anseo"
 
 #: wizard.src#TP_REGISTRATION.RB_REGISTRATION_NEVER.radiobutton.text
 msgid "I do not want to ~register"
-msgstr "Níor mhaith liom clá~rú"
+msgstr "Níor ~mhaith liom clárú"
 
 #: wizard.src#TP_REGISTRATION.RB_REGISTRATION_REG.radiobutton.text
 msgid "I have ~already registered"
@@ -9598,9 +9593,9 @@ msgid ""
 "\n"
 "To exit the wizard, click 'Finish'."
 msgstr ""
-"Tá siúl againn go dtaithíonn sé leat a bheidh ag obair le %PRODUCTNAME.\n"
+"Tá súil againn go dtaitníonn sé leat a bheith ag obair le h%PRODUCTNAME.\n"
 "\n"
-"Leis an draoi a scor, cliceáil ar 'Críochnaigh'."
+"Leis an fhuinneog a dhúnadh, cliceáil 'Críochnaigh'."
 
 #: setup.ulf#_APP_TITLE_.LngText.text
 msgid "Setup"
@@ -10714,7 +10709,7 @@ msgstr ""
 #: preload.src#RID_TP_LICENSE.FT_INFO1.fixedtext.text
 #: resource.src#DLG_LICENSE.FT_INFO1.fixedtext.text
 msgid "Please follow these steps to proceed with the installation:"
-msgstr "Lean na céimeanna seo chun dul ar aghaidh leis an tsuiteáil:"
+msgstr "Lean na treoracha seo chun dul ar aghaidh leis an tsuiteáil:"
 
 #: preload.src#RID_TP_LICENSE.FT_INFO2.fixedtext.text
 #: resource.src#DLG_LICENSE.FT_INFO2.fixedtext.text
@@ -10722,7 +10717,7 @@ msgid ""
 "View the complete License Agreement. Please use the scroll bar or the '%"
 "PAGEDOWN' button in this dialog to view the entire license text."
 msgstr ""
-"Léigh an comhaontú ceadúnais uile. Úsáid an barra scrollaigh nó an cnaipe '%"
+"Léigh an ceadúnas uile. Úsáid an barra scrollaigh nó an cnaipe '%"
 "PAGEDOWN' sa dialóg seo chun an ceadúnas a léamh ina iomlán."
 
 #: preload.src#RID_TP_LICENSE.PB_PAGEDOWN.pushbutton.text
@@ -10733,11 +10728,11 @@ msgstr "Leathanach Síos"
 #: preload.src#RID_TP_LICENSE.FT_INFO3.fixedtext.text
 #: resource.src#DLG_LICENSE.FT_INFO3.fixedtext.text
 msgid "Accept the License Agreement."
-msgstr "Glac leis an Chomhaontú um Cheadúnas."
+msgstr "Glac le coinníollacha an Cheadúnais."
 
 #: preload.src#RID_TP_LICENSE.CB_ACCEPT.checkbox.text
 msgid "I accept the terms of the Agreement."
-msgstr "Glacaim le coinníollacha an Chomhaontú um Cheadúnas."
+msgstr "Glacaim le coinníollacha an Cheadúnais."
 
 #: fontdialog.src#RID_TABDLG_FONTDIALOG.1.TABPAGE_CHARACTERS.pageitem.text
 msgid ""
@@ -15078,7 +15073,7 @@ msgstr "Cealaigh"
 
 #: Control.ulf#OOO_CONTROL_132.LngText.text
 msgid "Please read the following license agreement carefully."
-msgstr "Léigh an comhaontú um cheadúnas bogearra a leanas go cúramach."
+msgstr "Léigh an ceadúnas seo a leanas go cúramach."
 
 #: Control.ulf#OOO_CONTROL_133.LngText.text
 msgid "{&MSSansBold8}License Agreement"
@@ -17460,7 +17455,6 @@ msgstr ""
 "dhiosca crua le haghaidh na suiteála. Tar éis sin, tosófar suiteáil %"
 "PRODUCTNAME go huathoibríoch.\\r\n"
 "\\r\n"
-"Cliceáil \\'Ar Aghaidh\\' chun dul ar aghaidh."
 
 #: Nsis.ulf#MUI_TEXT_DIRECTORY_TITLE.LngText.text
 msgid "Select Folder"
@@ -18017,7 +18011,7 @@ msgstr "Seoltaí Cnuasaithe"
 #: fldui.src#FLD_EU_VORNAME.string.text
 #: template.src#CorrespondenceFields_3.string.text
 msgid "First Name"
-msgstr "Ainm Baiste"
+msgstr "Ainm"
 
 #: DataAccess.xcu#..DataAccess.DriverSettings.com.sun.star.comp.sdbc.MozabDriver.ColumnAliases.LastName.value.text
 #: dbui.src#SA_ADDRESS_HEADER.3.itemlist.text
@@ -74638,7 +74632,7 @@ msgstr "Roinn"
 #: addresstemplate.src#STR_FIELD_FIRSTNAME.string.text
 #: chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.3.stringlist.text
 msgid "First name"
-msgstr "Ainm baiste"
+msgstr "Ainm"
 
 #: addresstemplate.src#STR_FIELD_LASTNAME.string.text
 #: chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.4.stringlist.text
@@ -74679,7 +74673,7 @@ msgstr "Foirm Sheolta"
 #: addresstemplate.src#STR_FIELD_INITIALS.string.text
 #: template.src#CorrespondenceFields_12.string.text
 msgid "Initials"
-msgstr "Inisealacha"
+msgstr "Túslitreacha"
 
 #: addresstemplate.src#STR_FIELD_SALUTATION.string.text
 #: poolfmt.src#STR_POOLCOLL_GREETING.string.text
@@ -76706,7 +76700,7 @@ msgstr "Anois is féidir leat clárú mar úsáideoir %PRODUCTNAME."
 
 #: registrationdlg.src#DLG_REGISTRATION_REQUEST.STR_COMPLETE_INTRO.string.text
 msgid " Registration is voluntary and is without obligation."
-msgstr " Níl sé éigeantach agus níl oibleagáid ort."
+msgstr " Níl sé éigeantach agus níl aon oibleagáid ort."
 
 #: registrationdlg.src#DLG_REGISTRATION_REQUEST.RB_NOW.radiobutton.text
 msgid "Register now"
@@ -93419,11 +93413,11 @@ msgstr "~Comhlacht"
 #: optgenrl.src#RID_SFXPAGE_GENERAL.FT_NAME.fixedtext.text
 #: label.src#TP_PRIVATE_DATA.FT_NAME.fixedtext.text
 msgid "First/Last ~name/Initials"
-msgstr "Ainm baiste/Sloi~nn/Inisealacha"
+msgstr "Ainm/Sloi~nne/Túslitreacha"
 
 #: optgenrl.src#RID_SFXPAGE_GENERAL.FT_NAME_RUSS.fixedtext.text
 msgid "First name/Father's name/Last name/Initials"
-msgstr "Ainm baiste/Ainm athar/Sloinne/Inisealacha"
+msgstr "Ainm/Ainm athar/Sloinne/Túslitreacha"
 
 #: optgenrl.src#RID_SFXPAGE_GENERAL.FT_STREET.fixedtext.text
 msgid "~Street"
@@ -102546,7 +102540,7 @@ msgstr "Sonraí Príobháideacha"
 
 #: label.src#TP_PRIVATE_DATA.FT_NAME_2.fixedtext.text
 msgid "First/Last ~name/Initials 2"
-msgstr "Ainm baiste/Sloi~nn/Inisealacha 2"
+msgstr "Ainm/Sloi~nne/Túslitreacha 2"
 
 #: label.src#TP_PRIVATE_DATA.FT_STREET.fixedtext.text
 msgid "S~treet"
@@ -103355,7 +103349,7 @@ msgstr "Lámhleabhar DDE"
 msgid ""
 "_: fldui.src#FLD_EU_ABK.string.text\n"
 "Initials"
-msgstr "Inisealacha"
+msgstr "Túslitreacha"
 
 #: fldui.src#FLD_EU_PLZ.string.text
 msgid "Zip code"
@@ -103431,7 +103425,7 @@ msgstr "Ainm"
 msgid ""
 "_: fldui.src#FMT_AUTHOR_SCUT.string.text\n"
 "Initials"
-msgstr "Inisealacha"
+msgstr "Túslitreacha"
 
 #: fldui.src#FMT_SETVAR_SYS.string.text
 msgid ""
