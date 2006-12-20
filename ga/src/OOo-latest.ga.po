@@ -1,12 +1,12 @@
 # OOo pot file for Irish.
-#   CURRENT VERSION = SRC680_m196
+#   CURRENT VERSION = SRC680_m197
 # First version produced Sept. 2004 by Kevin Scannell using the oo2po
 # scripts by David Fraser et al
 msgid ""
 msgstr ""
 "Project-Id-Version: OOo\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-12-06 21:16+0100\n"
+"POT-Creation-Date: 2006-12-15 14:03+0100\n"
 "PO-Revision-Date: 2006-10-18 16:30-0000\n"
 "Last-Translator: Pat Folan <pat.folan@gmit.ie>\n"
 "Language-Team: \n"
@@ -4411,6 +4411,33 @@ msgstr "Ní féidir an ró iarrtha a aimsiú."
 msgid "Can't find the card for the requested row."
 msgstr "Ní féidir an cárta a aimsiú don ró iarrtha."
 
+#: conn_shared_res.src#STR_STRING_LENGTH_EXCEEDED.string.text
+msgid ""
+"The string '$string$' exceeds the maximum length of $maxlen$ characters when "
+"converted to the target character set '$charset$'."
+msgstr ""
+
+#: conn_shared_res.src#STR_CANNOT_CONVERT_STRING.string.text
+msgid ""
+"The string '$string$' cannot be converted using the encoding '$charset'."
+msgstr ""
+
+#: conn_shared_res.src#STR_URI_SYNTAX_ERROR.string.text
+msgid "The connection URL is invalid."
+msgstr "Tá URL an naisc neamhbhailí."
+
+#: conn_shared_res.src#STR_NO_HOSTNAME.string.text
+msgid "No hostname was provided."
+msgstr ""
+
+#: conn_shared_res.src#STR_NO_BASEDN.string.text
+msgid "No Base DN was provided."
+msgstr ""
+
+#: conn_shared_res.src#STR_COULD_NOT_CONNECT_LDAP.string.text
+msgid "The connection to the LDAP server could not be established."
+msgstr "Níorbh fhéidir nasc a bhunú leis an bhfreastalaí LDAP."
+
 #: crashrep.ulf#_WELCOME_CAPTION_.LngText.text
 msgid ""
 "_: crashrep.ulf#_WELCOME_CAPTION_.LngText.text\n"
@@ -5063,6 +5090,11 @@ msgstr "Greamaigh Speisialta..."
 msgid "Delete"
 msgstr "Scrios"
 
+#: app.src#RID_MENU_APP_EDIT.SID_DB_APP_EDIT_SQL_VIEW.menuitem.text
+#: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBEditSqlView.Label.value.text
+msgid "Edit in SQL View..."
+msgstr "Cuir in Eagar san Amharc SQL..."
+
 #: app.src#RID_MENU_APP_EDIT.SID_DB_APP_CONVERTTOVIEW.menuitem.text
 #: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBConvertToView.Label.value.text
 msgid "Create as View"
@@ -5114,8 +5146,7 @@ msgstr " - %PRODUCTNAME Base"
 #: app.src#RID_STR_REPORTS_HELP_TEXT_WIZARD.string.text
 msgid ""
 "The wizard will guide you through the steps necessary to create a report."
-msgstr ""
-"Béarfaidh an draoi seo thú trí na céimeanna chun tuairisc a chruthú."
+msgstr "Béarfaidh an draoi seo thú trí na céimeanna chun tuairisc a chruthú."
 
 #: app.src#RID_STR_FORMS_HELP_TEXT.string.text
 msgid ""
@@ -5127,8 +5158,7 @@ msgstr ""
 
 #: app.src#RID_STR_FORMS_HELP_TEXT_WIZARD.string.text
 msgid "The wizard will guide you through the steps necessary to create a form."
-msgstr ""
-"Béarfaidh an draoi seo thú trí na céimeanna chun foirm a chruthú."
+msgstr "Béarfaidh an draoi seo thú trí na céimeanna chun foirm a chruthú."
 
 #: app.src#RID_STR_QUERIES_HELP_TEXT.string.text
 msgid ""
@@ -5145,8 +5175,7 @@ msgstr "Cruthaigh iarratas agus tú ag iontráil ráitis SQL go díreach."
 #: app.src#RID_STR_QUERIES_HELP_TEXT_WIZARD.string.text
 msgid ""
 "The wizard will guide you through the steps necessary to create a query."
-msgstr ""
-"Béarfaidh an draoi seo thú trí na céimeanna chun iarratas a chruthú."
+msgstr "Béarfaidh an draoi seo thú trí na céimeanna chun iarratas a chruthú."
 
 #: app.src#RID_STR_TABLES_HELP_TEXT_DESIGN.string.text
 msgid ""
@@ -5997,6 +6026,10 @@ msgstr "Cuir Tábla nó Iarratas Leis"
 msgid "Append the table alias name on SELECT statements"
 msgstr "Iarcheangail ailias an tábla le ráitis SELECT"
 
+#: dbadmin.src#AUTO_AS_BEFORE_CORR_NAME_AUTO_Y_.CB_AS_BEFORE_CORR_NAME.checkbox.text
+msgid "Use keyword AS before table alias names"
+msgstr ""
+
 #: dbadmin.src#AUTO_IGNOREINDEXAPPENDIX_AUTO_Y_.CB_IGNOREINDEXAPPENDIX.checkbox.text
 msgid "Create index with ASC or DESC statement"
 msgstr "Cruthaigh innéacs le ráiteas ASC nó DESC"
@@ -6213,158 +6246,6 @@ msgstr ""
 #: dbadmin.src#PAGE_DBASE.PB_INDICIES.pushbutton.text
 msgid "Indexes..."
 msgstr "Innéacsanna..."
-
-#: dbadmin.src#PAGE_DS_PROPERTIES_1.LB_BOOLEANCOMPARISON.1.stringlist.text
-msgid ""
-"_: dbadmin.src#PAGE_DS_PROPERTIES_1.LB_BOOLEANCOMPARISON.1.stringlist.text\n"
-"Default"
-msgstr "Réamhshocrú"
-
-#: dbadmin.src#PAGE_DS_PROPERTIES_1.LB_BOOLEANCOMPARISON.2.stringlist.text
-msgid ""
-"_: dbadmin.src#PAGE_DS_PROPERTIES_1.LB_BOOLEANCOMPARISON.2.stringlist.text\n"
-"SQL"
-msgstr "SQL"
-
-#: dbadmin.src#PAGE_DS_PROPERTIES_1.LB_BOOLEANCOMPARISON.3.stringlist.text
-msgid ""
-"_: dbadmin.src#PAGE_DS_PROPERTIES_1.LB_BOOLEANCOMPARISON.3.stringlist.text\n"
-"Mixed"
-msgstr "Measctha"
-
-#: dbadmin.src#PAGE_DS_PROPERTIES_1.LB_BOOLEANCOMPARISON.4.stringlist.text
-msgid ""
-"_: dbadmin.src#PAGE_DS_PROPERTIES_1.LB_BOOLEANCOMPARISON.4.stringlist.text\n"
-"MS Access"
-msgstr "MS Access"
-
-#: dbadmin.src#PAGE_DS_PROPERTIES_2.LB_BOOLEANCOMPARISON.1.stringlist.text
-msgid ""
-"_: dbadmin.src#PAGE_DS_PROPERTIES_2.LB_BOOLEANCOMPARISON.1.stringlist.text\n"
-"Default"
-msgstr "Réamhshocrú"
-
-#: dbadmin.src#PAGE_DS_PROPERTIES_2.LB_BOOLEANCOMPARISON.2.stringlist.text
-msgid ""
-"_: dbadmin.src#PAGE_DS_PROPERTIES_2.LB_BOOLEANCOMPARISON.2.stringlist.text\n"
-"SQL"
-msgstr "SQL"
-
-#: dbadmin.src#PAGE_DS_PROPERTIES_2.LB_BOOLEANCOMPARISON.3.stringlist.text
-msgid ""
-"_: dbadmin.src#PAGE_DS_PROPERTIES_2.LB_BOOLEANCOMPARISON.3.stringlist.text\n"
-"Mixed"
-msgstr "Measctha"
-
-#: dbadmin.src#PAGE_DS_PROPERTIES_2.LB_BOOLEANCOMPARISON.4.stringlist.text
-msgid ""
-"_: dbadmin.src#PAGE_DS_PROPERTIES_2.LB_BOOLEANCOMPARISON.4.stringlist.text\n"
-"MS Access"
-msgstr "MS Access"
-
-#: dbadmin.src#PAGE_DS_PROPERTIES_3.LB_BOOLEANCOMPARISON.1.stringlist.text
-msgid ""
-"_: dbadmin.src#PAGE_DS_PROPERTIES_3.LB_BOOLEANCOMPARISON.1.stringlist.text\n"
-"Default"
-msgstr "Réamhshocrú"
-
-#: dbadmin.src#PAGE_DS_PROPERTIES_3.LB_BOOLEANCOMPARISON.2.stringlist.text
-msgid ""
-"_: dbadmin.src#PAGE_DS_PROPERTIES_3.LB_BOOLEANCOMPARISON.2.stringlist.text\n"
-"SQL"
-msgstr "SQL"
-
-#: dbadmin.src#PAGE_DS_PROPERTIES_3.LB_BOOLEANCOMPARISON.3.stringlist.text
-msgid ""
-"_: dbadmin.src#PAGE_DS_PROPERTIES_3.LB_BOOLEANCOMPARISON.3.stringlist.text\n"
-"Mixed"
-msgstr "Measctha"
-
-#: dbadmin.src#PAGE_DS_PROPERTIES_3.LB_BOOLEANCOMPARISON.4.stringlist.text
-msgid ""
-"_: dbadmin.src#PAGE_DS_PROPERTIES_3.LB_BOOLEANCOMPARISON.4.stringlist.text\n"
-"MS Access"
-msgstr "MS Access"
-
-#: dbadmin.src#PAGE_DS_PROPERTIES_ACCESS.LB_BOOLEANCOMPARISON.1.stringlist.text
-msgid ""
-"_: dbadmin.src#PAGE_DS_PROPERTIES_ACCESS.LB_BOOLEANCOMPARISON.1.stringlist."
-"text\n"
-"Default"
-msgstr "Réamhshocrú"
-
-#: dbadmin.src#PAGE_DS_PROPERTIES_ACCESS.LB_BOOLEANCOMPARISON.2.stringlist.text
-msgid ""
-"_: dbadmin.src#PAGE_DS_PROPERTIES_ACCESS.LB_BOOLEANCOMPARISON.2.stringlist."
-"text\n"
-"SQL"
-msgstr "SQL"
-
-#: dbadmin.src#PAGE_DS_PROPERTIES_ACCESS.LB_BOOLEANCOMPARISON.3.stringlist.text
-msgid ""
-"_: dbadmin.src#PAGE_DS_PROPERTIES_ACCESS.LB_BOOLEANCOMPARISON.3.stringlist."
-"text\n"
-"Mixed"
-msgstr "Measctha"
-
-#: dbadmin.src#PAGE_DS_PROPERTIES_ACCESS.LB_BOOLEANCOMPARISON.4.stringlist.text
-msgid ""
-"_: dbadmin.src#PAGE_DS_PROPERTIES_ACCESS.LB_BOOLEANCOMPARISON.4.stringlist."
-"text\n"
-"MS Access"
-msgstr "MS Access"
-
-#: dbadmin.src#PAGE_DS_PROPERTIES_ENABLEOJ.LB_BOOLEANCOMPARISON.1.stringlist.text
-msgid ""
-"_: dbadmin.src#PAGE_DS_PROPERTIES_ENABLEOJ.LB_BOOLEANCOMPARISON.1.stringlist."
-"text\n"
-"Default"
-msgstr "Réamhshocrú"
-
-#: dbadmin.src#PAGE_DS_PROPERTIES_ENABLEOJ.LB_BOOLEANCOMPARISON.2.stringlist.text
-msgid ""
-"_: dbadmin.src#PAGE_DS_PROPERTIES_ENABLEOJ.LB_BOOLEANCOMPARISON.2.stringlist."
-"text\n"
-"SQL"
-msgstr "SQL"
-
-#: dbadmin.src#PAGE_DS_PROPERTIES_ENABLEOJ.LB_BOOLEANCOMPARISON.3.stringlist.text
-msgid ""
-"_: dbadmin.src#PAGE_DS_PROPERTIES_ENABLEOJ.LB_BOOLEANCOMPARISON.3.stringlist."
-"text\n"
-"Mixed"
-msgstr "Measctha"
-
-#: dbadmin.src#PAGE_DS_PROPERTIES_ENABLEOJ.LB_BOOLEANCOMPARISON.4.stringlist.text
-msgid ""
-"_: dbadmin.src#PAGE_DS_PROPERTIES_ENABLEOJ.LB_BOOLEANCOMPARISON.4.stringlist."
-"text\n"
-"MS Access"
-msgstr "MS Access"
-
-#: dbadmin.src#PAGE_DS_PROPERTIES_4.LB_BOOLEANCOMPARISON.1.stringlist.text
-msgid ""
-"_: dbadmin.src#PAGE_DS_PROPERTIES_4.LB_BOOLEANCOMPARISON.1.stringlist.text\n"
-"Default"
-msgstr "Réamhshocrú"
-
-#: dbadmin.src#PAGE_DS_PROPERTIES_4.LB_BOOLEANCOMPARISON.2.stringlist.text
-msgid ""
-"_: dbadmin.src#PAGE_DS_PROPERTIES_4.LB_BOOLEANCOMPARISON.2.stringlist.text\n"
-"SQL"
-msgstr "SQL"
-
-#: dbadmin.src#PAGE_DS_PROPERTIES_4.LB_BOOLEANCOMPARISON.3.stringlist.text
-msgid ""
-"_: dbadmin.src#PAGE_DS_PROPERTIES_4.LB_BOOLEANCOMPARISON.3.stringlist.text\n"
-"Mixed"
-msgstr "Measctha"
-
-#: dbadmin.src#PAGE_DS_PROPERTIES_4.LB_BOOLEANCOMPARISON.4.stringlist.text
-msgid ""
-"_: dbadmin.src#PAGE_DS_PROPERTIES_4.LB_BOOLEANCOMPARISON.4.stringlist.text\n"
-"MS Access"
-msgstr "MS Access"
 
 #: dbadmin.src#PAGE_ODBC.FL_SEPARATOR1.fixedline.text
 msgid "Optional Settings"
@@ -7726,6 +7607,7 @@ msgstr "Cru~thaigh príomheochair"
 #: xmlfilterdialogstrings.src#STR_COLUMN_HEADER_NAME.string.text
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_FrameName.Label.value.text
 #: padialog.src#RID_TXT_TESTPAGE_NAME.string.text
+#: custsdlg.src#DLG_DEFINE_CUSTOMSHOW.FT_NAME.fixedtext.text
 #: shells.src#STR_NAME_SHAPE_LABEL.string.text
 #: dbwizres.src#RID_AGENDAWIZARDDIALOG_START__44.string.text
 msgid "Name"
@@ -9043,8 +8925,8 @@ msgid ""
 "Read the complete License Agreement. Use the scroll bar or the \\'Scroll Down"
 "\\' button in this dialog to view the entire license text."
 msgstr ""
-"Léigh an ceadúnas uile. Úsáid an barra scrollaigh nó an cnaipe"
-"\\'Scroll Down\\' sa dialóg seo chun an ceadúnas a léamh ina iomláine."
+"Léigh an ceadúnas uile. Úsáid an barra scrollaigh nó an cnaipe\\'Scroll Down"
+"\\' sa dialóg seo chun an ceadúnas a léamh ina iomláine."
 
 #: dp_gui_dialog.src#RID_DLG_LICENSE.FT_LICENSE_BODY_2.fixedtext.text
 #: wizard.src#TP_LICENSE.FT_LICENSE_BODY_2.fixedtext.text
@@ -9242,10 +9124,10 @@ msgid ""
 "Agreement by typing \"yes\" on the console then press the Return key. Type "
 "\"no\" to decline and to abort the extension setup."
 msgstr ""
-"Léigh an Ceadúnas uile atá á thaispeáint thuas. Glac leis an "
-"gCeadúnas trí \"tá\" a chlóbhualadh ar an gconsól agus an eochair "
-"aisfhillte a bhrú. Clóbhuail \"níl\" le diúltú agus deireadh a chur le "
-"suiteáil na heisínteachta."
+"Léigh an Ceadúnas uile atá á thaispeáint thuas. Glac leis an gCeadúnas trí "
+"\"tá\" a chlóbhualadh ar an gconsól agus an eochair aisfhillte a bhrú. "
+"Clóbhuail \"níl\" le diúltú agus deireadh a chur le suiteáil na "
+"heisínteachta."
 
 #: unopkg.src#RID_STR_UNOPKG_ACCEPT_LIC_3.string.text
 msgid "[Enter \"yes\" or \"no\"]:"
@@ -9319,7 +9201,8 @@ msgid ""
 msgstr ""
 "Béarfaidh an draoi seo thú tríd an gcomhaontú ceadúnais, trí aistriú na "
 "seansonraí ó %OLD_VERSION, agus trí chlárú %PRODUCTNAME.\n"
-"\n "
+"\n"
+" "
 
 #: wizard.src#STR_WELCOME_OEM.string.text
 msgid ""
@@ -9344,7 +9227,8 @@ msgstr ""
 "Tá mioneolas ar fáil freisin ar shuíomh Idirlíon Sun ag\n"
 "\n"
 "http://www.sun.com/%PRODUCTNAME.\n"
-"\n "
+"\n"
+" "
 
 #: wizard.src#STR_WELCOME_OEM_EXT.string.text
 msgid ""
@@ -9404,7 +9288,8 @@ msgstr ""
 "tú in ann é a úsáid ach taobh istigh do %EVALDAYS i ndiaidh suiteáil. Le "
 "tuilleadh eolas faoi %PRODUCTNAME, tabhair cuairt ar www.sun.com/%"
 "PRODUCTNAME\n"
-"\n "
+"\n"
+" "
 
 #: wizard.src#STR_FINISH.string.text
 #: padialog.src#RID_ADD_PRINTER_DIALOG.RID_ADDP_BTN_FINISH.okbutton.text
@@ -9443,7 +9328,8 @@ msgid ""
 msgstr ""
 "Béarfaidh an draoi seo thú tríd an gcomhaontú ceadúnais agus trí chlárú %"
 "PRODUCTNAME.\n"
-"\n "
+"\n"
+" "
 
 #: wizard.src#TP_LICENSE.FT_LICENSE_HEADER.fixedtext.text
 msgid "Please follow these steps to accept the license"
@@ -9454,13 +9340,12 @@ msgid ""
 "View the complete License Agreement. Please use the scrollbar or the '%"
 "PAGEDOWN' button in this dialog to view the entire license text."
 msgstr ""
-"Léigh an ceadúnas uile. Úsáid an barra scrollaigh nó an cnaipe '%"
-"PAGEDOWN' chun an ceadúnas a léamh ina iomlán."
+"Léigh an ceadúnas uile. Úsáid an barra scrollaigh nó an cnaipe '%PAGEDOWN' "
+"chun an ceadúnas a léamh ina iomlán."
 
 #: wizard.src#TP_LICENSE.FT_LICENSE_BODY_2_TXT.fixedtext.text
 msgid "Click 'Accept' to accept the terms of the Agreement."
-msgstr ""
-"Cliceáil 'Glac Leis' chun glacadh le coinníollacha an Cheadúnais."
+msgstr "Cliceáil 'Glac Leis' chun glacadh le coinníollacha an Cheadúnais."
 
 #: wizard.src#TP_LICENSE.PB_LICENSE_DOWN.pushbutton.text
 msgid "Scroll Do~wn"
@@ -9533,8 +9418,8 @@ msgid ""
 "The user name will be used in the document properties, templates and when "
 "you record changes made to documents."
 msgstr ""
-"Úsáidfear ainm an úsáideora in airíonna na gcáipéisí agus na dteimpléad agus nuair "
-"a dhéanfar taifead ar athruithe i gcáipéisí."
+"Úsáidfear ainm an úsáideora in airíonna na gcáipéisí agus na dteimpléad agus "
+"nuair a dhéanfar taifead ar athruithe i gcáipéisí."
 
 #: wizard.src#TP_USER.FT_USER_FIRST.fixedtext.text
 msgid "~First name"
@@ -10717,8 +10602,8 @@ msgid ""
 "View the complete License Agreement. Please use the scroll bar or the '%"
 "PAGEDOWN' button in this dialog to view the entire license text."
 msgstr ""
-"Léigh an ceadúnas uile. Úsáid an barra scrollaigh nó an cnaipe '%"
-"PAGEDOWN' sa dialóg seo chun an ceadúnas a léamh ina iomlán."
+"Léigh an ceadúnas uile. Úsáid an barra scrollaigh nó an cnaipe '%PAGEDOWN' "
+"sa dialóg seo chun an ceadúnas a léamh ina iomlán."
 
 #: preload.src#RID_TP_LICENSE.PB_PAGEDOWN.pushbutton.text
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_GoDownBlock.Label.value.text
@@ -11950,6 +11835,12 @@ msgstr "Sonraí"
 #: propres.src#RID_STR_BOOL.string.text
 msgid "No;Yes"
 msgstr "Níl;Tá"
+
+#: propres.src#RID_STR_HELP_SECTION_LABEL.string.text
+#: optgdlg.src#OFA_TP_MISC.FL_HELP.fixedline.text
+#: optpath.src#RID_SVXSTR_KEY_HELP_DIR.string.text
+msgid "Help"
+msgstr "Cabhair"
 
 #: selectlabeldialog.src#RID_DLG_SELECTLABELCONTROL.1.fixedtext.text
 msgid ""
@@ -13327,7 +13218,8 @@ msgstr ""
 
 #: strings.src#RID_STR_FEATURE_NOT_EXECUTABLE.string.text
 msgid "This function cannot be executed, but is only for status queries."
-msgstr "Ní féidir an gníomh a dhéanamh - ní úsáidtear é ach d'iarratais stádais."
+msgstr ""
+"Ní féidir an gníomh a dhéanamh - ní úsáidtear é ach d'iarratais stádais."
 
 #: strings.src#RID_STR_FEATURE_UNKNOWN.string.text
 msgid "Unknown function."
@@ -17454,7 +17346,8 @@ msgstr ""
 "Caithfidh na comhaid suiteála a bheith díphacáilte agus cóipeáilte ar do "
 "dhiosca crua le haghaidh na suiteála. Tar éis sin, tosófar suiteáil %"
 "PRODUCTNAME go huathoibríoch.\\r\n"
-"\\r\n "
+"\\r\n"
+" "
 
 #: Nsis.ulf#MUI_TEXT_DIRECTORY_TITLE.LngText.text
 msgid "Select Folder"
@@ -27401,9 +27294,14 @@ msgstr "~Cleacht Amuithe"
 msgid "SlideTransition"
 msgstr "Trasdul Sleamhnán"
 
+#: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_ShowSlide.Label.value.text
+msgid "Sho~w Slide"
+msgstr "Taispeái~n Sleamhnán"
+
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_HideSlide.Label.value.text
-msgid "~Show/Hide Slide"
-msgstr "Tai~speáin/Folaigh Sleamhnán"
+#: menuids3_tmpl.src#MN_HIDE_SLIDE.SID_HIDE_SLIDE.menuitem.text
+msgid "~Hide Slide"
+msgstr "Folaig~h Sleamhnán"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_TextAttributes.Label.value.text
 #: objdraw.src#MN_DRWTXTATTR.SID_DRAWTEXT_ATTR_DLG.menuitem.text
@@ -27573,8 +27471,7 @@ msgid "~Connector..."
 msgstr "~Nascóir..."
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_PresentationDialog.Label.value.text
-#: menuids2_tmpl.src#MN_PRESENTATION_DLG.SID_PRESENTATION_DLG.menuitem.text
-msgid "~Slide Show Settings..."
+msgid "S~lide Show Settings..."
 msgstr "~Socruithe an Taispeántais Sleamhnán..."
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_Hyphenation.Label.value.text
@@ -54337,6 +54234,12 @@ msgid ""
 "target character set \"$(ARG2)\"."
 msgstr ""
 
+#: scerrors.src#RID_ERRHDLSC.SCERR_EXPORT_FIELDWIDTH___ERRCODE_RES_MASK.string.text
+msgid ""
+"Cell $(ARG1) contains a string that is longer in the selected target "
+"character set \"$(ARG2)\" than the given field width."
+msgstr ""
+
 #: scerrors.src#RID_ERRHDLSC.SCWARN_EXPORT_ASCII___ERRCODE_RES_MASK.string.text
 msgid "Only the active sheet was saved."
 msgstr "Níor sábháladh ach an bhileog reatha."
@@ -64793,6 +64696,10 @@ msgstr "~Seiceáil..."
 msgid "~Thesaurus..."
 msgstr "~Teasáras..."
 
+#: menuids2_tmpl.src#MN_PRESENTATION_DLG.SID_PRESENTATION_DLG.menuitem.text
+msgid "~Slide Show Settings..."
+msgstr "~Socruithe an Taispeántais Sleamhnán..."
+
 #: menuids2_tmpl.src#MN_ANIMATION_OBJECTS.SID_ANIMATION_OBJECTS.menuitem.text
 msgid "~Animation"
 msgstr "~Beochan"
@@ -64901,9 +64808,9 @@ msgstr "Dearadh ~Sleamhnáin"
 msgid "Slide ~Transition"
 msgstr "~Trasdul Sleamhnán"
 
-#: menuids3_tmpl.src#MN_HIDE_SLIDE.SID_HIDE_SLIDE.menuitem.text
-msgid "~Hide Slide"
-msgstr "Folaig~h Sleamhnán"
+#: menuids3_tmpl.src#MN_SHOW_SLIDE.SID_SHOW_SLIDE.menuitem.text
+msgid "~Show Slide"
+msgstr "Tai~speáin Sleamhnán"
 
 #: menuids3_tmpl.src#MN_GROUP_IMPRESS.SID_GROUP.menuitem.text
 msgid ""
@@ -64949,8 +64856,8 @@ msgid ""
 msgstr "~Scrios"
 
 #: menuids_tmpl.src#MN_MODIFY_PAGE.SID_MODIFYPAGE.menuitem.text
-msgid "~Slide Layout"
-msgstr "Leagan Amach ~Sleamhnán"
+msgid "Slide ~Layout"
+msgstr "~Leagan Amach an tSleamhnáin"
 
 #: menuids_tmpl.src#MN_FORMAT_PAGE.SID_PAGESETUP.menuitem.text
 msgid "~Page Setup..."
@@ -68103,12 +68010,6 @@ msgstr "Ú~sáid Taispeántas Saincheaptha Sleamhnán"
 msgid "Custom Slide Shows"
 msgstr "Taispeántais Shaincheaptha Sleamhnán"
 
-#: custsdlg.src#DLG_DEFINE_CUSTOMSHOW.FT_NAME.fixedtext.text
-msgid ""
-"_: custsdlg.src#DLG_DEFINE_CUSTOMSHOW.FT_NAME.fixedtext.text\n"
-"Name"
-msgstr "Ainm"
-
 #: custsdlg.src#DLG_DEFINE_CUSTOMSHOW.FT_PAGES.fixedtext.text
 msgid "Existing slides"
 msgstr "Sleamhnáin atá ann"
@@ -68361,10 +68262,8 @@ msgid "New Snap Object"
 msgstr "Réad Nua Léime"
 
 #: headerfooterdlg.src#RID_SD_DLG_HEADERFOOTER.1.RID_SD_TABPAGE_HEADERFOOTER_SLIDE.pageitem.text
-msgid ""
-"_: headerfooterdlg.src#RID_SD_DLG_HEADERFOOTER.1."
-"RID_SD_TABPAGE_HEADERFOOTER_SLIDE.pageitem.text\n"
-"Slide"
+#: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.22.itemlist.text
+msgid "Slide"
 msgstr "Sleamhnán"
 
 #: headerfooterdlg.src#RID_SD_DLG_HEADERFOOTER.1.RID_SD_TABPAGE_HEADERFOOTER_NOTESHANDOUT.pageitem.text
@@ -68602,42 +68501,6 @@ msgid ""
 "_: navigatr.src#FLT_NAVIGATOR.LB_DOCS.listbox.text\n"
 "-"
 msgstr "-"
-
-#: new_foil.src#DLG_NEW_FOIL.BTN_DELETE.pushbutton.text
-msgid ""
-"_: new_foil.src#DLG_NEW_FOIL.BTN_DELETE.pushbutton.text\n"
-"~Delete"
-msgstr "~Scrios"
-
-#: new_foil.src#DLG_NEW_FOIL.FT_LAYOUT.fixedtext.text
-msgid "Select an ~AutoLayout"
-msgstr "Roghnaigh ~Leagan Amach Uathoibríoch"
-
-#: new_foil.src#DLG_NEW_FOIL.CBX_BACKGROUND.checkbox.text
-msgid "~Background"
-msgstr "~Cúlra"
-
-#: new_foil.src#DLG_NEW_FOIL.CBX_OBJECTS.checkbox.text
-msgid "~Objects on background"
-msgstr "Réada ~sa chúlra"
-
-#: new_foil.src#DLG_NEW_FOIL.FL_DISPLAY.fixedline.text
-msgid ""
-"_: new_foil.src#DLG_NEW_FOIL.FL_DISPLAY.fixedline.text\n"
-"Display"
-msgstr "Taispeáin"
-
-#: new_foil.src#DLG_NEW_FOIL.FL_NAME.fixedline.text
-msgid ""
-"_: new_foil.src#DLG_NEW_FOIL.FL_NAME.fixedline.text\n"
-"Name"
-msgstr "Ainm"
-
-#: new_foil.src#DLG_NEW_FOIL.modaldialog.text
-msgid ""
-"_: new_foil.src#DLG_NEW_FOIL.modaldialog.text\n"
-"Slide"
-msgstr "Sleamhnán"
 
 #: paragr.src#TAB_PARAGRAPH.1.RID_SVXPAGE_STD_PARAGRAPH.pageitem.text
 msgid ""
@@ -83441,11 +83304,6 @@ msgid "PowerPoint to %PRODUCTNAME Impress / %PRODUCTNAME Impress to PowerPoint"
 msgstr ""
 "PowerPoint go %PRODUCTNAME Impress / %PRODUCTNAME Impress go PowerPoint"
 
-#: optgdlg.src#OFA_TP_MISC.FL_HELP.fixedline.text
-#: optpath.src#RID_SVXSTR_KEY_HELP_DIR.string.text
-msgid "Help"
-msgstr "Cabhair"
-
 #: optgdlg.src#OFA_TP_MISC.CB_EXTHELP.checkbox.text
 msgid "~Extended tips"
 msgstr "L~eideanna breisithe"
@@ -84473,10 +84331,6 @@ msgid ""
 "_: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.21.itemlist.text\n"
 "DL"
 msgstr "DL"
-
-#: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.22.itemlist.text
-msgid "Slide"
-msgstr "Sleamhnán"
 
 #: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.23.itemlist.text
 msgid ""
