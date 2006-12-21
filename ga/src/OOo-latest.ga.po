@@ -5020,11 +5020,11 @@ msgstr "Cruthaigh Foirm san Amharc ar Dhearadh..."
 
 #: app.src#RID_STR_NEW_FORM_AUTO.string.text
 msgid "Use Wizard to Create Form..."
-msgstr "Úsáid Draoi chun Foirm a Chruthú..."
+msgstr "Úsáid Treoraí chun Foirm a Chruthú..."
 
 #: app.src#RID_STR_NEW_REPORT_AUTO.string.text
 msgid "Use Wizard to Create Report..."
-msgstr "Úsáid Draoi chun Tuairisc a Chruthú..."
+msgstr "Úsáid Treoraí chun Tuairisc a Chruthú..."
 
 #: app.src#RID_STR_NEW_QUERY.string.text
 msgid "Create Query in Design View..."
@@ -5036,7 +5036,7 @@ msgstr "Cruthaigh Iarratas san Amharc SQL..."
 
 #: app.src#RID_STR_NEW_QUERY_AUTO.string.text
 msgid "Use Wizard to Create Query..."
-msgstr "Úsáid Draoi chun Iarratas a Chruthú..."
+msgstr "Úsáid Treoraí chun Iarratas a Chruthú..."
 
 #: app.src#RID_STR_NEW_TABLE.string.text
 msgid "Create Table in Design View..."
@@ -5044,7 +5044,7 @@ msgstr "Cruthaigh Tábla san Amharc Dhearadh..."
 
 #: app.src#RID_STR_NEW_TABLE_AUTO.string.text
 msgid "Use Wizard to Create Table..."
-msgstr "Úsáid Draoi chun Tábla a Chruthú..."
+msgstr "Úsáid Treoraí chun Tábla a Chruthú..."
 
 #: app.src#RID_STR_NEW_VIEW.string.text
 msgid "Create View..."
@@ -5102,12 +5102,12 @@ msgstr "Cruthaigh mar Amharc"
 
 #: app.src#RID_MENU_APP_EDIT.SID_FORM_CREATE_REPWIZ_PRE_SEL.menuitem.text
 msgid "Form Wizard..."
-msgstr "Draoi Foirme..."
+msgstr "Treoraí Foirme..."
 
 #: app.src#RID_MENU_APP_EDIT.SID_REPORT_CREATE_REPWIZ_PRE_SEL.menuitem.text
 #: toolbox_tmpl.hrc#MID_DOCUMENT_CREATE_REPWIZ.#define.text
 msgid "Report Wizard..."
-msgstr "Draoi Tuairisce..."
+msgstr "Treoraí Tuairisce..."
 
 #: app.src#RID_MENU_APP_EDIT.SID_SELECTALL.menuitem.text
 #: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBSelectAll.Label.value.text
@@ -5146,7 +5146,7 @@ msgstr " - %PRODUCTNAME Base"
 #: app.src#RID_STR_REPORTS_HELP_TEXT_WIZARD.string.text
 msgid ""
 "The wizard will guide you through the steps necessary to create a report."
-msgstr "Béarfaidh an draoi seo thú trí na céimeanna chun tuairisc a chruthú."
+msgstr "Béarfaidh an treoraí seo thú trí na céimeanna chun tuairisc a chruthú."
 
 #: app.src#RID_STR_FORMS_HELP_TEXT.string.text
 msgid ""
@@ -5158,7 +5158,7 @@ msgstr ""
 
 #: app.src#RID_STR_FORMS_HELP_TEXT_WIZARD.string.text
 msgid "The wizard will guide you through the steps necessary to create a form."
-msgstr "Béarfaidh an draoi seo thú trí na céimeanna chun foirm a chruthú."
+msgstr "Béarfaidh an treoraí seo thú trí na céimeanna chun foirm a chruthú."
 
 #: app.src#RID_STR_QUERIES_HELP_TEXT.string.text
 msgid ""
@@ -5175,7 +5175,7 @@ msgstr "Cruthaigh iarratas agus tú ag iontráil ráitis SQL go díreach."
 #: app.src#RID_STR_QUERIES_HELP_TEXT_WIZARD.string.text
 msgid ""
 "The wizard will guide you through the steps necessary to create a query."
-msgstr "Béarfaidh an draoi seo thú trí na céimeanna chun iarratas a chruthú."
+msgstr "Béarfaidh an treoraí seo thú trí na céimeanna chun iarratas a chruthú."
 
 #: app.src#RID_STR_TABLES_HELP_TEXT_DESIGN.string.text
 msgid ""
@@ -5203,7 +5203,7 @@ msgstr ""
 
 #: app.src#RID_STR_VIEWS_HELP_TEXT_WIZARD.string.text
 msgid "Opens the view wizard"
-msgstr "Oscail an draoi amhairc"
+msgstr "Oscail an treoraí amhairc"
 
 #: app.src#STR_DATABASE.string.text
 #: dbadmin.src#PAGE_GENERAL.FT_DATATYPEAPPENDIX.fixedtext.text
@@ -6144,14 +6144,14 @@ msgstr "Airíonna bunachar sonraí"
 
 #: dbadmin.src#PAGE_GENERAL.FT_GENERALHEADERTEXT.fixedtext.text
 msgid "Welcome to the %PRODUCTNAME Database Wizard"
-msgstr "Fáilte go dtí Draoi Bunachar Sonraí %PRODUCTNAME"
+msgstr "Fáilte go dtí Treoraí Bunachar Sonraí %PRODUCTNAME"
 
 #: dbadmin.src#PAGE_GENERAL.FT_GENERALHELPTEXT.fixedtext.text
 msgid ""
 "Use the Database Wizard to create a new database, open an existing database "
 "file, or connect to a database stored on a server."
 msgstr ""
-"Úsáid an Draoi Bunachar Sonraí le Bunachar Sonraí nua a chruthú, le bunachar "
+"Úsáid an Treoraí Bunachar Sonraí le Bunachar Sonraí nua a chruthú, le bunachar "
 "sonraí atá ann a oscailt, nó le ceangal le bunachar sonraí atá ar "
 "fhreastalaí."
 
@@ -6445,7 +6445,7 @@ msgstr "Scagaire Táblaí"
 msgid ""
 "_: dbadminsetup.src#DLG_DATABASE_WIZARD.STR_DBWIZARDTITLE.string.text\n"
 "Database Wizard"
-msgstr "Draoi na mBunachar Sonraí"
+msgstr "Treoraí na mBunachar Sonraí"
 
 #: dbadminsetup.src#DLG_DATABASE_WIZARD.STR_ROADMAPHEADER.string.text
 #: wizard.src#STR_FIRSTSTART_TITLE.string.text
@@ -6516,7 +6516,7 @@ msgstr "Sábháil agus téigh ar aghaidh"
 msgid ""
 "_: dbadminsetup.src#DLG_DATABASE_WIZARD.modaldialog.text\n"
 "Database Wizard"
-msgstr "Draoi na mBunachar Sonraí"
+msgstr "Treoraí na mBunachar Sonraí"
 
 #: dbadminsetup.src#STR_DATABASEDEFAULTNAME.string.text
 msgid "New Database"
@@ -6582,7 +6582,7 @@ msgstr ""
 #: dbadminsetup.src#PAGE_DBWIZARD_FINAL.FT_FINALHELPTEXT.fixedtext.text
 msgid "Do you want the wizard to register the database in %PRODUCTNAME?"
 msgstr ""
-"An bhfuil tú ag iarraidh ar an draoi an bunachar sonraí a chlárú i %"
+"An bhfuil tú ag iarraidh ar an treoraí an bunachar sonraí a chlárú i %"
 "PRODUCTNAME?"
 
 #: dbadminsetup.src#PAGE_DBWIZARD_FINAL.RB_REGISTERDATASOURCE.radiobutton.text
@@ -6604,7 +6604,7 @@ msgstr "Oscail an bunachar sonraí chun é a chur in eagar"
 
 #: dbadminsetup.src#PAGE_DBWIZARD_FINAL.CB_STARTTABLEWIZARD.checkbox.text
 msgid "Create tables using the table wizard"
-msgstr "Cruthaigh táblaí leis an draoi tábla"
+msgstr "Cruthaigh táblaí leis an treoraí tábla"
 
 #: dbadminsetup.src#PAGE_DBWIZARD_FINAL.FT_FINALTEXT.fixedtext.text
 msgid "Click 'Finish' to save the database."
@@ -9199,7 +9199,7 @@ msgid ""
 "\n"
 "Click 'Next' to continue."
 msgstr ""
-"Béarfaidh an draoi seo thú tríd an gcomhaontú ceadúnais, trí aistriú na "
+"Béarfaidh an treoraí seo thú tríd an gcomhaontú ceadúnais, trí aistriú na "
 "seansonraí ó %OLD_VERSION, agus trí chlárú %PRODUCTNAME.\n"
 "\n"
 " "
@@ -9218,7 +9218,7 @@ msgid ""
 "\n"
 "Click 'Next' to continue."
 msgstr ""
-"Béarfaidh an draoi seo thú tríd an gcomhaontú ceadúnais agus trí chlárú %"
+"Béarfaidh an treoraí seo thú tríd an gcomhaontú ceadúnais agus trí chlárú %"
 "PRODUCTNAME.\n"
 "\n"
 "Tá eolas tábhachtach sa chomhad \"readme\" atá lonnaithe sa chomhadlann %"
@@ -9250,7 +9250,7 @@ msgid ""
 "\n"
 "Click 'Next' to continue."
 msgstr ""
-"Béarfaidh an draoi seo thú tríd an gcomhaontú ceadúnais agus trí chlárú %"
+"Béarfaidh an treoraí seo thú tríd an gcomhaontú ceadúnais agus trí chlárú %"
 "PRODUCTNAME.\n"
 "\n"
 "Tá eolas tábhachtach sna comhaid readme atá lonnaithe san fhillteán %"
@@ -9280,7 +9280,7 @@ msgid ""
 "\n"
 "Click 'Next' to continue."
 msgstr ""
-"Béarfaidh an draoi seo thú tríd an gcomhaontú ceadúnais agus trí chlárú %"
+"Béarfaidh an treoraí seo thú tríd an gcomhaontú ceadúnais agus trí chlárú %"
 "PRODUCTNAME.\n"
 "\n"
 "Ligeann an leagan seo cead duit luacháil a dhéanamh ar lán úsáid an "
@@ -9326,7 +9326,7 @@ msgid ""
 "\n"
 "Click 'Next' to continue."
 msgstr ""
-"Béarfaidh an draoi seo thú tríd an gcomhaontú ceadúnais agus trí chlárú %"
+"Béarfaidh an treoraí seo thú tríd an gcomhaontú ceadúnais agus trí chlárú %"
 "PRODUCTNAME.\n"
 "\n"
 " "
@@ -9701,7 +9701,7 @@ msgstr "Portaingéilis (An Phortaingéil)"
 
 #: abspilot.src#RID_DLG_ADDRESSBOOKSOURCEPILOT.modaldialog.text
 msgid "Address Book Data Source Wizard"
-msgstr "Draoi Foinse Sonraí Seolta"
+msgstr "Treoraí Foinse Sonraí Seolta"
 
 #: abspilot.src#RID_DLG_ADDRESSBOOKSOURCEPILOT.STR_SELECT_ABTYPE.string.text
 msgid "Address book type"
@@ -9732,7 +9732,7 @@ msgstr "Foinse Sonraí Seolta"
 
 #: abspilot.src#RID_PAGE_SELECTABTYPE.tabpage.text
 msgid "Welcome to the Address Data Source Wizard."
-msgstr "Fáilte go dtí draoi foinse sonraí na seolta."
+msgstr "Fáilte go dtí treoraí foinse sonraí na seolta."
 
 #: abspilot.src#RID_PAGE_SELECTABTYPE.FT_TYPE_HINTS.fixedtext.text
 msgid ""
@@ -9746,7 +9746,7 @@ msgstr ""
 "cheana féin. Leis seo a dhéanamh, cruthófar foinse sonraí %PRODUCTNAME ina "
 "mbeidh do chuid sonraí seolta ar fáil i bhfoirm táblach.\n"
 "\n"
-"Tabharfaidh an draoi seo cúnamh duit an fhoinse sonraí a chruthú."
+"Tabharfaidh an treoraí seo cúnamh duit an fhoinse sonraí a chruthú."
 
 #: abspilot.src#RID_PAGE_SELECTABTYPE.FL_TYPE.fixedline.text
 msgid "Please select the type of your external address book:"
@@ -10323,19 +10323,19 @@ msgstr "Cineál ábhar"
 
 #: dbpilots.src#RID_DLG_GROUPBOXWIZARD.modaldialog.text
 msgid "Group Element Wizard"
-msgstr "Draoi Ball na nGrúpaí"
+msgstr "Treoraí Ball na nGrúpaí"
 
 #: dbpilots.src#RID_DLG_GRIDWIZARD.modaldialog.text
 msgid "Table Element Wizard"
-msgstr "Draoi Ball na dTáblaí"
+msgstr "Treoraí Ball na dTáblaí"
 
 #: dbpilots.src#RID_STR_LISTWIZARD_TITLE.string.text
 msgid "List Box Wizard"
-msgstr "Draoi Bhosca Liosta"
+msgstr "Treoraí Bhosca Liosta"
 
 #: dbpilots.src#RID_STR_COMBOWIZARD_TITLE.string.text
 msgid "Combo Box Wizard"
-msgstr "Draoi Bosca Teaglama"
+msgstr "Treoraí Bosca Teaglama"
 
 #: dbpilots.src#RID_STR_COULDNOTOPENTABLE.string.text
 msgid "The table connection to the data source could not be established."
@@ -14532,7 +14532,7 @@ msgstr "&Ar Aghaidh >"
 msgid ""
 "_: Control.ulf#OOO_CONTROL_27.LngText.text\n"
 "{&TahomaBold10}Welcome to the Installation Wizard for [ProductName]"
-msgstr "{&TahomaBold10}Fáilte go dtí Draoi Suiteála [ProductName]"
+msgstr "{&TahomaBold10}Fáilte go dtí Treoraí Suiteála [ProductName]"
 
 #: Control.ulf#OOO_CONTROL_28.LngText.text
 msgid ""
@@ -14941,14 +14941,14 @@ msgstr "&Ar Aghaidh >"
 msgid ""
 "_: Control.ulf#OOO_CONTROL_126.LngText.text\n"
 "{&TahomaBold10}Welcome to the Installation Wizard for [ProductName]"
-msgstr "{&TahomaBold10}Fáilte go dtí Draoi Suiteála [ProductName]"
+msgstr "{&TahomaBold10}Fáilte go dtí Treoraí Suiteála [ProductName]"
 
 #: Control.ulf#OOO_CONTROL_127.LngText.text
 msgid ""
 "The Installation Wizard will install [ProductName] on your computer. To "
 "continue, click Next."
 msgstr ""
-"Suiteálfaidh an Draoi Suiteála [ProductName] ar do ríomhaire. Cliceáil \"Ar "
+"Suiteálfaidh an Treoraí Suiteála [ProductName] ar do ríomhaire. Cliceáil \"Ar "
 "Aghaidh\" chun leanúint."
 
 #: Control.ulf#OOO_CONTROL_128.LngText.text
@@ -15041,7 +15041,7 @@ msgstr "&Ar Aghaidh >"
 msgid ""
 "_: Control.ulf#OOO_CONTROL_149.LngText.text\n"
 "{&TahomaBold10}Welcome to the Installation Wizard for [ProductName]"
-msgstr "{&TahomaBold10}Fáilte go dtí Draoi Suiteála [ProductName]"
+msgstr "{&TahomaBold10}Fáilte go dtí Treoraí Suiteála [ProductName]"
 
 #: Control.ulf#OOO_CONTROL_150.LngText.text
 msgid ""
@@ -15213,7 +15213,7 @@ msgstr ""
 msgid ""
 "_: Control.ulf#OOO_CONTROL_187.LngText.text\n"
 "Click Finish to exit the wizard."
-msgstr "Cliceáil \"Críochnaigh\" chun an draoi a scor."
+msgstr "Cliceáil \"Críochnaigh\" chun an treoraí a scor."
 
 #: Control.ulf#OOO_CONTROL_188.LngText.text
 msgid ""
@@ -15230,13 +15230,13 @@ msgstr ""
 msgid ""
 "_: Control.ulf#OOO_CONTROL_189.LngText.text\n"
 "Click Restore or Continue Later to exit the wizard."
-msgstr "Cliceáil Athchóirigh nó Lean Ar Aghaidh Ar Ball chun an draoi a scor."
+msgstr "Cliceáil Athchóirigh nó Lean Ar Aghaidh Ar Ball chun an treoraí a scor."
 
 #: Control.ulf#OOO_CONTROL_190.LngText.text
 msgid ""
 "_: Control.ulf#OOO_CONTROL_190.LngText.text\n"
 "{&TahomaBold10}Installation Wizard Completed"
-msgstr "{&TahomaBold10}Draoi Suiteála Críochnaithe"
+msgstr "{&TahomaBold10}Treoraí Suiteála Críochnaithe"
 
 #: Control.ulf#OOO_CONTROL_191.LngText.text
 msgid ""
@@ -15244,7 +15244,7 @@ msgid ""
 "The wizard was interrupted before [ProductName] could be completely "
 "installed."
 msgstr ""
-"Briseadh isteach ar an draoi sularbh fhéidir [ProductName] a shuiteáil go "
+"Briseadh isteach ar an treoraí sularbh fhéidir [ProductName] a shuiteáil go "
 "hiomlán."
 
 #: Control.ulf#OOO_CONTROL_192.LngText.text
@@ -15282,23 +15282,23 @@ msgstr "&Críochnaigh"
 msgid ""
 "_: Control.ulf#OOO_CONTROL_198.LngText.text\n"
 "{&TahomaBold10}Installation Wizard Completed"
-msgstr "{&TahomaBold10}Draoi Suiteála Críochnaithe"
+msgstr "{&TahomaBold10}Treoraí Suiteála Críochnaithe"
 
 #: Control.ulf#OOO_CONTROL_199.LngText.text
 msgid ""
 "The Installation Wizard has successfully installed [ProductName]. Click "
 "Finish to exit the wizard."
 msgstr ""
-"D'éirigh leis an Draoi Suiteála [ProductName] a shuiteáil. Cliceáil "
-"Críochnaigh chun an draoi a scor."
+"D'éirigh leis an Treoraí Suiteála [ProductName] a shuiteáil. Cliceáil "
+"Críochnaigh chun an treoraí a scor."
 
 #: Control.ulf#OOO_CONTROL_200.LngText.text
 msgid ""
 "The Installation Wizard has successfully uninstalled [ProductName]. Click "
 "Finish to exit the wizard."
 msgstr ""
-"D'éirigh leis an Draoi Suiteála [ProductName] a dhíshuiteáil. Cliceáil "
-"Críochnaigh chun an draoi a scor."
+"D'éirigh leis an Treoraí Suiteála [ProductName] a dhíshuiteáil. Cliceáil "
+"Críochnaigh chun an treoraí a scor."
 
 #: Control.ulf#OOO_CONTROL_201.LngText.text
 msgid "Setup has finished installing [ProductName]."
@@ -15386,7 +15386,7 @@ msgstr "&Ar Aghaidh >"
 msgid ""
 "_: Control.ulf#OOO_CONTROL_217.LngText.text\n"
 "{&TahomaBold10}Welcome to the Installation Wizard for [ProductName]"
-msgstr "{&TahomaBold10}Fáilte go dtí Draoi Suiteála [ProductName]"
+msgstr "{&TahomaBold10}Fáilte go dtí Treoraí Suiteála [ProductName]"
 
 #: Control.ulf#OOO_CONTROL_218.LngText.text
 msgid ""
@@ -15422,7 +15422,7 @@ msgstr ""
 msgid ""
 "_: Control.ulf#OOO_CONTROL_223.LngText.text\n"
 "Click Finish to exit the wizard."
-msgstr "Cliceáil \"Críochnaigh\" chun an draoi a scor."
+msgstr "Cliceáil \"Críochnaigh\" chun an treoraí a scor."
 
 #: Control.ulf#OOO_CONTROL_224.LngText.text
 msgid ""
@@ -15440,13 +15440,13 @@ msgstr ""
 msgid ""
 "_: Control.ulf#OOO_CONTROL_225.LngText.text\n"
 "Click Restore or Continue Later to exit the wizard."
-msgstr "Cliceáil Athchóirigh nó Lean Ar Aghaidh Ar Ball chun an draoi a scor."
+msgstr "Cliceáil Athchóirigh nó Lean Ar Aghaidh Ar Ball chun an treoraí a scor."
 
 #: Control.ulf#OOO_CONTROL_226.LngText.text
 msgid ""
 "_: Control.ulf#OOO_CONTROL_226.LngText.text\n"
 "{&TahomaBold10}Installation Wizard Completed"
-msgstr "{&TahomaBold10}Draoi Suiteála Críochnaithe"
+msgstr "{&TahomaBold10}Treoraí Suiteála Críochnaithe"
 
 #: Control.ulf#OOO_CONTROL_227.LngText.text
 msgid ""
@@ -15454,7 +15454,7 @@ msgid ""
 "The wizard was interrupted before [ProductName] could be completely "
 "installed."
 msgstr ""
-"Briseadh isteach ar an draoi sularbh fhéidir [ProductName] a shuiteáil go "
+"Briseadh isteach ar an treoraí sularbh fhéidir [ProductName] a shuiteáil go "
 "hiomlán."
 
 #: Control.ulf#OOO_CONTROL_228.LngText.text
@@ -17324,7 +17324,7 @@ msgid ""
 "The Installation Wizard cannot be run properly because you are logged in as "
 "a user without sufficient administrator rights for this system."
 msgstr ""
-"Ní féidir an Draoi Suiteála a rith mar is ceart, toisc go bhfuil tú logáilte "
+"Ní féidir an Treoraí Suiteála a rith mar is ceart, toisc go bhfuil tú logáilte "
 "isteach mar úsáideoir gan pribhléidí cuí an riarthóra ar an gcóras seo."
 
 #: Nsis.ulf#SetupCaption.LngText.text
@@ -27118,36 +27118,36 @@ msgid ""
 "_: DbuCommands.xcu#..DbuCommands.UserInterface.Commands.."
 "uno_DBNewFormAutoPilot.Label.value.text\n"
 "Form Wizard..."
-msgstr "Draoi Foirme..."
+msgstr "Treoraí Foirme..."
 
 #: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBNewTableAutoPilot.Label.value.text
 msgid "Table Wizard..."
-msgstr "Draoi Tábla..."
+msgstr "Treoraí Tábla..."
 
 #: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBNewQueryAutoPilot.Label.value.text
 msgid "Query Wizard..."
-msgstr "Draoi Iarratais..."
+msgstr "Treoraí Iarratais..."
 
 #: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBNewFormAutoPilotWithPreSelection.Label.value.text
 msgid ""
 "_: DbuCommands.xcu#..DbuCommands.UserInterface.Commands.."
 "uno_DBNewFormAutoPilotWithPreSelection.Label.value.text\n"
 "Form Wizard..."
-msgstr "Draoi Foirme..."
+msgstr "Treoraí Foirme..."
 
 #: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBNewReportAutoPilot.Label.value.text
 msgid ""
 "_: DbuCommands.xcu#..DbuCommands.UserInterface.Commands.."
 "uno_DBNewReportAutoPilot.Label.value.text\n"
 "Report Wizard..."
-msgstr "Draoi Tuairisce..."
+msgstr "Treoraí Tuairisce..."
 
 #: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBNewReportAutoPilotWithPreSelection.Label.value.text
 msgid ""
 "_: DbuCommands.xcu#..DbuCommands.UserInterface.Commands.."
 "uno_DBNewReportAutoPilotWithPreSelection.Label.value.text\n"
 "Report Wizard..."
-msgstr "Draoi Tuairisce..."
+msgstr "Treoraí Tuairisce..."
 
 #: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBDSProperties.Label.value.text
 #: padialog.src#RID_PADIALOG.RID_PA_BTN_CONF.pushbutton.text
@@ -32166,7 +32166,7 @@ msgstr "Cill"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_AutoPilotMenu.Label.value.text
 msgid "~Wizards"
-msgstr "~Draoithe"
+msgstr "~Treoraithe"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_OutlineCollapse.Label.value.text
 msgid "Hide Subpoints"
@@ -33466,7 +33466,7 @@ msgstr "Aimsigh Taifead..."
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_UseWizards.Label.value.text
 msgid "Wizards On/Off"
-msgstr "Draoithe Ann/As"
+msgstr "Treoraithe Ann/As"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_FormattedField.Label.value.text
 msgid ""
@@ -34916,7 +34916,7 @@ msgstr "Postchu~masc..."
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_MailMergeWizard.Label.value.text
 msgid "~Mail Merge Wizard..."
-msgstr "Draoi Postchu~maisc..."
+msgstr "Treoraí Postchu~maisc..."
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_SetAnchorToFrame.Label.value.text
 #: swslots.src#FN_TOOL_ANKER_FRAME.sfxslotinfo.text
@@ -49196,11 +49196,11 @@ msgstr "Uasmhéadaigh"
 #: formdlgs.src#RID_SCDLG_FORMULA.STR_TITLE1.string.text
 #: toolbox.src#SCSTR_QHELP_BTNCALC.string.text
 msgid "Function Wizard"
-msgstr "Draoi Feidhme"
+msgstr "Treoraí Feidhme"
 
 #: formdlgs.src#RID_SCDLG_FORMULA.STR_TITLE2.string.text
 msgid "Function Wizard  -"
-msgstr "Draoi Feidhme  -"
+msgstr "Treoraí Feidhme  -"
 
 #: parawin.src#RB_ARGBLOCK__y__.#define.text
 msgid ""
@@ -68048,7 +68048,7 @@ msgstr "Fill"
 
 #: dlgass.src#DLG_ASS.CB_STARTWITH.checkbox.text
 msgid "~Do not show this wizard again"
-msgstr "Ná taispeáin an ~draoi seo arís"
+msgstr "Ná taispeáin an ~treoraí seo arís"
 
 #: dlgass.src#DLG_ASS.FL_PAGE1_ARTGROUP.fixedline.text
 msgid ""
@@ -68154,7 +68154,7 @@ msgstr "C~ruthaigh achoimre"
 
 #: dlgass.src#DLG_ASS.modaldialog.text
 msgid "Presentation Wizard"
-msgstr "Draoi Láithreoireachta"
+msgstr "Treoraí Láithreoireachta"
 
 #: dlgfield.src#DLG_FIELD_MODIFY.GRP_TYPE.fixedline.text
 #: dbwizres.src#RID_DB_TABLE_WIZARD_START___24.string.text
@@ -69116,7 +69116,7 @@ msgstr "Cáipéis Nua"
 
 #: tpoption.src#TP_OPTIONS_MISC.CBX_START_WITH_TEMPLATE.checkbox.text
 msgid "Start with ~wizard"
-msgstr "Tosaigh le ~draoi"
+msgstr "Tosaigh le ~treoraí"
 
 #: tpoption.src#TP_OPTIONS_MISC.GRP_SETTINGS.fixedline.text
 msgid ""
@@ -79886,7 +79886,7 @@ msgstr ""
 "Cuireadh isteach ar an bpróiseas athshlánaithe uathoibríoch.\n"
 "\n"
 "Sábhálfar na cáipéisí sa liosta thíos san fhillteán a luaitear thíos má "
-"chliceálann tú 'Sábháil'. Cliceáil 'Cealaigh' chun an draoi a dhúnadh gan na "
+"chliceálann tú 'Sábháil'. Cliceáil 'Cealaigh' chun an treoraí a dhúnadh gan na "
 "comhaid a shábháil."
 
 #: docrecovery.src#RID_SVX_MDLG_DOCRECOVERY_BROKEN.FT_BROKEN_SAVEDIR.fixedtext.text
@@ -97374,7 +97374,7 @@ msgstr "Leagan Amach Priontála Ann/As"
 
 #: swslots.src#FN_MAILMERGE_WIZARD.sfxslotinfo.text
 msgid "Mail Merge Wizard"
-msgstr "Draoi Postchumaisc"
+msgstr "Treoraí Postchumaisc"
 
 #: swslots.src#FN_QRY_MERGE.sfxslotinfo.text
 msgid "Prepare Mail Merge"
@@ -100484,13 +100484,13 @@ msgstr "Postchumasc"
 
 #: mailmergechildwindow.src#WORKAROUND.#define.text
 msgid "Return to Mail Merge Wizard"
-msgstr "Fill ar an Draoi Postchumaisc"
+msgstr "Fill ar an Treoraí Postchumaisc"
 
 #: mailmergechildwindow.src#DLG_MAILMERGECHILD.floatingwindow.text
 msgid ""
 "_: mailmergechildwindow.src#DLG_MAILMERGECHILD.floatingwindow.text\n"
 "Mail Merge Wizard"
-msgstr "Draoi Postchumaisc"
+msgstr "Treoraí Postchumaisc"
 
 #: mailmergechildwindow.src#FL_STATUS.fixedline.text
 msgid "Connection status"
@@ -100615,7 +100615,7 @@ msgstr "Sábháil, priontáil nó seol"
 msgid ""
 "_: mailmergewizard.src#DLG_MAILMERGEWIZARD.modaldialog.text\n"
 "Mail Merge Wizard"
-msgstr "Draoi Postchumaisc"
+msgstr "Treoraí Postchumaisc"
 
 #: mmaddressblockpage.src#DLG_MM_ADDRESSBLOCK_PAGE.FI_HEADER.fixedtext.text
 msgid ""
@@ -101426,9 +101426,9 @@ msgstr ""
 "Scríobh nó cuir do cháipéis in eagar anois mura bhfuil sin déanta agat "
 "cheana. Cuirfear na hathruithe i bhfeidhm i ngach cháipéis chumaiscthe.\n"
 "\n"
-"Laghdófar an draoi go fuinneog bheag tar éis chliceáil ar 'Cuir Cáipéis in "
+"Laghdófar an treoraí go fuinneog bheag tar éis chliceáil ar 'Cuir Cáipéis in "
 "Eagar...' sa chaoi go mbeidh tú in ann an cháipéis phostchumaisc a chur in "
-"eagar. Ina dhiaidh sin, fill ar an draoi trí chiceáil ar 'Fill ar an Draoi "
+"eagar. Ina dhiaidh sin, fill ar an treoraí trí chiceáil ar 'Fill ar an Treoraí "
 "Postchumaisc' san fhuinneog bheag."
 
 #: mmpreparemergepage.src#DLG_MM_PREPAREMERGE_PAGE.PB_EDIT.pushbutton.text
@@ -109320,7 +109320,7 @@ msgstr "An bhfuil tú cinnte gur mian leat an tiontú a stopadh anois?"
 
 #: euro.src#MESSAGES___24.string.text importwi.src#sConvertError2.string.text
 msgid "Cancel Wizard"
-msgstr "Cealaigh an Draoi"
+msgstr "Cealaigh an Treoraí"
 
 #: euro.src#CURRENCIES.string.text
 msgid "Portuguese Escudo"
@@ -109493,11 +109493,11 @@ msgid ""
 "reset the paths to the original default settings.\n"
 "Then run the wizard again."
 msgstr ""
-"Níorbh fhéidir an draoi a rith, ceal comhaid thábhachtacha.\n"
+"Níorbh fhéidir an treoraí a rith, ceal comhaid thábhachtacha.\n"
 "Faoi 'Uirlisí - Roghanna - %PRODUCTNAME - Conairí' cliceáil an cnaipe "
 "'Réamhshocrú' chun na conairí a athshocrú go dtí na bunshocruithe a bhí ann "
 "ar dtús. \n"
-"Ansin rith an draoi arís."
+"Ansin rith an treoraí arís."
 
 #: dbwizres.src#RID_DB_COMMON_START___5.string.text
 msgid "~Table name"
@@ -109506,7 +109506,7 @@ msgstr "Ainm ar an ~tábla"
 #: dbwizres.src#RID_DB_COMMON_START___6.string.text
 msgid ""
 "An error occurred while running the wizard. The wizard will be terminated."
-msgstr "Tharla earráid agus an draoi i mbun oibre. Tobscoirfear an draoi."
+msgstr "Tharla earráid agus an treoraí i mbun oibre. Tobscoirfear an treoraí."
 
 #: dbwizres.src#RID_DB_COMMON_START___14.string.text
 msgid "No connection to the database could be established."
@@ -109524,7 +109524,7 @@ msgstr "Níorbh fhéidir an cháipéis a shábháil."
 
 #: dbwizres.src#RID_DB_COMMON_START___33.string.text
 msgid "Exiting the wizard"
-msgstr "Ag fágáil an draoi"
+msgstr "Ag fágáil an treoraí"
 
 #: dbwizres.src#RID_DB_COMMON_START___35.string.text
 msgid "The connection to the data source could not be established."
@@ -109572,7 +109572,7 @@ msgstr "Níorbh fhéidir ainmneacha na réimsí ó '%NAME' a aisghabháil."
 
 #: dbwizres.src#RID_DB_FORM_WIZARD_START___0.string.text
 msgid "Form Wizard"
-msgstr "Draoi Foirme"
+msgstr "Treoraí Foirme"
 
 #: dbwizres.src#RID_DB_FORM_WIZARD_START___1.string.text
 msgid "Fields in ~the form"
@@ -109843,13 +109843,13 @@ msgstr ""
 msgid ""
 "_: dbwizres.src#RID_DB_QUERY_WIZARD_START___0.string.text\n"
 "Query Wizard"
-msgstr "Draoi Iarratais"
+msgstr "Treoraí Iarratais"
 
 #: dbwizres.src#RID_DB_QUERY_WIZARD_START___2.string.text
 msgid ""
 "_: dbwizres.src#RID_DB_QUERY_WIZARD_START___2.string.text\n"
 "Query Wizard"
-msgstr "Draoi Iarratais"
+msgstr "Treoraí Iarratais"
 
 #: dbwizres.src#RID_DB_QUERY_WIZARD_START___4.string.text
 msgid ""
@@ -110134,7 +110134,7 @@ msgstr "<FIELDNAME> <LOGICOPERATOR> <VALUE>"
 
 #: dbwizres.src#RID_DB_REPORT_WIZARD_START___0.string.text
 msgid "Report Wizard"
-msgstr "Draoi Tuairisce"
+msgstr "Treoraí Tuairisce"
 
 #: dbwizres.src#RID_DB_REPORT_WIZARD_START___4.string.text
 msgid "Colu~mns"
@@ -110333,7 +110333,7 @@ msgid ""
 "wrong name.<BR>See the Help for more detailed information.<BR>Please select "
 "another template."
 msgstr ""
-"Tharla earráid sa draoi. <BR> D'fhéadfadh an teimpléad '%PATH' a bheith "
+"Tharla earráid sa treoraí. <BR> D'fhéadfadh an teimpléad '%PATH' a bheith "
 "fabhtach. <BR> Ní ann do na rannáin nó táblaí riachtanacha nó is ann dóibh "
 "faoin ainm mícheart. <BR> Féach 'Cabhair' d'eolas níos mine. <BR> Roghnaigh "
 "teimpléad eile, le do thoil."
@@ -110377,7 +110377,7 @@ msgstr "Cén sórt tuarascáil ba mhaith leat a chruthú?"
 
 #: dbwizres.src#RID_DB_TABLE_WIZARD_START___1.string.text
 msgid "Table Wizard"
-msgstr "Draoi Tábla"
+msgstr "Treoraí Tábla"
 
 #: dbwizres.src#RID_DB_TABLE_WIZARD_START___2.string.text
 msgid "Select fields"
@@ -110425,7 +110425,7 @@ msgid ""
 "table category and a sample table, choose the fields you want to include in "
 "your table. You can include fields from more than one sample table."
 msgstr ""
-"Tugann an draoi cúnamh duit tábla a chruthú do do bhunachar sonraí. Tar éis "
+"Tugann an treoraí seo cúnamh duit tábla a chruthú do do bhunachar sonraí. Tar éis "
 "duit catagóir táblaí agus tábla samplach a roghnú, roghnaigh na réimsí ar "
 "mhaith leath a bheith i do thábla. Is féidir leat réimsí a chur ann a "
 "thagann ó níos mó ná aon tábla samplach amháin."
@@ -110598,7 +110598,7 @@ msgstr "Tá réimse '%FIELDNAME' ann cheana."
 
 #: dbwizres.src#RID_LETTERWIZARDDIALOG_START___1.string.text
 msgid "Letter Wizard"
-msgstr "Draoi na Litreach"
+msgstr "Treoraí na Litreach"
 
 #: dbwizres.src#RID_LETTERWIZARDDIALOG_START___2.string.text
 msgid ""
@@ -110755,7 +110755,7 @@ msgid ""
 "This wizard helps you to create a letter template. You can then use the "
 "template as the basis for writing letters as often as desired."
 msgstr ""
-"Cabhraíonn an draoi seo leat teimpléad litreach a chruthú. Féadann tú an "
+"Cabhraíonn an treoraí seo leat teimpléad litreach a chruthú. Féadann tú an "
 "teimpléad a úsáid ansin mar bhonn scríbhneoireachta litreach chomh minic "
 "agus is mian leat."
 
@@ -110844,7 +110844,7 @@ msgid ""
 "This wizard creates a letter template which enables you to create multiple "
 "letters with the same layout and settings."
 msgstr ""
-"Cruthaíonn an draoi seo teimpléad litreach a ligeann duit litreacha iomadúla "
+"Cruthaíonn an treoraí seo teimpléad litreach a ligeann duit litreacha iomadúla "
 "a chruthú leis na socruithe agus leagan amach céanna."
 
 #: dbwizres.src#RID_LETTERWIZARDDIALOG_START___49.string.text
@@ -110953,7 +110953,7 @@ msgstr "Ainm agus suíomh"
 
 #: dbwizres.src#RID_FAXWIZARDDIALOG_START___1.string.text
 msgid "Fax Wizard"
-msgstr "Draoi Facs"
+msgstr "Treoraí Facs"
 
 #: dbwizres.src#RID_FAXWIZARDDIALOG_START___2.string.text
 msgid ""
@@ -111038,7 +111038,7 @@ msgid ""
 "This wizard helps you to create a fax template. The template can then be "
 "used to create a fax whenever needed."
 msgstr ""
-"Cuidíonn an draoi seo duit teimpléad facs a chruthú. Féadfaí an teimpléad a "
+"Cuidíonn an treoraí seo duit teimpléad facs a chruthú. Féadfaí an teimpléad a "
 "úsáid ansin chun facs a chruthú nuair is gá leis."
 
 #: dbwizres.src#RID_FAXWIZARDDIALOG_START___18.string.text
@@ -111076,7 +111076,7 @@ msgid ""
 "This wizard creates a fax template which enables you to create multiple "
 "faxes with the same layout and settings."
 msgstr ""
-"Cruthaíonn an draoi seo teimpléad facs a ligeann duit facsanna iomadúla a "
+"Cruthaíonn an treoraí seo teimpléad facs a ligeann duit facsanna iomadúla a "
 "chruthú leis na socruithe agus leagan amach céanna."
 
 #: dbwizres.src#RID_FAXWIZARDDIALOG_START___24.string.text
@@ -111237,7 +111237,7 @@ msgstr "Ainm agus suíomh"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__1.string.text
 msgid "Web Wizard"
-msgstr "Draoi Gréasáin"
+msgstr "Treoraí Gréasáin"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__2.string.text
 msgid ""
@@ -111252,11 +111252,11 @@ msgid ""
 "date and add or remove documents at any time."
 msgstr ""
 "Chun cúnamh a thabhairt duit i bhfoilsiú cáipéisí ar an Idirlíon atá an "
-"Draoi Gréasáin seo.\n"
+"Treoraí Gréasáin seo.\n"
 "\n"
 "Aistreoidh sé na cáipéisí ionas go mbeidh siad inléite ag brabhsálaí "
 "Gréasáin. Lena chois sin, ginfidh sé leathanach Chlár Ábhair le naisc a "
-"cheadós rochtain éasca ar do cháipéis. Tabharfaidh an Draoi Gréasáin seans "
+"cheadós rochtain éasca ar do cháipéis. Tabharfaidh an Treoraí Gréasáin seans "
 "duit dearadh agus leagan amach do shuímh Idirlín a oiriúnú.\n"
 "\n"
 "Beidh tú ábalta na cáipéisí a d'fhoilsigh tú ar an nGréasán a choimeád suas "
@@ -111344,7 +111344,7 @@ msgstr "Sábháil m~ar:"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__36.string.text
 msgid "~Choose settings for the Web Wizard"
-msgstr "~Roghnaigh socruithe do Dhraoi an Ghréasáin"
+msgstr "~Roghnaigh socruithe do Threoraí an Ghréasáin"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__37.string.text
 msgid "Web site content "
@@ -111611,7 +111611,7 @@ msgstr "Is fillteán é '%FILENAME'."
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__118.string.text
 msgid "Loading Web Wizard Settings..."
-msgstr "Socruithe Draoi an Ghréasáin á Luchtú..."
+msgstr "Socruithe Treoraí an Ghréasáin á Luchtú..."
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__119.string.text
 msgid "An unexpected error occurred."
@@ -111673,7 +111673,7 @@ msgstr "Mionathraithe: %DATE"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__135.string.text
 msgid "Web Wizard Settings"
-msgstr "Socraithe Draoi an Ghréasáin"
+msgstr "Socraithe Treoraí an Ghréasáin"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__136.string.text
 msgid "Background image:"
@@ -111840,7 +111840,7 @@ msgstr "Á Nascadh..."
 
 #: dbwizres.src#RID_AGENDAWIZARDDIALOG_START__1.string.text
 msgid "Agenda Wizard"
-msgstr "Draoi na gClár Oibre"
+msgstr "Treoraí na gClár Oibre"
 
 #: dbwizres.src#RID_AGENDAWIZARDDIALOG_START__2.string.text
 msgid "Make ~manual changes to this agenda template"
@@ -111899,7 +111899,7 @@ msgid ""
 "This wizard helps you to create an agenda template. The template can then be "
 "used to create an agenda whenever needed."
 msgstr ""
-"Tugann an draoi seo cúnamh duit teimpléad chláir oibre a chruthú. Féadfar an "
+"Tugann an treoraí seo cúnamh duit teimpléad chláir oibre a chruthú. Féadfar an "
 "teimpléad a úsáid ansin chun clár oibre a chruthú de réir riachtanais."
 
 #: dbwizres.src#RID_AGENDAWIZARDDIALOG_START__14.string.text
@@ -112038,7 +112038,7 @@ msgid ""
 "This wizard creates an agenda template which enables you to create multiple "
 "agendas with the same layout and settings."
 msgstr ""
-"Cruthaíonn an draoi seo teimpléad chláir oibre a ligeann duit níos mó clár "
+"Cruthaíonn an treoraí seo teimpléad chláir oibre a ligeann duit níos mó clár "
 "oibre a chruthú leis an leagan amach agus na socruithe céanna."
 
 #: dbwizres.src#RID_AGENDAWIZARDDIALOG_START__40.string.text
@@ -112172,7 +112172,7 @@ msgid ""
 "This wizard converts documents in %PRODUCTNAME format and Microsoft Office "
 "documents to the new OpenDocument format."
 msgstr ""
-"Tiontaíonn an draoi seo cáipéis i bhformáid %PRODUCTNAME agus cáipéisí "
+"Tiontaíonn an treoraí seo cáipéis i bhformáid %PRODUCTNAME agus cáipéisí "
 "Microsoft Office go dtí an fhormáid nua OpenDocument."
 
 #: importwi.src#sWelcometextLabel2.string.text
@@ -112267,7 +112267,7 @@ msgstr "Níorbh fhéidir cáipéis '<1>' a oscailt."
 
 #: importwi.src#sRTErrorDesc.string.text
 msgid "An unexpected error has occurred in the wizard."
-msgstr "Tharla earráid gan choinne sa draoi."
+msgstr "Tharla earráid gan choinne sa treoraí."
 
 #: importwi.src#sPathDialogMessage.string.text
 msgid "Select a directory"
