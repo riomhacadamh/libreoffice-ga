@@ -1,14 +1,14 @@
 # OOo pot file for Irish.
-#   CURRENT VERSION = SRC680_m197
+#   CURRENT VERSION = SRC680_m199
 # First version produced Sept. 2004 by Kevin Scannell using the oo2po
 # scripts by David Fraser et al
 msgid ""
 msgstr ""
 "Project-Id-Version: OOo\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-12-15 14:03+0100\n"
-"PO-Revision-Date: 2006-10-18 16:30-0000\n"
-"Last-Translator: Pat Folan <pat.folan@gmit.ie>\n"
+"POT-Creation-Date: 2007-01-03 21:10+0100\n"
+"PO-Revision-Date: 2007-01-15 16:30-0000\n"
+"Last-Translator: Kevin Scannell <scannell@slu.edu>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -578,6 +578,15 @@ msgstr "Airíonna..."
 msgid "Do you want to overwrite the XX macro?"
 msgstr "Ar mhaith leat an macra XX a fhorscríobh?"
 
+#: basidesh.src#RID_STR_TRANSLATION_NOTLOCALIZED.string.text
+msgid "<Not localized>"
+msgstr "<Gan logánú>"
+
+#: basidesh.src#RID_STR_TRANSLATION_DEFAULT.string.text
+#: managelang.src#RID_DLG_MANAGE_LANGUAGE.STR_DEF_LANG.string.text
+msgid "[Default Language]"
+msgstr "[Teanga Réamhshocraithe]"
+
 #: brkdlg.src#RID_BASICIDE_BREAKPOINTDLG.RID_PB_NEW.pushbutton.text
 #: cfg.src#STR_NEW.string.text new.src#DLG_NEW_FILE.modaldialog.text
 #: hangulhanjadlg.src#RID_SVX_MDLG_HANGULHANJA_EDIT.PB_HHE_NEW.pushbutton.text
@@ -1135,6 +1144,126 @@ msgstr "Níl Rialtán marcáilte"
 msgid "Multiselection"
 msgstr "Ilroghnú"
 
+#: managelang.src#RID_DLG_MANAGE_LANGUAGE.FT_LANGUAGE.fixedtext.text
+msgid "Present Languages"
+msgstr "Teangacha atá ann"
+
+#: managelang.src#RID_DLG_MANAGE_LANGUAGE.PB_ADD_LANG.pushbutton.text
+#: cfg.src#RID_SVXPAGE_MENUS.BTN_ADD_COMMANDS.pushbutton.text
+msgid "Add..."
+msgstr "Cuir Leis..."
+
+#: managelang.src#RID_DLG_MANAGE_LANGUAGE.PB_DEL_LANG.pushbutton.text
+#: app.src#RID_MENU_APP_EDIT.SID_DB_APP_DELETE.menuitem.text
+#: strings.src#STR_UNDO_DELETE.string.text
+#: navipi.src#RID_POPUP_NAVIPI_SCENARIO.RID_NAVIPI_SCENARIO_DELETE.menuitem.text
+#: menuids_tmpl.src#MN_LAYER_EDITMODE.DUMMY_7.SID_DELETE_LAYER.menuitem.text
+#: newhelp.src#MENU_HELP_BOOKMARKS.MID_DELETE.menuitem.text
+#: cfg.src#STR_DELETE.string.text editeng.src#RID_EDITUNDO_DEL.string.text
+#: optcolor.src#RID_SVXPAGE_COLORCONFIG.PB_DELETESCHEME.pushbutton.text
+#: redlopt.src#TP_REDLINE_OPT.WIN_DEL.window.text
+#: fldvar.src#TP_FLD_VAR.TBX_VARNEWDEL.BT_VARDELETE.toolboxitem.text
+#: navipi.src#ST_DELETE.string.text
+msgid "Delete"
+msgstr "Scrios"
+
+#: managelang.src#RID_DLG_MANAGE_LANGUAGE.PB_MAKE_DEFAULT.pushbutton.text
+#: propres.src#RID_STR_STANDARD.string.text
+#: strings.src#STR_DEFAULTVIEW.string.text
+#: globstr.src#RID_GLOBSTR.STR_STYLENAME_STANDARD.string.text
+#: svxitems.src#RID_SVXITEMS_TAB_ADJUST_DEFAULT.string.text
+#: optdlg.src#TP_OPTTABLE_PAGE.FL_TABLE.fixedline.text
+msgid "Default"
+msgstr "Réamhshocrú"
+
+#: managelang.src#RID_DLG_MANAGE_LANGUAGE.FT_INFO.fixedtext.text
+msgid ""
+"The default language is used if no localization for a user interface locale "
+"is present. Furthermore all strings from the default language are copied to "
+"resources of newly added languages."
+msgstr ""
+
+#: managelang.src#RID_DLG_MANAGE_LANGUAGE.PB_CLOSE.okbutton.text
+#: basic.src#RID_FILE.RID_FILECLOSE.menuitem.text
+#: custsdlg.src#DLG_CUSTOMSHOW.BTN_OK.okbutton.text
+#: doc.src#STR_CLOSEDOC.string.text
+#: smres.src#RID_SYMBOLDIALOG.3.pushbutton.text
+#: globlmn_tmpl.hrc#ITEM_FILE_CLOSEDOC.#define.text
+#: fmsearch.src#RID_SVXDLG_SEARCHFORM.1.cancelbutton.text
+#: optdict.src#RID_SFXDLG_EDITDICT.BTN_EDITCLOSE.cancelbutton.text
+#: glossary.src#DLG_GLOSSARY.PB_CLOSE.cancelbutton.text
+#: tautofmt.src#DLG_AUTOFMT_TABLE.STR_BTN_CLOSE.string.text
+#: importwi.src#sCloseButton.string.text
+msgid "~Close"
+msgstr "~Dún"
+
+#: managelang.src#RID_DLG_MANAGE_LANGUAGE.STR_DELETE.string.text
+#: basic.src#RID_EDIT.RID_EDITDEL.menuitem.text
+#: padialog.src#RID_ADDP_PAGE_CHOOSEDRIVER.RID_ADDP_CHDRV_BTN_REMOVE.pushbutton.text
+#: consdlg.src#RID_SCDLG_CONSOLIDATE.BTN_REMOVE.pushbutton.text
+#: docvor.src#DLG_ORGANIZE.BTN_EDIT.ID_DELETE.menuitem.text
+#: smres.src#RID_SYMDEFINEDIALOG.3.pushbutton.text
+#: globlmn_tmpl.hrc#ITEM_EDIT_DELETE.#define.text
+#: chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.PB_DELETE.pushbutton.text
+#: idxmrk.src#IDX_DIALOG_WINDOW.WIN_DLG.BT_DEL.pushbutton.text
+#: tautofmt.src#DLG_AUTOFMT_TABLE.BTN_REMOVE.pushbutton.text
+#: navipi.src#ST_DELETE_ENTRY.string.text
+#: menu.src#SV_RESID_MENU_EDIT.SV_MENU_EDIT_DELETE.menuitem.text
+#: dbwizres.src#RID_WEBWIZARDDIALOG_START__4.string.text
+#: schedule.src#dlgCalDelete.string.text
+msgid "~Delete"
+msgstr "~Scrios"
+
+#: managelang.src#RID_DLG_MANAGE_LANGUAGE.STR_CREATE_LANG.string.text
+msgid "<Press 'Add' to create language resources>"
+msgstr ""
+
+#: managelang.src#RID_DLG_MANAGE_LANGUAGE.modaldialog.text
+msgid "Manage User Interface Languages [$1]"
+msgstr ""
+
+#: managelang.src#RID_QRYBOX_LANGUAGE.querybox.text
+msgid ""
+"Your are about to delete the resources for the selected language(s). All "
+"user interface strings for this language(s) will be deleted.\n"
+"\n"
+"Do you want to delete the resources of the selected language(s)?"
+msgstr ""
+
+#: managelang.src#RID_QRYBOX_LANGUAGE.querybox.title
+msgid "Delete Language Resources"
+msgstr "Scrios Acmhainní Teanga"
+
+#: managelang.src#RID_DLG_SETDEF_LANGUAGE.FT_DEF_LANGUAGE.fixedtext.text
+msgid "Default language"
+msgstr "Teanga réamhshocraithe"
+
+#: managelang.src#RID_DLG_SETDEF_LANGUAGE.FT_DEF_INFO.fixedtext.text
+msgid ""
+"Select a language to define the default user interface language. All "
+"currently present strings will be assigned to the resources created for the "
+"selected language."
+msgstr ""
+
+#: managelang.src#RID_DLG_SETDEF_LANGUAGE.STR_ADDLANG_TITLE.string.text
+msgid "Add User Interface Languages"
+msgstr ""
+
+#: managelang.src#RID_DLG_SETDEF_LANGUAGE.STR_ADDLANG_LABEL.string.text
+msgid "Available Languages"
+msgstr "Teangacha atá le fáil"
+
+#: managelang.src#RID_DLG_SETDEF_LANGUAGE.STR_ADDLANG_INFO.string.text
+msgid ""
+"Select languages to be added. Resources for these languages will be created "
+"in the library. Strings of the current default user interface language will "
+"be copied to these new resources by default."
+msgstr ""
+
+#: managelang.src#RID_DLG_SETDEF_LANGUAGE.modaldialog.text
+msgid "Set Default User Interface Language"
+msgstr ""
+
 #: basic.src#RID_CALLDLG.modaldialog.text
 msgid "Dynamic Link No. "
 msgstr "Nasc dinimiciúil uimhir "
@@ -1530,19 +1659,6 @@ msgstr "Cab~hair"
 msgid "~Open..."
 msgstr "~Oscail..."
 
-#: basic.src#RID_FILE.RID_FILECLOSE.menuitem.text
-#: custsdlg.src#DLG_CUSTOMSHOW.BTN_OK.okbutton.text
-#: doc.src#STR_CLOSEDOC.string.text
-#: smres.src#RID_SYMBOLDIALOG.3.pushbutton.text
-#: globlmn_tmpl.hrc#ITEM_FILE_CLOSEDOC.#define.text
-#: fmsearch.src#RID_SVXDLG_SEARCHFORM.1.cancelbutton.text
-#: optdict.src#RID_SFXDLG_EDITDICT.BTN_EDITCLOSE.cancelbutton.text
-#: glossary.src#DLG_GLOSSARY.PB_CLOSE.cancelbutton.text
-#: tautofmt.src#DLG_AUTOFMT_TABLE.STR_BTN_CLOSE.string.text
-#: importwi.src#sCloseButton.string.text
-msgid "~Close"
-msgstr "~Dún"
-
 #: basic.src#RID_FILE.RID_FILESAVEAS.menuitem.text
 msgid "Save~ As..."
 msgstr "~Sábháil Mar..."
@@ -1598,22 +1714,6 @@ msgstr "~Cóipeáil"
 #: menu.src#SV_RESID_MENU_EDIT.SV_MENU_EDIT_PASTE.menuitem.text
 msgid "~Paste"
 msgstr "~Greamaigh"
-
-#: basic.src#RID_EDIT.RID_EDITDEL.menuitem.text
-#: padialog.src#RID_ADDP_PAGE_CHOOSEDRIVER.RID_ADDP_CHDRV_BTN_REMOVE.pushbutton.text
-#: consdlg.src#RID_SCDLG_CONSOLIDATE.BTN_REMOVE.pushbutton.text
-#: docvor.src#DLG_ORGANIZE.BTN_EDIT.ID_DELETE.menuitem.text
-#: smres.src#RID_SYMDEFINEDIALOG.3.pushbutton.text
-#: globlmn_tmpl.hrc#ITEM_EDIT_DELETE.#define.text
-#: chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.PB_DELETE.pushbutton.text
-#: idxmrk.src#IDX_DIALOG_WINDOW.WIN_DLG.BT_DEL.pushbutton.text
-#: tautofmt.src#DLG_AUTOFMT_TABLE.BTN_REMOVE.pushbutton.text
-#: navipi.src#ST_DELETE_ENTRY.string.text
-#: menu.src#SV_RESID_MENU_EDIT.SV_MENU_EDIT_DELETE.menuitem.text
-#: dbwizres.src#RID_WEBWIZARDDIALOG_START__4.string.text
-#: schedule.src#dlgCalDelete.string.text
-msgid "~Delete"
-msgstr "~Scrios"
 
 #: basic.src#RID_EDIT.RID_EDITSEARCH.menuitem.text
 msgid "~Find..."
@@ -4163,7 +4263,6 @@ msgstr "G~ach Teideal..."
 #: ins_page.src#DLG_INSERT_PAGE.CBX_TITEL.checkbox.text
 #: dinfdlg.src#TP_DOCINFODESC.FT_TITLE.fixedtext.text
 #: new.src#DLG_NEW_FILE.FT_TITLE.fixedtext.text
-#: tabline.src#RID_SVXPAGE_LINEEND_DEF.FT_TITLE.fixedtext.text
 #: gallery.src#RID_SVXMN_GALLERY2.MN_TITLE.menuitem.text
 #: cnttab.src#TP_TOX_SELECT.FT_TITLE.fixedtext.text
 msgid "~Title"
@@ -4521,6 +4620,7 @@ msgid "Cancel"
 msgstr "Cealaigh"
 
 #: crashrep.ulf#_OK_BUTTON_.LngText.text
+#: dp_gui_updateinstalldialog.src#RID_DLG_UPDATEINSTALL.RID_DLG_UPDATE_INSTALL_OK.okbutton.text
 #: btntext.src#SV_BUTTONTEXT_OK.string.text euro.src#MESSAGES___17.string.text
 #: dbwizres.src#RID_COMMON_START___18.string.text
 msgid "OK"
@@ -5076,19 +5176,6 @@ msgstr "Amharc (Simplí)..."
 #: app.src#RID_MENU_APP_EDIT.SID_DB_APP_PASTE_SPECIAL.menuitem.text
 msgid "Paste Special..."
 msgstr "Greamaigh Speisialta..."
-
-#: app.src#RID_MENU_APP_EDIT.SID_DB_APP_DELETE.menuitem.text
-#: strings.src#STR_UNDO_DELETE.string.text
-#: navipi.src#RID_POPUP_NAVIPI_SCENARIO.RID_NAVIPI_SCENARIO_DELETE.menuitem.text
-#: menuids_tmpl.src#MN_LAYER_EDITMODE.DUMMY_7.SID_DELETE_LAYER.menuitem.text
-#: newhelp.src#MENU_HELP_BOOKMARKS.MID_DELETE.menuitem.text
-#: cfg.src#STR_DELETE.string.text editeng.src#RID_EDITUNDO_DEL.string.text
-#: optcolor.src#RID_SVXPAGE_COLORCONFIG.PB_DELETESCHEME.pushbutton.text
-#: redlopt.src#TP_REDLINE_OPT.WIN_DEL.window.text
-#: fldvar.src#TP_FLD_VAR.TBX_VARNEWDEL.BT_VARDELETE.toolboxitem.text
-#: navipi.src#ST_DELETE.string.text
-msgid "Delete"
-msgstr "Scrios"
 
 #: app.src#RID_MENU_APP_EDIT.SID_DB_APP_EDIT_SQL_VIEW.menuitem.text
 #: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBEditSqlView.Label.value.text
@@ -6151,8 +6238,8 @@ msgid ""
 "Use the Database Wizard to create a new database, open an existing database "
 "file, or connect to a database stored on a server."
 msgstr ""
-"Úsáid an Treoraí Bunachar Sonraí le Bunachar Sonraí nua a chruthú, le bunachar "
-"sonraí atá ann a oscailt, nó le ceangal le bunachar sonraí atá ar "
+"Úsáid an Treoraí Bunachar Sonraí le Bunachar Sonraí nua a chruthú, le "
+"bunachar sonraí atá ann a oscailt, nó le ceangal le bunachar sonraí atá ar "
 "fhreastalaí."
 
 #: dbadmin.src#PAGE_GENERAL.FT_DATASOURCEHEADER.fixedtext.text
@@ -7316,6 +7403,7 @@ msgid ""
 msgstr ""
 
 #: sqlmessage.src#STR_EXCEPTION_ERROR.string.text
+#: dp_gui_updatedialog.src#RID_DLG_UPDATE.RID_DLG_UPDATE_ERROR.string.text
 #: formdlgs.src#RID_SCTAB_STRUCT.STR_STRUCT_ERR2.string.text
 #: prnsetup.src#STR_SVT_PRNDLG_ERROR.string.text
 #: errtxt.src#RID_ERRCTX.ERRCTX_ERROR.string.text
@@ -7608,7 +7696,6 @@ msgstr "Cru~thaigh príomheochair"
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_FrameName.Label.value.text
 #: padialog.src#RID_TXT_TESTPAGE_NAME.string.text
 #: custsdlg.src#DLG_DEFINE_CUSTOMSHOW.FT_NAME.fixedtext.text
-#: shells.src#STR_NAME_SHAPE_LABEL.string.text
 #: dbwizres.src#RID_AGENDAWIZARDDIALOG_START__44.string.text
 msgid "Name"
 msgstr "Ainm"
@@ -8771,13 +8858,6 @@ msgstr ""
 "Ní féidir an eisínteacht seo a shuiteáil toisc nach\n"
 "bhfuil spleáchais áirithe ar fáil:"
 
-#: dp_gui_dependencydialog.src#RID_DLG_DEPENDENCIES.RID_DLG_DEPENDENCIES_UNKNOWN.string.text
-msgid ""
-"_: dp_gui_dependencydialog.src#RID_DLG_DEPENDENCIES."
-"RID_DLG_DEPENDENCIES_UNKNOWN.string.text\n"
-"Unknown"
-msgstr "Anaithnid"
-
 #: dp_gui_dependencydialog.src#RID_DLG_DEPENDENCIES.modaldialog.text
 msgid "System dependencies check"
 msgstr "Seiceáil spleáchas"
@@ -8817,6 +8897,10 @@ msgid ""
 "E~xport..."
 msgstr "Ea~spórtáil..."
 
+#: dp_gui_dialog.src#RID_DLG_PACKAGE_MANAGER.RID_BTN_CHECK_UPDATES.pushbutton.text
+msgid "~Updates..."
+msgstr "N~uashonruithe..."
+
 #: dp_gui_dialog.src#RID_DLG_PACKAGE_MANAGER.modelessdialog.text
 msgid "Extension Manager"
 msgstr "Bainisteoir na nEisínteachtaí"
@@ -8828,6 +8912,14 @@ msgstr "M'Eisínteachtaí"
 #: dp_gui_dialog.src#RID_STR_SHARED_INSTALLATION.string.text
 msgid "%PRODUCTNAME Extensions"
 msgstr "Eisínteachtaí %PRODUCTNAME"
+
+#: dp_gui_dialog.src#RID_STR_EXTENSION_VERSION.string.text
+#: dlgeps.src#DLG_EXPORT_EPS.GRP_VERSION.fixedline.text
+#: shlxthdl.ulf#_VERSION_.LngText.text
+#: optjava.src#RID_SVXPAGE_OPTIONS_JAVA.STR_HEADER_VERSION.string.text
+#: certificateviewer.src#RID_XMLSECTP_DETAILS.STR_VERSION.string.text
+msgid "Version"
+msgstr "Leagan"
 
 #: dp_gui_dialog.src#RID_STR_ADD_PACKAGES.string.text
 msgid "Add Extension(s)"
@@ -8843,9 +8935,12 @@ msgid "Disabled"
 msgstr "Díchumasaithe"
 
 #: dp_gui_dialog.src#RID_STR_UNKNOWN.string.text
-msgid ""
-"_: dp_gui_dialog.src#RID_STR_UNKNOWN.string.text\n"
-"Unknown"
+#: dp_misc.src#RID_DEPLYOMENT_DEPENDENCIES_UNKNOWN.string.text
+#: xmlfilterdialogstrings.src#STR_UNKNOWN_APPLICATION.string.text
+#: scstring.src#SCSTR_UNKNOWN.string.text
+#: smres.src#RID_SYMBOLDIALOG.2.fixedtext.text
+#: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_DONTKNOW.pairedlist.text
+msgid "Unknown"
 msgstr "Anaithnid"
 
 #: dp_gui_dialog.src#RID_CTX_ITEM_ADD.string.text
@@ -8877,6 +8972,10 @@ msgid ""
 "_: dp_gui_dialog.src#RID_CTX_ITEM_EXPORT.string.text\n"
 "E~xport..."
 msgstr "Ea~spórtáil..."
+
+#: dp_gui_dialog.src#RID_CTX_ITEM_CHECK_UPDATE.string.text
+msgid "~Update..."
+msgstr "N~uashonraigh..."
 
 #: dp_gui_dialog.src#RID_STR_EXPORT_PACKAGE.string.text
 msgid "Export Extension"
@@ -8973,6 +9072,134 @@ msgstr ""
 "Ní féidir eisínteacht %NAME a shuiteáil faoi \"Eisínteachtaí %PRODUCTNAME\", "
 "toisc go bhfuil gá le gach úsáideoir a ghlacadh le ceadúnas na "
 "heisínteachta. Ní shuiteálfar an eisínteacht."
+
+#: dp_gui_dialog.src#RID_QUERYBOX_INSTALL_EXTENSION.infobox.text
+msgid ""
+"You are about to install the extension %NAME.\n"
+"Press Ok to proceed with the installation.\n"
+"Press Cancel to abort the installation."
+msgstr ""
+"Tá tú ar tí eisínteacht $NAME a shuiteáil.\n"
+"Brúigh OK chun dul ar aghaidh leis an tsuiteáil.\n"
+"Brúigh Cealaigh chun an tsuiteáil a thobscor."
+
+#: dp_gui_dialog.src#WARNINGBOX_CONCURRENTINSTANCE.warningbox.text
+msgid "You need to close the already opened Extension Manager to continue."
+msgstr ""
+
+#: dp_gui_updatedialog.src#RID_DLG_UPDATE.RID_DLG_UPDATE_CHECKING.fixedtext.text
+msgid "Checking..."
+msgstr "Á Sheiceáil..."
+
+#: dp_gui_updatedialog.src#RID_DLG_UPDATE.RID_DLG_UPDATE_UPDATE.fixedtext.text
+msgid "~Available extension updates"
+msgstr ""
+
+#: dp_gui_updatedialog.src#RID_DLG_UPDATE.RID_DLG_UPDATE_ALL.checkbox.text
+msgid "~Show all updates"
+msgstr "Tai~speáin gach nuashonrú"
+
+#: dp_gui_updatedialog.src#RID_DLG_UPDATE.RID_DLG_UPDATE_DESCRIPTION.fixedtext.text
+msgid "D~escription"
+msgstr "C~ur Síos"
+
+#: dp_gui_updatedialog.src#RID_DLG_UPDATE.RID_DLG_UPDATE_OK.pushbutton.text
+msgid "~Download and Install"
+msgstr "Íosluchtaigh agus ~Suiteáil"
+
+#: dp_gui_updatedialog.src#RID_DLG_UPDATE.RID_DLG_UPDATE_NONE.string.text
+msgid "No new updates are available."
+msgstr "Níl aon nuashonrú ar fáil."
+
+#: dp_gui_updatedialog.src#RID_DLG_UPDATE.RID_DLG_UPDATE_NOINSTALLABLE.string.text
+msgid ""
+"No installable updates are available. To see all updates, mark the check box "
+"'Show all updates'."
+msgstr ""
+
+#: dp_gui_updatedialog.src#RID_DLG_UPDATE.RID_DLG_UPDATE_FAILURE.string.text
+msgid "An error occurred:"
+msgstr "Tharla earráid:"
+
+#: dp_gui_updatedialog.src#RID_DLG_UPDATE.RID_DLG_UPDATE_UNKNOWNERROR.string.text
+msgid "Unknown error."
+msgstr "Earráid anaithnid."
+
+#: dp_gui_updatedialog.src#RID_DLG_UPDATE.RID_DLG_UPDATE_NODESCRIPTION.string.text
+msgid "No descriptions available for this extension."
+msgstr "Níl cur síos ar fáil ar an eisínteacht seo."
+
+#: dp_gui_updatedialog.src#RID_DLG_UPDATE.RID_DLG_UPDATE_NOINSTALL.string.text
+msgid "The extension cannot be installed because:"
+msgstr "Ní féidir an eisínteacht a shuiteáil mar:"
+
+#: dp_gui_updatedialog.src#RID_DLG_UPDATE.RID_DLG_UPDATE_NODEPENDENCY.string.text
+msgid "Incompatibility:"
+msgstr "Neamh-Chomhoiriúnacht:"
+
+#: dp_gui_updatedialog.src#RID_DLG_UPDATE.RID_DLG_UPDATE_NOPERMISSION.string.text
+msgid "No write permission (shared extension)."
+msgstr ""
+
+#: dp_gui_updatedialog.src#RID_DLG_UPDATE.RID_DLG_UPDATE_NOUPDATE.string.text
+msgid ""
+"The update must be downloaded from the website %URL. Then you can add the "
+"extension in the Extension Manager."
+msgstr ""
+
+#: dp_gui_updatedialog.src#RID_DLG_UPDATE.modaldialog.text
+msgid "Extension Update"
+msgstr ""
+
+#: dp_gui_updateinstalldialog.src#RID_DLG_UPDATEINSTALL.RID_DLG_UPDATE_INSTALL_DOWNLOADING.fixedtext.text
+msgid "Downloading extensions..."
+msgstr "Eisínteachtaí á n-íosluchtú..."
+
+#: dp_gui_updateinstalldialog.src#RID_DLG_UPDATEINSTALL.RID_DLG_UPDATE_INSTALL_RESULTS.fixedtext.text
+#: pivot.src#RID_SCDLG_PIVOT_LAYOUT.FL_OUTPUT.fixedline.text
+#: formdlgs.src#RID_SCDLG_FORMULA.FT_FORMULA_RESULT.fixedtext.text
+msgid "Result"
+msgstr "Toradh"
+
+#: dp_gui_updateinstalldialog.src#RID_DLG_UPDATEINSTALL.RID_DLG_UPDATE_INSTALL_ABORT.cancelbutton.text
+msgid "~Abort Update"
+msgstr "~Tobscoir an Nuashonrú"
+
+#: dp_gui_updateinstalldialog.src#RID_DLG_UPDATEINSTALL.RID_DLG_UPDATE_INSTALL_INSTALLING.string.text
+msgid "Installing extensions..."
+msgstr "Eisínteachtaí á suiteáil..."
+
+#: dp_gui_updateinstalldialog.src#RID_DLG_UPDATEINSTALL.RID_DLG_UPDATE_INSTALL_FINISHED.string.text
+msgid "Installation finished"
+msgstr "Suiteáil críochnaithe"
+
+#: dp_gui_updateinstalldialog.src#RID_DLG_UPDATEINSTALL.RID_DLG_UPDATE_INSTALL_NO_ERRORS.string.text
+msgid "No errors."
+msgstr "Ní raibh aon earráid."
+
+#: dp_gui_updateinstalldialog.src#RID_DLG_UPDATEINSTALL.RID_DLG_UPDATE_INSTALL_ERROR_DOWNLOAD.string.text
+msgid "Error while downloading extension %NAME. "
+msgstr "Earráid agus eisínteacht %NAME á híosluchtú. "
+
+#: dp_gui_updateinstalldialog.src#RID_DLG_UPDATEINSTALL.RID_DLG_UPDATE_INSTALL_THIS_ERROR_OCCURRED.string.text
+msgid "The error message is: "
+msgstr "Teachtaireacht earráide: "
+
+#: dp_gui_updateinstalldialog.src#RID_DLG_UPDATEINSTALL.RID_DLG_UPDATE_INSTALL_ERROR_INSTALLATION.string.text
+msgid "Error while installing extension %NAME. "
+msgstr "Earráid agus eisínteacht %NAME á suiteáil. "
+
+#: dp_gui_updateinstalldialog.src#RID_DLG_UPDATEINSTALL.RID_DLG_UPDATE_INSTALL_ERROR_LIC_DECLINED.string.text
+msgid "The license agreement for extension %NAME was refused. "
+msgstr ""
+
+#: dp_gui_updateinstalldialog.src#RID_DLG_UPDATEINSTALL.RID_DLG_UPDATE_INSTALL_EXTENSION_NOINSTALL.string.text
+msgid "The extension will not be installed."
+msgstr "Ní shuiteálfar an eisínteacht."
+
+#: dp_gui_updateinstalldialog.src#RID_DLG_UPDATEINSTALL.modaldialog.text
+msgid "Download and Installation"
+msgstr "Íosluchtú agus Suiteáil"
 
 #: dp_gui_versionboxes.src#RID_QUERYBOX_VERSION_LESS.infobox.text
 msgid ""
@@ -9294,6 +9521,7 @@ msgstr ""
 #: wizard.src#STR_FINISH.string.text
 #: padialog.src#RID_ADD_PRINTER_DIALOG.RID_ADDP_BTN_FINISH.okbutton.text
 #: wizardmachine.src#STR_WIZDLG_FINISH.string.text
+#: docrecovery.src#RID_SVXPAGE_DOCRECOVERY_RECOVER.STR_RECOVERYONLY_FINISH.string.text
 #: mailmergewizard.src#DLG_MAILMERGEWIZARD.ST_FINISH.string.text
 #: euro.src#MESSAGES.string.text
 #: dbwizres.src#RID_COMMON_START___12.string.text
@@ -9401,7 +9629,8 @@ msgid ""
 "In doing so online update does not transfer personal data.\n"
 "As soon as a new version is available, you will be notified.\n"
 "\n"
-"You can configure this feature at Tools / Options... / Online Update."
+"You can configure this feature at Tools / Options... / %PRODUCTNAME / Online "
+"Update."
 msgstr ""
 
 #: wizard.src#TP_UPDATE_CHECK.CB_UPDATE_CHECK.checkbox.text
@@ -9563,12 +9792,14 @@ msgstr "Sínis (traidisiúnta)"
 
 #: setup.ulf#_LANGUAGE_CS_.LngText.text
 #: Langpack.ulf#OOO_LANGPACK_NAME_1029.LngText.text
+#: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_CS.LngText.text
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_CZECH.pairedlist.text
 msgid "Czech"
 msgstr "Seicis"
 
 #: setup.ulf#_LANGUAGE_DA_.LngText.text
 #: Langpack.ulf#OOO_LANGPACK_NAME_1030.LngText.text
+#: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_DA.LngText.text
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_DANISH.pairedlist.text
 msgid "Danish"
 msgstr "Danmhairgis"
@@ -9580,6 +9811,7 @@ msgstr "Gearmáinis (An Ghearmáin)"
 
 #: setup.ulf#_LANGUAGE_EL_.LngText.text
 #: Langpack.ulf#OOO_LANGPACK_NAME_1032.LngText.text
+#: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_EL.LngText.text
 #: symbol.src#RID_UI_SYMBOLSET_NAMES.1.itemlist.text
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_GREEK.pairedlist.text
 msgid "Greek"
@@ -9597,6 +9829,7 @@ msgstr "Spáinnis (An Spáinn)"
 
 #: setup.ulf#_LANGUAGE_FI_.LngText.text
 #: Langpack.ulf#OOO_LANGPACK_NAME_1035.LngText.text
+#: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_FI.LngText.text
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_FINNISH.pairedlist.text
 msgid "Finnish"
 msgstr "Fionlainnis"
@@ -9608,12 +9841,14 @@ msgstr "Fraincis (An Fhrainc)"
 
 #: setup.ulf#_LANGUAGE_HE_.LngText.text
 #: Langpack.ulf#OOO_LANGPACK_NAME_1037.LngText.text
+#: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_HE.LngText.text
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_HEBREW.pairedlist.text
 msgid "Hebrew"
 msgstr "Eabhrais"
 
 #: setup.ulf#_LANGUAGE_HU_.LngText.text
 #: Langpack.ulf#OOO_LANGPACK_NAME_1038.LngText.text
+#: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_HU.LngText.text
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_HUNGARIAN.pairedlist.text
 msgid "Hungarian"
 msgstr "Ungáiris"
@@ -9625,12 +9860,14 @@ msgstr "Iodáilis (An Iodáil)"
 
 #: setup.ulf#_LANGUAGE_JA_.LngText.text
 #: Langpack.ulf#OOO_LANGPACK_NAME_1041.LngText.text
+#: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_JA.LngText.text
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_JAPANESE.pairedlist.text
 msgid "Japanese"
 msgstr "Seapáinis"
 
 #: setup.ulf#_LANGUAGE_KO_.LngText.text
 #: Langpack.ulf#OOO_LANGPACK_NAME_1042.LngText.text
+#: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_KO.LngText.text
 msgid "Korean"
 msgstr "Cóiréis"
 
@@ -9647,18 +9884,21 @@ msgstr "Ioruais (Bokmål)"
 
 #: setup.ulf#_LANGUAGE_PL_.LngText.text
 #: Langpack.ulf#OOO_LANGPACK_NAME_1045.LngText.text
+#: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_PL.LngText.text
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_POLISH.pairedlist.text
 msgid "Polish"
 msgstr "Polainnis"
 
 #: setup.ulf#_LANGUAGE_PT_BR_.LngText.text
 #: Langpack.ulf#OOO_LANGPACK_NAME_1046.LngText.text
+#: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_PT_BR.LngText.text
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_PORTUGUESE_BRAZILIAN.pairedlist.text
 msgid "Portuguese (Brazil)"
 msgstr "Portaingéilis (An Bhrasaíl)"
 
 #: setup.ulf#_LANGUAGE_RU_.LngText.text
 #: Langpack.ulf#OOO_LANGPACK_NAME_1049.LngText.text
+#: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_RU.LngText.text
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_RUSSIAN.pairedlist.text
 msgid "Russian"
 msgstr "Rúisis"
@@ -9675,17 +9915,20 @@ msgstr "Sualainnis (An tSualainn)"
 
 #: setup.ulf#_LANGUAGE_TH_.LngText.text
 #: Langpack.ulf#OOO_LANGPACK_NAME_1054.LngText.text
+#: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_TH.LngText.text
 msgid "Thai"
 msgstr "Téalainnis"
 
 #: setup.ulf#_LANGUAGE_TR_.LngText.text
 #: Langpack.ulf#OOO_LANGPACK_NAME_1055.LngText.text
+#: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_TR.LngText.text
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_TURKISH.pairedlist.text
 msgid "Turkish"
 msgstr "Tuircis"
 
 #: setup.ulf#_LANGUAGE_ET_.LngText.text
 #: Langpack.ulf#OOO_LANGPACK_NAME_1061.LngText.text
+#: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_ET.LngText.text
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_ESTONIAN.pairedlist.text
 msgid "Estonian"
 msgstr "Eastóinis"
@@ -10539,7 +10782,6 @@ msgid "Next >>"
 msgstr "Ar aghaidh >>"
 
 #: preload.src#RID_DLG_OEMWIZARD.ST_FINISH.string.text
-#: docrecovery.src#RID_SVXPAGE_DOCRECOVERY_RECOVER.STR_RECOVERYONLY_FINISH.string.text
 msgid "Finish"
 msgstr "Críochnaigh"
 
@@ -11818,14 +12060,6 @@ msgstr "Rialtán (cineál anaithnid)"
 msgid "Table Control "
 msgstr "Rialú Tábla "
 
-#: propres.src#RID_STR_STANDARD.string.text
-#: strings.src#STR_DEFAULTVIEW.string.text
-#: globstr.src#RID_GLOBSTR.STR_STYLENAME_STANDARD.string.text
-#: svxitems.src#RID_SVXITEMS_TAB_ADJUST_DEFAULT.string.text
-#: optdlg.src#TP_OPTTABLE_PAGE.FL_TABLE.fixedline.text
-msgid "Default"
-msgstr "Réamhshocrú"
-
 #: propres.src#RID_STR_PROPPAGE_DATA.string.text
 #: GenericCategories.xcu#..GenericCategories.Commands.Categories.17.Name.value.text
 #: app.src#GID_DATA.string.text
@@ -12740,13 +12974,6 @@ msgstr "~Bailíochtú"
 #: xmlfileview.src#DLG_XML_SOURCE_FILE_DIALOG.workwindow.text
 msgid "XML Filter output"
 msgstr "Aschur an Scagaire XML"
-
-#: xmlfilterdialogstrings.src#STR_UNKNOWN_APPLICATION.string.text
-#: scstring.src#SCSTR_UNKNOWN.string.text
-#: smres.src#RID_SYMBOLDIALOG.2.fixedtext.text
-#: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_DONTKNOW.pairedlist.text
-msgid "Unknown"
-msgstr "Anaithnid"
 
 #: xmlfilterdialogstrings.src#STR_IMPORT_ONLY.string.text
 msgid "import filter"
@@ -13777,13 +14004,6 @@ msgstr "~Réamhamharc íomhá (TIFF)"
 #: dlgeps.src#DLG_EXPORT_EPS.CB_PREVIEW_EPSI.checkbox.text
 msgid "~Interchange (EPSI)"
 msgstr "~Idirmhalartú (EPSI)"
-
-#: dlgeps.src#DLG_EXPORT_EPS.GRP_VERSION.fixedline.text
-#: shlxthdl.ulf#_VERSION_.LngText.text
-#: optjava.src#RID_SVXPAGE_OPTIONS_JAVA.STR_HEADER_VERSION.string.text
-#: certificateviewer.src#RID_XMLSECTP_DETAILS.STR_VERSION.string.text
-msgid "Version"
-msgstr "Leagan"
 
 #: dlgeps.src#DLG_EXPORT_EPS.RB_LEVEL1.radiobutton.text
 msgid "Level ~1"
@@ -14948,8 +15168,8 @@ msgid ""
 "The Installation Wizard will install [ProductName] on your computer. To "
 "continue, click Next."
 msgstr ""
-"Suiteálfaidh an Treoraí Suiteála [ProductName] ar do ríomhaire. Cliceáil \"Ar "
-"Aghaidh\" chun leanúint."
+"Suiteálfaidh an Treoraí Suiteála [ProductName] ar do ríomhaire. Cliceáil "
+"\"Ar Aghaidh\" chun leanúint."
 
 #: Control.ulf#OOO_CONTROL_128.LngText.text
 msgid ""
@@ -15230,7 +15450,8 @@ msgstr ""
 msgid ""
 "_: Control.ulf#OOO_CONTROL_189.LngText.text\n"
 "Click Restore or Continue Later to exit the wizard."
-msgstr "Cliceáil Athchóirigh nó Lean Ar Aghaidh Ar Ball chun an treoraí a scor."
+msgstr ""
+"Cliceáil Athchóirigh nó Lean Ar Aghaidh Ar Ball chun an treoraí a scor."
 
 #: Control.ulf#OOO_CONTROL_190.LngText.text
 msgid ""
@@ -15440,7 +15661,8 @@ msgstr ""
 msgid ""
 "_: Control.ulf#OOO_CONTROL_225.LngText.text\n"
 "Click Restore or Continue Later to exit the wizard."
-msgstr "Cliceáil Athchóirigh nó Lean Ar Aghaidh Ar Ball chun an treoraí a scor."
+msgstr ""
+"Cliceáil Athchóirigh nó Lean Ar Aghaidh Ar Ball chun an treoraí a scor."
 
 #: Control.ulf#OOO_CONTROL_226.LngText.text
 msgid ""
@@ -16637,6 +16859,7 @@ msgid ""
 msgstr "Béarla"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_1033.LngText.text
+#: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_EN_US.LngText.text
 msgid "Installs English support in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Suiteáil tacaíocht don Bhéarla i %PRODUCTNAME %PRODUCTVERSION"
 
@@ -16647,6 +16870,7 @@ msgid ""
 msgstr "Gearmáinis"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_1031.LngText.text
+#: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_DE.LngText.text
 msgid "Installs German support in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Suiteáil tacaíocht don Ghearmáinis i %PRODUCTNAME %PRODUCTVERSION"
 
@@ -16657,10 +16881,12 @@ msgid ""
 msgstr "Spáinnis"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_1034.LngText.text
+#: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_ES.LngText.text
 msgid "Installs Spanish support in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Suiteáil tacaíocht don Spáinnis i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_NAME_2070.LngText.text
+#: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_PT.LngText.text
 msgid "Portuguese"
 msgstr "Portaingéilis"
 
@@ -16675,145 +16901,179 @@ msgstr ""
 "PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_1049.LngText.text
+#: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_RU.LngText.text
 msgid "Installs Russian support in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Suiteáil tacaíocht don Rúisis i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_1032.LngText.text
+#: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_EL.LngText.text
 msgid "Installs Greek support in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Suiteáil tacaíocht don Ghréigis i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_NAME_1043.LngText.text
+#: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_NL.LngText.text
 msgid "Dutch"
 msgstr "Ollainnis"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_1043.LngText.text
+#: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_NL.LngText.text
 msgid "Installs Dutch support in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Suiteáil tacaíocht don Ollainnis i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_NAME_1036.LngText.text
+#: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_FR.LngText.text
 msgid "French"
 msgstr "Fraincis"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_1036.LngText.text
+#: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_FR.LngText.text
 msgid "Installs French support in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Suiteáil tacaíocht don Fhraincis i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_NAME_1040.LngText.text
+#: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_IT.LngText.text
 msgid "Italian"
 msgstr "Iodáilis"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_1040.LngText.text
+#: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_IT.LngText.text
 msgid "Installs Italian support in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Suiteáil tacaíocht don Iodáilis i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_NAME_1053.LngText.text
+#: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_SV.LngText.text
 msgid "Swedish"
 msgstr "Sualainnis"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_1053.LngText.text
+#: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_SV.LngText.text
 msgid "Installs Swedish support in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Suiteáil tacaíocht don tSualainnis i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_1054.LngText.text
+#: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_TH.LngText.text
 msgid "Installs Thai support in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Suiteáil tacaíocht don Téalainnis i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_1045.LngText.text
+#: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_PL.LngText.text
 msgid "Installs Polish support in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Suiteáil tacaíocht don Pholainnis i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_1041.LngText.text
+#: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_JA.LngText.text
 msgid "Installs Japanese support in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Suiteáil tacaíocht don tSeapáinis i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_1042.LngText.text
+#: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_KO.LngText.text
 msgid "Installs Korean support in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Suiteáil tacaíocht don Chóiréis i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_NAME_2052.LngText.text
+#: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_ZH_CN.LngText.text
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_CHINESE_SIMPLIFIED.pairedlist.text
 msgid "Chinese (simplified)"
 msgstr "Sínis (simplithe)"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_2052.LngText.text
+#: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_ZH_CN.LngText.text
 msgid "Installs Chinese (simplified) support in %PRODUCTNAME %PRODUCTVERSION"
 msgstr ""
 "Suiteáil tacaíocht don tSínis (simplithe) i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_1028.LngText.text
+#: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_ZH_TW.LngText.text
 msgid "Installs Chinese (traditional) support in %PRODUCTNAME %PRODUCTVERSION"
 msgstr ""
 "Suiteáil tacaíocht don tSínis (traidisiúnta) i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_1029.LngText.text
+#: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_CS.LngText.text
 msgid "Installs Czech support in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Suiteáil tacaíocht don tSeicis i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_NAME_1051.LngText.text
+#: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_SK.LngText.text
 msgid "Slovak"
 msgstr "Slóvaicis"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_1051.LngText.text
+#: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_SK.LngText.text
 msgid "Installs Slovak support in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Suiteáil tacaíocht don tSlóvaicis i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_NAME_1050.LngText.text
+#: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_HR.LngText.text
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_CROATIAN.pairedlist.text
 msgid "Croatian"
 msgstr "Cróitis"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_1050.LngText.text
+#: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_HR.LngText.text
 msgid "Installs Croatian support in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Suiteáil tacaíocht don Chróitis i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_1061.LngText.text
+#: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_ET.LngText.text
 msgid "Installs Estonian support in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Suiteáil tacaíocht don Eastóinis i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_NAME_1066.LngText.text
+#: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_VI.LngText.text
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_VIETNAMESE.pairedlist.text
 msgid "Vietnamese"
 msgstr "Vítneaimis"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_1066.LngText.text
+#: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_VI.LngText.text
 msgid "Installs Vietnamese support in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Suiteáil tacaíocht don Vítneaimis i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_1038.LngText.text
+#: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_HU.LngText.text
 msgid "Installs Hungarian support in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Suiteáil tacaíocht don Ungáiris i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_NAME_1026.LngText.text
+#: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_BG.LngText.text
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_BULGARIAN.pairedlist.text
 msgid "Bulgarian"
 msgstr "Bulgáiris"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_1026.LngText.text
+#: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_BG.LngText.text
 msgid "Installs Bulgarian support in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Suiteáil tacaíocht don Bhulgáiris i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_NAME_1107.LngText.text
+#: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_KM.LngText.text
 msgid "Khmer"
 msgstr "Ciméiris"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_1107.LngText.text
+#: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_KM.LngText.text
 msgid "Installs Khmer support in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Suiteáil tacaíocht don Chiméiris i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_NAME_1094.LngText.text
+#: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_PA_IN.LngText.text
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_PUNJABI.pairedlist.text
 msgid "Punjabi"
 msgstr "Painseáibis"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_1094.LngText.text
+#: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_PA_IN.LngText.text
 msgid "Installs Punjabi support in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Suiteáil tacaíocht don Phuinseáibis i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_NAME_1095.LngText.text
+#: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_GU_IN.LngText.text
 msgid "Gujarati"
 msgstr "Gúisearáitis"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_1095.LngText.text
+#: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_GU_IN.LngText.text
 msgid "Installs Gujarati support in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Suiteáil tacaíocht don Ghúisearáitis i %PRODUCTNAME %PRODUCTVERSION"
 
@@ -16836,6 +17096,7 @@ msgid "Installs Hindi support in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Suiteáil tacaíocht don Hiondúis i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_NAME_1072.LngText.text
+#: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_ST.LngText.text
 msgid "Southern Sotho (Sutu)"
 msgstr "Sótó Theas (Sútú)"
 
@@ -16844,36 +17105,44 @@ msgid "Installs Southern Sotho support in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Suiteáil tacaíocht don tSótó Theas i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_NAME_1074.LngText.text
+#: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_TN.LngText.text
 msgid "Tswana"
 msgstr "Suáinis"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_1074.LngText.text
+#: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_TN.LngText.text
 msgid "Installs Tswana support in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Suiteáil tacaíocht don tSuáinis i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_NAME_1076.LngText.text
+#: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_XH.LngText.text
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_XHOSA.pairedlist.text
 msgid "Xhosa"
 msgstr "Cóisis"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_1076.LngText.text
+#: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_XH.LngText.text
 msgid "Installs Xhosa support in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Suiteáil tacaíocht don Chóisis i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_NAME_1077.LngText.text
+#: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_ZU.LngText.text
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_ZULU.pairedlist.text
 msgid "Zulu"
 msgstr "Súlúis"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_1077.LngText.text
+#: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_ZU.LngText.text
 msgid "Installs Zulu support in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Suiteáil tacaíocht don tSúlúis i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_NAME_1078.LngText.text
+#: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_AF.LngText.text
 msgid "Afrikaans"
 msgstr "Afracáinis"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_1078.LngText.text
+#: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_AF.LngText.text
 msgid "Installs Afrikaans support in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Suiteáil tacaíocht don Afracáinis i %PRODUCTNAME %PRODUCTVERSION"
 
@@ -16886,19 +17155,23 @@ msgid "Installs Swahili support in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Suiteáil tacaíocht don Svahaílis i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_NAME_1108.LngText.text
+#: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_LO.LngText.text
 msgid "Lao"
 msgstr "Láóis"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_1108.LngText.text
+#: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_LO.LngText.text
 msgid "Installs Lao support in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Suiteáil tacaíocht don Láóis i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_NAME_1132.LngText.text
+#: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_NS.LngText.text
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_SEPEDI.pairedlist.text
 msgid "Northern Sotho"
 msgstr "Seipidis"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_1132.LngText.text
+#: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_NS.LngText.text
 msgid "Installs Northern Sotho support in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Suiteáil tacaíocht don tSeipidis i %PRODUCTNAME %PRODUCTVERSION"
 
@@ -16907,6 +17180,7 @@ msgid "Bengali Bangladesh"
 msgstr "Beangáilis (Banglaidéis)"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_2117.LngText.text
+#: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_BN_BD.LngText.text
 msgid "Installs Bengali (Bangladesh) support in %PRODUCTNAME %PRODUCTVERSION"
 msgstr ""
 "Suiteáil tacaíocht don Bheangáilis (Banglaidéis) i %PRODUCTNAME %"
@@ -16917,6 +17191,7 @@ msgid "Bengali India"
 msgstr "Beangáilis (An India)"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_1093.LngText.text
+#: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_BN_IN.LngText.text
 msgid "Installs Bengali (India) support in %PRODUCTNAME %PRODUCTVERSION"
 msgstr ""
 "Suiteáil tacaíocht don Bheangáilis (An India) i %PRODUCTNAME %PRODUCTVERSION"
@@ -16930,10 +17205,12 @@ msgid "Installs Oriya support in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Suiteáil tacaíocht don Oirísis i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_NAME_1121.LngText.text
+#: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_NE.LngText.text
 msgid "Nepali"
 msgstr "Neipeailis"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_1121.LngText.text
+#: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_NE.LngText.text
 msgid "Installs Nepali support in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Suiteáil tacaíocht don Neipeailis i %PRODUCTNAME %PRODUCTVERSION"
 
@@ -16957,32 +17234,39 @@ msgid "Installs Arabic support in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Suiteáil tacaíocht don Araibis i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_NAME_1027.LngText.text
+#: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_CA.LngText.text
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_CATALAN.pairedlist.text
 msgid "Catalan"
 msgstr "Catalóinis"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_1027.LngText.text
+#: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_CA.LngText.text
 msgid "Installs Catalan support in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Suiteáil tacaíocht don Chatalóinis i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_1030.LngText.text
+#: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_DA.LngText.text
 msgid "Installs Danish support in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Suiteáil tacaíocht don Danmhairgis i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_1035.LngText.text
+#: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_FI.LngText.text
 msgid "Installs Finnish support in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Suiteáil tacaíocht don Fhionlainnis i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_1037.LngText.text
+#: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_HE.LngText.text
 msgid "Installs Hebrew support in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Suiteáil tacaíocht don Eabhrais i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_NAME_1039.LngText.text
+#: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_IS.LngText.text
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_ICELANDIC.pairedlist.text
 msgid "Icelandic"
 msgstr "Íoslainnis"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_1039.LngText.text
+#: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_IS.LngText.text
 msgid "Installs Icelandic support in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Suiteáil tacaíocht don Íoslainnis i %PRODUCTNAME %PRODUCTVERSION"
 
@@ -16991,58 +17275,71 @@ msgid "Installs Norwegian (Bokmål) support in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Suiteáil tacaíocht don Ioruais (Bokmål) i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_NAME_1047.LngText.text
+#: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_RM.LngText.text
 msgid "Raeto-Romance"
 msgstr "Raeta-Rómáinsis"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_1047.LngText.text
+#: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_RM.LngText.text
 msgid "Installs Raeto-Romance support in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Suiteáil tacaíocht don Raeta-Rómáinsis i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_NAME_1048.LngText.text
+#: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_RO.LngText.text
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_ROMANIAN.pairedlist.text
 msgid "Romanian"
 msgstr "Rómáinis"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_1048.LngText.text
+#: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_RO.LngText.text
 msgid "Installs Romanian support in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Suiteáil tacaíocht don Rómáinis i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_NAME_1052.LngText.text
+#: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_SQ.LngText.text
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_ALBANIAN.pairedlist.text
 msgid "Albanian"
 msgstr "Albáinis"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_1052.LngText.text
+#: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_SQ.LngText.text
 msgid "Installs Albanian support in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Suiteáil tacaíocht don Albáinis i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_1055.LngText.text
+#: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_TR.LngText.text
 msgid "Installs Turkish support in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Suiteáil tacaíocht don Tuircis i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_NAME_1056.LngText.text
+#: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_UR.LngText.text
 msgid "Urdu"
 msgstr "Urdais"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_1056.LngText.text
+#: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_UR.LngText.text
 msgid "Installs Urdu support in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Suiteáil tacaíocht don Urdais i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_NAME_1057.LngText.text
+#: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_ID.LngText.text
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_INDONESIAN.pairedlist.text
 msgid "Indonesian"
 msgstr "Indinéisis"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_1057.LngText.text
+#: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_ID.LngText.text
 msgid "Installs Indonesian support in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Suiteáil tacaíocht don Indinéisis i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_NAME_1058.LngText.text
+#: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_UK.LngText.text
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_UKRAINIAN.pairedlist.text
 msgid "Ukrainian"
 msgstr "Úcráinis"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_1058.LngText.text
+#: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_UK.LngText.text
 msgid "Installs Ukrainian support in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Suiteáil tacaíocht don Úcráinis i %PRODUCTNAME %PRODUCTVERSION"
 
@@ -17143,11 +17440,13 @@ msgid "Installs Galician support in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Suiteáil tacaíocht don Ghailísis i %PRODUCTNAME %PRODUCTVERSION"
 
 #: Langpack.ulf#OOO_LANGPACK_NAME_2068.LngText.text
+#: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_NN.LngText.text
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_NORWEGIAN_NYNORSK.pairedlist.text
 msgid "Norwegian (Nynorsk)"
 msgstr "Ioruais (Nynorsk)"
 
 #: Langpack.ulf#OOO_LANGPACK_DESC_2068.LngText.text
+#: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_NN.LngText.text
 msgid "Installs Norwegian (Nynorsk) support in %PRODUCTNAME %PRODUCTVERSION"
 msgstr ""
 "Suiteáil tacaíocht don Ioruais (Nynorsk) i %PRODUCTNAME %PRODUCTVERSION"
@@ -17324,8 +17623,9 @@ msgid ""
 "The Installation Wizard cannot be run properly because you are logged in as "
 "a user without sufficient administrator rights for this system."
 msgstr ""
-"Ní féidir an Treoraí Suiteála a rith mar is ceart, toisc go bhfuil tú logáilte "
-"isteach mar úsáideoir gan pribhléidí cuí an riarthóra ar an gcóras seo."
+"Ní féidir an Treoraí Suiteála a rith mar is ceart, toisc go bhfuil tú "
+"logáilte isteach mar úsáideoir gan pribhléidí cuí an riarthóra ar an gcóras "
+"seo."
 
 #: Nsis.ulf#SetupCaption.LngText.text
 msgid "%PRODUCTNAME %PRODUCTVERSION Installation Preparation"
@@ -25091,6 +25391,13 @@ msgid ""
 "Standard"
 msgstr "Caighdeánach"
 
+#: BasicIDEWindowState.xcu#..BasicIDEWindowState.UIElements.States.private_resource/toolbar/translationbar.UIName.value.text
+msgid ""
+"_: BasicIDEWindowState.xcu#..BasicIDEWindowState.UIElements.States."
+"private_resource/toolbar/translationbar.UIName.value.text\n"
+"Language"
+msgstr "Teanga"
+
 #: BasicIDEWindowState.xcu#..BasicIDEWindowState.UIElements.States.private_resource/toolbar/insertcontrolsbar.UIName.value.text
 msgid "Toolbox"
 msgstr "Bosca uirlisí"
@@ -25270,13 +25577,19 @@ msgid ""
 "~Hyphenation..."
 msgstr "~Fleiscíniú..."
 
+#: CalcCommands.xcu#..CalcCommands.UserInterface.Commands..uno_ObjectTitleDescription.Label.value.text
+msgid ""
+"_: CalcCommands.xcu#..CalcCommands.UserInterface.Commands.."
+"uno_ObjectTitleDescription.Label.value.text\n"
+"Description..."
+msgstr "Cur Síos..."
+
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Commands..uno_RenameObject.Label.value.text
-#: scstring.src#SCSTR_RENAMEOBJECT.string.text
-#: strings.src#STR_TITLE_NAMEGROUP.string.text
-#: swslots.src#FN_NAME_SHAPE.sfxslotinfo.text
-#: shells.src#STR_NAME_SHAPE_DIALOG.string.text
-msgid "Name Object"
-msgstr "Cuir Ainm ar Réad"
+msgid ""
+"_: CalcCommands.xcu#..CalcCommands.UserInterface.Commands..uno_RenameObject."
+"Label.value.text\n"
+"Name..."
+msgstr "Ainm..."
 
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Commands..uno_FocusInputLine.Label.value.text
 msgid "Input Line"
@@ -27758,10 +28071,19 @@ msgstr "Leag Amach"
 msgid "Comb~ine"
 msgstr "Comhshna~idhm"
 
+#: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_ObjectTitleDescription.Label.value.text
+msgid ""
+"_: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands.."
+"uno_ObjectTitleDescription.Label.value.text\n"
+"Description..."
+msgstr "Cur Síos..."
+
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_NameGroup.Label.value.text
-#: mn.src#MN_NAME_SHAPE.FN_NAME_SHAPE.menuitem.text
-msgid "~Name Object..."
-msgstr "Cuir Ai~nm Ar Réad..."
+msgid ""
+"_: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands.."
+"uno_NameGroup.Label.value.text\n"
+"Name..."
+msgstr "Ainm..."
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_ConnectorToolbox.Label.value.text
 msgid ""
@@ -33833,11 +34155,10 @@ msgid "~Spellcheck"
 msgstr "~Seiceáil an litriú"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Popups..uno_LanguageMenu.Label.value.text
-#: svxitems.src#RID_ATTR_CHAR_LANGUAGE.string.text
-#: optlingu.src#RID_SVXDLG_EDIT_MODULES.FT_EDIT_MODULES_LANGUAGE.fixedtext.text
-#: cnttab.src#FT_LANGUAGE.fixedtext.text
-#: srtdlg.src#DLG_SORTING.FL_LANG.fixedline.text
-msgid "Language"
+msgid ""
+"_: GenericCommands.xcu#..GenericCommands.UserInterface.Popups.."
+"uno_LanguageMenu.Label.value.text\n"
+"Language"
 msgstr "Teanga"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Popups..uno_ViewMenu.Label.value.text
@@ -33931,6 +34252,14 @@ msgstr "Marc C~lé-go-deas"
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Popups..uno_InsertRLM.Label.value.text
 msgid "~Right-to-left mark"
 msgstr "Marc ~deas-go-clé"
+
+#: GenericCommands.xcu#..GenericCommands.UserInterface.Popups..uno_ManageLanguage.Label.value.text
+msgid "Manage Language"
+msgstr "Bainistigh Teangacha"
+
+#: GenericCommands.xcu#..GenericCommands.UserInterface.Popups..uno_CurrentLanguage.Label.value.text
+msgid "Current Language"
+msgstr "Teanga Reatha"
 
 #: ImpressWindowState.xcu#..ImpressWindowState.UIElements.States.private_resource/toolbar/extrusionobjectbar.UIName.value.text
 msgid ""
@@ -35256,9 +35585,19 @@ msgstr "Cruthaigh ~UathChoimriú..."
 msgid "AutoAbst~ract to Presentation..."
 msgstr "UathChoim~riú go Láithreoireacht..."
 
+#: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_ObjectTitleDescription.Label.value.text
+msgid ""
+"_: WriterCommands.xcu#..WriterCommands.UserInterface.Commands.."
+"uno_ObjectTitleDescription.Label.value.text\n"
+"Description..."
+msgstr "Cur Síos..."
+
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_NameGroup.Label.value.text
-msgid "Name Group..."
-msgstr "Ainmnigh Grúpa..."
+msgid ""
+"_: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_NameGroup."
+"Label.value.text\n"
+"Name..."
+msgstr "Ainm..."
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_BorderDialog.Label.value.text
 msgid ""
@@ -46107,6 +46446,16 @@ msgstr "Líníocht %PRODUCTNAME %SXWFORMATVERSION"
 msgid "%PRODUCTNAME %SXWFORMATVERSION Drawing Template"
 msgstr "Teimpléad Líníochta %PRODUCTNAME %SXWFORMATVERSION"
 
+#: module_gnome.ulf#STR_NAME_MODULE_OPTIONAL_GNOME.LngText.text
+msgid "GNOME Integration"
+msgstr "Comhtháthú GNOME"
+
+#: module_gnome.ulf#STR_DESC_MODULE_OPTIONAL_GNOME.LngText.text
+msgid ""
+"System integration of %PRODUCTNAME %PRODUCTVERSION into Gnome Desktop "
+"Environment."
+msgstr ""
+
 #: module_graphicfilter.ulf#STR_NAME_MODULE_OPTIONAL_GRFFLT.LngText.text
 msgid "Graphics Filters"
 msgstr "Scagairí Grafaice"
@@ -46492,14 +46841,237 @@ msgid "Files"
 msgstr "Comhaid"
 
 #: folderitem_ooo.ulf#STR_FI_NAME_FROMTEMPLATE.LngText.text
-#: app.src#STR_QUICKSTART_FROMTEMPLATE.string.text
 msgid "From Template"
 msgstr "Ó Theimpléad"
 
 #: folderitem_ooo.ulf#STR_FI_NAME_OPENDOCUMENT.LngText.text
+#: app.src#STR_EVENT_OPENDOC.string.text
 #: macropg.src#RID_SVXSTR_EVENT_OPENDOC.string.text
 msgid "Open Document"
 msgstr "Oscail Cáipéis"
+
+#: module_java.ulf#STR_NAME_MODULE_OPTIONAL_JAVA.LngText.text
+msgid "Java Runtime Environment"
+msgstr "Timpeallacht Amrite Java"
+
+#: module_java.ulf#STR_DESC_MODULE_OPTIONAL_JAVA.LngText.text
+msgid "Component for setting up the Java Environment"
+msgstr ""
+
+#: module_langpack.ulf#STR_NAME_MODULE_ROOT_LANGPACK.LngText.text
+msgid ""
+"_: module_langpack.ulf#STR_NAME_MODULE_ROOT_LANGPACK.LngText.text\n"
+"Additional language packs"
+msgstr "Teangacha eile"
+
+#: module_langpack.ulf#STR_DESC_MODULE_ROOT_LANGPACK.LngText.text
+msgid ""
+"_: module_langpack.ulf#STR_DESC_MODULE_ROOT_LANGPACK.LngText.text\n"
+"Additional language packs"
+msgstr "Teangacha eile"
+
+#: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_EN_US.LngText.text
+msgid "English"
+msgstr "Béarla"
+
+#: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_DE.LngText.text
+msgid "German"
+msgstr "Gearmáinis"
+
+#: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_ES.LngText.text
+msgid "Spanish"
+msgstr "Spáinnis"
+
+#: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_PT.LngText.text
+msgid ""
+"_: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_PT.LngText.text\n"
+"Installs Portuguese support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr "Suiteáil tacaíocht don Phortaingéilis i %PRODUCTNAME %PRODUCTVERSION"
+
+#: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_PT_BR.LngText.text
+msgid ""
+"_: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_PT_BR.LngText.text\n"
+"Installs Portuguese support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr "Suiteáil tacaíocht don Phortaingéilis i %PRODUCTNAME %PRODUCTVERSION"
+
+#: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_ZH_TW.LngText.text
+msgid "Chinese (tradional)"
+msgstr "Sínis (traidisiúnta)"
+
+#: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_TA.LngText.text
+msgid ""
+"_: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_TA.LngText.text\n"
+"Tamil"
+msgstr "Tamailis"
+
+#: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_TA.LngText.text
+msgid ""
+"_: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_TA.LngText.text\n"
+"Installs Tamil support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr "Suiteáil tacaíocht don Tamailis i %PRODUCTNAME %PRODUCTVERSION"
+
+#: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_TA_IN.LngText.text
+msgid ""
+"_: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_TA_IN.LngText.text\n"
+"Tamil"
+msgstr "Tamailis"
+
+#: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_TA_IN.LngText.text
+msgid ""
+"_: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_TA_IN.LngText.text\n"
+"Installs Tamil support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr "Suiteáil tacaíocht don Tamailis i %PRODUCTNAME %PRODUCTVERSION"
+
+#: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_HI.LngText.text
+msgid ""
+"_: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_HI.LngText.text\n"
+"Hindi"
+msgstr "Hiondúis"
+
+#: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_HI.LngText.text
+msgid ""
+"_: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_HI.LngText.text\n"
+"Installs Hindi support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr "Suiteáil tacaíocht don Hiondúis i %PRODUCTNAME %PRODUCTVERSION"
+
+#: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_HI_IN.LngText.text
+msgid ""
+"_: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_HI_IN.LngText.text\n"
+"Hindi"
+msgstr "Hiondúis"
+
+#: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_HI_IN.LngText.text
+msgid ""
+"_: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_HI_IN.LngText.text\n"
+"Installs Hindi support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr "Suiteáil tacaíocht don Hiondúis i %PRODUCTNAME %PRODUCTVERSION"
+
+#: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_ST.LngText.text
+msgid "Installs Southern Sotho (Sutu) support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr "Suiteáil tacaíocht don tSótó Theas i %PRODUCTNAME %PRODUCTVERSION"
+
+#: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_SW.LngText.text
+msgid ""
+"_: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_SW.LngText.text\n"
+"Swahili"
+msgstr "Svahaílis"
+
+#: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_SW.LngText.text
+msgid ""
+"_: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_SW.LngText.text\n"
+"Installs Swahili support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr "Suiteáil tacaíocht don Svahaílis i %PRODUCTNAME %PRODUCTVERSION"
+
+#: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_SW_TZ.LngText.text
+msgid ""
+"_: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_SW_TZ.LngText.text\n"
+"Swahili"
+msgstr "Svahaílis"
+
+#: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_SW_TZ.LngText.text
+msgid ""
+"_: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_SW_TZ.LngText.text\n"
+"Installs Swahili support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr "Suiteáil tacaíocht don Svahaílis i %PRODUCTNAME %PRODUCTVERSION"
+
+#: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_BN.LngText.text
+#: charmap.src#RID_SUBSETMAP.RID_SUBSETSTR_BENGALI.string.text
+msgid "Bengali"
+msgstr "Beangáilis"
+
+#: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_BN.LngText.text
+msgid "Installs Bengali support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr "Suiteáil tacaíocht don Bheangáilis i %PRODUCTNAME %PRODUCTVERSION"
+
+#: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_BN_BD.LngText.text
+#: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_BENGALI_BANGLADESH.pairedlist.text
+msgid "Bengali (Bangladesh)"
+msgstr "Beangáilis (Banglaidéis)"
+
+#: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_BN_IN.LngText.text
+#: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_BENGALI.pairedlist.text
+msgid "Bengali (India)"
+msgstr "Beangáilis (An India)"
+
+#: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_OR.LngText.text
+msgid ""
+"_: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_OR.LngText.text\n"
+"Oriya"
+msgstr "Oirísis"
+
+#: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_OR.LngText.text
+msgid ""
+"_: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_OR.LngText.text\n"
+"Installs Oriya support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr "Suiteáil tacaíocht don Oirísis i %PRODUCTNAME %PRODUCTVERSION"
+
+#: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_OR_IN.LngText.text
+msgid ""
+"_: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_OR_IN.LngText.text\n"
+"Oriya"
+msgstr "Oirísis"
+
+#: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_OR_IN.LngText.text
+msgid ""
+"_: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_OR_IN.LngText.text\n"
+"Installs Oriya support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr "Suiteáil tacaíocht don Oirísis i %PRODUCTNAME %PRODUCTVERSION"
+
+#: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_MR.LngText.text
+msgid ""
+"_: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_MR.LngText.text\n"
+"Marathi"
+msgstr "Maraitis"
+
+#: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_MR.LngText.text
+msgid ""
+"_: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_MR.LngText.text\n"
+"Installs Marathi support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr "Suiteáil tacaíocht don Mharaitis i %PRODUCTNAME %PRODUCTVERSION"
+
+#: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_MR_IN.LngText.text
+msgid ""
+"_: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_MR_IN.LngText.text\n"
+"Marathi"
+msgstr "Maraitis"
+
+#: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_MR_IN.LngText.text
+msgid ""
+"_: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_MR_IN.LngText.text\n"
+"Installs Marathi support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr "Suiteáil tacaíocht don Mharaitis i %PRODUCTNAME %PRODUCTVERSION"
+
+#: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_AR.LngText.text
+msgid ""
+"_: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_AR.LngText.text\n"
+"Arabic"
+msgstr "Araibis"
+
+#: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_AR.LngText.text
+msgid ""
+"_: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_AR.LngText.text\n"
+"Installs Arabic support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr "Suiteáil tacaíocht don Araibis i %PRODUCTNAME %PRODUCTVERSION"
+
+#: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_AR_SA.LngText.text
+msgid ""
+"_: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_AR_SA.LngText.text\n"
+"Arabic"
+msgstr "Araibis"
+
+#: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_AR_SA.LngText.text
+msgid ""
+"_: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_AR_SA.LngText.text\n"
+"Installs Arabic support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr "%PRODUCTNAME %PRODUCTVERSION"
+
+#: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_NB.LngText.text
+msgid "Norwegian (Bokmal)"
+msgstr "Ioruais (Bokmål)"
+
+#: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_NB.LngText.text
+msgid "Installs Norwegian (Bokmal) support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr "Suiteáil tacaíocht don Ioruais (Bokmål) i %PRODUCTNAME %PRODUCTVERSION"
 
 #: module_ooo.ulf#STR_NAME_MODULE_ROOT_OSL.LngText.text
 msgid ""
@@ -46533,6 +47105,18 @@ msgstr ""
 "Comhpháirteanna coitianta agus cláir eile atá úsáidte ag gach clár %"
 "PRODUCTNAME."
 
+#: module_systemint.ulf#STR_NAME_MODULE_OPTIONAL_SYSTEMINTEGRATION.LngText.text
+msgid "Desktop integration"
+msgstr ""
+
+#: module_systemint.ulf#STR_DESC_MODULE_OPTIONAL_SYSTEMINTEGRATION.LngText.text
+msgid "Desktop integration of %PRODUCTNAME %PRODUCTVERSION."
+msgstr ""
+
+#: registryitem_ooo.ulf#STR_REG_VAL_INSTALL.LngText.text
+msgid "&Install"
+msgstr "Su&iteáil"
+
 #: registryitem_ooo.ulf#STR_REG_VAL_SO52_CHART_OOO.LngText.text
 msgid "StarOffice 5.0 Chart"
 msgstr "Cairt StarOffice 5.0"
@@ -46544,6 +47128,10 @@ msgstr "Comhad Cumraíochta %PRODUCTNAME %SXWFORMATVERSION"
 #: registryitem_ooo.ulf#STR_REG_VAL_SO50_TEMPLATE_OOO.LngText.text
 msgid "StarOffice 5.0 Template"
 msgstr "Teimpléad StarOffice 5.0"
+
+#: registryitem_ooo.ulf#STR_REG_VAL_APPCAPABILITY_DESCRIPTION_OOO.LngText.text
+msgid "OpenOffice.org"
+msgstr "OpenOffice.org"
 
 #: module_python.ulf#STR_NAME_MODULE_OPTIONAL_PYTHON.LngText.text
 msgid "Python-UNO Bridge"
@@ -48195,11 +48783,6 @@ msgstr "Bain"
 msgid "Options..."
 msgstr "Roghanna..."
 
-#: pivot.src#RID_SCDLG_PIVOT_LAYOUT.FL_OUTPUT.fixedline.text
-#: formdlgs.src#RID_SCDLG_FORMULA.FT_FORMULA_RESULT.fixedtext.text
-msgid "Result"
-msgstr "Toradh"
-
 #: pivot.src#RID_SCDLG_PIVOT_LAYOUT.FT_OUTAREA.fixedtext.text
 msgid "Results to"
 msgstr "Torthaí go"
@@ -48783,8 +49366,15 @@ msgstr "Cáipéis: "
 #: drformsh.src#MN_RENAME_OBJECT.SID_RENAME_OBJECT.menuitem.text
 msgid ""
 "_: drformsh.src#MN_RENAME_OBJECT.SID_RENAME_OBJECT.menuitem.text\n"
-"~Name Object..."
-msgstr "Cuir Ai~nm ar Réad..."
+"Name..."
+msgstr "Ainm..."
+
+#: drformsh.src#MN_TITLE_DESCRIPTION_OBJECT.SID_TITLE_DESCRIPTION_OBJECT.menuitem.text
+msgid ""
+"_: drformsh.src#MN_TITLE_DESCRIPTION_OBJECT.SID_TITLE_DESCRIPTION_OBJECT."
+"menuitem.text\n"
+"Description..."
+msgstr "Cur Síos..."
 
 #: drformsh.src#MN_ARRANGESUB.SUBMENU_OBJARRANGE.SID_FRAME_UP.menuitem.text
 msgid ""
@@ -48874,8 +49464,15 @@ msgstr "~Bunmhéid"
 #: objdraw.src#MN_RENAME_OBJECT.SID_RENAME_OBJECT.menuitem.text
 msgid ""
 "_: objdraw.src#MN_RENAME_OBJECT.SID_RENAME_OBJECT.menuitem.text\n"
-"~Name Object..."
-msgstr "Cuir Ai~nm Ar Réad..."
+"Name..."
+msgstr "Ainm..."
+
+#: objdraw.src#MN_TITLE_DESCRIPTION_OBJECT.SID_TITLE_DESCRIPTION_OBJECT.menuitem.text
+msgid ""
+"_: objdraw.src#MN_TITLE_DESCRIPTION_OBJECT.SID_TITLE_DESCRIPTION_OBJECT."
+"menuitem.text\n"
+"Description..."
+msgstr "Cur Síos..."
 
 #: objdraw.src#MN_MIRRORSUB.SUBMENU_OBJMIRROR.SID_MIRROR_HORIZONTAL.menuitem.text
 #: float3d.src#RID_SVXFLOAT_3D.FT_HORIZONTAL.fixedtext.text
@@ -61649,7 +62246,7 @@ msgid "The text in which the length is to be determined."
 msgstr ""
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_LEFT.1.string.text
-msgid "Defines the first character or characters in a text string."
+msgid "Returns the first character or characters of a text."
 msgstr ""
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_LEFT.2.string.text
@@ -61673,7 +62270,7 @@ msgid "The number of characters for the start text."
 msgstr ""
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_RIGHT.1.string.text
-msgid "Defines the last character or characters in a text string."
+msgid "Returns the last character or characters of a text."
 msgstr ""
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_RIGHT.2.string.text
@@ -62233,6 +62830,11 @@ msgid ""
 "_: scstring.src#SCSTR_RENAMETAB.string.text\n"
 "Rename Sheet"
 msgstr "Athainmnigh Bileog"
+
+#: scstring.src#SCSTR_RENAMEOBJECT.string.text
+#: strings.src#STR_TITLE_NAMEGROUP.string.text
+msgid "Name Object"
+msgstr "Cuir Ainm ar Réad"
 
 #: scstring.src#STR_INSERTGRAPHIC.string.text
 msgid "Insert Picture"
@@ -65155,8 +65757,17 @@ msgid "E~xit Group"
 msgstr "S~coir Grúpa"
 
 #: menuids_tmpl.src#MN_NAME_GROUP.SID_NAME_GROUP.menuitem.text
-msgid "Na~me Object..."
-msgstr "Cuir Ain~m Ar Réad..."
+#: swslots.src#FN_NAME_SHAPE.sfxslotinfo.text
+#: mn.src#MN_NAME_SHAPE.FN_NAME_SHAPE.menuitem.text
+msgid "Name..."
+msgstr "Ainm..."
+
+#: menuids_tmpl.src#MN_OBJECT_TITLE_DESCRIPTION.SID_OBJECT_TITLE_DESCRIPTION.menuitem.text
+#: imapdlg.src#RID_SVXMN_IMAP.MN_URL.menuitem.text
+#: swslots.src#FN_TITLE_DESCRIPTION_SHAPE.sfxslotinfo.text
+#: mn.src#MN_TITLE_DESCRIPTION_SHAPE.FN_TITLE_DESCRIPTION_SHAPE.menuitem.text
+msgid "Description..."
+msgstr "Cur Síos..."
 
 #: menuids_tmpl.src#MN_ACTION.SID_ANIMATION_EFFECTS.menuitem.text
 msgid "Int~eraction..."
@@ -69488,12 +70099,6 @@ msgstr "Cáipéis á dúnadh"
 msgid "Close Document"
 msgstr "Dún an Cháipéis"
 
-#: app.src#STR_EVENT_OPENDOC.string.text
-msgid ""
-"_: app.src#STR_EVENT_OPENDOC.string.text\n"
-"Open Document"
-msgstr "Oscail Cáipéis"
-
 #: app.src#STR_EVENT_SAVEASDOC.string.text
 #: macropg.src#RID_SVXSTR_EVENT_SAVEASDOC.string.text
 msgid "Save Document As"
@@ -69705,10 +70310,12 @@ msgid "%PRODUCTNAME %PRODUCTVERSION Quickstarter"
 msgstr "Meardhúisire %PRODUCTNAME %PRODUCTVERSION"
 
 #: app.src#STR_QUICKSTART_FILEOPEN.string.text
-msgid ""
-"_: app.src#STR_QUICKSTART_FILEOPEN.string.text\n"
-"Open Document"
-msgstr "Oscail Cáipéis"
+msgid "Open Document..."
+msgstr "Oscail Cáipéis..."
+
+#: app.src#STR_QUICKSTART_FROMTEMPLATE.string.text
+msgid "From Template..."
+msgstr "Ó Theimpléad..."
 
 #: app.src#STR_QUICKSTART_PRELAUNCH.string.text
 msgid "Load %PRODUCTNAME During System Start-Up"
@@ -71433,6 +72040,7 @@ msgid "~Key words"
 msgstr "~Lorgfhocail"
 
 #: new.src#DLG_NEW_FILE.FT_DESC.fixedtext.text
+#: dlgname.src#RID_SVXDLG_OBJECT_TITLE_DESC.NTD_FT_DESC.fixedtext.text
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__50.string.text
 msgid "~Description"
 msgstr "~Cur Síos"
@@ -76487,6 +77095,11 @@ msgstr "Seó Microsoft PowerPoint"
 msgid "MathML Document"
 msgstr "Cáipéis MathML"
 
+#: imagemgr.src#STR_DESCRIPTION_EXTENSION.string.text
+#: documents.ulf#extension.LngText.text
+msgid "%PRODUCTNAME Extension"
+msgstr "Eisínteacht %PRODUCTNAME"
+
 #: iniman.src#ERRBOX_CHECK_PLZ.errorbox.text
 msgid ""
 "The ZIP code specified is invalid.\n"
@@ -77933,10 +78546,6 @@ msgstr "Ábhar an Roghchláir"
 msgid "Entries"
 msgstr "Iontrálacha"
 
-#: cfg.src#RID_SVXPAGE_MENUS.BTN_ADD_COMMANDS.pushbutton.text
-msgid "Add..."
-msgstr "Cuir Leis..."
-
 #: cfg.src#RID_SVXPAGE_MENUS.BTN_CHANGE_ENTRY.menubutton.text
 msgid ""
 "_: cfg.src#RID_SVXPAGE_MENUS.BTN_CHANGE_ENTRY.menubutton.text\n"
@@ -78909,10 +79518,6 @@ msgstr "Araibis Bhreisithe"
 msgid "Devanagari"
 msgstr "Déiveanágraí"
 
-#: charmap.src#RID_SUBSETMAP.RID_SUBSETSTR_BENGALI.string.text
-msgid "Bengali"
-msgstr "Beangáilis"
-
 #: charmap.src#RID_SUBSETMAP.RID_SUBSETSTR_GURMUKHI.string.text
 msgid "Gurmukhi"
 msgstr "Gurmúcaí"
@@ -79710,6 +80315,30 @@ msgid ""
 "Name"
 msgstr "Ainm"
 
+#: dlgname.src#RID_SVXDLG_OBJECT_NAME.NTD_FT_NAME.fixedtext.text
+msgid ""
+"_: dlgname.src#RID_SVXDLG_OBJECT_NAME.NTD_FT_NAME.fixedtext.text\n"
+"~Name"
+msgstr "Ai~nm"
+
+#: dlgname.src#RID_SVXDLG_OBJECT_NAME.modaldialog.text
+msgid ""
+"_: dlgname.src#RID_SVXDLG_OBJECT_NAME.modaldialog.text\n"
+"Name"
+msgstr "Ainm"
+
+#: dlgname.src#RID_SVXDLG_OBJECT_TITLE_DESC.NTD_FT_TITLE.fixedtext.text
+msgid ""
+"_: dlgname.src#RID_SVXDLG_OBJECT_TITLE_DESC.NTD_FT_TITLE.fixedtext.text\n"
+"~Title"
+msgstr "~Teideal"
+
+#: dlgname.src#RID_SVXDLG_OBJECT_TITLE_DESC.modaldialog.text
+msgid ""
+"_: dlgname.src#RID_SVXDLG_OBJECT_TITLE_DESC.modaldialog.text\n"
+"Description"
+msgstr "Cur Síos"
+
 #: doclinkdialog.src#DLG_DOCUMENTLINK.FT_URL.fixedtext.text
 msgid "~Database file"
 msgstr "Comha~d bunachair sonraí"
@@ -79848,26 +80477,26 @@ msgstr "Níl athshlánaithe fós"
 #: docrecovery.src#RID_SVXPAGE_DOCRECOVERY_RECOVER.STR_RECOVERY_INPROGRESS.string.text
 msgid ""
 "%PRODUCTNAME %PRODUCTVERSION starts now to recover your documents. Depending "
-"on the size of the documents this process can take some time.\n"
-"\n"
+"on the size of the documents this process can take some time."
+msgstr ""
+"Tosaíonn %PRODUCTNAME %PRODUCTVERSION  ar athshlánú do chuid comhad anois. "
+"Ag brath ar mhéid na gcomhad glacfaidh an próiseas seo tamall."
+
+#: docrecovery.src#RID_SVXPAGE_DOCRECOVERY_RECOVER.STR_RECOVERY_REPORT.string.text
+msgid ""
 "A report of the crash was created helping us to identify the cause why %"
 "PRODUCTNAME crashed. Click 'Next' to get to the Error Report Tool or press "
 "'Cancel' to skip this step."
 msgstr ""
-"Tosaíonn %PRODUCTNAME %PRODUCTVERSION  ar athshlánú do chuid comhad anois. "
-"Ag brath ar mhéid na gcomhad glacfaidh an próiseas seo tamall.\n"
-"\n"
 "Cruthaíodh tuairisc faoin chliseadh a chabhróidh linn a fháil amach cén fáth "
 "gur chlis ar %PRODUCTNAME. Cliceáil 'Ar Aghaidh' chun dul chuig an Uirlis "
 "Tuairisc Earráide nó cliceáil 'Cealaigh' chun an chéim seo a sheachaint."
 
-#: docrecovery.src#RID_SVXPAGE_DOCRECOVERY_RECOVER.STR_RECOVERYONLY_DESCR.string.text
+#: docrecovery.src#RID_SVXPAGE_DOCRECOVERY_RECOVER.STR_RECOVERYONLY_FINISH_DESCR.string.text
 msgid ""
-"Press 'Start Recovery' to start the recovery process of the documents listed "
-"below."
+"Recovery of your documents was finished.\n"
+"Click 'Finish' to see your documents."
 msgstr ""
-"Brúigh 'Athshlánaigh' chun próiseas athshlánaithe na gcáipéisí sa liosta "
-"thíos a thosú."
 
 #: docrecovery.src#RID_SVXQB_EXIT_RECOVERY.querybox.text
 msgid "Are you sure you want to cancel the %PRODUCTNAME document recovery?"
@@ -79886,8 +80515,8 @@ msgstr ""
 "Cuireadh isteach ar an bpróiseas athshlánaithe uathoibríoch.\n"
 "\n"
 "Sábhálfar na cáipéisí sa liosta thíos san fhillteán a luaitear thíos má "
-"chliceálann tú 'Sábháil'. Cliceáil 'Cealaigh' chun an treoraí a dhúnadh gan na "
-"comhaid a shábháil."
+"chliceálann tú 'Sábháil'. Cliceáil 'Cealaigh' chun an treoraí a dhúnadh gan "
+"na comhaid a shábháil."
 
 #: docrecovery.src#RID_SVX_MDLG_DOCRECOVERY_BROKEN.FT_BROKEN_SAVEDIR.fixedtext.text
 msgid "~Save to"
@@ -81625,10 +82254,6 @@ msgstr "Fráma:"
 msgid "ImageMap Editor"
 msgstr "Eagarthóir Mapa Íomhá"
 
-#: imapdlg.src#RID_SVXMN_IMAP.MN_URL.menuitem.text
-msgid "Description..."
-msgstr "Cur Síos..."
-
 #: imapdlg.src#RID_SVXMN_IMAP.MN_MACRO.menuitem.text
 #: fldfunc.src#TP_FLD_FUNC.BT_FUNCMACRO.pushbutton.text
 #: glossary.src#DLG_GLOSSARY.MNU_EDIT.FN_GL_MACRO.menuitem.text
@@ -82003,10 +82628,6 @@ msgstr "Asarbaiseáinis (Laidin)"
 msgid "Azerbaijani (Cyrillic)"
 msgstr "Asarbaiseáinis (Coireallach)"
 
-#: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_BENGALI.pairedlist.text
-msgid "Bengali (India)"
-msgstr "Beangáilis (An India)"
-
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_BELARUSIAN.pairedlist.text
 msgid "Byelorussian"
 msgstr "Bealarúisis"
@@ -82366,10 +82987,6 @@ msgstr "Mongóilis"
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_USER_INTERLINGUA.pairedlist.text
 msgid "Interlingua"
 msgstr "Idirtheanga"
-
-#: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_BENGALI_BANGLADESH.pairedlist.text
-msgid "Bengali (Bangladesh)"
-msgstr "Beangáilis (Banglaidéis)"
 
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_USER_OCCITAN.pairedlist.text
 msgid "Occitan"
@@ -87444,6 +88061,12 @@ msgstr "Cuir réad roghnaithe leis chun stíleanna nua saighde a chruthú."
 msgid "Arrow style"
 msgstr "Stíl saighde"
 
+#: tabline.src#RID_SVXPAGE_LINEEND_DEF.FT_TITLE.fixedtext.text
+msgid ""
+"_: tabline.src#RID_SVXPAGE_LINEEND_DEF.FT_TITLE.fixedtext.text\n"
+"~Title"
+msgstr "~Teideal"
+
 #: tabline.src#RID_SVXPAGE_LINEEND_DEF.BTN_ADD.pushbutton.text
 msgid ""
 "_: tabline.src#RID_SVXPAGE_LINEEND_DEF.BTN_ADD.pushbutton.text\n"
@@ -92104,6 +92727,13 @@ msgstr "Dath cló"
 msgid "Kerning"
 msgstr "Coirneáil"
 
+#: svxitems.src#RID_ATTR_CHAR_LANGUAGE.string.text
+#: optlingu.src#RID_SVXDLG_EDIT_MODULES.FT_EDIT_MODULES_LANGUAGE.fixedtext.text
+#: cnttab.src#FT_LANGUAGE.fixedtext.text
+#: srtdlg.src#DLG_SORTING.FL_LANG.fixedline.text
+msgid "Language"
+msgstr "Teanga"
+
 #: svxitems.src#RID_ATTR_CHAR_BLINK.string.text
 msgid ""
 "_: svxitems.src#RID_ATTR_CHAR_BLINK.string.text\n"
@@ -93270,8 +93900,8 @@ msgid "First/Last ~name/Initials"
 msgstr "Ainm/Sloi~nne/Túslitreacha"
 
 #: optgenrl.src#RID_SFXPAGE_GENERAL.FT_NAME_RUSS.fixedtext.text
-msgid "First name/Father's name/Last name/Initials"
-msgstr "Ainm/Ainm athar/Sloinne/Túslitreacha"
+msgid "Last Name/First name/Father's name/Initials"
+msgstr "Sloinne/Ainm/Ainm athar/Túslitreacha"
 
 #: optgenrl.src#RID_SFXPAGE_GENERAL.FT_STREET.fixedtext.text
 msgid "~Street"
@@ -101428,8 +102058,8 @@ msgstr ""
 "\n"
 "Laghdófar an treoraí go fuinneog bheag tar éis chliceáil ar 'Cuir Cáipéis in "
 "Eagar...' sa chaoi go mbeidh tú in ann an cháipéis phostchumaisc a chur in "
-"eagar. Ina dhiaidh sin, fill ar an treoraí trí chiceáil ar 'Fill ar an Treoraí "
-"Postchumaisc' san fhuinneog bheag."
+"eagar. Ina dhiaidh sin, fill ar an treoraí trí chiceáil ar 'Fill ar an "
+"Treoraí Postchumaisc' san fhuinneog bheag."
 
 #: mmpreparemergepage.src#DLG_MM_PREPAREMERGE_PAGE.PB_EDIT.pushbutton.text
 msgid "~Edit Document..."
@@ -110425,10 +111055,10 @@ msgid ""
 "table category and a sample table, choose the fields you want to include in "
 "your table. You can include fields from more than one sample table."
 msgstr ""
-"Tugann an treoraí seo cúnamh duit tábla a chruthú do do bhunachar sonraí. Tar éis "
-"duit catagóir táblaí agus tábla samplach a roghnú, roghnaigh na réimsí ar "
-"mhaith leath a bheith i do thábla. Is féidir leat réimsí a chur ann a "
-"thagann ó níos mó ná aon tábla samplach amháin."
+"Tugann an treoraí seo cúnamh duit tábla a chruthú do do bhunachar sonraí. "
+"Tar éis duit catagóir táblaí agus tábla samplach a roghnú, roghnaigh na "
+"réimsí ar mhaith leath a bheith i do thábla. Is féidir leat réimsí a chur "
+"ann a thagann ó níos mó ná aon tábla samplach amháin."
 
 #: dbwizres.src#RID_DB_TABLE_WIZARD_START___15.string.text
 msgid "Ca~tegory"
@@ -110844,8 +111474,8 @@ msgid ""
 "This wizard creates a letter template which enables you to create multiple "
 "letters with the same layout and settings."
 msgstr ""
-"Cruthaíonn an treoraí seo teimpléad litreach a ligeann duit litreacha iomadúla "
-"a chruthú leis na socruithe agus leagan amach céanna."
+"Cruthaíonn an treoraí seo teimpléad litreach a ligeann duit litreacha "
+"iomadúla a chruthú leis na socruithe agus leagan amach céanna."
 
 #: dbwizres.src#RID_LETTERWIZARDDIALOG_START___49.string.text
 msgid ""
@@ -111038,8 +111668,8 @@ msgid ""
 "This wizard helps you to create a fax template. The template can then be "
 "used to create a fax whenever needed."
 msgstr ""
-"Cuidíonn an treoraí seo duit teimpléad facs a chruthú. Féadfaí an teimpléad a "
-"úsáid ansin chun facs a chruthú nuair is gá leis."
+"Cuidíonn an treoraí seo duit teimpléad facs a chruthú. Féadfaí an teimpléad "
+"a úsáid ansin chun facs a chruthú nuair is gá leis."
 
 #: dbwizres.src#RID_FAXWIZARDDIALOG_START___18.string.text
 msgid ""
@@ -111899,8 +112529,8 @@ msgid ""
 "This wizard helps you to create an agenda template. The template can then be "
 "used to create an agenda whenever needed."
 msgstr ""
-"Tugann an treoraí seo cúnamh duit teimpléad chláir oibre a chruthú. Féadfar an "
-"teimpléad a úsáid ansin chun clár oibre a chruthú de réir riachtanais."
+"Tugann an treoraí seo cúnamh duit teimpléad chláir oibre a chruthú. Féadfar "
+"an teimpléad a úsáid ansin chun clár oibre a chruthú de réir riachtanais."
 
 #: dbwizres.src#RID_AGENDAWIZARDDIALOG_START__14.string.text
 msgid "Time:"
