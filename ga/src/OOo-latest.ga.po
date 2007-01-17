@@ -1,12 +1,12 @@
 # OOo pot file for Irish.
-#   CURRENT VERSION = SRC680_m199
+#   CURRENT VERSION = SRC680_m199+os91
 # First version produced Sept. 2004 by Kevin Scannell using the oo2po
 # scripts by David Fraser et al
 msgid ""
 msgstr ""
 "Project-Id-Version: OOo\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2007-01-03 21:10+0100\n"
+"POT-Creation-Date: 2007-01-17 12:51+0100\n"
 "PO-Revision-Date: 2007-01-15 16:30-0000\n"
 "Last-Translator: Kevin Scannell <scannell@slu.edu>\n"
 "Language-Team: \n"
@@ -83852,6 +83852,111 @@ msgid ""
 "Link"
 msgstr "Nasc"
 
+#: numpages.src#RID_SVXSTR_BULLET_DESCRIPTION_0.string.text
+msgid "Solid small circular bullets"
+msgstr ""
+
+#: numpages.src#RID_SVXSTR_BULLET_DESCRIPTION_1.string.text
+msgid "Solid large circular bullets"
+msgstr ""
+
+#: numpages.src#RID_SVXSTR_BULLET_DESCRIPTION_2.string.text
+msgid "Solid diamond bullets"
+msgstr ""
+
+#: numpages.src#RID_SVXSTR_BULLET_DESCRIPTION_3.string.text
+msgid "Solid large square bullets"
+msgstr ""
+
+#: numpages.src#RID_SVXSTR_BULLET_DESCRIPTION_4.string.text
+msgid "Right pointing arrow bullets filled out"
+msgstr ""
+
+#: numpages.src#RID_SVXSTR_BULLET_DESCRIPTION_5.string.text
+msgid "Right pointing arrow bullets"
+msgstr ""
+
+#: numpages.src#RID_SVXSTR_BULLET_DESCRIPTION_6.string.text
+msgid "Check mark bullets"
+msgstr ""
+
+#: numpages.src#RID_SVXSTR_BULLET_DESCRIPTION_7.string.text
+msgid "Tick mark bullets"
+msgstr ""
+
+#: numpages.src#RID_SVXSTR_SINGLENUM_DESCRIPTION_0.string.text
+msgid "Number 1) 2) 3)"
+msgstr "Uimhir 1) 2) 3)"
+
+#: numpages.src#RID_SVXSTR_SINGLENUM_DESCRIPTION_1.string.text
+msgid "Number 1. 2. 3."
+msgstr "Uimhir 1. 2. 3."
+
+#: numpages.src#RID_SVXSTR_SINGLENUM_DESCRIPTION_2.string.text
+msgid "Number (1) (2) (3)"
+msgstr "Uimhir (1) (2) (3)"
+
+#: numpages.src#RID_SVXSTR_SINGLENUM_DESCRIPTION_3.string.text
+msgid "Uppercase Roman number I. II. III."
+msgstr "Uimhir Rómhánach: Cás Uachtair I. II. III."
+
+#: numpages.src#RID_SVXSTR_SINGLENUM_DESCRIPTION_4.string.text
+msgid "Uppercase letter A) B) C)"
+msgstr "Litir: Cás Uachtair A) B) C)"
+
+#: numpages.src#RID_SVXSTR_SINGLENUM_DESCRIPTION_5.string.text
+msgid "Lowercase letter a) b) c)"
+msgstr "Litir: Cás Íochtair a) b) c)"
+
+#: numpages.src#RID_SVXSTR_SINGLENUM_DESCRIPTION_6.string.text
+msgid "Lowercase letter (a) (b) (c)"
+msgstr "Litir: Cás Íochtair (a) (b) (c)"
+
+#: numpages.src#RID_SVXSTR_SINGLENUM_DESCRIPTION_7.string.text
+msgid "Lowercase Roman number i. ii. iii."
+msgstr "Uimhir Rómhánach: Cás Íochtair i. ii. iii."
+
+#: numpages.src#RID_SVXSTR_OUTLINENUM_DESCRIPTION_0.string.text
+msgid "Numeric, numeric, lowercase letters, solid small circular bullet"
+msgstr ""
+
+#: numpages.src#RID_SVXSTR_OUTLINENUM_DESCRIPTION_1.string.text
+msgid "Numeric, lowercase letters, solid small circular bullet"
+msgstr ""
+
+#: numpages.src#RID_SVXSTR_OUTLINENUM_DESCRIPTION_2.string.text
+msgid ""
+"Numeric, lowercase letters, lowercase Roman, uppercase letters, solid small "
+"circular bullet"
+msgstr ""
+
+#: numpages.src#RID_SVXSTR_OUTLINENUM_DESCRIPTION_3.string.text
+#: srtdlg.src#DLG_SORTING.STR_NUMERIC.string.text
+msgid "Numeric"
+msgstr "Uimhriúil"
+
+#: numpages.src#RID_SVXSTR_OUTLINENUM_DESCRIPTION_4.string.text
+msgid ""
+"Uppercase Roman, uppercase letters, lowercase Roman, lowercase letters, "
+"solid small circular bullet"
+msgstr ""
+
+#: numpages.src#RID_SVXSTR_OUTLINENUM_DESCRIPTION_5.string.text
+msgid ""
+"Uppercase letters, uppercase Roman, lowercase letters, lowercase Roman, "
+"solid small circular bullet"
+msgstr ""
+
+#: numpages.src#RID_SVXSTR_OUTLINENUM_DESCRIPTION_6.string.text
+msgid "Numeric with all sublevels"
+msgstr "Uimhriúil, le gach foleibhéal"
+
+#: numpages.src#RID_SVXSTR_OUTLINENUM_DESCRIPTION_7.string.text
+msgid ""
+"Right pointing bullet, right pointing arrow bullet, solid diamond bullet, "
+"solid small circular bullet"
+msgstr ""
+
 #: optfltr.src#RID_OFAPAGE_MSFILTEROPT.GB_WORD.fixedline.text
 msgid "Microsoft Word 97/2000"
 msgstr "Microsoft Word 97/2000"
@@ -106402,10 +106507,6 @@ msgstr "Colún"
 #: srtdlg.src#DLG_SORTING.CB_KEY1.checkbox.text
 msgid "Key ~1"
 msgstr "Eochair ~1"
-
-#: srtdlg.src#DLG_SORTING.STR_NUMERIC.string.text
-msgid "Numeric"
-msgstr "Uimhriúil"
 
 #: srtdlg.src#DLG_SORTING.CB_KEY2.checkbox.text
 msgid "Key ~2"
