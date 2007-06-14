@@ -3,9 +3,8 @@
 # (2)  Then
 # $ make distclean
 # $ wget ftp://ftp.linux.cz/pub/localization/OpenOffice.org/devel/POT/OpenOffice.org-SRC680_m79-POT.tar.gz
-# $ gunzip OpenOffice.org-SRC680_m79-POT.tar.gz
-# $ tar xvf OpenOffice.org-SRC680_m79-POT.tar
-# $ rm -f OpenOffice.org-SRC680_m79-POT.tar
+# $ gunzip -c Op*.tar.gz | tar -xf -
+# $ rm -f Open*
 # $ make OOo.po-update
 # Then update the
 # "CURRENT VERSION" at the top of OOo-SRC680_m79.ga.po, mv -f it to OOo-latest
@@ -14,7 +13,7 @@
 #    and give current translation counts, version number in log entry
 # $ make   (rebuilds GSI and copies it to obair for Pavel's system)
 
-VERSION=SRC680_m196
+VERSION=SRC680_m216
 
 all : OOo-$(VERSION)-ga-GSI.sdf
 	${HOME}/seal/gsicheck/gsicheck -c -l ga OOo-$(VERSION)-ga-GSI.sdf
