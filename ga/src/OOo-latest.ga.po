@@ -3492,7 +3492,7 @@ msgstr "Pointe Sonraí %POINTNUMBER"
 
 #: Strings.src#STR_TIP_DATAPOINT_VALUES.string.text
 msgid "Values: %POINTVALUES"
-msgstr ""
+msgstr "Luachanna: %POINTVALUES"
 
 #: Strings.src#STR_TIP_CATEGORY_VALUE.string.text
 msgid "'%CATEGORYVALUE'"
@@ -3617,7 +3617,7 @@ msgstr "Sraith Gan Ainm"
 
 #: Strings.src#STR_DATA_UNNAMED_SERIES_WITH_INDEX.string.text
 msgid "Unnamed Series %NUMBER"
-msgstr ""
+msgstr "Sraith Gan Ainm %NUMBER"
 
 #: Strings.src#STR_DATA_SELECT_RANGE_FOR_SERIES.string.text
 msgid "Choose range for %VALUETYPE of %SERIESNAME"
@@ -3693,7 +3693,7 @@ msgstr ""
 
 #: Strings_ChartTypes.src#STR_DONUT.string.text
 msgid "Donut"
-msgstr ""
+msgstr "Taoschnó"
 
 #: Strings_ChartTypes.src#STR_TYPE_LINE.string.text
 msgid ""
@@ -3781,7 +3781,7 @@ msgstr "Domhain"
 
 #: Strings_Scale.src#STR_INVALID_NUMBER.string.text
 msgid "Numbers are required. Check your input."
-msgstr ""
+msgstr "Uimhreacha de dhíth. Seiceáil an t-ionchur."
 
 #: Strings_Scale.src#STR_STEP_GT_ZERO.string.text
 msgid "The major interval requires a positive number. Check your input."
@@ -3833,7 +3833,7 @@ msgstr "Aischéimniú iltéarmach"
 
 #: Strings_Statistic.src#STR_STATISTICS_IN_LEGEND.string.text
 msgid "%REGRESSIONCURVE for %SERIESNAME"
-msgstr ""
+msgstr "%REGRESSIONCURVE le haghaidh %SERIESNAME"
 
 #: dlg_DataEditor.src#DLG_DIAGRAM_DATA.TBX_DATA.TBI_DATA_INSERT_ROW.toolboxitem.text
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_InsertRows.Label.value.text
@@ -3878,7 +3878,7 @@ msgstr "Aiseanna"
 
 #: dlg_InsertAxis_Grid.src#DLG_AXIS_OR_GRID.FL_PRIMARY_GRID.fixedline.text
 msgid "Major grids"
-msgstr ""
+msgstr "Príomhghreillí"
 
 #: dlg_InsertAxis_Grid.src#DLG_AXIS_OR_GRID.CB_X_PRIMARY.checkbox.text
 msgid ""
@@ -3947,21 +3947,21 @@ msgid ""
 "_: res_Titles.src#TITLES__xpos__ypos__editwidth__namefieldwidth__."
 "FT_TITLE_X_AXIS.fixedtext.text\n"
 "~X axis"
-msgstr ""
+msgstr "~X-ais"
 
 #: res_Titles.src#TITLES__xpos__ypos__editwidth__namefieldwidth__.FT_TITLE_Y_AXIS.fixedtext.text
 msgid ""
 "_: res_Titles.src#TITLES__xpos__ypos__editwidth__namefieldwidth__."
 "FT_TITLE_Y_AXIS.fixedtext.text\n"
 "~Y axis"
-msgstr ""
+msgstr "~Y-ais"
 
 #: res_Titles.src#TITLES__xpos__ypos__editwidth__namefieldwidth__.FT_TITLE_Z_AXIS.fixedtext.text
 msgid ""
 "_: res_Titles.src#TITLES__xpos__ypos__editwidth__namefieldwidth__."
 "FT_TITLE_Z_AXIS.fixedtext.text\n"
 "~Z axis"
-msgstr ""
+msgstr "~Z-ais"
 
 #: tp_3D_SceneAppearance.src#TP_3D_SCENEAPPEARANCE.FT_SCHEME.fixedtext.text
 msgid "Sche~me"
@@ -11529,35 +11529,35 @@ msgstr "Caighdeánach (fada)"
 
 #: formres.src#RID_RSC_ENUM_DATEFORMAT_LIST.5.string.text
 msgid "DD/MM/YY"
-msgstr ""
+msgstr "LL/MM/BB"
 
 #: formres.src#RID_RSC_ENUM_DATEFORMAT_LIST.6.string.text
 msgid "MM/DD/YY"
-msgstr ""
+msgstr "MM/LL/BB"
 
 #: formres.src#RID_RSC_ENUM_DATEFORMAT_LIST.7.string.text
 msgid "YY/MM/DD"
-msgstr ""
+msgstr "BB/MM/LL"
 
 #: formres.src#RID_RSC_ENUM_DATEFORMAT_LIST.8.string.text
 msgid "DD/MM/YYYY"
-msgstr ""
+msgstr "LL/MM/BBBB"
 
 #: formres.src#RID_RSC_ENUM_DATEFORMAT_LIST.9.string.text
 msgid "MM/DD/YYYY"
-msgstr ""
+msgstr "MM/LL/BBBB"
 
 #: formres.src#RID_RSC_ENUM_DATEFORMAT_LIST.10.string.text
 msgid "YYYY/MM/DD"
-msgstr ""
+msgstr "BBBB/MM/LL"
 
 #: formres.src#RID_RSC_ENUM_DATEFORMAT_LIST.11.string.text
 msgid "YY-MM-DD"
-msgstr ""
+msgstr "BB-MM-LL"
 
 #: formres.src#RID_RSC_ENUM_DATEFORMAT_LIST.12.string.text
 msgid "YYYY-MM-DD"
-msgstr ""
+msgstr "BBBB-MM-LL"
 
 #: formres.src#RID_RSC_ENUM_TIMEFORMAT_LIST.1.string.text
 msgid "13:45"
@@ -12817,12 +12817,14 @@ msgid ""
 "_: bmp_Export.xcu#bmp_Export.UIName.value.text\n"
 "BMP - Windows Bitmap"
 msgstr ""
+"BMP - Mapa Giotáin Windows"
 
 #: bmp_Import.xcu#bmp_Import.UIName.value.text
 msgid ""
 "_: bmp_Import.xcu#bmp_Import.UIName.value.text\n"
 "BMP - Windows Bitmap"
 msgstr ""
+"BMP - Mapa Giotáin Windows"
 
 #: dxf_Import.xcu#dxf_Import.UIName.value.text
 msgid "DXF - AutoCAD Interchange Format"
@@ -12833,152 +12835,174 @@ msgid ""
 "_: emf_Export.xcu#emf_Export.UIName.value.text\n"
 "EMF - Enhanced Metafile"
 msgstr ""
+"EMF - Meiteachomhad Breisithe"
 
 #: emf_Import.xcu#emf_Import.UIName.value.text
 msgid ""
 "_: emf_Import.xcu#emf_Import.UIName.value.text\n"
 "EMF - Enhanced Metafile"
 msgstr ""
+"EMF - Meiteachomhad Breisithe"
 
 #: eps_Export.xcu#eps_Export.UIName.value.text
 msgid ""
 "_: eps_Export.xcu#eps_Export.UIName.value.text\n"
 "EPS - Encapsulated PostScript"
 msgstr ""
+"EPS - Encapsulated PostScript"
 
 #: eps_Import.xcu#eps_Import.UIName.value.text
 msgid ""
 "_: eps_Import.xcu#eps_Import.UIName.value.text\n"
 "EPS - Encapsulated PostScript"
 msgstr ""
+"EPS - Encapsulated PostScript"
 
 #: gif_Export.xcu#gif_Export.UIName.value.text
 msgid ""
 "_: gif_Export.xcu#gif_Export.UIName.value.text\n"
 "GIF - Graphics Interchange Format"
 msgstr ""
+"GIF - Graphics Interchange Format"
 
 #: gif_Import.xcu#gif_Import.UIName.value.text
 msgid ""
 "_: gif_Import.xcu#gif_Import.UIName.value.text\n"
 "GIF - Graphics Interchange Format"
 msgstr ""
+"GIF - Graphics Interchange Format"
 
 #: jpg_Export.xcu#jpg_Export.UIName.value.text
 msgid ""
 "_: jpg_Export.xcu#jpg_Export.UIName.value.text\n"
 "JPEG - Joint Photographic Experts Group"
 msgstr ""
+"JPEG - Joint Photographic Experts Group"
 
 #: jpg_Import.xcu#jpg_Import.UIName.value.text
 msgid ""
 "_: jpg_Import.xcu#jpg_Import.UIName.value.text\n"
 "JPEG - Joint Photographic Experts Group"
 msgstr ""
+"JPEG - Joint Photographic Experts Group"
 
 #: met_Export.xcu#met_Export.UIName.value.text
 msgid ""
 "_: met_Export.xcu#met_Export.UIName.value.text\n"
 "MET - OS/2 Metafile"
 msgstr ""
+"MET - Meiteachomhad OS/2"
 
 #: met_Import.xcu#met_Import.UIName.value.text
 msgid ""
 "_: met_Import.xcu#met_Import.UIName.value.text\n"
 "MET - OS/2 Metafile"
 msgstr ""
+"MET - Meiteachomhad OS/2"
 
 #: pbm_Export.xcu#pbm_Export.UIName.value.text
 msgid ""
 "_: pbm_Export.xcu#pbm_Export.UIName.value.text\n"
 "PBM - Portable Bitmap"
 msgstr ""
+"PBM - Mapa Giotáin Inaistrithe"
 
 #: pbm_Import.xcu#pbm_Import.UIName.value.text
 msgid ""
 "_: pbm_Import.xcu#pbm_Import.UIName.value.text\n"
 "PBM - Portable Bitmap"
 msgstr ""
+"PBM - Mapa Giotáin Inaistrithe"
 
 #: pcd_Import_Base.xcu#pcd_Import_Base.UIName.value.text
 msgid "PCD - Kodak Photo CD (768x512)"
-msgstr ""
+msgstr "PCD - Kodak Photo CD (768×512)"
 
 #: pcd_Import_Base16.xcu#pcd_Import_Base16.UIName.value.text
 msgid "PCD - Kodak Photo CD (192x128)"
-msgstr ""
+msgstr "PCD - Kodak Photo CD (192×128)"
 
 #: pcd_Import_Base4.xcu#pcd_Import_Base4.UIName.value.text
 msgid "PCD - Kodak Photo CD (384x256)"
-msgstr ""
+msgstr "PCD - Kodak Photo CD (384×256)"
 
 #: pct_Export.xcu#pct_Export.UIName.value.text
 msgid ""
 "_: pct_Export.xcu#pct_Export.UIName.value.text\n"
 "PCT - Mac Pict"
 msgstr ""
+"PCT - Pictiúr Mac"
 
 #: pct_Import.xcu#pct_Import.UIName.value.text
 msgid ""
 "_: pct_Import.xcu#pct_Import.UIName.value.text\n"
 "PCT - Mac Pict"
 msgstr ""
+"PCT - Pictiúr Mac"
 
 #: pcx_Import.xcu#pcx_Import.UIName.value.text
 msgid "PCX - Zsoft Paintbrush"
-msgstr ""
+msgstr "PCX - Scuab Phéinte Zsoft"
 
 #: pgm_Export.xcu#pgm_Export.UIName.value.text
 msgid ""
 "_: pgm_Export.xcu#pgm_Export.UIName.value.text\n"
 "PGM - Portable Graymap"
 msgstr ""
+"PGM - Liathmhapa Inaistrithe"
 
 #: pgm_Import.xcu#pgm_Import.UIName.value.text
 msgid ""
 "_: pgm_Import.xcu#pgm_Import.UIName.value.text\n"
 "PGM - Portable Graymap"
 msgstr ""
+"PGM - Liathmhapa Inaistrithe"
 
 #: png_Export.xcu#png_Export.UIName.value.text
 msgid ""
 "_: png_Export.xcu#png_Export.UIName.value.text\n"
 "PNG - Portable Network Graphic"
 msgstr ""
+"PNG - Portable Network Graphic"
 
 #: png_Import.xcu#png_Import.UIName.value.text
 msgid ""
 "_: png_Import.xcu#png_Import.UIName.value.text\n"
 "PNG - Portable Network Graphic"
 msgstr ""
+"PNG - Portable Network Graphic"
 
 #: ppm_Export.xcu#ppm_Export.UIName.value.text
 msgid ""
 "_: ppm_Export.xcu#ppm_Export.UIName.value.text\n"
 "PPM - Portable Pixelmap"
 msgstr ""
+"PPM - Portable Pixelmap"
 
 #: ppm_Import.xcu#ppm_Import.UIName.value.text
 msgid ""
 "_: ppm_Import.xcu#ppm_Import.UIName.value.text\n"
 "PPM - Portable Pixelmap"
 msgstr ""
+"PPM - Portable Pixelmap"
 
 #: psd_Import.xcu#psd_Import.UIName.value.text
 msgid "PSD - Adobe Photoshop"
-msgstr ""
+msgstr "PSD - Adobe Photoshop"
 
 #: ras_Export.xcu#ras_Export.UIName.value.text
 msgid ""
 "_: ras_Export.xcu#ras_Export.UIName.value.text\n"
 "RAS - Sun Raster Image"
 msgstr ""
+"RAS - Íomhá Rastair Sun"
 
 #: ras_Import.xcu#ras_Import.UIName.value.text
 msgid ""
 "_: ras_Import.xcu#ras_Import.UIName.value.text\n"
 "RAS - Sun Raster Image"
 msgstr ""
+"RAS - Íomhá Rastair Sun"
 
 #: sgf_Import.xcu#sgf_Import.UIName.value.text
 msgid "SGF - StarWriter Graphics Format"
@@ -12986,67 +13010,75 @@ msgstr ""
 
 #: sgv_Import.xcu#sgv_Import.UIName.value.text
 msgid "SGV - StarDraw 2.0"
-msgstr ""
+msgstr "SGV - StarDraw 2.0"
 
 #: svg_Export.xcu#svg_Export.UIName.value.text
 msgid "SVG - Scalable Vector Graphics"
-msgstr ""
+msgstr "SVG - Scalable Vector Graphics"
 
 #: svm_Export.xcu#svm_Export.UIName.value.text
 msgid ""
 "_: svm_Export.xcu#svm_Export.UIName.value.text\n"
 "SVM - StarView Metafile"
 msgstr ""
+"SVM - Meiteachomhad StarView"
 
 #: svm_Import.xcu#svm_Import.UIName.value.text
 msgid ""
 "_: svm_Import.xcu#svm_Import.UIName.value.text\n"
 "SVM - StarView Metafile"
 msgstr ""
+"SVM - Meiteachomhad StarView"
 
 #: tga_Import.xcu#tga_Import.UIName.value.text
 msgid "TGA - Truevision Targa"
-msgstr ""
+msgstr "TGA - Truevision Targa"
 
 #: tif_Export.xcu#tif_Export.UIName.value.text
 msgid ""
 "_: tif_Export.xcu#tif_Export.UIName.value.text\n"
 "TIFF - Tagged Image File Format"
 msgstr ""
+"TIFF - Tagged Image File Format"
 
 #: tif_Import.xcu#tif_Import.UIName.value.text
 msgid ""
 "_: tif_Import.xcu#tif_Import.UIName.value.text\n"
 "TIFF - Tagged Image File Format"
 msgstr ""
+"TIFF - Tagged Image File Format"
 
 #: wmf_Export.xcu#wmf_Export.UIName.value.text
 msgid ""
 "_: wmf_Export.xcu#wmf_Export.UIName.value.text\n"
 "WMF - Windows Metafile"
 msgstr ""
+"WMF - Meiteachomhad Windows"
 
 #: wmf_Import.xcu#wmf_Import.UIName.value.text
 msgid ""
 "_: wmf_Import.xcu#wmf_Import.UIName.value.text\n"
 "WMF - Windows Metafile"
 msgstr ""
+"WMF - Meiteachomhad Windows"
 
 #: xbm_Import.xcu#xbm_Import.UIName.value.text
 msgid "XBM - X Bitmap"
-msgstr ""
+msgstr "XBM - Mapa Giotáin X"
 
 #: xpm_Export.xcu#xpm_Export.UIName.value.text
 msgid ""
 "_: xpm_Export.xcu#xpm_Export.UIName.value.text\n"
 "XPM - X PixMap"
 msgstr ""
+"XPM - X PixMap"
 
 #: xpm_Import.xcu#xpm_Import.UIName.value.text
 msgid ""
 "_: xpm_Import.xcu#xpm_Import.UIName.value.text\n"
 "XPM - X PixMap"
 msgstr ""
+"XPM - X PixMap"
 
 #: calc8.xcu#calc8.UIName.value.text
 msgid "Calc 8"
