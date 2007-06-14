@@ -2156,7 +2156,7 @@ msgstr "Níor aimsíodh fuinneog ghníomhach (GetNextCloseWindow)"
 
 #: svtmsg.src#S_NO_DIALOG_IN_GETACTIVE.string.text
 msgid "GetActive does not return a dialog! Inform development"
-msgstr "Ní aisfhilleann GetActive dialóg! Cuir in iúl do na forbróirí"
+msgstr "Ní aischuireann GetActive dialóg! Cuir in iúl do na forbróirí"
 
 #: svtmsg.src#S_NO_POPUP.string.text
 msgid "Pop-up menu not open"
@@ -2534,15 +2534,15 @@ msgstr "Sliotán/Rialtán anaithnid :\"($Arg1)\""
 
 #: ttmsg.src#S_RETURN_SEQUENCE_MISSMATCH.string.text
 msgid "Return Stream has wrong sequence: ($Arg1) instead of ($Arg2)"
-msgstr "Tá seicheamh mícheart ag an sruth aisfhillte: ($Arg1) in ionad ($Arg2)"
+msgstr "Tá seicheamh mícheart ag an sruth aischurtha: ($Arg1) in ionad ($Arg2)"
 
 #: ttmsg.src#S_RETURNED_VALUE_ID_MISSMATCH.string.text
 msgid "Return value received but different Id expected"
-msgstr "Fuarthas luach aisfhillte ach bhíothas ag súil le haitheantas difriúil"
+msgstr "Fuarthas luach aischurtha ach bhíothas ag súil le haitheantas difriúil"
 
 #: ttmsg.src#S_RETURNED_VALUE_NO_RECEIVER.string.text
 msgid "Return value received but no receiver defined"
-msgstr "Fuarthas luach aisfhillte ach ní raibh faighteoir socraithe"
+msgstr "Fuarthas luach aischurtha ach ní raibh faighteoir socraithe"
 
 #: ttmsg.src#S_UNKNOWN_METHOD.string.text
 msgid "Unknown method on object :($Arg1).($Arg2)"
@@ -9569,7 +9569,7 @@ msgid ""
 "PAGEDOWN' button in this dialog to view the entire license text."
 msgstr ""
 "Léigh an ceadúnas uile. Úsáid an barra scrollaigh nó an cnaipe '%PAGEDOWN' "
-"chun an ceadúnas a léamh ina iomlán."
+"chun an ceadúnas a léamh ina iomláine."
 
 #: wizard.src#TP_LICENSE.FT_LICENSE_BODY_2_TXT.fixedtext.text
 msgid "Click 'Accept' to accept the terms of the Agreement."
@@ -10845,7 +10845,7 @@ msgid ""
 "PAGEDOWN' button in this dialog to view the entire license text."
 msgstr ""
 "Léigh an ceadúnas uile. Úsáid an barra scrollaigh nó an cnaipe '%PAGEDOWN' "
-"sa dialóg seo chun an ceadúnas a léamh ina iomlán."
+"sa dialóg seo chun an ceadúnas a léamh ina iomláine."
 
 #: preload.src#RID_TP_LICENSE.PB_PAGEDOWN.pushbutton.text
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_GoDownBlock.Label.value.text
@@ -17954,7 +17954,7 @@ msgid ""
 "This feature will be uninstalled completely, and you won't be able to run it "
 "from CD."
 msgstr ""
-"Scriosfar an tsainghné seo ina iomlán agus ní bheidh tú ábalta é a rith ón "
+"Scriosfar an tsainghné seo ina iomláine agus ní bheidh tú ábalta é a rith ón "
 "dlúthdhiosca."
 
 #: UIText.ulf#OOO_UITEXT_25.LngText.text
@@ -17991,7 +17991,7 @@ msgstr "Costas tiomsaithe don tsainghné seo..."
 
 #: UIText.ulf#OOO_UITEXT_31.LngText.text
 msgid "This feature will be completely removed."
-msgstr "Scriosfar an tsainghné seo ina iomlán."
+msgstr "Scriosfar an tsainghné seo ina iomláine."
 
 #: UIText.ulf#OOO_UITEXT_32.LngText.text
 msgid ""
@@ -18026,7 +18026,7 @@ msgid ""
 "This feature will be uninstalled completely, and you won't be able to run it "
 "from the network."
 msgstr ""
-"Scriosfar an tsainghné seo ina iomlán ó do dhiosca crua agus ní bheidh tú "
+"Scriosfar an tsainghné seo ina iomláine ó do dhiosca crua agus ní bheidh tú "
 "ábalta é a rith ón líonra."
 
 #: UIText.ulf#OOO_UITEXT_37.LngText.text
@@ -39748,7 +39748,7 @@ msgid ""
 "Returns the serial number of the date before or after a specified number of "
 "workdays"
 msgstr ""
-"Aisfhilleann sé sraithuimhir an dáta roimh nó tar éis líon sonraithe "
+"Aischuireann sé sraithuimhir an dáta roimh nó tar éis líon sonraithe "
 "laethanta oibre"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Workday.2.string.text
@@ -39790,7 +39790,7 @@ msgid ""
 "Returns the number of whole days between 'start date' and 'end date' as a "
 "year fraction"
 msgstr ""
-"Aisfhilleann sé líon na laethanta iomlána idir 'dáta tosaigh' agus 'dáta "
+"Aischuireann sé líon na laethanta iomlána idir 'dáta tosaigh' agus 'dáta "
 "deiridh' mar chodán de bhliain"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yearfrac.2.string.text
@@ -39837,7 +39837,7 @@ msgid ""
 "Returns the serial number of the date that is a specified number of months "
 "before or after the start date"
 msgstr ""
-"Aisfhilleann sé sraithuimhir an dáta atá líon sonraithe míonna roimh nó tar "
+"Aischuireann sé sraithuimhir an dáta atá líon sonraithe míonna roimh nó tar "
 "éis an dáta tosaigh"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Edate.2.string.text
@@ -39872,7 +39872,7 @@ msgstr "Líon míonna roimh nó tar éis an dáta tosaigh"
 msgid ""
 "Returns the number of the calendar week in which the specified date occurs."
 msgstr ""
-"Aisfhilleann sé uimhir sheachtain an fhéilire a bhfuil an dáta sonraithe "
+"Aischuireann sé uimhir sheachtain an fhéilire a bhfuil an dáta sonraithe "
 "inti."
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Weeknum.3.string.text
@@ -39892,7 +39892,7 @@ msgid ""
 "Returns the serial number of the last day of the month that comes a certain "
 "number of months before or after the start date"
 msgstr ""
-"Aisfhilleann sé sraithuimhir an lae deiridh den mhí tar éis uimhir áirithe "
+"Aischuireann sé sraithuimhir an lae deiridh den mhí tar éis uimhir áirithe "
 "míonna roimh nó tar éis an dáta tosaigh"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Eomonth.2.string.text
@@ -39925,7 +39925,7 @@ msgstr "Líon míonna roimh nó tar éis an dáta tosaigh"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Networkdays.1.string.text
 msgid "Returns the number of workdays between two dates"
-msgstr "Aisfhilleann sé líon na laethanta oibre idir dhá dháta"
+msgstr "Aischuireann sé líon na laethanta oibre idir dhá dháta"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Networkdays.2.string.text
 msgid ""
@@ -39968,7 +39968,7 @@ msgstr "Liosta de dhátaí a léiríonn laethanta saoire"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Iseven.1.string.text
 msgid "Returns the value 'true' if the number is even"
-msgstr "Aisfhilleann sé luach 'true' más cothrom í an uimhir"
+msgstr "Aischuireann sé luach 'true' más cothrom í an uimhir"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Iseven.2.string.text
 msgid ""
@@ -39986,7 +39986,7 @@ msgstr "An uimhir"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Isodd.1.string.text
 msgid "Returns the value 'true' if the number is odd"
-msgstr "Aisfhilleann sé luach 'true' más corruimhir í"
+msgstr "Aischuireann sé luach 'true' más corruimhir í"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Isodd.2.string.text
 msgid ""
@@ -40004,7 +40004,7 @@ msgstr "An uimhir"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Multinomial.1.string.text
 msgid "Returns the multinomial coefficient of a set of numbers"
-msgstr "Aisfhilleann sé an chomhéifeacht iltéarmach de thacar uimhreacha"
+msgstr "Aischuireann sé an chomhéifeacht iltéarmach de thacar uimhreacha"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Multinomial.2.string.text
 msgid ""
@@ -40022,7 +40022,7 @@ msgstr ""
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Seriessum.1.string.text
 msgid "Returns the sum of a power series"
-msgstr "Aisfhilleann sé suim cumhachtsratha"
+msgstr "Aischuireann sé suim cumhachtsratha"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Seriessum.2.string.text
 msgid ""
@@ -40066,7 +40066,7 @@ msgstr ""
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Quotient.1.string.text
 msgid "Returns the integer portion of a division"
-msgstr "Aisfhilleann sé cuid slánuimhreach na roinnte"
+msgstr "Aischuireann sé cuid slánuimhreach na roinnte"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Quotient.2.string.text
 msgid ""
@@ -40136,7 +40136,7 @@ msgstr ""
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Randbetween.1.string.text
 msgid "Returns a random integer between the numbers you specify"
-msgstr "Aisfhilleann sé slánuimhir randamach idir na huimhreacha sonraithe"
+msgstr "Aischuireann sé slánuimhir randamach idir na huimhreacha sonraithe"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Randbetween.3.string.text
 msgid "The smallest integer returned"
@@ -40148,7 +40148,7 @@ msgstr "An tslánuimhir ba mhó a gineadh"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Gcd.1.string.text
 msgid "Returns the greatest common divisor"
-msgstr "Aisfhilleann sé an comhfhachtóir is mó"
+msgstr "Aischuireann sé an comhfhachtóir is mó"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Gcd.2.string.text
 msgid ""
@@ -40166,7 +40166,7 @@ msgstr "Uimhir nó liosta uimhreacha"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Lcm.1.string.text
 msgid "Returns the least common multiple"
-msgstr "Aisfhilleann sé an comhiolraí is lú"
+msgstr "Aischuireann sé an comhiolraí is lú"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Lcm.2.string.text
 msgid ""
@@ -40184,7 +40184,7 @@ msgstr "Uimhir nó liosta uimhreacha"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besseli.1.string.text
 msgid "Returns the modified Bessel function In(x)"
-msgstr "Aisfhilleann luach na feidhme athraithe Bessel In(x)"
+msgstr "Aischuireann luach na feidhme athraithe Bessel In(x)"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besseli.2.string.text
 msgid ""
@@ -40216,7 +40216,7 @@ msgstr "Ord na feidhme Bessel"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besselj.1.string.text
 msgid "Returns the Bessel function Jn(x)"
-msgstr "Aisfhilleann sé luach na feidhme Bessel Jn(x)"
+msgstr "Aischuireann sé luach na feidhme Bessel Jn(x)"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besselj.2.string.text
 msgid ""
@@ -40248,7 +40248,7 @@ msgstr "Ord na feidhme Bessel"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besselk.1.string.text
 msgid "Returns the Bessel function Kn(x)"
-msgstr "Aisfhilleann luach feidhme Bessel Kn(x)"
+msgstr "Aischuireann luach feidhme Bessel Kn(x)"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besselk.2.string.text
 msgid ""
@@ -40280,7 +40280,7 @@ msgstr "Ord na feidhme Bessel"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bessely.1.string.text
 msgid "Returns the Bessel function Yn(x)"
-msgstr "Aisfhilleann luach feidhme Bessel Yn(x)"
+msgstr "Aischuireann luach feidhme Bessel Yn(x)"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bessely.2.string.text
 msgid ""
@@ -40671,7 +40671,7 @@ msgstr "An dara huimhir"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Erf.1.string.text
 msgid "Returns the error function"
-msgstr "Aisfhilleann sé luach na feidhme earráide"
+msgstr "Aischuireann sé luach na feidhme earráide"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Erf.2.string.text
 msgid ""
@@ -40697,7 +40697,7 @@ msgstr "Foirceann uachtair na suimeála"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Erfc.1.string.text
 msgid "Returns the complementary error function"
-msgstr "Aisfhilleann sé luach na feidhme earráide chomhlántach"
+msgstr "Aischuireann sé luach na feidhme earráide chomhlántach"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Erfc.2.string.text
 msgid ""
@@ -40738,7 +40738,7 @@ msgstr "An luach tairsí"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Factdouble.1.string.text
 msgid "Returns the double factorial of Number"
-msgstr "Aisfhilleann sé an t-iolrán dúbailte d'Uimhir"
+msgstr "Aischuireann sé an t-iolrán dúbailte d'Uimhir"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Factdouble.2.string.text
 msgid ""
@@ -40756,7 +40756,7 @@ msgstr "An uimhir"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imabs.1.string.text
 msgid "Returns the absolute value (modulus) of a complex number"
-msgstr "Aisfhilleann sé an luach uimhriúil (modal) d'uimhir choimpléascach"
+msgstr "Aischuireann sé an luach uimhriúil (modal) d'uimhir choimpléascach"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imabs.2.string.text
 msgid ""
@@ -40774,7 +40774,7 @@ msgstr "An uimhir choimpléascach"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imaginary.1.string.text
 msgid "Returns the imaginary coefficient of a complex number"
-msgstr "Aisfhilleann sé an chomhéifeacht shamhailteach d'uimhir choimpléascach"
+msgstr "Aischuireann sé an chomhéifeacht shamhailteach d'uimhir choimpléascach"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imaginary.2.string.text
 msgid ""
@@ -40792,7 +40792,7 @@ msgstr "An uimhir choimpléascach"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Impower.1.string.text
 msgid "Returns a complex number raised to an integer power"
-msgstr "Aisfhilleann uimhir choimpléascach ardaithe go cumhacht slánuimhreach"
+msgstr "Aischuireann uimhir choimpléascach ardaithe go cumhacht slánuimhreach"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Impower.2.string.text
 msgid ""
@@ -40821,7 +40821,7 @@ msgstr ""
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imargument.1.string.text
 msgid "Returns the argument theta, an angle expressed in radians"
-msgstr "Aisfhilleann sé an argóint (téite), uillinn scríofa i raidiain"
+msgstr "Aischuireann sé an argóint (téite), uillinn scríofa i raidiain"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imargument.2.string.text
 msgid ""
@@ -40839,7 +40839,7 @@ msgstr "Uimhir choimpléascach"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imcos.1.string.text
 msgid "Returns the cosine of a complex number"
-msgstr "Aisfhilleann sé comhshíneas d'uimhir choimpléascach"
+msgstr "Aischuireann sé comhshíneas d'uimhir choimpléascach"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imcos.2.string.text
 msgid ""
@@ -40907,7 +40907,7 @@ msgstr "An uimhir choimpléascach"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imconjugate.1.string.text
 msgid "Returns the complex conjugate of a complex number"
-msgstr "Aisfhilleann sé comhchuingeach coimpléascach d'uimhir choimpléascach"
+msgstr "Aischuireann sé comhchuingeach coimpléascach d'uimhir choimpléascach"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imconjugate.2.string.text
 msgid ""
@@ -40925,7 +40925,7 @@ msgstr "An uimhir choimpléascach"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imln.1.string.text
 msgid "Returns the natural logarithm of a complex number"
-msgstr "Aisfhilleann sé an logartam aiceanta d'uimhir choimpléascach"
+msgstr "Aischuireann sé an logartam aiceanta d'uimhir choimpléascach"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imln.2.string.text
 msgid ""
@@ -40943,7 +40943,7 @@ msgstr "An uimhir choimpléascach"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imlog10.1.string.text
 msgid "Returns the base-10 logarithm of a complex number"
-msgstr "Aisfhilleann sé an logartam (bunuimhir 10) d'uimhir choimpléascach"
+msgstr "Aischuireann sé an logartam (bunuimhir 10) d'uimhir choimpléascach"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imlog10.2.string.text
 msgid ""
@@ -40961,7 +40961,7 @@ msgstr "An uimhir choimpléascach"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imlog2.1.string.text
 msgid "Returns the base-2 logarithm of a complex number"
-msgstr "Aisfhilleann sé an logartam (bunuimhir 2) d'uimhir choimpléascach"
+msgstr "Aischuireann sé an logartam (bunuimhir 2) d'uimhir choimpléascach"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imlog2.2.string.text
 msgid ""
@@ -41005,7 +41005,7 @@ msgstr "Uimhir choimpléascach eile"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imreal.1.string.text
 msgid "Returns the real coefficient of a complex number"
-msgstr "Aisfhilleann sé an pháirt réaduimhreach d'uimhir choimpléascach"
+msgstr "Aischuireann sé an pháirt réaduimhreach d'uimhir choimpléascach"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imreal.2.string.text
 msgid ""
@@ -41023,7 +41023,7 @@ msgstr "An uimhir choimpléascach"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsin.1.string.text
 msgid "Returns the sine of a complex number"
-msgstr "Aisfhilleann sé an síneas d'uimhir choimpléascach"
+msgstr "Aischuireann sé an síneas d'uimhir choimpléascach"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsin.2.string.text
 msgid ""
@@ -41073,7 +41073,7 @@ msgstr "Uimhir choimpléascach 2"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsqrt.1.string.text
 msgid "Returns the square root of a complex number"
-msgstr "Aisfhilleann sé fréamh chearnach d'uimhir choimpléascach"
+msgstr "Aischuireann sé fréamh chearnach d'uimhir choimpléascach"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsqrt.2.string.text
 msgid ""
@@ -41176,7 +41176,7 @@ msgid ""
 "Returns the prorated linear depreciation of an asset for each accounting "
 "period"
 msgstr ""
-"Aisfhilleann sé an dímheas líneach pro rata de shócmhainn i ngach tréimhse "
+"Aischuireann sé an dímheas líneach pro rata de shócmhainn i ngach tréimhse "
 "chuntasaíochta"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc.2.string.text
@@ -41278,7 +41278,7 @@ msgid ""
 "Returns the prorated linear depreciation of an asset for each accounting "
 "period"
 msgstr ""
-"Aisfhilleann sé an dímheas líneach pro rata de shócmhainn i ngach tréimhse "
+"Aischuireann sé an dímheas líneach pro rata de shócmhainn i ngach tréimhse "
 "chuntasaíochta"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc.2.string.text
@@ -41375,7 +41375,7 @@ msgstr "An bhonnbhliain le húsáid"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint.1.string.text
 msgid "Returns the accrued interest for a security that pays periodic interest"
-msgstr "Aisfhilleann sé an t-ús fabhraithe d'urrús a íocann ús tréimhsiúil"
+msgstr "Aischuireann sé an t-ús fabhraithe d'urrús a íocann ús tréimhsiúil"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint.2.string.text
 msgid ""
@@ -41470,7 +41470,7 @@ msgstr "An bonn"
 msgid ""
 "Returns the accrued interest for a security that pays interest at maturity"
 msgstr ""
-"Aisfhilleann an t-ús fabhraithe d'urrús a íocann ús ar theacht in aibíocht"
+"Aischuireann an t-ús fabhraithe d'urrús a íocann ús ar theacht in aibíocht"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrintm.2.string.text
 msgid ""
@@ -41618,7 +41618,7 @@ msgstr "An bonn"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Disc.1.string.text
 msgid "Returns the discount rate for a security"
-msgstr "Aisfhilleann sé an ráta lascaine d'urrús"
+msgstr "Aischuireann sé an ráta lascaine d'urrús"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Disc.2.string.text
 msgid ""
@@ -41695,7 +41695,7 @@ msgid ""
 "Returns the annual Macaulay duration of a security with periodic interest "
 "payments"
 msgstr ""
-"Aisfhilleann sé an mharthanacht Macaulay d'urrús a bhfuil íocaíochtaí "
+"Aischuireann sé an mharthanacht Macaulay d'urrús a bhfuil íocaíochtaí "
 "tréimhsiúla úis aige"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Duration.2.string.text
@@ -41784,7 +41784,7 @@ msgstr "An bonn"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Effect.1.string.text
 msgid "Returns the effective annual interest rate"
-msgstr "Aisfhilleann an ráta éifeachtach bliantúil úis"
+msgstr "Aischuireann an ráta éifeachtach bliantúil úis"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Effect.2.string.text
 msgid "Nominal rate"
@@ -41899,7 +41899,7 @@ msgstr "An cineál aibíochta"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt.1.string.text
 msgid "Returns the cumulative interest to be paid between two periods"
-msgstr "Aisfhilleann sé an t-ús carnach le híoc idir dhá dháta"
+msgstr "Aischuireann sé an t-ús carnach le híoc idir dhá dháta"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt.2.string.text
 msgid ""
@@ -42346,7 +42346,7 @@ msgstr "An bonn"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Nominal.1.string.text
 msgid "Returns the annual nominal interest rate"
-msgstr "Aisfhilleann sé an ráta úis ainmniúil bliantúil"
+msgstr "Aischuireann sé an ráta úis ainmniúil bliantúil"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Nominal.2.string.text
 msgid "Effective rate"
@@ -42430,7 +42430,7 @@ msgstr "An roinnteoir"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield.1.string.text
 msgid "Returns the yield on a security that pays periodic interest"
-msgstr "Aisfhilleann sé an toradh d'urrús a íocann ús tréimhsiúil"
+msgstr "Aischuireann sé an toradh d'urrús a íocann ús tréimhsiúil"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield.2.string.text
 msgid ""
@@ -42532,7 +42532,7 @@ msgstr "An bonn"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yielddisc.1.string.text
 msgid "Returns the annual yield for a discounted security"
-msgstr "Aisfhilleann sé an toradh bliantúil d'urrús lascainithe"
+msgstr "Aischuireann sé an toradh bliantúil d'urrús lascainithe"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yielddisc.2.string.text
 msgid ""
@@ -42786,7 +42786,7 @@ msgstr "Ráta lascaine"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillyield.1.string.text
 msgid "Returns the yield for a treasury bill"
-msgstr "Aisfhilleann toradh bille státchiste"
+msgstr "Aischuireann toradh bille státchiste"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillyield.2.string.text
 msgid ""
@@ -43487,7 +43487,7 @@ msgstr "An bonn"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupncd.1.string.text
 msgid "Returns the first coupon date after the settlement date"
-msgstr "Aisfhilleann sé an chéad dáta cúpóin tar éis an dáta socraíochta"
+msgstr "Aischuireann sé an chéad dáta cúpóin tar éis an dáta socraíochta"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupncd.2.string.text
 msgid ""
@@ -43550,7 +43550,7 @@ msgid ""
 "Returns the number of days in the coupon period containing the settlement "
 "date"
 msgstr ""
-"Aisfhilleann sé líon na laethanta sa tréimhse chúpóin ina bhfuil an dáta "
+"Aischuireann sé líon na laethanta sa tréimhse chúpóin ina bhfuil an dáta "
 "socraíochta"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdays.2.string.text
@@ -43613,7 +43613,7 @@ msgstr "An bonn"
 msgid ""
 "Returns the number of days from the settlement date to the next coupon date"
 msgstr ""
-"Aisfhilleann líon na laethanta ón dáta socraíochta go dtí an chéad dáta "
+"Aischuireann líon na laethanta ón dáta socraíochta go dtí an chéad dáta "
 "cúpóin eile"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaysnc.2.string.text
@@ -43677,7 +43677,7 @@ msgid ""
 "Returns the number of days from the beginning of the coupon period to the "
 "settlement date"
 msgstr ""
-"Aisfhilleann sé líon na laethanta ó thús na tréimhse chúpóin go dtí an dáta "
+"Aischuireann sé líon na laethanta ó thús na tréimhse chúpóin go dtí an dáta "
 "socraíochta"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaybs.2.string.text
@@ -43738,7 +43738,7 @@ msgstr "An bonn"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Couppcd.1.string.text
 msgid "Returns the last coupon date preceding the settlement date"
-msgstr "Aisfhilleann sé an dáta deiridh cúpóin roimh an dáta socraíochta"
+msgstr "Aischuireann sé an dáta deiridh cúpóin roimh an dáta socraíochta"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Couppcd.2.string.text
 msgid ""
@@ -44414,7 +44414,7 @@ msgstr "Lá ar bith sa bhliain sainithe"
 #: datefunc.src#RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DaysInMonth.1.string.text
 msgid ""
 "Returns the number of days of the month in which the date entered occurs"
-msgstr "Aisfhilleann líon na laethanta sa mhí ina bhfuil an dáta a iontráladh"
+msgstr "Aischuireann líon na laethanta sa mhí ina bhfuil an dáta a iontráladh"
 
 #: datefunc.src#RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DaysInMonth.2.string.text
 msgid ""
@@ -44431,7 +44431,7 @@ msgstr "Lá ar bith sa mhí sainithe"
 msgid ""
 "Returns the number of days of the year in which the date entered occurs."
 msgstr ""
-"Aisfhilleann sé líon na laethanta sa bhliain ina bhfuil an dáta a iontráladh."
+"Aischuireann sé líon na laethanta sa bhliain ina bhfuil an dáta a iontráladh."
 
 #: datefunc.src#RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DaysInYear.2.string.text
 msgid ""
@@ -44451,7 +44451,7 @@ msgstr "Lá ar bith sa bhliain sainithe"
 msgid ""
 "Returns the number of weeks of the year in which the date entered occurs"
 msgstr ""
-"Aisfhilleann sé líon na seachtainí sa bhliain ina bhfuil an dáta a iontráladh"
+"Aischuireann sé líon na seachtainí sa bhliain ina bhfuil an dáta a iontráladh"
 
 #: datefunc.src#RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_WeeksInYear.2.string.text
 msgid ""
@@ -55040,7 +55040,7 @@ msgid ""
 "Returns the average value of all the cells of a data range whose contents "
 "match the search criteria."
 msgstr ""
-"Aisfhilleann sé meánluach gach cille sa raon sonraí le hinneachar a "
+"Aischuireann sé meánluach gach cille sa raon sonraí le hinneachar a "
 "mheaitseálann na critéir chuardaigh."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_DB_AVERAGE.2.string.text
@@ -55140,7 +55140,7 @@ msgid ""
 "Returns the maximum value from all of the cells of a data range which "
 "correspond to the search criteria."
 msgstr ""
-"Aisfhilleann sé uasmhéid gach cille sa raon sonraí a chomhfhreagraíonn leis "
+"Aischuireann sé uasmhéid gach cille sa raon sonraí a chomhfhreagraíonn leis "
 "na critéir chuardaigh."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_DB_MAX.2.string.text
@@ -55187,7 +55187,7 @@ msgid ""
 "Returns the minimum of all cells of a data range where the contents "
 "correspond to the search criteria."
 msgstr ""
-"Aisfhilleann sé íosmhéid gach cille sa raon sonraí le hinneachar a "
+"Aischuireann sé íosmhéid gach cille sa raon sonraí le hinneachar a "
 "chomhfhreagraíonn leis na critéir chuardaigh."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_DB_MIN.2.string.text
@@ -55340,7 +55340,7 @@ msgid ""
 "Returns the standard deviation with regards to the population of all cells "
 "of a data range matching the search criteria."
 msgstr ""
-"Aisfhilleann sé an diall caighdeánach atá baint aige le líonadh gach cille "
+"Aischuireann sé an diall caighdeánach atá baint aige le líonadh gach cille "
 "sa raon sonraí a mheaitseálann na critéir chuardaigh."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_DB_STD_DEV_P.2.string.text
@@ -55591,7 +55591,7 @@ msgid ""
 "A text enclosed in quotation marks which returns a date in a %PRODUCTNAME "
 "date format."
 msgstr ""
-"Téacs faoi chomharthaí athfhriotail a aisfhilleann dáta i bhformáid dátaí %"
+"Téacs faoi chomharthaí athfhriotail a aischuireann dáta i bhformáid dátaí %"
 "PRODUCTNAME."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_GET_DAY.1.string.text
@@ -55599,7 +55599,7 @@ msgid ""
 "Returns the sequential date of the month as an integer (1-31) in relation to "
 "the date value."
 msgstr ""
-"Aisfhilleann sé dáta seicheamhach na míosa mar shlánuimhir (1-31) maidir "
+"Aischuireann sé dáta seicheamhach na míosa mar shlánuimhir (1-31) maidir "
 "leis an luach dátaí."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_GET_DAY.2.string.text
@@ -55779,7 +55779,7 @@ msgstr "Slánuimhir le haghaidh na soicinde."
 msgid ""
 "Returns a sequential number for a text shown in a possible time entry format."
 msgstr ""
-"Aisfhilleann sé uimhir sheicheamhach do théacs ar taispeáint i bhformáid "
+"Aischuireann sé uimhir sheicheamhach do théacs ar taispeáint i bhformáid "
 "indéanta d'iontráil ama."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_GET_TIME_VALUE.2.string.text
@@ -55794,7 +55794,7 @@ msgid ""
 "A text enclosed in quotation marks which returns a time in a %PRODUCTNAME "
 "time format."
 msgstr ""
-"Téacs faoi chomharthaí athfhriotail a aisfhilleann am i bhformáid %"
+"Téacs faoi chomharthaí athfhriotail a aischuireann am i bhformáid %"
 "PRODUCTNAME."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_GET_ACT_DATE.1.string.text
@@ -55804,7 +55804,7 @@ msgstr "Cinneann sé dáta reatha an ríomhaire."
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_GET_DAY_OF_WEEK.1.string.text
 msgid "Returns the day of the week for the date value as an integer (1-7)."
 msgstr ""
-"Aisfhilleann sé lá na seachtaine le haghaidh luacha ama mar shlánuimhir (1-"
+"Aischuireann sé lá na seachtaine le haghaidh luacha ama mar shlánuimhir (1-"
 "7)."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_GET_DAY_OF_WEEK.2.string.text
@@ -55834,7 +55834,7 @@ msgstr "Cinneann sé tús na seachtaine agus an cineál áirimh le húsáid."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_GET_YEAR.1.string.text
 msgid "Returns the year of a date value as an integer."
-msgstr "Aisfhilleann sé an bhliain dátaí mar shlánuimhir."
+msgstr "Aischuireann sé an bhliain dátaí mar shlánuimhir."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_GET_YEAR.2.string.text
 msgid ""
@@ -55992,7 +55992,7 @@ msgid ""
 "Future value. Returns the future value of an investment based on regular "
 "payments and a constant interest rate."
 msgstr ""
-"An luach cumaisc.  Aisfhilleann sé an luach atá i ndán d'fhuillimh bunaithe "
+"An luach cumaisc.  Aischuireann sé an luach atá i ndán d'fhuillimh bunaithe "
 "ar íocaíochtaí rialta agus ráta úis seasmhach."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_ZW.2.string.text
@@ -56131,7 +56131,7 @@ msgid ""
 "Regular payments. Returns the periodic payment of an annuity, based on "
 "regular payments and a fixed periodic interest rate."
 msgstr ""
-"Íocaíochtaí rialta. Aisfhilleann sé íocaíocht thréimhsiúil anáide bunaithe "
+"Íocaíochtaí rialta. Aischuireann sé íocaíocht thréimhsiúil anáide bunaithe "
 "ar íocaíochtaí rialta agus ráta bisigh tréimhsiúil seasta."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_RMZ.2.string.text
@@ -56285,7 +56285,7 @@ msgid ""
 "investment with regular payments and a constant interest rate for a given "
 "period."
 msgstr ""
-"Ús iolraithe. Aisfhilleann sé an íocaíocht bisigh ar bhunairgead fuillimh le "
+"Ús iolraithe. Aischuireann sé an íocaíocht bisigh ar bhunairgead fuillimh le "
 "híocaíochtaí reatha agus ráta úis seasmhach i dtréimhse áirithe."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_ZINS_Z.2.string.text
@@ -56817,7 +56817,7 @@ msgid ""
 "Returns the real depreciation of an asset for a specified period using the "
 "fixed-declining balance method."
 msgstr ""
-"Aisfhilleann sé fíor dímheas sócmhainne le haghaidh tréimhse sonraithe ag "
+"Aischuireann sé fíor dímheas sócmhainne le haghaidh tréimhse sonraithe ag "
 "baint úsáid as an modh meatha rialta an bhfuílligh."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_GDA_2.2.string.text
@@ -56883,7 +56883,7 @@ msgid ""
 "Variable declining balance. Returns the declining balance depreciation for a "
 "particular period."
 msgstr ""
-"Fuílleach ar meathlú athraitheach. Aisfhilleann sé an dímheas fuílligh ar "
+"Fuílleach ar meathlú athraitheach. Aischuireann sé an dímheas fuílligh ar "
 "meathlú le haghaidh tréimhse áirithe."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_VBD.2.string.text
@@ -57046,7 +57046,7 @@ msgid ""
 "Returns the actuarial rate of interest of an investment excluding costs or "
 "profits."
 msgstr ""
-"Aisfhilleann sé ráta achtúireach úis ar fhuilleamh gan chostais ná brabaigh "
+"Aischuireann sé ráta achtúireach úis ar fhuilleamh gan chostais ná brabaigh "
 "a chur san áireamh."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_IKV.2.string.text
@@ -57080,7 +57080,7 @@ msgstr ""
 msgid ""
 "Returns the modified internal rate of return for a series of investments."
 msgstr ""
-"Aisfhilleann sé an ráta brabaigh inmheánach le haghaidh sraithe fuilleamh."
+"Aischuireann sé an ráta brabaigh inmheánach le haghaidh sraithe fuilleamh."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_MIRR.2.string.text
 msgid ""
@@ -57113,7 +57113,7 @@ msgstr "ráta úis fuilleamh (luachanna dearfacha an eagair)."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_ISPMT.1.string.text
 msgid "Returns the amount of interest for constant amortization rates."
-msgstr "Aisfhilleann sé an méid úis le haghaidh rátaí seasmhacha maithimh."
+msgstr "Aischuireann sé an méid úis le haghaidh rátaí seasmhacha maithimh."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_ISPMT.2.string.text
 msgid "rate"
@@ -57229,7 +57229,7 @@ msgstr "An luach cumaisc don fhuilleamh."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_IS_REF.1.string.text
 msgid "Returns TRUE if value is a reference."
-msgstr "Aisfhilleann sé TRUE más tagairt é an luach."
+msgstr "Aischuireann sé TRUE más tagairt é an luach."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_IS_REF.2.string.text
 msgid ""
@@ -57246,7 +57246,7 @@ msgstr "An luach le tástáil."
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_IS_ERR.1.string.text
 msgid "Returns TRUE if the value is an error value not equal to #N/A."
 msgstr ""
-"Aisfhilleann sé TRUE más earráid é an luach nach bhfuil cothrom le #N/A."
+"Aischuireann sé TRUE más earráid é an luach nach bhfuil cothrom le #N/A."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_IS_ERR.2.string.text
 msgid ""
@@ -57262,7 +57262,7 @@ msgstr "An luach le tástáil."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_IS_ERROR.1.string.text
 msgid "Returns TRUE if the value is an error value."
-msgstr "Aisfhilleann sé TRUE más earráid é an luach."
+msgstr "Aischuireann sé TRUE más earráid é an luach."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_IS_ERROR.2.string.text
 msgid ""
@@ -57280,7 +57280,7 @@ msgstr "An luach le tástáil."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_IS_EMPTY.1.string.text
 msgid "Returns TRUE if value refers to an empty cell."
-msgstr "Aisfhilleann sé TRUE má thagraíonn an luach do chill fholamh."
+msgstr "Aischuireann sé TRUE má thagraíonn an luach do chill fholamh."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_IS_EMPTY.2.string.text
 msgid ""
@@ -57298,7 +57298,7 @@ msgstr "An luach le tástáil."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_IS_LOGICAL.1.string.text
 msgid "Returns TRUE if the value carries a logical number format."
-msgstr "Aisfhilleann sé TRUE má tá formáid loighciúil ag an luach."
+msgstr "Aischuireann sé TRUE má tá formáid loighciúil ag an luach."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_IS_LOGICAL.2.string.text
 msgid ""
@@ -57316,7 +57316,7 @@ msgstr "An luach le tástáil."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_IS_NV.1.string.text
 msgid "Returns TRUE if value equals #N/A."
-msgstr "Aisfhilleann sé TRUE má tá an luach cothrom le #N/A."
+msgstr "Aischuireann sé TRUE má tá an luach cothrom le #N/A."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_IS_NV.2.string.text
 msgid ""
@@ -57332,7 +57332,7 @@ msgstr "An luach le tástáil."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_IS_NON_STRING.1.string.text
 msgid "Returns TRUE if the value is not text."
-msgstr "Aisfhilleann sé TRUE mura téacs é an luach."
+msgstr "Aischuireann sé TRUE mura téacs é an luach."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_IS_NON_STRING.2.string.text
 msgid ""
@@ -57350,7 +57350,7 @@ msgstr "An luach le tástáil."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_IS_STRING.1.string.text
 msgid "Returns TRUE if value is text."
-msgstr "Aisfhilleann sé TRUE más téacs é an luach."
+msgstr "Aischuireann sé TRUE más téacs é an luach."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_IS_STRING.2.string.text
 msgid ""
@@ -57368,7 +57368,7 @@ msgstr "An luach le tástáil."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_IS_VALUE.1.string.text
 msgid "Returns TRUE if value is a number."
-msgstr "Aisfhilleann sé TRUE más uimhir é an luach."
+msgstr "Aischuireann sé TRUE más uimhir é an luach."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_IS_VALUE.2.string.text
 msgid ""
@@ -57386,7 +57386,7 @@ msgstr "An luach le tástáil."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_IS_FORMULA.1.string.text
 msgid "Returns TRUE if the cell is a formula cell."
-msgstr "Aisfhilleann sé TRUE más cill fhoirmle í an chill."
+msgstr "Aischuireann sé TRUE más cill fhoirmle í an chill."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_IS_FORMULA.2.string.text
 msgid ""
@@ -57401,7 +57401,7 @@ msgstr "An chill le seiceáil."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_FORMULA.1.string.text
 msgid "Returns the formula of a formula cell."
-msgstr "Aisfhilleann sé foirmle an cille foirmle."
+msgstr "Aischuireann sé foirmle an cille foirmle."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_FORMULA.2.string.text
 msgid ""
@@ -57430,7 +57430,7 @@ msgstr "An luach le míniú mar uimhir."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_NO_VALUE.1.string.text
 msgid "Not available. Returns the error value #N/A."
-msgstr "Dofhaighte. Aisfhilleann sé earráid #N/A."
+msgstr "Dofhaighte. Aischuireann sé earráid #N/A."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_TYPE.1.string.text
 msgid "Defines the data type of a value."
@@ -57490,7 +57490,7 @@ msgstr "Slonn is féidir a bheith TRUE nó FALSE."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_TRUE.1.string.text
 msgid "Returns the logical value TRUE."
-msgstr "Aisfhilleann sé an luach loighciúil TRUE."
+msgstr "Aischuireann sé an luach loighciúil TRUE."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_IF.1.string.text
 msgid "Specifies a logical test to be performed."
@@ -57510,7 +57510,7 @@ msgstr "Then_value"
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_IF.5.string.text
 msgid "The result of the function if the logical test returns a TRUE."
-msgstr "Toradh na feidhme má aisfhilleann an tástáil loighciúil TRUE."
+msgstr "Toradh na feidhme má aischuireann an tástáil loighciúil TRUE."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_IF.6.string.text
 msgid "Otherwise_value"
@@ -57518,11 +57518,11 @@ msgstr "Otherwise_value"
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_IF.7.string.text
 msgid "The result of the function if the logical test returns FALSE."
-msgstr "Toradh na feidhme má aisfhilleann an tástáil loighciúil FALSE."
+msgstr "Toradh na feidhme má aischuireann an tástáil loighciúil FALSE."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_OR.1.string.text
 msgid "Returns TRUE if an argument is TRUE."
-msgstr "Aisfhilleann sé TRUE má tá argóint TRUE i gceist."
+msgstr "Aischuireann sé TRUE má tá argóint TRUE i gceist."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_OR.2.string.text
 msgid ""
@@ -57536,11 +57536,11 @@ msgid ""
 "which return either TRUE or FALSE."
 msgstr ""
 "Luach loighciúil 1, luach loighciúil 2,... 1 go 30 coinníoll le tástáil a "
-"aisfhilleann TRUE nó FALSE."
+"aischuireann TRUE nó FALSE."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_AND.1.string.text
 msgid "Returns TRUE if all arguments are TRUE."
-msgstr "Aisfhilleann sé TRUE más TRUE iad na hargóintí go léir."
+msgstr "Aischuireann sé TRUE más TRUE iad na hargóintí go léir."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_AND.2.string.text
 msgid ""
@@ -57554,7 +57554,7 @@ msgid ""
 "each returns either TRUE or FALSE."
 msgstr ""
 "Luach loighciúil 1, luach loighciúil 2;... 1 go 30 coinníoll le tástáil a "
-"aisfhilleann gach ceann acu TRUE nó FALSE."
+"aischuireann gach ceann acu TRUE nó FALSE."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_ABS.1.string.text
 msgid "Absolute value of a number."
@@ -57568,7 +57568,7 @@ msgstr "Uimhir"
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_ABS.3.string.text
 msgid "The number whose absolute value is to be returned."
-msgstr "An uimhir leis an luach uimhriúil le haisfhilleadh."
+msgstr "An uimhir leis an luach uimhriúil le haischur."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_POWER.1.string.text
 msgid "Raises a number to the power of another."
@@ -57611,11 +57611,11 @@ msgstr "An raon ina bhfuil cealla folmha le comhaireamh."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_PI.1.string.text
 msgid "Returns the value of the number Pi."
-msgstr "Aisfhilleann sé luach Pi."
+msgstr "Aischuireann sé luach Pi."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_SUM.1.string.text
 msgid "Returns the sum of all arguments."
-msgstr "Aisfhilleann sé suim na n-argóintí."
+msgstr "Aischuireann sé suim na n-argóintí."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_SUM.2.string.text
 msgid ""
@@ -57631,7 +57631,7 @@ msgstr "Uimhir 1, uimhir 2, ... 1 go 30 argóint leis an iomlán le háireamh."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_SUM_SQ.1.string.text
 msgid "Returns the sum of the squares of the arguments."
-msgstr "Aisfhilleann sé suim chearnaithe na n-argóintí."
+msgstr "Aischuireann sé suim chearnaithe na n-argóintí."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_SUM_SQ.2.string.text
 msgid ""
@@ -57660,7 +57660,7 @@ msgid ""
 "Number 1, number 2, ... are 1 to 30 arguments to be multiplied and a result "
 "returned."
 msgstr ""
-"Uimhir 1, uimhir 2, ... 1 go 30 argóint le hiolrú chun toradh a aisfhilleadh."
+"Uimhir 1, uimhir 2, ... 1 go 30 argóint le hiolrú chun toradh a aischur."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_SUM_IF.1.string.text
 msgid "Totals the arguments that meet the conditions."
@@ -57729,7 +57729,7 @@ msgstr "Raon na gceall ina sonraítear na critéir chuardaigh."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_SQRT.1.string.text
 msgid "Returns the square root of a number."
-msgstr "Aisfhilleann sé fréamh chearnach d'uimhir."
+msgstr "Aischuireann sé fréamh chearnach d'uimhir."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_SQRT.2.string.text
 msgid ""
@@ -57743,11 +57743,11 @@ msgstr "Luach dearfach le fréamh chearnach le háireamh aige."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_RANDOM.1.string.text
 msgid "Returns a random number between 0 and 1."
-msgstr "Aisfhilleann sé uimhir randamach idir 0 agus 1."
+msgstr "Aischuireann sé uimhir randamach idir 0 agus 1."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_IS_EVEN.1.string.text
 msgid "Returns TRUE if value is an even integer."
-msgstr "Aisfhilleann sé TRUE más slánuimhir réidh é an luach."
+msgstr "Aischuireann sé TRUE más slánuimhir réidh é an luach."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_IS_EVEN.2.string.text
 msgid ""
@@ -57765,7 +57765,7 @@ msgstr "An luach le tástáil."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_IS_ODD.1.string.text
 msgid "Returns TRUE if value is an odd integer."
-msgstr "Aisfhilleann sé TRUE más slánuimhir corr é an luach."
+msgstr "Aischuireann sé TRUE más slánuimhir corr é an luach."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_IS_ODD.2.string.text
 msgid ""
@@ -57843,7 +57843,7 @@ msgstr "An méid eilimint roghnaithe."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_ARC_COS.1.string.text
 msgid "Returns the arccosine of a number."
-msgstr "Aisfhilleann sé an t-arc-chomhshíneas d'uimhir."
+msgstr "Aischuireann sé an t-arc-chomhshíneas d'uimhir."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_ARC_COS.2.string.text
 msgid ""
@@ -57854,11 +57854,11 @@ msgstr "Uimhir"
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_ARC_COS.3.string.text
 msgid "A value between -1 and 1 for which the arccosine is to be returned."
-msgstr "Luach idir -1 agus 1 le harc-chomhshíneas le haisfhilleadh aige."
+msgstr "Luach idir -1 agus 1 le harc-chomhshíneas le haischur aige."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_ARC_SIN.1.string.text
 msgid "Returns the arcsine of a number."
-msgstr "Aisfhilleann sé an t-arcshíneas d'uimhir."
+msgstr "Aischuireann sé an t-arcshíneas d'uimhir."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_ARC_SIN.2.string.text
 msgid ""
@@ -57869,11 +57869,11 @@ msgstr "Uimhir"
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_ARC_SIN.3.string.text
 msgid "A value between -1 and 1 for which the arcsine is to be returned."
-msgstr "Luach idir -1 agus 1 le arcshíneas le haisfhilleadh aige."
+msgstr "Luach idir -1 agus 1 le arcshíneas le haischur aige."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_ARC_COS_HYP.1.string.text
 msgid "Returns the inverse hyperbolic cosine of a number."
-msgstr "Aisfhilleann sé an comhshíneas hipearbóileach inbhéartach d'uimhir."
+msgstr "Aischuireann sé an comhshíneas hipearbóileach inbhéartach d'uimhir."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_ARC_COS_HYP.2.string.text
 msgid ""
@@ -57890,7 +57890,7 @@ msgstr ""
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_ARC_SIN_HYP.1.string.text
 msgid "Returns the inverse hyperbolic sine of a number."
-msgstr "Aisfhilleann sé an síneas hipearbóileach inbhéartach d'uimhir."
+msgstr "Aischuireann sé an síneas hipearbóileach inbhéartach d'uimhir."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_ARC_SIN_HYP.2.string.text
 msgid ""
@@ -57905,7 +57905,7 @@ msgstr ""
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_ARC_COT.1.string.text
 msgid "Returns the inverse cotangent of a number."
-msgstr "Aisfhilleann sé an comhthangant inbhéartach d'uimhir."
+msgstr "Aischuireann sé an comhthangant inbhéartach d'uimhir."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_ARC_COT.2.string.text
 msgid ""
@@ -57920,7 +57920,7 @@ msgstr ""
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_ARC_TAN.1.string.text
 msgid "Returns the arctangent of a number."
-msgstr "Aisfhilleann sé an t-arcthangant d'uimhir."
+msgstr "Aischuireann sé an t-arcthangant d'uimhir."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_ARC_TAN.2.string.text
 msgid ""
@@ -57935,7 +57935,7 @@ msgstr ""
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_ARC_COT_HYP.1.string.text
 msgid "Returns the inverse hyperbolic cotangent of a number."
-msgstr "Aisfhilleann an comhthangant hipearbóileach inbhéartach d'uimhir."
+msgstr "Aischuireann an comhthangant hipearbóileach inbhéartach d'uimhir."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_ARC_COT_HYP.2.string.text
 msgid ""
@@ -57952,7 +57952,7 @@ msgstr ""
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_ARC_TAN_HYP.1.string.text
 msgid "Returns the inverse hyperbolic tangent of a number."
-msgstr "Aisfhilleann sé an tangant hipearbóileach inbhéartach d'uimhir."
+msgstr "Aischuireann sé an tangant hipearbóileach inbhéartach d'uimhir."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_ARC_TAN_HYP.2.string.text
 msgid ""
@@ -57969,7 +57969,7 @@ msgstr ""
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_COS.1.string.text
 msgid "Returns the cosine of a number."
-msgstr "Aisfhilleann sé comhshíneas d'uimhir."
+msgstr "Aischuireann sé comhshíneas d'uimhir."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_COS.2.string.text
 msgid ""
@@ -57983,7 +57983,7 @@ msgstr ""
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_SIN.1.string.text
 msgid "Returns the sine of a number."
-msgstr "Aisfhilleann sé an síneas d'uimhir."
+msgstr "Aischuireann sé an síneas d'uimhir."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_SIN.2.string.text
 msgid ""
@@ -57997,7 +57997,7 @@ msgstr ""
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_COT.1.string.text
 msgid "Returns the cotangent of a number."
-msgstr "Aisfhilleann sé an comhthangant d'uimhir."
+msgstr "Aischuireann sé an comhthangant d'uimhir."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_COT.2.string.text
 msgid ""
@@ -58011,7 +58011,7 @@ msgstr ""
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_TAN.1.string.text
 msgid "Returns the tangent of a number."
-msgstr "Aisfhilleann sé an tangant d'uimhir."
+msgstr "Aischuireann sé an tangant d'uimhir."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_TAN.2.string.text
 msgid ""
@@ -58025,7 +58025,7 @@ msgstr ""
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_COS_HYP.1.string.text
 msgid "Returns the hyperbolic cosine of a number."
-msgstr "Aisfhilleann sé an comhshíneas hipearbóileach d'uimhir."
+msgstr "Aischuireann sé an comhshíneas hipearbóileach d'uimhir."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_COS_HYP.2.string.text
 msgid ""
@@ -58040,7 +58040,7 @@ msgstr ""
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_SIN_HYP.1.string.text
 msgid "Returns the hyperbolic sine of a number."
-msgstr "Aisfhilleann sé an síneas hipearbóileach d'uimhir."
+msgstr "Aischuireann sé an síneas hipearbóileach d'uimhir."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_SIN_HYP.2.string.text
 msgid ""
@@ -58055,7 +58055,7 @@ msgstr ""
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_COT_HYP.1.string.text
 msgid "Returns the hyperbolic cotangent of a number."
-msgstr "Aisfhilleann sé an comhthangant hipearbóileach d'uimhir."
+msgstr "Aischuireann sé an comhthangant hipearbóileach d'uimhir."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_COT_HYP.2.string.text
 msgid ""
@@ -58071,7 +58071,7 @@ msgstr ""
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_TAN_HYP.1.string.text
 msgid "Returns the hyperbolic tangent of a number."
-msgstr "Aisfhilleann sé an tangant hipearbóileach d'uimhir."
+msgstr "Aischuireann sé an tangant hipearbóileach d'uimhir."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_TAN_HYP.2.string.text
 msgid ""
@@ -58174,7 +58174,7 @@ msgstr "Bunuimhir an logartaim."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_LN.1.string.text
 msgid "Calculates the natural logarithm of a number."
-msgstr "Aisfhilleann sé an logartam aiceanta d'uimhir."
+msgstr "Aischuireann sé an logartam aiceanta d'uimhir."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_LN.2.string.text
 msgid ""
@@ -58189,7 +58189,7 @@ msgstr "Luach níos mó ná 0 a bhfuil a logartam aiceanta le ríomh."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_LOG10.1.string.text
 msgid "Calculates the base-10 logarithm of a number."
-msgstr "Aisfhilleann sé an logartam (bunuimhir 10) d'uimhir."
+msgstr "Aischuireann sé an logartam (bunuimhir 10) d'uimhir."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_LOG10.2.string.text
 msgid ""
@@ -58205,7 +58205,7 @@ msgstr "Luach níos mó ná 0 a bhfuil a logartam le ríomh."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_FACT.1.string.text
 msgid "Calculates the factorial of a number."
-msgstr "Aisfhilleann sé an t-iolrán d'uimhir."
+msgstr "Aischuireann sé an t-iolrán d'uimhir."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_FACT.2.string.text
 msgid ""
@@ -58239,7 +58239,7 @@ msgstr ""
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_PLUS_MINUS.1.string.text
 msgid "Returns the algebraic sign of a number."
-msgstr "Aisfhilleann sé an tsín ailgéabrach d'uimhir."
+msgstr "Aischuireann sé an tsín ailgéabrach d'uimhir."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_PLUS_MINUS.2.string.text
 msgid ""
@@ -58570,7 +58570,7 @@ msgstr ""
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_MAT_MULT.1.string.text
 msgid "Array multiplication. Returns the product of two arrays."
-msgstr "Iolrú eagair. Aisfhilleann sé an t-iolrach de dhá eagar."
+msgstr "Iolrú eagair. Aischuireann sé an t-iolrach de dhá eagar."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_MAT_MULT.2.string.text
 msgid ""
@@ -58598,7 +58598,7 @@ msgstr ""
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_MAT_DET.1.string.text
 msgid "Returns the array determinant."
-msgstr "Aisfhilleann sé deitéarmanant an eagair."
+msgstr "Aischuireann sé deitéarmanant an eagair."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_MAT_DET.2.string.text
 msgid ""
@@ -58613,7 +58613,7 @@ msgstr "An t-eagar a bhfuil a dheitéarmanant le ríomh."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_MAT_INV.1.string.text
 msgid "Returns the inverse of an array."
-msgstr "Aisfhilleann sé an t-eagar inbhéartaithe."
+msgstr "Aischuireann sé an t-eagar inbhéartaithe."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_MAT_INV.2.string.text
 msgid ""
@@ -58738,7 +58738,7 @@ msgstr ""
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_FREQUENCY.1.string.text
 msgid "Returns a frequency distribution as a vertical array."
-msgstr "Aisfhilleann sé dáileadh minicíochta mar eagar ingearach."
+msgstr "Aischuireann sé dáileadh minicíochta mar eagar ingearach."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_FREQUENCY.2.string.text
 msgid ""
@@ -59010,7 +59010,7 @@ msgstr ""
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_MAX.1.string.text
 msgid "Returns the maximum value in a list of arguments."
-msgstr "Aisfhilleann sé an t-uasluach i liosta d'argóintí."
+msgstr "Aischuireann sé an t-uasluach i liosta d'argóintí."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_MAX.2.string.text
 msgid ""
@@ -59028,7 +59028,7 @@ msgstr ""
 msgid ""
 "Returns the maximum value in a list of arguments. Text is evaluated as Zero."
 msgstr ""
-"Aisfhilleann sé an t-uasluach i liosta d'argóintí. Luacháiltear téacs mar 0."
+"Aischuireann sé an t-uasluach i liosta d'argóintí. Luacháiltear téacs mar 0."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_MAX_A.2.string.text
 msgid ""
@@ -59044,7 +59044,7 @@ msgstr ""
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_MIN.1.string.text
 msgid "Returns the minimum value in a list of arguments."
-msgstr "Aisfhilleann sé an t-íosluach i liosta d'argóintí."
+msgstr "Aischuireann sé an t-íosluach i liosta d'argóintí."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_MIN.2.string.text
 msgid ""
@@ -59062,7 +59062,7 @@ msgstr ""
 msgid ""
 "Returns the smallest value in a list of arguments. Text is evaluated as zero."
 msgstr ""
-"Aisfhilleann sé an t-íosluach i liosta d'argóintí. Luacháiltear téacs mar 0."
+"Aischuireann sé an t-íosluach i liosta d'argóintí. Luacháiltear téacs mar 0."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_MIN_A.2.string.text
 msgid ""
@@ -59098,7 +59098,7 @@ msgstr ""
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_VAR_A.1.string.text
 msgid "Returns the variance based on a sample. Text is evaluated as zero."
 msgstr ""
-"Aisfhilleann sé an t-athraitheas bunaithe ar shampla. Luacháiltear téacs mar "
+"Aischuireann sé an t-athraitheas bunaithe ar shampla. Luacháiltear téacs mar "
 "0."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_VAR_A.2.string.text
@@ -59139,7 +59139,7 @@ msgid ""
 "Returns the variance based on the entire population. Text is evaluated as "
 "zero."
 msgstr ""
-"Aisfhilleann sé an t-athraitheas bunaithe ar an bpobal iomlán. Luacháiltear "
+"Aischuireann sé an t-athraitheas bunaithe ar an bpobal iomlán. Luacháiltear "
 "téacs mar 0."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_VAR_P_A.2.string.text
@@ -59176,7 +59176,7 @@ msgstr ""
 msgid ""
 "Returns the standard deviation based on a sample. Text is evaluated as zero."
 msgstr ""
-"Aisfhilleann sé an diall caighdeánach bunaithe ar shampla. Luacháiltear "
+"Aischuireann sé an diall caighdeánach bunaithe ar shampla. Luacháiltear "
 "téacs mar 0."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_ST_DEV_A.2.string.text
@@ -59222,7 +59222,7 @@ msgid ""
 "Returns the standard deviation based on the entire population. Text is "
 "evaluated as zero."
 msgstr ""
-"Aisfhilleann sé an diall caighdeánach bunaithe ar an bpobal iomlán. "
+"Aischuireann sé an diall caighdeánach bunaithe ar an bpobal iomlán. "
 "Luacháiltear téacs mar 0."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_ST_DEV_P_A.2.string.text
@@ -59239,7 +59239,7 @@ msgstr ""
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_AVERAGE.1.string.text
 msgid "Returns the average of a sample."
-msgstr "Aisfhilleann sé meánluach sampla."
+msgstr "Aischuireann sé meánluach sampla."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_AVERAGE.2.string.text
 msgid ""
@@ -59258,7 +59258,7 @@ msgstr ""
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_AVERAGE_A.1.string.text
 msgid "Returns the average value for a sample. Text is evaluated as zero."
-msgstr "Aisfhilleann sé meánluach de shampla. Luacháiltear téacs mar 0."
+msgstr "Aischuireann sé meánluach de shampla. Luacháiltear téacs mar 0."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_AVERAGE_A.2.string.text
 msgid ""
@@ -59317,7 +59317,7 @@ msgstr ""
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_SCHIEFE.1.string.text
 msgid "Returns the skewness of a distribution."
-msgstr "Aisfhilleann sé sceabhacht de dháileachán."
+msgstr "Aischuireann sé sceabhacht de dháileachán."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_SCHIEFE.2.string.text
 msgid ""
@@ -59336,7 +59336,7 @@ msgstr ""
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_KURT.1.string.text
 msgid "Returns the kurtosis of a distribution."
-msgstr "Aisfhilleann sé curtóis den dáileachán."
+msgstr "Aischuireann sé curtóis den dáileachán."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_KURT.2.string.text
 msgid ""
@@ -59354,7 +59354,7 @@ msgstr ""
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_GEO_MEAN.1.string.text
 msgid "Returns the geometric mean of a sample."
-msgstr "Aisfhilleann sé meántoradh geoiméadrach de shampla."
+msgstr "Aischuireann sé meántoradh geoiméadrach de shampla."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_GEO_MEAN.2.string.text
 msgid ""
@@ -59375,7 +59375,7 @@ msgstr ""
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_HAR_MEAN.1.string.text
 msgid "Returns the harmonic mean of a sample."
-msgstr "Aisfhilleann sé an meán armónach de shampla."
+msgstr "Aischuireann sé an meán armónach de shampla."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_HAR_MEAN.2.string.text
 msgid ""
@@ -59396,7 +59396,7 @@ msgstr ""
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_MODAL_VALUE.1.string.text
 msgid "Returns the most common value in a sample."
-msgstr "Aisfhilleann sé an luach is minice i sampla."
+msgstr "Aischuireann sé an luach is minice i sampla."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_MODAL_VALUE.2.string.text
 msgid ""
@@ -59417,7 +59417,7 @@ msgstr ""
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_MEDIAN.1.string.text
 msgid "Returns the median of a given sample."
-msgstr "Aisfhilleann sé an t-airmheán de shampla."
+msgstr "Aischuireann sé an t-airmheán de shampla."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_MEDIAN.2.string.text
 msgid ""
@@ -59436,7 +59436,7 @@ msgstr ""
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_PERCENTILE.1.string.text
 msgid "Returns the alpha quantile of a sample."
-msgstr "Aisfhilleann sé an cuaintíl alfa de shampla."
+msgstr "Aischuireann sé an cuaintíl alfa de shampla."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_PERCENTILE.2.string.text
 msgid ""
@@ -59465,7 +59465,7 @@ msgstr "An ráta céatadánach den chuaintíl idir 0 agus 1."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_QUARTILE.1.string.text
 msgid "Returns the quartile of a sample."
-msgstr "Aisfhilleann an ceathairíl de shampla."
+msgstr "Aischuireann an ceathairíl de shampla."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_QUARTILE.2.string.text
 msgid ""
@@ -59580,7 +59580,7 @@ msgstr ""
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_RANK.1.string.text
 msgid "Returns the ranking of a value in a sample."
-msgstr "Aisfhilleann sé rangú de luach i sampla."
+msgstr "Aischuireann sé rangú de luach i sampla."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_RANK.2.string.text
 msgid ""
@@ -59763,7 +59763,7 @@ msgstr ""
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_FISHER.1.string.text
 msgid "Returns the Fisher transformation."
-msgstr "Aisfhilleann sé an trasfhoirmiú Fisher."
+msgstr "Aischuireann sé an trasfhoirmiú Fisher."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_FISHER.2.string.text
 msgid ""
@@ -59928,7 +59928,7 @@ msgstr ""
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_POISSON_DIST.1.string.text
 msgid "Returns the Poisson distribution."
-msgstr "Aisfhilleann sé an dáileachán Poisson."
+msgstr "Aischuireann sé an dáileachán Poisson."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_POISSON_DIST.2.string.text
 msgid ""
@@ -60334,7 +60334,7 @@ msgstr "Paraiméadar Béite an dáileacháin Gáma."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_GAMMA_LN.1.string.text
 msgid "Returns the natural logarithm of the gamma function."
-msgstr "Aisfhilleann an logartam aiceanta den fheidhm gháma."
+msgstr "Aischuireann an logartam aiceanta den fheidhm gháma."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_GAMMA_LN.2.string.text
 msgid ""
@@ -60585,7 +60585,7 @@ msgstr "Méid an phobail."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_T_DIST.1.string.text
 msgid "Returns the t-distribution."
-msgstr "Aisfhilleann sé an T-dáileachán."
+msgstr "Aischuireann sé an T-dáileachán."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_T_DIST.2.string.text
 msgid ""
@@ -60649,7 +60649,7 @@ msgstr "Céimeanna saoirse an dáileacháin T."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_F_DIST.1.string.text
 msgid "Values of the F probability distribution."
-msgstr "Aisfhilleann sé an F-dáileachán."
+msgstr "Aischuireann sé an F-dáileachán."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_F_DIST.2.string.text
 msgid ""
@@ -61213,7 +61213,7 @@ msgstr "Eagar na dara taifead."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_CORREL.1.string.text
 msgid "Returns the correlation coefficient."
-msgstr "Aisfhilleann sé an chomhéifeacht chomhghaolaithe."
+msgstr "Aischuireann sé an chomhéifeacht chomhghaolaithe."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_CORREL.2.string.text
 msgid ""
