@@ -1214,7 +1214,7 @@ msgstr "~Scrios"
 
 #: managelang.src#RID_DLG_MANAGE_LANGUAGE.STR_CREATE_LANG.string.text
 msgid "<Press 'Add' to create language resources>"
-msgstr ""
+msgstr "<Brúigh 'Cuir Leis' chun acmhainní nua teanga a chruthú>"
 
 #: managelang.src#RID_DLG_MANAGE_LANGUAGE.modaldialog.text
 msgid "Manage User Interface Languages [$1]"
@@ -1245,7 +1245,7 @@ msgstr ""
 
 #: managelang.src#RID_DLG_SETDEF_LANGUAGE.STR_ADDLANG_TITLE.string.text
 msgid "Add User Interface Languages"
-msgstr ""
+msgstr "Cuir Teangacha Comhéadain Leis"
 
 #: managelang.src#RID_DLG_SETDEF_LANGUAGE.STR_ADDLANG_LABEL.string.text
 msgid "Available Languages"
@@ -3165,7 +3165,7 @@ msgstr "@0.00 $;@(0.00 $)"
 
 #: Strings.src#STR_DLG_CHART_WIZARD.string.text
 msgid "Chart Wizard"
-msgstr ""
+msgstr "Treoraí Cairte"
 
 #: Strings.src#STR_DLG_SMOOTH_LINE_PROPERTIES.string.text
 msgid "Smooth Lines"
@@ -3183,11 +3183,11 @@ msgstr "Raon Sonraí"
 
 #: Strings.src#STR_PAGE_CHART_ELEMENTS.string.text
 msgid "Chart Elements"
-msgstr ""
+msgstr "Eilimintí na Cairte"
 
 #: Strings.src#STR_PAGE_CHART_LOCATION.string.text
 msgid "Chart Location"
-msgstr ""
+msgstr "Suíomh na Cairte"
 
 #: Strings.src#STR_PAGE_LINE.string.text
 msgid ""
@@ -3208,7 +3208,7 @@ msgstr "Imlínte"
 msgid ""
 "_: Strings.src#STR_PAGE_AREA.string.text\n"
 "Area"
-msgstr ""
+msgstr "Limistéar"
 
 #: Strings.src#STR_PAGE_TRANSPARENCY.string.text
 #: strings.src#STR_UNDO_GRAFTRANSPARENCY.string.text
@@ -3476,7 +3476,7 @@ msgstr "Roghnaigh raon sonraí"
 
 #: Strings.src#STR_TIP_CHOOSECOLOR.string.text
 msgid "Select a color using the color dialog"
-msgstr ""
+msgstr "Roghnaigh dath tríd an dialóg dhatha"
 
 #: Strings.src#STR_TIP_LIGHTSOURCE_X.string.text
 msgid "Light Source %LIGHTNUMBER"
@@ -3585,27 +3585,27 @@ msgstr "Y-Luachanna"
 
 #: Strings.src#STR_DATA_ROLE_X_ERROR.string.text
 msgid "X-Error-Bars"
-msgstr ""
+msgstr "Barraí Earráide X"
 
 #: Strings.src#STR_DATA_ROLE_Y_ERROR.string.text
 msgid "Y-Error-Bars"
-msgstr ""
+msgstr "Barraí Earráide Y"
 
 #: Strings.src#STR_DATA_ROLE_FIRST.string.text
 msgid "Open Values"
-msgstr ""
+msgstr "Luachanna Tosaigh"
 
 #: Strings.src#STR_DATA_ROLE_LAST.string.text
 msgid "Close Values"
-msgstr ""
+msgstr "Luachanna Scoir"
 
 #: Strings.src#STR_DATA_ROLE_MIN.string.text
 msgid "Low Values"
-msgstr ""
+msgstr "Luachanna Is Ísle"
 
 #: Strings.src#STR_DATA_ROLE_MAX.string.text
 msgid "High Values"
-msgstr ""
+msgstr "Luachanna Is Airde"
 
 #: Strings.src#STR_DATA_ROLE_CATEGORIES.string.text
 msgid "Categories"
@@ -3621,7 +3621,7 @@ msgstr "Sraith Gan Ainm %NUMBER"
 
 #: Strings.src#STR_DATA_SELECT_RANGE_FOR_SERIES.string.text
 msgid "Choose range for %VALUETYPE of %SERIESNAME"
-msgstr ""
+msgstr "Roghnaigh raon le haghaidh %VALUETYPE de %SERIESNAME"
 
 #: Strings.src#STR_DATA_SELECT_RANGE_FOR_CATEGORIES.string.text
 msgid "Select Range for Categories"
@@ -3731,7 +3731,7 @@ msgstr "Colúin agus Línte"
 
 #: Strings_ChartTypes.src#STR_LINE_STACKEDCOLUMN.string.text
 msgid "Stacked Columns and Lines"
-msgstr ""
+msgstr "Colúin agus Línte Cruachta"
 
 #: Strings_ChartTypes.src#STR_TYPE_NET.string.text
 msgid "Net"
@@ -3771,7 +3771,7 @@ msgstr "Cruachta"
 
 #: Strings_ChartTypes.src#STR_PERCENT.string.text
 msgid "Percent stacked"
-msgstr ""
+msgstr "Céatadán cruachta"
 
 #: Strings_ChartTypes.src#STR_DEEP.string.text
 msgid ""
@@ -4099,7 +4099,7 @@ msgstr "Airíonna..."
 
 #: tp_ChartType.src#TP_CHARTTYPE.CB_XVALUE_SORTING.checkbox.text
 msgid "~Sort by X values"
-msgstr ""
+msgstr "~Sórtáil de réir na luachanna X"
 
 #: tp_ChartType.src#DLG_SPLINE_PROPERTIES.RB_SPLINES_CUBIC.radiobutton.text
 msgid "Cubic spline"
@@ -4132,7 +4132,7 @@ msgstr "Raon~ta sonraí"
 
 #: tp_DataSource.src#TP_DATA_SOURCE.FT_RANGE.fixedtext.text
 msgid "Ran~ge for %VALUETYPE"
-msgstr ""
+msgstr "Rao~n le haghaidh %VALUETYPE"
 
 #: tp_DataSource.src#TP_DATA_SOURCE.FT_CATEGORIES.fixedtext.text
 msgid "~Categories"
@@ -4174,7 +4174,7 @@ msgstr "Ionad"
 
 #: tp_Location.src#TP_LOCATION.FL_TABLE.fixedline.text
 msgid "Place chart"
-msgstr ""
+msgstr "Suigh cairt"
 
 #: tp_Location.src#TP_LOCATION.FT_TABLE.fixedtext.text
 msgid "~Insert in sheet"
@@ -4351,7 +4351,7 @@ msgstr "Tai~speáin deilbhín na heochrach eolais le lipéad"
 
 #: res_LegendPosition_tmpl.hrc#RESOURCE_LEGENDDISPLAY__xpos___ypos__.CBX_SHOWLEGEND.checkbox.text
 msgid "~Display legend"
-msgstr ""
+msgstr "~Taispeáin eochair eolais"
 
 #: res_LegendPosition_tmpl.hrc#RESOURCE_LEGENDPOSITION__xpos___ypos__.RBT_LEFT.radiobutton.text
 #: objdraw.src#MN_TEXT_ATTR.RID_MN_FORMAT_ALGN.SID_ALIGNLEFT.menuitem.text
@@ -4512,6 +4512,7 @@ msgstr ""
 msgid ""
 "The string '$string$' cannot be converted using the encoding '$charset$'."
 msgstr ""
+"Ní féidir teaghrán '$string$' a thiontú go dtí an ionchódú '$charset$'."
 
 #: conn_shared_res.src#STR_URI_SYNTAX_ERROR.string.text
 msgid "The connection URL is invalid."
@@ -5083,7 +5084,7 @@ msgstr "Ní cheadaítear ainm folamh."
 
 #: strings.src#RID_STR_NO_NULL_OBJECTS_IN_CONTAINER.string.text
 msgid "The container cannot contain NULL objects."
-msgstr ""
+msgstr "Ní cheadaítear réada NULL sa choimeádán."
 
 #: strings.src#RID_STR_NAME_ALREADY_USED.string.text
 msgid "There already is an object with the given name."
@@ -5091,7 +5092,7 @@ msgstr "Tá réad ann cheana leis an ainm seo air."
 
 #: strings.src#RID_STR_OBJECT_CONTAINER_MISMATCH.string.text
 msgid "This object cannot be part of this container."
-msgstr ""
+msgstr "Ní cheadaítear an réad seo mar chuid den choimeádán seo."
 
 #: strings.src#RID_STR_OBJECT_ALREADY_CONTAINED.string.text
 msgid "The object already is, with a different name, part of the container."
@@ -46642,11 +46643,11 @@ msgstr "Suiteáil tacaíocht don Ndebele Theas i %PRODUCTNAME %PRODUCTVERSION"
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_SS.LngText.text
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_USER_SWAZI.pairedlist.text
 msgid "Swazi"
-msgstr "Suasalainnis"
+msgstr "Suaisis"
 
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_SS.LngText.text
 msgid "Installs Swazi support in %PRODUCTNAME %PRODUCTVERSION"
-msgstr "Suiteáil tacaíocht don tSuasalainnis i %PRODUCTNAME %PRODUCTVERSION"
+msgstr "Suiteáil tacaíocht don tSuaisis i %PRODUCTNAME %PRODUCTVERSION"
 
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_VE.LngText.text
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_VENDA.pairedlist.text
@@ -51834,7 +51835,7 @@ msgstr "- téigh go dtí an deireadh -"
 
 #: globstr.src#RID_GLOBSTR.STR_BOX_YNI.string.text
 msgid "Not implemented in this build."
-msgstr "níl ar fáil sa chlár seo."
+msgstr "Níl ar fáil sa chlár seo."
 
 #: globstr.src#RID_GLOBSTR.STR_NO_REF_TABLE.string.text
 msgid ""
@@ -53813,7 +53814,7 @@ msgstr "~Cóipeáil"
 #: optdlg.src#RID_SCPAGE_USERLISTS.STR_DISMISS.string.text
 #: doc.src#STR_NOSAVEANDCLOSE.string.text
 msgid "~Discard"
-msgstr "Cuir i ~Leataobh"
+msgstr "~Ná Sábháil"
 
 #: optdlg.src#RID_SCPAGE_USERLISTS.STR_QUERYREMOVE.string.text
 msgid ""
@@ -55367,7 +55368,7 @@ msgstr "soicind"
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_GET_TIME.7.string.text
 msgid "The integer for the second."
-msgstr "Slánuimhir le haghaidh na soicinde."
+msgstr "Slánuimhir le haghaidh an tsoicind."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_GET_TIME_VALUE.1.string.text
 msgid ""
@@ -61671,7 +61672,7 @@ msgstr ""
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_UPPER.1.string.text
 msgid "Converts text to uppercase."
-msgstr ""
+msgstr "Tiontaigh téacs go dtí an cás uachtair."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_UPPER.2.string.text
 msgid ""
@@ -76811,7 +76812,7 @@ msgstr "Taispeáin an t-ainm fada i gcónaí"
 
 #: testtool.src#DisplayHidToolBox.toolbox.text
 msgid "DisplayHID"
-msgstr ""
+msgstr "DisplayHID"
 
 #: testtool.src#TT_INLINE_TRANSLATION.TT_GB_TRANSLATION.groupbox.text
 msgid "Translation"
@@ -76859,7 +76860,7 @@ msgstr "Cláraigh anois"
 
 #: registrationdlg.src#DLG_REGISTRATION_REQUEST.RB_LATER.radiobutton.text
 msgid "Remind me to register later"
-msgstr ""
+msgstr "Cuir i gcuimhne dom clárú níos déanaí"
 
 #: registrationdlg.src#DLG_REGISTRATION_REQUEST.RB_NEVER.radiobutton.text
 msgid "Never register"
@@ -79667,19 +79668,19 @@ msgstr "Spásáil na línte"
 
 #: connect.src#RID_SVXPAGE_CONNECTION.FT_HORZ_1.fixedtext.text
 msgid "~Begin horizontal"
-msgstr ""
+msgstr "~Tosaigh cothrománach"
 
 #: connect.src#RID_SVXPAGE_CONNECTION.FT_HORZ_2.fixedtext.text
 msgid "End ~horizontal"
-msgstr ""
+msgstr "Críochnaigh ~cothrománach"
 
 #: connect.src#RID_SVXPAGE_CONNECTION.FT_VERT_1.fixedtext.text
 msgid "Begin ~vertical"
-msgstr ""
+msgstr "Tosaigh ~ingearach"
 
 #: connect.src#RID_SVXPAGE_CONNECTION.FT_VERT_2.fixedtext.text
 msgid "~End vertical"
-msgstr ""
+msgstr "~Críochnaigh ingearach"
 
 #: connect.src#RID_SVXPAGE_CONNECTION.CTL_PREVIEW.control.text
 msgid ""
@@ -82806,7 +82807,7 @@ msgstr "Amáiris"
 
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_KIRGHIZ.pairedlist.text
 msgid "Kirghiz"
-msgstr "Cirgeastáinis"
+msgstr "Cirgisis"
 
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_USER_GERMAN_BELGIUM.pairedlist.text
 msgid "German (Belgium)"
@@ -82814,11 +82815,11 @@ msgstr "Gearmáinis (An Bheilg)"
 
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_USER_CHUVASH.pairedlist.text
 msgid "Chuvash"
-msgstr "Suvais"
+msgstr "Suvaisis"
 
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_BURMESE.pairedlist.text
 msgid "Burmese"
-msgstr ""
+msgstr "Maenmarais"
 
 #: language.src#RID_SVXSTR_LANGUAGE_ALL.string.text
 msgid "[All]"
@@ -82857,7 +82858,7 @@ msgstr ""
 
 #: lingu.src#RID_SVXSTR_HMSTATUS_OK.string.text
 msgid "The word is spelled correctly"
-msgstr ""
+msgstr "Tá an litriú mar is ceart"
 
 #: lingu.src#RID_SVXSTR_HMSTATUS_DONTUSE.string.text
 msgid "Avoid using this word"
@@ -83827,7 +83828,7 @@ msgstr "Criostal"
 
 #: optgdlg.src#OFA_TP_VIEW.LB_ICONSTYLE.6.stringlist.text
 msgid "Tango"
-msgstr ""
+msgstr "Tangó"
 
 #: optgdlg.src#OFA_TP_VIEW.CB_SYSTEM_FONT.checkbox.text
 msgid "Use system ~font for user interface"
@@ -84262,7 +84263,7 @@ msgstr "Gach ~Mí"
 
 #: optupdt.src#RID_SVXPAGE_ONLINEUPDATE.FT_LASTCHECKED.fixedtext.text
 msgid "Last checked: %DATE%, %TIME%"
-msgstr ""
+msgstr "Seiceáilte: %DATE%, %TIME%"
 
 #: optupdt.src#RID_SVXPAGE_ONLINEUPDATE.PB_CHECKNOW.pushbutton.text
 msgid "Check ~now"
@@ -94311,7 +94312,7 @@ msgstr "Eaga~r..."
 
 #: optlingu.src#RID_SFXPAGE_LINGU.STR_CAPITAL_WORDS.string.text
 msgid "Check uppercase words"
-msgstr "Seiceáil focail atá sa chás uachtar"
+msgstr "Seiceáil focail atá sa chás uachtair"
 
 #: optlingu.src#RID_SFXPAGE_LINGU.STR_WORDS_WITH_DIGITS.string.text
 msgid "Check words with numbers "
@@ -109239,7 +109240,7 @@ msgstr "Níl imleabhar $(ARG1) ullamh."
 
 #: ids.src#RID_UUI_ERRHDL._ERRCODE_UUI_IO_NOTREADY_REMOVABLE___ERRCODE_RES_MASK_.string.text
 msgid "$(ARG1) is not ready; please insert a storage medium."
-msgstr "Ní $(ARG1) ullamh; ionsáigh meán stórála le do thoil."
+msgstr "Níl $(ARG1) ullamh; ionsáigh meán stórála le do thoil."
 
 #: ids.src#RID_UUI_ERRHDL._ERRCODE_UUI_IO_NOTREADY_VOLUME_REMOVABLE___ERRCODE_RES_MASK_.string.text
 msgid "Volume $(ARG1) is not ready; please insert a storage medium."
