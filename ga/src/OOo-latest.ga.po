@@ -4572,11 +4572,10 @@ msgid "Show ~bars side by side"
 msgstr ""
 
 #: tp_TitleRotation.src#TP_ALIGNMENT.BTN_TXTSTACKED.tristatebox.text
-#, fuzzy
 msgid ""
 "_: tp_TitleRotation.src#TP_ALIGNMENT.BTN_TXTSTACKED.tristatebox.text\n"
 "Ve~rtically stacked"
-msgstr "~Céimeanna"
+msgstr "C~ruachta go hingearach"
 
 #: tp_TitleRotation.src#TP_ALIGNMENT.FT_DEGREES.fixedtext.text
 msgid ""
@@ -9402,11 +9401,10 @@ msgid "~Update..."
 msgstr "N~uashonraigh..."
 
 #: dp_gui_dialog.src#RID_CTX_ITEM_OPTIONS.string.text
-#, fuzzy
 msgid ""
 "_: dp_gui_dialog.src#RID_CTX_ITEM_OPTIONS.string.text\n"
 "~Options..."
-msgstr "Ea~spórtáil..."
+msgstr "R~oghanna..."
 
 #: dp_gui_dialog.src#RID_STR_EXPORT_PACKAGE.string.text
 msgid "Export Extension"
@@ -13110,11 +13108,10 @@ msgid "Click here to start the download."
 msgstr "Cliceáil anseo chun an t-íosluchtú a thosú."
 
 #: updatehdl.src#RID_UPDATE_BUBBLE_T_UPDATE_NO_DOWN.string.text
-#, fuzzy
 msgid ""
 "_: updatehdl.src#RID_UPDATE_BUBBLE_T_UPDATE_NO_DOWN.string.text\n"
 "%PRODUCTNAME update available"
-msgstr "%PRODUCTNAME Calc"
+msgstr "Nuashonrú %PRODUCTNAME le fáil"
 
 #: updatehdl.src#RID_UPDATE_BUBBLE_UPDATE_NO_DOWN.string.text
 msgid ""
@@ -13123,11 +13120,10 @@ msgid ""
 msgstr ""
 
 #: updatehdl.src#RID_UPDATE_BUBBLE_T_AUTO_START.string.text
-#, fuzzy
 msgid ""
 "_: updatehdl.src#RID_UPDATE_BUBBLE_T_AUTO_START.string.text\n"
 "%PRODUCTNAME update available"
-msgstr "%PRODUCTNAME Calc"
+msgstr "Nuashonrú %PRODUCTNAME le fáil"
 
 #: updatehdl.src#RID_UPDATE_BUBBLE_AUTO_START.string.text
 msgid "Download of update begins."
@@ -18742,13 +18738,12 @@ msgid "Installation Failed"
 msgstr ""
 
 #: setupstrings.ulf#STRING_INSTALLATIONCOMPLETED2.LngText.text
-#, fuzzy
 msgid ""
 "The Installation Wizard has successfully installed ${PRODUCT_FULLNAME} on "
 "your computer."
 msgstr ""
-"D'éirigh leis an Treoraí Suiteála [ProductName] a shuiteáil. Cliceáil "
-"Críochnaigh chun an treoraí a scor."
+"D'éirigh leis an Treoraí Suiteála ${PRODUCT_FULLNAME} a shuiteáil ar do "
+"ríomhaire."
 
 #: setupstrings.ulf#STRING_INSTALLATIONCOMPLETED2_ABORT.LngText.text
 msgid ""
@@ -18764,9 +18759,8 @@ msgid ""
 msgstr ""
 
 #: setupstrings.ulf#STRING_INSTALLATIONCOMPLETED3.LngText.text
-#, fuzzy
 msgid "Click 'Finish' to exit the Wizard."
-msgstr "Cliceáil 'Críochnaigh' chun an bunachar sonraí a shábháil."
+msgstr "Cliceáil 'Críochnaigh' chun an treoraí a scor."
 
 #: setupstrings.ulf#STRING_INSTALLATIONCOMPLETED_BUTTON.LngText.text
 msgid "Details..."
@@ -19080,15 +19074,13 @@ msgid ""
 msgstr ""
 
 #: setupstrings.ulf#STRING_PACKAGEFORMAT_NOT_SUPPORTED.LngText.text
-#, fuzzy
 msgid ""
 "This package format is currently not supported for your operating system!"
-msgstr "Ní thacaítear leis an oibríocht seo ar an gcóras seo."
+msgstr ""
 
 #: setupstrings.ulf#STRING_OPERATING_SYSTEM.LngText.text
-#, fuzzy
 msgid "Operating system"
-msgstr "Oibríochtaí"
+msgstr "Córas oibrithe"
 
 #: setupstrings.ulf#STRING_PACKAGEFORMAT.LngText.text
 msgid "Package format"
@@ -30000,12 +29992,11 @@ msgid ""
 msgstr "Stíl~eanna"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Popups..uno_SnapLinesMenu.Label.value.text
-#, fuzzy
 msgid ""
 "_: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Popups.."
 "uno_SnapLinesMenu.Label.value.text\n"
 "~Guides"
-msgstr "Seo~l"
+msgstr ""
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Popups..uno_MasterPageMenu.Label.value.text
 msgid ""
@@ -36281,90 +36272,75 @@ msgid "Spreadsheet Document"
 msgstr "Cáipéis Scarbhileoige"
 
 #: ReportCommands.xcu#..ReportCommands.UserInterface.Commands..uno_ReportNavigator.Label.value.text
-#, fuzzy
 msgid "Report Navigator"
-msgstr "Nascleantóir Sonraí"
+msgstr "Nascleantóir Tuairisce"
 
 #: ReportCommands.xcu#..ReportCommands.UserInterface.Commands..uno_SmallestWidth.Label.value.text
-#, fuzzy
 msgid "Fit to smallest width"
-msgstr "~Oiriúnaigh do leithead na líne"
+msgstr "Oiriúnaigh don leithead is lú"
 
 #: ReportCommands.xcu#..ReportCommands.UserInterface.Commands..uno_SmallestHeight.Label.value.text
-#, fuzzy
 msgid "Fit to smallest height"
-msgstr "Uathoiriúnaigh airde an fhráma"
+msgstr "Oiriúnaigh don airde is lú"
 
 #: ReportCommands.xcu#..ReportCommands.UserInterface.Commands..uno_GreatestWidth.Label.value.text
-#, fuzzy
 msgid "Fit to greatest width"
-msgstr "~Oiriúnaigh do leithead na líne"
+msgstr "Oiriúnaigh don leithead is mó"
 
 #: ReportCommands.xcu#..ReportCommands.UserInterface.Commands..uno_GreatestHeight.Label.value.text
-#, fuzzy
 msgid "Fit to greatest height"
-msgstr "Uathoiriúnaigh airde an fhráma"
+msgstr "Oiriúnaigh don airde is mó"
 
 #: ReportCommands.xcu#..ReportCommands.UserInterface.Commands..uno_ControlProperties.Label.value.text
-#, fuzzy
 msgid ""
 "_: ReportCommands.xcu#..ReportCommands.UserInterface.Commands.."
 "uno_ControlProperties.Label.value.text\n"
 "Properties"
-msgstr "A~iríonna..."
+msgstr "Airíonna"
 
 #: ReportCommands.xcu#..ReportCommands.UserInterface.Commands..uno_Distribution.Label.value.text
 #: report.src#RID_MENU_REPORT.SID_DISTRIBUTION.menuitem.text
-#, fuzzy
 msgid "Distribution..."
-msgstr "~Dáileadh..."
+msgstr "Dáileadh..."
 
 #: ReportCommands.xcu#..ReportCommands.UserInterface.Commands..uno_SelectAllInSection.Label.value.text
-#, fuzzy
 msgid "~Select Objects in Section"
-msgstr "Rannán roghnaithe"
+msgstr ""
 
 #: ReportCommands.xcu#..ReportCommands.UserInterface.Commands..uno_SectionAlignLeft.Label.value.text
-#, fuzzy
 msgid "Left Align on Section"
-msgstr "Ailínigh Ar Ch~lé"
+msgstr ""
 
 #: ReportCommands.xcu#..ReportCommands.UserInterface.Commands..uno_SectionAlignRight.Label.value.text
-#, fuzzy
 msgid "Right Align on Section"
-msgstr "Ailínigh a~r dheis"
+msgstr ""
 
 #: ReportCommands.xcu#..ReportCommands.UserInterface.Commands..uno_SectionAlignTop.Label.value.text
-#, fuzzy
 msgid "Top Align on Section"
-msgstr "Go dtí an Rannán Roimhe Seo"
+msgstr ""
 
 #: ReportCommands.xcu#..ReportCommands.UserInterface.Commands..uno_SectionAlignBottom.Label.value.text
 msgid "Bottom Align on Section"
 msgstr ""
 
 #: ReportCommands.xcu#..ReportCommands.UserInterface.Commands..uno_SectionAlignCenter.Label.value.text
-#, fuzzy
 msgid "Centered on Section"
-msgstr "Rannán Reatha"
+msgstr ""
 
 #: ReportCommands.xcu#..ReportCommands.UserInterface.Commands..uno_SectionAlignMiddle.Label.value.text
-#, fuzzy
 msgid "Middle on Section"
-msgstr "Roghnú Comhaid"
+msgstr ""
 
 #: ReportCommands.xcu#..ReportCommands.UserInterface.Popups..uno_ExportReportTo.Label.value.text
-#, fuzzy
 msgid "Report Output Format"
-msgstr "Formáid na Rónna"
+msgstr ""
 
 #: ReportCommands.xcu#..ReportCommands.UserInterface.Popups..uno_SnapLinesMenu.Label.value.text
-#, fuzzy
 msgid ""
 "_: ReportCommands.xcu#..ReportCommands.UserInterface.Popups.."
 "uno_SnapLinesMenu.Label.value.text\n"
 "~Guides"
-msgstr "Stíl~eanna"
+msgstr ""
 
 #: ReportCommands.xcu#..ReportCommands.UserInterface.Popups..uno_ObjectResize.Label.value.text
 msgid ""
@@ -36374,12 +36350,11 @@ msgid ""
 msgstr ""
 
 #: ReportCommands.xcu#..ReportCommands.UserInterface.Popups..uno_ArrangeMenu.Label.value.text
-#, fuzzy
 msgid ""
 "_: ReportCommands.xcu#..ReportCommands.UserInterface.Popups..uno_ArrangeMenu."
 "Label.value.text\n"
 "A~rrange"
-msgstr "Teanga"
+msgstr "~Leag Amach"
 
 #: StartModuleCommands.xcu#..StartModuleCommands.UserInterface.Commands..uno_AddDirect.Label.value.text
 msgid ""
@@ -37289,12 +37264,11 @@ msgid "Background"
 msgstr "Cúlra"
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_PageDialog.Label.value.text
-#, fuzzy
 msgid ""
 "_: WriterCommands.xcu#..WriterCommands.UserInterface.Commands.."
 "uno_PageDialog.Label.value.text\n"
 "Page Settings"
-msgstr "Uimhir Leathanaigh"
+msgstr "Socruithe Leathanaigh"
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_PageDialog.ContextLabel.value.text
 msgid ""
@@ -41045,9 +41019,8 @@ msgid ""
 msgstr ""
 
 #: readme.xrm#ooo_readme.Welcome.A11.b.readmeitem.text
-#, fuzzy
 msgid "http://www.openoffice.org/license.html "
-msgstr "http://www.openoffice.org/welcome/readme.html"
+msgstr "http://www.openoffice.org/license.html "
 
 #: readme.xrm#ooo_readme.Error.B1.sdfsd432re342r.readmeitem.text
 msgid "Error Report Tool"
@@ -41234,9 +41207,8 @@ msgid "System Requirements:"
 msgstr "Riachtanais Chórais:"
 
 #: readme.xrm#ooo_readme.Installation.WNT2.a.readmeitem.text
-#, fuzzy
 msgid "Microsoft Windows 98, ME, 2000, XP or Vista"
-msgstr "Microsoft Windows 98, ME, 2000 nó XP"
+msgstr "Microsoft Windows 98, ME, 2000, XP nó Vista"
 
 #: readme.xrm#ooo_readme.Installation.WNT2.utzu6.readmeitem.text
 msgid ""
@@ -41251,13 +41223,13 @@ msgid ""
 msgstr "128 MB RAM (256 MB RAM molta)"
 
 #: readme.xrm#ooo_readme.Installation.WNT2.jzjtzu6.readmeitem.text
-#, fuzzy
 msgid ""
 "650 MB including Sun JRE (Chinese, Japanese, and Korean versions: 700 MB, "
 "multi-language version: 750 MB) available hard disk space during installation"
 msgstr ""
-"400 MB (Leaganacha Sínise, Seapáinise, agus Cóiréise: 600 MB, leagan il-"
-"teanga: 950 MB) spás inúsáidte ar an diosca crua"
+"650 MB le JRE Sun san áireamh (Leaganacha Sínise, Seapáinise, agus Cóiréise: "
+"700 MB, leagan il-teanga: 750 MB) spás inúsáidte ar an diosca crua le linn "
+"suiteála"
 
 #: readme.xrm#ooo_readme.Installation.WNT2.jzjtzu7.readmeitem.text
 msgid ""
@@ -41461,22 +41433,20 @@ msgid ""
 msgstr ""
 
 #: readme.xrm#ooo_readme.Installation.MacX_PPC.macxHardDiksSpace.readmeitem.text
-#, fuzzy
 msgid ""
 "_: readme.xrm#ooo_readme.Installation.MacX_PPC.macxHardDiksSpace.readmeitem."
 "text\n"
 "500 MB (Chinese, Japanese and Korean versions: 600 MB, multi-language "
 "version: 800 MB) available hard disk space"
 msgstr ""
-"400 MB (Leaganacha Sínise, Seapáinise, agus Cóiréise: 550 MB, leagan il-"
-"teanga: 900 MB) spás inúsáidte ar an diosca crua"
+"500 MB (Leaganacha Sínise, Seapáinise, agus Cóiréise: 600 MB, leagan il-"
+"teanga: 800 MB) spás inúsáidte ar an diosca crua"
 
 #: readme.xrm#ooo_readme.Installation.MacX_PPC.macxpghjhhr.readmeitem.text
-#, fuzzy
 msgid ""
 "_: readme.xrm#ooo_readme.Installation.MacX_PPC.macxpghjhhr.readmeitem.text\n"
 "Apples X11 must be installed"
-msgstr "G3 comhoiriúnach le PowerPC"
+msgstr ""
 
 #: readme.xrm#ooo_readme.Installation.MacX_PPC.macxpfhrtz5.readmeitem.text
 msgid ""
@@ -41489,28 +41459,25 @@ msgid "OpenOffice.org will run on all Intel-based Macs"
 msgstr ""
 
 #: readme.xrm#ooo_readme.Installation.MacX_INTEL.macxHardDiksSpace.readmeitem.text
-#, fuzzy
 msgid ""
 "_: readme.xrm#ooo_readme.Installation.MacX_INTEL.macxHardDiksSpace."
 "readmeitem.text\n"
 "500 MB (Chinese, Japanese and Korean versions: 600 MB, multi-language "
 "version: 800 MB) available hard disk space"
 msgstr ""
-"400 MB (Leaganacha Sínise, Seapáinise, agus Cóiréise: 550 MB, leagan il-"
-"teanga: 900 MB) spás inúsáidte ar an diosca crua"
+"500 MB (Leaganacha Sínise, Seapáinise, agus Cóiréise: 600 MB, leagan il-"
+"teanga: 800 MB) spás inúsáidte ar an diosca crua"
 
 #: readme.xrm#ooo_readme.Installation.MacX_INTEL.macxighjhhr.readmeitem.text
-#, fuzzy
 msgid ""
 "_: readme.xrm#ooo_readme.Installation.MacX_INTEL.macxighjhhr.readmeitem."
 "text\n"
 "Apples X11 must be installed"
-msgstr "G3 comhoiriúnach le PowerPC"
+msgstr ""
 
 #: readme.xrm#ooo_readme.Installation.StartupProblemsHeader.naso.readmeitem.text
-#, fuzzy
 msgid "Problems During Program Startup"
-msgstr "Fadhbanna le linn Tosú an Chláir ar Gnome"
+msgstr "Fadhbanna le linn Tosú an Chláir"
 
 #: readme.xrm#ooo_readme.Installation.StartupProblemsMac.MissingX11.readmeitem.text
 msgid ""
@@ -41523,9 +41490,8 @@ msgid "Please refer to the MAC Porting FAQ "
 msgstr ""
 
 #: readme.xrm#ooo_readme.Installation.StartupProblemsMac.MacPortingFAQLink.readmeitem.text
-#, fuzzy
 msgid "http://porting.openoffice.org/mac/faq/index.html"
-msgstr "http://projects.openoffice.org/index.html"
+msgstr "http://porting.openoffice.org/mac/faq/index.html"
 
 #: readme.xrm#ooo_readme.Installation.GnomeStartupProblems.naso2.readmeitem.text
 msgid ""
@@ -41542,7 +41508,6 @@ msgstr ""
 "blaoisce soffice atá sa chomhadlann \"[fillteán OpenOffice]/program\"."
 
 #: readme.xrm#ooo_readme.Installation.GraphicsCardDriverWIN.abcdef.readmeitem.text
-#, fuzzy
 msgid ""
 "_: readme.xrm#ooo_readme.Installation.GraphicsCardDriverWIN.abcdef."
 "readmeitem.text\n"
@@ -41560,10 +41525,9 @@ msgstr ""
 "tiománaí do chárta ghrafaice nó bain triail as an tiománaí atá mar chuid de "
 "do chóras oibriúcháin. Go minic is féidir fadhbanna i dtaispeáint réada 3T a "
 "réiteach trín rogha \"Úsáid OpenGL\" a dhíchumasú in 'Uirlisí - Roghanna - "
-"Amharc - Amharc 3T'."
+"${PRODUCTNAME} - Amharc - Amharc 3T'."
 
 #: readme.xrm#ooo_readme.Installation.GraphicsCardDriver.abcdef.readmeitem.text
-#, fuzzy
 msgid ""
 "_: readme.xrm#ooo_readme.Installation.GraphicsCardDriver.abcdef.readmeitem."
 "text\n"
@@ -41581,7 +41545,7 @@ msgstr ""
 "tiománaí do chárta ghrafaice nó bain triail as an tiománaí atá mar chuid de "
 "do chóras oibriúcháin. Go minic is féidir fadhbanna i dtaispeáint réada 3T a "
 "réiteach trín rogha \"Úsáid OpenGL\" a dhíchumasú in 'Uirlisí - Roghanna - "
-"Amharc - Amharc 3T'."
+"${PRODUCTNAME} - Amharc - Amharc 3T'."
 
 #: readme.xrm#ooo_readme.Installation.PatchSolaris.ghtz5.readmeitem.text
 msgid ""
@@ -42051,7 +42015,6 @@ msgid "http://development.openoffice.org/todo.html"
 msgstr "http://development.openoffice.org/todo.html"
 
 #: readme.xrm#ooo_readme.GettingInvolved.emptyparagraph.A5.c.readmeitem.text
-#, fuzzy
 msgid ""
 "_: readme.xrm#ooo_readme.GettingInvolved.emptyparagraph.A5.c.readmeitem."
 "text\n"
@@ -42069,7 +42032,6 @@ msgstr ""
 "Seo roinnt de liostaí ríomhphoist an tionscadail ar féidir leat clárú leo ag "
 
 #: readme.xrm#ooo_readme.GettingInvolved.emptyparagraph.A7.b.readmeitem.text
-#, fuzzy
 msgid ""
 "_: readme.xrm#ooo_readme.GettingInvolved.emptyparagraph.A7.b.readmeitem."
 "text\n"
@@ -42175,9 +42137,8 @@ msgstr ""
 "${PRODUCTNAME} ${PRODUCTVERSION} agus go mbeidh tú linn ar líne."
 
 #: readme.xrm#ooo_readme.Credits.emptyparagraph.A2.a.readmeitem.text
-#, fuzzy
 msgid "The OpenOffice.org Community"
-msgstr "OpenOffice.org"
+msgstr "Comhphobal OpenOffice.org"
 
 #: readme.xrm#ooo_readme.ModifiedSourceCode.HH1.sdffd23r3cefwefew.readmeitem.text
 msgid "Used / Modified Source Code"
@@ -42192,9 +42153,8 @@ msgstr ""
 "Netscape Communications Corporation."
 
 #: strings.src#RID_STR_PROPERTY_CHANGE_NOT_ALLOWED.string.text
-#, fuzzy
 msgid "The name '#1' already exists and can not be asssigned again."
-msgstr "Tá an t-ainm '%1' ann cheana. Iontráil ainm nua le do thoil."
+msgstr ""
 
 #: strings.src#RID_STR_ERROR_WRONG_ARGUMENT.string.text
 msgid ""
@@ -42203,34 +42163,28 @@ msgid ""
 msgstr ""
 
 #: strings.src#RID_STR_ARGUMENT_IS_NULL.string.text
-#, fuzzy
 msgid "The element is invalid."
-msgstr "Níl an colún bailí."
+msgstr "Eilimint neamhbhailí."
 
 #: strings.src#RID_STR_FORMATTEDFIELD.string.text
-#, fuzzy
 msgid "Formatted field"
-msgstr "Réimse Formáidithe"
+msgstr "Réimse formáidithe"
 
 #: strings.src#RID_STR_IMAGECONTROL.string.text
-#, fuzzy
 msgid "Image control"
-msgstr "Rialtán Íomhá"
+msgstr "Rialtán íomhá"
 
 #: strings.src#RID_STR_FIXEDLINE.string.text
-#, fuzzy
 msgid "Fixed line"
-msgstr "Línte greille"
+msgstr ""
 
 #: CondFormat.src#WIN_CONDITION.LB_COND_TYPE.1.stringlist.text
-#, fuzzy
 msgid "Field Value Is"
-msgstr "Luachanna Réimse"
+msgstr "Luach an Réimse"
 
 #: CondFormat.src#WIN_CONDITION.LB_COND_TYPE.2.stringlist.text
-#, fuzzy
 msgid "Expression Is"
-msgstr "Comhbhrú"
+msgstr ""
 
 #: CondFormat.src#WIN_CONDITION.LB_OP.1.stringlist.text
 #: validate.src#TP_VALIDATION_VALUES.LB_VALUE.7.stringlist.text
@@ -42244,9 +42198,8 @@ msgid "not between"
 msgstr "nach idir"
 
 #: CondFormat.src#WIN_CONDITION.LB_OP.3.stringlist.text
-#, fuzzy
 msgid "equal to"
-msgstr "cothrom le "
+msgstr "cothrom le"
 
 #: CondFormat.src#WIN_CONDITION.LB_OP.4.stringlist.text
 #: ctredlin.src#SID_REDLIN_FILTER_PAGE.LB_DATE.4.stringlist.text
@@ -42269,7 +42222,6 @@ msgid "greater than or equal to"
 msgstr "níos mó ná, nó cothrom le"
 
 #: CondFormat.src#WIN_CONDITION.LB_OP.8.stringlist.text
-#, fuzzy
 msgid "less than or equal to"
 msgstr "níos lú ná, nó cothrom le"
 
@@ -42288,11 +42240,10 @@ msgid "Example"
 msgstr "Sampla"
 
 #: CondFormat.src#RID_CONDFORMAT.PB_HELP.helpbutton.text
-#, fuzzy
 msgid ""
 "_: CondFormat.src#RID_CONDFORMAT.PB_HELP.helpbutton.text\n"
 "~Help"
-msgstr "-"
+msgstr "Cab~hair"
 
 #: CondFormat.src#RID_CONDFORMAT.modaldialog.text
 #: report.src#RID_STR_UNDO_CONDITIONAL_FORMATTING.string.text
@@ -42301,9 +42252,8 @@ msgid "Conditional Formatting"
 msgstr "Formáidiú Coinníollach"
 
 #: CondFormat.src#STR_NUMBERED_CONDITION.string.text
-#, fuzzy
 msgid "Condition $number$"
-msgstr "EditionNumber"
+msgstr ""
 
 #: CondFormat.src#STR_COLOR_WHITE.string.text
 #: strings.src#STR_WHITE.string.text sdstring.src#RID_SVXSTR_WHITE.string.text
@@ -42320,7 +42270,6 @@ msgid "Font color"
 msgstr "Dath cló"
 
 #: CondFormat.src#STR_CHARBACKGROUND.string.text
-#, fuzzy
 msgid ""
 "_: CondFormat.src#STR_CHARBACKGROUND.string.text\n"
 "Background"
@@ -42332,52 +42281,44 @@ msgid "No Fill"
 msgstr "Gan Líonadh"
 
 #: DateTime.src#RID_DATETIME_DLG.CB_DATE.checkbox.text
-#, fuzzy
 msgid "Include Date"
-msgstr "Cuir ar an leathanach"
+msgstr "Cuir Dáta San Áireamh"
 
 #: DateTime.src#RID_DATETIME_DLG.CB_TIME.checkbox.text
-#, fuzzy
 msgid "Include Time"
-msgstr "Cuir san áireamh"
+msgstr "Cuir an tAm San Áireamh"
 
 #: DateTime.src#RID_DATETIME_DLG.PB_HELP.helpbutton.text
-#, fuzzy
 msgid ""
 "_: DateTime.src#RID_DATETIME_DLG.PB_HELP.helpbutton.text\n"
 "~Help"
-msgstr "~Tá"
+msgstr "Cab~hair"
 
 #: dlgpage.src#RID_PAGEDIALOG_PAGE.1.RID_SVXPAGE_PAGE.pageitem.text
-#, fuzzy
 msgid ""
 "_: dlgpage.src#RID_PAGEDIALOG_PAGE.1.RID_SVXPAGE_PAGE.pageitem.text\n"
 "Page"
-msgstr "Méid"
+msgstr "Leathanach"
 
 #: dlgpage.src#RID_PAGEDIALOG_PAGE.1.RID_SVXPAGE_BACKGROUND.pageitem.text
-#, fuzzy
 msgid ""
 "_: dlgpage.src#RID_PAGEDIALOG_PAGE.1.RID_SVXPAGE_BACKGROUND.pageitem.text\n"
 "Background"
 msgstr "Cúlra"
 
 #: dlgpage.src#RID_PAGEDIALOG_PAGE.1.pushbutton.text
-#, fuzzy
 msgid ""
 "_: dlgpage.src#RID_PAGEDIALOG_PAGE.1.pushbutton.text\n"
 "Return"
 msgstr "Fill"
 
 #: dlgpage.src#RID_PAGEDIALOG_PAGE.1.string.text
-#, fuzzy
 msgid ""
 "_: dlgpage.src#RID_PAGEDIALOG_PAGE.1.string.text\n"
 "Page"
-msgstr "Spásáil"
+msgstr "Leathanach"
 
 #: dlgpage.src#RID_PAGEDIALOG_PAGE.2.string.text
-#, fuzzy
 msgid ""
 "_: dlgpage.src#RID_PAGEDIALOG_PAGE.2.string.text\n"
 "Background"
@@ -42389,26 +42330,22 @@ msgid "Page Setup"
 msgstr "Socrú Leathanaigh"
 
 #: dlgpage.src#RID_PAGEDIALOG_BACKGROUND.1.pushbutton.text
-#, fuzzy
 msgid ""
 "_: dlgpage.src#RID_PAGEDIALOG_BACKGROUND.1.pushbutton.text\n"
 "Return"
 msgstr "Fill"
 
 #: dlgpage.src#RID_PAGEDIALOG_BACKGROUND.1.string.text
-#, fuzzy
 msgid ""
 "_: dlgpage.src#RID_PAGEDIALOG_BACKGROUND.1.string.text\n"
 "Background"
 msgstr "Cúlra"
 
 #: dlgpage.src#RID_PAGEDIALOG_BACKGROUND.tabdialog.text
-#, fuzzy
 msgid "Section Setup"
-msgstr "Rannán"
+msgstr ""
 
 #: dlgpage.src#RID_PAGEDIALOG_CHAR.1.RID_PAGE_POSITION.pageitem.text
-#, fuzzy
 msgid ""
 "_: dlgpage.src#RID_PAGEDIALOG_CHAR.1.RID_PAGE_POSITION.pageitem.text\n"
 "Position"
@@ -42420,26 +42357,22 @@ msgid "Asian Layout"
 msgstr "Leagan Amach Áiseach"
 
 #: dlgpage.src#RID_PAGEDIALOG_CHAR.1.RID_PAGE_BACKGROUND.pageitem.text
-#, fuzzy
 msgid ""
 "_: dlgpage.src#RID_PAGEDIALOG_CHAR.1.RID_PAGE_BACKGROUND.pageitem.text\n"
 "Background"
 msgstr "Cúlra"
 
 #: dlgpage.src#RID_PAGEDIALOG_CHAR.1.pushbutton.text
-#, fuzzy
 msgid ""
 "_: dlgpage.src#RID_PAGEDIALOG_CHAR.1.pushbutton.text\n"
 "Return"
 msgstr "Fill"
 
 #: dlgpage.src#RID_PAGEDIALOG_CHAR.tabdialog.text
-#, fuzzy
 msgid "Character Settings"
-msgstr "Tacar carachtar"
+msgstr "Socruithe Carachtar"
 
 #: dlgpage.src#RID_PAGEDIALOG_LINE.1.RID_SVXPAGE_LINE.pageitem.text
-#, fuzzy
 msgid ""
 "_: dlgpage.src#RID_PAGEDIALOG_LINE.1.RID_SVXPAGE_LINE.pageitem.text\n"
 "Line"
@@ -42456,37 +42389,32 @@ msgid "Arrow Styles"
 msgstr "Stíleanna Saighde"
 
 #: dlgpage.src#RID_PAGEDIALOG_LINE.1.pushbutton.text
-#, fuzzy
 msgid ""
 "_: dlgpage.src#RID_PAGEDIALOG_LINE.1.pushbutton.text\n"
 "Return"
 msgstr "Fill"
 
 #: dlgpage.src#RID_PAGEDIALOG_LINE.1.string.text
-#, fuzzy
 msgid ""
 "_: dlgpage.src#RID_PAGEDIALOG_LINE.1.string.text\n"
 "Line"
 msgstr "Líne"
 
 #: dlgpage.src#RID_PAGEDIALOG_LINE.tabdialog.text
-#, fuzzy
 msgid ""
 "_: dlgpage.src#RID_PAGEDIALOG_LINE.tabdialog.text\n"
 "Line"
 msgstr "Líne"
 
 #: GroupsSorting.src#RID_GROUPS_SORTING.FL_SEPARATOR2.fixedline.text
-#, fuzzy
 msgid ""
 "_: GroupsSorting.src#RID_GROUPS_SORTING.FL_SEPARATOR2.fixedline.text\n"
 "Groups"
-msgstr "Deighilteoir"
+msgstr "Grúpaí"
 
 #: GroupsSorting.src#RID_GROUPS_SORTING.FT_MOVELABEL.fixedtext.text
-#, fuzzy
 msgid "Move group"
-msgstr "Bog suas"
+msgstr "Bog grúpa"
 
 #: GroupsSorting.src#RID_GROUPS_SORTING.FT_ORDER.fixedtext.text
 #: acredlin.src#RID_POPUP_CHANGES.SC_SUB_SORT.menuitem.text
@@ -42494,83 +42422,70 @@ msgid "Sorting"
 msgstr "Sórtáil"
 
 #: GroupsSorting.src#RID_GROUPS_SORTING.LST_HEADERLST.1.stringlist.text
-#, fuzzy
 msgid ""
 "_: GroupsSorting.src#RID_GROUPS_SORTING.LST_HEADERLST.1.stringlist.text\n"
 "Present"
-msgstr "Ar Chlé"
+msgstr "I láthair"
 
 #: GroupsSorting.src#RID_GROUPS_SORTING.LST_HEADERLST.2.stringlist.text
-#, fuzzy
 msgid ""
 "_: GroupsSorting.src#RID_GROUPS_SORTING.LST_HEADERLST.2.stringlist.text\n"
 "Not present"
-msgstr "Leis an cheann roimhe seo"
+msgstr "As láthair"
 
 #: GroupsSorting.src#RID_GROUPS_SORTING.LST_FOOTERLST.1.stringlist.text
-#, fuzzy
 msgid ""
 "_: GroupsSorting.src#RID_GROUPS_SORTING.LST_FOOTERLST.1.stringlist.text\n"
 "Present"
-msgstr "Scarbhileog"
+msgstr "I láthair"
 
 #: GroupsSorting.src#RID_GROUPS_SORTING.LST_FOOTERLST.2.stringlist.text
-#, fuzzy
 msgid ""
 "_: GroupsSorting.src#RID_GROUPS_SORTING.LST_FOOTERLST.2.stringlist.text\n"
 "Not present"
-msgstr "Thuas"
+msgstr "As láthair"
 
 # verb
 #: GroupsSorting.src#RID_GROUPS_SORTING.FT_GROUPON.fixedtext.text
-#, fuzzy
 msgid "Group On"
-msgstr "Grúpáil %O"
+msgstr "Grúpáil De Réir"
 
 #: GroupsSorting.src#RID_GROUPS_SORTING.LST_GROUPONLST.1.stringlist.text
-#, fuzzy
 msgid "Each Value"
-msgstr "Luachanna Is Airde"
+msgstr "Gach Luach"
 
 #: GroupsSorting.src#RID_GROUPS_SORTING.FT_GROUPINTERVAL.fixedtext.text
-#, fuzzy
 msgid "Group Interval"
-msgstr "Eatramh"
+msgstr ""
 
 #: GroupsSorting.src#RID_GROUPS_SORTING.FT_KEEPTOGETHER.fixedtext.text
 #: inspection.src#RID_STR_KEEPTOGETHER.string.text
-#, fuzzy
 msgid "Keep Together"
-msgstr "Ná Coinnigh Ailt Le Chéile"
+msgstr "Coinnigh Le Chéile"
 
 #: GroupsSorting.src#RID_GROUPS_SORTING.LST_KEEPTOGETHERLST.2.stringlist.text
-#, fuzzy
 msgid "Whole Group"
-msgstr "An cháipéis iomlán"
+msgstr "An Grúpa Iomlán"
 
 #: GroupsSorting.src#RID_GROUPS_SORTING.LST_KEEPTOGETHERLST.3.stringlist.text
 msgid "With First Detail"
 msgstr ""
 
 #: GroupsSorting.src#RID_GROUPS_SORTING.floatingwindow.text
-#, fuzzy
 msgid "Sorting and Grouping"
-msgstr "Ord sórtála"
+msgstr "Sórtáil agus Grúpáil"
 
 #: GroupsSorting.src#STR_RPT_EXPRESSION.string.text
-#, fuzzy
 msgid "Field/Expression"
-msgstr "Slonn saoróige"
+msgstr "Réimse/Slonn"
 
 #: GroupsSorting.src#STR_RPT_PREFIXCHARS.string.text
-#, fuzzy
 msgid "Prefix Characters"
-msgstr "Carachtair Speisialta"
+msgstr ""
 
 #: GroupsSorting.src#STR_RPT_QUARTER.string.text
-#, fuzzy
 msgid "Quarter"
-msgstr "Ráithí"
+msgstr ""
 
 #: GroupsSorting.src#STR_RPT_WEEK.string.text
 #: calendar.src#STR_SVT_CALENDAR_WEEK.string.text
@@ -42578,14 +42493,12 @@ msgid "Week"
 msgstr "Seachtain"
 
 #: GroupsSorting.src#STR_RPT_HOUR.string.text
-#, fuzzy
 msgid "Hour"
-msgstr "Uaire"
+msgstr "Uair"
 
 #: GroupsSorting.src#STR_RPT_MINUTE.string.text
-#, fuzzy
 msgid "Minute"
-msgstr "nóiméad"
+msgstr "Nóiméad"
 
 #: GroupsSorting.src#STR_RPT_INTERVAL.string.text
 #: linenum.src#TP_LINENUMBERING.FT_NUM_INVERVAL.fixedtext.text
@@ -42609,9 +42522,8 @@ msgid "Select the value or range of values that starts a new group."
 msgstr ""
 
 #: GroupsSorting.src#STR_RPT_HELP_INTERVAL.string.text
-#, fuzzy
 msgid "Interval or number of characters to group on."
-msgstr "Íosluach uimhir charachtair do fleiscíniú: "
+msgstr ""
 
 #: GroupsSorting.src#STR_RPT_HELP_KEEP.string.text
 msgid "Keep group together on one page?"
@@ -42624,108 +42536,91 @@ msgid ""
 msgstr ""
 
 #: Navigator.src#RID_NAVIGATOR.floatingwindow.text
-#, fuzzy
 msgid "Report navigator"
-msgstr "Nascleantóir na scagairí"
+msgstr ""
 
 #: Navigator.src#RID_STR_GROUPS.string.text
-#, fuzzy
 msgid ""
 "_: Navigator.src#RID_STR_GROUPS.string.text\n"
 "Groups"
-msgstr "Dún"
+msgstr "Grúpaí"
 
 #: Navigator.src#RID_MENU_NAVIGATOR.SID_SORTINGANDGROUPING.menuitem.text
 #: report.src#RID_MENU_REPORT.SID_SORTINGANDGROUPING.menuitem.text
-#, fuzzy
 msgid "Sorting and Grouping..."
-msgstr "Cáipéis á hiompórtáil..."
+msgstr "Sórtáil agus Grúpáil..."
 
 #: Navigator.src#RID_MENU_NAVIGATOR.SID_PAGEHEADERFOOTER.menuitem.text
-#, fuzzy
 msgid "Page Header/Footer..."
-msgstr "Ceanntásca/Buntásca"
+msgstr ""
 
 #: Navigator.src#RID_MENU_NAVIGATOR.SID_REPORTHEADERFOOTER.menuitem.text
-#, fuzzy
 msgid "Report Header/Footer..."
-msgstr "Ceanntásca/Buntásca"
+msgstr ""
 
 #: Navigator.src#RID_MENU_NAVIGATOR.SID_RPT_NEW_FUNCTION.menuitem.text
-#, fuzzy
 msgid "New Function"
-msgstr "Feidhm"
+msgstr "Feidhm Nua"
 
 #: PageNumber.src#RID_PAGENUMBERS.RB_PAGE_N.radiobutton.text
-#, fuzzy
 msgid "Page N"
-msgstr "Leathanach "
+msgstr "Leathanach N"
 
 #: PageNumber.src#RID_PAGENUMBERS.RB_PAGE_N_OF_M.radiobutton.text
-#, fuzzy
 msgid "Page N of M"
-msgstr "Uimh. an leathanaigh"
+msgstr "Leathanach N as M"
 
 #: PageNumber.src#RID_PAGENUMBERS.FL_POSITION.fixedline.text
-#, fuzzy
 msgid ""
 "_: PageNumber.src#RID_PAGENUMBERS.FL_POSITION.fixedline.text\n"
 "Position"
 msgstr "Ionad"
 
 #: PageNumber.src#RID_PAGENUMBERS.RB_PAGE_TOPPAGE.radiobutton.text
-#, fuzzy
 msgid "Top of Page (Header)"
-msgstr "Ceanntásc Tábla"
+msgstr ""
 
 #: PageNumber.src#RID_PAGENUMBERS.RB_PAGE_BOTTOMPAGE.radiobutton.text
-#, fuzzy
 msgid "Bottom of Page (Footer)"
-msgstr "Imlíne ag bun an leathanaigh"
+msgstr ""
 
 #: PageNumber.src#RID_PAGENUMBERS.FL_ALIGNMENT.fixedtext.text
-#, fuzzy
 msgid "Alignment:"
-msgstr "Ailíniú"
+msgstr "Ailíniú:"
 
 #: PageNumber.src#RID_PAGENUMBERS.CB_SHOWNUMBERONFIRSTPAGE.checkbox.text
-#, fuzzy
 msgid "Show Number on First Page"
-msgstr "Líon na Leathanach:"
+msgstr ""
 
 #: PageNumber.src#RID_PAGENUMBERS.PB_HELP.helpbutton.text
-#, fuzzy
 msgid ""
 "_: PageNumber.src#RID_PAGENUMBERS.PB_HELP.helpbutton.text\n"
 "~Help"
-msgstr "~Scrios"
+msgstr "Cab~hair"
 
 #: PageNumber.src#RID_PAGENUMBERS.modaldialog.text
-#, fuzzy
 msgid "Page Numbers"
-msgstr "Uimhir Leathanaigh"
+msgstr "Uimhreacha Leathanaigh"
 
 #: PageNumber.src#STR_RPT_PN_PAGE.string.text
 msgid "\"Page \" & #PAGENUMBER#"
-msgstr ""
+msgstr "\"Leathanach \" & #PAGENUMBER#"
 
 #: PageNumber.src#STR_RPT_PN_PAGE_OF.string.text
 msgid " & \" of \" & #PAGECOUNT#"
-msgstr ""
+msgstr " & \" as \" & #PAGECOUNT#"
 
 #: inspection.src#RID_STR_FORCENEWPAGE.string.text
-#, fuzzy
 msgid "Force New Page"
-msgstr "Leathanach ~Nua"
+msgstr ""
 
 #: inspection.src#RID_STR_FORCENEWPAGE_CONST.string.text
 msgid "None;Before Section;After Section;Before & After Section"
 msgstr ""
 
 #: inspection.src#RID_STR_NEWROWORCOL.string.text
-#, fuzzy
 msgid "New Row Or Column"
-msgstr "Ró: %1, Colún: %2"
+msgstr "Ró nó Colún Nua"
 
 #: inspection.src#RID_STR_KEEPTOGETHER_CONST.string.text
 msgid "No;Whole Group;With First Detail"
@@ -42736,74 +42631,60 @@ msgid "Can Grow"
 msgstr ""
 
 #: inspection.src#RID_STR_CANSHRINK.string.text
-#, fuzzy
 msgid "Can Shrink"
-msgstr "Crap"
+msgstr ""
 
 #: inspection.src#RID_STR_REPEATSECTION.string.text
-#, fuzzy
 msgid "Repeat Section"
-msgstr "Cuardaigh Arís"
+msgstr ""
 
 #: inspection.src#RID_STR_PRINTREPEATEDVALUES.string.text
-#, fuzzy
 msgid "Print repeated values"
-msgstr "Ais~ghabh luachanna ginte"
+msgstr ""
 
 #: inspection.src#RID_STR_CONDITIONALPRINTEXPRESSION.string.text
-#, fuzzy
 msgid "Conditional Print Expression"
-msgstr "Stíleanna Coinníollacha"
+msgstr ""
 
 #: inspection.src#RID_STR_STARTNEWCOLUMN.string.text
-#, fuzzy
 msgid "Start new column"
-msgstr "Briseadh i ndiaidh colúin nua"
+msgstr ""
 
 #: inspection.src#RID_STR_STARTNEWPAGE.string.text
-#, fuzzy
 msgid "Start new page"
-msgstr "~Tús an chéad leathanaigh eile"
+msgstr ""
 
 #: inspection.src#RID_STR_RESETPAGENUMBER.string.text
-#, fuzzy
 msgid "Reset page number"
-msgstr "Uimhir an chéad leathanaigh"
+msgstr ""
 
 #: inspection.src#RID_STR_PRINTWHENGROUPCHANGE.string.text
-#, fuzzy
 msgid "Print When Group Change"
-msgstr "Raon priontála"
+msgstr ""
 
 #: inspection.src#RID_STR_VISIBLE.string.text
-#, fuzzy
 msgid "Visible"
-msgstr "In~fheicthe"
+msgstr "Infheicthe"
 
 #: inspection.src#RID_STR_GROUPKEEPTOGETHER.string.text
-#, fuzzy
 msgid "Group keep together"
-msgstr "Grúpáil téacs"
+msgstr ""
 
 #: inspection.src#RID_STR_GROUPKEEPTOGETHER_CONST.string.text
-#, fuzzy
 msgid "Per Page;Per Column"
-msgstr "Colúin Leathanaigh"
+msgstr ""
 
 #: inspection.src#RID_STR_SECTIONPAGEBREAK_CONST.string.text
-#, fuzzy
 msgid "None;Section;Automatic"
-msgstr "Leath-uathoibríoch"
+msgstr ""
 
 #: inspection.src#RID_STR_PAGEHEADEROPTION.string.text
-#, fuzzy
 msgid "Page header"
-msgstr "Ord na leathanach"
+msgstr ""
 
 #: inspection.src#RID_STR_PAGEFOOTEROPTION.string.text
-#, fuzzy
 msgid "Page footer"
-msgstr "Ord na leathanach"
+msgstr ""
 
 #: inspection.src#RID_STR_REPORTPRINTOPTION_CONST.string.text
 msgid ""
@@ -42812,34 +42693,28 @@ msgid ""
 msgstr ""
 
 #: inspection.src#RID_STR_DEEPTRAVERSING.string.text
-#, fuzzy
 msgid "Deep traversing"
-msgstr "Tiontú sonraí"
+msgstr ""
 
 #: inspection.src#RID_STR_PREEVALUATED.string.text
-#, fuzzy
 msgid "Pre evaluation"
-msgstr "Earráid le linn luachála"
+msgstr ""
 
 #: inspection.src#RID_STR_POSITIONX.string.text
-#, fuzzy
 msgid "Position X"
-msgstr "IonadX"
+msgstr "Ionad X"
 
 #: inspection.src#RID_STR_POSITIONY.string.text
-#, fuzzy
 msgid "Position Y"
-msgstr "IonadY"
+msgstr "Ionad Y"
 
 #: inspection.src#RID_STR_INITIALFORMULA.string.text
-#, fuzzy
 msgid "Initial value"
-msgstr "Luach neamhbhailí."
+msgstr ""
 
 #: inspection.src#RID_STR_PRESERVEIRI.string.text
-#, fuzzy
 msgid "Preserve as Link"
-msgstr "Ionsáigh mar Nasc"
+msgstr ""
 
 #: inspection.src#RID_STR_FORMULA.string.text
 #: smres.src#RID_DOCUMENTSTR.string.text
@@ -42851,28 +42726,24 @@ msgid "Formula"
 msgstr "Foirmle"
 
 #: inspection.src#RID_STR_BACKTRANSPARENT.string.text
-#, fuzzy
 msgid ""
 "_: inspection.src#RID_STR_BACKTRANSPARENT.string.text\n"
 "Background Transparent"
-msgstr "Trédhearcacht"
+msgstr "Cúlra Trédhearcach"
 
 #: inspection.src#RID_STR_CONTROLBACKGROUNDTRANSPARENT.string.text
-#, fuzzy
 msgid ""
 "_: inspection.src#RID_STR_CONTROLBACKGROUNDTRANSPARENT.string.text\n"
 "Background Transparent"
-msgstr "Trédhearcacht"
+msgstr "Cúlra Trédhearcach"
 
 #: inspection.src#RID_STR_OVERLAP_OTHER_CONTROL.string.text
-#, fuzzy
 msgid "This operation is not allowed. The control overlaps with another one."
-msgstr "Ní thacaítear leis an oibríocht seo ar an gcóras seo."
+msgstr ""
 
 #: inspection.src#RID_STR_ILLEGAL_POSITION.string.text
-#, fuzzy
 msgid "This position can not be set. It is invalid."
-msgstr "Ní féidir an feidhmchlár a thosú. "
+msgstr ""
 
 #: report.src#RID_STR_PROPTITLE_SECTION.string.text
 #: app.src#STR_REGION_DEFNAME.string.text
@@ -42883,11 +42754,10 @@ msgid "Section"
 msgstr "Rannán"
 
 #: report.src#RID_STR_PROPTITLE_FUNCTION.string.text
-#, fuzzy
 msgid ""
 "_: report.src#RID_STR_PROPTITLE_FUNCTION.string.text\n"
 "Function"
-msgstr "Caschnaipe"
+msgstr "Feidhm"
 
 #: report.src#RID_STR_PROPTITLE_GROUP.string.text
 #: mediatyp.src#STR_SVT_MIMETYPE_CNT_NEWSGRP.string.text
@@ -42896,24 +42766,20 @@ msgid "Group"
 msgstr "Grúpa"
 
 #: report.src#STR_SHOW_RULER.string.text
-#, fuzzy
 msgid "Show ruler"
-msgstr "Taispeáin athróg"
+msgstr ""
 
 #: report.src#STR_SHOW_GRID.string.text
-#, fuzzy
 msgid "Show grid"
-msgstr "Gan ghreille"
+msgstr "Taispeáin greille"
 
 #: report.src#RID_STR_UNDO_CHANGEPOSITION.string.text
-#, fuzzy
 msgid "Change Object"
-msgstr "Diúltaíodh na hathruithe"
+msgstr ""
 
 #: report.src#RID_STR_UNDO_MOVE_GROUP.string.text
-#, fuzzy
 msgid "Move Group(s)"
-msgstr "Bog suas"
+msgstr ""
 
 #: report.src#RID_STR_UNDO_REMOVE_REPORTHEADERFOOTER.string.text
 msgid "Remove report header / report footer"
@@ -42932,71 +42798,58 @@ msgid "Add page header / page footer"
 msgstr ""
 
 #: report.src#RID_STR_UNDO_PROPERTY.string.text
-#, fuzzy
 msgid "Change property '#'"
-msgstr "Socraigh airí '#'"
+msgstr ""
 
 #: report.src#RID_STR_UNDO_ADD_GROUP_HEADER.string.text
-#, fuzzy
 msgid "Add group header "
-msgstr "Gan cheanntásc"
+msgstr ""
 
 #: report.src#RID_STR_UNDO_REMOVE_GROUP_HEADER.string.text
-#, fuzzy
 msgid "Remove group header "
-msgstr "Bain ón seoladh"
+msgstr ""
 
 #: report.src#RID_STR_UNDO_ADD_GROUP_FOOTER.string.text
-#, fuzzy
 msgid "Add group footer "
-msgstr "Gan bhuntásc"
+msgstr ""
 
 #: report.src#RID_STR_UNDO_REMOVE_GROUP_FOOTER.string.text
-#, fuzzy
 msgid "Remove group footer "
-msgstr "Bain ó chuimhne tar éis"
+msgstr ""
 
 #: report.src#RID_STR_UNDO_ADDFUNCTION.string.text
-#, fuzzy
 msgid "Add function"
-msgstr "Gan feidhm"
+msgstr "Cuir feidhm leis"
 
 #: report.src#RID_STR_UNDO_DELETEFUNCTION.string.text
-#, fuzzy
 msgid "Delete function"
-msgstr "Scrios rannán"
+msgstr "Scrios feidhm"
 
 #: report.src#STR_RPT_TITLE.string.text
-#, fuzzy
 msgid "Report #"
-msgstr "Tuairisc"
+msgstr "Tuairisc #"
 
 #: report.src#RID_STR_UNDO_REMOVE_GROUP.string.text
-#, fuzzy
 msgid ""
 "_: report.src#RID_STR_UNDO_REMOVE_GROUP.string.text\n"
 "Delete Group"
-msgstr "~Scrios"
+msgstr "Scrios Grúpa"
 
 #: report.src#RID_STR_UNDO_APPEND_GROUP.string.text
-#, fuzzy
 msgid "Add Group"
-msgstr "An Dara Grúpa"
+msgstr "Cuir Grúpa Leis"
 
 #: report.src#RID_STR_UNDO_REMOVE_SELECTION.string.text
-#, fuzzy
 msgid "Delete Selection"
-msgstr "Scrios rannán"
+msgstr "Scrios Rannán"
 
 #: report.src#RID_STR_UNDO_REMOVE_FUNCTION.string.text
-#, fuzzy
 msgid "Delete Function"
-msgstr "Scrios rannán"
+msgstr "Scrios Feidhm"
 
 #: report.src#RID_STR_UNDO_CHANGE_SIZE.string.text
-#, fuzzy
 msgid "Change Size"
-msgstr "Athraigh Clómhéid"
+msgstr "Athraigh Méid"
 
 #: report.src#RID_STR_UNDO_PASTE.string.text cfg.src#STR_PASTE.string.text
 msgid "Paste"
@@ -43008,46 +42861,38 @@ msgid "Insert Control"
 msgstr "Ionsáigh Rialtán"
 
 #: report.src#RID_STR_UNDO_DELETE_CONTROL.string.text
-#, fuzzy
 msgid "Delete Control"
-msgstr "Scrios an tÁbhar"
+msgstr "Scrios Rialtán"
 
 #: report.src#RID_STR_UNDO_GROUP.string.text
-#, fuzzy
 msgid "Insert Group"
-msgstr "Ionsáigh ró"
+msgstr "Ionsáigh Grúpa"
 
 #: report.src#RID_STR_UNDO_UNGROUP.string.text
-#, fuzzy
 msgid ""
 "_: report.src#RID_STR_UNDO_UNGROUP.string.text\n"
 "Delete Group"
-msgstr "~Scrios"
+msgstr "Scrios Grúpa"
 
 #: report.src#RID_STR_GROUPHEADER.string.text
-#, fuzzy
 msgid "GroupHeader"
-msgstr "Ceanntásc"
+msgstr "Ceanntásc Grúpa"
 
 #: report.src#RID_STR_GROUPFOOTER.string.text
-#, fuzzy
 msgid "GroupFooter"
-msgstr "Buntásc"
+msgstr "Buntásc Grúpa"
 
 #: report.src#RID_MENU_REPORT.SID_ATTR_CHAR_COLOR_BACKGROUND.menuitem.text
-#, fuzzy
 msgid "Background Color..."
-msgstr "Dath an Chúlra"
+msgstr "Dath an Chúlra..."
 
 #: report.src#RID_MENU_REPORT.SID_RULER.menuitem.text
-#, fuzzy
 msgid "Ruler..."
-msgstr "Rialóir"
+msgstr "Rialóir..."
 
 #: report.src#RID_MENU_REPORT.SID_GRID_VISIBLE.menuitem.text
-#, fuzzy
 msgid "Grid..."
-msgstr "~Greillí..."
+msgstr "Greille..."
 
 #: report.src#RID_MENU_REPORT.SID_ARRANGEMENU.SID_FRAME_UP.menuitem.text
 #: imapdlg.src#RID_SVXMN_IMAP.MN_POSITION.MN_MOREFRONT.menuitem.text
@@ -43062,24 +42907,20 @@ msgid "Send Back~ward"
 msgstr "Seol ar ~Chúl"
 
 #: report.src#RID_MENU_REPORT.SID_OBJECT_RESIZING.SID_OBJECT_SMALLESTWIDTH.menuitem.text
-#, fuzzy
 msgid "~Fit to smallest width"
-msgstr "~Oiriúnaigh do leithead na líne"
+msgstr "~Oiriúnaigh don leithead is lú"
 
 #: report.src#RID_MENU_REPORT.SID_OBJECT_RESIZING.SID_OBJECT_GREATESTWIDTH.menuitem.text
-#, fuzzy
 msgid "~Fit to greatest width"
-msgstr "~Oiriúnaigh do leithead na líne"
+msgstr "~Oiriúnaigh don leithead is mó"
 
 #: report.src#RID_MENU_REPORT.SID_OBJECT_RESIZING.SID_OBJECT_SMALLESTHEIGHT.menuitem.text
-#, fuzzy
 msgid "~Fit to smallest height"
-msgstr "~Oiriúnaigh do leithead na líne"
+msgstr "~Oiriúnaigh don airde is lú"
 
 #: report.src#RID_MENU_REPORT.SID_OBJECT_RESIZING.SID_OBJECT_GREATESTHEIGHT.menuitem.text
-#, fuzzy
 msgid "~Fit to greatest height"
-msgstr "Uathoiriúnaigh airde an fhráma"
+msgstr "~Oiriúnaigh don airde is mó"
 
 #: report.src#RID_MENU_REPORT.SID_OBJECT_RESIZING.menuitem.text
 msgid "~Object Resizing"
@@ -43091,80 +42932,66 @@ msgid "Add field:"
 msgstr "Cuir réimse leis:"
 
 #: report.src#RID_APP_TITLE.string.text
-#, fuzzy
 msgid " - %PRODUCTNAME Base Report"
-msgstr " - %PRODUCTNAME Base"
+msgstr " - Tuairisc %PRODUCTNAME Base"
 
 #: report.src#RID_STR_UNDO_ALIGNMENT.string.text
-#, fuzzy
 msgid "Change Alignment"
-msgstr "Athraigh an t-ainm"
+msgstr "Athraigh an tAilíniú"
 
 #: report.src#RID_STR_HEADER.string.text
-#, fuzzy
 msgid "# Header"
-msgstr "Ceanntásc"
+msgstr "# Ceanntásc"
 
 #: report.src#RID_STR_FOOTER.string.text
-#, fuzzy
 msgid "# Footer"
-msgstr "Buntásc"
+msgstr "# Buntásc"
 
 #: report.src#RID_STR_FUNCTION.string.text
-#, fuzzy
 msgid ""
 "_: report.src#RID_STR_FUNCTION.string.text\n"
 "Function"
-msgstr "URL"
+msgstr "Feidhm"
 
 #: report.src#RID_STR_COULD_NOT_CREATE_REPORT.string.text
-#, fuzzy
 msgid "An error occured while creating the report."
-msgstr "Tharla earráid agus an féilire á chruthú."
+msgstr "Tharla earráid agus an tuairisc á chruthú."
 
 #: report.src#RID_STR_CAUGHT_FOREIGN_EXCEPTION.string.text
 msgid "An exception of type $type$ was caught."
 msgstr ""
 
 #: report.src#RID_STR_UNDO_CHANGEFONT.string.text
-#, fuzzy
 msgid "Change font"
-msgstr "Athraigh an Cló"
+msgstr "Athraigh an cló"
 
 #: report.src#RID_STR_UNDO_CHANGEPAGE.string.text
-#, fuzzy
 msgid "Change page attributes"
-msgstr "Tréithe athraithe"
+msgstr ""
 
 #: report.src#RID_STR_PAGEHEADERFOOTER_INSERT.string.text
-#, fuzzy
 msgid "Insert Page Header/Footer"
-msgstr "Ionsáigh Ceanntásc"
+msgstr "Ionsáigh Ceanntásc/Buntásc Leathanaigh"
 
 #: report.src#RID_STR_PAGEHEADERFOOTER_DELETE.string.text
-#, fuzzy
 msgid "Delete Page Header/Footer"
-msgstr "Scrios Bristeacha Leathanaigh"
+msgstr "Scrios Ceanntásc/Buntásc Leathanaigh"
 
 #: report.src#RID_STR_COLUMNHEADERFOOTER_INSERT.string.text
-#, fuzzy
 msgid "Insert Column Header/Footer"
-msgstr "Ionsáigh Briseadh Colúin"
+msgstr "Ionsáigh Ceanntásc/Buntásc Colúin"
 
 #: report.src#RID_STR_COLUMNHEADERFOOTER_DELETE.string.text
-#, fuzzy
 msgid "Delete Column Header/Footer"
-msgstr "Scrios briseadh colúin"
+msgstr "Scrios Ceanntásc/Buntásc Colúin"
 
 #: report.src#RID_STR_REPORTHEADERFOOTER_INSERT.string.text
-#, fuzzy
 msgid "Insert Report Header/Footer"
-msgstr "Ionsáigh Ceanntásc"
+msgstr "Ionsáigh Ceanntásc/Buntásc Tuairisce"
 
 #: report.src#RID_STR_REPORTHEADERFOOTER_DELETE.string.text
-#, fuzzy
 msgid "Delete Report Header/Footer"
-msgstr "Ceanntásca/Buntásca"
+msgstr "Scrios Ceanntásc/Buntásc Tuairisce"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Workday.1.string.text
 msgid ""
@@ -48405,14 +48232,12 @@ msgid "There was an error while initializing the Java Runtime Environment."
 msgstr "Tharla earráid agus an Java Runtime Environment á thúsú."
 
 #: module_kde.ulf#STR_NAME_MODULE_OPTIONAL_KDE.LngText.text
-#, fuzzy
 msgid "KDE Integration"
-msgstr "Comhtháthú GNOME"
+msgstr "Comhtháthú KDE"
 
 #: module_kde.ulf#STR_DESC_MODULE_OPTIONAL_KDE.LngText.text
-#, fuzzy
 msgid "System integration of %PRODUCTNAME %PRODUCTVERSION into KDE."
-msgstr "Suiteáil tacaíocht don Chróitis i %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
 
 #: module_lingu.ulf#STR_NAME_MODULE_OPTIONAL_OO_ENGLISH.LngText.text
 msgid "English (US) Language Module"
@@ -48524,9 +48349,8 @@ msgid "Component for enabling use %PRODUCTNAME without a display"
 msgstr ""
 
 #: module_java.ulf#STR_NAME_MODULE_OPTIONAL_JAVA.LngText.text
-#, fuzzy
 msgid "Java Runtime Environment (%JAVAVERSION)"
-msgstr "Timpeallacht Amrite Java"
+msgstr "Timpeallacht Amrite Java (%JAVAVERSION)"
 
 #: module_java.ulf#STR_DESC_MODULE_OPTIONAL_JAVA.LngText.text
 msgid "Component for setting up the Java Environment"
@@ -48712,18 +48536,16 @@ msgid "Installs Punjabi support in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Suiteáil tacaíocht don Phuinseáibis i %PRODUCTNAME %PRODUCTVERSION"
 
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_GU_IN.LngText.text
-#, fuzzy
 msgid ""
 "_: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_GU_IN.LngText.text\n"
 "Gujarati"
-msgstr "Maraitis"
+msgstr "Gúisearáitis"
 
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_GU_IN.LngText.text
-#, fuzzy
 msgid ""
 "_: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_GU_IN.LngText.text\n"
 "Installs Gujarati support in %PRODUCTNAME %PRODUCTVERSION"
-msgstr "Suiteáil tacaíocht don Mharaitis i %PRODUCTNAME %PRODUCTVERSION"
+msgstr "Suiteáil tacaíocht don Ghúisearáitis i %PRODUCTNAME %PRODUCTVERSION"
 
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_TA.LngText.text
 msgid ""
@@ -49041,18 +48863,16 @@ msgid "Installs Albanian support in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Suiteáil tacaíocht don Albáinis i %PRODUCTNAME %PRODUCTVERSION"
 
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_UR.LngText.text
-#, fuzzy
 msgid ""
 "_: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_UR.LngText.text\n"
 "Urdu"
-msgstr "Oirísis"
+msgstr "Urdais"
 
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_UR.LngText.text
-#, fuzzy
 msgid ""
 "_: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_UR.LngText.text\n"
 "Installs Urdu support in %PRODUCTNAME %PRODUCTVERSION"
-msgstr "Suiteáil tacaíocht don Oirísis i %PRODUCTNAME %PRODUCTVERSION"
+msgstr "Suiteáil tacaíocht don Urdais i %PRODUCTNAME %PRODUCTVERSION"
 
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_ID.LngText.text
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_INDONESIAN.pairedlist.text
@@ -49365,23 +49185,20 @@ msgid "Esperanto"
 msgstr "Esperanto"
 
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_EO.LngText.text
-#, fuzzy
 msgid "Installs Esperanto support in %PRODUCTNAME %PRODUCTVERSION"
-msgstr "Suiteáil tacaíocht don Ghearmáinis i %PRODUCTNAME %PRODUCTVERSION"
+msgstr "Suiteáil tacaíocht don Esperanto i %PRODUCTNAME %PRODUCTVERSION"
 
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_GU.LngText.text
-#, fuzzy
 msgid ""
 "_: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_GU.LngText.text\n"
 "Gujarati"
-msgstr "Maraitis"
+msgstr "Gúisearáitis"
 
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_GU.LngText.text
-#, fuzzy
 msgid ""
 "_: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_GU.LngText.text\n"
 "Installs Gujarati support in %PRODUCTNAME %PRODUCTVERSION"
-msgstr "Suiteáil tacaíocht don Mharaitis i %PRODUCTNAME %PRODUCTVERSION"
+msgstr "Suiteáil tacaíocht don Ghúisearáitis i %PRODUCTNAME %PRODUCTVERSION"
 
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_EN_ZA.LngText.text
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_ENGLISH_SAFRICA.pairedlist.text
@@ -49389,71 +49206,62 @@ msgid "English (South Africa)"
 msgstr "Béarla (Afraic Theas)"
 
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_EN_ZA.LngText.text
-#, fuzzy
 msgid "Installs English (South Africa) support in %PRODUCTNAME %PRODUCTVERSION"
-msgstr "Suiteáil tacaíocht don Bhéarla i %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+"Suiteáil tacaíocht don Bhéarla (Afraic Theas) i %PRODUCTNAME %PRODUCTVERSION"
 
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_EN_GB.LngText.text
-#, fuzzy
 msgid "English (United Kingdom)"
 msgstr "Béarla (RA)"
 
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_EN_GB.LngText.text
-#, fuzzy
 msgid ""
 "Installs English (United Kingdom) support in %PRODUCTNAME %PRODUCTVERSION"
-msgstr "Suiteáil tacaíocht don Bhéarla i %PRODUCTNAME %PRODUCTVERSION"
+msgstr "Suiteáil tacaíocht don Bhéarla (RA) i %PRODUCTNAME %PRODUCTVERSION"
 
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_UR_IN.LngText.text
-#, fuzzy
 msgid ""
 "_: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_UR_IN.LngText.text\n"
 "Urdu"
-msgstr "Oirísis"
+msgstr "Urdais"
 
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_UR_IN.LngText.text
-#, fuzzy
 msgid ""
 "_: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_UR_IN.LngText.text\n"
 "Installs Urdu support in %PRODUCTNAME %PRODUCTVERSION"
-msgstr "Suiteáil tacaíocht don Oirísis i %PRODUCTNAME %PRODUCTVERSION"
+msgstr "Suiteáil tacaíocht don Urdais i %PRODUCTNAME %PRODUCTVERSION"
 
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_ML_IN.LngText.text
-#, fuzzy
 msgid "Malayalam"
-msgstr "Malaeis (Malaeisia)"
+msgstr "Mailéalaimis"
 
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_ML_IN.LngText.text
-#, fuzzy
 msgid "Installs Malayalam support in %PRODUCTNAME %PRODUCTVERSION"
-msgstr "Suiteáil tacaíocht don Chatalóinis i %PRODUCTNAME %PRODUCTVERSION"
+msgstr "Suiteáil tacaíocht don Mhailéalaimis i %PRODUCTNAME %PRODUCTVERSION"
 
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_TE_IN.LngText.text
 msgid "Telugu"
-msgstr ""
+msgstr "Teileagúis"
 
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_TE_IN.LngText.text
-#, fuzzy
 msgid "Installs Telugu support in %PRODUCTNAME %PRODUCTVERSION"
-msgstr "Suiteáil tacaíocht don tSúlúis i %PRODUCTNAME %PRODUCTVERSION"
+msgstr "Suiteáil tacaíocht don Teileagúis i %PRODUCTNAME %PRODUCTVERSION"
 
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_TI_ER.LngText.text
 msgid "Tigrinya"
-msgstr ""
+msgstr "Tigrínis"
 
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_TI_ER.LngText.text
-#, fuzzy
 msgid "Installs Tigrinya support in %PRODUCTNAME %PRODUCTVERSION"
-msgstr "Suiteáil tacaíocht don tSuáinis i %PRODUCTNAME %PRODUCTVERSION"
+msgstr "Suiteáil tacaíocht don Tigrínis i %PRODUCTNAME %PRODUCTVERSION"
 
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_UZ.LngText.text
 msgid "Uzbek"
-msgstr ""
+msgstr "Úisbéicis"
 
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_UZ.LngText.text
-#, fuzzy
 msgid "Installs Uzbek support in %PRODUCTNAME %PRODUCTVERSION"
-msgstr "Suiteáil tacaíocht don Ghréigis i %PRODUCTNAME %PRODUCTVERSION"
+msgstr "Suiteáil tacaíocht don Úisbéicis i %PRODUCTNAME %PRODUCTVERSION"
 
 #: module_ooo.ulf#STR_NAME_MODULE_ROOT_OSL.LngText.text
 msgid ""
@@ -49926,12 +49734,11 @@ msgstr "CHAR"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_JIS.string.text
 msgid "JIS"
-msgstr ""
+msgstr "JIS"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_ASC.string.text
-#, fuzzy
 msgid "ASC"
-msgstr "BASIC"
+msgstr "ASC"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_LOG10.string.text
 msgid "LOG10"
@@ -50770,9 +50577,8 @@ msgstr "Cumaisc ~teormharcóirí"
 
 #: asciiopt.src#RID_SCDLG_ASCII.STR_TEXTTOCOLUMNS.string.text
 #: globstr.src#RID_GLOBSTR.STR_UNDO_TEXTTOCOLUMNS.string.text
-#, fuzzy
 msgid "Text to Columns"
-msgstr " Colún"
+msgstr ""
 
 #: asciiopt.src#RID_SCDLG_ASCII.modaldialog.text
 msgid "Text Import"
@@ -51819,19 +51625,16 @@ msgid "~Line Spacing"
 msgstr "Spásáil na ~Línte"
 
 #: objdraw.src#MN_EDITLNK.SID_DRAW_HLINK_EDIT.menuitem.text
-#, fuzzy
 msgid "~Hyperlink..."
 msgstr "H~ipearnasc..."
 
 #: objdraw.src#MN_DELLNK.SID_DRAW_HLINK_DELETE.menuitem.text
-#, fuzzy
 msgid "~Remove Hyperlink"
-msgstr "~Oscail Hipearnasc"
+msgstr "~Bain Hipearnasc"
 
 #: objdraw.src#MN_ASSIGNMACRO.SID_ASSIGNMACRO.menuitem.text
-#, fuzzy
 msgid "Assig~n Macro..."
-msgstr "Sann Macra"
+msgstr "San~n Macra..."
 
 #: objdraw.src#MN_ORIGINALSIZE.SID_ORIGINALSIZE.menuitem.text
 #: menuids_tmpl.src#MN_ORIGINAL_SIZE.SID_ORIGINAL_SIZE.menuitem.text
@@ -52631,24 +52434,21 @@ msgid ""
 msgstr "-"
 
 #: hfedtdlg.src#RID_HFBASE.BTN_FILE.imagebutton.quickhelptext
-#, fuzzy
 msgid ""
 "_: hfedtdlg.src#RID_HFBASE.BTN_FILE.imagebutton.quickhelptext\n"
 "Title"
-msgstr "Ainm Comhaid"
+msgstr "Teideal"
 
 #: hfedtdlg.src#RID_HFBASE.RID_POPUP_FCOMMAND.FILE_COMMAND_TITEL.menuitem.text
-#, fuzzy
 msgid ""
 "_: hfedtdlg.src#RID_HFBASE.RID_POPUP_FCOMMAND.FILE_COMMAND_TITEL.menuitem."
 "text\n"
 "Title"
-msgstr "Ainm Comhaid"
+msgstr "Teideal"
 
 #: hfedtdlg.src#RID_HFBASE.RID_POPUP_FCOMMAND.FILE_COMMAND_FILENAME.menuitem.text
-#, fuzzy
 msgid "File Name"
-msgstr "Ainm ~Comhaid"
+msgstr "Ainm Comhaid"
 
 #: hfedtdlg.src#RID_HFBASE.RID_POPUP_FCOMMAND.FILE_COMMAND_PATH.menuitem.text
 msgid "Path/File Name"
@@ -54763,11 +54563,10 @@ msgid "Scenario"
 msgstr "Cnámhscéal"
 
 #: globstr.src#RID_GLOBSTR.STR_PIVOT_TABLE.string.text
-#, fuzzy
 msgid ""
 "_: globstr.src#RID_GLOBSTR.STR_PIVOT_TABLE.string.text\n"
 "DataPilot"
-msgstr "Sonraí"
+msgstr "DataPilot"
 
 #: globstr.src#RID_GLOBSTR.STR_FUN_TEXT_SUM.string.text
 msgid ""
@@ -54910,16 +54709,15 @@ msgstr "Earráid: Níl luach ar fáil"
 
 #: globstr.src#RID_GLOBSTR.STR_DIV_ZERO.string.text
 msgid "#DIV/0!"
-msgstr ""
+msgstr "#DIV/0!"
 
 #: globstr.src#RID_GLOBSTR.STR_LONG_ERR_DIV_ZERO.string.text
-#, fuzzy
 msgid "Error: Division by zero"
-msgstr "Roinnt le nialas."
+msgstr "Earráid: Roinnt le nialas"
 
 #: globstr.src#RID_GLOBSTR.STR_NUM_ERROR.string.text
 msgid "#NUM!"
-msgstr ""
+msgstr "#NUM!"
 
 #: globstr.src#RID_GLOBSTR.STR_LONG_ERR_ILL_FPO.string.text
 msgid "Error: Invalid floating point operation"
@@ -54927,7 +54725,7 @@ msgstr "Earráid: Oibríocht snámhphointe neamhbhailí"
 
 #: globstr.src#RID_GLOBSTR.STR_NULL_ERROR.string.text
 msgid "#NULL!"
-msgstr ""
+msgstr "#NULL!"
 
 #: globstr.src#RID_GLOBSTR.STR_LONG_ERR_SYNTAX.string.text
 msgid "Internal syntactical error"
@@ -62049,9 +61847,8 @@ msgid ""
 msgstr ""
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_B.1.string.text
-#, fuzzy
 msgid "Returns the probability of a trial result using binomial distribution."
-msgstr "Aischuireann sé curtóis den dáileachán."
+msgstr ""
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_B.2.string.text
 msgid ""
@@ -64217,32 +64014,27 @@ msgid "Extracts value(s) from a DataPilot table."
 msgstr ""
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_GET_PIVOT_DATA.2.string.text
-#, fuzzy
 msgid "Data Field"
-msgstr "Réimsí Sonraí"
+msgstr "Réimse Sonraí"
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_GET_PIVOT_DATA.3.string.text
-#, fuzzy
 msgid "The name of the data pilot field to extract."
-msgstr "Ainm na stíle le cur i bhfeidhm."
+msgstr ""
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_GET_PIVOT_DATA.4.string.text
-#, fuzzy
 msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_GET_PIVOT_DATA.4."
 "string.text\n"
 "DataPilot"
-msgstr "Dáta_1"
+msgstr "DataPilot"
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_GET_PIVOT_DATA.5.string.text
-#, fuzzy
 msgid "A reference to a cell or range in the DataPilot table."
-msgstr "Earráid agus Tábla DataPilot á chruthú."
+msgstr ""
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_GET_PIVOT_DATA.6.string.text
-#, fuzzy
 msgid "Field Name / Item"
-msgstr "Ainm Réimse"
+msgstr "Ainm Réimse / Mír"
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_GET_PIVOT_DATA.7.string.text
 msgid "Field name/value pair to filter the target data."
@@ -64268,36 +64060,32 @@ msgid "Converts half-width ASCII and katakana characters to full-width."
 msgstr ""
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_JIS.2.string.text
-#, fuzzy
 msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_JIS.2.string.text\n"
 "text"
 msgstr "téacs"
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_JIS.3.string.text
-#, fuzzy
 msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_JIS.3.string.text\n"
 "The text to convert."
-msgstr "An luach le tiontú."
+msgstr "An téacs le tiontú."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_ASC.1.string.text
 msgid "Converts full-width ASCII and katakana characters to half-width."
 msgstr ""
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_ASC.2.string.text
-#, fuzzy
 msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_ASC.2.string.text\n"
 "text"
 msgstr "téacs"
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_ASC.3.string.text
-#, fuzzy
 msgid ""
 "_: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_ASC.3.string.text\n"
 "The text to convert."
-msgstr "An téacs le haimsiú."
+msgstr "An téacs le tiontú."
 
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_CODE.1.string.text
 msgid "Returns a numeric code for the first character in a text string."
@@ -66167,7 +65955,7 @@ msgid ""
 "_: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings."
 "STR_SUN_OPTIMIZATION_WIZARD.value.text\n"
 "&ProductName;"
-msgstr ""
+msgstr "&ProductName;"
 
 #: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_NEXT.value.text
 #: dbwizres.src#RID_COMMON_START___14.string.text
@@ -66189,37 +65977,32 @@ msgid ""
 msgstr ""
 
 #: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_CHOSE_SETTINGS.value.text
-#, fuzzy
 msgid "~Choose settings for Sun Presentation Minimizer"
-msgstr "~Roghnaigh socruithe do Threoraí an Ghréasáin"
+msgstr ""
 
 #: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_GRAPHIC_OPTIMIZATION.value.text
 msgid "Choose settings for optimizing pictures and graphics"
 msgstr ""
 
 #: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_QUALITY.value.text
-#, fuzzy
 msgid "~Quality in %"
-msgstr "~Cáilíocht"
+msgstr "~Cáilíocht (%)"
 
 #: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_REMOVE_CROP_AREA.value.text
-#, fuzzy
 msgid "~Delete cropped graphic areas"
-msgstr "Scrios grafaicí"
+msgstr ""
 
 #: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_IMAGE_RESOLUTION.value.text
-#, fuzzy
 msgid "Reduce ~image resolution"
 msgstr "~Laghdaigh taifeach na híomhá"
 
 #: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_IMAGE_RESOLUTION_0.value.text
-#, fuzzy
 msgid "0;<no change>"
-msgstr "Athrú líne"
+msgstr "0;<gan athrú>"
 
 #: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_IMAGE_RESOLUTION_1.value.text
 msgid "90;90 DPI (screen resolution)"
-msgstr ""
+msgstr "90;90 PSO (taifeach an scáileáin)"
 
 #: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_IMAGE_RESOLUTION_2.value.text
 msgid "150;150 DPI (projector resolution)"
@@ -66230,9 +66013,8 @@ msgid "300;300 DPI (print resolution)"
 msgstr ""
 
 #: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_EMBED_LINKED_GRAPHICS.value.text
-#, fuzzy
 msgid "~Break links to external graphics"
-msgstr "Grafaicí bána nasctha"
+msgstr ""
 
 #: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_OLE_OBJECTS.value.text
 #: shlxthdl.ulf#_OLE_OBJECTS_.LngText.text
@@ -66240,25 +66022,20 @@ msgid "OLE Objects"
 msgstr "Réada OLE"
 
 #: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_OLE_OPTIMIZATION.value.text
-#, fuzzy
 msgid "Choose settings for replacing OLE objects"
-msgstr "~Agus réada á gcruthú nó á mbogadh"
+msgstr ""
 
 #: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_OLE_REPLACE.value.text
 msgid "Create static replacement graphics for OLE objects"
 msgstr ""
 
 #: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_ALL_OLE_OBJECTS.value.text
-#, fuzzy
 msgid "For ~all OLE objects"
-msgstr "Réada OLE"
+msgstr ""
 
 #: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_ALIEN_OLE_OBJECTS_ONLY.value.text
-#, fuzzy
 msgid "~For OLE objects not based on OpenDocument format"
 msgstr ""
-"Tabhair rabhadh mura bhfuil an cháipéis á sábháil san fhormáid "
-"réamhshocraithe nó mar OpenDocument"
 
 #: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_OLE_OBJECTS_DESC.value.text
 msgid ""
@@ -66289,19 +66066,16 @@ msgid "Master Pages"
 msgstr "Máistirleathanaigh"
 
 #: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_DELETE_MASTER_PAGES.value.text
-#, fuzzy
 msgid "Delete unused ~master pages"
-msgstr "Sc~rios cúlraí gan úsáid"
+msgstr ""
 
 #: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_DELETE_NOTES_PAGES.value.text
-#, fuzzy
 msgid "~Clear notes"
-msgstr "Glan an Imlíne"
+msgstr ""
 
 #: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_DELETE_HIDDEN_SLIDES.value.text
-#, fuzzy
 msgid "Delete hidden ~slides"
-msgstr "Scrios stíl líne"
+msgstr ""
 
 #: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_CUSTOM_SHOW.value.text
 msgid "Delete slides that are not used for the ~custom slide show"
@@ -66317,33 +66091,28 @@ msgid "Choose where to apply the following changes"
 msgstr ""
 
 #: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_OBJECTS_OPTIMIZED.value.text
-#, fuzzy
 msgid "Objects optimized"
-msgstr "Súmáil Réada"
+msgstr ""
 
 #: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_APPLY_TO_CURRENT.value.text
-#, fuzzy
 msgid "~Apply changes to current presentation"
-msgstr "Cuir na raonta roghnaithe leis an gcnámhscéal reatha?"
+msgstr ""
 
 #: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_AUTOMATICALLY_OPEN.value.text
-#, fuzzy
 msgid "~Open newly created presentation"
-msgstr "~Oscail láithreoireacht atá ann"
+msgstr ""
 
 #: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_SAVE_SETTINGS.value.text
-#, fuzzy
 msgid "~Save settings as"
-msgstr "Socruithe ~tiománaí"
+msgstr "~Sábháil socruithe mar"
 
 #: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_SAVE_AS.value.text
 msgid "~Duplicate presentation before applying changes"
 msgstr ""
 
 #: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_DELETE_SLIDES.value.text
-#, fuzzy
 msgid "Delete %SLIDES slides."
-msgstr "Scrios Sl~eamhnán"
+msgstr "Scrios %SLIDES sleamhnán."
 
 #: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_OPTIMIZE_IMAGES.value.text
 msgid "Optimize %IMAGES graphics to %QUALITY% JPEG quality at %RESOLUTION DPI."
@@ -66354,9 +66123,8 @@ msgid "Create replacement graphics for %OLE objects."
 msgstr ""
 
 #: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_CURRENT_FILESIZE.value.text
-#, fuzzy
 msgid "Current file size:"
-msgstr "Leagan reatha"
+msgstr ""
 
 #: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_ESTIMATED_FILESIZE.value.text
 msgid "Estimated new file size:"
@@ -66364,23 +66132,20 @@ msgstr ""
 
 #: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_MB.value.text
 msgid "%1 MB"
-msgstr ""
+msgstr "%1 MB"
 
 #: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.MY_SETTINGS.value.text
-#, fuzzy
 msgid "My Settings "
-msgstr "Socruithe"
+msgstr "Mo Chuid Socruithe "
 
 #: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_DEFAULT_SESSION.value.text
-#, fuzzy
 msgid "default session"
-msgstr "Roghnú réamhshocraithe"
+msgstr "seisiún réamhshocraithe"
 
 #: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_MODIFY_WARNING.value.text
-#, fuzzy
 msgid ""
 "The optimization will modify the current document. Do you want to continue?"
-msgstr "Tá sonraí neamhbhailí san fhoirm. Ar mhaith leat dul ar aghaidh?"
+msgstr ""
 
 #: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_YES.value.text
 #: btntext.src#SV_BUTTONTEXT_YES.string.text
@@ -66392,24 +66157,23 @@ msgid ""
 "_: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_ABOUT."
 "value.text\n"
 "&ProductName;"
-msgstr ""
+msgstr "&ProductName;"
 
 #: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_ABOUT_VERSION.value.text
 msgid "About &ProductName; &ProductVersion;"
-msgstr ""
+msgstr "Maidir le &ProductName; &ProductVersion;"
 
 #: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_ABOUT_PRN.value.text
-#, fuzzy
 msgid ""
 "Copyright 2000-2007 Sun Microsystems, Inc. This product has been created by "
 "Sun Microsystems, Inc. based on OpenOffice.org. OpenOffice.org acknowledges "
 "all community members, especially those mentioned on http://www.openoffice."
 "org/welcome/credits.html"
 msgstr ""
-"Copyright 2000-2007 Sun Microsystems Inc.\n"
-"Chruthaigh \\\" OOO_VENDOR \\\" an táirge seo, bunaithe ar OpenOffice.org.\n"
+"Copyright 2000-2007 Sun Microsystems Inc. Chruthaigh Sun Microsystems, Inc. "
+"an táirge seo, bunaithe ar OpenOffice.org.\n"
 "Aithníonn OpenOffice.org an comhphobal ar fad, ach go háirithe na daoine atá "
-"luaite ag http://www.openoffice.org/welcome/credits.html."
+"luaite ag http://www.openoffice.org/welcome/credits.html"
 
 #: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_INFO_1.value.text
 msgid ""
@@ -66436,28 +66200,24 @@ msgid ""
 msgstr ""
 
 #: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_DUPLICATING_PRESENTATION.value.text
-#, fuzzy
 msgid "Duplicating presentation..."
-msgstr "Cliceáil chun an láithreoireacht a scor..."
+msgstr "Láithreoireacht á cóipeáil..."
 
 #: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_DELETING_SLIDES.value.text
-#, fuzzy
 msgid "Deleting slides..."
-msgstr "Seirbhísí á scriosadh"
+msgstr "Sleamhnáin á scriosadh..."
 
 #: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_OPTIMIZING_GRAPHICS.value.text
-#, fuzzy
 msgid "Optimizing graphics..."
-msgstr "Iompórtáil grafaic..."
+msgstr ""
 
 #: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_CREATING_OLE_REPLACEMENTS.value.text
 msgid "Creating replacement graphics for OLE objects..."
 msgstr ""
 
 #: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_FILESIZESEPARATOR.value.text
-#, fuzzy
 msgid "."
-msgstr "1."
+msgstr "."
 
 #: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.LastUsedSettings.Name.value.text
 msgid ""
@@ -66478,29 +66238,24 @@ msgid ""
 msgstr ""
 
 #: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Settings.Templates.template3.Name.value.text
-#, fuzzy
 msgid "Print optimized"
-msgstr "Roghanna priontála"
+msgstr ""
 
 #: Addons.xcu#.Addons.AddonUI.OfficeToolBar.org.openoffice.Office.SunPresentationMinimizer.m1.Title.value.text
-#, fuzzy
 msgid "Minimize Presentation"
-msgstr "Láithreoireacht Nua"
+msgstr ""
 
 #: Addons.xcu#.Addons.AddonUI.OfficeMenuBarMerging.org.openoffice.Office.SunPresentationMinimizer.org.openoffice.Office.SunPresentationMinimizerCommand1.MenuItems.org.openoffice.Office.SunPresentationMinimizerExecute2.Title.value.text
-#, fuzzy
 msgid "~Minimize Presentation..."
-msgstr "~Láithreoireacht..."
+msgstr ""
 
 #: Addons.xcu#.Addons.AddonUI.OfficeMenuBarMerging.org.openoffice.Office.SunPresentationMinimizer.org.openoffice.Office.SunPresentationMinimizerCommand2.MenuItems.org.openoffice.Office.SunPresentationMinimizerAbout1.Title.value.text
-#, fuzzy
 msgid "About Sun Presentation Minimizer"
-msgstr "Treoraí Láithreoireachta"
+msgstr ""
 
 #: ImpressWindowState.xcu#.ImpressWindowState.UIElements.States.private_resource/toolbar/addon_org.openoffice.Office.SunPresentationMinimizer.UIName.value.text
-#, fuzzy
 msgid "Minimizer"
-msgstr "Íoslaghdaigh"
+msgstr "Íoslaghdaitheoir"
 
 #: glob.src#STR_LAYER_BCKGRND.string.text
 msgid ""
@@ -71019,14 +70774,12 @@ msgid "Named shapes"
 msgstr ""
 
 #: strings.src#STR_NAVIGATOR_SHOW_ALL_SHAPES.string.text
-#, fuzzy
 msgid "All shapes"
-msgstr "Gach tábla"
+msgstr "Gach cruth"
 
 #: strings.src#STR_NAVIGATOR_SHAPE_BASE_NAME.string.text
-#, fuzzy
 msgid "Shape %1"
-msgstr "Cruth"
+msgstr "Cruth %1"
 
 #: tbx_ww.src#RID_CHOOSE_MODE.floatingwindow.text
 msgid ""
@@ -71858,9 +71611,8 @@ msgid "Drag Mode"
 msgstr "Mód Tarraingthe"
 
 #: navigatr.src#FLT_NAVIGATOR.1.TBI_SHAPE_FILTER.toolboxitem.text
-#, fuzzy
 msgid "Show Shapes"
-msgstr "Taispeáin Athruithe"
+msgstr "Taispeáin Cruthanna"
 
 #: navigatr.src#FLT_NAVIGATOR.LB_DOCS.listbox.text
 msgid ""
@@ -74764,14 +74516,12 @@ msgid "Always trust macros from this source"
 msgstr "Cuir muinín i macraí ón fhoinse seo i gcónaí"
 
 #: secmacrowarnings.src#RID_XMLSECDLG_MACROWARN.PB_ENABLE.okbutton.text
-#, fuzzy
 msgid "~Enable Macros"
-msgstr "Cumasaigh Macraí"
+msgstr "~Cumasaigh Macraí"
 
 #: secmacrowarnings.src#RID_XMLSECDLG_MACROWARN.PB_DISABLE.cancelbutton.text
-#, fuzzy
 msgid "~Disable Macros"
-msgstr "Díchumasaigh Macraí"
+msgstr "~Díchumasaigh Macraí"
 
 #: secmacrowarnings.src#RID_XMLSECDLG_MACROWARN.modaldialog.text
 msgid "%PRODUCTNAME - Security Warning"
@@ -80042,12 +79792,11 @@ msgid ""
 msgstr "Comhlánú Téacs"
 
 #: autocdlg.src#RID_OFA_AUTOCORR_DLG.1.RID_OFAPAGE_SMARTTAG_OPTIONS.pageitem.text
-#, fuzzy
 msgid ""
 "_: autocdlg.src#RID_OFA_AUTOCORR_DLG.1.RID_OFAPAGE_SMARTTAG_OPTIONS.pageitem."
 "text\n"
 "Smart Tags"
-msgstr "Roghanna"
+msgstr "Clibeanna Cliste"
 
 #: autocdlg.src#RID_OFA_AUTOCORR_DLG.FT_LANG.fixedtext.text
 msgid "Replacements and exceptions for language:"
@@ -80358,23 +80107,20 @@ msgid "Label text with smart tags"
 msgstr ""
 
 #: autocdlg.src#RID_OFAPAGE_SMARTTAG_OPTIONS.FT_SMARTTAGS.fixedtext.text
-#, fuzzy
 msgid "Currently installed smart tags"
-msgstr "Cuimhne in úsáid faoi láthair"
+msgstr "Clibeanna cliste atá suiteáilte faoi láthair"
 
 #: autocdlg.src#RID_OFAPAGE_SMARTTAG_OPTIONS.PB_SMARTTAGS.pushbutton.text
-#, fuzzy
 msgid ""
 "_: autocdlg.src#RID_OFAPAGE_SMARTTAG_OPTIONS.PB_SMARTTAGS.pushbutton.text\n"
 "Properties..."
-msgstr "~Eagar..."
+msgstr "Airíonna..."
 
 #: autocdlg.src#RID_OFAPAGE_SMARTTAG_OPTIONS.tabpage.text
-#, fuzzy
 msgid ""
 "_: autocdlg.src#RID_OFAPAGE_SMARTTAG_OPTIONS.tabpage.text\n"
 "Smart Tags"
-msgstr "Socruithe"
+msgstr "Clibeanna Cliste"
 
 #: backgrnd.src#UNLINKED_IMAGE.#define.text
 msgid "Unlinked graphic"
@@ -82154,11 +81900,10 @@ msgid "Ideographic Description Characters"
 msgstr "Carachtair Don Chur Síos Idéagrafach"
 
 #: charmap.src#RID_SUBSETMAP.RID_SUBSETSTR_TAGALOG.string.text
-#, fuzzy
 msgid ""
 "_: charmap.src#RID_SUBSETMAP.RID_SUBSETSTR_TAGALOG.string.text\n"
 "Tagalog"
-msgstr "Tamailis"
+msgstr "Tagálaigis"
 
 #: charmap.src#RID_SUBSETMAP.RID_SUBSETSTR_HANUNOO.string.text
 msgid "Hanunoo"
@@ -82594,11 +82339,10 @@ msgid ""
 msgstr "~Teideal"
 
 #: dlgname.src#RID_SVXDLG_OBJECT_TITLE_DESC.NTD_FT_DESC.fixedtext.text
-#, fuzzy
 msgid ""
 "_: dlgname.src#RID_SVXDLG_OBJECT_TITLE_DESC.NTD_FT_DESC.fixedtext.text\n"
 "~Description"
-msgstr "~Teideal"
+msgstr "~Cur Síos"
 
 #: dlgname.src#RID_SVXDLG_OBJECT_TITLE_DESC.modaldialog.text
 msgid ""
@@ -82658,7 +82402,6 @@ msgid ""
 msgstr "Athshlánú Cáipéise %PRODUCTNAME"
 
 #: docrecovery.src#RID_SVXPAGE_DOCRECOVERY_SAVE.FT_SAVE_DESCR.fixedtext.text
-#, fuzzy
 msgid ""
 "Due to an unexpected error, %PRODUCTNAME crashed. All the files you were "
 "working on will now be saved. The next time %PRODUCTNAME is launched, your "
@@ -82743,16 +82486,14 @@ msgid "Not recovered yet"
 msgstr "Níl athshlánaithe fós"
 
 #: docrecovery.src#RID_SVXPAGE_DOCRECOVERY_RECOVER.STR_RECOVERY_INPROGRESS.string.text
-#, fuzzy
 msgid ""
 "%PRODUCTNAME %PRODUCTVERSION will start to recover your documents. Depending "
 "on the size of the documents this process can take some time."
 msgstr ""
-"Tosaíonn %PRODUCTNAME %PRODUCTVERSION  ar athshlánú do chuid comhad anois. "
+"Tosaíonn %PRODUCTNAME %PRODUCTVERSION  ar athshlánú do chuid cáipéisí anois. "
 "Ag brath ar mhéid na gcomhad glacfaidh an próiseas seo tamall."
 
 #: docrecovery.src#RID_SVXPAGE_DOCRECOVERY_RECOVER.STR_RECOVERY_REPORT.string.text
-#, fuzzy
 msgid ""
 "A report of the crash was created to help us identify the reason why %"
 "PRODUCTNAME crashed. Click 'Next' to get to the Error Report Tool or press "
@@ -84509,11 +84250,10 @@ msgid "Macro..."
 msgstr "Macra..."
 
 #: imapdlg.src#RID_SVXDLG_IMAP.TBX_IMAPDLG1.TBI_PROPERTY.toolboxitem.text
-#, fuzzy
 msgid ""
 "_: imapdlg.src#RID_SVXDLG_IMAP.TBX_IMAPDLG1.TBI_PROPERTY.toolboxitem.text\n"
 "Properties..."
-msgstr "Dronuilleog"
+msgstr "Airíonna..."
 
 #: imapdlg.src#RID_SVXDLG_IMAP.FT_URL.fixedtext.text
 msgid "Address:"
@@ -84577,18 +84317,16 @@ msgid "Alternative ~text"
 msgstr "~Téacs mar mhalairt"
 
 #: imapdlg.src#RID_SVXDLG_IMAPURL.FT_DESCRIPTION.fixedtext.text
-#, fuzzy
 msgid ""
 "_: imapdlg.src#RID_SVXDLG_IMAPURL.FT_DESCRIPTION.fixedtext.text\n"
 "~Description"
-msgstr "Cur Síos"
+msgstr "~Cur Síos"
 
 #: imapdlg.src#RID_SVXDLG_IMAPURL.modaldialog.text
-#, fuzzy
 msgid ""
 "_: imapdlg.src#RID_SVXDLG_IMAPURL.modaldialog.text\n"
 "Properties"
-msgstr "Cur Síos"
+msgstr "Airíonna"
 
 #: imapdlg.src#STR_IMAPDLG_SAVE.string.text
 msgid ""
@@ -84900,12 +84638,10 @@ msgid "Assami"
 msgstr "Asaimis"
 
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_AZERI_LATIN.pairedlist.text
-#, fuzzy
 msgid "Azerbaijani Latin"
 msgstr "Asarbaiseáinis (Laidin)"
 
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_AZERI_CYRILLIC.pairedlist.text
-#, fuzzy
 msgid "Azerbaijani Cyrillic"
 msgstr "Asarbaiseáinis (Coireallach)"
 
@@ -85089,12 +84825,10 @@ msgid "Nepali (India)"
 msgstr "Neipealais (An India)"
 
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_NORWEGIAN_BOKMAL.pairedlist.text
-#, fuzzy
 msgid "Norwegian, Bokmål"
 msgstr "Ioruais (Bokmål)"
 
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_NORWEGIAN_NYNORSK.pairedlist.text
-#, fuzzy
 msgid "Norwegian, Nynorsk"
 msgstr "Ioruais (Nynorsk)"
 
@@ -85106,31 +84840,27 @@ msgstr "Oirísis"
 
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_SERBIAN_CYRILLIC.pairedlist.text
 msgid "Serbian Cyrillic (Serbia and Montenegro)"
-msgstr ""
+msgstr "Seirbis Choireallach (An tSeirbia agus Montainéagró)"
 
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_SERBIAN_LATIN.pairedlist.text
 msgid "Serbian Latin (Serbia and Montenegro)"
-msgstr ""
+msgstr "Seirbis Laidineach (An tSeirbia agus Montainéagró)"
 
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_USER_SERBIAN_CYRILLIC_SERBIA.pairedlist.text
-#, fuzzy
 msgid "Serbian Cyrillic (Serbia)"
-msgstr "Seirbis (Coireallach)"
+msgstr "Seirbis Choireallach (An tSeirbia)"
 
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_USER_SERBIAN_LATIN_SERBIA.pairedlist.text
-#, fuzzy
 msgid "Serbian Latin (Serbia)"
-msgstr "Seirbis (Laidineach)"
+msgstr "Seirbis Laidineach (An tSeirbia)"
 
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_USER_SERBIAN_CYRILLIC_MONTENEGRO.pairedlist.text
-#, fuzzy
 msgid "Serbian Cyrillic (Montenegro)"
-msgstr "Seirbis (Coireallach)"
+msgstr "Seirbis Choireallach (Montainéagró)"
 
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_USER_SERBIAN_LATIN_MONTENEGRO.pairedlist.text
-#, fuzzy
 msgid "Serbian Latin (Montenegro)"
-msgstr "Seirbis (Laidineach)"
+msgstr "Seirbis Laidineach (Montainéagró)"
 
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_SINDHI.pairedlist.text
 msgid "Sindhi"
@@ -85141,9 +84871,8 @@ msgid "Spanish (Mexico)"
 msgstr "Spáinnis (Meicsiceo)"
 
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_SPANISH_MODERN.pairedlist.text
-#, fuzzy
 msgid "Spanish, Modern (Spain)"
-msgstr "Spáinnis (An Spáinn)"
+msgstr "Spáinnis, Nua-Aimseartha (An Spáinn)"
 
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_SPANISH_GUATEMALA.pairedlist.text
 msgid "Spanish (Guatemala)"
@@ -85248,9 +84977,8 @@ msgid "Urdu (India)"
 msgstr "Urdais (An India)"
 
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_UZBEK_LATIN.pairedlist.text
-#, fuzzy
 msgid "Uzbek Latin"
-msgstr "Úisbéicis (Laidin)"
+msgstr "Úisbéicis (Laidineach)"
 
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_USER5.pairedlist.text
 msgid "User 5"
@@ -85359,7 +85087,6 @@ msgid "Kalaallisut"
 msgstr "Graonlainnis"
 
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_USER_NDEBELE_SOUTH.pairedlist.text
-#, fuzzy
 msgid "Ndebele, South"
 msgstr "Ndebele Theas"
 
@@ -85448,65 +85175,58 @@ msgstr "Maenmarais"
 
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_HAUSA_NIGERIA.pairedlist.text
 msgid "Hausa (Nigeria)"
-msgstr ""
+msgstr "Hásais (An Nigéir)"
 
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_USER_HAUSA_GHANA.pairedlist.text
 msgid "Hausa (Ghana)"
-msgstr ""
+msgstr "Hásais (Gána)"
 
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_USER_EWE_GHANA.pairedlist.text
 msgid "Éwé"
 msgstr ""
 
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_USER_ENGLISH_GHANA.pairedlist.text
-#, fuzzy
 msgid "English (Ghana)"
-msgstr "Béarla (Ceanada)"
+msgstr "Béarla (Gána)"
 
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_USER_SANGO.pairedlist.text
-#, fuzzy
 msgid "Sango"
-msgstr "Tangó"
+msgstr "Sangóis"
 
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_USER_TAGALOG.pairedlist.text
-#, fuzzy
 msgid ""
 "_: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_USER_TAGALOG.pairedlist."
 "text\n"
 "Tagalog"
-msgstr "Tamailis"
+msgstr "Tagálaigis"
 
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_USER_GANDA.pairedlist.text
-#, fuzzy
 msgid "Ganda"
-msgstr "Caighdeánach"
+msgstr "Gandais"
 
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_USER_LINGALA_DRCONGO.pairedlist.text
 msgid "Lingala"
-msgstr ""
+msgstr "Lingala"
 
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_USER_LOW_GERMAN.pairedlist.text
-#, fuzzy
 msgid "Low German"
-msgstr "Gearmáinis"
+msgstr ""
 
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_USER_HILIGAYNON.pairedlist.text
 msgid "Hiligaynon"
 msgstr ""
 
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_USER_NYANJA.pairedlist.text
-#, fuzzy
 msgid "Nyanja"
-msgstr "Hanja"
+msgstr ""
 
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_USER_KASHUBIAN.pairedlist.text
 msgid "Kashubian"
-msgstr ""
+msgstr "Caisiúibis"
 
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_USER_SPANISH_CUBA.pairedlist.text
-#, fuzzy
 msgid "Spanish (Cuba)"
-msgstr "Spáinnis (An Cholóim)"
+msgstr "Spáinnis (Cúba)"
 
 #: langtab.src#RID_SVXSTR_LANGUAGE_TABLE.LANGUAGE_USER_TETUN.pairedlist.text
 msgid "Tetun"
@@ -96396,9 +96116,8 @@ msgid "AutoSpellcheck"
 msgstr "Uathsheiceáil an Litriú"
 
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_SMARTTAGS.fixedtext.text
-#, fuzzy
 msgid "Smart Tags"
-msgstr "Cliste"
+msgstr "Clibeanna Cliste"
 
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_WRITERTEXTGRID.fixedtext.text
 msgid ""
@@ -96517,9 +96236,8 @@ msgid "Reserved expression"
 msgstr "Slonn in áirithe"
 
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.ST_EXTENSION.string.text
-#, fuzzy
 msgid "Colorsettings of the Extensions"
-msgstr "Formáidiú na n-iontrálacha"
+msgstr ""
 
 #: optcolor.src#RID_SVXQB_DELETE_COLOR_CONFIG.querybox.text
 msgid "Do you really want to delete the color scheme?"
@@ -96841,27 +96559,24 @@ msgid "HT~TP proxy"
 msgstr "Seachfhreastalaí HT~TP"
 
 #: optinet2.src#RID_SVXPAGE_INET_PROXY.FT_HTTPS_PROXY.fixedtext.text
-#, fuzzy
 msgid "HTTP~S proxy"
-msgstr "Seachfhreastalaí HT~TP"
+msgstr "Seachfhreastalaí HTTP~S"
 
 #: optinet2.src#RID_SVXPAGE_INET_PROXY.FT_HTTPS_PORT.fixedtext.text
-#, fuzzy
 msgid ""
 "_: optinet2.src#RID_SVXPAGE_INET_PROXY.FT_HTTPS_PORT.fixedtext.text\n"
 "P~ort"
-msgstr "Cineál"
+msgstr "P~ort"
 
 #: optinet2.src#RID_SVXPAGE_INET_PROXY.FT_FTP_PROXY.fixedtext.text
 msgid "~FTP proxy"
 msgstr "Seachfhreastalaí ~FTP"
 
 #: optinet2.src#RID_SVXPAGE_INET_PROXY.FT_FTP_PORT.fixedtext.text
-#, fuzzy
 msgid ""
 "_: optinet2.src#RID_SVXPAGE_INET_PROXY.FT_FTP_PORT.fixedtext.text\n"
 "P~ort"
-msgstr "Cineál"
+msgstr "P~ort"
 
 #: optinet2.src#RID_SVXPAGE_INET_PROXY.FT_SOCKS_PROXY.fixedtext.text
 msgid "~SOCKS proxy"
@@ -97370,9 +97085,8 @@ msgid "Load user-specific settings with the document"
 msgstr "Luchtaigh socruithe an úsáideora leis an gcáipéis"
 
 #: optsave.src#RID_SFXPAGE_SAVE.CB_LOAD_DOCPRINTER.checkbox.text
-#, fuzzy
 msgid "Load printer settings with the document"
-msgstr "Luchtaigh socruithe an úsáideora leis an gcáipéis"
+msgstr "Luchtaigh socruithe an phrintéara leis an gcáipéis"
 
 #: optsave.src#RID_SFXPAGE_SAVE.GB_SAVE.fixedline.text
 msgid ""
@@ -104664,9 +104378,8 @@ msgstr "Sábháil an ~cháipéis tosaithe"
 
 #: mmoutputpage.src#ST_SAVEMERGED.string.text
 #: mailmrge.src#DLG_MAILMERGE.FL_SAVE_MERGED_DOCUMENT.fixedline.text
-#, fuzzy
 msgid "Save merged document"
-msgstr "Sábháil an cháipéis chu~masctha"
+msgstr "Sábháil an cháipéis chumasctha"
 
 #: mmoutputpage.src#ST_PRINT.string.text
 msgid "Print settings"
@@ -105781,9 +105494,8 @@ msgid ""
 msgstr "Tábla"
 
 #: label.src#TP_LAB_LAB.FT_DBFIELD.fixedtext.text
-#, fuzzy
 msgid "Database field"
-msgstr "~Réimse bunachar sonraí"
+msgstr "Réimse bunachar sonraí"
 
 #: label.src#TP_LAB_LAB.FL_WRITING.fixedline.text
 msgid "Inscription"
@@ -106012,24 +105724,20 @@ msgid "~Single print jobs"
 msgstr "~Jabanna aonaracha priontála"
 
 #: mailmrge.src#DLG_MAILMERGE.RB_SAVE_INDIVIDUAL.radiobutton.text
-#, fuzzy
 msgid "Sa~ve as individual document"
-msgstr "Sábháil ~mar cháipéisí aonair"
+msgstr "Sábháil ~mar cháipéis aonair"
 
 #: mailmrge.src#DLG_MAILMERGE.RB_GENERATE_FROM_DATABASE.checkbox.text
-#, fuzzy
 msgid "Generate file name from ~Database"
-msgstr "Cruthaigh ainm comhaid ó"
+msgstr "Cruthaigh ainm comhaid ón ~Bhunachar Sonraí"
 
 #: mailmrge.src#DLG_MAILMERGE.FT_COLUMN.fixedtext.text
-#, fuzzy
 msgid "Field"
-msgstr "Réimsí"
+msgstr "Réimse"
 
 #: mailmrge.src#DLG_MAILMERGE.FT_FILTER.fixedtext.text
-#, fuzzy
 msgid "F~ile format"
-msgstr "Formáid chomhaid"
+msgstr "F~ormáid chomhaid"
 
 #: mailmrge.src#DLG_MAILMERGE.FT_ATTACH.fixedtext.text
 msgid "Attachments"
@@ -109730,9 +109438,8 @@ msgid "Table cell"
 msgstr "Cill tábla"
 
 #: stmenu.src#MN_SMARTTAG_POPUP.MN_SMARTTAG_OPTIONS.menuitem.text
-#, fuzzy
 msgid "Smart Tag Options..."
-msgstr "Roghanna..."
+msgstr ""
 
 #: chartins.src#DLG_INSERT_CHART.FT_RANGE.fixedtext.text
 msgid "A~rea"
@@ -110532,9 +110239,8 @@ msgid "(fixed)"
 msgstr "(socraithe)"
 
 #: initui.src#RID_SW_SHELLRES.STR_HYPERLINK_CLICK.string.text
-#, fuzzy
 msgid "Ctrl-click to open hyperlink"
-msgstr "Cliceáil chun an sleamhnán a bhogadh"
+msgstr "Ctrl+Cliceáil chun hipearnasc a oscailt"
 
 #: initui.src#RID_SW_SHELLRES.FLD_DOCINFO_TITEL.string.text
 msgid ""
@@ -111860,23 +111566,20 @@ msgid "%PRODUCTNAME Spreadsheet Template"
 msgstr "Teimpléad Scarbhileoige %PRODUCTNAME"
 
 #: launcher_genericname.ulf#writer.LngText.text
-#, fuzzy
 msgid "Word Processor"
-msgstr "Cáipéisí Word"
+msgstr "Próiseálaí Focal"
 
 #: launcher_genericname.ulf#base.LngText.text
-#, fuzzy
 msgid "Database Development"
-msgstr "Cáipéisí bunachar sonraí"
+msgstr "Forbairt Bunachar Sonraí"
 
 #: launcher_name.ulf#printeradmin.LngText.text
 msgid "%PRODUCTNAME Printer Administration"
 msgstr "Riarachán na bPrintéirí %PRODUCTNAME"
 
 #: ucbexplorer.src#TEXT_TITLEBAR.string.text
-#, fuzzy
 msgid "UCB Explorer"
-msgstr "Taiscéalaí"
+msgstr "Taiscéalaí UCB"
 
 #: cookiedg.src#DLG_COOKIES.RB_INFUTURE_SEND.radiobutton.text
 msgid ""
@@ -112378,11 +112081,10 @@ msgid "An incorrect master password was entered. Please enter it again."
 msgstr "Bhí an príomhfhocal faire mícheart. Triail arís é, le do thoil."
 
 #: sslwarndlg.src#DLG_UUI_SSLWARN.FT_LABEL_1.fixedtext.text
-#, fuzzy
 msgid ""
 "_: sslwarndlg.src#DLG_UUI_SSLWARN.FT_LABEL_1.fixedtext.text\n"
 "No Text"
-msgstr "Airde"
+msgstr "Gan Téacs"
 
 #: sslwarndlg.src#DLG_UUI_SSLWARN.PB_VIEW__CERTIFICATE.pushbutton.text
 #: certificateviewer.src#RID_XMLSECDLG_CERTVIEWER.tabdialog.text
@@ -112390,19 +112092,16 @@ msgid "View Certificate"
 msgstr "Taispeáin an Teastas"
 
 #: sslwarndlg.src#DLG_UUI_SSLWARN.PB_CANCEL.cancelbutton.text
-#, fuzzy
 msgid "Cancel Connection"
-msgstr "Nasc Tástála"
+msgstr "Cealaigh an Nasc"
 
 #: sslwarndlg.src#DLG_UUI_SSLWARN.modaldialog.text
-#, fuzzy
 msgid "Security Warning: "
-msgstr "Rabhadh Slándála"
+msgstr "Rabhadh Slándála: "
 
 #: unknownauthdlg.src#DLG_UUI_UNKNOWNAUTH.PB_VIEW__CERTIFICATE.pushbutton.text
-#, fuzzy
 msgid "Examine Certificate..."
-msgstr "Taispeáin an Teastas"
+msgstr "Scrúdaigh an Teastas..."
 
 #: unknownauthdlg.src#DLG_UUI_UNKNOWNAUTH.RB_ACCEPT_1.radiobutton.text
 msgid "Accept this certificate temporarily for this session"
@@ -112413,11 +112112,10 @@ msgid "Do not accept this certificate and do not connect to this Web site"
 msgstr ""
 
 #: unknownauthdlg.src#DLG_UUI_UNKNOWNAUTH.FT_LABEL_1.fixedtext.text
-#, fuzzy
 msgid ""
 "_: unknownauthdlg.src#DLG_UUI_UNKNOWNAUTH.FT_LABEL_1.fixedtext.text\n"
 "No Text"
-msgstr "Ainm:"
+msgstr "Gan Téacs"
 
 #: unknownauthdlg.src#DLG_UUI_UNKNOWNAUTH.modaldialog.text
 msgid "Website Certified by an Unknown Authority"
@@ -112601,9 +112299,8 @@ msgid "The Java Access Bridge could not be started."
 msgstr "Níorbh fhéidir an Java Access Bridge a chur ar siúl."
 
 #: stdtext.src#SV_STDTEXT_PREFERENCES.string.text
-#, fuzzy
 msgid "Preferences..."
-msgstr "Crostagairt..."
+msgstr "Sainroghanna..."
 
 #: stdtext.src#SV_EDIT_WARNING_BOX.warningbox.text
 msgid ""
