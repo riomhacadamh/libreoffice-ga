@@ -4043,7 +4043,7 @@ msgstr "Barra"
 msgid ""
 "_: Strings_ChartTypes.src#STR_TYPE_AREA.string.text\n"
 "Area"
-msgstr ""
+msgstr "Méid"
 
 #: Strings_ChartTypes.src#STR_TYPE_PIE.string.text
 msgid "Pie"
@@ -8091,8 +8091,7 @@ msgstr ""
 
 #: dbumiscres.src#STR_COULDNOTOPEN_LINKEDDOC.string.text
 msgid "The document \"$file$\" could not be opened."
-msgstr ""
-"Níorbh fhéidir an cháipéis \"$file$\" a oscailt."
+msgstr "Níorbh fhéidir an cháipéis \"$file$\" a oscailt."
 
 #: dbumiscres.src#STR_MISSING_TABLES_XDROP.string.text
 msgid ""
@@ -8623,7 +8622,9 @@ msgstr ""
 #: relation.src#STR_QUERY_REL_EDIT_RELATION.string.text
 msgid ""
 "This relation already exsits. Do you want to edit it or create a new one?"
-msgstr "Tá an gaol seo ann cheana. Ar mhaith leat é a chur in eagar, nó ceann nua a chruthú?"
+msgstr ""
+"Tá an gaol seo ann cheana. Ar mhaith leat é a chur in eagar, nó ceann nua a "
+"chruthú?"
 
 #: relation.src#STR_RELATIONDESIGN.string.text
 msgid " - %PRODUCTNAME Base: Relation design"
@@ -9500,9 +9501,9 @@ msgid ""
 "\", because every user has to agree to the license agreement of the "
 "extension. The extension will not be installed."
 msgstr ""
-"Ní féidir eisínteacht \\'%NAME\\' a shuiteáil faoi \"Eisínteachtaí %PRODUCTNAME\", "
-"toisc go bhfuil gá le gach úsáideoir a ghlacadh le ceadúnas na "
-"heisínteachta. Ní shuiteálfar an eisínteacht."
+"Ní féidir eisínteacht \\'%NAME\\' a shuiteáil faoi \"Eisínteachtaí %"
+"PRODUCTNAME\", toisc go bhfuil gá le gach úsáideoir a ghlacadh le ceadúnas "
+"na heisínteachta. Ní shuiteálfar an eisínteacht."
 
 #: dp_gui_dialog.src#RID_QUERYBOX_INSTALL_EXTENSION.infobox.text
 msgid ""
@@ -9666,9 +9667,10 @@ msgid ""
 "Click \\'OK\\' to replace the installed extension.\n"
 "Click \\'Cancel\\' to abort the installation."
 msgstr ""
-"Tá tú ar tí leagan $NEW d'eisínteacht \\'$NAME\\' a shuiteáil. Tá an leagan níos "
-"nuaí $DEPLOYED suiteáilte cheana.\n"
-"Brúigh \\'OK\\' chun an eisínteacht nua a chur in ionad na heisínteachta atá ann.\n"
+"Tá tú ar tí leagan $NEW d'eisínteacht \\'$NAME\\' a shuiteáil. Tá an leagan "
+"níos nuaí $DEPLOYED suiteáilte cheana.\n"
+"Brúigh \\'OK\\' chun an eisínteacht nua a chur in ionad na heisínteachta atá "
+"ann.\n"
 "Brúigh \\'Cealaigh\\' chun an tsuiteáil a thobscor."
 
 #: dp_gui_versionboxes.src#RID_QUERYBOX_VERSION_EQUAL.infobox.text
@@ -9678,9 +9680,10 @@ msgid ""
 "Click \\'OK\\' to replace the installed extension.\n"
 "Click \\'Cancel\\' to abort the installation."
 msgstr ""
-"Tá tú ar tí leagan $NEW d'eisínteacht \\'$NAME\\' a shuiteáil. Tá an leagan sin "
-"suiteáilte cheana.\n"
-"Brúigh \\'OK\\' chun an eisínteacht a chur in ionad na heisínteachta atá ann.\n"
+"Tá tú ar tí leagan $NEW d'eisínteacht \\'$NAME\\' a shuiteáil. Tá an leagan "
+"sin suiteáilte cheana.\n"
+"Brúigh \\'OK\\' chun an eisínteacht a chur in ionad na heisínteachta atá "
+"ann.\n"
 "Brúigh \\'Cealaigh\\' chun an tsuiteáil a thobscor."
 
 #: dp_gui_versionboxes.src#RID_QUERYBOX_VERSION_GREATER.infobox.text
@@ -9690,9 +9693,10 @@ msgid ""
 "Click \\'OK\\' to replace the installed extension.\n"
 "Click \\'Cancel\\' to abort the installation."
 msgstr ""
-"Tá tú ar tí leagan $NEW d'eisínteacht \\'$NAME\\' a shuiteáil. Tá an leagan níos "
-"sine $DEPLOYED suiteáilte cheana.\n"
-"Brúigh \\'OK\\' chun an eisínteacht nua a chur in ionad na heisínteachta atá ann.\n"
+"Tá tú ar tí leagan $NEW d'eisínteacht \\'$NAME\\' a shuiteáil. Tá an leagan "
+"níos sine $DEPLOYED suiteáilte cheana.\n"
+"Brúigh \\'OK\\' chun an eisínteacht nua a chur in ionad na heisínteachta atá "
+"ann.\n"
 "Brúigh \\'Cealaigh\\' chun an tsuiteáil a thobscor."
 
 #: dp_manager.src#RID_STR_COPYING_PACKAGE.string.text
@@ -11855,7 +11859,7 @@ msgstr "Cuma 3T"
 msgid ""
 "_: formres.src#RID_RSC_ENUM_BORDER_TYPE.3.string.text\n"
 "Flat"
-msgstr ""
+msgstr "Maol"
 
 #: formres.src#RID_RSC_ENUM_LISTSOURCE_TYPE.1.string.text
 msgid "Valuelist"
@@ -12545,7 +12549,7 @@ msgstr "3T"
 msgid ""
 "_: formres.src#RID_RSC_ENUM_VISUALEFFECT.2.string.text\n"
 "Flat"
-msgstr ""
+msgstr "Maol"
 
 #: formres.src#RID_STR_BORDERCOLOR.string.text
 msgid "Border color"
@@ -18567,7 +18571,8 @@ msgstr "Tobscoir an tsuiteáil?"
 
 #: setupstrings.ulf#STRING_STOP_DIALOG_UNINSTALLATION.LngText.text
 msgid "Do you really want to abort the uninstallation process?"
-msgstr "An bhfuil tú cinnte gur mhaith leat an próiseas díshuiteála a thobscor?"
+msgstr ""
+"An bhfuil tú cinnte gur mhaith leat an próiseas díshuiteála a thobscor?"
 
 #: setupstrings.ulf#STRING_STOP_DIALOG_TITLE_UNINSTALLATION.LngText.text
 msgid "Abort uninstallation?"
@@ -18609,7 +18614,8 @@ msgid ""
 "The directory '${DIR}' does not exist.\n"
 "Do you want to create it now?"
 msgstr ""
-"Níl comhadlann '${DIR}' ann.\nCruthaigh é anois?"
+"Níl comhadlann '${DIR}' ann.\n"
+"Cruthaigh é anois?"
 
 #: setupstrings.ulf#STRING_CHOOSEDIRECTORY5_QUESTION_MESSAGE2.LngText.text
 msgid ""
@@ -18659,7 +18665,7 @@ msgstr "Méid (kB):"
 msgid ""
 "_: setupstrings.ulf#STRING_CHOOSEINSTALLATIONTYPE1.LngText.text\n"
 "Select the Type of Installation"
-msgstr ""
+msgstr "Roghnaigh Cineál na Suiteála"
 
 #: setupstrings.ulf#STRING_CHOOSEINSTALLATIONTYPE2.LngText.text
 msgid "Select the type of installation that best suits your needs:"
@@ -18708,8 +18714,7 @@ msgstr ""
 #: setupstrings.ulf#STRING_PROLOGUE2.LngText.text
 msgid ""
 "This Installation Wizard will install ${PRODUCT_FULLNAME} on your computer."
-msgstr ""
-"Suiteálfaidh an Treoraí Suiteála ${PRODUCT_FULLNAME} ar do ríomhaire."
+msgstr "Suiteálfaidh an Treoraí Suiteála ${PRODUCT_FULLNAME} ar do ríomhaire."
 
 #: setupstrings.ulf#STRING_PROLOGUE3.LngText.text
 msgid "To continue, click 'Next'."
@@ -36362,12 +36367,11 @@ msgid ""
 msgstr "Stíl~eanna"
 
 #: ReportCommands.xcu#..ReportCommands.UserInterface.Popups..uno_ObjectResize.Label.value.text
-#, fuzzy
 msgid ""
 "_: ReportCommands.xcu#..ReportCommands.UserInterface.Popups.."
 "uno_ObjectResize.Label.value.text\n"
 "Object Resizing"
-msgstr "~Réad"
+msgstr ""
 
 #: ReportCommands.xcu#..ReportCommands.UserInterface.Popups..uno_ArrangeMenu.Label.value.text
 #, fuzzy
@@ -43078,9 +43082,8 @@ msgid "~Fit to greatest height"
 msgstr "Uathoiriúnaigh airde an fhráma"
 
 #: report.src#RID_MENU_REPORT.SID_OBJECT_RESIZING.menuitem.text
-#, fuzzy
 msgid "~Object Resizing"
-msgstr "~Réada"
+msgstr ""
 
 #: report.src#RID_STR_FIELDSELECTION.string.text
 #: fmstring.src#RID_STR_FIELDSELECTION.string.text
