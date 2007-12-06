@@ -2157,7 +2157,6 @@ msgstr "Fíor"
 
 #: basic.src#IDD_EDIT_VAR.RID_RB_NEW_BOOL_F.radiobutton.text
 #: format.src#STR_BASICKEY_FORMAT_FALSE.string.text
-#: nocode.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_FALSE_S_MAX.string.text
 #: svxitems.src#RID_SVXITEMS_FALSE.string.text
 msgid "False"
 msgstr "Falsa"
@@ -3194,199 +3193,6 @@ msgstr "Níl"
 #: format.src#STR_BASICKEY_FORMAT_CURRENCY.string.text
 msgid "@0.00 $;@(0.00 $)"
 msgstr "@0.00 $;@(0.00 $)"
-
-#: nocode.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_GENERALERROR_S_MAX.string.text
-msgid "General OLE error"
-msgstr "Earráid Ghinearálta OLE"
-
-#: nocode.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_CANT_BINDTOSOURCE_S_MAX.string.text
-#: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_CANT_BINDTOSOURCE_S_MAX.string.text
-msgid "The connection to the object cannot be established."
-msgstr "Ní féidir nasc a bhunú leis an réad."
-
-#: nocode.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_NOCACHE_UPDATED_S_MAX.string.text
-msgid "No cache files were updated"
-msgstr "Níor nuashonraíodh comhad taisce ar bith"
-
-#: nocode.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_SOMECACHES_NOTUPDATED_S_MAX.string.text
-msgid "Some cache files were not updated"
-msgstr "Níor nuashonraíodh comhaid taisce áirithe"
-
-#: nocode.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_UNAVAILABLE_S_MAX.string.text
-msgid "Status of object cannot be determined in a timely manner"
-msgstr "Ní féidir stádas an réada a chinneadh ar chaoi thráthúil"
-
-#: nocode.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_E_CLASSDIFF_S_MAX.string.text
-msgid "Source of the OLE link has been converted"
-msgstr "Tiontaíodh foinse an naisc OLE"
-
-#: nocode.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_NO_OBJECT_S_MAX.string.text
-#: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_NO_OBJECT_S_MAX.string.text
-msgid "The object could not be found."
-msgstr "Níorbh fhéidir an réad a aimsiú."
-
-#: nocode.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_EXCEEDED_DEADLINE_S_MAX.string.text
-#: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_EXCEEDED_DEADLINE_S_MAX.string.text
-msgid "The process could not be completed within the specified time period."
-msgstr ""
-"Níorbh fhéidir an próiseas a chur i gcrích laistigh den tréimhse shonraithe."
-
-#: nocode.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_CONNECT_MANUALLY_S_MAX.string.text
-msgid "OLE could not connect to a network device (server)"
-msgstr "Níorbh fhéidir le OLE nasc a dhéanamh le gléas líonra (freastalaí)"
-
-#: nocode.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_INTERMEDIATE_INTERFACE_NOT_SUPPORTED_S_MAX.string.text
-msgid ""
-"The object found does not support the interface required for the desired "
-"operation"
-msgstr ""
-"Ní thacaíonn an réad aimsithe leis an gcomhéadan atá de dhíth chun an "
-"oibríocht inmhianaithe a dhéanamh"
-
-#: nocode.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_NO_INTERFACE_S_MAX.string.text
-msgid "Interface not supported"
-msgstr "Comhéadan gan tacaíocht"
-
-#: nocode.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_OUT_OF_MEMORY_S_MAX.string.text
-#: prnsetup.src#STR_SVT_PRNDLG_OUT_OF_MEMORY.string.text
-msgid "Insufficient memory"
-msgstr "Cuimhne easnamhach"
-
-#: nocode.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_SYNTAX_S_MAX.string.text
-#: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_SYNTAX_S_MAX.string.text
-msgid "The connection name could not be processed."
-msgstr "Níorbh fhéidir ainm an naisc a phróiseáil."
-
-#: nocode.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_REDUCED_TO_SELF_S_MAX.string.text
-msgid "The connection name could not be reduced further"
-msgstr "Níorbh fhéidir ainm an naisc a mhiondealú a thuilleadh"
-
-#: nocode.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_NO_INVERSE_S_MAX.string.text
-#: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_NO_INVERSE_S_MAX.string.text
-msgid "The connection name has no inverse."
-msgstr "Níl inbhéarta ag ainm an naisc."
-
-#: nocode.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_NO_PREFIX_S_MAX.string.text
-msgid "No common prefix exists"
-msgstr "Níl aon chomhréimír ann"
-
-#: nocode.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_HIM_S_MAX.string.text
-msgid ""
-"_: nocode.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_HIM_S_MAX.string.text\n"
-"The connection name is contained in the other one."
-msgstr "Tá ainm an naisc isteach sa cheann eile."
-
-#: nocode.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_US_S_MAX.string.text
-#: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_US_S_MAX.string.text
-msgid ""
-"The connection names (the receiver and the other moniker) are identical."
-msgstr ""
-"Is ionann iad ainmneacha na nasc (an faighteoir agus an leasainm eile)."
-
-#: nocode.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_ME_S_MAX.string.text
-msgid ""
-"_: nocode.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_ME_S_MAX.string.text\n"
-"The connection name is contained in the other one."
-msgstr "Tá ainm an naisc isteach sa cheann eile."
-
-#: nocode.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_NOT_BINDABLE_S_MAX.string.text
-#: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_NOT_BINDABLE_S_MAX.string.text
-msgid "The connection name cannot be connected. This is a relative name."
-msgstr "Ní féidir ceangal le hainm an naisc. Is ainm coibhneasta é seo."
-
-#: nocode.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_NOT_IMPLEMENTED_S_MAX.string.text
-msgid "Operation not implemented"
-msgstr "Níl an oibríocht ar fáil"
-
-#: nocode.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_NO_STORAGE_S_MAX.string.text
-msgid "No storage"
-msgstr "Gan stóráil"
-
-#: nocode.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_NEED_GENERIC_S_MAX.string.text
-msgid "Monikers must be composed generically"
-msgstr "Caithfear leasainmneacha a chumadh go cineálach"
-
-#: nocode.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_PENDING_S_MAX.string.text
-msgid "Data not available at this time"
-msgstr "Níl na sonraí ar fáil faoi láthair"
-
-#: nocode.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_NOT_INPLACEACTIVE___S_MAX.string.text
-msgid "Object could not be activated InPlace"
-msgstr ""
-
-#: nocode.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_LINDEX___S_MAX.string.text
-msgid "Invalid index"
-msgstr "Innéacs neamhbhailí"
-
-#: nocode.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_CANNOT_DOVERB_NOW___S_MAX.string.text
-#: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_CANNOT_DOVERB_NOW___S_MAX.string.text
-msgid "The action cannot be executed in the object's current state."
-msgstr "Ní féidir an gníomh a dhéanamh agus an réad ina staid reatha."
-
-#: nocode.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_OLEOBJ_INVALIDHWND___S_MAX.string.text
-#: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_OLEOBJ_INVALIDHWND___S_MAX.string.text
-msgid "An invalid window was passed when activated."
-msgstr "Tugadh fuinneog neamhbhailí ag an gcur i ngníomh."
-
-#: nocode.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_NOVERBS___S_MAX.string.text
-msgid "The object does not support any actions"
-msgstr "Ní thacaíonn an réad aon ghníomh"
-
-#: nocode.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_INVALIDVERB___S_MAX.string.text
-#: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_INVALIDVERB___S_MAX.string.text
-msgid "The action is not defined. The default action will be executed."
-msgstr "Níl an gníomh sainmhínithe. Déanfar an gníomh réamhshocraithe."
-
-#: nocode.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_CONNECT___S_MAX.string.text
-#: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_CONNECT___S_MAX.string.text
-msgid "A link to the network could not be re-established."
-msgstr "Níorbh fhéidir nasc a athbhunú leis an líonra."
-
-#: nocode.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_NOTIMPL___S_MAX.string.text
-msgid "Object does not support this action"
-msgstr "Ní thacaíonn an réad leis an ngníomh seo"
-
-#: nocode.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_CANTOPENFILE___S_MAX.string.text
-#: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_CANTOPENFILE___S_MAX.string.text
-msgid "The specified file could not be opened."
-msgstr "Níorbh fhéidir an comhad sonraithe a oscailt."
-
-#: nocode.src#RID_SO_ERRCTX.ERRCTX_SO_DOVERB.string.text
-#: so3res.src#RID_SO_ERRCTX.ERRCTX_SO_DOVERB.string.text
-msgid "$(ERR) activating object"
-msgstr "$(ERR) agus réad á ghníomhachtú"
-
-#: nocode.src#STR_VERB_OPEN.string.text
-#: iodlg.src#DLG_SVT_EXPLORERFILE.BTN_EXPLORERFILE_OPEN.pushbutton.text
-#: Embedding.xcu#..Embedding.Verbs.OPEN.VerbUIName.value.text
-#: filedlghelper.src#STR_PB_OPEN.string.text
-#: templwin.src#DLG_DOCTEMPLATE.BTN_DOCTEMPLATE_OPEN.okbutton.text
-#: so3res.src#STR_VERB_OPEN.string.text
-#: unoifac2.src#RID_CONTEXTMENU.RID_OPEN_LINK.menuitem.text
-#: svuidlg.src#MD_UPDATE_BASELINKS.PB_OPEN_SOURCE.pushbutton.text
-#: docvw.src#MN_READONLY_POPUP.MN_READONLY_OPENURL.menuitem.text
-msgid "~Open"
-msgstr "~Oscail"
-
-#: nocode.src#STR_VERB_PROPS.string.text so3res.src#STR_VERB_PROPS.string.text
-msgid "~Properties"
-msgstr "~Airíonna"
-
-#: nocode.src#STR_ERROR_DDE.string.text app.src#STR_DDE_ERROR.string.text
-#: so3res.src#STR_ERROR_DDE.string.text
-msgid "DDE link to % for % area % are not available."
-msgstr "Níl teacht ar nasc DDE le % do % limistéir %."
-
-#: nocode.src#STR_QUERYUPDATELINKS.string.text
-#: app.src#STR_QUERY_UPDATE_LINKS.string.text
-#: so3res.src#STR_QUERYUPDATELINKS.string.text
-msgid "Update all links?"
-msgstr "Nuashonraigh gach nasc?"
-
-#: nocode.src#STR_FURTHER_OBJECT.string.text
-#: so3res.src#STR_FURTHER_OBJECT.string.text
-msgid "Further objects"
-msgstr "Réada breise"
 
 #: dlg_DataEditor.src#DLG_DIAGRAM_DATA.TBX_DATA.TBI_DATA_INSERT_ROW.toolboxitem.text
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_InsertRows.Label.value.text
@@ -13339,17 +13145,6 @@ msgstr "Cliceáil anseo chun tuilleadh eolais a fháil."
 msgid "Check for ~Updates..."
 msgstr "Lorg N~uashonruithe..."
 
-#: updatecheckui.src#RID_UPDATE_DEFAULT_TITLE.string.text
-msgid "%PRODUCTNAME update available"
-msgstr "Nuashonrú %PRODUCTNAME le fáil"
-
-#: updatecheckui.src#RID_UPDATE_DEFAULT_TEXT.string.text
-msgid ""
-"Click here to go to the web site, where you can download the new update."
-msgstr ""
-"Cliceáil anseo chun dul go dtí an suíomh Gréasáin, áit ar féidir an "
-"nuashonrú a íosluchtú."
-
 #: calc8_template_ui.xcu#calc8_template.UIName.value.text
 msgid "ODF Spreadsheet Template"
 msgstr "Teimpléad scarbhileoige ODF"
@@ -15050,6 +14845,17 @@ msgstr "Sábháil le focal faire"
 #: filedlghelper.src#STR_CB_FILTER_OPTIONS.string.text
 msgid "Edit ~filter settings"
 msgstr "Cuir na socruithe ~scagaire in eagar"
+
+#: iodlg.src#DLG_SVT_EXPLORERFILE.BTN_EXPLORERFILE_OPEN.pushbutton.text
+#: Embedding.xcu#..Embedding.Verbs.OPEN.VerbUIName.value.text
+#: filedlghelper.src#STR_PB_OPEN.string.text
+#: templwin.src#DLG_DOCTEMPLATE.BTN_DOCTEMPLATE_OPEN.okbutton.text
+#: so3res.src#STR_VERB_OPEN.string.text
+#: unoifac2.src#RID_CONTEXTMENU.RID_OPEN_LINK.menuitem.text
+#: svuidlg.src#MD_UPDATE_BASELINKS.PB_OPEN_SOURCE.pushbutton.text
+#: docvw.src#MN_READONLY_POPUP.MN_READONLY_OPENURL.menuitem.text
+msgid "~Open"
+msgstr "~Oscail"
 
 #: iodlg.src#DLG_SVT_EXPLORERFILE.STR_EXPLORERFILE_SAVE.string.text
 #: dbwizres.src#RID_DB_REPORT_WIZARD_START___44.string.text
@@ -71955,6 +71761,15 @@ msgstr "Luchtaigh %PRODUCTNAME i rith Thosaithe an Chórais"
 msgid "Disable systray Quickstarter"
 msgstr "Cumasaigh an Meardhúisire i dtráidire an chórais"
 
+#: app.src#STR_QUERY_UPDATE_LINKS.string.text
+#: so3res.src#STR_QUERYUPDATELINKS.string.text
+msgid "Update all links?"
+msgstr "Nuashonraigh gach nasc?"
+
+#: app.src#STR_DDE_ERROR.string.text so3res.src#STR_ERROR_DDE.string.text
+msgid "DDE link to % for % area % are not available."
+msgstr "Níl teacht ar nasc DDE le % do % limistéir %."
+
 #: app.src#RID_SECURITY_WARNING_HYPERLINK.warningbox.text
 msgid "This hyperlink is going to open \"%s\". Do you want to proceed?"
 msgstr "Osclófar an hipearnasc seo \"%s\". Ar mhaith leat dul ar aghaidh?"
@@ -76554,6 +76369,10 @@ msgstr "Scrios Leathanach"
 msgid "User intervention necessary"
 msgstr "Idirghabháil úsáideora de dhíth"
 
+#: prnsetup.src#STR_SVT_PRNDLG_OUT_OF_MEMORY.string.text
+msgid "Insufficient memory"
+msgstr "Cuimhne easnamhach"
+
 #: prnsetup.src#STR_SVT_PRNDLG_DOOR_OPEN.string.text
 msgid "Cover open"
 msgstr "Cumhdach oscailte"
@@ -76616,6 +76435,10 @@ msgstr "Socrú Priontála"
 msgid "General OLE error."
 msgstr "Earráid Ghinearálta OLE."
 
+#: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_CANT_BINDTOSOURCE_S_MAX.string.text
+msgid "The connection to the object cannot be established."
+msgstr "Ní féidir nasc a bhunú leis an réad."
+
 #: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_NOCACHE_UPDATED_S_MAX.string.text
 msgid "No cache files were updated."
 msgstr "Níor nuashonraíodh comhad taisce ar bith."
@@ -76631,6 +76454,15 @@ msgstr "Ní féidir stádas an réada a chinneadh ar chaoi thráthúil."
 #: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_E_CLASSDIFF_S_MAX.string.text
 msgid "Source of the OLE link has been converted."
 msgstr "Tiontaíodh foinse an naisc OLE."
+
+#: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_NO_OBJECT_S_MAX.string.text
+msgid "The object could not be found."
+msgstr "Níorbh fhéidir an réad a aimsiú."
+
+#: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_EXCEEDED_DEADLINE_S_MAX.string.text
+msgid "The process could not be completed within the specified time period."
+msgstr ""
+"Níorbh fhéidir an próiseas a chur i gcrích laistigh den tréimhse shonraithe."
 
 #: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_CONNECT_MANUALLY_S_MAX.string.text
 msgid "OLE could not connect to a network device (server)."
@@ -76652,9 +76484,17 @@ msgstr "Comhéadan gan tacaíocht."
 msgid "Insufficient memory."
 msgstr "Cuimhne easnamhach."
 
+#: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_SYNTAX_S_MAX.string.text
+msgid "The connection name could not be processed."
+msgstr "Níorbh fhéidir ainm an naisc a phróiseáil."
+
 #: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_REDUCED_TO_SELF_S_MAX.string.text
 msgid "The connection name could not be reduced further."
 msgstr "Níorbh fhéidir ainm an naisc a mhiondealú a thuilleadh."
+
+#: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_NO_INVERSE_S_MAX.string.text
+msgid "The connection name has no inverse."
+msgstr "Níl inbhéarta ag ainm an naisc."
 
 #: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_NO_PREFIX_S_MAX.string.text
 msgid "No common prefix exists."
@@ -76666,11 +76506,21 @@ msgid ""
 "The connection name is contained in the other one."
 msgstr "Tá ainm an naisc isteach sa cheann eile."
 
+#: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_US_S_MAX.string.text
+msgid ""
+"The connection names (the receiver and the other moniker) are identical."
+msgstr ""
+"Is ionann iad ainmneacha na nasc (an faighteoir agus an leasainm eile)."
+
 #: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_ME_S_MAX.string.text
 msgid ""
 "_: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_ME_S_MAX.string.text\n"
 "The connection name is contained in the other one."
 msgstr "Tá ainm an naisc isteach sa cheann eile."
+
+#: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_NOT_BINDABLE_S_MAX.string.text
+msgid "The connection name cannot be connected. This is a relative name."
+msgstr "Ní féidir ceangal le hainm an naisc. Is ainm coibhneasta é seo."
 
 #: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_NOT_IMPLEMENTED_S_MAX.string.text
 msgid "Operation not implemented."
@@ -76700,13 +76550,37 @@ msgstr "Níorbh fhéidir an réad a chur i ngníomh ina ionad."
 msgid "Invalid index."
 msgstr "Innéacs neamhbhailí."
 
+#: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_CANNOT_DOVERB_NOW___S_MAX.string.text
+msgid "The action cannot be executed in the object's current state."
+msgstr "Ní féidir an gníomh a dhéanamh agus an réad ina staid reatha."
+
+#: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_OLEOBJ_INVALIDHWND___S_MAX.string.text
+msgid "An invalid window was passed when activated."
+msgstr "Tugadh fuinneog neamhbhailí ag an gcur i ngníomh."
+
 #: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_NOVERBS___S_MAX.string.text
 msgid "The object does not support any actions."
 msgstr "Ní thacaíonn an réad aon ghníomh."
 
+#: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_INVALIDVERB___S_MAX.string.text
+msgid "The action is not defined. The default action will be executed."
+msgstr "Níl an gníomh sainmhínithe. Déanfar an gníomh réamhshocraithe."
+
+#: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_CONNECT___S_MAX.string.text
+msgid "A link to the network could not be re-established."
+msgstr "Níorbh fhéidir nasc a athbhunú leis an líonra."
+
 #: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_NOTIMPL___S_MAX.string.text
 msgid "Object does not support this action."
 msgstr "Ní thacaíonn an réad leis an ngníomh seo."
+
+#: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_CANTOPENFILE___S_MAX.string.text
+msgid "The specified file could not be opened."
+msgstr "Níorbh fhéidir an comhad sonraithe a oscailt."
+
+#: so3res.src#RID_SO_ERRCTX.ERRCTX_SO_DOVERB.string.text
+msgid "$(ERR) activating object"
+msgstr "$(ERR) agus réad á ghníomhachtú"
 
 #: so3res.src#STR_INS_OBJECT.string.text
 msgid "Inserts a new %1-Object into your document."
@@ -76775,6 +76649,10 @@ msgid "All objects of type %1 are activated as %2, but not converted"
 msgstr ""
 "Tá gach réad den chineál %1 gníomhachtaithe mar %2, ach níl siad tiontaithe"
 
+#: so3res.src#STR_VERB_PROPS.string.text
+msgid "~Properties"
+msgstr "~Airíonna"
+
 #: so3res.src#STR_PLUGIN_CANT_SHOW.string.text
 msgid "Plug-in % cannot be displayed."
 msgstr "Ní féidir breiseán % a thaispeáint."
@@ -76790,6 +76668,10 @@ msgstr "Níorbh fhéidir an réad ón chomhad % a ionsá."
 #: so3res.src#STR_ERROR_OBJNOCREATE_PLUGIN.string.text
 msgid "Plug-in from document % could not be inserted."
 msgstr "Níorbh fhéidir an breiseán ó cháipéis % a ionsá."
+
+#: so3res.src#STR_FURTHER_OBJECT.string.text
+msgid "Further objects"
+msgstr "Réada breise"
 
 #: so3res.src#STR_EDIT_APPLET.string.text
 #: svuidlg.src#STR_EDIT_APPLET.string.text
@@ -93020,13 +92902,11 @@ msgstr "Tharla earráid anaithnid. Ní féidir an cuardach a chur i gcrích."
 
 #: fmsearch.src#RID_STR_OVERFLOW_FORWARD.string.text
 msgid "Overflow, search continued at the beginning"
-msgstr ""
-"Cuardach thar maoil, lean ar aghaidh ón tús"
+msgstr "Cuardach thar maoil, lean ar aghaidh ón tús"
 
 #: fmsearch.src#RID_STR_OVERFLOW_BACKWARD.string.text
 msgid "Overflow, search continued at the end"
-msgstr ""
-"Cuardach thar maoil, lean ar aghaidh ón deireadh"
+msgstr "Cuardach thar maoil, lean ar aghaidh ón deireadh"
 
 #: fmsearch.src#RID_STR_SEARCH_COUNTING.string.text
 msgid "counting records"
