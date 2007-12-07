@@ -13089,7 +13089,7 @@ msgstr "Nuashonrú %PRODUCTNAME le fáil"
 msgid ""
 "_: updatehdl.src#RID_UPDATE_BUBBLE_UPDATE_NO_DOWN.string.text\n"
 "Click here for more information."
-msgstr ""
+msgstr "Cliceáil anseo chun tuilleadh eolais a fháil."
 
 #: updatehdl.src#RID_UPDATE_BUBBLE_T_AUTO_START.string.text
 msgid ""
@@ -13121,7 +13121,7 @@ msgstr ""
 msgid ""
 "_: updatehdl.src#RID_UPDATE_BUBBLE_ERROR_DOWNLOADING.string.text\n"
 "Click here for more information."
-msgstr ""
+msgstr "Cliceáil anseo chun tuilleadh eolais a fháil."
 
 #: updatehdl.src#RID_UPDATE_BUBBLE_T_DOWNLOAD_AVAIL.string.text
 msgid "Download of update completed"
