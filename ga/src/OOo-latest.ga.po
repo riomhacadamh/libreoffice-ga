@@ -106034,7 +106034,7 @@ msgstr "~Cuir imlíne agus scáth i bhfeidhm"
 msgid ""
 "_: cption.src#DLG_SEQUENCE_OPTION.FL_ORDER.fixedline.text\n"
 "Caption"
-msgstr ""
+msgstr "Foscríbhinn"
 
 #: cption.src#DLG_SEQUENCE_OPTION.modaldialog.text
 msgid ""
