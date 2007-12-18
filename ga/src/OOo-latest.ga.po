@@ -102924,7 +102924,7 @@ msgstr "Roghnaigh cáipéis tosaigh le haghaidh postchumaisc"
 
 #: mmdocselectpage.src#DLG_MM_DOCSELECT_PAGE.FT_HOWTO.fixedtext.text
 msgid "Select the document upon which to base the mail merge document"
-msgstr ""
+msgstr "Roghnaigh an cháipéis mar bunús don cháipéis postchumasc"
 
 #: mmdocselectpage.src#DLG_MM_DOCSELECT_PAGE.RB_CURRENTDOC.radiobutton.text
 msgid "Use the current ~document"
@@ -102987,7 +102987,7 @@ msgstr "N~ua..."
 
 #: mmgreetingspage.src#GREETINGS_BODY.FI_FEMALE.fixedtext.text
 msgid "Address list field indicating a female recipient"
-msgstr ""
+msgstr "Léiríonn an réimse seo gur faighteoir banainneach atá i gceist"
 
 #: mmgreetingspage.src#GREETINGS_BODY.FT_FEMALEFIELD.fixedtext.text
 msgid "Field value"
@@ -103096,7 +103096,7 @@ msgstr "~Súmáil"
 
 #: mmmergepage.src#DLG_MM_MERGE_PAGE.FI_HEADER.fixedtext.text
 msgid "Personalize the mail merge documents"
-msgstr ""
+msgstr "Déan pearsantú ar na cáipéisí postchumasc"
 
 #: mmmergepage.src#DLG_MM_MERGE_PAGE.FI_EDIT.fixedtext.text
 msgid ""
@@ -103105,6 +103105,10 @@ msgid ""
 "editing the document, return to the wizard by clicking 'Return to Mail Merge "
 "Wizard' in the small window."
 msgstr ""
+"Is féidir cáipéisí áirithe a phearsantú. Déanfar cliceáil '%1' laghdú "
+"sealadach ar an Treoraí ionas go mb'fhéidir leat do cháipéis a chuir in "
+"eagar. Tar éis an cháipéis a chur in eagar, cliceáil ar 'Fill ar Threoraí "
+"Postchumaisc' san fhuinneog bheag chun filleadh ar an Treoraí."
 
 #: mmmergepage.src#DLG_MM_MERGE_PAGE.PB_EDIT.pushbutton.text
 msgid "~Edit individual document..."
@@ -103269,6 +103273,10 @@ msgid ""
 "\n"
 " Do you want to enter e-mail account information now?"
 msgstr ""
+"Ionas cáipéis phostchumasc a sheoladh trí ríomhphost, tá eolas ag taistéail ó "
+"%PRODUCTNAME faoin chuntas R-phost.\n"
+"\n"
+" Ar mhaith leat faisnéis R-phoist a iontráil anois?"
 
 #: mmoutputpage.src#DLG_MM_COPYTO.FI_DESCRIPTION.fixedtext.text
 msgid "Send a copy of this mail to:"
@@ -103335,6 +103343,8 @@ msgid ""
 "Send letters to a group of recipients. The letters can contain an address "
 "block and a salutation. The letters can be personalized for each recipient."
 msgstr ""
+"Seol litreacha chuig grúpa. Is féidir bloc seolta agus beannacht a bheith sna "
+"litreacha.  Agus is féidir pearsantú a dhéanamh do gach faighteoir."
 
 #: mmoutputtypepage.src#DLG_MM_OUTPUTTYPE_PAGE.ST_MAILHINT.string.text
 msgid ""
@@ -103342,6 +103352,8 @@ msgid ""
 "contain a salutation. The e-mail messages can be personalized for each "
 "recipient."
 msgstr ""
+"Seol litreacha chuig grúpa. Is féidir beannacht a bheith sna litreacha. Agus "
+"is féidir pearsantú a dhéanamh do gach faighteoir."
 
 #: mmoutputtypepage.src#DLG_MM_OUTPUTTYPE_PAGE.FT_NOMAILHINT.fixedtext.text
 msgid ""
@@ -103350,6 +103362,10 @@ msgid ""
 "You can find further information about Java Mail on the internet at 'http://"
 "java.sun.com/products/javamail/'."
 msgstr ""
+"Theip ar %PRODUCTNAME ceangal Java Mail a aimsiú. Ionas ríomhphost a sheoladh "
+"le %PRODUCTNAME, beidh ort an leagan is déanaí de Java Mail a shuiteáil. Is "
+"féidir a thuilleadh eolas faoi Java Mail a fháil ón Idirlíon ag 'http://java."
+"sun.com/products/javamail/'."
 
 #: mmpreparemergepage.src#DLG_MM_PREPAREMERGE_PAGE.FI_HEADER.fixedtext.text
 msgid "Preview and edit the document"
@@ -103472,6 +103488,8 @@ msgid ""
 "The abstract contains the selected number of paragraphs from the included "
 "outline levels."
 msgstr ""
+"Tá an líon alt atá roghnaithe sa choimriú ó na leibhéil imlíne curtha san "
+"áireamh "
 
 #: abstract.src#DLG_INSERT_ABSTRACT.modaldialog.text
 msgid "Create AutoAbstract"
@@ -103874,7 +103892,7 @@ msgstr "Réad [%PRODUCTNAME Writer]"
 
 #: selglos.src#DLG_SEL_GLOS.FL_GLOS.fixedline.text
 msgid "AutoTexts for shortcut "
-msgstr ""
+msgstr "UathThéacs don aicearra "
 
 #: access.src#STR_ACCESS_DOC_NAME.string.text
 msgid ""
@@ -104111,7 +104129,7 @@ msgstr "Roghnaigh colún tábla"
 
 #: docvw.src#STR_SMARTTAG_CLICK.string.text
 msgid "Ctrl-click to open Smart Tag menu"
-msgstr ""
+msgstr "Ctrl-cliceáil chun roghchlár Chlib Chliste a oscailt"
 
 #: envelp.src#STR_DATABASE_NOT_OPENED.string.text
 msgid "Database could not be opened."
@@ -104639,6 +104657,10 @@ msgid ""
 "data from a data source, such as a database. The fields in the form letter "
 "must be connected to the data source."
 msgstr ""
+"Úsáidtear réimsí chun pearsantú a dhéanamh ar litreacha foirme. Is "
+"ionadchoinneálaithe na réimsí do shonraí ó fhoinse sonraí, m.sh. bunachar "
+"sonraí. Is gá na réimsí sna litreacha foirme agus an bunachar sonraí a bheith "
+"ceangailte."
 
 #: mailmrge.src#DLG_MERGE_FIELD_CONNECTIONS.modaldialog.text
 msgid "Data Source Connection"
@@ -106234,7 +106256,7 @@ msgstr "Timfhill"
 
 #: frmui.src#MSG_COLUMN_ERR_BOUNDWIDTH.infobox.text
 msgid "Column spacing exceeds the column width."
-msgstr ""
+msgstr "Tá spásáil na gcolún níos mó ná leithead na gcolún."
 
 #: wrap.src#TP_FRM_WRAP.C_WRAP_FL.fixedline.text
 msgid ""
@@ -106541,7 +106563,7 @@ msgstr "Formáidiú na n-iontrálacha"
 
 #: cnttab.src#ST_AUTOMARK_TYPE.string.text
 msgid "Selection file for the alphabetical index (*.sdi)"
-msgstr ""
+msgstr "Comhad roghaithe don innéacs aibítreach (*.sdi)"
 
 #: cnttab.src#FT_SORTALG.fixedtext.text
 #: srtdlg.src#DLG_SORTING.FT_KEYTYP.fixedtext.text
@@ -106648,7 +106670,7 @@ msgstr "~Eagar..."
 
 #: cnttab.src#TP_TOX_ENTRY.FT_CHAPTERENTRY.fixedtext.text
 msgid "Chapter entry"
-msgstr ""
+msgstr "Iontráil caibidlí"
 
 #: cnttab.src#TP_TOX_ENTRY.LB_CHAPTERENTRY.1.stringlist.text
 msgid "Number range only"
@@ -106672,7 +106694,7 @@ msgstr "Struchtúr agus Formáidiú"
 
 #: cnttab.src#TP_TOX_ENTRY.CB_RELTOSTYLE.checkbox.text
 msgid "Tab position relati~ve to Paragraph Style indent"
-msgstr ""
+msgstr "Ionad an táb coi~bhneasta d'eangú stíl an ailt"
 
 #: cnttab.src#TP_TOX_ENTRY.FT_MAIN_ENTRY_STYLE.fixedtext.text
 msgid "Character Style for main entries"
@@ -107004,7 +107026,7 @@ msgstr "~Scrios"
 
 #: bookmark.src#STR_REMOVE_WARNING.string.text
 msgid "The following characters are not valid and have been removed: "
-msgstr ""
+msgstr "Níl na carachtair seo a leanas ceadaithe, agus tá siad bainte anois: "
 
 #: docfnote.src#DLG_DOC_FOOTNOTE.tabdialog.text
 msgid "Footnote Settings"
@@ -107252,6 +107274,8 @@ msgid ""
 "The 'AutoText' directories are read-only. Do you want to call the path "
 "settings dialog?"
 msgstr ""
+"Is inléite amháin iad na comhadlanna 'Uath-théacs'. Ar mhaith leat glao ar an "
+"dialóg socraithe conairí?"
 
 #: glossary.src#DLG_GLOSSARY.MNU_EDIT.FN_GL_DEFINE.menuitem.text
 msgid ""
@@ -107430,7 +107454,7 @@ msgstr "Spás go téa~cs"
 
 #: num.src#TP_NUM_POSITION.FT_NUMDIST.fixedtext.text
 msgid "~Minimum space numbering <-> text"
-msgstr ""
+msgstr "~Uimhriú spásáil íosta <-> téacs"
 
 #: num.src#TP_NUM_POSITION.FT_ALIGN.fixedtext.text
 msgid "Numbering ~alignment"
@@ -107656,7 +107680,7 @@ msgstr "Uimhriú"
 
 #: pgfnote.src#TP_FOOTNOTE_PAGE.RB_MAXHEIGHT_PAGE.radiobutton.text
 msgid "~Not larger than page area"
-msgstr ""
+msgstr "Ga~n a bheith níos mó ná achar an leathanaigh"
 
 #: pgfnote.src#TP_FOOTNOTE_PAGE.RB_MAXHEIGHT.radiobutton.text
 msgid "Maximum footnote ~height"
@@ -107690,7 +107714,7 @@ msgstr "~Fad"
 
 #: pgfnote.src#TP_FOOTNOTE_PAGE.FT_LINEDIST.fixedtext.text
 msgid "~Spacing to footnote contents"
-msgstr ""
+msgstr "~Spásáil d'inneachar fonóta"
 
 #: pggrid.src#TP_TEXTGRID_PAGE.RB_NOGRID.radiobutton.text
 #: attrdesc.src#STR_GRID_NONE.string.text
@@ -108172,7 +108196,7 @@ msgstr "UathFhormáidigh"
 
 #: shells.src#STR_REDLINE_TABLECHG.string.text
 msgid "Table Changes"
-msgstr ""
+msgstr "Athrú Tábla"
 
 #: shells.src#STR_REDLINE_TITLE.string.text
 msgid ""
@@ -108294,7 +108318,7 @@ msgstr "Cill tábla"
 
 #: stmenu.src#MN_SMARTTAG_POPUP.MN_SMARTTAG_OPTIONS.menuitem.text
 msgid "Smart Tag Options..."
-msgstr ""
+msgstr "Roghanna Clibe Cliste..."
 
 #: chartins.src#DLG_INSERT_CHART.FT_RANGE.fixedtext.text
 msgid "A~rea"
@@ -108316,6 +108340,11 @@ msgid ""
 "Include the cells containing column and row labels if you want them to be "
 "included in your chart."
 msgstr ""
+"Mura bhfuil na sonraí a theastaíonn uait sna cealla roghnaithe, roghnaigh an "
+"raon sonraí anois.\n"
+"\n"
+"Cuir na cealla ina bhfuil lipéid cholún agus ró san áireamh, más mian leat go "
+"mbeidh siad sa chairt."
 
 #: chartins.src#DLG_INSERT_CHART.BT_FINISH.pushbutton.text
 msgid "Cre~ate"
@@ -108483,7 +108512,7 @@ msgstr "Go C~othrománach"
 
 #: split.src#DLG_SPLIT.CB_PROP.checkbox.text
 msgid "~Into equal proportions"
-msgstr ""
+msgstr "~I gcomhréire cothrom"
 
 #: splittbl.src#DLG_SPLIT_TABLE.FL_SPLIT.fixedline.text
 msgid ""
@@ -108943,7 +108972,7 @@ msgstr "Leithead na nDeighilteoirí:"
 
 #: attrdesc.src#STR_MAX_FTN_HEIGHT.string.text
 msgid "Max. footnote area:"
-msgstr ""
+msgstr "Achar uasta fonóta:"
 
 #: attrdesc.src#STR_EDIT_IN_READONLY.string.text
 msgid "Editable in read-only document"
@@ -109335,7 +109364,7 @@ msgstr "Ancaire<->Téacs"
 
 #: navipi.src#TB_CONTENT.FN_OUTLINE_LEVEL.toolboxitem.text
 msgid "Heading Levels Shown"
-msgstr ""
+msgstr "Taispeántar Leibhéil na gCeannteideal"
 
 #: navipi.src#TB_CONTENT.FN_ITEM_LEFT.toolboxitem.text
 msgid "Promote Level"
@@ -109437,7 +109466,7 @@ msgstr "Carachtair Fhonóta"
 
 #: poolfmt.src#STR_POOLCHR_LABEL.string.text
 msgid "Caption Characters"
-msgstr ""
+msgstr "Carachtair Fhoscríbhinne"
 
 #: poolfmt.src#STR_POOLCHR_NUM_LEVEL.string.text
 msgid "Numbering Symbols"
@@ -109872,7 +109901,7 @@ msgstr "Deighilteoir Innéacs"
 
 #: poolfmt.src#STR_POOLCOLL_TOX_CNTNTH.string.text
 msgid "Contents Heading"
-msgstr ""
+msgstr "Ceannteideal Inneachair"
 
 #: poolfmt.src#STR_POOLCOLL_TOX_CNTNT1.string.text
 msgid "Contents 1"
@@ -110209,11 +110238,11 @@ msgstr "Cliceáil réad"
 
 #: utlui.src#STR_EVENT_START_INS_GLOSSARY.string.text
 msgid "Before inserting AutoText"
-msgstr ""
+msgstr "Roimh UathThéacs a ionsá"
 
 #: utlui.src#STR_EVENT_END_INS_GLOSSARY.string.text
 msgid "After inserting AutoText"
-msgstr ""
+msgstr "Tar éis UathThéacs a ionsá"
 
 #: utlui.src#STR_EVENT_IMAGE_LOAD.string.text
 msgid "Graphics load successful"
@@ -110221,7 +110250,7 @@ msgstr "D'éirigh le luchtú na grafaice"
 
 #: utlui.src#STR_EVENT_IMAGE_ABORT.string.text
 msgid "Graphics load terminated"
-msgstr ""
+msgstr "Scoireadh luchtú na grafaice"
 
 #: utlui.src#STR_EVENT_IMAGE_ERROR.string.text
 msgid "Graphics load faulty"
@@ -110473,6 +110502,15 @@ msgid ""
 "The following Cookies should be set:\n"
 "\n"
 msgstr ""
+"Ba mhaith leis an bhfreastalaí '${HOST}' fianán nó fianáin a shocrú.\n"
+"Tá tagairt ag an eolas sna fianáin d'aicmí URL áirithe. Má luchtaíonn %"
+"PRODUCTNAME cáipéis a fhreagraíonn d'aicmí fianáin a faighte cheana,seolfaidh "
+"%PRODUCTNAME an t-eolas seo don bhfreastalaí. Ligeann sé seo don bhfreastalaí "
+"cuntas a choimeád ar stádas feidhmchláir WWW, m.sh, siopadóireacht ar an "
+"Idirlíon\n"
+"\n"
+"Ba cheart na fianáin seo a leanas a shocrú\n"
+"\n"
 
 #: cookiedg.src#STR_COOKIES_RECV_COOKIES.string.text
 msgid ""
@@ -110499,6 +110537,17 @@ msgid ""
 "The following Cookies should be set:\n"
 "\n"
 msgstr ""
+"Tá %PRODUCTNAME tar éis fianáin  a shábháil don bhfreastalaí '${HOST}', "
+"sheolfar iad le iarraidh don cháipéis ${PATH}.\n"
+"Tá tagairt ag an eolas sna fianáin d'aicmí URL áirithe. Seolfar iad ó roinnt "
+"bhfreastalaí chuig %PRODUCTNAME, agus sábháiltear iad nuair a dhéantar "
+"rochtain ar cháipéisí áirithe. Má luchtaíonn %PRODUCTNAME cáipéis a (dar leis "
+"an URL) fhreagraíonn d'aicmí fianáin a faighte cheana, seolfaidh %PRODUCTNAME "
+"an t-eolas seo don bhfreastalaí. Ligeann sé seo don bhfreastalaí cuntas a "
+"choimeád ar stádais feidhmchláir WWW, m.sh, siopadóireacht ar an Idirlíon\n"
+"\n"
+"Ba cheart na fianáin seo a leanas a shocrú\n"
+"\n"
 
 #: cookiedg.src#STR_COOKIES_SEND_COOKIES.string.text
 msgid ""
@@ -110548,6 +110597,13 @@ msgid ""
 "(s) you must split those modules into a number of smaller modules. Do you "
 "wish to continue to save/export this library?"
 msgstr ""
+"Tá tú ar tí sábháil/easpórtáil leabharlann BASIC atá faoi chosaint fhocail "
+"faire, ina bhfuil na modúil seo a leanas\n"
+"$(ARG1)\n"
+"atá rómhór chun sábháil i bhformáid dhénártha. Más mian leat go mbeidh daoine "
+"gan rochtain ar an fhocal faire in ann macraí a rith sna modúil sin, beidh "
+"ort na modúil sin a scaradh, agus modúil níos lú a chruthú. Ar mhaith leat "
+"leanúint ag sábháil/easpórtáil na leabharlainne seo?"
 
 #: ids.src#RID_UUI_ERRHDL._ERRCODE_UUI_IO_BADCRC___ERRCODE_RES_MASK_.string.text
 msgid "The data from $(ARG1) has an incorrect checksum."
@@ -110659,6 +110715,8 @@ msgid ""
 "The operation on $(ARG1) cannot be performed because there is no more memory "
 "available."
 msgstr ""
+"Ní féidir an oibríocht ar $(ARG1) a chur i gcrích mar níl a thuilleadh "
+"cuimhne ar fáil."
 
 #: ids.src#RID_UUI_ERRHDL._ERRCODE_UUI_IO_PENDING___ERRCODE_RES_MASK_.string.text
 msgid "The operation on $(ARG1) cannot continue because more data is pending."
