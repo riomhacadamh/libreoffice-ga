@@ -72799,7 +72799,7 @@ msgstr "Tá an cháipéis oscailte cheana le cur in eagar."
 
 #: doc.src#STR_ERROR_SAVE.string.text
 msgid "Error recording document "
-msgstr "Earráid ag taifeadadh na cáipéise "
+msgstr "Earráid agus cáipéis á taifeadadh "
 
 #: doc.src#STR_TEMPLATE_FILTER.string.text
 msgid ""
@@ -72838,7 +72838,7 @@ msgstr "Earráid agus teimpléad á athainmniú."
 
 #: doc.src#MSG_ERROR_RENAME_TEMPLATE_REGION.errorbox.text
 msgid "Error renaming template category."
-msgstr "Earráid ag athainmniú catagóire an teimpléid."
+msgstr "Earráid agus catagóir an teimpléid á hathainmniú."
 
 #: doc.src#MSG_ERROR_EMPTY_NAME.errorbox.text
 msgid "Please specify a name."
