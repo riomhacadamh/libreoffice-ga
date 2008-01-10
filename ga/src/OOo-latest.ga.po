@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OOo\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2007-11-30 22:46+0100\n"
+"POT-Creation-Date: 2008-01-08 20:04+0100\n"
 "PO-Revision-Date: 2007-01-15 16:30-0000\n"
 "Last-Translator: Kevin Scannell <scannell@slu.edu>\n"
 "Language-Team: \n"
@@ -10337,7 +10337,6 @@ msgid "Dutch (Netherlands)"
 msgstr "Ollainnis (An Ísiltír)"
 
 #: setup.ulf#_LANGUAGE_NO_NO_.LngText.text
-#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_NORWEGIAN_BOKMAL.pairedlist.text
 msgid "Norwegian (Bokmål)"
 msgstr "Ioruais (Bokmål)"
 
@@ -18920,6 +18919,18 @@ msgstr ""
 #: setupstrings.ulf#STRING_INSTALLERFACTORY_OS_NOT_SUPPORTED.LngText.text
 msgid "Sorry, this Operating System is not supported yet."
 msgstr "Ní thacaítear leis an gCóras seo faoi láthair."
+
+#: setupstrings.ulf#STRING_OLDER_VERSION_INSTALLED_FOUND.LngText.text
+msgid "An older version of ${PRODUCT_NAME} was found on your system in:"
+msgstr "Fuarthas leagan níos sine de ${PRODUCT_NAME} ar do chóras i:"
+
+#: setupstrings.ulf#STRING_OLDER_VERSION_INSTALLED_REMOVE.LngText.text
+msgid ""
+"You have to remove the older version of ${PRODUCT_NAME} before you can "
+"install the newer one."
+msgstr ""
+"Ní mór duit an leagan níos sine de ${PRODUCT_NAME} a bhaint amach sular "
+"féidir an ceann níos nuaí a shuiteáil."
 
 #: setupstrings.ulf#STRING_NEWER_VERSION_INSTALLED_FOUND.LngText.text
 msgid "A newer version of ${PRODUCT_NAME} was found on your system in:"
@@ -49063,7 +49074,6 @@ msgid "Installs Norwegian (Bokmal) support in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Suiteáil tacaíocht don Ioruais (Bokmål) i %PRODUCTNAME %PRODUCTVERSION"
 
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_NN.LngText.text
-#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_NORWEGIAN_NYNORSK.pairedlist.text
 msgid "Norwegian (Nynorsk)"
 msgstr "Ioruais (Nynorsk)"
 
@@ -49219,7 +49229,6 @@ msgid "Installs Galician support in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Suiteáil tacaíocht don Ghailísis i %PRODUCTNAME %PRODUCTVERSION"
 
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_SH_YU.LngText.text
-#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_SERBIAN_LATIN.pairedlist.text
 msgid "Serbian (Latin)"
 msgstr "Seirbis (Laidineach)"
 
@@ -49238,7 +49247,6 @@ msgid "Installs Irish support in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Suiteáil tacaíocht don Ghaeilge i %PRODUCTNAME %PRODUCTVERSION"
 
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_SR_CS.LngText.text
-#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_SERBIAN_CYRILLIC.pairedlist.text
 msgid "Serbian (Cyrillic)"
 msgstr "Seirbis (Coireallach)"
 
@@ -78388,11 +78396,11 @@ msgid "Assami"
 msgstr "Asaimis"
 
 #: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_AZERI_LATIN.pairedlist.text
-msgid "Azerbaijani (Latin)"
+msgid "Azerbaijani Latin"
 msgstr "Asarbaiseáinis (Laidin)"
 
 #: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_AZERI_CYRILLIC.pairedlist.text
-msgid "Azerbaijani (Cyrillic)"
+msgid "Azerbaijani Cyrillic"
 msgstr "Asarbaiseáinis (Coireallach)"
 
 #: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_BELARUSIAN.pairedlist.text
@@ -78561,10 +78569,42 @@ msgstr "Neipealais (Neipeal)"
 msgid "Nepali (India)"
 msgstr "Neipealais (An India)"
 
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_NORWEGIAN_BOKMAL.pairedlist.text
+msgid "Norwegian, Bokmål"
+msgstr "Ioruais (Bokmål)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_NORWEGIAN_NYNORSK.pairedlist.text
+msgid "Norwegian, Nynorsk"
+msgstr "Ioruais (Nynorsk)"
+
 #: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_ORIYA.pairedlist.text
 #: charmap.src#RID_SUBSETMAP.RID_SUBSETSTR_ORIYA.string.text
 msgid "Oriya"
-msgstr ""
+msgstr "Oirísis"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_SERBIAN_CYRILLIC.pairedlist.text
+msgid "Serbian Cyrillic (Serbia and Montenegro)"
+msgstr "Seirbis (Coireallach, An tSeirbia agus Montainéagró)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_SERBIAN_LATIN.pairedlist.text
+msgid "Serbian Latin (Serbia and Montenegro)"
+msgstr "Seirbis (Laidineach, An tSeirbia agus Montainéagró)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_SERBIAN_CYRILLIC_SERBIA.pairedlist.text
+msgid "Serbian Cyrillic (Serbia)"
+msgstr "Seirbis (Coireallach, An tSeirbia)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_SERBIAN_LATIN_SERBIA.pairedlist.text
+msgid "Serbian Latin (Serbia)"
+msgstr "Seirbis (Laidineach, An tSeirbia)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_SERBIAN_CYRILLIC_MONTENEGRO.pairedlist.text
+msgid "Serbian Cyrillic (Montenegro)"
+msgstr "Seirbis (Coireallach, Montainéagró)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_SERBIAN_LATIN_MONTENEGRO.pairedlist.text
+msgid "Serbian Latin (Montenegro)"
+msgstr "Seirbis (Laidineach, Montainéagró)"
 
 #: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_SINDHI.pairedlist.text
 msgid "Sindhi"
@@ -78575,8 +78615,8 @@ msgid "Spanish (Mexico)"
 msgstr "Spáinnis (Meicsiceo)"
 
 #: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_SPANISH_MODERN.pairedlist.text
-msgid "Spanish (Modern)"
-msgstr "Spáinnis (Nua-aimseartha)"
+msgid "Spanish, Modern (Spain)"
+msgstr "Spáinnis Nua-Aimseartha (An Spáinn)"
 
 #: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_SPANISH_GUATEMALA.pairedlist.text
 msgid "Spanish (Guatemala)"
@@ -78657,7 +78697,7 @@ msgstr "Sualainnis (An Fhionlainn)"
 #: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_TAMIL.pairedlist.text
 #: charmap.src#RID_SUBSETMAP.RID_SUBSETSTR_TAMIL.string.text
 msgid "Tamil"
-msgstr ""
+msgstr "Tamailis"
 
 #: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_URDU_PAKISTAN.pairedlist.text
 msgid "Urdu (Pakistan)"
@@ -78668,7 +78708,7 @@ msgid "Urdu (India)"
 msgstr "Urdais (An India)"
 
 #: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_UZBEK_LATIN.pairedlist.text
-msgid "Uzbek (Latin)"
+msgid "Uzbek Latin"
 msgstr "Úisbéicis (Laidineach)"
 
 #: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER5.pairedlist.text
@@ -78714,7 +78754,7 @@ msgstr "Gaeilge na hAlban"
 #: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_MONGOLIAN.pairedlist.text
 #: charmap.src#RID_SUBSETMAP.RID_SUBSETSTR_MONGOLIAN.string.text
 msgid "Mongolian"
-msgstr ""
+msgstr "Mongóilis"
 
 #: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_INTERLINGUA.pairedlist.text
 msgid "Interlingua"
@@ -78765,8 +78805,8 @@ msgid "Kalaallisut"
 msgstr "Graonlainnis"
 
 #: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_NDEBELE_SOUTH.pairedlist.text
-msgid "Ndebele (South)"
-msgstr "Ndebele (Theas)"
+msgid "Ndebele, South"
+msgstr "Ndebele Theas"
 
 #: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_SESOTHO.pairedlist.text
 msgid "Southern Sotho"
@@ -78881,6 +78921,42 @@ msgstr "Gandais"
 #: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_LINGALA_DRCONGO.pairedlist.text
 msgid "Lingala"
 msgstr "Lingala"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_LOW_GERMAN.pairedlist.text
+msgid "Low German"
+msgstr "Gearmáinis Íochtarach"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_HILIGAYNON.pairedlist.text
+msgid "Hiligaynon"
+msgstr ""
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_NYANJA.pairedlist.text
+msgid "Nyanja"
+msgstr ""
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_KASHUBIAN.pairedlist.text
+msgid "Kashubian"
+msgstr "Caisiúibis"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_SPANISH_CUBA.pairedlist.text
+msgid "Spanish (Cuba)"
+msgstr "Spáinnis (Cúba)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_TETUN.pairedlist.text
+msgid "Tetun"
+msgstr ""
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_QUECHUA_NORTH_BOLIVIA.pairedlist.text
+msgid "Quechua (Bolivia, North)"
+msgstr "Ceatsuais (An Bholaiv Thuaidh)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_QUECHUA_SOUTH_BOLIVIA.pairedlist.text
+msgid "Quechua (Bolivia, South)"
+msgstr "Ceatsuais (An Bholaiv Theas)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_SOMALI.pairedlist.text
+msgid "Somali"
+msgstr "Somáilis"
 
 #: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_SAMI_INARI.pairedlist.text
 msgid "Sami, Inari (Finland)"
