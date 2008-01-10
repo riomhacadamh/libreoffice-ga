@@ -1,5 +1,5 @@
 # OOo pot file for Irish.
-# CURRENT VERSION = SRC680_m238
+# CURRENT VERSION = SRC680_m242
 # First version produced Sept. 2004 by Kevin Scannell using the oo2po
 # scripts by David Fraser et al
 msgid ""
