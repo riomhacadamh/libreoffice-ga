@@ -13,7 +13,9 @@
 #    and give current translation counts, version number in log entry
 # $ make   (rebuilds GSI and copies it to obair for Pavel's system)
 
-VERSION=SRC680_m216
+VERSION=DEV300_m2
+# PO2OO=/home/kps/seal/translate/translate/translate/convert/po2oo
+PO2OO=po2oo
 
 all : OOo-$(VERSION)-ga-GSI.sdf
 	${HOME}/seal/gsicheck/gsicheck -c -l ga OOo-$(VERSION)-ga-GSI.sdf
@@ -32,7 +34,9 @@ all : OOo-$(VERSION)-ga-GSI.sdf
 #   tools->options->language, choose "ga" and restart
 OOo-$(VERSION)-ga-GSI.sdf : OOo-latest.ga.po
 	bash oonua
-	po2oo -l ga -t en-US.sdf -i po -o $@
+	(. ~/seal/translate/translate/setpath; $(PO2OO) --version)
+	(. ~/seal/translate/translate/setpath; $(PO2OO) -l ga -t en-US.sdf -i po -o $@)
+	sed -i 's/\\<empty\\>/<empty>/' $@
 
 propogate : FORCE
 	perl adhoc.pl | msgcat - - > OOo-temp.ga.po
