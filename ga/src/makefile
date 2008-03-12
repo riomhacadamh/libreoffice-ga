@@ -14,7 +14,6 @@
 # $ make   (rebuilds GSI and copies it to obair for Pavel's system)
 
 VERSION=DEV300_m2
-# PO2OO=/home/kps/seal/translate/translate/translate/convert/po2oo
 PO2OO=po2oo
 
 all : OOo-$(VERSION)-ga-GSI.sdf
@@ -36,7 +35,6 @@ OOo-$(VERSION)-ga-GSI.sdf : OOo-latest.ga.po
 	bash oonua
 	(. ~/seal/translate/translate/setpath; $(PO2OO) --version)
 	(. ~/seal/translate/translate/setpath; $(PO2OO) -l ga -t en-US.sdf -i po -o $@)
-	sed -i 's/\\<empty\\>/<empty>/' $@
 
 propogate : FORCE
 	perl adhoc.pl | msgcat - - > OOo-temp.ga.po
