@@ -10403,7 +10403,7 @@ msgstr "N"
 #: unopkg.src#RID_STR_CONCURRENTINSTANCE.string.text
 msgid "You need to close the already opened Extension Manager to continue."
 msgstr ""
-"Ní mór duit an bainisteoir eisínteachta atá ar oscailt cheana féin a dhúnadh."
+"Ní mór duit Bainisteoir na nEisínteachta atá ar oscailt cheana féin a dhúnadh."
 
 #: wizard.src#DLG_FIRSTSTART_WIZARD.modaldialog.text
 msgctxt "wizard.src#DLG_FIRSTSTART_WIZARD.modaldialog.text"
@@ -41932,8 +41932,8 @@ msgid ""
 "Chinese, Japanese and Korean versions: 600 MB (multi-language version:  800 "
 "MB) available hard disk space)"
 msgstr ""
-"Leaganacha Sínise, Seapáinise, agus Cóiréise: 600 MB (leagan il-"
-"teanga: 800 MB) spás inúsáidte ar an diosca crua)"
+"Leaganacha Sínise, Seapáinise, agus Cóiréise: 600 MB (leagan il-teanga: 800 "
+"MB) spás inúsáidte ar an diosca crua)"
 
 #: readme.xrm#ooo_readme.Installation.MacX_INTEL.macxivideo.readmeitem.text
 msgid ""
@@ -41961,7 +41961,8 @@ msgstr "370 MB spás diosca inúsáidte"
 #: readme.xrm#ooo_readme.Installation.WNT2.WinHDCJK.readmeitem.text
 msgid "Chinese, Japanese and Korean versions: 650 MB available hard disk space"
 msgstr ""
-"Leaganacha Sínise, Seapáinise, agus Cóiréise: 650 MB spás inúsáidte ar an diosca crua"
+"Leaganacha Sínise, Seapáinise, agus Cóiréise: 650 MB spás inúsáidte ar an "
+"diosca crua"
 
 #: readme.xrm#ooo_readme.Installation.WNT2.jtzu56.readmeitem.text
 msgid ""
@@ -41970,8 +41971,7 @@ msgstr ""
 
 #: readme.xrm#ooo_readme.Installation.Sols2.s2335.readmeitem.text
 msgid "Solaris 10 operating system (SPARC platform) or higher"
-msgstr ""
-"Córas Oibriúcháin Solaris 10 (ardán SPARC) nó níos airde"
+msgstr "Córas Oibriúcháin Solaris 10 (ardán SPARC) nó níos airde"
 
 #: readme.xrm#ooo_readme.Installation.Sols2.s253.readmeitem.text
 msgctxt "readme.xrm#ooo_readme.Installation.Sols2.s253.readmeitem.text"
@@ -41987,7 +41987,8 @@ msgstr "480 MB spás diosca inúsáidte"
 msgctxt "readme.xrm#ooo_readme.Installation.Sols2.SolsHDCJK.readmeitem.text"
 msgid "Chinese, Japanese and Korean versions: 480 MB available hard disk space"
 msgstr ""
-"Leaganacha Sínise, Seapáinise, agus Cóiréise: 480 MB spás inúsáidte ar an diosca crua"
+"Leaganacha Sínise, Seapáinise, agus Cóiréise: 480 MB spás inúsáidte ar an "
+"diosca crua"
 
 #: readme.xrm#ooo_readme.Installation.Sols2.s2s43gfe.readmeitem.text
 msgctxt "readme.xrm#ooo_readme.Installation.Sols2.s2s43gfe.readmeitem.text"
@@ -41995,7 +41996,8 @@ msgid ""
 "X Server with 1024x768 resolution (higher resolution recommended), with at "
 "least 256 colors"
 msgstr ""
-"Freastalaí X le taifeach 1024×768 nó níos fearr (moltar taifeach níos airde), agus 256 dath ar a laghad"
+"Freastalaí X le taifeach 1024×768 nó níos fearr (moltar taifeach níos "
+"airde), agus 256 dath ar a laghad"
 
 #: readme.xrm#ooo_readme.Installation.Sols2.n4234rw.readmeitem.text
 msgctxt "readme.xrm#ooo_readme.Installation.Sols2.n4234rw.readmeitem.text"
@@ -42008,13 +42010,12 @@ msgid ""
 "Gnome 2.6 or higher, with the gail 1.8.6 and the at-spi 1.7 packages, "
 "required for support of assistive technology tools (AT tools)"
 msgstr ""
-"Gnome 2.6 nó níos déanaí, le pacáistí gail 1.8.6 agus at-spi 1.7, chun tacú le huirlisí teicneolaíochta "
-"cúnta (uirlisí AT)"
+"Gnome 2.6 nó níos déanaí, le pacáistí gail 1.8.6 agus at-spi 1.7, chun tacú "
+"le huirlisí teicneolaíochta cúnta (uirlisí AT)"
 
 #: readme.xrm#ooo_readme.Installation.Solia2.s23h.readmeitem.text
 msgid "Solaris 10 operating system (x86 platform) or higher"
-msgstr ""
-"Córas Oibriúcháin Solaris 10 (ardán x86) nó níos airde"
+msgstr "Córas Oibriúcháin Solaris 10 (ardán x86) nó níos airde"
 
 #: readme.xrm#ooo_readme.Installation.Solia2.s24f.readmeitem.text
 msgctxt "readme.xrm#ooo_readme.Installation.Solia2.s24f.readmeitem.text"
@@ -42030,7 +42031,8 @@ msgstr "480 MB spás diosca inúsáidte"
 msgctxt "readme.xrm#ooo_readme.Installation.Solia2.SoliHDCJK.readmeitem.text"
 msgid "Chinese, Japanese and Korean versions: 480 MB available hard disk space"
 msgstr ""
-"Leaganacha Sínise, Seapáinise, agus Cóiréise: 480 MB spás inúsáidte ar an diosca crua"
+"Leaganacha Sínise, Seapáinise, agus Cóiréise: 480 MB spás inúsáidte ar an "
+"diosca crua"
 
 #: readme.xrm#ooo_readme.Installation.Solia2.fghfgh.readmeitem.text
 msgctxt "readme.xrm#ooo_readme.Installation.Solia2.fghfgh.readmeitem.text"
@@ -42038,7 +42040,8 @@ msgid ""
 "X Server with 1024x768 resolution (higher resolution recommended), with at "
 "least 256 colors"
 msgstr ""
-"Freastalaí X le taifeach 1024×768 nó níos fearr (moltar taifeach níos airde), agus 256 dath ar a laghad"
+"Freastalaí X le taifeach 1024×768 nó níos fearr (moltar taifeach níos "
+"airde), agus 256 dath ar a laghad"
 
 #: readme.xrm#ooo_readme.Installation.Solia2.mgjfg.readmeitem.text
 msgctxt "readme.xrm#ooo_readme.Installation.Solia2.mgjfg.readmeitem.text"
@@ -42051,8 +42054,8 @@ msgid ""
 "Gnome 2.6 or higher, with the gail 1.8.6 and the at-spi 1.7 packages, "
 "required for support of assistive technology tools (AT tools)"
 msgstr ""
-"Gnome 2.6 nó níos déanaí, le pacáistí gail 1.8.6 agus at-spi 1.7, chun tacú le huirlisí teicneolaíochta "
-"cúnta (uirlisí AT)"
+"Gnome 2.6 nó níos déanaí, le pacáistí gail 1.8.6 agus at-spi 1.7, chun tacú "
+"le huirlisí teicneolaíochta cúnta (uirlisí AT)"
 
 #: readme.xrm#ooo_readme.Installation.Linuxi2.s2we35.readmeitem.text
 msgid "Linux Kernel version 2.4 or higher"
@@ -42083,7 +42086,8 @@ msgstr "440 MB spás diosca inúsáidte"
 #: readme.xrm#ooo_readme.Installation.Linuxi2.LinHDCJK.readmeitem.text
 msgid "Chinese, Japanese and Korean versions: 440 MB available hard disk space"
 msgstr ""
-"Leaganacha Sínise, Seapáinise, agus Cóiréise: 440 MB spás inúsáidte ar an diosca crua"
+"Leaganacha Sínise, Seapáinise, agus Cóiréise: 440 MB spás inúsáidte ar an "
+"diosca crua"
 
 #: readme.xrm#ooo_readme.Installation.Linuxi2.ghjhhr.readmeitem.text
 msgctxt "readme.xrm#ooo_readme.Installation.Linuxi2.ghjhhr.readmeitem.text"
@@ -42091,7 +42095,8 @@ msgid ""
 "X Server with 1024x768 resolution (higher resolution recommended), with at "
 "least 256 colors"
 msgstr ""
-"Freastalaí X le taifeach 1024×768 nó níos fearr (moltar taifeach níos airde), agus 256 dath ar a laghad"
+"Freastalaí X le taifeach 1024×768 nó níos fearr (moltar taifeach níos "
+"airde), agus 256 dath ar a laghad"
 
 #: readme.xrm#ooo_readme.Installation.Linuxi2.fhrtz5.readmeitem.text
 msgctxt "readme.xrm#ooo_readme.Installation.Linuxi2.fhrtz5.readmeitem.text"
@@ -42104,8 +42109,8 @@ msgid ""
 "Gnome 2.6 or higher, with the gail 1.8.6 and the at-spi 1.7 packages, "
 "required for support of assistive technology tools (AT tools)"
 msgstr ""
-"Gnome 2.6 nó níos déanaí, le pacáistí gail 1.8.6 agus at-spi 1.7, chun tacú le huirlisí teicneolaíochta "
-"cúnta (uirlisí AT)"
+"Gnome 2.6 nó níos déanaí, le pacáistí gail 1.8.6 agus at-spi 1.7, chun tacú "
+"le huirlisí teicneolaíochta cúnta (uirlisí AT)"
 
 #: readme.xrm#ooo_readme.Installation.Linuxi3.Linuxi3a.readmeitem.text
 msgid ""
@@ -42157,6 +42162,8 @@ msgid ""
 "http://www.microsoft.com/downloads/details.aspx?familyid=9B2DA534-3E03-4391-"
 "8A4D-074B9F2BC1BF "
 msgstr ""
+"http://www.microsoft.com/downloads/details.aspx?familyid=9B2DA534-3E03-4391-"
+"8A4D-074B9F2BC1BF "
 
 #: readme.xrm#ooo_readme.Installation.StartupProblemsHeader.naso.readmeitem.text
 msgid "Problems During Program Startup"
@@ -42486,7 +42493,8 @@ msgstr ""
 "fhorbairt agus riachtanais na n-úsáideoirí a fhreagairt go díreach. Lena "
 "Pholasaí Príobháideachais, déanann Comhphobal ${PRODUCTNAME} gach iarracht "
 "do shonraí pearsanta a chosaint. Má chaill tú an clárú ag am suiteála, is "
-"féidir leat filleadh agus clárú am ar bith trí \"Cabhair > Clárú\" a roghnú ón phríomhroghchlár."
+"féidir leat filleadh agus clárú am ar bith trí \"Cabhair > Clárú\" a roghnú "
+"ón phríomhroghchlár."
 
 #: readme.xrm#ooo_readme.UserSurvey.A1.a.readmeitem.text
 msgid "User Survey "
@@ -42686,8 +42694,8 @@ msgid ""
 "Main user forum: user@openoffice.org *easy way to lurk on discussions* "
 "(heavy traffic) "
 msgstr ""
-"Príomhfhóram na n-úsáideoirí: user@openoffice.org *slí furasta le bheith "
-"ag cúlchoimhéad sna díospóireachtaí* (trácht mór) "
+"Príomhfhóram na n-úsáideoirí: user@openoffice.org *slí furasta le bheith ag "
+"cúlchoimhéad sna díospóireachtaí* (trácht mór) "
 
 #: readme.xrm#ooo_readme.GettingInvolved.emptyparagraph.A8.d.readmeitem.text
 msgid ""
@@ -72656,8 +72664,8 @@ msgstr ""
 "bhformáid %FORMATNAME. An bhfuil tú cinnte gur maith leat an cháipéis a "
 "shábháil san fhormáid seo mar sin féin?\n"
 "\n"
-"Bain úsáid as an bhformáid ODF is déanaí chun "
-"cinntiú go sábhálfar i gceart gach formáidiú agus inneachar."
+"Bain úsáid as an bhformáid ODF is déanaí chun cinntiú go sábhálfar i gceart "
+"gach formáidiú agus inneachar."
 
 #: alienwarn.src#RID_DLG_ALIEN_WARNING.PB_NO.okbutton.text
 msgid "~Keep Current Format"
@@ -73841,7 +73849,8 @@ msgid ""
 "removes all present signatures.\n"
 "Do you want to save the document?"
 msgstr ""
-"Ní mór an cháipéis a shábháil sula mbeifear in ann é a shíniú. Bainfear gach síniú atá sa cháipéis faoi láthair nuair a shábhálfaidh tú í.\n"
+"Ní mór an cháipéis a shábháil sula mbeifear in ann é a shíniú. Bainfear gach "
+"síniú atá sa cháipéis faoi láthair nuair a shábhálfaidh tú í.\n"
 "Ar mhaith leat an cháipéis a shábháil?"
 
 #: doctdlg.src#DLG_DOC_TEMPLATE.FL_EDIT.fixedline.text
@@ -95983,8 +95992,7 @@ msgstr "Scarbhileog"
 #: optsave.src#RID_SFXPAGE_SAVE.FT_WARN.fixedtext.text
 msgid "Not using ODF 1.2 may cause infomation to be lost."
 msgstr ""
-"Is féidir go gcaillfear formáidiú nó inneachar mura n-úsáidfear "
-"ODF 1.2"
+"Is féidir go gcaillfear formáidiú nó inneachar mura n-úsáidfear ODF 1.2"
 
 #: optsave.src#RID_SVXDLG_FILTER_WARNING.FT_FILTER_WARNING.fixedtext.text
 msgid "Using \"%1\" as default file format may cause information loss.\n"
@@ -98846,7 +98854,7 @@ msgstr "~Sínis Shímplithe go Sínis Thraidisiúnta"
 #: wiki.xhp#tit.help.text
 msgctxt "wiki.xhp#tit.help.text"
 msgid "@WIKIEXTENSIONPRODUCTNAME@"
-msgstr ""
+msgstr "@WIKIEXTENSIONPRODUCTNAME@"
 
 #: wiki.xhp#bm_id3154408.help.text
 msgid ""
@@ -98854,11 +98862,14 @@ msgid ""
 "bookmark_value><bookmark_value>@WIKIEXTENSIONPRODUCTNAME@</"
 "bookmark_value><bookmark_value>extensions;MediaWiki</bookmark_value>"
 msgstr ""
+"<bookmark_value>Vicí;@WIKIEXTENSIONPRODUCTNAME@</"
+"bookmark_value><bookmark_value>@WIKIEXTENSIONPRODUCTNAME@</"
+"bookmark_value><bookmark_value>eisínteachtaí;MediaWiki</bookmark_value>"
 
 #: wiki.xhp#hd_id5993530.help.text
 msgctxt "wiki.xhp#hd_id5993530.help.text"
 msgid "@WIKIEXTENSIONPRODUCTNAME@"
-msgstr ""
+msgstr "@WIKIEXTENSIONPRODUCTNAME@"
 
 #: wiki.xhp#par_id9647511.help.text
 msgid ""
@@ -98894,6 +98905,8 @@ msgid ""
 "A Wiki account on a supported <link href=\"http://www.mediawiki.org/wiki/"
 "MediaWiki\">MediaWiki</link> server"
 msgstr ""
+"Cuntas vicí ar fhreastalaí <link href=\"http://www.mediawiki.org/wiki/"
+"MediaWiki\">MediaWiki</link> a dtacaítear leis"
 
 #: wiki.xhp#hd_id8047120.help.text
 msgid "Installing @WIKIEXTENSIONPRODUCTNAME@"
@@ -98920,16 +98933,19 @@ msgid ""
 "In a Writer window, choose <item type=\"menuitem\">Tools - Extension "
 "Manager</item>."
 msgstr ""
+"I bhfuinneog Writer, roghnaigh <item type=\"menuitem\">Uirlisí - Bainisteoir "
+"na nEisínteachtaí</item>."
 
 #: wiki.xhp#par_id4338511.help.text
 msgid "In the Extension Manager dialog, click Add."
-msgstr ""
+msgstr "Cliceáil \"Cuir Leis\" i mBainisteoir na nEisínteachtaí."
 
 #: wiki.xhp#par_id5882442.help.text
 msgid ""
 "Locate the @WIKIEXTENSIONFILENAME@.oxt file, click Open, and then click "
 "Close. "
 msgstr ""
+"Aimsigh comhad @WIKIEXTENSIONFILENAME@.oxt, cliceáil Oscail, ansin cliceáil Dún. "
 
 #: wiki.xhp#par_id4008911.help.text
 msgid ""
@@ -98954,6 +98970,8 @@ msgid ""
 "In a Writer window, choose <item type=\"menuitem\">Tools - Extension "
 "Manager</item>."
 msgstr ""
+"I bhfuinneog Writer, roghnaigh <item type=\"menuitem\">Uirlisí - Bainisteoir "
+"na nEisínteachtaí</item>."
 
 #: wiki.xhp#par_id9504379.help.text
 msgid "Click the plus sign (+) in front of My Extensions."
@@ -98961,7 +98979,7 @@ msgstr ""
 
 #: wiki.xhp#par_id8431348.help.text
 msgid "Select the extension, click Remove, and then click Close."
-msgstr ""
+msgstr "Roghnaigh an eisínteacht, cliceáil Bain, ansin cliceáil Dún."
 
 #: wiki.xhp#hd_id5316019.help.text
 msgid "To Connect to a Wiki"
@@ -98988,12 +99006,15 @@ msgid ""
 "Open a Writer document, and choose <item type=\"menuitem\">Tools - Options - "
 "Internet - MediaWiki</item>."
 msgstr ""
+"Oscail cáipéis Writer agus roghnaigh <item type=\"menuitem\">Uirlisí - Roghanna - Idirlíon - MediaWiki</item>."
 
 #: wiki.xhp#par_id368968.help.text
 msgid ""
 "In the <link href=\"@WIKIEXTENSIONID@/wikisettings.xhp\">Options</link> "
 "dialog, click Add."
 msgstr ""
+"Sa dialóg <link href=\"@WIKIEXTENSIONID@/wikisettings.xhp\">Roghanna</link>,"
+" cliceáil \"Cuir Leis\"."
 
 #: wiki.xhp#par_id6962187.help.text
 msgid ""
@@ -99051,7 +99072,7 @@ msgstr ""
 
 #: wiki.xhp#par_id4566484.help.text
 msgid "Choose <item type=\"menuitem\">File - Send - To MediaWiki</item>."
-msgstr ""
+msgstr "Roghnaigh <item type=\"menuitem\">Comhad - Seol - Go MediaWiki</item>."
 
 #: wiki.xhp#par_id228278.help.text
 msgid ""
@@ -99061,7 +99082,7 @@ msgstr ""
 
 #: wiki.xhp#par_id2564165.help.text
 msgid "<emph>MediaWiki server</emph>: Select the Wiki."
-msgstr ""
+msgstr "<emph>Freastalaí MediaWiki</emph>: Roghnaigh an Vicí."
 
 #: wiki.xhp#par_id5566576.help.text
 msgid ""
