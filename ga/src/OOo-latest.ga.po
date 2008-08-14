@@ -1,5 +1,5 @@
 # OOo pot file for Irish.
-# CURRENT VERSION = DEV300_m25
+# CURRENT VERSION = OOO300_m2
 # First version produced Sept. 2004 by Kevin Scannell using the oo2po
 # scripts by David Fraser et al
 msgid ""
@@ -8,9 +8,9 @@ msgstr ""
 "Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?"
 "subcomponent=ui&comment=&short_desc=Localization%20issue%20in%20file%3A%"
 "20accessibility/source/helper.oo&component=l10n&form_name=enter_issue\n"
-"POT-Creation-Date: 2008-07-14 16:42+0200\n"
+"POT-Creation-Date: 2008-08-13 14:13+0200\n"
 "PO-Revision-Date: 2007-01-15 16:30-0000\n"
-"Last-Translator: Kevin Scannell <scannell@slu.edu>\n"
+"Last-Translator: Kevin Scannell <kscanne@gmail.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -1192,7 +1192,7 @@ msgstr "~Dún"
 #: basic.src#RID_EDIT.RID_EDITDEL.menuitem.text
 #: padialog.src#RID_ADDP_PAGE_CHOOSEDRIVER.RID_ADDP_CHDRV_BTN_REMOVE.pushbutton.text
 #: consdlg.src#RID_SCDLG_CONSOLIDATE.BTN_REMOVE.pushbutton.text
-#: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_REMOVE.value.text
+#: SunPresentationMinimizer.xcu#.SunPresentationMinimizer.Strings.STR_REMOVE.value.text
 #: docvor.src#DLG_ORGANIZE.BTN_EDIT.ID_DELETE.menuitem.text
 #: smres.src#RID_SYMDEFINEDIALOG.3.pushbutton.text
 #: globlmn_tmpl.hrc#ITEM_EDIT_DELETE.#define.text
@@ -1629,7 +1629,7 @@ msgstr "~Fuinneog"
 
 #: basic.src#RID_APPMENUBAR.RID_APPHELP.menuitem.text
 #: WizardPages.src#WIZ_RTFCOPYTABLE.PB_HELP.helpbutton.text
-#: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_HELP.value.text
+#: SunPresentationMinimizer.xcu#.SunPresentationMinimizer.Strings.STR_HELP.value.text
 #: globlmn_tmpl.hrc#ITEM_HELP_HELPMENU.#define.text
 #: fmsearch.src#RID_SVXDLG_SEARCHFORM.1.helpbutton.text
 #: btntext.src#SV_BUTTONTEXT_HELP.string.text
@@ -4947,7 +4947,7 @@ msgstr "Ar A~ghaidh >>"
 #: t602filter.src#T602FILTER_STR_CANCEL_BUTTON.string.text
 #: setupstrings.ulf#STRING_CANCEL.LngText.text
 #: toolbox.src#SCSTR_QHELP_BTNCANCEL.string.text
-#: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_CANCEL.value.text
+#: SunPresentationMinimizer.xcu#.SunPresentationMinimizer.Strings.STR_CANCEL.value.text
 #: swslots.src#FN_ESCAPE.sfxslotinfo.text
 #: btntext.src#SV_BUTTONTEXT_CANCEL.string.text
 #: euro.src#MESSAGES___18.string.text
@@ -4961,7 +4961,7 @@ msgstr "Cealaigh"
 #: formres.src#RID_RSC_ENUM_PUSHBUTTONTYPE.2.string.text
 #: t602filter.src#T602FILTER_STR_OK_BUTTON.string.text
 #: setupstrings.ulf#STRING_OK.LngText.text
-#: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_OK.value.text
+#: SunPresentationMinimizer.xcu#.SunPresentationMinimizer.Strings.STR_OK.value.text
 #: WikiExtension.xcu#.WikiExtension.Strings.Dlg_OK.value.text
 #: unknownauthdlg.src#DLG_UUI_UNKNOWNAUTH.PB_OK.pushbutton.text
 #: btntext.src#SV_BUTTONTEXT_OK.string.text euro.src#MESSAGES___17.string.text
@@ -8532,7 +8532,7 @@ msgid "~Cancel"
 msgstr "~Cealaigh"
 
 #: WizardPages.src#WIZ_RTFCOPYTABLE.PB_PREV.pushbutton.text
-#: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_BACK.value.text
+#: SunPresentationMinimizer.xcu#.SunPresentationMinimizer.Strings.STR_BACK.value.text
 #: dbwizres.src#RID_COMMON_START___13.string.text
 msgid "< ~Back"
 msgstr "< ~Siar"
@@ -10403,7 +10403,8 @@ msgstr "N"
 #: unopkg.src#RID_STR_CONCURRENTINSTANCE.string.text
 msgid "You need to close the already opened Extension Manager to continue."
 msgstr ""
-"Ní mór duit Bainisteoir na nEisínteachta atá ar oscailt cheana féin a dhúnadh."
+"Ní mór duit Bainisteoir na nEisínteachta atá ar oscailt cheana féin a "
+"dhúnadh."
 
 #: wizard.src#DLG_FIRSTSTART_WIZARD.modaldialog.text
 msgctxt "wizard.src#DLG_FIRSTSTART_WIZARD.modaldialog.text"
@@ -10554,7 +10555,7 @@ msgstr ""
 
 #: wizard.src#STR_FINISH.string.text
 #: padialog.src#RID_ADD_PRINTER_DIALOG.RID_ADDP_BTN_FINISH.okbutton.text
-#: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_FINISH.value.text
+#: SunPresentationMinimizer.xcu#.SunPresentationMinimizer.Strings.STR_FINISH.value.text
 #: wizardmachine.src#STR_WIZDLG_FINISH.string.text
 #: docrecovery.src#RID_SVXPAGE_DOCRECOVERY_RECOVER.STR_RECOVERYONLY_FINISH.string.text
 #: mailmergewizard.src#DLG_MAILMERGEWIZARD.ST_FINISH.string.text
@@ -11990,7 +11991,7 @@ msgstr "Cruinneas deachúlach"
 
 #: formres.src#RID_STR_IMAGE_URL.string.text
 #: navipi.src#SCSTR_CONTENT_GRAPHIC.string.text
-#: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_IMAGE_OPTIMIZATION.value.text
+#: SunPresentationMinimizer.xcu#.SunPresentationMinimizer.Strings.STR_IMAGE_OPTIMIZATION.value.text
 #: strings.src#STR_HTMLEXP_SETGRAPHIC.string.text
 #: app.src#STR_KEY_GRAPHICS_PATH.string.text
 #: shlxthdl.ulf#_GRAPHICS_.LngText.text
@@ -14320,12 +14321,12 @@ msgid "Images"
 msgstr "Íomhánna"
 
 #: impdialog.src#RID_PDF_TAB_GENER.RB_LOSSLESSCOMPRESSION.radiobutton.text
-#: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_LOSSLESS_COMPRESSION.value.text
+#: SunPresentationMinimizer.xcu#.SunPresentationMinimizer.Strings.STR_LOSSLESS_COMPRESSION.value.text
 msgid "~Lossless compression"
 msgstr "C~omhbhrú neamhchaillteach"
 
 #: impdialog.src#RID_PDF_TAB_GENER.RB_JPEGCOMPRESSION.radiobutton.text
-#: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_JPEG_COMPRESSION.value.text
+#: SunPresentationMinimizer.xcu#.SunPresentationMinimizer.Strings.STR_JPEG_COMPRESSION.value.text
 msgid "~JPEG compression"
 msgstr "Comhbhrú ~JPEG"
 
@@ -14348,7 +14349,7 @@ msgid "General"
 msgstr "Ginearálta"
 
 #: impdialog.src#CB_PDFA_1B_SELECT.checkbox.text
-msgid "PDF/A-1"
+msgid "P~DF/A-1"
 msgstr ""
 
 #: impdialog.src#CB_TAGGEDPDF.checkbox.text
@@ -14368,12 +14369,12 @@ msgid "Export ~bookmarks"
 msgstr "Easpórtáil lea~bharmharcanna"
 
 #: impdialog.src#CB_EXPORTNOTES.checkbox.text
-msgid "Export ~notes"
-msgstr "Easpórtáil ~nótaí"
+msgid "~Export notes"
+msgstr "~Easpórtáil nótaí"
 
 #: impdialog.src#CB_EXPORTEMPTYPAGES.checkbox.text
-msgid "Export automatically inserted ~blank pages"
-msgstr "Easpórtáil ~leathanaigh fholmha a ionsádh go huathoibríoch"
+msgid "E~xport automatically inserted blank pages"
+msgstr "Ea~spórtáil leathanaigh fholmha a ionsádh go huathoibríoch"
 
 #: impdialog.src#CB_ADDSTREAM.checkbox.text
 msgid "Create ~hybrid file"
@@ -17639,7 +17640,11 @@ msgstr ""
 
 #: Control.ulf#OOO_CONTROL_319.LngText.text
 msgid "Create a start link on desktop"
-msgstr ""
+msgstr "Cruthaigh nasc tosaigh ar do dheasc"
+
+#: Control.ulf#OOO_CONTROL_320.LngText.text
+msgid "Remove all older product versions"
+msgstr "Bain gach seanleagan den táirge"
 
 #: Control.ulf#OOO_CONTROL_LANG_1033.LngText.text
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_EN_US.LngText.text
@@ -18662,31 +18667,38 @@ msgid "http://www.openoffice.org"
 msgstr "http://www.openoffice.org"
 
 #: Property.ulf#OOO_STR_MS_WORD_DOCUMENT.LngText.text
+#: registryitem_writer.ulf#STR_REG_VAL_MS_WORD_DOCUMENT.LngText.text
 #: mmoutputpage.src#DLG_MM_OUTPUT_PAGE.3.stringlist.text
 msgid "Microsoft Word Document"
 msgstr "Cáipéis Microsoft Word"
 
 #: Property.ulf#OOO_STR_MS_WORD_TEMPLATE.LngText.text
+#: registryitem_writer.ulf#STR_REG_VAL_MS_WORD_TEMPLATE.LngText.text
 msgid "Microsoft Word Template"
 msgstr "Teimpléad Microsoft Word"
 
 #: Property.ulf#OOO_STR_MS_EXCEL_WORKSHEET.LngText.text
+#: registryitem_calc.ulf#STR_REG_VAL_MS_EXCEL_WORKSHEET.LngText.text
 msgid "Microsoft Excel Worksheet"
 msgstr "Scarbhileog Microsoft Excel"
 
 #: Property.ulf#OOO_STR_MS_EXCEL_TEMPLATE.LngText.text
+#: registryitem_calc.ulf#STR_REG_VAL_MS_EXCEL_TEMPLATE.LngText.text
 msgid "Microsoft Excel Template"
 msgstr "Teimpléad Microsoft Excel"
 
 #: Property.ulf#OOO_STR_MS_POWERPOINT_PRESENTATION.LngText.text
+#: registryitem_impress.ulf#STR_REG_VAL_MS_POWERPOINT_PRESENTATION.LngText.text
 msgid "Microsoft PowerPoint Presentation"
 msgstr "Láithreoireacht Microsoft PowerPoint"
 
 #: Property.ulf#OOO_STR_MS_POWERPOINT_TEMPLATE.LngText.text
+#: registryitem_impress.ulf#STR_REG_VAL_MS_POWERPOINT_TEMPLATE.LngText.text
 msgid "Microsoft PowerPoint Template"
 msgstr "Teimpléad Microsoft PowerPoint"
 
 #: Property.ulf#OOO_STR_MS_POWERPOINT_SHOW.LngText.text
+#: registryitem_impress.ulf#STR_REG_VAL_MS_POWERPOINT_SHOW.LngText.text
 msgid "Microsoft PowerPoint Show"
 msgstr "Seó Microsoft PowerPoint"
 
@@ -19874,10 +19886,6 @@ msgstr "Tiontaire ~Eoró..."
 #: Common.xcu#..Common.Menus.Wizard.m14.Title.value.text
 msgid "Address Data Source..."
 msgstr "Foinse Sonraí Seolta..."
-
-#: Common.xcu#..Common.Menus.Wizard.m15.Title.value.text
-msgid "Install fonts from the web..."
-msgstr "Suiteáil clónna ón Ghréasán..."
 
 #: DataAccess.xcu#..DataAccess.DriverSettings.com.sun.star.comp.sdbc.MozabDriver.MozillaPreferences.PabDescription.value.text
 msgid "Personal Address book"
@@ -34714,17 +34722,21 @@ msgid "Table Design..."
 msgstr "Dearadh Tábla..."
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_SpellingDialog.Label.value.text
+msgctxt ""
+"GenericCommands.xcu#..GenericCommands.UserInterface.Commands.."
+"uno_SpellingDialog.Label.value.text"
 msgid "~Spelling..."
 msgstr "~Litriú..."
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_SpellingAndGrammarDialog.Label.value.text
 msgid "~Spelling and Grammar..."
-msgstr ""
+msgstr "~Litriú agus Gramadach..."
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_SpellDialog.Label.value.text
-#: editeng.src#RID_MENU_SPELL.MN_SPELLING.menuitem.text
-#: olmenu.src#MN_SPELL_POPUP.MN_SPELLING.menuitem.text
-msgid "~Spellcheck..."
+msgctxt ""
+"GenericCommands.xcu#..GenericCommands.UserInterface.Commands.."
+"uno_SpellDialog.Label.value.text"
+msgid "~Spelling..."
 msgstr "~Litriú..."
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_InsertDraw.Label.value.text
@@ -41188,7 +41200,7 @@ msgstr ""
 "\n"
 
 #: padialog.src#RID_PROGRESS_DLG.RID_PROGRESS_PROGRESS_TXT.fixedtext.text
-#: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_PROGRESS.value.text
+#: SunPresentationMinimizer.xcu#.SunPresentationMinimizer.Strings.STR_PROGRESS.value.text
 #: vectdlg.src#DLG_VECTORIZE.GRP_PRGS.fixedtext.text
 #: euro.src#STEP_LASTPAGE.string.text importwi.src#sProgressPage1.string.text
 msgid "Progress"
@@ -48443,6 +48455,44 @@ msgstr ""
 msgid "Legacy filters, e.g. StarOffice 5.2 binary file formats."
 msgstr ""
 
+#: registryitem_binfilter.ulf#STR_REG_VAL_NEW.LngText.text
+#: registryitem_calc.ulf#STR_REG_VAL_NEW.LngText.text
+#: registryitem_draw.ulf#STR_REG_VAL_NEW.LngText.text
+#: registryitem_impress.ulf#STR_REG_VAL_NEW.LngText.text
+#: registryitem_math.ulf#STR_REG_VAL_NEW.LngText.text
+#: registryitem_ooo.ulf#STR_REG_VAL_NEW.LngText.text
+#: registryitem_writer.ulf#STR_REG_VAL_NEW.LngText.text
+msgid "&New"
+msgstr "&Nua"
+
+#: registryitem_binfilter.ulf#STR_REG_VAL_SO52_TEXT_OOO.LngText.text
+msgid "StarOffice 5.0 Text Document"
+msgstr "Cáipéis Téacs StarOffice 5.0"
+
+#: registryitem_binfilter.ulf#STR_REG_VAL_SO51_MASTERDOC_OOO.LngText.text
+msgid "StarOffice 5.0 Master Document"
+msgstr "Máistircháipéis StarOffice 5.0"
+
+#: registryitem_binfilter.ulf#STR_REG_VAL_SO51_SPREADSHEET_OOO.LngText.text
+msgid "StarOffice 5.0 Spreadsheet"
+msgstr "Scarbhileog StarOffice 5.0"
+
+#: registryitem_binfilter.ulf#STR_REG_VAL_SO51_PRESENT_OOO.LngText.text
+msgid "StarOffice 5.0 Presentation"
+msgstr "Láithreoireacht StarOffice 5.0"
+
+#: registryitem_binfilter.ulf#STR_REG_VAL_SO51_DRAWING_OOO.LngText.text
+msgid "StarOffice 5.0 Drawing"
+msgstr "Líníocht StarOffice 5.0"
+
+#: registryitem_binfilter.ulf#STR_REG_VAL_SO51_FORMULA_OOO.LngText.text
+msgid "StarOffice 5.0 Formula"
+msgstr "Foirmle StarOffice 5.0"
+
+#: registryitem_binfilter.ulf#STR_REG_VAL_SO52_CHART_OOO.LngText.text
+msgid "StarOffice 5.0 Chart"
+msgstr "Cairt StarOffice 5.0"
+
 #: folderitem_calc.ulf#STR_FI_TOOLTIP_CALC.LngText.text
 #: launcher_comment.ulf#calc.LngText.text
 msgid ""
@@ -48491,22 +48541,9 @@ msgstr ""
 "Is ea atá i ríomhchláir fhorlíontacha ná ríomhchláir bhreise a chuireann "
 "feidhmeanna nua ar fáil i %PRODUCTNAME Calc."
 
-#: registryitem_calc.ulf#STR_REG_VAL_NEW.LngText.text
-#: registryitem_draw.ulf#STR_REG_VAL_NEW.LngText.text
-#: registryitem_impress.ulf#STR_REG_VAL_NEW.LngText.text
-#: registryitem_math.ulf#STR_REG_VAL_NEW.LngText.text
-#: registryitem_ooo.ulf#STR_REG_VAL_NEW.LngText.text
-#: registryitem_writer.ulf#STR_REG_VAL_NEW.LngText.text
-msgid "&New"
-msgstr "&Nua"
-
 #: registryitem_calc.ulf#STR_REG_VAL_SO60_SPREADSHEET.LngText.text
 msgid "%PRODUCTNAME %SXWFORMATVERSION Spreadsheet"
 msgstr "Scarbhileog %PRODUCTNAME %SXWFORMATVERSION"
-
-#: registryitem_calc.ulf#STR_REG_VAL_SO51_SPREADSHEET_OOO.LngText.text
-msgid "StarOffice 5.0 Spreadsheet"
-msgstr "Scarbhileog StarOffice 5.0"
 
 #: registryitem_calc.ulf#STR_REG_VAL_SO60_CALC_TEMPLATE.LngText.text
 msgid "%PRODUCTNAME %SXWFORMATVERSION Spreadsheet Template"
@@ -48523,6 +48560,14 @@ msgstr "Scarbhileog OpenDocument"
 #: documents.ulf#oasis_spreadsheet_template.LngText.text
 msgid "OpenDocument Spreadsheet Template"
 msgstr "Teimpléad Scarbhileoige OpenDocument"
+
+#: registryitem_calc.ulf#STR_REG_VAL_MS_EXCEL_WORKSHEET_OLD.LngText.text
+msgid "Microsoft Excel 97-2003 Worksheet"
+msgstr "Scarbhileog Microsoft Excel 97-2003"
+
+#: registryitem_calc.ulf#STR_REG_VAL_MS_EXCEL_TEMPLATE_OLD.LngText.text
+msgid "Microsoft Excel 97-2003 Template"
+msgstr "Teimpléad Microsoft Excel 97-2003"
 
 #: folderitem_draw.ulf#STR_FI_NAME_ZEICHNUNG.LngText.text
 #: strings.src#STR_GRAPHIC_DOCUMENT.string.text
@@ -48565,10 +48610,6 @@ msgstr "Cabhair le %PRODUCTNAME Draw"
 #: module_draw.ulf#STR_DESC_MODULE_PRG_DRAW_HELP.LngText.text
 msgid "Help about %PRODUCTNAME Draw"
 msgstr "Maidir le %PRODUCTNAME Draw"
-
-#: registryitem_draw.ulf#STR_REG_VAL_SO51_DRAWING_OOO.LngText.text
-msgid "StarOffice 5.0 Drawing"
-msgstr "Líníocht StarOffice 5.0"
 
 #: registryitem_draw.ulf#STR_REG_VAL_SO60_DRAWING.LngText.text
 msgid "%PRODUCTNAME %SXWFORMATVERSION Drawing"
@@ -48763,10 +48804,6 @@ msgstr "Cabhair le %PRODUCTNAME Impress"
 msgid "Help about %PRODUCTNAME Impress"
 msgstr "Maidir le %PRODUCTNAME Impress"
 
-#: registryitem_impress.ulf#STR_REG_VAL_SO51_PRESENT_OOO.LngText.text
-msgid "StarOffice 5.0 Presentation"
-msgstr "Láithreoireacht StarOffice 5.0"
-
 #: registryitem_impress.ulf#STR_REG_VAL_SO60_PRESENT.LngText.text
 msgid "%PRODUCTNAME %SXWFORMATVERSION Presentation"
 msgstr "Láithreoireacht %PRODUCTNAME %SXWFORMATVERSION"
@@ -48786,6 +48823,14 @@ msgstr "Láithreoireacht OpenDocument"
 #: documents.ulf#oasis_presentation_template.LngText.text
 msgid "OpenDocument Presentation Template"
 msgstr "Teimpléad Láithreoireachta OpenDocument"
+
+#: registryitem_impress.ulf#STR_REG_VAL_MS_POWERPOINT_PRESENTATION_OLD.LngText.text
+msgid "Microsoft PowerPoint 97-2003 Presentation"
+msgstr "Láithreoireacht Microsoft PowerPoint 97-2003"
+
+#: registryitem_impress.ulf#STR_REG_VAL_MS_POWERPOINT_TEMPLATE_OLD.LngText.text
+msgid "Microsoft PowerPoint 97-2003 Template"
+msgstr "Teimpléad Microsoft PowerPoint 97-2003"
 
 #: module_javafilter.ulf#STR_NAME_MODULE_OPTIONAL_JAVAFILTER.LngText.text
 msgid "Mobile Device Filters"
@@ -48943,10 +48988,6 @@ msgstr "Maidir le %PRODUCTNAME Math"
 #: registryitem_math.ulf#STR_REG_VAL_SO60_FORMULA.LngText.text
 msgid "%PRODUCTNAME %SXWFORMATVERSION Formula"
 msgstr "Foirmle %PRODUCTNAME %SXWFORMATVERSION"
-
-#: registryitem_math.ulf#STR_REG_VAL_SO51_FORMULA_OOO.LngText.text
-msgid "StarOffice 5.0 Formula"
-msgstr "Foirmle StarOffice 5.0"
 
 #: registryitem_math.ulf#STR_REG_VAL_OO_FORMULA.LngText.text
 #: imagemgr.src#STR_DESCRIPTION_OO_MATH_DOC.string.text
@@ -49961,10 +50002,6 @@ msgstr ""
 msgid "&Install"
 msgstr "Su&iteáil"
 
-#: registryitem_ooo.ulf#STR_REG_VAL_SO52_CHART_OOO.LngText.text
-msgid "StarOffice 5.0 Chart"
-msgstr "Cairt StarOffice 5.0"
-
 #: registryitem_ooo.ulf#STR_REG_VAL_SO60_CONFIGFILE.LngText.text
 msgid "%PRODUCTNAME %SXWFORMATVERSION Configuration File"
 msgstr "Comhad Cumraíochta %PRODUCTNAME %SXWFORMATVERSION"
@@ -50077,14 +50114,6 @@ msgstr "Maidir le %PRODUCTNAME Writer"
 msgid "%PRODUCTNAME %SXWFORMATVERSION Text Document"
 msgstr "Cáipéis Téacs %PRODUCTNAME %SXWFORMATVERSION"
 
-#: registryitem_writer.ulf#STR_REG_VAL_SO52_TEXT_OOO.LngText.text
-msgid "StarOffice 5.0 Text Document"
-msgstr "Cáipéis Téacs StarOffice 5.0"
-
-#: registryitem_writer.ulf#STR_REG_VAL_SO51_MASTERDOC_OOO.LngText.text
-msgid "StarOffice 5.0 Master Document"
-msgstr "Máistircháipéis StarOffice 5.0"
-
 #: registryitem_writer.ulf#STR_REG_VAL_SO60_MASTERDOC.LngText.text
 msgid "%PRODUCTNAME %SXWFORMATVERSION Master Document"
 msgstr "Máistircháipéis %PRODUCTNAME %SXWFORMATVERSION"
@@ -50111,6 +50140,18 @@ msgstr "Teimpléad Téacs OpenDocument"
 #: documents.ulf#oasis_master_document.LngText.text
 msgid "OpenDocument Master Document"
 msgstr "Máistircháipéis OpenDocument"
+
+#: registryitem_writer.ulf#STR_REG_VAL_MS_WORD_DOCUMENT_OLD.LngText.text
+msgid "Microsoft Word 97-2003 Document"
+msgstr "Cáipéis Microsoft Word 97-2003"
+
+#: registryitem_writer.ulf#STR_REG_VAL_MS_WORD_TEMPLATE_OLD.LngText.text
+msgid "Microsoft Word 97-2003 Template"
+msgstr "Teimpléad Microsoft Word 97-2003"
+
+#: registryitem_writer.ulf#STR_REG_VAL_MS_RTF_DOCUMENT.LngText.text
+msgid "Rich Text Document"
+msgstr "Cáipéis Méith-Théacs"
 
 #: module_xsltfilter.ulf#STR_NAME_MODULE_OPTIONAL_XSLTFILTERSAMPLES.LngText.text
 msgctxt ""
@@ -66424,34 +66465,34 @@ msgctxt "styledlg.src#RID_SCDLG_STYLES_PAGE.1.TP_BACKGROUND.pageitem.text"
 msgid "Background"
 msgstr "Cúlra"
 
-#: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.HelpFile.value.text
+#: SunPresentationMinimizer.xcu#.SunPresentationMinimizer.HelpFile.value.text
 msgid "%origin%/../../../../../../help/help_en-US.odt"
 msgstr "%origin%/../../../../../../help/help_en-US.odt"
 
-#: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_SUN_OPTIMIZATION_WIZARD.value.text
+#: SunPresentationMinimizer.xcu#.SunPresentationMinimizer.Strings.STR_SUN_OPTIMIZATION_WIZARD2.value.text
 msgctxt ""
-"SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings."
-"STR_SUN_OPTIMIZATION_WIZARD.value.text"
-msgid "&ProductName;"
-msgstr "&ProductName;"
+"SunPresentationMinimizer.xcu#.SunPresentationMinimizer.Strings."
+"STR_SUN_OPTIMIZATION_WIZARD2.value.text"
+msgid "Sun Presentation Minimizer"
+msgstr "Íoslaghdaitheoir Láithreoireachta Sun"
 
-#: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_STEPS.value.text
+#: SunPresentationMinimizer.xcu#.SunPresentationMinimizer.Strings.STR_STEPS.value.text
 #: wizardmachine.src#STR_WIZDLG_ROADMAP_TITLE.string.text
 #: dbwizres.src#RID_COMMON_START___16.string.text
 msgid "Steps"
 msgstr "Céimeanna"
 
-#: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_NEXT.value.text
+#: SunPresentationMinimizer.xcu#.SunPresentationMinimizer.Strings.STR_NEXT.value.text
 #: dbwizres.src#RID_COMMON_START___14.string.text
 msgid "~Next >"
 msgstr "~Ar Aghaidh >"
 
-#: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_INTRODUCTION.value.text
+#: SunPresentationMinimizer.xcu#.SunPresentationMinimizer.Strings.STR_INTRODUCTION.value.text
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__5.string.text
 msgid "Introduction"
 msgstr "Réamhrá"
 
-#: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_INTRODUCTION_T.value.text
+#: SunPresentationMinimizer.xcu#.SunPresentationMinimizer.Strings.STR_INTRODUCTION_T.value.text
 msgid ""
 "The Sun Presentation Minimizer is used to reduce the file size of the "
 "current presentation. Images will be compressed and data, that is no longer "
@@ -66465,68 +66506,68 @@ msgstr ""
 "beidh rogha agat na hathruithe a chur i bhfeidhm ar an Láithreoireacht "
 "reatha nó leagan nua optamaithe a chruthú."
 
-#: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_CHOSE_SETTINGS.value.text
+#: SunPresentationMinimizer.xcu#.SunPresentationMinimizer.Strings.STR_CHOSE_SETTINGS.value.text
 msgid "~Choose settings for Sun Presentation Minimizer"
 msgstr "~Roghnaigh socruithe d'Íoslaghdaitheoir Láithreoireachta Sun"
 
-#: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_GRAPHIC_OPTIMIZATION.value.text
+#: SunPresentationMinimizer.xcu#.SunPresentationMinimizer.Strings.STR_GRAPHIC_OPTIMIZATION.value.text
 msgid "Choose settings for optimizing pictures and graphics"
 msgstr "Roghnaigh socruithe chun grafaicí agus pictiúir a optamú "
 
-#: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_QUALITY.value.text
+#: SunPresentationMinimizer.xcu#.SunPresentationMinimizer.Strings.STR_QUALITY.value.text
 msgid "~Quality in %"
 msgstr "~Cáilíocht (%)"
 
-#: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_REMOVE_CROP_AREA.value.text
+#: SunPresentationMinimizer.xcu#.SunPresentationMinimizer.Strings.STR_REMOVE_CROP_AREA.value.text
 msgid "~Delete cropped graphic areas"
 msgstr "~Scrios réimsí grafaicí giortaithe"
 
-#: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_IMAGE_RESOLUTION.value.text
+#: SunPresentationMinimizer.xcu#.SunPresentationMinimizer.Strings.STR_IMAGE_RESOLUTION.value.text
 msgid "Reduce ~image resolution"
 msgstr "~Laghdaigh taifeach na híomhá"
 
-#: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_IMAGE_RESOLUTION_0.value.text
+#: SunPresentationMinimizer.xcu#.SunPresentationMinimizer.Strings.STR_IMAGE_RESOLUTION_0.value.text
 msgid "0;<no change>"
 msgstr "0;<gan athrú>"
 
-#: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_IMAGE_RESOLUTION_1.value.text
+#: SunPresentationMinimizer.xcu#.SunPresentationMinimizer.Strings.STR_IMAGE_RESOLUTION_1.value.text
 msgid "90;90 DPI (screen resolution)"
 msgstr "90;90 PSO (taifeach an scáileáin)"
 
-#: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_IMAGE_RESOLUTION_2.value.text
+#: SunPresentationMinimizer.xcu#.SunPresentationMinimizer.Strings.STR_IMAGE_RESOLUTION_2.value.text
 msgid "150;150 DPI (projector resolution)"
 msgstr "150;150 PSO (taifeach teilgeora)"
 
-#: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_IMAGE_RESOLUTION_3.value.text
+#: SunPresentationMinimizer.xcu#.SunPresentationMinimizer.Strings.STR_IMAGE_RESOLUTION_3.value.text
 msgid "300;300 DPI (print resolution)"
 msgstr "300;300 PSO (taifeach priontála)"
 
-#: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_EMBED_LINKED_GRAPHICS.value.text
+#: SunPresentationMinimizer.xcu#.SunPresentationMinimizer.Strings.STR_EMBED_LINKED_GRAPHICS.value.text
 msgid "~Break links to external graphics"
 msgstr "~Bris naisc le grafaicí seachtracha"
 
-#: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_OLE_OBJECTS.value.text
+#: SunPresentationMinimizer.xcu#.SunPresentationMinimizer.Strings.STR_OLE_OBJECTS.value.text
 #: shlxthdl.ulf#_OLE_OBJECTS_.LngText.text
 msgid "OLE Objects"
 msgstr "Réada OLE"
 
-#: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_OLE_OPTIMIZATION.value.text
+#: SunPresentationMinimizer.xcu#.SunPresentationMinimizer.Strings.STR_OLE_OPTIMIZATION.value.text
 msgid "Choose settings for replacing OLE objects"
 msgstr "Roghnaigh socruithe chun réada OLE a ionadú"
 
-#: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_OLE_REPLACE.value.text
+#: SunPresentationMinimizer.xcu#.SunPresentationMinimizer.Strings.STR_OLE_REPLACE.value.text
 msgid "Create static replacement graphics for OLE objects"
 msgstr "Cruthaigh grafaicí statacha ionadaíochta do réada OLE"
 
-#: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_ALL_OLE_OBJECTS.value.text
+#: SunPresentationMinimizer.xcu#.SunPresentationMinimizer.Strings.STR_ALL_OLE_OBJECTS.value.text
 msgid "For ~all OLE objects"
 msgstr "Do ~gach réad OLE"
 
-#: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_ALIEN_OLE_OBJECTS_ONLY.value.text
+#: SunPresentationMinimizer.xcu#.SunPresentationMinimizer.Strings.STR_ALIEN_OLE_OBJECTS_ONLY.value.text
 msgid "~For OLE objects not based on OpenDocument format"
 msgstr "~Do réada OLE nach bhfuil bunaithe ar fhormáid OpenDocument"
 
-#: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_OLE_OBJECTS_DESC.value.text
+#: SunPresentationMinimizer.xcu#.SunPresentationMinimizer.Strings.STR_OLE_OBJECTS_DESC.value.text
 msgid ""
 "Object Linking and Embedding (OLE) is a technology that allows embedding and "
 "linking to documents and other objects. The current presentation contains "
@@ -66536,7 +66577,7 @@ msgstr ""
 "leabú agus nascadh le cáipéisí agus réada eile. Tá réada OLE sa "
 "láithreoireacht reatha."
 
-#: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_NO_OLE_OBJECTS_DESC.value.text
+#: SunPresentationMinimizer.xcu#.SunPresentationMinimizer.Strings.STR_NO_OLE_OBJECTS_DESC.value.text
 msgid ""
 "Object Linking and Embedding (OLE) is a technology that allows embedding and "
 "linking to documents and other objects. The current presentation contains no "
@@ -66546,124 +66587,124 @@ msgstr ""
 "leabú agus nascadh le cáipéisí agus réada eile. Níl aon réada OLE sa "
 "láithreoireacht reatha."
 
-#: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_SLIDES.value.text
+#: SunPresentationMinimizer.xcu#.SunPresentationMinimizer.Strings.STR_SLIDES.value.text
 #: PresenterScreen.xcu#..PresenterScreen.PresenterScreenSettings.ToolBars.ToolBar.Entries.d.Normal.Text.value.text
 #: strings.src#STR_LEFT_PANE_IMPRESS_TITLE.string.text
 #: printdialog.src#DLG_PRINTDIALOG.CB_CONTENT.1.stringlist.text
 msgid "Slides"
 msgstr "Sleamhnáin"
 
-#: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_CHOOSE_SLIDES.value.text
+#: SunPresentationMinimizer.xcu#.SunPresentationMinimizer.Strings.STR_CHOOSE_SLIDES.value.text
 msgid "Choose which slides to delete"
 msgstr "Roghnaigh cén sleamhnáin le scriosadh"
 
-#: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_MASTER_PAGES.value.text
+#: SunPresentationMinimizer.xcu#.SunPresentationMinimizer.Strings.STR_MASTER_PAGES.value.text
 #: strings.src#STR_TASKPANEL_MASTER_PAGE_TITLE.string.text
 msgid "Master Pages"
 msgstr "Máistirleathanaigh"
 
-#: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_DELETE_MASTER_PAGES.value.text
+#: SunPresentationMinimizer.xcu#.SunPresentationMinimizer.Strings.STR_DELETE_MASTER_PAGES.value.text
 msgid "Delete unused ~master pages"
 msgstr "Scrios máistirleathnaigh gan úsáid"
 
-#: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_DELETE_NOTES_PAGES.value.text
+#: SunPresentationMinimizer.xcu#.SunPresentationMinimizer.Strings.STR_DELETE_NOTES_PAGES.value.text
 msgid "~Clear notes"
 msgstr "~Glan nótaí"
 
-#: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_DELETE_HIDDEN_SLIDES.value.text
+#: SunPresentationMinimizer.xcu#.SunPresentationMinimizer.Strings.STR_DELETE_HIDDEN_SLIDES.value.text
 msgid "Delete hidden ~slides"
 msgstr "Scrios ~sleamhnáin fholaithe"
 
-#: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_CUSTOM_SHOW.value.text
+#: SunPresentationMinimizer.xcu#.SunPresentationMinimizer.Strings.STR_CUSTOM_SHOW.value.text
 msgid "Delete slides that are not used for the ~custom slide show"
 msgstr ""
 "Scrios sleamhnáin nach bhfuil úsáidte sa taispeántas sleamhnán ~saincheaptha"
 
-#: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_SUMMARY.value.text
+#: SunPresentationMinimizer.xcu#.SunPresentationMinimizer.Strings.STR_SUMMARY.value.text
 #: shlxthdl.ulf#_SUMMARY_TITLE_.LngText.text
 msgid "Summary"
 msgstr "Achoimre"
 
-#: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_SUMMARY_TITLE.value.text
+#: SunPresentationMinimizer.xcu#.SunPresentationMinimizer.Strings.STR_SUMMARY_TITLE.value.text
 msgid "Choose where to apply the following changes"
 msgstr "Roghnaigh cén áit chun na hathruithe seo a leanus a chur i bhfeidhm"
 
-#: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_OBJECTS_OPTIMIZED.value.text
+#: SunPresentationMinimizer.xcu#.SunPresentationMinimizer.Strings.STR_OBJECTS_OPTIMIZED.value.text
 msgid "Objects optimized"
 msgstr "Réada optamaithe"
 
-#: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_APPLY_TO_CURRENT.value.text
+#: SunPresentationMinimizer.xcu#.SunPresentationMinimizer.Strings.STR_APPLY_TO_CURRENT.value.text
 msgid "~Apply changes to current presentation"
 msgstr "~Cuir na hathruithe i bhfeidhm ar an láithreoireacht reatha"
 
-#: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_AUTOMATICALLY_OPEN.value.text
+#: SunPresentationMinimizer.xcu#.SunPresentationMinimizer.Strings.STR_AUTOMATICALLY_OPEN.value.text
 msgid "~Open newly created presentation"
 msgstr "~Oscail láithreoireacht nuadéanta"
 
-#: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_SAVE_SETTINGS.value.text
+#: SunPresentationMinimizer.xcu#.SunPresentationMinimizer.Strings.STR_SAVE_SETTINGS.value.text
 msgid "~Save settings as"
 msgstr "~Sábháil socruithe mar"
 
-#: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_SAVE_AS.value.text
+#: SunPresentationMinimizer.xcu#.SunPresentationMinimizer.Strings.STR_SAVE_AS.value.text
 msgid "~Duplicate presentation before applying changes"
 msgstr "~Déan cóip den láithreoireacht roimh na hathruithe a chur i bhfeidhm"
 
-#: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_DELETE_SLIDES.value.text
+#: SunPresentationMinimizer.xcu#.SunPresentationMinimizer.Strings.STR_DELETE_SLIDES.value.text
 msgid "Delete %SLIDES slides."
 msgstr "Scrios %SLIDES sleamhnán."
 
-#: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_OPTIMIZE_IMAGES.value.text
+#: SunPresentationMinimizer.xcu#.SunPresentationMinimizer.Strings.STR_OPTIMIZE_IMAGES.value.text
 msgid "Optimize %IMAGES graphics to %QUALITY% JPEG quality at %RESOLUTION DPI."
 msgstr ""
 "Optamaigh %IMAGES grafaic go caighdeán JPEG %QUALITY% ag %RESOLUTION PSO."
 
-#: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_CREATE_REPLACEMENT.value.text
+#: SunPresentationMinimizer.xcu#.SunPresentationMinimizer.Strings.STR_CREATE_REPLACEMENT.value.text
 msgid "Create replacement graphics for %OLE objects."
 msgstr "Cruthaigh grafaicí ionadaíochta do réada %OLE."
 
-#: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_CURRENT_FILESIZE.value.text
+#: SunPresentationMinimizer.xcu#.SunPresentationMinimizer.Strings.STR_CURRENT_FILESIZE.value.text
 msgid "Current file size:"
 msgstr "Méid reatha an chomhaid:"
 
-#: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_ESTIMATED_FILESIZE.value.text
+#: SunPresentationMinimizer.xcu#.SunPresentationMinimizer.Strings.STR_ESTIMATED_FILESIZE.value.text
 msgid "Estimated new file size:"
 msgstr "Méid nua an chomhaid:"
 
-#: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_MB.value.text
+#: SunPresentationMinimizer.xcu#.SunPresentationMinimizer.Strings.STR_MB.value.text
 msgid "%1 MB"
 msgstr "%1 MB"
 
-#: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.MY_SETTINGS.value.text
+#: SunPresentationMinimizer.xcu#.SunPresentationMinimizer.Strings.MY_SETTINGS.value.text
 msgid "My Settings "
 msgstr "Mo Chuid Socruithe "
 
-#: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_DEFAULT_SESSION.value.text
+#: SunPresentationMinimizer.xcu#.SunPresentationMinimizer.Strings.STR_DEFAULT_SESSION.value.text
 msgid "default session"
 msgstr "seisiún réamhshocraithe"
 
-#: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_MODIFY_WARNING.value.text
+#: SunPresentationMinimizer.xcu#.SunPresentationMinimizer.Strings.STR_MODIFY_WARNING.value.text
 msgid ""
 "The optimization will modify the current document. Do you want to continue?"
 msgstr "Athraíodh an t-optamú an cháipéis reatha. An mian leat dul ar aghaidh?"
 
-#: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_YES.value.text
+#: SunPresentationMinimizer.xcu#.SunPresentationMinimizer.Strings.STR_YES.value.text
 #: printopt.src#RID_WARN_PRINTTRANSPARENCY.BTN_PRINTTRANS_YES.okbutton.text
 #: btntext.src#SV_BUTTONTEXT_YES.string.text
 msgid "~Yes"
 msgstr "~Tá"
 
-#: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_ABOUT.value.text
+#: SunPresentationMinimizer.xcu#.SunPresentationMinimizer.Strings.STR_ABOUT2.value.text
 msgctxt ""
-"SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_ABOUT."
+"SunPresentationMinimizer.xcu#.SunPresentationMinimizer.Strings.STR_ABOUT2."
 "value.text"
-msgid "&ProductName;"
-msgstr "&ProductName;"
+msgid "Sun Presentation Minimizer"
+msgstr "Íoslaghdaitheoir Láithreoireachta Sun"
 
-#: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_ABOUT_VERSION.value.text
-msgid "About &ProductName; &ProductVersion;"
-msgstr "Maidir le &ProductName; &ProductVersion;"
+#: SunPresentationMinimizer.xcu#.SunPresentationMinimizer.Strings.STR_ABOUT_VERSION2.value.text
+msgid "About Sun Presentation Minimizer 1.0.0"
+msgstr "Maidir le hÍoslaghdaitheoir Láithreoireachta Sun 1.0.0"
 
-#: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_ABOUT_PRN.value.text
+#: SunPresentationMinimizer.xcu#.SunPresentationMinimizer.Strings.STR_ABOUT_PRN.value.text
 msgid ""
 "Copyright 2000-2007 Sun Microsystems, Inc. This product has been created by "
 "Sun Microsystems, Inc. based on OpenOffice.org. OpenOffice.org acknowledges "
@@ -66675,7 +66716,7 @@ msgstr ""
 "Aithníonn OpenOffice.org an comhphobal ar fad, ach go háirithe na daoine atá "
 "luaite ag http://www.openoffice.org/welcome/credits.html"
 
-#: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_INFO_1.value.text
+#: SunPresentationMinimizer.xcu#.SunPresentationMinimizer.Strings.STR_INFO_1.value.text
 msgid ""
 "The %EXTENSIONNAME has successfully updated the presentation '%TITLE'. The "
 "file size has changed from %OLDFILESIZE MB to %NEWFILESIZE MB."
@@ -66683,7 +66724,7 @@ msgstr ""
 "D'eirigh le %EXTENSIONNAME láithreoireacht '%TITLE' a nuashonrú. D'athraigh "
 "méid an chomhaid ó %OLDFILESIZE MB go dtí %NEWFILESIZE MB."
 
-#: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_INFO_2.value.text
+#: SunPresentationMinimizer.xcu#.SunPresentationMinimizer.Strings.STR_INFO_2.value.text
 msgid ""
 "The %EXTENSIONNAME has successfully updated the presentation '%TITLE'. The "
 "file size has changed from %OLDFILESIZE MB to approximated %NEWFILESIZE MB."
@@ -66691,7 +66732,7 @@ msgstr ""
 "D'eirigh le %EXTENSIONNAME láithreoireacht '%TITLE' a nuashonrú. D'athraigh "
 "méid an chomhaid ó %OLDFILESIZE MB go dtí méid mheasta %NEWFILESIZE MB."
 
-#: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_INFO_3.value.text
+#: SunPresentationMinimizer.xcu#.SunPresentationMinimizer.Strings.STR_INFO_3.value.text
 msgid ""
 "The %EXTENSIONNAME has successfully updated the presentation '%TITLE'. The "
 "file size has changed to %NEWFILESIZE MB."
@@ -66699,7 +66740,7 @@ msgstr ""
 "D'eirigh le %EXTENSIONNAME láithreoireacht '%TITLE' a nuashonrú. D'athraigh "
 "méid an chomhaid go dtí %NEWFILESIZE MB."
 
-#: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_INFO_4.value.text
+#: SunPresentationMinimizer.xcu#.SunPresentationMinimizer.Strings.STR_INFO_4.value.text
 msgid ""
 "The %EXTENSIONNAME has successfully updated the presentation '%TITLE'. The "
 "file size has changed to approximated %NEWFILESIZE MB."
@@ -66707,45 +66748,45 @@ msgstr ""
 "D'eirigh le %EXTENSIONNAME láithreoireacht '%TITLE' a nuashonrú. D'athraigh "
 "méid an chomhaid go dtí méid mheasta %NEWFILESIZE MB."
 
-#: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_DUPLICATING_PRESENTATION.value.text
+#: SunPresentationMinimizer.xcu#.SunPresentationMinimizer.Strings.STR_DUPLICATING_PRESENTATION.value.text
 msgid "Duplicating presentation..."
 msgstr "Láithreoireacht á cóipeáil..."
 
-#: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_DELETING_SLIDES.value.text
+#: SunPresentationMinimizer.xcu#.SunPresentationMinimizer.Strings.STR_DELETING_SLIDES.value.text
 msgid "Deleting slides..."
 msgstr "Sleamhnáin á scriosadh..."
 
-#: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_OPTIMIZING_GRAPHICS.value.text
+#: SunPresentationMinimizer.xcu#.SunPresentationMinimizer.Strings.STR_OPTIMIZING_GRAPHICS.value.text
 msgid "Optimizing graphics..."
 msgstr "Grafaicí á n-optamú..."
 
-#: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_CREATING_OLE_REPLACEMENTS.value.text
+#: SunPresentationMinimizer.xcu#.SunPresentationMinimizer.Strings.STR_CREATING_OLE_REPLACEMENTS.value.text
 msgid "Creating replacement graphics for OLE objects..."
 msgstr "Grafaicí ionadaíochta do réada OLE á gcruthú..."
 
-#: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Strings.STR_FILESIZESEPARATOR.value.text
+#: SunPresentationMinimizer.xcu#.SunPresentationMinimizer.Strings.STR_FILESIZESEPARATOR.value.text
 msgid "."
 msgstr "."
 
-#: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.LastUsedSettings.Name.value.text
+#: SunPresentationMinimizer.xcu#.SunPresentationMinimizer.LastUsedSettings.Name.value.text
 msgctxt ""
-"SunPresentationMinimizer.xcu#..SunPresentationMinimizer.LastUsedSettings."
-"Name.value.text"
+"SunPresentationMinimizer.xcu#.SunPresentationMinimizer.LastUsedSettings.Name."
+"value.text"
 msgid "Projector optimized"
-msgstr "Optamaithe do Theilgeoir"
+msgstr "Optamaithe do theilgeoir"
 
-#: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Settings.Templates.template1.Name.value.text
+#: SunPresentationMinimizer.xcu#.SunPresentationMinimizer.Settings.Templates.template1.Name.value.text
 msgid "Screen optimized (smallest file size)"
 msgstr "Optamaithe do scáileán (comhad is lú)"
 
-#: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Settings.Templates.template2.Name.value.text
+#: SunPresentationMinimizer.xcu#.SunPresentationMinimizer.Settings.Templates.template2.Name.value.text
 msgctxt ""
-"SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Settings.Templates."
+"SunPresentationMinimizer.xcu#.SunPresentationMinimizer.Settings.Templates."
 "template2.Name.value.text"
 msgid "Projector optimized"
-msgstr "Optamaithe do Theilgeoir"
+msgstr "Optamaithe do theilgeoir"
 
-#: SunPresentationMinimizer.xcu#..SunPresentationMinimizer.Settings.Templates.template3.Name.value.text
+#: SunPresentationMinimizer.xcu#.SunPresentationMinimizer.Settings.Templates.template3.Name.value.text
 msgid "Print optimized"
 msgstr "Optamaithe do Phriontáil"
 
@@ -87850,6 +87891,10 @@ msgstr "Cur Síos"
 msgid "Macro Selector"
 msgstr "Roghnóir Macra"
 
+#: SpellDialog.src#RID_SVXDLG_SPELLCHECK.FT_LANGUAGE.fixedtext.text
+msgid "Dictionary languag~e"
+msgstr "T~eanga an fhoclóra"
+
 #: SpellDialog.src#RID_SVXDLG_SPELLCHECK.FT_NOTINDICT.fixedtext.text
 msgid "~Not in dictionary"
 msgstr "~Níl sé san fhoclóir"
@@ -87859,11 +87904,7 @@ msgctxt "SpellDialog.src#RID_SVXDLG_SPELLCHECK.FT_SUGGESTION.fixedtext.text"
 msgid "~Suggestions"
 msgstr "~Moltaí"
 
-#: SpellDialog.src#RID_SVXDLG_SPELLCHECK.FT_LANGUAGE.fixedtext.text
-msgid "Dictionary languag~e"
-msgstr "T~eanga an fhoclóra"
-
-#: SpellDialog.src#RID_SVXDLG_SPELLCHECK.FT_CHECK_GRAMMAR.fixedtext.text
+#: SpellDialog.src#RID_SVXDLG_SPELLCHECK.CB_CHECK_GRAMMAR.checkbox.text
 msgid "Check ~grammar"
 msgstr "Seiceáil ~gramadach"
 
@@ -87888,13 +87929,13 @@ msgstr "~Athraigh"
 msgid "Change A~ll"
 msgstr "Athraigh Gach ~Rud"
 
+#: SpellDialog.src#RID_SVXDLG_SPELLCHECK.PB_EXPLAIN.pushbutton.text
+msgid "~Explain..."
+msgstr "~Mínigh..."
+
 #: SpellDialog.src#RID_SVXDLG_SPELLCHECK.PB_AUTOCORR.pushbutton.text
 msgid "AutoCor~rect"
 msgstr "UathChea~rtaigh"
-
-#: SpellDialog.src#RID_SVXDLG_SPELLCHECK.PB_EXPLAIN.pushbutton.text
-msgid "Explain..."
-msgstr "Mínigh..."
 
 #: SpellDialog.src#RID_SVXDLG_SPELLCHECK.PB_OPTIONS.pushbutton.text
 msgid "O~ptions..."
@@ -91313,6 +91354,11 @@ msgstr "Athshocraigh tréithe"
 #: paragraph.src#RID_SVXPAGE_STD_PARAGRAPH.FL_INDENT.fixedline.text
 msgid "Indent"
 msgstr "Eangaigh"
+
+#: editeng.src#RID_MENU_SPELL.MN_SPELLING.menuitem.text
+#: olmenu.src#MN_SPELL_POPUP.MN_SPELLING.menuitem.text
+msgid "~Spellcheck..."
+msgstr "~Litriú..."
 
 #: editeng.src#RID_MENU_SPELL.MN_IGNORE.menuitem.text
 #: olmenu.src#MN_SPELL_POPUP.MN_IGNORE.menuitem.text
@@ -98945,7 +98991,8 @@ msgid ""
 "Locate the @WIKIEXTENSIONFILENAME@.oxt file, click Open, and then click "
 "Close. "
 msgstr ""
-"Aimsigh comhad @WIKIEXTENSIONFILENAME@.oxt, cliceáil Oscail, ansin cliceáil Dún. "
+"Aimsigh comhad @WIKIEXTENSIONFILENAME@.oxt, cliceáil Oscail, ansin cliceáil "
+"Dún. "
 
 #: wiki.xhp#par_id4008911.help.text
 msgid ""
@@ -99006,15 +99053,16 @@ msgid ""
 "Open a Writer document, and choose <item type=\"menuitem\">Tools - Options - "
 "Internet - MediaWiki</item>."
 msgstr ""
-"Oscail cáipéis Writer agus roghnaigh <item type=\"menuitem\">Uirlisí - Roghanna - Idirlíon - MediaWiki</item>."
+"Oscail cáipéis Writer agus roghnaigh <item type=\"menuitem\">Uirlisí - "
+"Roghanna - Idirlíon - MediaWiki</item>."
 
 #: wiki.xhp#par_id368968.help.text
 msgid ""
 "In the <link href=\"@WIKIEXTENSIONID@/wikisettings.xhp\">Options</link> "
 "dialog, click Add."
 msgstr ""
-"Sa dialóg <link href=\"@WIKIEXTENSIONID@/wikisettings.xhp\">Roghanna</link>,"
-" cliceáil \"Cuir Leis\"."
+"Sa dialóg <link href=\"@WIKIEXTENSIONID@/wikisettings.xhp\">Roghanna</link>, "
+"cliceáil \"Cuir Leis\"."
 
 #: wiki.xhp#par_id6962187.help.text
 msgid ""
@@ -110426,6 +110474,82 @@ msgstr "Teimpléad Líníochta %PRODUCTNAME"
 #: documents.ulf#spreadsheet_template.LngText.text
 msgid "%PRODUCTNAME Spreadsheet Template"
 msgstr "Teimpléad Scarbhileoige %PRODUCTNAME"
+
+#: documents.ulf#ms_excel_sheet_12.LngText.text
+msgctxt "documents.ulf#ms_excel_sheet_12.LngText.text"
+msgid "Microsoft Excel Worksheet"
+msgstr "Scarbhileog Microsoft Excel"
+
+#: documents.ulf#ms_excel_template_12.LngText.text
+msgctxt "documents.ulf#ms_excel_template_12.LngText.text"
+msgid "Microsoft Excel Worksheet Template"
+msgstr "Teimpléad Scarbhileoige Microsoft Excel"
+
+#: documents.ulf#ms_powerpoint_presentation_12.LngText.text
+msgctxt "documents.ulf#ms_powerpoint_presentation_12.LngText.text"
+msgid "Microsoft PowerPoint Presentation"
+msgstr "Láithreoireacht Microsoft PowerPoint"
+
+#: documents.ulf#ms_powerpoint_template_12.LngText.text
+msgctxt "documents.ulf#ms_powerpoint_template_12.LngText.text"
+msgid "Microsoft PowerPoint Presentation Template"
+msgstr "Teimpléad Láithreoireachta Microsoft PowerPoint"
+
+#: documents.ulf#ms_word_document_12.LngText.text
+msgctxt "documents.ulf#ms_word_document_12.LngText.text"
+msgid "Microsoft Word Document"
+msgstr "Cáipéis Microsoft Word"
+
+#: documents.ulf#ms_word_template_12.LngText.text
+msgctxt "documents.ulf#ms_word_template_12.LngText.text"
+msgid "Microsoft Word Document Template"
+msgstr "Teimpléad Cáipéise Microsoft Word"
+
+#: documents.ulf#openxmlformats_officedocument_presentationml_presentation.LngText.text
+msgctxt ""
+"documents.ulf#openxmlformats_officedocument_presentationml_presentation."
+"LngText.text"
+msgid "Microsoft PowerPoint Presentation"
+msgstr "Láithreoireacht Microsoft PowerPoint"
+
+#: documents.ulf#openxmlformats_officedocument_presentationml_template.LngText.text
+msgctxt ""
+"documents.ulf#openxmlformats_officedocument_presentationml_template.LngText."
+"text"
+msgid "Microsoft PowerPoint Presentation Template"
+msgstr "Teimpléad Láithreoireachta Microsoft PowerPoint"
+
+#: documents.ulf#openxmlformats_officedocument_spreadsheetml_sheet.LngText.text
+msgctxt ""
+"documents.ulf#openxmlformats_officedocument_spreadsheetml_sheet.LngText.text"
+msgid "Microsoft Excel Worksheet"
+msgstr "Scarbhileog Microsoft Excel"
+
+#: documents.ulf#openxmlformats_officedocument_spreadsheetml_template.LngText.text
+msgctxt ""
+"documents.ulf#openxmlformats_officedocument_spreadsheetml_template.LngText."
+"text"
+msgid "Microsoft Excel Worksheet Template"
+msgstr "Teimpléad Scarbhileoige Microsoft Excel"
+
+#: documents.ulf#openxmlformats_officedocument_wordprocessingml_document.LngText.text
+msgctxt ""
+"documents.ulf#openxmlformats_officedocument_wordprocessingml_document."
+"LngText.text"
+msgid "Microsoft Word Document"
+msgstr "Cáipéis Microsoft Word"
+
+#: documents.ulf#openxmlformats_officedocument_wordprocessingml_template.LngText.text
+msgctxt ""
+"documents.ulf#openxmlformats_officedocument_wordprocessingml_template."
+"LngText.text"
+msgid "Microsoft Word Document Template"
+msgstr "Teimpléad Cáipéise Microsoft Word"
+
+#: documents.ulf#ms_excel_sheet_binary_12.LngText.text
+msgctxt "documents.ulf#ms_excel_sheet_binary_12.LngText.text"
+msgid "Microsoft Excel Worksheet"
+msgstr "Scarbhileog Microsoft Excel"
 
 #: launcher_genericname.ulf#writer.LngText.text
 msgid "Word Processor"
