@@ -3700,11 +3700,11 @@ msgstr "Barraí Earráide X"
 
 #: Strings.src#STR_DATA_ROLE_X_ERROR_POSITIVE.string.text
 msgid "Positive X-Error-Bars"
-msgstr ""
+msgstr "Barraí Earráide X - Deimhneach"
 
 #: Strings.src#STR_DATA_ROLE_X_ERROR_NEGATIVE.string.text
 msgid "Negative X-Error-Bars"
-msgstr ""
+msgstr "Barraí Earráide X - Diúltach"
 
 #: Strings.src#STR_DATA_ROLE_Y_ERROR.string.text
 msgid "Y-Error-Bars"
@@ -3712,11 +3712,11 @@ msgstr "Barraí Earráide Y"
 
 #: Strings.src#STR_DATA_ROLE_Y_ERROR_POSITIVE.string.text
 msgid "Positive Y-Error-Bars"
-msgstr ""
+msgstr "Barraí Earráide Y - Deimhneach"
 
 #: Strings.src#STR_DATA_ROLE_Y_ERROR_NEGATIVE.string.text
 msgid "Negative Y-Error-Bars"
-msgstr ""
+msgstr "Barraí Earráide Y - Diúltach"
 
 #: Strings.src#STR_DATA_ROLE_FIRST.string.text
 msgid "Open Values"
@@ -3760,17 +3760,19 @@ msgstr "Roghnaigh Raon do na Lipéid Sonraí"
 
 #: Strings.src#STR_DATA_SELECT_RANGE_FOR_POSITIVE_ERRORBARS.string.text
 msgid "Select Range for Positive Error Bars"
-msgstr ""
+msgstr "Roghnaigh Raon do na Barraí Earráide Deimhneacha"
 
 #: Strings.src#STR_DATA_SELECT_RANGE_FOR_NEGATIVE_ERRORBARS.string.text
 msgid "Select Range for Negative Error Bars"
-msgstr ""
+msgstr "Roghnaigh Raon do na Barraí Earráide Diúltacha"
 
 #: Strings.src#STR_DATA_EDITOR_INCORRECT_INPUT.string.text
 msgid ""
 "Your last input is incorrect.\n"
 "Ignore this change and close the dialog?"
 msgstr ""
+"Bhí d'ionchur is déanaí mícheart.\n"
+"Ar mhaith leat an t-athrú seo a chealú agus an dialóg a dhúnadh?"
 
 #: Strings_AdditionalControls.src#STR_3DSCHEME_SIMPLE.string.text
 #: WebWizard.xcu#..WebWizard.WebWizard.Layouts.simple.Name.value.text
@@ -4502,7 +4504,7 @@ msgstr "Athraitheas"
 
 #: res_ErrorBar_tmpl.hrc#WORKAROUND.4.stringlist.text
 msgid "Error Margin"
-msgstr ""
+msgstr "Lamháil Earráide"
 
 #: res_ErrorBar_tmpl.hrc#RESOURCE_ERRORBARS_availablewidth__yoffset_.FL_ERROR.fixedline.text
 msgid "Error Category"
@@ -4541,7 +4543,7 @@ msgstr "~Diúltach (-)"
 
 #: res_ErrorBar_tmpl.hrc#RESOURCE_ERRORBARS_availablewidth__yoffset_.CB_SYN_POS_NEG.checkbox.text
 msgid "Same value for both"
-msgstr ""
+msgstr "Luach céanna sa dá chás"
 
 #: res_ErrorBar_tmpl.hrc#RESOURCE_ERRORBARS_availablewidth__yoffset_.FL_INDICATE.fixedline.text
 msgctxt ""
@@ -5505,7 +5507,7 @@ msgstr "..."
 
 #: AdabasNewDb.src#DLG_ADABAS_NEWDB.FT_TRANSACTIONLOG_SIZE.fixedtext.text
 msgid "Transaction ~file (MB)"
-msgstr ""
+msgstr "~Comhad idirbhearta (MB)"
 
 #: AdabasNewDb.src#DLG_ADABAS_NEWDB.FT_DATADEVSPACE_SIZE.fixedtext.text
 msgid "Data~base size (MB)"
@@ -5526,19 +5528,19 @@ msgstr "Cruthaigh Bunachar Sonraí Nua Adabas D"
 
 #: AdabasNewDb.src#STR_ADABAS_NO_PARAM_SET.string.text
 msgid "No entry could be written in the configuration file."
-msgstr ""
+msgstr "Níorbh fhéidir iontráil ar bith a scríobh sa chomhad cumraíochta."
 
 #: AdabasNewDb.src#STR_ADABAS_NO_DB_CREATED.string.text
 msgid "An error occurred as the DB files were being created."
-msgstr ""
+msgstr "Tharla earráid agus an bunachar sonraí á chruthú."
 
 #: AdabasNewDb.src#STR_ADABAS_NO_SYSTEM_TABLES.string.text
 msgid "An error occurred as the system tables were being created."
-msgstr ""
+msgstr "Tharla earráid agus táblaí an chórais á gcruthú."
 
 #: AdabasNewDb.src#STR_ADABAS_NO_BACKUP_FILE.string.text
 msgid "The backup file entered does not exist."
-msgstr ""
+msgstr "Níl comhad cúltaca darb ainm sin ann."
 
 #: AdabasNewDb.src#INFO_STR_MAX_FILE_LENGTH.infobox.text
 msgid "The fully qualified file cannot be longer than \\'#\\' characters."
@@ -5566,6 +5568,8 @@ msgid ""
 "Please check your Adabas D installation, especially the variables \"DBROOT\" "
 "and \"DBWORK\"."
 msgstr ""
+"Ní féidir bunachar sonraí nua a chruthú.\n"
+"Déan seiceáil ar do chóras Adabas D, go háirithe na hathróga \"DBROOT\" agus \"DBWORK\"."
 
 #: AdabasNewDb.src#STR_STAT_WARNING.string.text
 #: table.src#STR_STAT_WARNING.string.text euro.src#MESSAGES___10.string.text
@@ -5578,15 +5582,15 @@ msgstr "Comhaid bhunachair sonraí á gcruthú."
 
 #: AdabasNewDb.src#STR_ADABAS_CREATEPARAM_FILE.string.text
 msgid "Creating database configuration file."
-msgstr ""
+msgstr "Comhad cumraíochta an bhunachair sonraí á chruthú."
 
 #: AdabasNewDb.src#STR_ADABAS_START_DATABASE.string.text
 msgid "Starting database for the first time."
-msgstr ""
+msgstr "Bunachar sonraí á thosú den chéad uair."
 
 #: AdabasNewDb.src#STR_ADABAS_DB_EXISTS.string.text
 msgid "The name entered already exists."
-msgstr "Tá an t-ainm iontráilte ann cheana."
+msgstr "Tá an t-ainm a iontráladh ann cheana."
 
 #: AdabasNewDb.src#STR_ADABAS_NO_DEFAULTNAME.string.text
 msgid ""
@@ -5608,7 +5612,7 @@ msgstr ""
 
 #: AdabasNewDb.src#STR_ADABAS_PASSWORD_ILLEGAL.string.text
 msgid "Spaces are not permitted in the password. Please enter a new password."
-msgstr ""
+msgstr "Ní cheadaítear spásanna san fhocal faire.  Iontráil focal faire nua, le do thoil."
 
 #: macromigration.src#DLG_MACRO_MIGRATION.STR_STATE_CLOSE_SUB_DOCS.string.text
 #: roadmapskeleton.src#DLG_ROADMAP_SKELETON.STR_STATE_PREPARE.string.text
@@ -5716,7 +5720,7 @@ msgstr "Dul chun cinn iomlán:"
 #: macromigration.src#TP_MIGRATE.FT_OBJECT_COUNT_PROGRESS.fixedtext.text
 msgctxt "macromigration.src#TP_MIGRATE.FT_OBJECT_COUNT_PROGRESS.fixedtext.text"
 msgid "document $current$ of $overall$"
-msgstr ""
+msgstr "cáipéis $current$ as $overall$"
 
 #: macromigration.src#TP_MIGRATE.FT_MIGRATION_DONE.fixedtext.text
 msgid ""
@@ -5744,7 +5748,7 @@ msgstr "Tuairisc '$name$'"
 #: macromigration.src#STR_OVERALL_PROGRESS.string.text
 msgctxt "macromigration.src#STR_OVERALL_PROGRESS.string.text"
 msgid "document $current$ of $overall$"
-msgstr ""
+msgstr "cáipéis $current$ as $overall$"
 
 #: macromigration.src#STR_DATABASE_DOCUMENT.string.text
 msgid "Database Document"
@@ -5752,7 +5756,7 @@ msgstr "Cáipéis Bhunachair Sonraí"
 
 #: macromigration.src#STR_SAVED_COPY_TO.string.text
 msgid "saved copy to $location$"
-msgstr ""
+msgstr "sábháladh cóip i $location$"
 
 #: macromigration.src#STR_MOVED_LIBRARY.string.text
 msgid "moved $type$ library $old$ to $new$"
@@ -6151,6 +6155,7 @@ msgid ""
 "The document contains forms and/or reports with macros and/or scripts "
 "embedded."
 msgstr ""
+"Tá foirmeacha agus/nó tuairiscí le macraí agus/nó scripteanna leabaithe iontu sa cháipéis."
 
 #: app.src#STR_SUB_DOCS_WITH_SCRIPTS_DETAIL.string.text
 msgid ""
@@ -7220,7 +7225,7 @@ msgstr "Nasc trí JDBC (Java Database Connectivity)"
 
 #: dbadminsetup.src#PAGE_DBWIZARD_MYSQL_INTRO.RB_CONNECTVIANATIVE.radiobutton.text
 msgid "Connect native"
-msgstr ""
+msgstr "Nasc dúchasach"
 
 #: dbadminsetup.src#PAGE_DBWIZARD_AUTHENTIFICATION.FT_AUTHENTIFICATIONHEADERTEXT.fixedtext.text
 msgid "Set up the user authentication"
@@ -9801,15 +9806,15 @@ msgstr "Easpórtáil Eisínteachtaí go..."
 #: dp_gui_dialog.src#RID_STR_ADDING_PACKAGES.string.text
 msgctxt "dp_gui_dialog.src#RID_STR_ADDING_PACKAGES.string.text"
 msgid "Adding %EXTENSION_NAME"
-msgstr ""
+msgstr "%EXTENSION_NAME á chur leis"
 
 #: dp_gui_dialog.src#RID_STR_REMOVING_PACKAGES.string.text
 msgid "Removing %EXTENSION_NAME"
-msgstr ""
+msgstr "%EXTENSION_NAME á bhaint"
 
 #: dp_gui_dialog.src#RID_STR_ENABLING_PACKAGES.string.text
 msgid "Enabling %EXTENSION_NAME"
-msgstr ""
+msgstr "%EXTENSION_NAME á chumasú"
 
 #: dp_gui_dialog.src#RID_STR_DISABLING_PACKAGES.string.text
 msgid "Disabling %EXTENSION_NAME"
@@ -9974,7 +9979,7 @@ msgctxt ""
 "dp_gui_dialog2.src#RID_DLG_EXTENSION_MANAGER.RID_EM_FT_PROGRESS.fixedtext."
 "text"
 msgid "Adding %EXTENSION_NAME"
-msgstr ""
+msgstr "%EXTENSION_NAME á chur leis"
 
 #: dp_gui_dialog2.src#RID_DLG_EXTENSION_MANAGER.RID_EM_BTN_CLOSE.okbutton.text
 msgctxt ""
@@ -10118,7 +10123,7 @@ msgstr "Toradh"
 
 #: dp_gui_updateinstalldialog.src#RID_DLG_UPDATEINSTALL.RID_DLG_UPDATE_INSTALL_ABORT.cancelbutton.text
 msgid "Cancel Update"
-msgstr ""
+msgstr "Cealaigh an Nuashonrú"
 
 #: dp_gui_updateinstalldialog.src#RID_DLG_UPDATEINSTALL.RID_DLG_UPDATE_INSTALL_INSTALLING.string.text
 msgid "Installing extensions..."
@@ -99325,6 +99330,7 @@ msgid ""
 "MediaWiki. If those tags occur as plain text in the transformation result, "
 "ask the Wiki administrator to install this extension."
 msgstr ""
+"Nóta: Úsáideann an trasfhoirmiú an stíl nua d'fhonótaí le clibeanna <ref> agus <references> a dteastaíonn uaithi an eisínteacht Cite.php a bheith suiteáilte i MediaWiki.  Má fheiceann tú na clibeanna sin mar ghnáth-théacs i dtoradh an trasfhoirmithe, téigh i dteagmháil le riarthóir an Vicí chun an eisínteacht seo a shuiteáil."
 
 #: wikiformats.xhp#par_id3541673.help.text
 msgid ""
