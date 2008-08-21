@@ -3533,7 +3533,7 @@ msgstr "Línte Treochta"
 
 #: Strings.src#STR_OBJECT_CURVE_WITH_PARAMETERS.string.text
 msgid "Trend line %FORMULA with accuracy R² = %RSQUARED"
-msgstr ""
+msgstr "Líne threochta %FORMULA le cruinneas R² = %RSQUARED"
 
 #: Strings.src#STR_OBJECT_AVERAGE_LINE.string.text
 msgid "Mean Value Line"
@@ -4746,7 +4746,7 @@ msgstr "Ní cheadaítear slaiseanna ('/') san ainm."
 
 #: conn_error_message.src#256___2_301___0.string.text
 msgid "$1$ is no SQL conform identifier."
-msgstr ""
+msgstr "Ní aitheantóir bailí SQL é $1$."
 
 #: conn_error_message.src#256___2_302___0.string.text
 msgid "Query names must not contain quote characters."
@@ -5445,9 +5445,10 @@ msgstr "Ai~nm an bhunachair sonraí"
 msgid "User settings"
 msgstr "Socruithe úsáideora"
 
+# "the control user" below, so definitely not a verb
 #: AdabasNewDb.src#DLG_ADABAS_NEWDB.FT_CONUSR.fixedtext.text
 msgid "~Control user"
-msgstr ""
+msgstr "Ú~sáideoir rialaithe"
 
 #: AdabasNewDb.src#DLG_ADABAS_NEWDB.FT_SYSUSR.fixedtext.text
 msgid "~Administrator"
@@ -5455,7 +5456,7 @@ msgstr "Ri~arthóir"
 
 #: AdabasNewDb.src#DLG_ADABAS_NEWDB.FT_DOMAIN_USR.fixedtext.text
 msgid "~Domain user"
-msgstr ""
+msgstr "Úsáideoir ~fearainn"
 
 #: AdabasNewDb.src#DLG_ADABAS_NEWDB.PB_SYSPWD.pushbutton.text
 msgid "P~assword..."
@@ -5544,23 +5545,23 @@ msgstr "Níl comhad cúltaca darb ainm sin ann."
 
 #: AdabasNewDb.src#INFO_STR_MAX_FILE_LENGTH.infobox.text
 msgid "The fully qualified file cannot be longer than \\'#\\' characters."
-msgstr ""
+msgstr "Ní cheadaítear ainm comhad láncháilithe níos faide ná \\'#\\' carachtar."
 
 #: AdabasNewDb.src#STR_NO_SAME_USER.string.text
 msgid "The administrator and the control user cannot have the same name!"
-msgstr ""
+msgstr "Ní cheadaítear riarthóir agus úsáideoir rialaithe leis an ainm céanna!"
 
 #: AdabasNewDb.src#STR_DEVSPACE_NO_FILE.string.text
 msgid "No name has been entered for the $name$ file!"
-msgstr ""
+msgstr "Níor tugadh ainm ar an gcomhad $name$!"
 
 #: AdabasNewDb.src#STR_NO_PERMISSION.string.text
 msgid "You have to have administrator rights to create a new database!"
-msgstr ""
+msgstr "Tá ceadanna an riarthóra de dhíth chun bunachar sonraí a chruthú!"
 
 #: AdabasNewDb.src#STR_FILE_OR_DIR_UNKNOWN.string.text
 msgid "The specified file name or directory does not exist."
-msgstr ""
+msgstr "Níl an comhad nó comhadlann sainithe ann."
 
 #: AdabasNewDb.src#STR_ERROR_IN_ADABAS_INSTALLATION.string.text
 msgid ""
@@ -5634,11 +5635,11 @@ msgstr "Achoimre"
 
 #: macromigration.src#DLG_MACRO_MIGRATION.modaldialog.text
 msgid "Database Document Macro Migration"
-msgstr ""
+msgstr "Aistriú Macraí Bunachair Sonraí"
 
 #: macromigration.src#TP_PREPARE.FT_HEADER.fixedtext.text
 msgid "Welcome to the Database Macro Migration Wizard"
-msgstr ""
+msgstr "Fáilte go dtí an Treoraí Aistrithe Macraí Bunachair Sonraí"
 
 #: macromigration.src#TP_PREPARE.FT_INTRODUCTION.fixedtext.text
 msgid ""
@@ -5661,6 +5662,7 @@ msgid ""
 "Not all objects could be closed. Please close them manually, and re-start "
 "the wizard."
 msgstr ""
+"Níorbh fhéidir gach réad a dhúnadh.  Dún iad de láimh, agus atosaigh an treoraí."
 
 #: macromigration.src#TP_SAVE_DBDOC_AS.FT_HEADER.fixedtext.text
 msgid "Backup your Document"
@@ -5686,6 +5688,7 @@ msgstr "Brabhsáil..."
 msgid ""
 "Press 'Next' to save a copy of your document, and to begin the migration."
 msgstr ""
+"Brúigh 'Ar Aghaidh' chun do cháipéis a shábháil, agus an t-aistriú a thosú."
 
 #: macromigration.src#TP_MIGRATE.FT_HEADER.fixedtext.text
 msgid "Migration Progress"
@@ -5696,6 +5699,7 @@ msgid ""
 "The database document contains $forms$ form(s) and $reports$ report(s), "
 "which are currently being processed:"
 msgstr ""
+"Tá $forms$ foirm agus $reports$ tuairisc sa cháipéis bhunachair sonraí, á bpróiseáil anois:"
 
 #: macromigration.src#TP_MIGRATE.FT_CURRENT_OBJECT_LABEL.fixedtext.text
 msgid "Current object:"
@@ -5727,6 +5731,7 @@ msgid ""
 "All documents have been successfully processed. Press 'Next' to show a "
 "detailed summary."
 msgstr ""
+"Próiseáladh gach cáipéis.  Brúigh 'Ar Aghaidh' chun miontuairisc a thaispeáint."
 
 #: macromigration.src#TP_SUMMARY.FT_HEADER.fixedtext.text
 msgctxt "macromigration.src#TP_SUMMARY.FT_HEADER.fixedtext.text"
@@ -5735,7 +5740,7 @@ msgstr "Achoimre"
 
 #: macromigration.src#TP_SUMMARY.FT_CHANGES_LABEL.fixedtext.text
 msgid "The following actions have been taken:"
-msgstr ""
+msgstr "Rinneadh na gníomhartha seo a leanas:"
 
 #: macromigration.src#STR_FORM.string.text
 msgid "Form '$name$'"
@@ -5760,7 +5765,7 @@ msgstr "sábháladh cóip i $location$"
 
 #: macromigration.src#STR_MOVED_LIBRARY.string.text
 msgid "moved $type$ library $old$ to $new$"
-msgstr ""
+msgstr "bogadh leabharlann $type$ $old$ go $new$"
 
 #: macromigration.src#STR_OOO_BASIC.string.text
 msgid "%PRODUCTNAME% Basic"
@@ -7322,7 +7327,7 @@ msgstr "Socraigh nasc le bunachar sonraí MySQL"
 
 #: dbadminsetup.src#PAGE_DBWIZARD_MYSQL_NATIVE.STR_MYSQLJDBC_HELPTEXT.string.text
 msgid "Please enter the required information to connect to a MySQL database."
-msgstr ""
+msgstr "Iontráil an fhaisnéis riachtanach chun ceangal a bhunú le bunachar sonraí MySQL."
 
 #: dbadminsetup.src#PAGE_DBWIZARD_MYSQL_NATIVE.STR_MYSQL_DEFAULT.string.text
 msgctxt ""
@@ -9839,7 +9844,7 @@ msgstr "Foilsitheoir"
 
 #: dp_gui_dialog.src#RID_STR_ERROR_UNKNOWN_STATUS.string.text
 msgid "Error: The status of this extension is unknown"
-msgstr ""
+msgstr "Earráid: Níl a fhios cad é stádas na heisínteachta seo"
 
 #: dp_gui_dialog.src#RID_DLG_LICENSE.FT_LICENSE_HEADER.fixedtext.text
 msgid ""
@@ -9927,6 +9932,9 @@ msgid ""
 "Click \\'OK\\' to install the extension.\n"
 "Click \\'Cancel\\' to stop the installation."
 msgstr ""
+"Bí cinnte nach bhfuil tuilleadh úsáideoirí ag obair leis an %PRODUCTNAME céanna, agus eisínteachtaí comhroinnte á n-athrú i dtimpeallacht ilúsáideora.\n"
+"Brúigh \\'OK\\' chun an eisínteacht a shuiteáil.\n"
+"Brúigh \\'Cealaigh\\' chun an tsuiteáil a stopadh."
 
 #: dp_gui_dialog.src#RID_WARNINGBOX_REMOVE_SHARED_EXTENSION.warningbox.text
 msgid ""
@@ -9935,6 +9943,9 @@ msgid ""
 "Click \\'OK\\' to remove the extension.\n"
 "Click \\'Cancel\\' to stop removing the extension."
 msgstr ""
+"Bí cinnte nach bhfuil tuilleadh úsáideoirí ag obair leis an %PRODUCTNAME céanna, agus eisínteachtaí comhroinnte á n-athrú i dtimpeallacht ilúsáideora.\n"
+"Brúigh \\'OK\\' chun an eisínteacht a bhaint.\n"
+"Brúigh \\'Cealaigh\\' mura mian leat an eisínteacht a bhaint."
 
 #: dp_gui_dialog.src#RID_WARNINGBOX_ENABLE_SHARED_EXTENSION.warningbox.text
 msgid ""
@@ -9943,6 +9954,9 @@ msgid ""
 "Click \\'OK\\' to enable the extension.\n"
 "Click \\'Cancel\\' to stop enabling the extension."
 msgstr ""
+"Bí cinnte nach bhfuil tuilleadh úsáideoirí ag obair leis an %PRODUCTNAME céanna, agus eisínteachtaí comhroinnte á n-athrú i dtimpeallacht ilúsáideora.\n"
+"Brúigh \\'OK\\' chun an eisínteacht a chumasú.\n"
+"Brúigh \\'Cealaigh\\' mura mian leat an eisínteacht a chumasú."
 
 #: dp_gui_dialog.src#RID_WARNINGBOX_DISABLE_SHARED_EXTENSION.warningbox.text
 msgid ""
@@ -9951,10 +9965,13 @@ msgid ""
 "Click \\'OK\\' to disable the extension.\n"
 "Click \\'Cancel\\' to stop disabling the extension."
 msgstr ""
+"Bí cinnte nach bhfuil tuilleadh úsáideoirí ag obair leis an %PRODUCTNAME céanna, agus eisínteachtaí comhroinnte á n-athrú i dtimpeallacht ilúsáideora.\n"
+"Brúigh \\'OK\\' chun an eisínteacht a dhíchumasú.\n"
+"Brúigh \\'Cealaigh\\' mura mian leat an eisínteacht a dhíchumasú."
 
 #: dp_gui_dialog.src#RID_STR_UNSUPPORTED_PLATFORM.string.text
 msgid "The extension \\'%Name\\' does not work on this computer."
-msgstr ""
+msgstr "Ní oibríonn eisínteacht \\'%Name\\' ar an ríomhaire seo."
 
 #: dp_gui_dialog2.src#RID_DLG_EXTENSION_MANAGER.RID_EM_BTN_ADD.pushbutton.text
 msgctxt ""
