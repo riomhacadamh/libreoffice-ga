@@ -56151,7 +56151,7 @@ msgstr ""
 #: globstr.src#RID_GLOBSTR.STR_UNKNOWN_USER.string.text
 #: openlocked.src#STR_OPENLOCKED_UNKNOWNUSER.string.text
 msgid "Unknown User"
-msgstr ""
+msgstr "Úsáideoir Anaithnid"
 
 #: hdrcont.src#PART1.FID_CELL_FORMAT.menuitem.text
 msgctxt "hdrcont.src#PART1.FID_CELL_FORMAT.menuitem.text"
@@ -56697,7 +56697,7 @@ msgstr "Crap"
 
 #: namedlg.src#RID_SCDLG_NAMES.FL_TYPE.fixedline.text
 msgid "Area type"
-msgstr ""
+msgstr "Cineál an limistéir"
 
 #: namedlg.src#RID_SCDLG_NAMES.BTN_PRINTAREA.checkbox.text
 msgid "~Print range"
@@ -57197,7 +57197,7 @@ msgstr "Crap"
 
 #: optsolver.src#RID_SCDLG_OPTSOLVER.FT_VARIABLECELLS.fixedtext.text
 msgid "By changing cells"
-msgstr ""
+msgstr "Trí chealla a athrú"
 
 #: optsolver.src#RID_SCDLG_OPTSOLVER.IB_VARIABLECELLS.imagebutton.text
 msgctxt "optsolver.src#RID_SCDLG_OPTSOLVER.IB_VARIABLECELLS.imagebutton.text"
@@ -57454,7 +57454,7 @@ msgstr "Bain"
 
 #: optsolver.src#RID_SCDLG_OPTSOLVER.BTN_SOLVE.pushbutton.text
 msgid "Solve"
-msgstr ""
+msgstr "Réitigh"
 
 #: optsolver.src#RID_SCDLG_OPTSOLVER.STR_INVALIDINPUT.string.text
 msgid "Invalid input."
@@ -57470,7 +57470,7 @@ msgstr ""
 
 #: optsolver.src#RID_SCDLG_SOLVER_PROGRESS.FT_PROGRESS.fixedtext.text
 msgid "Solving in progress..."
-msgstr ""
+msgstr "Réiteach ar siúl..."
 
 #: optsolver.src#RID_SCDLG_SOLVER_PROGRESS.FT_TIMELIMIT.fixedtext.text
 msgid "(time limit # seconds)"
@@ -57478,19 +57478,19 @@ msgstr "(teorainn ama # soicindí)"
 
 #: optsolver.src#RID_SCDLG_SOLVER_PROGRESS.modelessdialog.text
 msgid "Solving..."
-msgstr ""
+msgstr "Á Réiteach..."
 
 #: optsolver.src#RID_SCDLG_SOLVER_NOSOLUTION.FT_NOSOLUTION.fixedtext.text
 msgid "No solution was found."
-msgstr ""
+msgstr "Níor aimsíodh réiteach ar bith."
 
 #: optsolver.src#RID_SCDLG_SOLVER_NOSOLUTION.modaldialog.text
 msgid "No Solution"
-msgstr ""
+msgstr "Gan réiteach"
 
 #: optsolver.src#RID_SCDLG_SOLVER_SUCCESS.FT_SUCCESS.fixedtext.text
 msgid "Solving successfully finished."
-msgstr ""
+msgstr "D'éirigh leis an réiteach."
 
 #: optsolver.src#RID_SCDLG_SOLVER_SUCCESS.FT_RESULT.fixedtext.text
 msgid "Result:"
@@ -57500,6 +57500,7 @@ msgstr "Toradh:"
 msgid ""
 "Do you want to keep the result or do you want to restore previous values?"
 msgstr ""
+"Ar mhaith leat an toradh a choinneáil, nó ar mhaith leat na luachanna roimhe seo a chur ar ais?"
 
 #: optsolver.src#RID_SCDLG_SOLVER_SUCCESS.BTN_OK.okbutton.text
 msgid "Keep Result"
@@ -57507,11 +57508,11 @@ msgstr "Coinnigh an Toradh"
 
 #: optsolver.src#RID_SCDLG_SOLVER_SUCCESS.BTN_CANCEL.cancelbutton.text
 msgid "Restore Previous"
-msgstr ""
+msgstr "Luachanna Roimhe Seo"
 
 #: optsolver.src#RID_SCDLG_SOLVER_SUCCESS.modaldialog.text
 msgid "Solving Result"
-msgstr ""
+msgstr "Toradh"
 
 #: popup.src#RID_POPUP_CELLS.string.text
 msgid "Cell pop-up menu"
