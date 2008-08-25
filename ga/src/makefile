@@ -13,7 +13,7 @@
 #    and give current translation counts, version number in log entry
 # $ make   (rebuilds GSI and copies it to obair for Pavel's system)
 
-VERSION=DEV300_m2
+VERSION=OOO300_m2
 PO2OO=po2oo
 
 all : OOo-$(VERSION)-ga-GSI.sdf
@@ -35,7 +35,10 @@ OOo-$(VERSION)-ga-GSI.sdf : OOo-latest.ga.po
 	bash oonua
 	(. ~/seal/translate/translate/setpath; $(PO2OO) --version)
 	(. ~/seal/translate/translate/setpath; $(PO2OO) -l ga -t en-US.sdf -i po -o $@)
+	sed -i '/en-US\t\t/{s/.*/&\n&/; s/\(\n.*\)en-US\t\t/\1ga\t\t/}' $@  # deals with empty msgids in en-US.sdf, which don't make it into POT files even
+	sed -i '/ga\tNóta: /{s/\\</</g; s/\\>/>/g}' $@
 
+#  Defunct now that Transl toolkit is using msgctxt 
 propogate : FORCE
 	perl adhoc.pl | msgcat - - > OOo-temp.ga.po
 	cpo -q OOo-latest.ga.po
