@@ -57466,7 +57466,7 @@ msgstr "Coinníoll neamhbhailí."
 
 #: optsolver.src#RID_SCDLG_OPTSOLVER.modelessdialog.text
 msgid "Solver"
-msgstr ""
+msgstr "Réiteoir"
 
 #: optsolver.src#RID_SCDLG_SOLVER_PROGRESS.FT_PROGRESS.fixedtext.text
 msgid "Solving in progress..."
@@ -57800,12 +57800,14 @@ msgid ""
 "Cell $(ARG1) contains characters that are not representable in the selected "
 "target character set \"$(ARG2)\"."
 msgstr ""
+"Tá carachtair i gcill $(ARG1) nach inléirithe sa tacar carachtar roghnaithe \"$(ARG2)\"."
 
 #: scerrors.src#RID_ERRHDLSC.SCERR_EXPORT_FIELDWIDTH___ERRCODE_RES_MASK.string.text
 msgid ""
 "Cell $(ARG1) contains a string that is longer in the selected target "
 "character set \"$(ARG2)\" than the given field width."
 msgstr ""
+"Tá teaghrán i gcill $(ARG1) atá níos faide sa tacar carachtar roghnaithe \"$(ARG2)\" ná leithead an réimse."
 
 #: scerrors.src#RID_ERRHDLSC.SCWARN_EXPORT_ASCII___ERRCODE_RES_MASK.string.text
 msgid "Only the active sheet was saved."
@@ -65541,7 +65543,7 @@ msgstr "- uile -"
 
 #: scstring.src#SCSTR_TOP10FILTER.string.text
 msgid "Top 10"
-msgstr ""
+msgstr "Barr-10"
 
 #: scstring.src#SCSTR_NONAME.string.text
 msgctxt "scstring.src#SCSTR_NONAME.string.text"
@@ -65870,7 +65872,7 @@ msgstr ""
 
 #: scstring.src#STR_PRINT_NOTHING.string.text
 msgid "There is nothing to print. The selected print range or sheet is empty."
-msgstr ""
+msgstr "Níl faic le priontáil ann. Tá an raon roghnaithe priontála, nó an bhileog, folamh."
 
 #: scstring.src#STR_ACC_CSVRULER_NAME.string.text
 msgid "Ruler"
@@ -65962,7 +65964,7 @@ msgstr ""
 
 #: scstring.src#STR_ACC_DATAPILOT_SEL_DESCR.string.text
 msgid "Lists the fields that you can drag to one of the other three areas."
-msgstr ""
+msgstr "Taispeáin na réimsí is féidir leat tarraingt go ceann de na trí limistéar eile."
 
 #: scstring.src#SCSTR_MEDIASHELL.string.text
 #: glob.src#STR_MEDIAOBJECTBARSHELL.string.text
@@ -65993,7 +65995,7 @@ msgstr "Crap"
 
 #: solveroptions.src#RID_SCDLG_SOLVEROPTIONS.FT_ENGINE.fixedtext.text
 msgid "Solver engine"
-msgstr ""
+msgstr "Inneall an réiteora"
 
 #: solveroptions.src#RID_SCDLG_SOLVEROPTIONS.FT_SETTINGS.fixedtext.text
 #: euro.src#STEP_LASTPAGE___3.string.text
@@ -66873,18 +66875,19 @@ msgstr "Dún"
 msgid ""
 "Left click, right or down arrow, spacebar, page down, enter, return, 'N'"
 msgstr ""
+"Cléchliceáil, saighead ar dheis nó saighead síos, spásbharra, leathanach síos, eochair iontrála, eochair aisfhillte, 'N'"
 
 #: PresenterScreen.xcu#..PresenterScreen.PresenterScreenSettings.HelpView.HelpStrings.a.Right.value.text
 msgid "Next slide, or next effect"
-msgstr ""
+msgstr "An chéad sleamhnán nó mhaisíocht eile"
 
 #: PresenterScreen.xcu#..PresenterScreen.PresenterScreenSettings.HelpView.HelpStrings.b.Left.value.text
 msgid "Right click, left or up arrow, page up, backspace, 'P'"
-msgstr ""
+msgstr "Deaschliceáil, saighead ar chlé nó saighead suas, leathanach suas, cúlspás, 'P'"
 
 #: PresenterScreen.xcu#..PresenterScreen.PresenterScreenSettings.HelpView.HelpStrings.b.Right.value.text
 msgid "Previous slide, or previous effect"
-msgstr ""
+msgstr "An sleamhnán nó an mhaisíocht roimhe seo"
 
 #: PresenterScreen.xcu#..PresenterScreen.PresenterScreenSettings.HelpView.HelpStrings.c_Separator.Left.value.text
 msgctxt ""
@@ -66932,7 +66935,7 @@ msgstr "Alt+Page Up"
 
 #: PresenterScreen.xcu#..PresenterScreen.PresenterScreenSettings.HelpView.HelpStrings.g.Right.value.text
 msgid "Previous slide without effects"
-msgstr ""
+msgstr "An sleamhnán roimhe seo gan maisíochtaí"
 
 #: PresenterScreen.xcu#..PresenterScreen.PresenterScreenSettings.HelpView.HelpStrings.h.Left.value.text
 msgid "Alt+Page Down"
@@ -66940,7 +66943,7 @@ msgstr "Alt+Page Down"
 
 #: PresenterScreen.xcu#..PresenterScreen.PresenterScreenSettings.HelpView.HelpStrings.h.Right.value.text
 msgid "Next slide without effects"
-msgstr ""
+msgstr "An chéad sleamhnán eile gan maisíochtaí"
 
 #: PresenterScreen.xcu#..PresenterScreen.PresenterScreenSettings.HelpView.HelpStrings.i_Separator.Left.value.text
 msgctxt ""
@@ -66958,19 +66961,19 @@ msgstr " "
 
 #: PresenterScreen.xcu#..PresenterScreen.PresenterScreenSettings.HelpView.HelpStrings.j.Left.value.text
 msgid "'B', '.'"
-msgstr ""
+msgstr "'B', '.'"
 
 #: PresenterScreen.xcu#..PresenterScreen.PresenterScreenSettings.HelpView.HelpStrings.j.Right.value.text
 msgid "Blacks/Unblacks the screen"
-msgstr ""
+msgstr "Dubhaigh/dídhubhaigh an scáileán"
 
 #: PresenterScreen.xcu#..PresenterScreen.PresenterScreenSettings.HelpView.HelpStrings.k.Left.value.text
 msgid "'W', ','"
-msgstr ""
+msgstr "'W', ','"
 
 #: PresenterScreen.xcu#..PresenterScreen.PresenterScreenSettings.HelpView.HelpStrings.k.Right.value.text
 msgid "Whites/Unwhites the screen"
-msgstr ""
+msgstr "Bánaigh/Díbhánaigh an scáileán"
 
 #: PresenterScreen.xcu#..PresenterScreen.PresenterScreenSettings.HelpView.HelpStrings.l_Separator.Left.value.text
 msgctxt ""
@@ -66992,7 +66995,7 @@ msgstr "Esc, '-'"
 
 #: PresenterScreen.xcu#..PresenterScreen.PresenterScreenSettings.HelpView.HelpStrings.m.Right.value.text
 msgid "End slide show"
-msgstr ""
+msgstr "Cuir deireadh leis an taispeántas sleamhnán"
 
 #: PresenterScreen.xcu#..PresenterScreen.PresenterScreenSettings.HelpView.HelpStrings.n_Separator.Left.value.text
 msgctxt ""
@@ -67010,7 +67013,7 @@ msgstr " "
 
 #: PresenterScreen.xcu#..PresenterScreen.PresenterScreenSettings.HelpView.HelpStrings.o.Left.value.text
 msgid "Number followed by Enter"
-msgstr ""
+msgstr "Uimhir á leanúint ag an eochair iontrála"
 
 #: PresenterScreen.xcu#..PresenterScreen.PresenterScreenSettings.HelpView.HelpStrings.o.Right.value.text
 msgid "Go to that slide"
@@ -67032,15 +67035,15 @@ msgstr " "
 
 #: PresenterScreen.xcu#..PresenterScreen.PresenterScreenSettings.HelpView.HelpStrings.q.Left.value.text
 msgid "'G', 'S'"
-msgstr ""
+msgstr "'G', 'S'"
 
 #: PresenterScreen.xcu#..PresenterScreen.PresenterScreenSettings.HelpView.HelpStrings.q.Right.value.text
 msgid "Grow/Shrink size of notes font"
-msgstr ""
+msgstr "Méadaigh/Laghdaigh clómhéid na nótaí"
 
 #: PresenterScreen.xcu#..PresenterScreen.PresenterScreenSettings.HelpView.HelpStrings.r.Left.value.text
 msgid "'A', 'Z'"
-msgstr ""
+msgstr "'A', 'Z'"
 
 #: PresenterScreen.xcu#..PresenterScreen.PresenterScreenSettings.HelpView.HelpStrings.r.Right.value.text
 msgid "Scroll notes up/down"
@@ -67048,7 +67051,7 @@ msgstr "Scrollaigh nótaí suas/síos"
 
 #: PresenterScreen.xcu#..PresenterScreen.Presenter.Views.CurrentSlidePreview.Title.value.text
 msgid "Current Slide (%CURRENT_SLIDE_NUMBER% of %SLIDE_COUNT%)"
-msgstr ""
+msgstr "An Sleamhnán Reatha (%CURRENT_SLIDE_NUMBER% as %SLIDE_COUNT%)"
 
 #: PresenterScreen.xcu#..PresenterScreen.Presenter.Views.CurrentSlidePreview.Strings.ClickToExitPresentationText.String.value.text
 #: strings.src#STR_PRES_SOFTEND.string.text
@@ -67057,7 +67060,7 @@ msgstr "Cliceáil chun an láithreoireacht a scor..."
 
 #: PresenterScreen.xcu#..PresenterScreen.Presenter.Views.CurrentSlidePreview.Strings.ClickToExitPresentationTitle.String.value.text
 msgid "Current Slide (end)"
-msgstr ""
+msgstr "An Sleamhnán Reatha (deireadh)"
 
 #: PresenterScreen.xcu#..PresenterScreen.Presenter.Views.NextSlidePreview.Title.value.text
 #: navigatr.src#FLT_NAVIGATOR.1.TBI_NEXT.toolboxitem.text
@@ -67401,7 +67404,7 @@ msgstr "An chéad cholún"
 
 #: glob.src#STR_POOLSHEET_LAST_COLUMN.string.text
 msgid "Last column"
-msgstr ""
+msgstr "An colún deiridh"
 
 #: pubdlg.src#DLG_PUBLISHING.PAGE1_TITEL.fixedline.text
 msgid "Assign design"
@@ -67468,7 +67471,7 @@ msgstr "~Uathoibríoch"
 
 #: pubdlg.src#DLG_PUBLISHING.PAGE2_DURATION_TXT.fixedtext.text
 msgid "~Slide view time:"
-msgstr ""
+msgstr "Am taispeána an t~sleamhnáin:"
 
 #: pubdlg.src#DLG_PUBLISHING.PAGE2_DURATION_TMF.timefield.quickhelptext
 msgid "~Duration of page"
@@ -70411,7 +70414,7 @@ msgstr "Stíleanna Grafacha"
 
 #: strings.src#DLG_TABLEDESIGNPANE.string.text
 msgid "Table Designs"
-msgstr ""
+msgstr "Dearaí Táblaí"
 
 #: strings.src#STR_NAVIGATOR_SHOW_NAMED_SHAPES.string.text
 msgid "Named shapes"
@@ -71378,7 +71381,7 @@ msgstr ""
 
 #: printdialog.src#DLG_PRINTDIALOG.FT_SLIDESPERPAGE.fixedtext.text
 msgid "Slides per page"
-msgstr ""
+msgstr "Sleamhnáin sa leathanach"
 
 #: printdialog.src#DLG_PRINTDIALOG.CB_SLIDESPERPAGE.1.stringlist.text
 msgctxt "printdialog.src#DLG_PRINTDIALOG.CB_SLIDESPERPAGE.1.stringlist.text"
@@ -71944,7 +71947,7 @@ msgstr "Ró Iomlán"
 
 #: TableDesignPane.src#DLG_TABLEDESIGNPANE.CB_BANDED_ROWS_1.checkbox.text
 msgid "Banded Rows"
-msgstr ""
+msgstr "Rónna Stríocacha"
 
 #: TableDesignPane.src#DLG_TABLEDESIGNPANE.CB_FIRST_COLUMN_1.checkbox.text
 msgid "First Column"
@@ -71952,11 +71955,11 @@ msgstr "An Chéad Cholún"
 
 #: TableDesignPane.src#DLG_TABLEDESIGNPANE.CB_LAST_COLUMN_1.checkbox.text
 msgid "Last Column"
-msgstr ""
+msgstr "An Colún Deiridh"
 
 #: TableDesignPane.src#DLG_TABLEDESIGNPANE.CB_BANDED_COLUMNS_1.checkbox.text
 msgid "Banded Columns"
-msgstr ""
+msgstr "Colúin Stríocacha"
 
 #: TableDesignPane.src#DLG_TABLEDESIGNPANE.FL_TABLE_STYLES_1.fixedline.text
 #: dialog.src#STR_GROUP_STYLES.string.text doc.src#STR_STYLES.string.text
@@ -73898,7 +73901,7 @@ msgstr "Eolas %1"
 
 #: doc.src#STR_SHARED.string.text
 msgid " (shared)"
-msgstr ""
+msgstr " (comhroinnte)"
 
 #: doc.src#STR_XMLSEC_ODF12_EXPECTED.string.text
 msgid ""
@@ -73906,6 +73909,7 @@ msgid ""
 "Options-Load/Save-General. Signing documents requires ODF 1.2 (OpenOffice."
 "org 3.x)."
 msgstr ""
+"Is é ODF 1.1 (OpenOffice.org 2.x) leagan formáide na cáipéise faoi Uirlisí-Roghanna-Luchtaigh/Sábháil-Ginearálta.  Tá ODF 1.2 (OpenOffice.org 3.x) de dhíth ort chun cáipéisí a shíniú."
 
 #: doc.src#MSG_XMLSEC_QUERY_SAVESIGNEDBEFORESIGN.querybox.text
 msgid ""
@@ -74214,7 +74218,7 @@ msgstr "á phriontáil ar"
 
 #: view.src#DLG_PRINTMONITOR.STR_FT_PREPARATION.string.text
 msgid "is being pepared for printing"
-msgstr ""
+msgstr "á ullmhú le priontáil"
 
 #: view.src#MSG_ERROR_SEND_MAIL.infobox.text
 msgid ""
@@ -78905,7 +78909,7 @@ msgstr "Gearmáinis (Lichtinstéin)"
 #: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_GUJARATI.pairedlist.text
 #: charmap.src#RID_SUBSETMAP.RID_SUBSETSTR_GUJARATI.string.text
 msgid "Gujarati"
-msgstr ""
+msgstr "Gúisearáitis"
 
 #: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_HINDI.pairedlist.text
 #: optctl.src#RID_SVXPAGE_OPTIONS_CTL.LB_NUMERALS.2.stringlist.text
@@ -79205,7 +79209,7 @@ msgstr "Suáinis (An Bhotsuáin)"
 #: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_SINHALESE_SRI_LANKA.pairedlist.text
 #: charmap.src#RID_SUBSETMAP.RID_SUBSETSTR_SINHALA.string.text
 msgid "Sinhala"
-msgstr ""
+msgstr "Siolóinis"
 
 #: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_MOORE.pairedlist.text
 msgid "Moore"
@@ -79410,7 +79414,7 @@ msgstr ""
 
 #: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_TURKMEN.pairedlist.text
 msgid "Turkmen"
-msgstr ""
+msgstr "Tuircméinis"
 
 #: testtool.src#DisplayHidToolBox.TT_SHOW.toolboxitem.text
 msgid "Display IDs"
@@ -80836,6 +80840,8 @@ msgid ""
 "The files listed below could not be imported.\n"
 "The file format could not be interpreted."
 msgstr ""
+"Níorbh fhéidir na comhaid seo a leanas a iompórtáil.\n"
+"Níorbh fhéidir formáid na gcomhad a thuiscint."
 
 #: cfg.src#RID_SVXSTR_IMPORT_ICON_ERROR.string.text
 msgid ""
@@ -80843,7 +80849,7 @@ msgid ""
 "interpreted."
 msgstr ""
 "Níorbh fhéidir na comhaid seo a leanas a iompórtáil. Níorbh fhéidir formáid "
-"an chomhaid a thuiscint."
+"na gcomhad a thuiscint."
 
 #: cfg.src#RID_SVXSTR_DELETE_ICON_CONFIRM.string.text
 msgid "Are you sure to delete the image?"
@@ -85110,7 +85116,7 @@ msgstr "Ar Dheis"
 #: numpages.src#RID_SVXPAGE_NUM_POSITION.FT_LABEL_FOLLOWED_BY.fixedtext.text
 #: num.src#TP_NUM_POSITION.FT_LABEL_FOLLOWED_BY.fixedtext.text
 msgid "Numbering followed by"
-msgstr ""
+msgstr "Uimhriú á leanúint ag"
 
 #: numpages.src#RID_SVXPAGE_NUM_POSITION.LB_LABEL_FOLLOWED_BY.1.stringlist.text
 #: num.src#TP_NUM_POSITION.LB_LABEL_FOLLOWED_BY.1.stringlist.text
@@ -85136,7 +85142,7 @@ msgstr "ag"
 #: numpages.src#RID_SVXPAGE_NUM_POSITION.FT_ALIGNED_AT.fixedtext.text
 #: num.src#TP_NUM_POSITION.FT_ALIGNED_AT.fixedtext.text
 msgid "Aligned at"
-msgstr ""
+msgstr "Ailínithe ag"
 
 #: numpages.src#RID_SVXPAGE_NUM_POSITION.FT_INDENT_AT.fixedtext.text
 #: num.src#TP_NUM_POSITION.FT_INDENT_AT.fixedtext.text
@@ -87978,15 +87984,15 @@ msgstr "(níl aon mholadh)"
 
 #: SpellDialog.src#RID_SVXDLG_SPELLCHECK.ST_SPELLING.string.text
 msgid "Spelling: $LANGUAGE ($LOCATION)"
-msgstr ""
+msgstr "Litriú: $LANGUAGE ($LOCATION)"
 
 #: SpellDialog.src#RID_SVXDLG_SPELLCHECK.ST_SPELLING_AND_GRAMMAR.string.text
 msgid "Spelling and Grammar: $LANGUAGE ($LOCATION)"
-msgstr ""
+msgstr "Litriú agus Gramadach: $LANGUAGE ($LOCATION)"
 
 #: SpellDialog.src#RID_SVXDLG_SPELLCHECK.ST_SPELLING_AND_GRAMMAR_VENDORNAME.string.text
 msgid "Spelling and Grammar: $LANGUAGE ($LOCATION) [$VendorName]"
-msgstr ""
+msgstr "Litriú agus Gramadach: $LANGUAGE ($LOCATION) [$VendorName]"
 
 #: SpellDialog.src#RID_SVXDLG_SPELLCHECK.modelessdialog.text
 msgid "Spellcheck: "
@@ -91294,7 +91300,7 @@ msgstr "Coireallach (PT154)"
 
 #: webconninfo.src#RID_SVXDLG_WEBCONNECTION_INFO.FI_NEVERSHOWN.fixedtext.text
 msgid "Web login information (passwords are never shown)"
-msgstr ""
+msgstr "Faisnéis logála isteach (ní thaispeánfar focail fhaire riamh)"
 
 #: webconninfo.src#RID_SVXDLG_WEBCONNECTION_INFO.PB_REMOVE.pushbutton.text
 msgctxt ""
@@ -91322,7 +91328,7 @@ msgstr "Suíomh Gréasáin"
 
 #: webconninfo.src#RID_SVXDLG_WEBCONNECTION_INFO.modaldialog.text
 msgid "Stored Web Connection Information"
-msgstr ""
+msgstr "Faisnéis Sábháilte do Cheangal Gréasáin"
 
 #: zoom.src#RID_SVXDLG_ZOOM.FL_ZOOM.fixedline.text
 msgid "Zoom factor"
@@ -92768,19 +92774,19 @@ msgstr "Cuardach Taifead"
 
 #: fmsearch.src#RID_STR_SEARCH_ANYWHERE.string.text
 msgid "anywhere in the field"
-msgstr ""
+msgstr "áit ar bith sa réimse"
 
 #: fmsearch.src#RID_STR_SEARCH_BEGINNING.string.text
 msgid "beginning of field"
-msgstr ""
+msgstr "tús an réimse"
 
 #: fmsearch.src#RID_STR_SEARCH_END.string.text
 msgid "end of field"
-msgstr ""
+msgstr "deireadh an réimse"
 
 #: fmsearch.src#RID_STR_SEARCH_WHOLE.string.text
 msgid "entire field"
-msgstr ""
+msgstr "an réimse iomlán"
 
 #: fmsearch.src#RID_SVXERR_SEARCH_NORECORD.errorbox.text
 msgid "No records corresponding to your data found."
@@ -94369,7 +94375,7 @@ msgstr "Ábhar gan cosaint"
 
 #: svxitems.src#RID_SVXITEMS_PROT_SIZE_TRUE.string.text
 msgid "Size protected"
-msgstr ""
+msgstr "Méid cosanta"
 
 #: svxitems.src#RID_SVXITEMS_PROT_SIZE_FALSE.string.text
 msgid "Size not protected"
@@ -95070,7 +95076,7 @@ msgstr "Slonn in áirithe"
 
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.ST_EXTENSION.string.text
 msgid "Colorsettings of the Extensions"
-msgstr ""
+msgstr "Socruithe datha na nEisínteachtaí"
 
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.ST_SPELL_CHECK_HIGHLIGHTING.string.text
 msgid "Spell check highlighting"
@@ -95369,7 +95375,7 @@ msgstr " céim"
 
 #: optimprove.src#RID_SVXPAGE_IMPROVEMENT.FL_IMPROVE.fixedline.text
 msgid "Improvement Program"
-msgstr ""
+msgstr "Clár Feabhsaithe"
 
 #: optimprove.src#RID_SVXPAGE_IMPROVEMENT.FT_INVITATION.fixedtext.text
 msgid ""
@@ -95399,11 +95405,11 @@ msgstr ""
 
 #: optimprove.src#RID_SVXPAGE_IMPROVEMENT.FT_NR_REPORTS.fixedtext.text
 msgid "Number of reports send:"
-msgstr ""
+msgstr "Líon na dtuairiscí a seoladh:"
 
 #: optimprove.src#RID_SVXPAGE_IMPROVEMENT.FT_NR_ACTIONS.fixedtext.text
 msgid "Number of tracked actions:"
-msgstr ""
+msgstr "Líon na ngníomhartha rianaithe:"
 
 #: optimprove.src#RID_SVXPAGE_IMPROVEMENT.PB_SHOWDATA.pushbutton.text
 msgid "~Show Data"
@@ -95411,7 +95417,7 @@ msgstr "Taispeáin ~Sonraí"
 
 #: optimprove.src#RID_SVXPAGE_IMPROVEMENT.STR_INFO.string.text
 msgid "Help Optimize the Quality of %PRODUCTNAME"
-msgstr ""
+msgstr "Cabhraigh linn Cáilíocht %PRODUCTNAME a fheabhsú"
 
 #: optimprove.src#RID_SVXPAGE_IMPROVEMENT.STR_MOREINFO.string.text
 msgid "More Information"
@@ -95581,7 +95587,7 @@ msgstr ""
 
 #: optinet2.src#RID_SVXPAGE_INET_SECURITY.FL_SEC_PASSWORDS.fixedline.text
 msgid "Passwords for web connections"
-msgstr ""
+msgstr "Focail fhaire do cheangail Ghréasáin"
 
 #: optinet2.src#RID_SVXPAGE_INET_SECURITY.CB_SEC_SAVEPASSWORDS.checkbox.text
 msgid "Persistently save passwords protected by a master password"
@@ -96791,12 +96797,12 @@ msgstr "Cealaigh %1"
 #: svdstr.src#STR_EditSetPointsSmooth.string.text
 msgctxt "svdstr.src#STR_EditSetPointsSmooth.string.text"
 msgid "Modify bézier properties of %1"
-msgstr ""
+msgstr "Athraigh airíonna bézier de %1"
 
 #: svdstr.src#STR_EditSetSegmentsKind.string.text
 msgctxt "svdstr.src#STR_EditSetSegmentsKind.string.text"
 msgid "Modify bézier properties of %1"
-msgstr ""
+msgstr "Athraigh airíonna bézier de %1"
 
 #: svdstr.src#STR_EditShut.string.text
 msgid "Close %1"
@@ -97034,7 +97040,7 @@ msgstr "Díchum %1"
 # verb
 #: svdstr.src#STR_DragMethCrop.string.text
 msgid "Crop %O"
-msgstr ""
+msgstr "Bearr %O"
 
 #: svdstr.src#STR_DragRectEckRad.string.text
 msgid "Alter radius by %1"
@@ -98579,7 +98585,7 @@ msgstr "~Doiléir"
 
 #: extrusioncontrols.src#RID_SVXFLOAT_EXTRUSION_LIGHTING.floatingwindow.text
 msgid "Extrusion Lighting"
-msgstr ""
+msgstr "Soilsiú Easbhrúite"
 
 #: extrusioncontrols.src#RID_SVXFLOAT_EXTRUSION_SURFACE.STR_WIREFRAME.string.text
 msgid "~Wire Frame"
@@ -98946,12 +98952,16 @@ msgid ""
 "current Writer text document to a MediaWiki server. After uploading, all "
 "Wiki users can read your document on the Wiki.</ahelp>"
 msgstr ""
+"<ahelp hid=\".\">Le @WIKIEXTENSIONPRODUCTNAME@ beidh tú in ann do cháipéis "
+"reatha a uasluchtú ó Writer go freastalaí MediaWiki.  Tar éis duit é a uasluchtú, beidh gach léitheoir an Vicí in ann do cháipéis a léamh.</ahelp>"
 
 #: wiki.xhp#par_id6468703.help.text
 msgid ""
 "<ahelp hid=\".\">Choose <item type=\"menuitem\">File - Send - To MediaWiki</"
 "item> to upload the current Writer document to a MediaWiki server.</ahelp>"
 msgstr ""
+"<ahelp hid=\".\">Roghnaigh <item type=\"menuitem\">Comhad - Seol - Go MediaWiki</"
+"item> chun an cháipéis reatha Writer a uasluchtú go freastalaí MediaWiki.</ahelp>"
 
 #: wiki.xhp#hd_id4554582.help.text
 msgid "System Requirements"
@@ -99022,6 +99032,7 @@ msgid ""
 "Close StarOffice/StarSuite/OpenOffice.org, and close also the Quickstarter "
 "if enabled."
 msgstr ""
+"Dún StarOffice/StarSuite/OpenOffice.org, agus dún an Meardhúisire freisin más gá."
 
 #: wiki.xhp#par_id265511.help.text
 msgid ""
@@ -99029,6 +99040,8 @@ msgid ""
 "\">Tools - Options - Internet - MediaWiki</item> to enter your Wiki "
 "settings. See \"To Connect To a Wiki\" below."
 msgstr ""
+"Atosaigh an bogearra, oscail cáipéis téacs, agus roghnaigh <item type=\"menuitem"
+"\">Uirlisí - Roghanna - Idirlíon - MediaWiki</item> chun do chuid socruithe Vicí a dhéanamh.  Féach ar \"Chun Ceangal a Bhunú le Vicí\" thíos."
 
 #: wiki.xhp#hd_id3569444.help.text
 msgid "To Remove the @WIKIEXTENSIONPRODUCTNAME@"
@@ -99053,7 +99066,7 @@ msgstr "Roghnaigh an eisínteacht, cliceáil Bain, ansin cliceáil Dún."
 
 #: wiki.xhp#hd_id5316019.help.text
 msgid "To Connect to a Wiki"
-msgstr "Chun Ceangal a bhunú le Vicí"
+msgstr "Chun Ceangal a Bhunú le Vicí"
 
 #: wiki.xhp#par_id2381969.help.text
 msgid ""
@@ -99540,7 +99553,7 @@ msgstr ""
 
 #: WikiExtension.xcu#.WikiExtension.Strings.Dlg_EditSetting_UrlLabel.value.text
 msgid "U~RL"
-msgstr ""
+msgstr "U~RL"
 
 #: WikiExtension.xcu#.WikiExtension.Strings.Dlg_EditSetting_UsernameLabel.value.text
 msgid "~Username"
@@ -99582,7 +99595,7 @@ msgstr "Taispeáin i m~brabhsálaí Gréasáin"
 
 #: WikiExtension.xcu#.WikiExtension.Strings.UnknownCert.value.text
 msgid "The certificate of the selected site is unknown."
-msgstr ""
+msgstr "Ní aithnítear teastas an tsuímh roghnaithe."
 
 #: WikiExtension.xcu#.WikiExtension.Strings.Dlg_MediaWiki_Title.value.text
 #: OptionsDialog.xcu#.OptionsDialog.Nodes.Internet.Leaves.com.sun.star.wiki.options.Label.value.text
@@ -100787,7 +100800,7 @@ msgstr "alt"
 
 #: unocore.src#STR_CHART2_COL_LABEL_TEXT.string.text
 msgid "Column %COLUMNLETTER"
-msgstr ""
+msgstr "Colún %COLUMNLETTER"
 
 #: app.src#DLG_STYLE_DESIGNER.Paragraph_Styles.sfxstylefamilyitem.text
 msgid "Paragraph Styles"
@@ -101077,7 +101090,7 @@ msgstr "Téacs Áiseach: "
 
 #: app.src#STR_REDLINE_UNKNOWN_AUTHOR.string.text
 msgid "Unknown Author"
-msgstr ""
+msgstr "Údar Anaithnid"
 
 #: app.src#MSG_DISABLE_UNDO_QUESTION.warningbox.text
 msgid ""
@@ -102471,12 +102484,12 @@ msgstr ""
 #: optload.src#TP_OPTCAPTION_PAGE.LB_ORDER.1.stringlist.text
 #: cption.src#DLG_SEQUENCE_OPTION.LB_ORDER.1.stringlist.text
 msgid "Category first"
-msgstr ""
+msgstr "Catagóir ar dtús"
 
 #: optload.src#TP_OPTCAPTION_PAGE.LB_ORDER.2.stringlist.text
 #: cption.src#DLG_SEQUENCE_OPTION.LB_ORDER.2.stringlist.text
 msgid "Numbering first"
-msgstr ""
+msgstr "Uimhriú ar dtús"
 
 #: optload.src#TP_OPTCAPTION_PAGE.STR_TABLE.string.text
 msgid "%PRODUCTNAME Writer Table"
@@ -103405,7 +103418,7 @@ msgstr "A Uasail <2>,"
 
 #: mmaddressblockpage.src#DLG_MM_CUSTOMIZEADDRESSBLOCK.3.itemlist.text
 msgid "Dear <1>,"
-msgstr ""
+msgstr "A <1>,"
 
 #: mmaddressblockpage.src#DLG_MM_CUSTOMIZEADDRESSBLOCK.4.itemlist.text
 msgid "Hello <1>,"
@@ -105798,7 +105811,7 @@ msgstr "Uimhir (gan chomhthéacs)"
 
 #: fldui.src#FMT_REF_NUMBER_FULL_CONTEXT.string.text
 msgid "Number (full context)"
-msgstr ""
+msgstr "Uimhir (comhthéacs iomlán)"
 
 #: fldui.src#FMT_MARK_TEXT.string.text
 msgctxt "fldui.src#FMT_MARK_TEXT.string.text"
@@ -107939,7 +107952,7 @@ msgstr "Greille (línte agus carachtair)"
 
 #: pggrid.src#TP_TEXTGRID_PAGE.CB_SNAPTOCHARS.checkbox.text
 msgid "~Snap to characters"
-msgstr ""
+msgstr "~Léim go carachtair"
 
 #: pggrid.src#TP_TEXTGRID_PAGE.FL_LAYOUT.fixedline.text
 msgid "Grid layout"
@@ -110604,11 +110617,11 @@ msgstr "Comhfhadaithe"
 
 #: paragraph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.ST_LEFTALIGN_ASIAN.string.text
 msgid "~Left/Top"
-msgstr ""
+msgstr "C~lé/Barr"
 
 #: paragraph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.ST_RIGHTALIGN_ASIAN.string.text
 msgid "Righ~t/Bottom"
-msgstr ""
+msgstr "~Deas/Bun"
 
 #: paragraph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.LB_LASTLINE.4.stringlist.text
 msgctxt ""
@@ -110618,7 +110631,7 @@ msgstr "Comhfhadaithe"
 
 #: paragraph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.LB_VERTALIGN.2.stringlist.text
 msgid "Base line"
-msgstr ""
+msgstr "Bunlíne"
 
 #: paragraph.src#RID_SVXPAGE_EXT_PARAGRAPH.FL_OPTIONS.fixedline.text
 msgctxt "paragraph.src#RID_SVXPAGE_EXT_PARAGRAPH.FL_OPTIONS.fixedline.text"
@@ -110987,6 +111000,7 @@ msgid ""
 "%PRODUCTNAME cannot keep files from being overwritten when this transmission "
 "protocol is used. Do you want to continue anyway?"
 msgstr ""
+"Ní féidir le %PRODUCTNAME cosc a chur le forscríobh comhad nuair a bhaintear úsáid as an bprótacal seolta.  Ar mhaith leat dul ar aghaidh mar sin féin?"
 
 #: ids.src#RID_UUI_ERRHDL._ERRCODE_UUI_IO_BROKENPACKAGE___ERRCODE_RES_MASK_.string.text
 msgid ""
@@ -111785,7 +111799,7 @@ msgstr "Drachma na Gréige"
 
 #: euro.src#CURRENCIES___12.string.text
 msgid "Slovenian Tolar"
-msgstr ""
+msgstr "Tolar na Slóivéine"
 
 #: euro.src#CURRENCIES___13.string.text
 msgid "The currency set for the document is not a European currency!"
@@ -111796,6 +111810,7 @@ msgid ""
 "The language set for your operating system is not a language of the European "
 "Monetary Union."
 msgstr ""
+"Ní teanga de chuid An tAontas Airgeadaíochta Eorpach í teanga do chórais."
 
 #: euro.src#STEP_LASTPAGE___1.string.text
 msgid "Retrieving the relevant documents..."
@@ -112759,19 +112774,19 @@ msgstr "Cén sórt tuarascáil ba mhaith leat a chruthú?"
 
 #: dbwizres.src#RID_DB_REPORT_WIZARD_START___80.string.text
 msgid "Tabular"
-msgstr ""
+msgstr "Táblach"
 
 #: dbwizres.src#RID_DB_REPORT_WIZARD_START___81.string.text
 msgid "Columnar, single-column"
-msgstr ""
+msgstr "Colúnach, colún amháin"
 
 #: dbwizres.src#RID_DB_REPORT_WIZARD_START___82.string.text
 msgid "Columnar, two columns"
-msgstr ""
+msgstr "Colúnach, dhá cholún"
 
 #: dbwizres.src#RID_DB_REPORT_WIZARD_START___83.string.text
 msgid "Columnar, three columns"
-msgstr ""
+msgstr "Colúnach, trí cholún"
 
 #: dbwizres.src#RID_DB_REPORT_WIZARD_START___84.string.text
 msgid "In blocks, labels left"
@@ -112793,7 +112808,7 @@ msgstr "Dáta:"
 
 #: dbwizres.src#RID_DB_REPORT_WIZARD_START___89.string.text
 msgid "Page #page# of #count#"
-msgstr ""
+msgstr "Leathanach #page# as #count#"
 
 #: dbwizres.src#RID_DB_REPORT_WIZARD_START___90.string.text
 msgid "Page number:"
