@@ -5545,7 +5545,8 @@ msgstr "Níl comhad cúltaca darb ainm sin ann."
 
 #: AdabasNewDb.src#INFO_STR_MAX_FILE_LENGTH.infobox.text
 msgid "The fully qualified file cannot be longer than \\'#\\' characters."
-msgstr "Ní cheadaítear ainm comhad láncháilithe níos faide ná \\'#\\' carachtar."
+msgstr ""
+"Ní cheadaítear ainm comhad láncháilithe níos faide ná \\'#\\' carachtar."
 
 #: AdabasNewDb.src#STR_NO_SAME_USER.string.text
 msgid "The administrator and the control user cannot have the same name!"
@@ -5570,7 +5571,8 @@ msgid ""
 "and \"DBWORK\"."
 msgstr ""
 "Ní féidir bunachar sonraí nua a chruthú.\n"
-"Déan seiceáil ar do chóras Adabas D, go háirithe na hathróga \"DBROOT\" agus \"DBWORK\"."
+"Déan seiceáil ar do chóras Adabas D, go háirithe na hathróga \"DBROOT\" agus "
+"\"DBWORK\"."
 
 #: AdabasNewDb.src#STR_STAT_WARNING.string.text
 #: table.src#STR_STAT_WARNING.string.text euro.src#MESSAGES___10.string.text
@@ -5613,7 +5615,9 @@ msgstr ""
 
 #: AdabasNewDb.src#STR_ADABAS_PASSWORD_ILLEGAL.string.text
 msgid "Spaces are not permitted in the password. Please enter a new password."
-msgstr "Ní cheadaítear spásanna san fhocal faire.  Iontráil focal faire nua, le do thoil."
+msgstr ""
+"Ní cheadaítear spásanna san fhocal faire.  Iontráil focal faire nua, le do "
+"thoil."
 
 #: macromigration.src#DLG_MACRO_MIGRATION.STR_STATE_CLOSE_SUB_DOCS.string.text
 #: roadmapskeleton.src#DLG_ROADMAP_SKELETON.STR_STATE_PREPARE.string.text
@@ -5662,7 +5666,8 @@ msgid ""
 "Not all objects could be closed. Please close them manually, and re-start "
 "the wizard."
 msgstr ""
-"Níorbh fhéidir gach réad a dhúnadh.  Dún iad de láimh, agus atosaigh an treoraí."
+"Níorbh fhéidir gach réad a dhúnadh.  Dún iad de láimh, agus atosaigh an "
+"treoraí."
 
 #: macromigration.src#TP_SAVE_DBDOC_AS.FT_HEADER.fixedtext.text
 msgid "Backup your Document"
@@ -5699,7 +5704,8 @@ msgid ""
 "The database document contains $forms$ form(s) and $reports$ report(s), "
 "which are currently being processed:"
 msgstr ""
-"Tá $forms$ foirm agus $reports$ tuairisc sa cháipéis bhunachair sonraí, á bpróiseáil anois:"
+"Tá $forms$ foirm agus $reports$ tuairisc sa cháipéis bhunachair sonraí, á "
+"bpróiseáil anois:"
 
 #: macromigration.src#TP_MIGRATE.FT_CURRENT_OBJECT_LABEL.fixedtext.text
 msgid "Current object:"
@@ -5731,7 +5737,8 @@ msgid ""
 "All documents have been successfully processed. Press 'Next' to show a "
 "detailed summary."
 msgstr ""
-"Próiseáladh gach cáipéis.  Brúigh 'Ar Aghaidh' chun miontuairisc a thaispeáint."
+"Próiseáladh gach cáipéis.  Brúigh 'Ar Aghaidh' chun miontuairisc a "
+"thaispeáint."
 
 #: macromigration.src#TP_SUMMARY.FT_HEADER.fixedtext.text
 msgctxt "macromigration.src#TP_SUMMARY.FT_HEADER.fixedtext.text"
@@ -6160,7 +6167,8 @@ msgid ""
 "The document contains forms and/or reports with macros and/or scripts "
 "embedded."
 msgstr ""
-"Tá foirmeacha agus/nó tuairiscí le macraí agus/nó scripteanna leabaithe iontu sa cháipéis."
+"Tá foirmeacha agus/nó tuairiscí le macraí agus/nó scripteanna leabaithe "
+"iontu sa cháipéis."
 
 #: app.src#STR_SUB_DOCS_WITH_SCRIPTS_DETAIL.string.text
 msgid ""
@@ -7327,7 +7335,9 @@ msgstr "Socraigh nasc le bunachar sonraí MySQL"
 
 #: dbadminsetup.src#PAGE_DBWIZARD_MYSQL_NATIVE.STR_MYSQLJDBC_HELPTEXT.string.text
 msgid "Please enter the required information to connect to a MySQL database."
-msgstr "Iontráil an fhaisnéis riachtanach chun ceangal a bhunú le bunachar sonraí MySQL."
+msgstr ""
+"Iontráil an fhaisnéis riachtanach chun ceangal a bhunú le bunachar sonraí "
+"MySQL."
 
 #: dbadminsetup.src#PAGE_DBWIZARD_MYSQL_NATIVE.STR_MYSQL_DEFAULT.string.text
 msgctxt ""
@@ -9932,7 +9942,9 @@ msgid ""
 "Click \\'OK\\' to install the extension.\n"
 "Click \\'Cancel\\' to stop the installation."
 msgstr ""
-"Bí cinnte nach bhfuil tuilleadh úsáideoirí ag obair leis an %PRODUCTNAME céanna, agus eisínteachtaí comhroinnte á n-athrú i dtimpeallacht ilúsáideora.\n"
+"Bí cinnte nach bhfuil tuilleadh úsáideoirí ag obair leis an %PRODUCTNAME "
+"céanna, agus eisínteachtaí comhroinnte á n-athrú i dtimpeallacht "
+"ilúsáideora.\n"
 "Brúigh \\'OK\\' chun an eisínteacht a shuiteáil.\n"
 "Brúigh \\'Cealaigh\\' chun an tsuiteáil a stopadh."
 
@@ -9943,7 +9955,9 @@ msgid ""
 "Click \\'OK\\' to remove the extension.\n"
 "Click \\'Cancel\\' to stop removing the extension."
 msgstr ""
-"Bí cinnte nach bhfuil tuilleadh úsáideoirí ag obair leis an %PRODUCTNAME céanna, agus eisínteachtaí comhroinnte á n-athrú i dtimpeallacht ilúsáideora.\n"
+"Bí cinnte nach bhfuil tuilleadh úsáideoirí ag obair leis an %PRODUCTNAME "
+"céanna, agus eisínteachtaí comhroinnte á n-athrú i dtimpeallacht "
+"ilúsáideora.\n"
 "Brúigh \\'OK\\' chun an eisínteacht a bhaint.\n"
 "Brúigh \\'Cealaigh\\' mura mian leat an eisínteacht a bhaint."
 
@@ -9954,7 +9968,9 @@ msgid ""
 "Click \\'OK\\' to enable the extension.\n"
 "Click \\'Cancel\\' to stop enabling the extension."
 msgstr ""
-"Bí cinnte nach bhfuil tuilleadh úsáideoirí ag obair leis an %PRODUCTNAME céanna, agus eisínteachtaí comhroinnte á n-athrú i dtimpeallacht ilúsáideora.\n"
+"Bí cinnte nach bhfuil tuilleadh úsáideoirí ag obair leis an %PRODUCTNAME "
+"céanna, agus eisínteachtaí comhroinnte á n-athrú i dtimpeallacht "
+"ilúsáideora.\n"
 "Brúigh \\'OK\\' chun an eisínteacht a chumasú.\n"
 "Brúigh \\'Cealaigh\\' mura mian leat an eisínteacht a chumasú."
 
@@ -9965,7 +9981,9 @@ msgid ""
 "Click \\'OK\\' to disable the extension.\n"
 "Click \\'Cancel\\' to stop disabling the extension."
 msgstr ""
-"Bí cinnte nach bhfuil tuilleadh úsáideoirí ag obair leis an %PRODUCTNAME céanna, agus eisínteachtaí comhroinnte á n-athrú i dtimpeallacht ilúsáideora.\n"
+"Bí cinnte nach bhfuil tuilleadh úsáideoirí ag obair leis an %PRODUCTNAME "
+"céanna, agus eisínteachtaí comhroinnte á n-athrú i dtimpeallacht "
+"ilúsáideora.\n"
 "Brúigh \\'OK\\' chun an eisínteacht a dhíchumasú.\n"
 "Brúigh \\'Cealaigh\\' mura mian leat an eisínteacht a dhíchumasú."
 
@@ -20136,17 +20154,17 @@ msgstr "Téacs %PRODUCTNAME %PRODUCTVERSION"
 
 #: ExtendedColorScheme.xcu#..ExtendedColorScheme.EntryNames.SunReportBuilder.DisplayName.value.text
 msgid "Sun Report Builder"
-msgstr ""
+msgstr "Tógálaí Tuairisce Sun"
 
 #: ExtendedColorScheme.xcu#..ExtendedColorScheme.EntryNames.SunReportBuilder.Entries.ReportHeader.DisplayName.value.text
 #: strings.src#RID_STR_REPORT_HEADER.string.text
 msgid "Report Header"
-msgstr ""
+msgstr "Ceanntásc Tuairisce"
 
 #: ExtendedColorScheme.xcu#..ExtendedColorScheme.EntryNames.SunReportBuilder.Entries.ReportFooter.DisplayName.value.text
 #: strings.src#RID_STR_REPORT_FOOTER.string.text
 msgid "Report Footer"
-msgstr ""
+msgstr "Buntásc Tuairisce"
 
 #: ExtendedColorScheme.xcu#..ExtendedColorScheme.EntryNames.SunReportBuilder.Entries.PageHeader.DisplayName.value.text
 #: strings.src#RID_STR_PAGE_HEADER.string.text
@@ -20162,13 +20180,13 @@ msgstr "Buntásc Leathanaigh"
 #: strings.src#RID_STR_GROUP_HEADER.string.text
 #: GroupsSorting.src#RID_GROUPS_SORTING.FT_HEADER.fixedtext.text
 msgid "Group Header"
-msgstr ""
+msgstr "Ceanntásc Grúpa"
 
 #: ExtendedColorScheme.xcu#..ExtendedColorScheme.EntryNames.SunReportBuilder.Entries.GroupFooter.DisplayName.value.text
 #: strings.src#RID_STR_GROUP_FOOTER.string.text
 #: GroupsSorting.src#RID_GROUPS_SORTING.FT_FOOTER.fixedtext.text
 msgid "Group Footer"
-msgstr ""
+msgstr "Buntásc Grúpa"
 
 #: ExtendedColorScheme.xcu#..ExtendedColorScheme.EntryNames.SunReportBuilder.Entries.ColumnHeader.DisplayName.value.text
 msgid "Column Header"
@@ -20185,7 +20203,7 @@ msgstr "Sonra"
 
 #: ExtendedColorScheme.xcu#..ExtendedColorScheme.EntryNames.SunReportBuilder.Entries.OverlappedControl.DisplayName.value.text
 msgid "Overlapped Control"
-msgstr ""
+msgstr "Rialtán Forluite"
 
 #: FormWizard.xcu#..FormWizard.FormWizard.Styles.style1.Name.value.text
 msgctxt "FormWizard.xcu#..FormWizard.FormWizard.Styles.style1.Name.value.text"
@@ -27478,7 +27496,7 @@ msgstr "Roghnaigh go dtí Imeall an Bhloic Uachtair"
 
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Commands..uno_TextToColumns.Label.value.text
 msgid "Te~xt to Columns..."
-msgstr ""
+msgstr "Téa~cs go Colúin..."
 
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Commands..uno_DataConsolidate.Label.value.text
 msgid "~Consolidate..."
@@ -27515,7 +27533,7 @@ msgstr "Cuardach i dtreo ~Sprice..."
 
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Commands..uno_SolverDialog.Label.value.text
 msgid "Sol~ver..."
-msgstr ""
+msgstr "Réi~teoir..."
 
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Commands..uno_JumpToNextTable.Label.value.text
 msgid "To Next Sheet"
@@ -28517,7 +28535,7 @@ msgstr "Seol mar Scarbhileog ~OpenDocument..."
 
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Commands..uno_ShareDocument.Label.value.text
 msgid "S~hare Document..."
-msgstr ""
+msgstr "Com~hroinn Cáipéis..."
 
 #: CalcCommands.xcu#..CalcCommands.UserInterface.Popups..uno_AuditMenu.Label.value.text
 msgid "~Detective"
@@ -29104,7 +29122,7 @@ msgstr "Ionsáigh Líne ag an ~Meánluach"
 
 #: ChartCommands.xcu#..ChartCommands.UserInterface.Popups..uno_InsertTrendlineEquation.Label.value.text
 msgid "Insert Trend Line ~Equation"
-msgstr ""
+msgstr "Ionsáigh Cothromóid na Lín~e Treochta"
 
 #: ChartCommands.xcu#..ChartCommands.UserInterface.Popups..uno_InsertYErrorbar.Label.value.text
 msgid "Insert ~Y Error Bars..."
@@ -29112,7 +29130,7 @@ msgstr "Ionsáigh Barraí Earráide ~Y..."
 
 #: ChartCommands.xcu#..ChartCommands.UserInterface.Popups..uno_DeleteMeanValue.Label.value.text
 msgid "Delete Mean ~Value Line"
-msgstr ""
+msgstr "Scrios an Líne ag an ~Meánluach"
 
 #: ChartCommands.xcu#..ChartCommands.UserInterface.Popups..uno_DeleteTrendline.Label.value.text
 msgid "Delete Tre~ndline"
@@ -29120,7 +29138,7 @@ msgstr "Scrios Lí~ne Treochta"
 
 #: ChartCommands.xcu#..ChartCommands.UserInterface.Popups..uno_DeleteYErrorbar.Label.value.text
 msgid "Delete ~Y Error Bars"
-msgstr ""
+msgstr "Scrios na Barraí Earráide ~Y"
 
 #: ChartWindowState.xcu#..ChartWindowState.UIElements.States.private_resource/toolbar/standardbar.UIName.value.text
 msgctxt ""
@@ -29186,14 +29204,14 @@ msgstr "Ailínigh"
 
 #: DbReportWindowState.xcu#..DbReportWindowState.UIElements.States.private_resource/toolbar/sectionalignmentbar.UIName.value.text
 msgid "Align at Section"
-msgstr ""
+msgstr "Ailínigh ag Rannán"
 
 #: DbReportWindowState.xcu#..DbReportWindowState.UIElements.States.private_resource/toolbar/resizebar.UIName.value.text
 msgctxt ""
 "DbReportWindowState.xcu#..DbReportWindowState.UIElements.States."
 "private_resource/toolbar/resizebar.UIName.value.text"
 msgid "Object Resizing"
-msgstr ""
+msgstr "Athrú Méide Réada"
 
 #: DbTableDataWindowState.xcu#..DbTableDataWindowState.UIElements.States.private_resource/toolbar/toolbar.UIName.value.text
 msgctxt ""
@@ -30642,7 +30660,7 @@ msgctxt ""
 "DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Popups.."
 "uno_SnapLinesMenu.Label.value.text"
 msgid "~Guides"
-msgstr ""
+msgstr "~Treoracha"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Popups..uno_MasterPageMenu.Label.value.text
 msgctxt ""
@@ -31532,7 +31550,7 @@ msgstr "Cuir dath anuas ar gach focal"
 
 #: Effects.xcu#..Effects.UserInterface.Effects.ooo_emphasis_reveal_underline.Label.value.text
 msgid "Reveal Underline"
-msgstr ""
+msgstr "Nocht Líne Faoi"
 
 #: Effects.xcu#..Effects.UserInterface.Effects.ooo_emphasis_color_blend.Label.value.text
 msgid "Color Blend"
@@ -32350,51 +32368,51 @@ msgstr "Beagán amach"
 
 #: Effects.xcu#..Effects.UserInterface.Properties.left_down.Label.value.text
 msgid "Left down"
-msgstr ""
+msgstr "Clé síos"
 
 #: Effects.xcu#..Effects.UserInterface.Properties.left_up.Label.value.text
 msgid "Left up"
-msgstr ""
+msgstr "Clé suas"
 
 #: Effects.xcu#..Effects.UserInterface.Properties.right_up.Label.value.text
 msgid "Right up"
-msgstr ""
+msgstr "Deas suas"
 
 #: Effects.xcu#..Effects.UserInterface.Properties.right_down.Label.value.text
 msgid "Right down"
-msgstr ""
+msgstr "Deas síos"
 
 #: Effects.xcu#..Effects.UserInterface.Properties.to_bottom.Label.value.text
 msgid "To bottom"
-msgstr ""
+msgstr "Go dtí an bun"
 
 #: Effects.xcu#..Effects.UserInterface.Properties.to_left.Label.value.text
 msgid "To left"
-msgstr ""
+msgstr "Ar chlé"
 
 #: Effects.xcu#..Effects.UserInterface.Properties.to_right.Label.value.text
 msgid "To right"
-msgstr ""
+msgstr "Ar dheis"
 
 #: Effects.xcu#..Effects.UserInterface.Properties.to_top.Label.value.text
 msgid "To top"
-msgstr ""
+msgstr "Go dtí an barr"
 
 #: Effects.xcu#..Effects.UserInterface.Properties.to_bottom_left.Label.value.text
 msgid "To bottom-left"
-msgstr ""
+msgstr "Go dtí an bun ar chlé"
 
 #: Effects.xcu#..Effects.UserInterface.Properties.to_bottom_right.Label.value.text
 msgid "To bottom-right"
-msgstr ""
+msgstr "Go dtí an bun ar dheis"
 
 #: Effects.xcu#..Effects.UserInterface.Properties.to_top_left.Label.value.text
 msgid "To top-left"
-msgstr ""
+msgstr "Go dtí an barr ar chlé"
 
 #: Effects.xcu#..Effects.UserInterface.Properties.to_top_right.Label.value.text
 msgid "To top-right"
-msgstr ""
+msgstr "Go dtí an barr ar dheis"
 
 #: Effects.xcu#..Effects.UserInterface.Properties.clockwise.Label.value.text
 #: CustomAnimation.src#RID_CUSTOMANIMATION_ROTATION_POPUP.CM_CLOCKWISE.menuitem.text
@@ -32412,7 +32430,7 @@ msgstr "Anuas"
 
 #: Effects.xcu#..Effects.UserInterface.Properties.from_bottom_right_horizontal.Label.value.text
 msgid "From bottom-right horizontal"
-msgstr ""
+msgstr "Ón bhun ar dheis, go cothrománach"
 
 #: Effects.xcu#..Effects.UserInterface.Properties.from_bottom_right_vertical.Label.value.text
 msgid "From bottom-right vertical"
@@ -32440,23 +32458,23 @@ msgstr "Ón bharr ar chlé, go hingearach"
 
 #: Effects.xcu#..Effects.UserInterface.Properties.from_top_right_counter_clockwise.Label.value.text
 msgid "From top-right counter-clockwise"
-msgstr ""
+msgstr "Ón bharr ar dheis, go tuathalach"
 
 #: Effects.xcu#..Effects.UserInterface.Properties.left_to_bottom.Label.value.text
 msgid "From left to bottom"
-msgstr ""
+msgstr "Ón taobh clé go dtí an bun"
 
 #: Effects.xcu#..Effects.UserInterface.Properties.left_to_top.Label.value.text
 msgid "From left to top"
-msgstr ""
+msgstr "Ón taobh clé go dtí an barr"
 
 #: Effects.xcu#..Effects.UserInterface.Properties.right_to_bottom.Label.value.text
 msgid "From right to bottom"
-msgstr ""
+msgstr "Ón taobh deas go dtí an bun"
 
 #: Effects.xcu#..Effects.UserInterface.Properties.right_to_top.Label.value.text
 msgid "From right to top"
-msgstr ""
+msgstr "Ón taobh deas go dtí an barr"
 
 #: Effects.xcu#..Effects.UserInterface.Transitions.venetian_blinds_horizontal.Label.value.text
 msgid "Venetian Blinds Horizontal"
@@ -33995,11 +34013,11 @@ msgstr "Foinsí ~Sonraí..."
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_GrafAttrCrop.Label.value.text
 #: menuids_tmpl.src#MN_CROP.SID_ATTR_GRAF_CROP.menuitem.text
 msgid "Crop Picture..."
-msgstr ""
+msgstr "Bearr an Pictiúr..."
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_Crop.Label.value.text
 msgid "Crop Picture"
-msgstr ""
+msgstr "Bearr an Pictiúr"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_NewDoc.Label.value.text
 msgctxt ""
@@ -36513,15 +36531,15 @@ msgstr "Teanga Reatha"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Popups..uno_SetLanguageSelectionMenu.Label.value.text
 msgid "For Selection"
-msgstr ""
+msgstr "Don Roghnúchán"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Popups..uno_SetLanguageParagraphMenu.Label.value.text
 msgid "For Paragraph"
-msgstr ""
+msgstr "Don Alt"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Popups..uno_SetLanguageAllTextMenu.Label.value.text
 msgid "For all Text"
-msgstr ""
+msgstr "Don Téacs go Léir"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Popups..uno_MoreDictionaries.Label.value.text
 msgid "More Dictionaries Online..."
@@ -37164,14 +37182,14 @@ msgctxt ""
 "ReportCommands.xcu#..ReportCommands.UserInterface.Popups..uno_SnapLinesMenu."
 "Label.value.text"
 msgid "~Guides"
-msgstr ""
+msgstr "~Treoracha"
 
 #: ReportCommands.xcu#..ReportCommands.UserInterface.Popups..uno_ObjectResize.Label.value.text
 msgctxt ""
 "ReportCommands.xcu#..ReportCommands.UserInterface.Popups..uno_ObjectResize."
 "Label.value.text"
 msgid "Object Resizing"
-msgstr ""
+msgstr "Athrú Méide Réada"
 
 #: ReportCommands.xcu#..ReportCommands.UserInterface.Popups..uno_ArrangeMenu.Label.value.text
 msgctxt ""
@@ -38924,7 +38942,7 @@ msgstr "An Chéad Fhonóta Eile"
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_AlignVerticalRowCenter.Label.value.text
 #: swslots.src#FN_FRAME_ALIGN_VERT_ROW_CENTER.sfxslotinfo.text
 msgid "Align to Vertical Center of Line"
-msgstr ""
+msgstr "Ailínigh le Lár Ingearach na Líne"
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_JumpToPrevFootnote.Label.value.text
 #: swslots.src#FN_PREV_FOOTNOTE.sfxslotinfo.text
@@ -38964,7 +38982,7 @@ msgstr ""
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_AlignVerticalCharCenter.Label.value.text
 #: swslots.src#FN_FRAME_ALIGN_VERT_CHAR_CENTER.sfxslotinfo.text
 msgid "Align to Vertical Center of Character"
-msgstr ""
+msgstr "Ailínigh le Lár Ingearach an Charachtair"
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_NumberingStart.Label.value.text
 #: swslots.src#FN_NUMBER_NEWSTART.sfxslotinfo.text
@@ -38975,7 +38993,7 @@ msgstr "Atosaigh Uimhriú"
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_JumpToHeader.Label.value.text
 #: swslots.src#FN_TO_HEADER.sfxslotinfo.text
 msgid "To Header"
-msgstr "Go Ceanntásc"
+msgstr "Go dtí an Ceanntásc"
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_WrapLeft.Label.value.text
 #: swslots.src#FN_FRAME_WRAP_LEFT.sfxslotinfo.text
@@ -40923,7 +40941,7 @@ msgstr "Base: Dearadh Amhairc"
 
 #: Setup.xcu#..Setup.Office.Factories.com.sun.star.report.ReportDefinition.ooSetupFactoryUIName.value.text
 msgid "Base: Sun Report Builder"
-msgstr ""
+msgstr "Base: Tógálaí Tuairisce Sun"
 
 #: Setup.xcu#..Setup.Office.Factories.com.sun.star.sdb.TableDesign.ooSetupFactoryUIName.value.text
 msgid "Base: Table Design"
@@ -40931,7 +40949,7 @@ msgstr "Base: Dearadh Tábla"
 
 #: Setup.xcu#..Setup.Office.Factories.com.sun.star.sdb.DataSourceBrowser.ooSetupFactoryUIName.value.text
 msgid "Base: Data View"
-msgstr ""
+msgstr "Base: Amharc Sonraí"
 
 #: padialog.src#RID_FONTIMPORT_DIALOG.RID_FIMP_TXT_HELP.fixedtext.text
 msgid ""
@@ -41702,11 +41720,11 @@ msgstr "le cló ~printéara"
 
 #: rtsetup.src#RID_RTS_COMMANDPAGE.RID_RTS_CMD_CB_EXTERNAL.checkbox.text
 msgid "~Use system print dialog, disable %PRODUCTNAME's print dialog"
-msgstr ""
+msgstr "Ú~sáid dialóg phriontála an chórais; díchumasaigh dialóg phriontála %PRODUCTNAME"
 
 #: rtsetup.src#RID_RTS_COMMANDPAGE.RID_RTS_CMD_FT_QUICKCMD.fixedtext.text
 msgid "Command for quick printing without dialog (optional)"
-msgstr ""
+msgstr "Ordú a dhéanann mearphriontáil gan dialóg (roghnach)"
 
 #: rtsetup.src#RID_RTS_COMMANDPAGE.RID_RTS_CMD_FL_INSTALL.fixedline.text
 msgid "Select command"
@@ -43249,11 +43267,11 @@ msgstr "Ionad"
 
 #: PageNumber.src#RID_PAGENUMBERS.RB_PAGE_TOPPAGE.radiobutton.text
 msgid "Top of Page (Header)"
-msgstr ""
+msgstr "Barr an Leathanaigh (Ceanntásc)"
 
 #: PageNumber.src#RID_PAGENUMBERS.RB_PAGE_BOTTOMPAGE.radiobutton.text
 msgid "Bottom of Page (Footer)"
-msgstr ""
+msgstr "Bun an Leathanaigh (Buntásc)"
 
 #: PageNumber.src#RID_PAGENUMBERS.FL_ALIGNMENT.fixedtext.text
 msgid "Alignment:"
@@ -43261,7 +43279,7 @@ msgstr "Ailíniú:"
 
 #: PageNumber.src#RID_PAGENUMBERS.CB_SHOWNUMBERONFIRSTPAGE.checkbox.text
 msgid "Show Number on First Page"
-msgstr ""
+msgstr "Taispeáin Uimhir ar an Chéad Leathanach"
 
 #: PageNumber.src#RID_PAGENUMBERS.PB_HELP.helpbutton.text
 msgctxt "PageNumber.src#RID_PAGENUMBERS.PB_HELP.helpbutton.text"
@@ -43298,11 +43316,11 @@ msgstr ""
 
 #: inspection.src#RID_STR_CANGROW.string.text
 msgid "Can Grow"
-msgstr ""
+msgstr "Is Féidir Méadú"
 
 #: inspection.src#RID_STR_CANSHRINK.string.text
 msgid "Can Shrink"
-msgstr ""
+msgstr "Is Féidir Laghdú"
 
 #: inspection.src#RID_STR_REPEATSECTION.string.text
 msgid "Repeat Section"
@@ -43318,15 +43336,15 @@ msgstr ""
 
 #: inspection.src#RID_STR_STARTNEWCOLUMN.string.text
 msgid "Start new column"
-msgstr ""
+msgstr "Tosaigh colún nua"
 
 #: inspection.src#RID_STR_STARTNEWPAGE.string.text
 msgid "Start new page"
-msgstr ""
+msgstr "Tosaigh leathanach nua"
 
 #: inspection.src#RID_STR_RESETPAGENUMBER.string.text
 msgid "Reset page number"
-msgstr ""
+msgstr "Athshocraigh uimhir an leathanaigh"
 
 #: inspection.src#RID_STR_CHARTTYPE.string.text
 msgid "Chart type"
@@ -43346,19 +43364,19 @@ msgstr ""
 
 #: inspection.src#RID_STR_GROUPKEEPTOGETHER_CONST.string.text
 msgid "Per Page;Per Column"
-msgstr ""
+msgstr "Sa Leathanach;Sa Cholún"
 
 #: inspection.src#RID_STR_SECTIONPAGEBREAK_CONST.string.text
 msgid "None;Section;Automatic"
-msgstr ""
+msgstr "Dada;Rannán;Uathoibríoch"
 
 #: inspection.src#RID_STR_PAGEHEADEROPTION.string.text
 msgid "Page header"
-msgstr ""
+msgstr "Ceanntásc an leathanaigh"
 
 #: inspection.src#RID_STR_PAGEFOOTEROPTION.string.text
 msgid "Page footer"
-msgstr ""
+msgstr "Buntásc an leathanaigh"
 
 #: inspection.src#RID_STR_REPORTPRINTOPTION_CONST.string.text
 msgid ""
@@ -43372,7 +43390,7 @@ msgstr ""
 
 #: inspection.src#RID_STR_PREEVALUATED.string.text
 msgid "Pre evaluation"
-msgstr ""
+msgstr "Réamhluacháil"
 
 #: inspection.src#RID_STR_POSITIONX.string.text
 msgid "Position X"
@@ -43382,13 +43400,14 @@ msgstr "Ionad X"
 msgid "Position Y"
 msgstr "Ionad Y"
 
+# FE94, e.g.
 #: inspection.src#RID_STR_INITIALFORMULA.string.text
 msgid "Initial value"
-msgstr ""
+msgstr "Túsluach"
 
 #: inspection.src#RID_STR_PRESERVEIRI.string.text
 msgid "Preserve as Link"
-msgstr ""
+msgstr "Caomhnaigh mar Nasc"
 
 #: inspection.src#RID_STR_FORMULA.string.text
 #: smres.src#RID_DOCUMENTSTR.string.text
@@ -57500,7 +57519,8 @@ msgstr "Toradh:"
 msgid ""
 "Do you want to keep the result or do you want to restore previous values?"
 msgstr ""
-"Ar mhaith leat an toradh a choinneáil, nó ar mhaith leat na luachanna roimhe seo a chur ar ais?"
+"Ar mhaith leat an toradh a choinneáil, nó ar mhaith leat na luachanna roimhe "
+"seo a chur ar ais?"
 
 #: optsolver.src#RID_SCDLG_SOLVER_SUCCESS.BTN_OK.okbutton.text
 msgid "Keep Result"
@@ -57800,14 +57820,16 @@ msgid ""
 "Cell $(ARG1) contains characters that are not representable in the selected "
 "target character set \"$(ARG2)\"."
 msgstr ""
-"Tá carachtair i gcill $(ARG1) nach inléirithe sa tacar carachtar roghnaithe \"$(ARG2)\"."
+"Tá carachtair i gcill $(ARG1) nach inléirithe sa tacar carachtar roghnaithe "
+"\"$(ARG2)\"."
 
 #: scerrors.src#RID_ERRHDLSC.SCERR_EXPORT_FIELDWIDTH___ERRCODE_RES_MASK.string.text
 msgid ""
 "Cell $(ARG1) contains a string that is longer in the selected target "
 "character set \"$(ARG2)\" than the given field width."
 msgstr ""
-"Tá teaghrán i gcill $(ARG1) atá níos faide sa tacar carachtar roghnaithe \"$(ARG2)\" ná leithead an réimse."
+"Tá teaghrán i gcill $(ARG1) atá níos faide sa tacar carachtar roghnaithe "
+"\"$(ARG2)\" ná leithead an réimse."
 
 #: scerrors.src#RID_ERRHDLSC.SCWARN_EXPORT_ASCII___ERRCODE_RES_MASK.string.text
 msgid "Only the active sheet was saved."
@@ -65872,7 +65894,9 @@ msgstr ""
 
 #: scstring.src#STR_PRINT_NOTHING.string.text
 msgid "There is nothing to print. The selected print range or sheet is empty."
-msgstr "Níl faic le priontáil ann. Tá an raon roghnaithe priontála, nó an bhileog, folamh."
+msgstr ""
+"Níl faic le priontáil ann. Tá an raon roghnaithe priontála, nó an bhileog, "
+"folamh."
 
 #: scstring.src#STR_ACC_CSVRULER_NAME.string.text
 msgid "Ruler"
@@ -65964,7 +65988,9 @@ msgstr ""
 
 #: scstring.src#STR_ACC_DATAPILOT_SEL_DESCR.string.text
 msgid "Lists the fields that you can drag to one of the other three areas."
-msgstr "Taispeáin na réimsí is féidir leat tarraingt go ceann de na trí limistéar eile."
+msgstr ""
+"Taispeáin na réimsí is féidir leat tarraingt go ceann de na trí limistéar "
+"eile."
 
 #: scstring.src#SCSTR_MEDIASHELL.string.text
 #: glob.src#STR_MEDIAOBJECTBARSHELL.string.text
@@ -66875,7 +66901,8 @@ msgstr "Dún"
 msgid ""
 "Left click, right or down arrow, spacebar, page down, enter, return, 'N'"
 msgstr ""
-"Cléchliceáil, saighead ar dheis nó saighead síos, spásbharra, leathanach síos, eochair iontrála, eochair aisfhillte, 'N'"
+"Cléchliceáil, saighead ar dheis nó saighead síos, spásbharra, leathanach "
+"síos, eochair iontrála, eochair aisfhillte, 'N'"
 
 #: PresenterScreen.xcu#..PresenterScreen.PresenterScreenSettings.HelpView.HelpStrings.a.Right.value.text
 msgid "Next slide, or next effect"
@@ -66883,7 +66910,9 @@ msgstr "An chéad sleamhnán nó mhaisíocht eile"
 
 #: PresenterScreen.xcu#..PresenterScreen.PresenterScreenSettings.HelpView.HelpStrings.b.Left.value.text
 msgid "Right click, left or up arrow, page up, backspace, 'P'"
-msgstr "Deaschliceáil, saighead ar chlé nó saighead suas, leathanach suas, cúlspás, 'P'"
+msgstr ""
+"Deaschliceáil, saighead ar chlé nó saighead suas, leathanach suas, cúlspás, "
+"'P'"
 
 #: PresenterScreen.xcu#..PresenterScreen.PresenterScreenSettings.HelpView.HelpStrings.b.Right.value.text
 msgid "Previous slide, or previous effect"
@@ -73909,7 +73938,9 @@ msgid ""
 "Options-Load/Save-General. Signing documents requires ODF 1.2 (OpenOffice."
 "org 3.x)."
 msgstr ""
-"Is é ODF 1.1 (OpenOffice.org 2.x) leagan formáide na cáipéise faoi Uirlisí-Roghanna-Luchtaigh/Sábháil-Ginearálta.  Tá ODF 1.2 (OpenOffice.org 3.x) de dhíth ort chun cáipéisí a shíniú."
+"Is é ODF 1.1 (OpenOffice.org 2.x) leagan formáide na cáipéise faoi Uirlisí-"
+"Roghanna-Luchtaigh/Sábháil-Ginearálta.  Tá ODF 1.2 (OpenOffice.org 3.x) de "
+"dhíth ort chun cáipéisí a shíniú."
 
 #: doc.src#MSG_XMLSEC_QUERY_SAVESIGNEDBEFORESIGN.querybox.text
 msgid ""
@@ -98953,15 +98984,17 @@ msgid ""
 "Wiki users can read your document on the Wiki.</ahelp>"
 msgstr ""
 "<ahelp hid=\".\">Le @WIKIEXTENSIONPRODUCTNAME@ beidh tú in ann do cháipéis "
-"reatha a uasluchtú ó Writer go freastalaí MediaWiki.  Tar éis duit é a uasluchtú, beidh gach léitheoir an Vicí in ann do cháipéis a léamh.</ahelp>"
+"reatha a uasluchtú ó Writer go freastalaí MediaWiki.  Tar éis duit é a "
+"uasluchtú, beidh gach léitheoir an Vicí in ann do cháipéis a léamh.</ahelp>"
 
 #: wiki.xhp#par_id6468703.help.text
 msgid ""
 "<ahelp hid=\".\">Choose <item type=\"menuitem\">File - Send - To MediaWiki</"
 "item> to upload the current Writer document to a MediaWiki server.</ahelp>"
 msgstr ""
-"<ahelp hid=\".\">Roghnaigh <item type=\"menuitem\">Comhad - Seol - Go MediaWiki</"
-"item> chun an cháipéis reatha Writer a uasluchtú go freastalaí MediaWiki.</ahelp>"
+"<ahelp hid=\".\">Roghnaigh <item type=\"menuitem\">Comhad - Seol - Go "
+"MediaWiki</item> chun an cháipéis reatha Writer a uasluchtú go freastalaí "
+"MediaWiki.</ahelp>"
 
 #: wiki.xhp#hd_id4554582.help.text
 msgid "System Requirements"
@@ -99032,7 +99065,8 @@ msgid ""
 "Close StarOffice/StarSuite/OpenOffice.org, and close also the Quickstarter "
 "if enabled."
 msgstr ""
-"Dún StarOffice/StarSuite/OpenOffice.org, agus dún an Meardhúisire freisin más gá."
+"Dún StarOffice/StarSuite/OpenOffice.org, agus dún an Meardhúisire freisin "
+"más gá."
 
 #: wiki.xhp#par_id265511.help.text
 msgid ""
@@ -99040,8 +99074,9 @@ msgid ""
 "\">Tools - Options - Internet - MediaWiki</item> to enter your Wiki "
 "settings. See \"To Connect To a Wiki\" below."
 msgstr ""
-"Atosaigh an bogearra, oscail cáipéis téacs, agus roghnaigh <item type=\"menuitem"
-"\">Uirlisí - Roghanna - Idirlíon - MediaWiki</item> chun do chuid socruithe Vicí a dhéanamh.  Féach ar \"Chun Ceangal a Bhunú le Vicí\" thíos."
+"Atosaigh an bogearra, oscail cáipéis téacs, agus roghnaigh <item type="
+"\"menuitem\">Uirlisí - Roghanna - Idirlíon - MediaWiki</item> chun do chuid "
+"socruithe Vicí a dhéanamh.  Féach ar \"Chun Ceangal a Bhunú le Vicí\" thíos."
 
 #: wiki.xhp#hd_id3569444.help.text
 msgid "To Remove the @WIKIEXTENSIONPRODUCTNAME@"
@@ -99361,7 +99396,11 @@ msgid ""
 "MediaWiki. If those tags occur as plain text in the transformation result, "
 "ask the Wiki administrator to install this extension."
 msgstr ""
-"Nóta: Úsáideann an trasfhoirmiú an stíl nua d'fhonótaí le clibeanna <ref> agus <references> a dteastaíonn uaithi an eisínteacht Cite.php a bheith suiteáilte i MediaWiki.  Má fheiceann tú na clibeanna sin mar ghnáth-théacs i dtoradh an trasfhoirmithe, téigh i dteagmháil le riarthóir an Vicí chun an eisínteacht seo a shuiteáil."
+"Nóta: Úsáideann an trasfhoirmiú an stíl nua d'fhonótaí le clibeanna <ref> "
+"agus <references> a dteastaíonn uaithi an eisínteacht Cite.php a bheith "
+"suiteáilte i MediaWiki.  Má fheiceann tú na clibeanna sin mar ghnáth-théacs "
+"i dtoradh an trasfhoirmithe, téigh i dteagmháil le riarthóir an Vicí chun an "
+"eisínteacht seo a shuiteáil."
 
 #: wikiformats.xhp#par_id3541673.help.text
 msgid ""
@@ -111000,7 +111039,8 @@ msgid ""
 "%PRODUCTNAME cannot keep files from being overwritten when this transmission "
 "protocol is used. Do you want to continue anyway?"
 msgstr ""
-"Ní féidir le %PRODUCTNAME cosc a chur le forscríobh comhad nuair a bhaintear úsáid as an bprótacal seolta.  Ar mhaith leat dul ar aghaidh mar sin féin?"
+"Ní féidir le %PRODUCTNAME cosc a chur le forscríobh comhad nuair a bhaintear "
+"úsáid as an bprótacal seolta.  Ar mhaith leat dul ar aghaidh mar sin féin?"
 
 #: ids.src#RID_UUI_ERRHDL._ERRCODE_UUI_IO_BROKENPACKAGE___ERRCODE_RES_MASK_.string.text
 msgid ""
