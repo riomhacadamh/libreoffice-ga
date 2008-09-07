@@ -6388,7 +6388,7 @@ msgstr "Mionathraigh tagairtí"
 
 #: TableGrantCtrl.src#STR_TABLE_PRIV_DROP.string.text
 msgid "Drop structure"
-msgstr ""
+msgstr "Tréig an struchtúr"
 
 #: tabletree.src#MENU_TABLETREE_POPUP.MID_SORT_ASCENDING.menuitem.text
 msgid "Sort Ascending"
@@ -28853,7 +28853,7 @@ msgstr "Cruth Fontwork"
 
 #: ChartCommands.xcu#..ChartCommands.UserInterface.Commands..uno_DiagramData.Label.value.text
 msgid "Chart ~Data Table..."
-msgstr ""
+msgstr "Tábla ~Sonraí na Cairte..."
 
 #: ChartCommands.xcu#..ChartCommands.UserInterface.Commands..uno_DataRanges.Label.value.text
 msgid "Data ~Ranges..."
@@ -31619,7 +31619,7 @@ msgstr "Caoch"
 
 #: Effects.xcu#..Effects.UserInterface.Effects.ooo_emphasis_style_emphasis.Label.value.text
 msgid "Style Emphasis"
-msgstr ""
+msgstr "Stíl Láidir"
 
 #: Effects.xcu#..Effects.UserInterface.Effects.ooo_emphasis_bold_reveal.Label.value.text
 msgid "Bold Reveal"
@@ -32508,37 +32508,38 @@ msgstr "Cíor Chothrománach"
 msgid "Comb Vertical"
 msgstr "Cíor Ingearach"
 
+# appears that slide is sliding into place from above, covers old one
 #: Effects.xcu#..Effects.UserInterface.Transitions.cover_down.Label.value.text
 msgid "Cover Down"
-msgstr ""
+msgstr "Folaigh Anuas"
 
 #: Effects.xcu#..Effects.UserInterface.Transitions.cover_left.Label.value.text
 msgid "Cover Left"
-msgstr ""
+msgstr "Folaigh ón Taobh Deas"
 
 #: Effects.xcu#..Effects.UserInterface.Transitions.cover_right.Label.value.text
 msgid "Cover Right"
-msgstr ""
+msgstr "Folaigh ón Taobh Clé"
 
 #: Effects.xcu#..Effects.UserInterface.Transitions.cover_up.Label.value.text
 msgid "Cover Up"
-msgstr ""
+msgstr "Folaigh Aníos"
 
 #: Effects.xcu#..Effects.UserInterface.Transitions.cover_left_down.Label.value.text
 msgid "Cover Left-Down"
-msgstr ""
+msgstr "Folaigh ón Bharr ar Dheis"
 
 #: Effects.xcu#..Effects.UserInterface.Transitions.cover_left_up.Label.value.text
 msgid "Cover Left-Up"
-msgstr ""
+msgstr "Folaigh ón Bhun ar Dheis"
 
 #: Effects.xcu#..Effects.UserInterface.Transitions.cover_right_down.Label.value.text
 msgid "Cover Right-Down"
-msgstr ""
+msgstr "Folaigh ón Bharr ar Chlé"
 
 #: Effects.xcu#..Effects.UserInterface.Transitions.cover_right_up.Label.value.text
 msgid "Cover Right-Up"
-msgstr ""
+msgstr "Folaigh ón Bhun ar Chlé"
 
 #: Effects.xcu#..Effects.UserInterface.Transitions.cut.Label.value.text
 #: globstr.src#RID_GLOBSTR.STR_UNDO_CUT.string.text
@@ -32548,7 +32549,7 @@ msgstr "Gearr"
 
 #: Effects.xcu#..Effects.UserInterface.Transitions.cut_through_black.Label.value.text
 msgid "Cut Through Black"
-msgstr ""
+msgstr "Gearr Trí Dhubh"
 
 #: Effects.xcu#..Effects.UserInterface.Transitions.dissolve.Label.value.text
 msgctxt ""
@@ -32558,11 +32559,11 @@ msgstr "Díscaoil"
 
 #: Effects.xcu#..Effects.UserInterface.Transitions.fade_smoothly.Label.value.text
 msgid "Fade Smoothly"
-msgstr ""
+msgstr "Céimnigh Isteach Go Réidh"
 
 #: Effects.xcu#..Effects.UserInterface.Transitions.fade_through_black.Label.value.text
 msgid "Fade Through Black"
-msgstr ""
+msgstr "Céimnigh Isteach Trí Dhubh"
 
 #: Effects.xcu#..Effects.UserInterface.Transitions.zoom_rotate_in.Label.value.text
 msgid "Newsflash"
@@ -32570,19 +32571,19 @@ msgstr "Scéal Práinneach"
 
 #: Effects.xcu#..Effects.UserInterface.Transitions.push_down.Label.value.text
 msgid "Push Down"
-msgstr ""
+msgstr "Brúigh Anuas"
 
 #: Effects.xcu#..Effects.UserInterface.Transitions.push_left.Label.value.text
 msgid "Push Left"
-msgstr ""
+msgstr "Brúigh Ar Chlé"
 
 #: Effects.xcu#..Effects.UserInterface.Transitions.push_right.Label.value.text
 msgid "Push Right"
-msgstr ""
+msgstr "Brúigh Ar Dheis"
 
 #: Effects.xcu#..Effects.UserInterface.Transitions.push_up.Label.value.text
 msgid "Push Up"
-msgstr ""
+msgstr "Brúigh Aníos"
 
 #: Effects.xcu#..Effects.UserInterface.Transitions.random_bars_horizontal.Label.value.text
 msgid "Random Bars Horizontal"
@@ -32594,15 +32595,15 @@ msgstr "Barraí Randamacha Ingearacha"
 
 #: Effects.xcu#..Effects.UserInterface.Transitions.shape_circle.Label.value.text
 msgid "Shape Circle"
-msgstr ""
+msgstr "Ciorcal"
 
 #: Effects.xcu#..Effects.UserInterface.Transitions.shape_diamond.Label.value.text
 msgid "Shape Diamond"
-msgstr ""
+msgstr "Muileata"
 
 #: Effects.xcu#..Effects.UserInterface.Transitions.shape_plus.Label.value.text
 msgid "Shape Plus"
-msgstr ""
+msgstr "Comhartha Móide"
 
 #: Effects.xcu#..Effects.UserInterface.Transitions.split_horizontal_in.Label.value.text
 msgid "Split Horizontal In"
@@ -32622,51 +32623,52 @@ msgstr "Roinn go hIngearach Amach"
 
 #: Effects.xcu#..Effects.UserInterface.Transitions.diagonal_squares_left_down.Label.value.text
 msgid "Diagonal Squares Left-Down"
-msgstr "Cearnóga Tríthrasnánacha Clé-Síos"
+msgstr "Cearnóga Trasnánacha ón Bharr ar Dheis"
 
 #: Effects.xcu#..Effects.UserInterface.Transitions.diagonal_squares_left_up.Label.value.text
 msgid "Diagonal Squares Left-Up"
-msgstr "Cearnóga Tríthrasnánacha Clé-Suas"
+msgstr "Cearnóga Trasnánacha ón Bhun ar Dheis"
 
 #: Effects.xcu#..Effects.UserInterface.Transitions.diagonal_squares_right_down.Label.value.text
 msgid "Diagonal Squares Right-Down"
-msgstr "Cearnóga Tríthrasnánacha Deas-Síos"
+msgstr "Cearnóga Trasnánacha ón Bharr ar Chlé"
 
 #: Effects.xcu#..Effects.UserInterface.Transitions.diagonal_squares_right_up.Label.value.text
 msgid "Diagonal Squares Right-Up"
-msgstr "Cearnóga Tríthrasnánacha Deas-Suas"
+msgstr "Cearnóga Trasnánacha ón Bhun ar Chlé"
 
 #: Effects.xcu#..Effects.UserInterface.Transitions.uncover_down.Label.value.text
 msgid "Uncover Down"
-msgstr "Nocht Síos"
+msgstr "Nocht Anuas"
 
+# from the right!
 #: Effects.xcu#..Effects.UserInterface.Transitions.uncover_left.Label.value.text
 msgid "Uncover Left"
-msgstr ""
+msgstr "Nocht ón Taobh Deas"
 
 #: Effects.xcu#..Effects.UserInterface.Transitions.uncover_right.Label.value.text
 msgid "Uncover Right"
-msgstr ""
+msgstr "Nocht ón Taobh Clé"
 
 #: Effects.xcu#..Effects.UserInterface.Transitions.uncover_up.Label.value.text
 msgid "Uncover Up"
-msgstr "Nocht Suas"
+msgstr "Nocht Aníos"
 
 #: Effects.xcu#..Effects.UserInterface.Transitions.uncover_left_down.Label.value.text
 msgid "Uncover Left-Down"
-msgstr ""
+msgstr "Nocht ón Bharr ar Dheis"
 
 #: Effects.xcu#..Effects.UserInterface.Transitions.uncover_left_up.Label.value.text
 msgid "Uncover Left-Up"
-msgstr ""
+msgstr "Nocht ón Bhun ar Dheis"
 
 #: Effects.xcu#..Effects.UserInterface.Transitions.uncover_right_down.Label.value.text
 msgid "Uncover Right-Down"
-msgstr ""
+msgstr "Nocht ón Bharr ar Chlé"
 
 #: Effects.xcu#..Effects.UserInterface.Transitions.uncover_right_up.Label.value.text
 msgid "Uncover Right-Up"
-msgstr ""
+msgstr "Nocht ón Bhun ar Chlé"
 
 #: Effects.xcu#..Effects.UserInterface.Transitions.wedge.Label.value.text
 msgctxt ""
@@ -32676,23 +32678,23 @@ msgstr "Ding"
 
 #: Effects.xcu#..Effects.UserInterface.Transitions.wheel_clockwise_1_spoke.Label.value.text
 msgid "Wheel Clockwise, 1 Spoke"
-msgstr ""
+msgstr "Roth Deisealach, Spóca Amháin"
 
 #: Effects.xcu#..Effects.UserInterface.Transitions.wheel_clockwise_2_spokes.Label.value.text
 msgid "Wheel Clockwise, 2 Spokes"
-msgstr ""
+msgstr "Roth Deisealach, 2 Spóca"
 
 #: Effects.xcu#..Effects.UserInterface.Transitions.wheel_clockwise_3_spokes.Label.value.text
 msgid "Wheel Clockwise, 3 Spokes"
-msgstr ""
+msgstr "Roth Deisealach, 3 Spóca"
 
 #: Effects.xcu#..Effects.UserInterface.Transitions.wheel_clockwise_4_spokes.Label.value.text
 msgid "Wheel Clockwise, 4 Spokes"
-msgstr ""
+msgstr "Roth Deisealach, 4 Spóca"
 
 #: Effects.xcu#..Effects.UserInterface.Transitions.wheel_clockwise_8_spokes.Label.value.text
 msgid "Wheel Clockwise, 8 Spokes"
-msgstr ""
+msgstr "Roth Deisealach, 8 Spóca"
 
 # learned this from "Téarmaí Teilifíse" -kps
 #: Effects.xcu#..Effects.UserInterface.Transitions.wipe_down.Label.value.text
@@ -32701,11 +32703,11 @@ msgstr "Síobán Anuas"
 
 #: Effects.xcu#..Effects.UserInterface.Transitions.wipe_left.Label.value.text
 msgid "Wipe Left"
-msgstr "Síobán Anoir"
+msgstr "Síobán ón Deas"
 
 #: Effects.xcu#..Effects.UserInterface.Transitions.wipe_right.Label.value.text
 msgid "Wipe Right"
-msgstr "Síobán Aniar"
+msgstr "Síobán ón Chlé"
 
 #: Effects.xcu#..Effects.UserInterface.Transitions.wipe_up.Label.value.text
 msgid "Wipe Up"
@@ -32713,7 +32715,7 @@ msgstr "Síobán Aníos"
 
 #: Effects.xcu#..Effects.UserInterface.Transitions.random_transition.Label.value.text
 msgid "Random Transition"
-msgstr ""
+msgstr "Trasdul Randamach"
 
 #: Effects.xcu#..Effects.Presets.Entrance.basic.Label.value.text
 msgctxt "Effects.xcu#..Effects.Presets.Entrance.basic.Label.value.text"
@@ -33206,7 +33208,7 @@ msgstr "Saighead Chlé"
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_ArrowShapes.right_arrow.Label.value.text
 #: smres.src#RID_TOOLBOXWINDOW.9.RID_RIGHTARROW.toolboxitem.text
 msgid "Right Arrow"
-msgstr "Saighead Deis"
+msgstr "Saighead Dheas"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_ArrowShapes.up_arrow.Label.value.text
 #: smres.src#RID_TOOLBOXWINDOW.9.RID_UPARROW.toolboxitem.text
@@ -33220,7 +33222,7 @@ msgstr "Saighead Síos"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_ArrowShapes.left_right_arrow.Label.value.text
 msgid "Left and Right Arrow"
-msgstr "Saighead Déthreo"
+msgstr "Saighead Dhéthreo"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_ArrowShapes.up_down_arrow.Label.value.text
 msgid "Up and Down Arrow"
@@ -33248,11 +33250,11 @@ msgstr "Saighead Roinnte"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_ArrowShapes.striped_right_arrow.Label.value.text
 msgid "Striped Right Arrow"
-msgstr "Saighead Stríocach Ar Dheis"
+msgstr "Saighead Stríocach Dheas"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_ArrowShapes.notched_right_arrow.Label.value.text
 msgid "Notched Right Arrow"
-msgstr "Saighead Eangach Ar Dheis"
+msgstr "Saighead Eangach Dheas"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_ArrowShapes.pentagon_right.Label.value.text
 msgctxt ""
@@ -33267,19 +33269,19 @@ msgstr "Rachtán"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_ArrowShapes.right_arrow_callout.Label.value.text
 msgid "Right Arrow Callout"
-msgstr ""
+msgstr "Tagrán le Saighead Dheas"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_ArrowShapes.left_arrow_callout.Label.value.text
 msgid "Left Arrow Callout"
-msgstr ""
+msgstr "Tagrán le Saighead Chlé"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_ArrowShapes.up_arrow_callout.Label.value.text
 msgid "Up Arrow Callout"
-msgstr ""
+msgstr "Tagrán le Saighead Suas"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_ArrowShapes.down_arrow_callout.Label.value.text
 msgid "Down Arrow Callout"
-msgstr ""
+msgstr "Tagrán le Saighead Síos"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_ArrowShapes.left_right_arrow_callout.Label.value.text
 msgid "Left and Right Arrow Callout"
@@ -66901,7 +66903,7 @@ msgstr "Dún"
 msgid ""
 "Left click, right or down arrow, spacebar, page down, enter, return, 'N'"
 msgstr ""
-"Cléchliceáil, saighead ar dheis nó saighead síos, spásbharra, leathanach "
+"Cléchliceáil, saighead dheas nó saighead síos, spásbharra, leathanach "
 "síos, eochair iontrála, eochair aisfhillte, 'N'"
 
 #: PresenterScreen.xcu#..PresenterScreen.PresenterScreenSettings.HelpView.HelpStrings.a.Right.value.text
@@ -66911,7 +66913,7 @@ msgstr "An chéad sleamhnán nó mhaisíocht eile"
 #: PresenterScreen.xcu#..PresenterScreen.PresenterScreenSettings.HelpView.HelpStrings.b.Left.value.text
 msgid "Right click, left or up arrow, page up, backspace, 'P'"
 msgstr ""
-"Deaschliceáil, saighead ar chlé nó saighead suas, leathanach suas, cúlspás, "
+"Deaschliceáil, saighead chlé nó saighead suas, leathanach suas, cúlspás, "
 "'P'"
 
 #: PresenterScreen.xcu#..PresenterScreen.PresenterScreenSettings.HelpView.HelpStrings.b.Right.value.text
@@ -67421,7 +67423,7 @@ msgstr "Fontwork"
 
 #: glob.src#STR_POOLSHEET_BANDED_CELL.string.text
 msgid "Banding cell"
-msgstr ""
+msgstr "Cill bhandála"
 
 #: glob.src#STR_POOLSHEET_TOTAL.string.text
 msgid "Total line"
@@ -68373,7 +68375,7 @@ msgstr "Cuir i bhfeidhm ar shleamhnáin roghnaithe"
 
 #: SlideTransitionPane.src#DLG_SLIDE_TRANSITION_PANE.FL_MODIFY_TRANSITION.fixedline.text
 msgid "Modify transition"
-msgstr "Mionathraigh trasdul"
+msgstr "Mionathraigh an trasdul"
 
 #: SlideTransitionPane.src#DLG_SLIDE_TRANSITION_PANE.FT_SPEED.fixedtext.text
 msgctxt ""
@@ -71404,9 +71406,10 @@ msgstr "Gach scáileán"
 msgid "Slide Show"
 msgstr "Taispeántas Sleamhnán"
 
+# or "Ábhar/Inneachar Priontála/Le Priontáil"
 #: printdialog.src#DLG_PRINTDIALOG.FL_PRINTCONTENT.fixedline.text
 msgid "Print content"
-msgstr ""
+msgstr "Priontáil an t-ábhar"
 
 #: printdialog.src#DLG_PRINTDIALOG.FT_SLIDESPERPAGE.fixedtext.text
 msgid "Slides per page"
@@ -75033,15 +75036,15 @@ msgstr "Chuig"
 
 #: smres.src#RID_TOOLBOXWINDOW.2.RID_DLARROW.toolboxitem.text
 msgid "Double Arrow Left"
-msgstr "Saighead Dúbailte Clé"
+msgstr "Saighead Dhúbailte Chlé"
 
 #: smres.src#RID_TOOLBOXWINDOW.2.RID_DLRARROW.toolboxitem.text
 msgid "Double Arrow Left And Right"
-msgstr "Saighead Dúbailte Deas agus Clé"
+msgstr "Saighead Dhúbailte Dheas agus Chlé"
 
 #: smres.src#RID_TOOLBOXWINDOW.2.RID_DRARROW.toolboxitem.text
 msgid "Double Arrow Right"
-msgstr "Saighead Dúbailte Deas"
+msgstr "Saighead Dhúbailte Dheas"
 
 #: smres.src#RID_TOOLBOXWINDOW.3.RID_XINY.toolboxitem.text
 msgid "Is In"
@@ -87241,7 +87244,7 @@ msgstr "Cinn Saighde"
 
 #: sdstring.src#RID_SVXSTR_DEL_LINEEND.string.text
 msgid "Delete line ends"
-msgstr ""
+msgstr "Scrios deireadh na línte"
 
 #: sdstring.src#RID_SVXSTR_ASK_DEL_LINEEND.string.text
 msgid "Do you want to delete the arrowhead?"
@@ -87500,21 +87503,22 @@ msgctxt "sdstring.src#RID_SVXSTR_TBLAFMT_YELLOW.string.text"
 msgid "Yellow"
 msgstr "Buí"
 
+# see fr: Jointure de lignes, moyennée
 #: sdstring.src#RID_SVXSTR_LINEJOINT_MIDDLE.string.text
 msgid "Line joint averaged"
-msgstr ""
+msgstr "Ceangal línte: meán"
 
 #: sdstring.src#RID_SVXSTR_LINEJOINT_BEVEL.string.text
 msgid "Line joint bevel"
-msgstr ""
+msgstr "Ceangal línte: beibheal"
 
 #: sdstring.src#RID_SVXSTR_LINEJOINT_MITER.string.text
 msgid "Line joint miter"
-msgstr ""
+msgstr "Ceangal línte: mítéar"
 
 #: sdstring.src#RID_SVXSTR_LINEJOINT_ROUND.string.text
 msgid "Line joint round"
-msgstr ""
+msgstr "Ceangal línte: cruinn"
 
 #: sdstring.src#RID_SVXSTR_GRFILTER_OPENERROR.string.text
 msgctxt "sdstring.src#RID_SVXSTR_GRFILTER_OPENERROR.string.text"
@@ -87580,7 +87584,7 @@ msgstr "Buí/bán cearnógach"
 
 #: sdstring.src#RID_SVXSTR_GRDT8.string.text
 msgid "Ellipsoid blue gray/light blue"
-msgstr ""
+msgstr "Liathghorm/bánghorm éileapsóideach"
 
 #: sdstring.src#RID_SVXSTR_GRDT9.string.text
 msgid "Axial light red/white"
@@ -89085,7 +89089,7 @@ msgstr "-"
 
 #: tabarea.src#RID_SVXPAGE_HATCH.BTN_LOAD.imagebutton.quickhelptext
 msgid "Load Hatches List"
-msgstr ""
+msgstr "Luchtaigh Liosta de Phatrúin Haisteála"
 
 #: tabarea.src#RID_SVXPAGE_HATCH.BTN_SAVE.imagebutton.text
 msgctxt "tabarea.src#RID_SVXPAGE_HATCH.BTN_SAVE.imagebutton.text"
@@ -89094,7 +89098,7 @@ msgstr "-"
 
 #: tabarea.src#RID_SVXPAGE_HATCH.BTN_SAVE.imagebutton.quickhelptext
 msgid "Save Hatches List"
-msgstr ""
+msgstr "Sábháil Liosta de Phatrúin Haisteála"
 
 #: tabarea.src#RID_SVXPAGE_HATCH.tabpage.text
 msgctxt "tabarea.src#RID_SVXPAGE_HATCH.tabpage.text"
@@ -91381,7 +91385,7 @@ msgstr "~Luaineach"
 
 #: zoom.src#RID_SVXDLG_ZOOM.FL_VIEWLAYOUT.fixedline.text
 msgid "View layout"
-msgstr ""
+msgstr "Leagan amach"
 
 #: zoom.src#RID_SVXDLG_ZOOM.BTN_AUTOMATIC.radiobutton.text
 msgctxt "zoom.src#RID_SVXDLG_ZOOM.BTN_AUTOMATIC.radiobutton.text"
@@ -91394,7 +91398,7 @@ msgstr "Mód lea~bhair"
 
 #: zoom.src#RID_SVXDLG_ZOOM.modaldialog.text
 msgid "Zoom & View Layout"
-msgstr ""
+msgstr "Súmáil agus Leagan Amach"
 
 #: editeng.src#RID_EDITUNDO_SETATTRIBS.string.text
 #: outliner.src#RID_OUTLUNDO_ATTR.string.text
@@ -92470,7 +92474,7 @@ msgstr "Ai~nm"
 
 #: datanavi.src#RID_SVXDLG_ADD_MODEL.CB_MODIFIES_DOCUMENT.checkbox.text
 msgid "Model data updates change document's modification status"
-msgstr ""
+msgstr "Athraítear stádas mionathraithe na cáipéis nuair a nuashonraítear sonraí na samhla"
 
 #: datanavi.src#RID_SVXDLG_ADD_MODEL.STR_EDIT_TEXT.string.text
 msgid "Edit Model"
@@ -92941,7 +92945,7 @@ msgstr "Scrios # réad"
 
 #: fmstring.src#RID_STR_UNDO_CONTAINER_REPLACE.string.text
 msgid "Replace a container element"
-msgstr ""
+msgstr "Ionadaigh eilimint árthaigh"
 
 #: fmstring.src#RID_STR_UNDO_DELETE_LOGICAL.string.text
 msgid "Delete structure"
@@ -94355,7 +94359,7 @@ msgstr "Focail aonair"
 
 #: svxitems.src#RID_SVXITEMS_WORDLINE_FALSE.string.text
 msgid "Not Words Only"
-msgstr ""
+msgstr "Ní Focail Amháin"
 
 #: svxitems.src#RID_SVXITEMS_CONTOUR_TRUE.string.text
 msgctxt "svxitems.src#RID_SVXITEMS_CONTOUR_TRUE.string.text"
@@ -94377,7 +94381,7 @@ msgstr "Teimhneach"
 
 #: svxitems.src#RID_SVXITEMS_OPAQUE_FALSE.string.text
 msgid "Not Opaque"
-msgstr ""
+msgstr "Nach bhfuil teimhneach"
 
 #: svxitems.src#RID_SVXITEMS_FMTKEEP_TRUE.string.text
 msgctxt "svxitems.src#RID_SVXITEMS_FMTKEEP_TRUE.string.text"
@@ -94423,7 +94427,7 @@ msgstr "Ionad gan cosaint"
 
 #: svxitems.src#RID_SVXITEMS_TRANSPARENT_FALSE.string.text
 msgid "Not Transparent"
-msgstr "Ní Trédhearcach"
+msgstr "Nach bhfuil trédhearcach"
 
 #: svxitems.src#RID_SVXITEMS_BOXINF_TABLE_FALSE.string.text
 msgid "Not Table"
@@ -94674,7 +94678,7 @@ msgstr "Aiceann "
 
 #: svxitems.src#RID_SVXITEMS_TWOLINES_OFF.string.text
 msgid "Double-lined off"
-msgstr ""
+msgstr "Gan délíneáil"
 
 #: svxitems.src#RID_SVXITEMS_TWOLINES.string.text
 msgctxt "svxitems.src#RID_SVXITEMS_TWOLINES.string.text"
@@ -94774,11 +94778,11 @@ msgstr ""
 
 #: svxitems.src#RID_SVXITEMS_PARASNAPTOGRID_ON.string.text
 msgid "Paragraph snaps to text grid (if active)"
-msgstr ""
+msgstr "Léimeann an t-alt go dtí an ghreille téacs (má tá sí gníomhach)"
 
 #: svxitems.src#RID_SVXITEMS_PARASNAPTOGRID_OFF.string.text
 msgid "Paragraph does not snap to text grid"
-msgstr ""
+msgstr "Ní léimeann an t-alt go dtí an ghreille téacs"
 
 #: svxitems.src#RID_SVXITEMS_CHARHIDDEN_FALSE.string.text
 msgid "Not hidden"
@@ -97649,7 +97653,7 @@ msgstr "Trédhearcacht na líne"
 
 #: svdstr.src#SIP_XA_LINEJOINT.string.text
 msgid "Line joint"
-msgstr "Alt líne"
+msgstr "Ceangal línte"
 
 #: svdstr.src#SIP_XA_LINERESERVED2.string.text
 msgid "Line reserved for 2"
