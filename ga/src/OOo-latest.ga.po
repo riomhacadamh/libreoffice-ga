@@ -2526,7 +2526,7 @@ msgstr "Freastalaí thar am le linn seolta. Uimhir Sheichimh: ($Arg1)"
 
 #: ttmsg.src#S_NO_CONNECTION.string.text
 msgid "No connection. Sequence No: ($Arg1)"
-msgstr "Gan nasc. Uimhir Sheichimh: ($Arg1)"
+msgstr "Gan cheangal. Uimhir Sheichimh: ($Arg1)"
 
 #: ttmsg.src#S_NO_FILES_FOUND.string.text
 msgid "No ($Arg1) files found"
@@ -2747,7 +2747,7 @@ msgstr "Earráid DDE."
 
 #: sb.src#RID_BASIC_START.SbERR_DDE_WAITINGACK___ERRCODE_RES_MASK.string.text
 msgid "Awaiting response to DDE connection."
-msgstr "Ag feitheamh le freagra ar nasc DDE."
+msgstr "Ag feitheamh le freagra ar cheangal DDE."
 
 #: sb.src#RID_BASIC_START.SbERR_DDE_OUTOFCHANNELS___ERRCODE_RES_MASK.string.text
 msgid "No DDE channels available."
@@ -2755,11 +2755,11 @@ msgstr "Níl aon chainéal DDE ar fáil."
 
 #: sb.src#RID_BASIC_START.SbERR_DDE_NO_RESPONSE___ERRCODE_RES_MASK.string.text
 msgid "No application responded to DDE connect initiation."
-msgstr "Níor fhreagair feidhmchlár ar bith ar thionscnamh nasc DDE."
+msgstr "Níor fhreagair feidhmchlár ar bith ar thionscnamh ceangail DDE."
 
 #: sb.src#RID_BASIC_START.SbERR_DDE_MULT_RESPONSES___ERRCODE_RES_MASK.string.text
 msgid "Too many applications responded to DDE connect initiation."
-msgstr "D'fhreagair an iomarca feidhmchlár ar thionscnamh nasc DDE."
+msgstr "D'fhreagair an iomarca feidhmchlár ar thionscnamh ceangail DDE."
 
 #: sb.src#RID_BASIC_START.SbERR_DDE_CHANNEL_LOCKED___ERRCODE_RES_MASK.string.text
 msgid "DDE channel locked."
@@ -2795,7 +2795,7 @@ msgstr "Stopadh an feidhmchlár seachtrach."
 
 #: sb.src#RID_BASIC_START.SbERR_DDE_CONV_CLOSED___ERRCODE_RES_MASK.string.text
 msgid "DDE connection interrupted or modified."
-msgstr "Nasc DDE idirbhriste nó athraithe."
+msgstr "Ceangal DDE idirbhriste nó athraithe."
 
 #: sb.src#RID_BASIC_START.SbERR_DDE_NO_CHANNEL___ERRCODE_RES_MASK.string.text
 msgid "DDE method invoked with no channel open."
@@ -4774,7 +4774,7 @@ msgstr "Níl leabhar seoltaí Outlook (MAPI) ann."
 
 #: conn_shared_res.src#STR_COULDNOTCONNECT_TO_LDAP.string.text
 msgid "Unable to connect to LDAP Server."
-msgstr "Ní féidir nascadh le Freastalaí LDAP."
+msgstr "Ní féidir ceangal a bhunú le Freastalaí LDAP."
 
 #: conn_shared_res.src#STR_NO_TABLE_CREATION_SUPPORT.string.text
 msgid "Creating tables is not supported for this kind of address books."
@@ -4843,7 +4843,7 @@ msgstr ""
 
 #: conn_shared_res.src#STR_URI_SYNTAX_ERROR.string.text
 msgid "The connection URL is invalid."
-msgstr "Tá URL an naisc neamhbhailí."
+msgstr "Tá URL an cheangail neamhbhailí."
 
 #: conn_shared_res.src#STR_NO_HOSTNAME.string.text
 msgid "No hostname was provided."
@@ -4855,7 +4855,7 @@ msgstr "Níor tugadh Base DN ar bith."
 
 #: conn_shared_res.src#STR_COULD_NOT_CONNECT_LDAP.string.text
 msgid "The connection to the LDAP server could not be established."
-msgstr "Níorbh fhéidir nasc a bhunú leis an bhfreastalaí LDAP."
+msgstr "Níorbh fhéidir ceangal a bhunú leis an bhfreastalaí LDAP."
 
 #: conn_shared_res.src#STR_COULD_NOT_LOAD_FILE.string.text
 msgid "The file $filename$ could not be loaded."
@@ -5083,7 +5083,7 @@ msgid ""
 "The error report could not be sent because there is no Internet connection. "
 "Please check your Internet settings."
 msgstr ""
-"Ní fhéadfaí an tuairisc earráide a sheoladh mar nach bhfuil aon nasc Idirlín "
+"Ní fhéadfaí an tuairisc earráide a sheoladh mar nach bhfuil aon cheangal Idirlín "
 "ann. Seiceáil do shocruithe Idirlín."
 
 #: crashrep.ulf#_OPTIONS_BUTTON_.LngText.text
@@ -5108,7 +5108,7 @@ msgstr "Úsáid ~socruithe córais"
 #: crashrep.ulf#_PROXY_SETTINGS_DIRECT_.LngText.text
 #: docrecovery.src#RID_SVX_MDLG_ERR_REP_OPTIONS.BTN_ERROPT_DIRECT.radiobutton.text
 msgid "Use ~direct connection to the Internet"
-msgstr "Úsáid nasc ~díreach leis an Idirlíon"
+msgstr "Úsáid ceangal ~díreach leis an Idirlíon"
 
 #: crashrep.ulf#_PROXY_SETTINGS_MANUAL_.LngText.text
 #: docrecovery.src#RID_SVX_MDLG_ERR_REP_OPTIONS.BTN_ERROPT_MANUAL.radiobutton.text
@@ -5138,7 +5138,7 @@ msgid ""
 "If this applies to your situation, you have to specify the address and port "
 "for the server."
 msgstr ""
-"Ní mór do Uirlis Tuairisc Earráide %PRODUCTNAME% a bheith nasctha leis an "
+"Ní mór do Uirlis Tuairisc Earráide %PRODUCTNAME% a bheith ceangailte leis an "
 "Idirlíon chun gur féidir tuairiscí earráide a sheoladh.\n"
 "\n"
 "Is minic a úsáideann comhlachtaí seachfhreastalaithe i gcomhar le balla "
@@ -5195,7 +5195,7 @@ msgstr "Rinneadh iarracht tábla $name$ a oscailt."
 
 #: strings.src#RID_STR_CONNECTION_INVALID.string.text
 msgid "No connection could be established."
-msgstr "Níorbh fhéidir nasc a bhunú."
+msgstr "Níorbh fhéidir ceangal a bhunú."
 
 #: strings.src#RID_STR_TABLE_IS_FILTERED.string.text
 msgid ""
@@ -5215,7 +5215,7 @@ msgid ""
 "The connection to the external data source could not be established. An "
 "unknown error occurred. The driver is probably defective."
 msgstr ""
-"Níorbh fhéidir nasc a bhunú leis an bhfoinse sheachtrach sonraí. Tharla "
+"Níorbh fhéidir ceangal a bhunú leis an bhfoinse sheachtrach sonraí. Tharla "
 "earráid anaithnid. Is dócha go bhfuil an tiománaí lochtach."
 
 #: strings.src#RID_STR_COULDNOTCONNECT_NODRIVER.string.text
@@ -5223,7 +5223,7 @@ msgid ""
 "The connection to the external data source could not be established. No SDBC "
 "driver was found for the given URL."
 msgstr ""
-"Níorbh fhéidir nasc a bhunú leis an bhfoinse sheachtrach sonraí. Níor "
+"Níorbh fhéidir ceangal a bhunú leis an bhfoinse sheachtrach sonraí. Níor "
 "aimsíodh tiománaí SDBC i gcomhair an URL sonraithe."
 
 #: strings.src#RID_STR_COULDNOTLOAD_MANAGER.string.text
@@ -5231,7 +5231,7 @@ msgid ""
 "The connection to the external data source could not be established. The "
 "SDBC driver manager could not be loaded."
 msgstr ""
-"Níorbh fhéidir nasc a bhunú leis an bhfoinse sheachtrach sonraí. Níorbh "
+"Níorbh fhéidir ceangal a bhunú leis an bhfoinse sheachtrach sonraí. Níorbh "
 "fhéidir bainisteoir na dtiománaithe SDBC a luchtú."
 
 #: strings.src#RID_STR_FORM.string.text app.src#RID_STR_FORM.string.text
@@ -5837,7 +5837,7 @@ msgstr "Iarratas"
 
 #: sdbt_strings.src#STR_CONN_WITHOUT_QUERIES_OR_TABLES.string.text
 msgid "The given connection is no valid query and/or tables supplier."
-msgstr "Ní iarratas bailí ná soláthraí táblaí an nasc a tugadh."
+msgstr "Ní iarratas bailí ná soláthraí táblaí an ceangal a tugadh."
 
 #: sdbt_strings.src#STR_NO_TABLE_OBJECT.string.text
 msgid "The given object is no table object."
@@ -5969,7 +5969,7 @@ msgstr "Airíonna"
 
 #: app.src#RID_MENU_APP_EDIT.MN_PROPS.SID_DB_APP_DSCONNECTION_TYPE.menuitem.text
 msgid "Connection Type"
-msgstr "Cineál Naisc"
+msgstr "Cineál an Cheangail"
 
 #: app.src#RID_MENU_APP_EDIT.MN_PROPS.SID_DB_APP_DSADVANCED_SETTINGS.menuitem.text
 msgid "Advanced Settings"
@@ -6120,7 +6120,7 @@ msgid ""
 "\n"
 "Do you want to close all documents now?"
 msgstr ""
-"Athraíodh an nasc.\n"
+"Athraíodh cineál an cheangail.\n"
 "Chun na hathruithe a chur i bhfeidhm, ní mór duit gach foirm, tuairisc, agus "
 "tábla a dhúnadh.\n"
 "\n"
@@ -6216,7 +6216,7 @@ msgstr "Earráid agus na critéir scagtha á socrú"
 
 #: sbabrw.src#RID_STR_CONNECTION_LOST.string.text
 msgid "Connection lost"
-msgstr "Cailleadh an nasc"
+msgstr "Cailleadh an ceangal"
 
 #: sbabrw.src#RID_STR_QUERIES_CONTAINER.string.text
 #: adtabdlg.src#DLG_JOIN_TABADD.RB_CASE_QUERIES.radiobutton.text
@@ -6245,7 +6245,7 @@ msgstr "Bunachair shonraí cláraithe ..."
 
 #: sbabrw.src#MID_CLOSECONN.#define.text
 msgid "Disco~nnect"
-msgstr "Dí~nasc"
+msgstr "Dí~cheangail"
 
 #: sbabrw.src#STR_TITLE_CONFIRM_DELETION.string.text
 #: scriptdlg.src#RID_SVXSTR_DELQUERY_TITLE.string.text
@@ -6262,7 +6262,7 @@ msgstr "Tá an t-iarratas ann cheana. Ar mhaith leat é a scriosadh?"
 
 #: sbabrw.src#QUERY_CONNECTION_LOST.querybox.text
 msgid "The connection to the database has been lost. Do you want to reconnect?"
-msgstr "Cailleadh an nasc leis an bhunachar sonraí. Ar mhaith leat athnascadh?"
+msgstr "Cailleadh an ceangal leis an bhunachar sonraí. Ar mhaith leat athcheangal?"
 
 #: sbabrw.src#STR_OPENTABLES_WARNINGS.string.text
 msgid "Warnings encountered"
@@ -6272,11 +6272,11 @@ msgstr "Bhí rabhaidh ann"
 msgid ""
 "While retrieving the tables, warnings were reported by the database "
 "connection."
-msgstr "Thug an nasc bunachair sonraí rabhadh agus na táblaí á bhfáil."
+msgstr "Thug an ceangal bunachair sonraí rabhadh agus na táblaí á bhfáil."
 
 #: sbabrw.src#STR_CONNECTING_DATASOURCE.string.text
 msgid "Connecting to \"$name$\" ..."
-msgstr "Ag nascadh le \"$name$\" ..."
+msgstr "Ag ceangal le \"$name$\" ..."
 
 #: sbabrw.src#STR_LOADING_QUERY.string.text
 msgid "Loading query $name$ ..."
@@ -6293,7 +6293,7 @@ msgstr "Níorbh fhéidir aon fhormáid tábla a aimsiú."
 #: sbabrw.src#STR_COULDNOTCONNECT_DATASOURCE.string.text
 #: formres.src#RID_STR_UNABLETOCONNECT.string.text
 msgid "The connection to the data source \"$name$\" could not be established."
-msgstr "Níorbh fhéidir nasc a bhunú leis an bhfoinse sonraí \"$name$\"."
+msgstr "Níorbh fhéidir ceangal a bhunú leis an bhfoinse sonraí \"$name$\"."
 
 #: sbabrw.src#RID_MENU_REFRESH_DATA.ID_BROWSER_REFRESH_REBUILD.menuitem.text
 msgid "Rebuild"
@@ -6400,7 +6400,7 @@ msgstr "Sórtáil in ord Íslitheach"
 
 #: tabletree.src#STR_COULDNOTCREATE_DRIVERMANAGER.string.text
 msgid "Cannot connect to the SDBC driver manager (#servicename#)."
-msgstr "Ní féidir nascadh le bainisteoir na dtiománaithe SDBC (#servicename#)."
+msgstr "Ní féidir ceangal a bhunú le bainisteoir na dtiománaithe SDBC (#servicename#)."
 
 #: tabletree.src#STR_NOREGISTEREDDRIVER.string.text
 msgid "A driver is not registered for the URL #connurl#."
@@ -6408,7 +6408,7 @@ msgstr "Níl tiománaí cláraithe don URL #connurl#."
 
 #: tabletree.src#STR_COULDNOTCONNECT.string.text
 msgid "No connection could be established for the URL #connurl#."
-msgstr "Níorbh fhéidir nasc a bhunú leis an URL #connurl#."
+msgstr "Níorbh fhéidir ceangal a bhunú leis an URL #connurl#."
 
 #: tabletree.src#STR_COULDNOTCONNECT_PLEASECHECK.string.text
 msgid "Please check the current settings, for example user name and password."
@@ -6661,7 +6661,7 @@ msgid ""
 "No more settings are necessary. To verify that the connection is working, "
 "click the '%test' button."
 msgstr ""
-"Níl socraithe eile a dhíth. Le cinntiú go bhfuil an nasc ag obair, cliceáil "
+"Níl socraithe eile a dhíth. Le cinntiú go bhfuil an ceangal ag obair, cliceáil "
 "an cnaipe '%test'."
 
 #: AutoControls.src#STR_COMMONURL.string.text
@@ -6781,7 +6781,7 @@ msgstr "Aicme Thástála"
 
 #: ConnectionPage.src#PAGE_CONNECTION.PB_TESTCONNECTION.pushbutton.text
 msgid "Test Connection"
-msgstr "Nasc Tástála"
+msgstr "Ceangal Tástála"
 
 #: ConnectionPage.src#STR_NO_ADABASE_DATASOURCES.string.text
 msgid "No Adabas D data sources were found on your system."
@@ -6789,7 +6789,7 @@ msgstr "Níor aimsíodh foinsí sonraí Adabas D ar do chóras."
 
 #: ConnectionPage.src#STR_CONNECTION_TEST.string.text
 msgid "Connection Test"
-msgstr "Tástáil Naisc"
+msgstr "Tástáil an Cheangail"
 
 #: ConnectionPage.src#STR_CONNECTION_SUCCESS.string.text
 msgid "The connection was established successfully."
@@ -6889,12 +6889,12 @@ msgstr "Úsáidte le déanaí"
 
 #: dbadmin.src#PAGE_GENERAL.RB_GETEXISTINGDATABASE.radiobutton.text
 msgid "Connect to an e~xisting database"
-msgstr "Nasc le bunachar ~sonraí atá ann"
+msgstr "Ceangail le bunachar ~sonraí atá ann"
 
 #: dbadmin.src#PAGE_GENERAL.FT_DATASOURCETYPE_PRE.fixedtext.text
 msgid ""
 "Select the type of database to which you want to establish a connection."
-msgstr "Roghnaigh cineál an bhunachair sonraí lenar mhaith leat nascadh."
+msgstr "Roghnaigh cineál an bhunachair sonraí lenar mhaith leat ceangal a bhunú."
 
 #: dbadmin.src#PAGE_GENERAL.FT_DATATYPE.fixedtext.text
 msgid "Database ~type "
@@ -6935,7 +6935,7 @@ msgid ""
 msgstr ""
 "Níl an cineál seo foinse sonraí ar eolas ag an ardán seo.\n"
 "Tá cead agat na socruithe a athrú, ach is mór an seans nach mbeadh tú ábalta "
-"ceangailt leis an mbunachar sonraí."
+"ceangal leis an mbunachar sonraí."
 
 #: dbadmin.src#PAGE_GENERAL.tabpage.text
 msgctxt "dbadmin.src#PAGE_GENERAL.tabpage.text"
@@ -7033,7 +7033,7 @@ msgstr "DN ~Bunaidh"
 
 #: dbadmin.src#PAGE_LDAP.CB_USESSL.checkbox.text
 msgid "Use secure connection(SSL)"
-msgstr "Úsáid nasc daingean(SSL)"
+msgstr "Úsáid ceangal daingean(SSL)"
 
 #: dbadmin.src#PAGE_LDAP.FT_PORTNUMBER.fixedtext.text
 msgctxt "dbadmin.src#PAGE_LDAP.FT_PORTNUMBER.fixedtext.text"
@@ -7060,7 +7060,7 @@ msgstr "Socruithe ~tiománaí"
 #: dbadmin2.src#STR_ENTER_CONNECTION_PASSWORD.string.text
 msgid "A password is needed to connect to the data source \"$name$\"."
 msgstr ""
-"Is gá focal faire a sholáthar chun nasc a dhéanamh leis an bhfoinse sonraí "
+"Is gá focal faire a sholáthar chun ceangal a dhéanamh le foinse sonraí "
 "\"$name$\"."
 
 #: dbadmin2.src#STR_QUERY_DROP_ALL.string.text
@@ -7111,7 +7111,7 @@ msgstr "Leabhar seoltaí LDAP"
 
 #: dbadmin2.src#STR_HINT_READONLY_CONNECTION.string.text
 msgid "(Connection is read-only)"
-msgstr "(Nasc inléite amháin)"
+msgstr "(Ceangal inléite amháin)"
 
 #: dbadmin2.src#STR_HINT_CONNECTION_NOT_CAPABLE.string.text
 msgid "(Not supported by this connection)"
@@ -7149,48 +7149,48 @@ msgstr "Roghnaigh bunachar sonraí"
 
 #: dbadminsetup.src#DLG_DATABASE_WIZARD.STR_PAGETITLE_DBASE.string.text
 msgid "Set up dBASE connection"
-msgstr "Socraigh nasc le dBASE"
+msgstr "Socraigh ceangal le dBASE"
 
 #: dbadminsetup.src#DLG_DATABASE_WIZARD.STR_PAGETITLE_TEXT.string.text
 msgctxt "dbadminsetup.src#DLG_DATABASE_WIZARD.STR_PAGETITLE_TEXT.string.text"
 msgid "Set up a connection to text files"
-msgstr "Socraigh nasc le téacschomhaid"
+msgstr "Socraigh ceangal le téacschomhaid"
 
 #: dbadminsetup.src#DLG_DATABASE_WIZARD.STR_PAGETITLE_MSACCESS.string.text
 msgid "Set up Microsoft Access connection"
-msgstr "Socraigh nasc le Microsoft Access"
+msgstr "Socraigh ceangal le Microsoft Access"
 
 #: dbadminsetup.src#DLG_DATABASE_WIZARD.STR_PAGETITLE_LDAP.string.text
 msgid "Set up LDAP connection"
-msgstr "Socraigh nasc LDAP"
+msgstr "Socraigh ceangal LDAP"
 
 #: dbadminsetup.src#DLG_DATABASE_WIZARD.STR_PAGETITLE_ADABAS.string.text
 msgid "Set up Adabas D connection"
-msgstr "Socraigh nasc Adabas D"
+msgstr "Socraigh ceangal Adabas D"
 
 #: dbadminsetup.src#DLG_DATABASE_WIZARD.STR_PAGETITLE_ADO.string.text
 msgid "Set up ADO connection"
-msgstr "Socraigh nasc ADO"
+msgstr "Socraigh ceangal ADO"
 
 #: dbadminsetup.src#DLG_DATABASE_WIZARD.STR_PAGETITLE_JDBC.string.text
 msgid "Set up JDBC connection"
-msgstr "Socraigh nasc JDBC"
+msgstr "Socraigh ceangal JDBC"
 
 #: dbadminsetup.src#DLG_DATABASE_WIZARD.STR_PAGETITLE_ORACLE.string.text
 msgid "Set up Oracle database connection"
-msgstr "Socraigh nasc le Oracle"
+msgstr "Socraigh ceangal le Oracle"
 
 #: dbadminsetup.src#DLG_DATABASE_WIZARD.STR_PAGETITLE_MYSQL.string.text
 msgid "Set up MySQL connection"
-msgstr "Socraigh nasc MySQL"
+msgstr "Socraigh ceangal MySQL"
 
 #: dbadminsetup.src#DLG_DATABASE_WIZARD.STR_PAGETITLE_ODBC.string.text
 msgid "Set up ODBC connection"
-msgstr "Socraigh nasc ODBC"
+msgstr "Socraigh ceangal ODBC"
 
 #: dbadminsetup.src#DLG_DATABASE_WIZARD.STR_PAGETITLE_SPREADSHEET.string.text
 msgid "Set up Spreadsheet connection"
-msgstr "Socraigh nasc le Scarbhileog"
+msgstr "Socraigh ceangal le Scarbhileog"
 
 #: dbadminsetup.src#DLG_DATABASE_WIZARD.STR_PAGETITLE_AUTHENTIFICATION.string.text
 msgid "Set up user authentication"
@@ -7211,7 +7211,7 @@ msgstr "Bunachar Sonraí Nua"
 
 #: dbadminsetup.src#PAGE_DBWIZARD_MYSQL_INTRO.FT_MYSQL_HEADERTEXT.fixedtext.text
 msgid "Set up a connection to a MySQL database"
-msgstr "Socraigh nasc le bunachar sonraí MySQL"
+msgstr "Socraigh ceangal le bunachar sonraí MySQL"
 
 #: dbadminsetup.src#PAGE_DBWIZARD_MYSQL_INTRO.FT_MYSQL_HELPTEXT.fixedtext.text
 msgid ""
@@ -7226,19 +7226,19 @@ msgstr ""
 
 #: dbadminsetup.src#PAGE_DBWIZARD_MYSQL_INTRO.FT_MYSQLCONNECTIONMODE.fixedtext.text
 msgid "How do you want to connect to your MySQL database?"
-msgstr "Conas ba mhaith leat nascadh le do bhunachar sonraí MySQL?"
+msgstr "Conas ba mhaith leat ceangal le do bhunachar sonraí MySQL?"
 
 #: dbadminsetup.src#PAGE_DBWIZARD_MYSQL_INTRO.RB_CONNECTVIAODBC.radiobutton.text
 msgid "Connect using ODBC (Open Database Connectivity)"
-msgstr "Nasc trí ODBC (Open Database Connectivity)"
+msgstr "Ceangail trí ODBC (Open Database Connectivity)"
 
 #: dbadminsetup.src#PAGE_DBWIZARD_MYSQL_INTRO.RB_CONNECTVIAJDBC.radiobutton.text
 msgid "Connect using JDBC (Java Database Connectivity)"
-msgstr "Nasc trí JDBC (Java Database Connectivity)"
+msgstr "Ceangail trí JDBC (Java Database Connectivity)"
 
 #: dbadminsetup.src#PAGE_DBWIZARD_MYSQL_INTRO.RB_CONNECTVIANATIVE.radiobutton.text
 msgid "Connect native"
-msgstr "Nasc dúchasach"
+msgstr "Ceangal dúchasach"
 
 #: dbadminsetup.src#PAGE_DBWIZARD_AUTHENTIFICATION.FT_AUTHENTIFICATIONHEADERTEXT.fixedtext.text
 msgid "Set up the user authentication"
@@ -7262,7 +7262,7 @@ msgstr "Focal faire de ~dhíth"
 
 #: dbadminsetup.src#PAGE_DBWIZARD_AUTHENTIFICATION.PB_TESTCONNECTION.pushbutton.text
 msgid "~Test Connection"
-msgstr "Nasc ~Tástála"
+msgstr "Ceangal ~Tástála"
 
 #: dbadminsetup.src#PAGE_DBWIZARD_FINAL.FT_FINALHEADER.fixedtext.text
 msgid "Decide how to proceed after saving the database"
@@ -7303,7 +7303,7 @@ msgstr "Cliceáil 'Críochnaigh' chun an bunachar sonraí a shábháil."
 
 #: dbadminsetup.src#PAGE_DBWIZARD_MYSQL_JDBC.STR_MYSQLJDBC_HEADERTEXT.string.text
 msgid "Set up connection to a MySQL database using JDBC"
-msgstr "Nasc le bunachar sonraí MySQL trí JDBC"
+msgstr "Ceangail le bunachar sonraí MySQL trí JDBC"
 
 #: dbadminsetup.src#PAGE_DBWIZARD_MYSQL_JDBC.STR_MYSQLJDBC_HELPTEXT.string.text
 msgid ""
@@ -7331,7 +7331,7 @@ msgstr "Réamhshocrú: 3306"
 
 #: dbadminsetup.src#PAGE_DBWIZARD_MYSQL_NATIVE.STR_MYSQLJDBC_HEADERTEXT.string.text
 msgid "Set up connection to a MySQL database"
-msgstr "Socraigh nasc le bunachar sonraí MySQL"
+msgstr "Socraigh ceangal le bunachar sonraí MySQL"
 
 #: dbadminsetup.src#PAGE_DBWIZARD_MYSQL_NATIVE.STR_MYSQLJDBC_HELPTEXT.string.text
 msgid "Please enter the required information to connect to a MySQL database."
@@ -7347,7 +7347,7 @@ msgstr "Réamhshocrú: 3306"
 
 #: dbadminsetup.src#PAGE_DBWIZARD_DBASE.STR_DBASE_HEADERTEXT.string.text
 msgid "Set up a connection to dBASE files"
-msgstr "Socraigh nasc le comhaid dBASE"
+msgstr "Socraigh ceangal le comhaid dBASE"
 
 #: dbadminsetup.src#PAGE_DBWIZARD_DBASE.STR_DBASE_HELPTEXT.string.text
 msgid "Select the folder where the dBASE files are stored."
@@ -7356,7 +7356,7 @@ msgstr "Roghnaigh an fillteán ina stóráiltear na comhaid dBASE."
 #: dbadminsetup.src#PAGE_DBWIZARD_TEXT.STR_TEXT_HEADERTEXT.string.text
 msgctxt "dbadminsetup.src#PAGE_DBWIZARD_TEXT.STR_TEXT_HEADERTEXT.string.text"
 msgid "Set up a connection to text files"
-msgstr "Socraigh nasc le téacschomhaid"
+msgstr "Socraigh ceangal le téacschomhaid"
 
 #: dbadminsetup.src#PAGE_DBWIZARD_TEXT.STR_TEXT_HELPTEXT.string.text
 msgid ""
@@ -7372,7 +7372,7 @@ msgstr "Conair go téacschomhaid"
 
 #: dbadminsetup.src#PAGE_DBWIZARD_MSACCESS.STR_MSACCESS_HEADERTEXT.string.text
 msgid "Set up a connection to a Microsoft Access database"
-msgstr "Socraigh nasc le bunachar sonraí Microsoft Access"
+msgstr "Socraigh ceangal le bunachar sonraí Microsoft Access"
 
 #: dbadminsetup.src#PAGE_DBWIZARD_MSACCESS.STR_MSACCESS_HELPTEXT.string.text
 msgid "Please select the Microsoft Access file you want to access."
@@ -7380,7 +7380,7 @@ msgstr "Roghnaigh an comhad Microsoft Access gur mian leat a rochtain."
 
 #: dbadminsetup.src#PAGE_DBWIZARD_LDAP.FT_LDAP_HEADERTEXT.fixedtext.text
 msgid "Set up a connection to an LDAP directory"
-msgstr "Socraigh nasc le heolaire LDAP"
+msgstr "Socraigh ceangal le heolaire LDAP"
 
 #: dbadminsetup.src#PAGE_DBWIZARD_LDAP.FT_LDAP_HELPTEXT.fixedtext.text
 msgid ""
@@ -7403,7 +7403,7 @@ msgstr "Úsáid na~sc daingean (SSL)"
 
 #: dbadminsetup.src#PAGE_DBWIZARD_ADABAS.STR_ADABAS_HEADERTEXT.string.text
 msgid "Set up a connection to an Adabas D database"
-msgstr "Socraigh nasc le bunachar sonraí Adabas D"
+msgstr "Socraigh ceangal le bunachar sonraí Adabas D"
 
 #: dbadminsetup.src#PAGE_DBWIZARD_ADABAS.STR_ADABAS_HELPTEXT.string.text
 msgid ""
@@ -7412,13 +7412,13 @@ msgid ""
 "in %PRODUCTNAME."
 msgstr ""
 "Iontráil an t-ainm ar an bhunachar sonraí Adabas D lenar mhaith leat "
-"nascadh.\n"
+"ceangal.\n"
 "Cliceáil 'Brabhsáil...' chun roghnú óna bunachair sonraí Adabas D atá "
 "cláraithe cheana le %PRODUCTNAME."
 
 #: dbadminsetup.src#PAGE_DBWIZARD_ADO.STR_ADO_HEADERTEXT.string.text
 msgid "Set up a connection to an ADO database"
-msgstr "Socraigh nasc le bunachar sonraí ADO"
+msgstr "Socraigh ceangal le bunachar sonraí ADO"
 
 #: dbadminsetup.src#PAGE_DBWIZARD_ADO.STR_ADO_HELPTEXT.string.text
 msgid ""
@@ -7434,7 +7434,7 @@ msgstr ""
 
 #: dbadminsetup.src#PAGE_DBWIZARD_ODBC.STR_ODBC_HEADERTEXT.string.text
 msgid "Set up a connection to an ODBC database"
-msgstr "Socraigh nasc le bunachar sonraí ODBC"
+msgstr "Socraigh ceangal le bunachar sonraí ODBC"
 
 #: dbadminsetup.src#PAGE_DBWIZARD_ODBC.STR_ODBC_HELPTEXT.string.text
 msgid ""
@@ -7453,7 +7453,7 @@ msgstr ""
 
 #: dbadminsetup.src#PAGE_DBWIZARD_JDBC.STR_JDBC_HEADERTEXT.string.text
 msgid "Set up a connection to a JDBC database"
-msgstr "Socraigh nasc le bunachar sonraí JDBC"
+msgstr "Socraigh ceangal le bunachar sonraí JDBC"
 
 #: dbadminsetup.src#PAGE_DBWIZARD_JDBC.STR_JDBC_HELPTEXT.string.text
 msgid ""
@@ -7468,7 +7468,7 @@ msgstr ""
 
 #: dbadminsetup.src#PAGE_DBWIZARD_ORACLE.STR_ORACLE_HEADERTEXT.string.text
 msgid "Set up a connection to an Oracle database"
-msgstr "Socraigh nasc le bunachar sonraí Oracle"
+msgstr "Socraigh ceangal le bunachar sonraí Oracle"
 
 #: dbadminsetup.src#PAGE_DBWIZARD_ORACLE.STR_ORACLE_DEFAULT.string.text
 msgid "Default: 1521"
@@ -7494,7 +7494,7 @@ msgstr ""
 
 #: dbadminsetup.src#PAGE_DBWIZARD_SPREADSHEET.STR_SPREADSHEET_HEADERTEXT.string.text
 msgid "Set up a connection to spreadsheets"
-msgstr "Socraigh nasc le scarbhileoga"
+msgstr "Socraigh ceangal le scarbhileoga"
 
 #: dbadminsetup.src#PAGE_DBWIZARD_SPREADSHEET.STR_SPREADSHEET_HELPTEXT.string.text
 msgid ""
@@ -7576,7 +7576,7 @@ msgstr "D'éirigh leis an ordú."
 #: directsql.src#STR_DIRECTSQL_CONNECTIONLOST.string.text
 msgid ""
 "The connection to the database has been lost. This dialog will be closed."
-msgstr "Cailleadh an nasc leis an bhunachar sonraí. Dúnfar an dialóg seo."
+msgstr "Cailleadh an ceangal leis an bhunachar sonraí. Dúnfar an dialóg seo."
 
 #: dlgattr.src#DLG_ATTR.1.pushbutton.text
 msgid "Bac~k"
@@ -8483,7 +8483,7 @@ msgid ""
 "The table cannot be deleted because the database connection does not support "
 "this."
 msgstr ""
-"Ní féidir an tábla a scriosadh toisc nach dtacaíonn an nasc bunachair sonraí "
+"Ní féidir an tábla a scriosadh toisc nach dtacaíonn an ceangal bunachair sonraí "
 "leis seo."
 
 #: dbumiscres.src#STR_BUTTON_TEXT_ALL.string.text
@@ -9316,15 +9316,15 @@ msgid ""
 "with limited functionality without a connection.\n"
 "Reconnect?"
 msgstr ""
-"Cailleadh an nasc leis an mbunachar sonraí! Beidh feidhmiúlacht an dearadh "
-"tábla an-teoranta gan an nasc úd. \n"
-"Athnasc?"
+"Cailleadh an ceangal leis an mbunachar sonraí! Beidh feidhmiúlacht an dearadh "
+"tábla an-teoranta gan an ceangal úd. \n"
+"Athcheangail?"
 
 #: table.src#STR_TABLEDESIGN_CONNECTION_MISSING.string.text
 msgid ""
 "The table could not be saved due to problems connecting to the database."
 msgstr ""
-"Ní féidir an tábla a shábháil ó tharla go raibh fadhbanna ag nascadh leis an "
+"Ní féidir an tábla a shábháil ó tharla go raibh fadhbanna ag ceangal leis an "
 "bhunachar sonraí."
 
 #: table.src#STR_TABLEDESIGN_DATASOURCE_DELETED.string.text
@@ -9563,7 +9563,7 @@ msgstr ""
 
 #: desktop.src#STR_CONFIG_ERR_CANNOT_CONNECT.string.text
 msgid "A connection to the central configuration could not be established. "
-msgstr "Níorbh fhéidir nasc a bhunú leis an gcumraíocht lárnach. "
+msgstr "Níorbh fhéidir ceangal a bhunú leis an gcumraíocht lárnach. "
 
 #: desktop.src#STR_CONFIG_ERR_RIGHTS_MISSING.string.text
 msgid ""
@@ -10690,7 +10690,7 @@ msgid ""
 "If you do not want to reuse any settings in %PRODUCTNAME %PRODUCTVERSION, "
 "unmark the check box."
 msgstr ""
-"Is féidir an chuid is mó do shonraí pearsanta ó shuiteáil %OLDPRODUCT a "
+"Is féidir an chuid is mó de do shonraí pearsanta ó shuiteáil %OLDPRODUCT a "
 "athúsáid i %PRODUCTNAME %PRODUCTVERSION.\n"
 "\n"
 "Mura bhfuil tú ag iarraidh aon sonraí a athúsáid i %PRODUCTNAME %"
@@ -11219,7 +11219,7 @@ msgstr "Cruthaigh Foinse Sonraí Seolta"
 
 #: abspilot.src#RID_STR_NOCONNECTION.string.text
 msgid "The connection could not be established."
-msgstr "Níorbh fhéidir an nasc a bhunú."
+msgstr "Níorbh fhéidir an ceangal a bhunú."
 
 #: abspilot.src#RID_STR_PLEASECHECKSETTINGS.string.text
 msgid "Please check the settings made for the data source."
@@ -14492,7 +14492,7 @@ msgstr "~Leanúnach"
 
 #: impdialog.src#RID_PDF_TAB_OPNFTR.RB_PGLY_CONTFAC.radiobutton.text
 msgid "C~ontinuous facing"
-msgstr ""
+msgstr "L~eanúnach: aghaidh ar aghaidh"
 
 #: impdialog.src#RID_PDF_TAB_OPNFTR.CB_PGLY_FIRSTLEFT.checkbox.text
 msgid "First page is ~left"
@@ -14561,7 +14561,7 @@ msgstr "Gach leibhéal leabharmhairc"
 
 #: impdialog.src#RID_PDF_TAB_VPREFER.RB_VISIBLEBOOKMARKLEVELS.radiobutton.text
 msgid "Visible bookmark levels"
-msgstr ""
+msgstr "Líon na leibhéal infheicthe"
 
 #: impdialog.src#RID_PDF_TAB_VPREFER.tabpage.text
 msgctxt "impdialog.src#RID_PDF_TAB_VPREFER.tabpage.text"
@@ -15170,7 +15170,7 @@ msgstr "Earráid agus sonraí á léamh ón bhunachar sonraí"
 
 #: strings.src#RID_STR_CONNECTERROR.string.text
 msgid "Connection failed"
-msgstr "Theip ar nascadh"
+msgstr "Theip ar cheangal"
 
 #: strings.src#RID_ERR_LOADING_FORM.string.text
 msgid "The data content could not be loaded."
@@ -15739,7 +15739,7 @@ msgstr "Il-teangacha"
 #: resource.src#STR_LANGSTATUS_NONE.string.text
 #: olmenu.src#STR_LANGSTATUS_NONE.string.text
 msgid "None (Do not check spelling)"
-msgstr ""
+msgstr "Faic (Ná seiceáil an litriú)"
 
 #: resource.src#STR_LANGSTATUS_MORE.string.text
 #: globstr.src#RID_GLOBSTR.STR_FUNCTIONLIST_MORE.string.text
@@ -15789,11 +15789,11 @@ msgstr "Cuir gnéithe nua le %PRODUCTNAME"
 
 #: fwk_services.src#DLG_BACKING.STR_BACKING_REGHELP.string.text
 msgid "Register your %PRODUCTNAME"
-msgstr ""
+msgstr "Cláraigh le %PRODUCTNAME"
 
 #: fwk_services.src#DLG_BACKING.STR_BACKING_INFOHELP.string.text
 msgid "Get more information about %PRODUCTNAME"
-msgstr ""
+msgstr "Tuilleadh eolais faoi %PRODUCTNAME"
 
 #: fwk_services.src#DLG_BACKING.STR_BACKING_TPLREP.string.text
 msgid "Get more templates for %PRODUCTNAME"
@@ -29081,7 +29081,7 @@ msgctxt ""
 "ChartCommands.xcu#..ChartCommands.UserInterface.Commands..uno_Backward.Label."
 "value.text"
 msgid "Send Back~ward"
-msgstr "Seol ar ~Chúl"
+msgstr "Cuir ar g~Cúl"
 
 #: ChartCommands.xcu#..ChartCommands.UserInterface.Commands..uno_DiagramAxisA.Label.value.text
 msgid "~Secondary X Axis..."
@@ -29432,7 +29432,7 @@ msgstr "Treoraí Tuairisce..."
 
 #: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBDSConnectionType.Label.value.text
 msgid "Connection Type..."
-msgstr "Cineál Naisc..."
+msgstr "Cineál an Cheangail..."
 
 #: DbuCommands.xcu#..DbuCommands.UserInterface.Commands..uno_DBDSAdvancedSettings.Label.value.text
 msgid "Advanced Settings..."
@@ -30084,7 +30084,7 @@ msgctxt ""
 "DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands.."
 "uno_Backward.Label.value.text"
 msgid "Send Back~ward"
-msgstr "Seol ar ~Chúl"
+msgstr "Cuir ar g~Cúl"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_MirrorVert.Label.value.text
 #: objdraw.src#MN_MIRRORSUB.SUBMENU_OBJMIRROR.SID_MIRROR_VERTICAL.menuitem.text
@@ -30247,7 +30247,7 @@ msgstr "Cuir i gCiorcal (camtha)"
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_Connect.Label.value.text
 #: menuids_tmpl.src#MN_CONNECT.SID_CONNECT.menuitem.text
 msgid "C~onnect"
-msgstr "~Nasc"
+msgstr "~Ceangail"
 
 #: DrawImpressCommands.xcu#..DrawImpressCommands.UserInterface.Commands..uno_AdvancedMode.Label.value.text
 #: pubdlg.src#DLG_PUBLISHING.PAGE3_TITEL_3.fixedline.text
@@ -34886,14 +34886,14 @@ msgstr "~Breiseán..."
 #: menuids_tmpl.src#MN_POSITION.SID_POSITION.SID_FRAME_TO_TOP.menuitem.text
 #: globlmn_tmpl.hrc#ITEM_FORMAT_FRAME_TO_TOP.#define.text
 msgid "~Bring to Front"
-msgstr "~Tarraing chun Tosaigh"
+msgstr "~Tarraing go dtí an Tosach"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_SendToBack.Label.value.text
 #: menuids_tmpl.src#MN_POSITION.SID_POSITION.SID_FRAME_TO_BOTTOM.menuitem.text
 #: globlmn_tmpl.hrc#ITEM_FORMAT_FRAME_TO_BOTTOM.#define.text
 #: imapdlg.src#RID_SVXMN_IMAP.MN_POSITION.MN_FRAME_TO_BOTTOM.menuitem.text
 msgid "~Send to Back"
-msgstr "~Cuir go dtí an cúl"
+msgstr "~Cuir go dtí an Cúl"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_SourceView.Label.value.text
 #: docvw.src#MN_READONLY_POPUP.MN_READONLY_SOURCEVIEW.menuitem.text
@@ -39348,7 +39348,7 @@ msgstr "~Caighdeánach"
 
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Commands..uno_SelectionModeBlock.Label.value.text
 msgid "~Block Area"
-msgstr ""
+msgstr "Roghnaigh ~Bloc"
 
 # main window
 #: WriterCommands.xcu#..WriterCommands.UserInterface.Popups..uno_TableMenu.Label.value.text
@@ -41395,11 +41395,11 @@ msgstr "Cuir ~printéir leis"
 
 #: padialog.src#RID_ADDP_PAGE_CHOOSEDEV.RID_ADDP_CHDEV_BTN_FAX.radiobutton.text
 msgid "Connect a fa~x device"
-msgstr "Nasc le gléas fa~cs"
+msgstr "Ceangail le gléas fa~cs"
 
 #: padialog.src#RID_ADDP_PAGE_CHOOSEDEV.RID_ADDP_CHDEV_BTN_PDF.radiobutton.text
 msgid "Connect a P~DF converter"
-msgstr "Nasc le tiontaire P~DF"
+msgstr "Ceangail le tiontaire P~DF"
 
 #: padialog.src#RID_ADDP_PAGE_CHOOSEDEV.RID_ADDP_CHDEV_BTN_OLD.radiobutton.text
 msgid "~Import printers from a StarOffice installation"
@@ -41415,11 +41415,11 @@ msgstr "Roghnaigh ainm ar an phrintéir le do thoil."
 
 #: padialog.src#RID_ADDP_PAGE_NAME.RID_ADDP_NAME_TXT_FAXNAME.fixedtext.text
 msgid "Please enter a name for the fax connection."
-msgstr "Roghnaigh ainm ar an nasc facs le do thoil."
+msgstr "Roghnaigh ainm ar an gceangal facs le do thoil."
 
 #: padialog.src#RID_ADDP_PAGE_NAME.RID_ADDP_NAME_TXT_PDFNAME.fixedtext.text
 msgid "Please enter a name for the PDF connection."
-msgstr "Roghnaigh ainm ar an nasc PDF le do thoil."
+msgstr "Roghnaigh ainm ar an gceangal PDF le do thoil."
 
 #: padialog.src#RID_ADDP_PAGE_NAME.RID_ADDP_NAME_EDT_FAXNAME.edit.text
 msgid "Fax printer"
@@ -41512,7 +41512,7 @@ msgstr "Roghnaigh tiománaí"
 
 #: padialog.src#RID_ADDP_PAGE_FAXDRIVER.RID_ADDP_FAXDRV_TXT_DRIVER.fixedtext.text
 msgid "Use the following driver for this fax connection"
-msgstr "Úsáid an tiománaí seo a leanas don nasc faics seo"
+msgstr "Úsáid an tiománaí seo a leanas don cheangal faics seo"
 
 #: padialog.src#RID_ADDP_PAGE_FAXDRIVER.RID_ADDP_FAXDRV_BTN_DEFAULT.radiobutton.text
 msgctxt ""
@@ -43630,7 +43630,7 @@ msgstr "Tarraing Chun ~Tosaigh"
 #: imapdlg.src#RID_SVXMN_IMAP.MN_POSITION.MN_MOREBACK.menuitem.text
 #: mn.src#MN_ONE_STEP.FN_FRAME_DOWN.menuitem.text
 msgid "Send Back~ward"
-msgstr "Seol ar ~Chúl"
+msgstr "Cuir ar g~Cúl"
 
 #: report.src#RID_MENU_REPORT.SID_OBJECT_RESIZING.SID_OBJECT_SMALLESTWIDTH.menuitem.text
 msgid "~Fit to smallest width"
@@ -52312,7 +52312,7 @@ msgstr "Tarraing Chun ~Tosaigh"
 msgctxt ""
 "drformsh.src#MN_ARRANGESUB.SUBMENU_OBJARRANGE.SID_FRAME_DOWN.menuitem.text"
 msgid "Send Back~ward"
-msgstr "Seol ar ~Chúl"
+msgstr "Cuir ar g~Cúl"
 
 #: drformsh.src#MN_ARRANGESUB.SUBMENU_OBJARRANGE.menuitem.text
 msgctxt "drformsh.src#MN_ARRANGESUB.SUBMENU_OBJARRANGE.menuitem.text"
@@ -52428,7 +52428,7 @@ msgstr "Tarraing Chun ~Tosaigh"
 msgctxt ""
 "objdraw.src#MN_ARRANGESUB.SUBMENU_OBJARRANGE.SID_FRAME_DOWN.menuitem.text"
 msgid "Send Back~ward"
-msgstr "Seol ar ~Chúl"
+msgstr "Cuir ar g~Cúl"
 
 #: objdraw.src#MN_ARRANGESUB.SUBMENU_OBJARRANGE.menuitem.text
 msgctxt "objdraw.src#MN_ARRANGESUB.SUBMENU_OBJARRANGE.menuitem.text"
@@ -57745,7 +57745,7 @@ msgstr "%PRODUCTNAME Calc"
 
 #: scerrors.src#RID_ERRHDLSC.SCERR_IMPORT_CONNECT___ERRCODE_RES_MASK.string.text
 msgid "Impossible to connect to the file."
-msgstr "Ní féidir nasc leis an gcomhad."
+msgstr "Ní féidir ceangal leis an gcomhad."
 
 #: scerrors.src#RID_ERRHDLSC.SCERR_IMPORT_OPEN___ERRCODE_RES_MASK.string.text
 msgid "File could not be opened."
@@ -57811,7 +57811,7 @@ msgstr "D'aimsigh earráid fhormáide sa chomhad ag $(ARG1)(row,col)."
 
 #: scerrors.src#RID_ERRHDLSC.SCERR_EXPORT_CONNECT___ERRCODE_RES_MASK.string.text
 msgid "Connection to the file could not be established."
-msgstr "Níorbh fhéidir nasc a bhunú leis an gcomhad."
+msgstr "Níorbh fhéidir ceangal a bhunú leis an gcomhad."
 
 #: scerrors.src#RID_ERRHDLSC.SCERR_EXPORT_DATA___ERRCODE_RES_MASK.string.text
 msgid "Data could not be written."
@@ -68652,7 +68652,7 @@ msgstr "Tarraing Chun ~Tosaigh"
 #: menuids2_tmpl.src#MN_MOREBACK.SID_MOREBACK.menuitem.text
 msgctxt "menuids2_tmpl.src#MN_MOREBACK.SID_MOREBACK.menuitem.text"
 msgid "Send Back~ward"
-msgstr "Seol ar ~Chúl"
+msgstr "Cuir ar g~Cúl"
 
 #: menuids2_tmpl.src#MN_BEFORE_OBJ.SID_BEFORE_OBJ.menuitem.text
 msgctxt "menuids2_tmpl.src#MN_BEFORE_OBJ.SID_BEFORE_OBJ.menuitem.text"
@@ -68882,7 +68882,7 @@ msgstr "Tarraing Chun ~Tosaigh"
 #: menuids_tmpl.src#MN_POSITION.SID_POSITION.SID_MOREBACK.menuitem.text
 msgctxt "menuids_tmpl.src#MN_POSITION.SID_POSITION.SID_MOREBACK.menuitem.text"
 msgid "Send Back~ward"
-msgstr "Seol ar ~Chúl"
+msgstr "Cuir ar g~Cúl"
 
 #: menuids_tmpl.src#MN_POSITION.SID_POSITION.SID_BEFORE_OBJ.menuitem.text
 msgctxt ""
@@ -73765,7 +73765,7 @@ msgstr "Cáipéis á Luchtú"
 
 #: doc.src#RID_DLSTATUS.INET_NAME_RESOLVE_START.string.text
 msgid "Connection to: $(HOST). Waiting for response..."
-msgstr "Nasc le: $(HOST). Ag feitheamh le freagra..."
+msgstr "Ceangal le: $(HOST). Ag feitheamh le freagra..."
 
 #: doc.src#RID_DLSTATUS.INET_CONNECT_START.string.text
 msgid "Opening $(TARGET) at $(HOST)"
@@ -77067,7 +77067,7 @@ msgstr "Earráid Ghinearálta OLE."
 
 #: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_CANT_BINDTOSOURCE_S_MAX.string.text
 msgid "The connection to the object cannot be established."
-msgstr "Ní féidir nasc a bhunú leis an réad."
+msgstr "Ní féidir ceangal a bhunú leis an réad."
 
 #: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_NOCACHE_UPDATED_S_MAX.string.text
 msgid "No cache files were updated."
@@ -77096,7 +77096,7 @@ msgstr ""
 
 #: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_CONNECT_MANUALLY_S_MAX.string.text
 msgid "OLE could not connect to a network device (server)."
-msgstr "Níorbh fhéidir le OLE nasc a dhéanamh le gléas líonra (freastalaí)."
+msgstr "Níorbh fhéidir le OLE ceangal a dhéanamh le gléas líonra (freastalaí)."
 
 #: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_INTERMEDIATE_INTERFACE_NOT_SUPPORTED_S_MAX.string.text
 msgid ""
@@ -77116,15 +77116,15 @@ msgstr "Cuimhne easnamhach."
 
 #: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_SYNTAX_S_MAX.string.text
 msgid "The connection name could not be processed."
-msgstr "Níorbh fhéidir ainm an naisc a phróiseáil."
+msgstr "Níorbh fhéidir ainm an cheangail a phróiseáil."
 
 #: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_REDUCED_TO_SELF_S_MAX.string.text
 msgid "The connection name could not be reduced further."
-msgstr "Níorbh fhéidir ainm an naisc a mhiondealú a thuilleadh."
+msgstr "Níorbh fhéidir ainm an cheangail a mhiondealú a thuilleadh."
 
 #: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_NO_INVERSE_S_MAX.string.text
 msgid "The connection name has no inverse."
-msgstr "Níl inbhéarta ag ainm an naisc."
+msgstr "Níl inbhéarta ag ainm an cheangail."
 
 #: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_NO_PREFIX_S_MAX.string.text
 msgid "No common prefix exists."
@@ -77133,22 +77133,22 @@ msgstr "Níl aon chomhréimír ann."
 #: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_HIM_S_MAX.string.text
 msgctxt "so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_HIM_S_MAX.string.text"
 msgid "The connection name is contained in the other one."
-msgstr "Tá ainm an naisc isteach sa cheann eile."
+msgstr "Tá ainm an cheangail isteach sa cheann eile."
 
 #: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_US_S_MAX.string.text
 msgid ""
 "The connection names (the receiver and the other moniker) are identical."
 msgstr ""
-"Is ionann iad ainmneacha na nasc (an faighteoir agus an leasainm eile)."
+"Is ionann iad ainmneacha na gceangal (an faighteoir agus an leasainm eile)."
 
 #: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_ME_S_MAX.string.text
 msgctxt "so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_ME_S_MAX.string.text"
 msgid "The connection name is contained in the other one."
-msgstr "Tá ainm an naisc isteach sa cheann eile."
+msgstr "Tá ainm an cheangail isteach sa cheann eile."
 
 #: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_NOT_BINDABLE_S_MAX.string.text
 msgid "The connection name cannot be connected. This is a relative name."
-msgstr "Ní féidir ceangal le hainm an naisc. Is ainm coibhneasta é seo."
+msgstr "Ní féidir ceangal le hainm an cheangail. Is ainm coibhneasta é seo."
 
 #: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_NOT_IMPLEMENTED_S_MAX.string.text
 msgid "Operation not implemented."
@@ -77196,7 +77196,7 @@ msgstr "Níl an gníomh sainmhínithe. Déanfar an gníomh réamhshocraithe."
 
 #: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_CONNECT___S_MAX.string.text
 msgid "A link to the network could not be re-established."
-msgstr "Níorbh fhéidir nasc a athbhunú leis an líonra."
+msgstr "Níorbh fhéidir ceangal a athbhunú leis an líonra."
 
 #: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_NOTIMPL___S_MAX.string.text
 msgid "Object does not support this action."
@@ -77889,7 +77889,7 @@ msgstr "Tiomántán logánta"
 #: mediatyp.src#STR_SVT_MIMETYPE_CNT_REM_VOL.string.text
 #: imagemgr.src#STR_DESCRIPTION_REMOTE_VOLUME.string.text
 msgid "Network connection"
-msgstr "Nasc líonra"
+msgstr "Ceangal líonra"
 
 #: mediatyp.src#STR_SVT_MIMETYPE_CNT_RAM_VOL.string.text
 msgid "RAM Disk"
@@ -78378,7 +78378,7 @@ msgstr "Níorbh fhéidir óstainm $(ARG1) a réiteach."
 
 #: errtxt.src#RID_ERRHDL.ERRCODE_INET_CONNECT.string.text
 msgid "Could not establish Internet connection to $(ARG1)."
-msgstr "Níorbh fhéidir nasc Idirlín a bhunú le $(ARG1)."
+msgstr "Níorbh fhéidir ceangal Idirlín a bhunú le $(ARG1)."
 
 #: errtxt.src#RID_ERRHDL.ERRCODE_INET_READ.string.text
 msgid ""
@@ -82120,11 +82120,11 @@ msgstr "-"
 
 #: connpooloptions.src#RID_OFAPAGE_CONNPOOLOPTIONS.FL_POOLING.fixedline.text
 msgid "Connection pool"
-msgstr "Linn nasctha"
+msgstr "Linn ceangailte"
 
 #: connpooloptions.src#RID_OFAPAGE_CONNPOOLOPTIONS.CB_POOL_CONNS.checkbox.text
 msgid "Connection pooling enabled"
-msgstr "Linn nasctha cumasaithe"
+msgstr "Linn ceangailte cumasaithe"
 
 #: connpooloptions.src#RID_OFAPAGE_CONNPOOLOPTIONS.FT_DRIVERS.fixedtext.text
 msgid "Drivers known in %PRODUCTNAME"
@@ -83970,7 +83970,7 @@ msgid ""
 "connection."
 msgstr ""
 "Seo í an áit ina gcruthaíonn tú hipearnasc le leathanach Gréasáin, "
-"freastalaí FTP nó nasc Telnet."
+"freastalaí FTP nó ceangal Telnet."
 
 #: hyperdlg.src#RID_SVXSTR_HYPERDLG_HLMAILTP.string.text
 msgid "Mail & News"
@@ -84214,7 +84214,7 @@ msgstr "Gníomhach"
 
 #: imapdlg.src#RID_SVXMN_IMAP.MN_POSITION.MN_FRAME_TO_TOP.menuitem.text
 msgid "Bring to Front"
-msgstr "Tarraing chun Tosaigh"
+msgstr "Tarraing go dtí an Tosach"
 
 #: imapdlg.src#RID_SVXMN_IMAP.MN_DELETE1.menuitem.text
 msgctxt "imapdlg.src#RID_SVXMN_IMAP.MN_DELETE1.menuitem.text"
@@ -90996,7 +90996,7 @@ msgstr "Comhoiriúnacht HTML"
 
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SB_STARBASEOPTIONS.2.itemlist.text
 msgid "Connections"
-msgstr "Naisc"
+msgstr "Ceangail"
 
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SB_STARBASEOPTIONS.3.itemlist.text
 msgid "Databases"
@@ -99780,7 +99780,7 @@ msgstr "Ailínigh leis an mBarr"
 
 #: swslots.src#FN_FRAME_DOWN.sfxslotinfo.text
 msgid "Send Backward"
-msgstr "Seol ar Chúl"
+msgstr "Cuir ar gCúl"
 
 #: swslots.src#FN_FRAME_UP.sfxslotinfo.text
 msgid "Bring Forward"
@@ -101160,10 +101160,10 @@ msgid ""
 "\n"
 "Please check the connections settings."
 msgstr ""
-"Níor aimsíodh foinse sonraí \\'%1\\'. Mar sin, níorbh fhéidir nasc le foinse "
+"Níor aimsíodh foinse sonraí \\'%1\\'. Mar sin, níorbh fhéidir ceangal le foinse "
 "na sonraí a chruthú.\n"
 "\n"
-"Seiceáil socruithe an naisc."
+"Seiceáil socruithe an cheangail."
 
 #: app.src#DLG_MERGE_SOURCE_UNAVAILABLE.PB_MERGE_OK.okbutton.text
 msgid "Check Connection Settings..."
@@ -102000,7 +102000,7 @@ msgstr "Ainm an fhrea~stalaí"
 
 #: mailconfigpage.src#TP_MAILCONFIG.CB_SECURE.checkbox.text
 msgid "~Use secure connection (SSL)"
-msgstr "Ú~sáid nasc daingean (SSL)"
+msgstr "Ú~sáid ceangal daingean (SSL)"
 
 #: mailconfigpage.src#TP_MAILCONFIG.PB_AUTHENTICATION.pushbutton.text
 msgid "Server Au~thentication"
@@ -102029,7 +102029,7 @@ msgstr "Tasc"
 
 #: mailconfigpage.src#ST_ESTABLISH.string.text
 msgid "Establish network connection"
-msgstr "Bunaigh nasc líonra"
+msgstr "Bunaigh ceangal líonra"
 
 #: mailconfigpage.src#ST_FINDSERVER.string.text
 msgid "Find outgoing mail server"
@@ -102049,9 +102049,9 @@ msgid ""
 "system's settings and the settings in %PRODUCTNAME. Check the server name, "
 "the port and the secure connections settings"
 msgstr ""
-"Níorbh fhéidir le %PRODUCTNAME nascadh leis an bhfreastalaí ríomhphoist "
+"Níorbh fhéidir le %PRODUCTNAME ceangal leis an bhfreastalaí ríomhphoist "
 "amach. Seiceáil socruithe do chórais agus na socruithe %PRODUCTNAME. "
-"Seiceáil ainm an fhreastalaí, an port, agus na socruithe naisc daingin"
+"Seiceáil ainm an fhreastalaí, an port, agus na socruithe ceangail daingin"
 
 #: mailconfigpage.src#DLG_MM_SERVERAUTHENTICATION.CB_AUTHENTICATION.checkbox.text
 msgid "The outgoing mail server (SMTP) requires au~thentication"
@@ -103076,11 +103076,11 @@ msgstr "Treoraí Postchumaisc"
 
 #: mailmergechildwindow.src#FL_STATUS.fixedline.text
 msgid "Connection status"
-msgstr "Stádas naisc"
+msgstr "Stádas an cheangail"
 
 #: mailmergechildwindow.src#FT_STATUS1.fixedtext.text
 msgid "The connection to the outgoing mail server has been established"
-msgstr "Bunaíodh an nasc leis an bhfreastalaí poist amach"
+msgstr "Bunaíodh an ceangal leis an bhfreastalaí poist amach"
 
 #: mailmergechildwindow.src#ST_SEND.string.text
 msgid "Sending e-mails..."
@@ -104232,8 +104232,8 @@ msgid ""
 "A file connection will delete the contents of the current section. Connect "
 "anyway?"
 msgstr ""
-"Scriosfar a bhfuil sa rannán reatha má dhéantar nasc comhaid. Ar mhaith leat "
-"nasc a dhéanamh ainneoin é sin?"
+"Scriosfar a bhfuil sa rannán reatha má dhéantar ceangal comhaid. Ar mhaith leat "
+"ceangal a dhéanamh ainneoin é sin?"
 
 #: regionsw.src#REG_WRONG_PASSWORD.infobox.text
 msgid "The password entered is invalid."
@@ -105161,7 +105161,7 @@ msgstr "Ó ~theimpléad"
 #: mailmrge.src#DLG_MERGE_FIELD_CONNECTIONS.FL_CONNECTIONS.fixedline.text
 #: dbwizres.src#RID_WEBWIZARDDIALOG_FTP__3.string.text
 msgid "Connect"
-msgstr "Nasc"
+msgstr "Ceangail"
 
 #: mailmrge.src#DLG_MERGE_FIELD_CONNECTIONS.RB_USEEXISTING.radiobutton.text
 msgid "~Use existing"
@@ -105169,7 +105169,7 @@ msgstr "Úsáid an ~ceann atá ann"
 
 #: mailmrge.src#DLG_MERGE_FIELD_CONNECTIONS.RB_CREATENEW.radiobutton.text
 msgid "~Create new connection"
-msgstr "~Cruthaigh nasc nua"
+msgstr "~Cruthaigh ceangal nua"
 
 #: mailmrge.src#DLG_MERGE_FIELD_CONNECTIONS.FT_INFO.fixedtext.text
 msgid ""
@@ -105184,7 +105184,7 @@ msgstr ""
 
 #: mailmrge.src#DLG_MERGE_FIELD_CONNECTIONS.modaldialog.text
 msgid "Data Source Connection"
-msgstr "Nasc le Foinse Sonraí"
+msgstr "Ceangal le Foinse Sonraí"
 
 #: changedb.src#DLG_CHANGE_DB.FL_DBLIST.fixedline.text
 msgid "Exchange databases"
@@ -109626,6 +109626,7 @@ msgstr "Carachtair Fhoscríbhinne"
 msgid "Numbering Symbols"
 msgstr "Siombailí Uimhrithe"
 
+# not internet connection
 #: poolfmt.src#STR_POOLCHR_INET_NORMAL.string.text
 msgid "Internet Link"
 msgstr "Nasc Idirlín"
@@ -111297,7 +111298,7 @@ msgstr "Taispeáin an Teastas"
 
 #: sslwarndlg.src#DLG_UUI_SSLWARN.PB_CANCEL.cancelbutton.text
 msgid "Cancel Connection"
-msgstr "Cealaigh an Nasc"
+msgstr "Cealaigh an Ceangal"
 
 #: sslwarndlg.src#DLG_UUI_SSLWARN.modaldialog.text
 msgid "Security Warning: "
@@ -111969,7 +111970,7 @@ msgstr "Tharla earráid agus an treoraí i mbun oibre. Tobscoirfear an treoraí.
 
 #: dbwizres.src#RID_DB_COMMON_START___14.string.text
 msgid "No connection to the database could be established."
-msgstr "Níorbh fhéidir nasc a bhunú leis an mbunachar sonraí."
+msgstr "Níorbh fhéidir ceangal a bhunú leis an mbunachar sonraí."
 
 #: dbwizres.src#RID_DB_COMMON_START___20.string.text
 msgctxt "dbwizres.src#RID_DB_COMMON_START___20.string.text"
@@ -111986,7 +111987,7 @@ msgstr "Ag fágáil an treoraí"
 
 #: dbwizres.src#RID_DB_COMMON_START___35.string.text
 msgid "The connection to the data source could not be established."
-msgstr "Níorbh fhéidir nasc a bhunú leis an bhfoinse sonraí."
+msgstr "Níorbh fhéidir ceangal a bhunú leis an bhfoinse sonraí."
 
 #: dbwizres.src#RID_DB_COMMON_START___36.string.text
 msgid "The file path entered is not valid."
@@ -114188,7 +114189,7 @@ msgstr "Níor aimsíodh an comhad ansin. Ar mhaith leat suíomh nua a shonrú?"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_FTP__0.string.text
 msgid "FTP Connection"
-msgstr "Nasc FTP"
+msgstr "Ceangal FTP"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_FTP__1.string.text
 msgid "~User name:"
@@ -114200,7 +114201,7 @@ msgstr "~Focal Faire:"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_FTP__4.string.text
 msgid "1. Enter FTP connection information."
-msgstr "1. Iontráil eolas faoin nasc FTP."
+msgstr "1. Iontráil eolas faoin cheangal FTP."
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_FTP__5.string.text
 msgid "~Server name or IP address:"
@@ -114208,7 +114209,7 @@ msgstr "Ainm an fhrea~stalaí nó a sheoladh IP:"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_FTP__6.string.text
 msgid "2. Connect to the server."
-msgstr "2. Nasc leis an bhfreastalaí."
+msgstr "2. Ceangail leis an bhfreastalaí."
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_FTP__7.string.text
 msgid "3. ~Choose a remote directory (optional)."
@@ -114221,7 +114222,7 @@ msgstr "..."
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_FTP__9.string.text
 msgid "Connection status is unknown"
-msgstr "Ní fios stádas an naisc"
+msgstr "Ní fios stádas an cheangail"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_FTP__10.string.text
 msgid "Connection was established successfully"
@@ -114241,7 +114242,7 @@ msgstr "Níl go leor ceadanna agat"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_FTP__14.string.text
 msgid "Cannot connect to server"
-msgstr "Ní féidir nascadh leis an fhreastalaí"
+msgstr "Ní féidir ceangal leis an fhreastalaí"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_FTP__15.string.text
 msgid "Unexpected error"
@@ -114257,7 +114258,7 @@ msgstr "Ní fillteán FTP é seo"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_FTP__18.string.text
 msgid "Connecting..."
-msgstr "Á Nascadh..."
+msgstr "Á Cheangal..."
 
 #: dbwizres.src#RID_AGENDAWIZARDDIALOG_START__1.string.text
 msgid "Agenda Wizard"
