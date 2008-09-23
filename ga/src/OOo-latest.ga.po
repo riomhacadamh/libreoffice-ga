@@ -14051,7 +14051,7 @@ msgstr "BMP - Mapa Giotáin Windows"
 
 #: dxf_Import.xcu#dxf_Import.UIName.value.text
 msgid "DXF - AutoCAD Interchange Format"
-msgstr ""
+msgstr "DXF - Formáid Idirmhalartaithe AutoCAD"
 
 #: emf_Export.xcu#emf_Export.UIName.value.text
 msgctxt "emf_Export.xcu#emf_Export.UIName.value.text"
@@ -14185,7 +14185,7 @@ msgstr "RAS - Íomhá Rastair Sun"
 
 #: sgf_Import.xcu#sgf_Import.UIName.value.text
 msgid "SGF - StarWriter Graphics Format"
-msgstr ""
+msgstr "SGF - Formáid Grafaice StarWriter"
 
 #: sgv_Import.xcu#sgv_Import.UIName.value.text
 msgid "SGV - StarDraw 2.0"
@@ -14398,7 +14398,7 @@ msgstr "Ginearálta"
 
 #: impdialog.src#CB_PDFA_1B_SELECT.checkbox.text
 msgid "P~DF/A-1"
-msgstr ""
+msgstr "P~DF/A-1"
 
 #: impdialog.src#CB_TAGGEDPDF.checkbox.text
 msgid "~Tagged PDF"
@@ -14426,7 +14426,7 @@ msgstr "Ea~spórtáil leathanaigh fholmha a ionsádh go huathoibríoch"
 
 #: impdialog.src#CB_ADDSTREAM.checkbox.text
 msgid "Create ~hybrid file"
-msgstr ""
+msgstr "Cruthaigh comhad ~hibrideach"
 
 #: impdialog.src#RID_PDF_TAB_OPNFTR.FL_INITVIEW.fixedline.text
 msgid "Panes"
@@ -14647,19 +14647,19 @@ msgstr "Slándáil"
 
 #: impdialog.src#RID_PDF_TAB_LINKS.CB_EXP_BMRK_TO_DEST.checkbox.text
 msgid "Export bookmarks as named destinations"
-msgstr ""
+msgstr "Easpórtáil leabharmharcanna mar spriocanna ainmnithe"
 
 #: impdialog.src#RID_PDF_TAB_LINKS.CB_CNV_OOO_DOCTOPDF.checkbox.text
 msgid "Convert document references to PDF targets"
-msgstr ""
+msgstr "Tiontaigh tagairtí cáipéise go spriocanna PDF"
 
 #: impdialog.src#RID_PDF_TAB_LINKS.CB_ENAB_RELLINKFSYS.checkbox.text
 msgid "Export URLs relative to file system"
-msgstr ""
+msgstr "Easpórtáil URLanna coibhneasta le córas comhad"
 
 #: impdialog.src#RID_PDF_TAB_LINKS.FL_DEFAULT_LINK_ACTION.fixedline.text
 msgid "Cross-document links"
-msgstr ""
+msgstr "Naisc trascháipéise"
 
 #: impdialog.src#RID_PDF_TAB_LINKS.CB_VIEW_PDF_DEFAULT.radiobutton.text
 msgid "Default mode"
@@ -14719,26 +14719,32 @@ msgstr "Trédhearcacht PDF/A"
 msgid ""
 "PDF/A forbids transparency. A transparent object was painted opaque instead."
 msgstr ""
+"Ní cheadaíonn PDF/A an trédhearcacht.  Rindreáladh réad trédhearcach le dath "
+"teimhneach."
 
 #: impdialog.src#RID_PDF_ERROR_DLG.STR_WARN_TRANSP_VERSION_SHORT.string.text
 msgid "PDF version conflict"
-msgstr ""
+msgstr "Leaganacha contrártha PDF"
 
 #: impdialog.src#RID_PDF_ERROR_DLG.STR_WARN_TRANSP_VERSION.string.text
 msgid ""
 "Transparency is not supported in PDF versions earlier than PDF 1.4. A "
 "transparent object was painted opaque instead"
 msgstr ""
+"Níor tacaíodh leis an trédhearcacht i leaganacha PDF roimh leagan 1.4.  "
+"Rindreáladh réad trédhearcach le dath teimhneach dá bhrí seo"
 
 #: impdialog.src#RID_PDF_ERROR_DLG.STR_WARN_FORMACTION_PDFA_SHORT.string.text
 msgid "PDF/A form action"
-msgstr ""
+msgstr "Gníomh foirme PDF/A"
 
 #: impdialog.src#RID_PDF_ERROR_DLG.STR_WARN_FORMACTION_PDFA.string.text
 msgid ""
 "A form control contained an action not supported by the PDF/A standard. The "
 "action was skipped"
 msgstr ""
+"Bhí gníomh san fhoirm nár thacaigh an caighdeán PDF/A leis. Níor rinneadh an "
+"gníomh"
 
 #: impdialog.src#RID_PDF_ERROR_DLG.modaldialog.text
 msgid "Problems during PDF export"
@@ -14771,11 +14777,11 @@ msgstr "Uathoibríoch"
 
 #: t602filter.src#T602FILTER_STR_ENCODING_CP852.string.text
 msgid "CP852 (Latin2)"
-msgstr ""
+msgstr "CP852 (Latin2)"
 
 #: t602filter.src#T602FILTER_STR_ENCODING_CP895.string.text
 msgid "CP895 (KEYB2CS, Kamenicky)"
-msgstr ""
+msgstr "CP895 (KEYB2CS, Kamenicky)"
 
 #: t602filter.src#T602FILTER_STR_ENCODING_KOI8CS2.string.text
 msgid "KOI8 CS2"
@@ -14783,15 +14789,15 @@ msgstr "KOI8 CS2"
 
 #: t602filter.src#T602FILTER_STR_CYRILLIC_MODE.string.text
 msgid "Mode for Russian language (Cyrillic)"
-msgstr ""
+msgstr "Mód na Rúisise (Coireallach)"
 
 #: t602filter.src#T602FILTER_STR_REFORMAT_TEXT.string.text
 msgid "Reformat the text"
-msgstr ""
+msgstr "Athfhormáidigh an téacs"
 
 #: t602filter.src#T602FILTER_STR_DOT_COMMANDS.string.text
 msgid "Display dot commands"
-msgstr ""
+msgstr "Taispeáin orduithe poinc"
 
 #: xmlfileview.src#DLG_XML_SOURCE_FILE_DIALOG.PB_VALIDATE.pushbutton.text
 msgid "~Validate"
@@ -15267,7 +15273,7 @@ msgstr ""
 
 #: strings.src#RID_STR_FEATURE_REQUIRES_PARAMETERS.string.text
 msgid "To execute this function, parameters are needed."
-msgstr ""
+msgstr "Tá paraiméadair de dhíth chun an fheidhm seo a rith."
 
 #: strings.src#RID_STR_FEATURE_NOT_EXECUTABLE.string.text
 msgid "This function cannot be executed, but is only for status queries."
@@ -15676,7 +15682,7 @@ msgstr "Breiseán %num%"
 
 #: resource.src#STR_STATUSBAR_LOGOTEXT.string.text
 msgid "A %PRODUCTNAME product by Sun Microsystems, Inc."
-msgstr ""
+msgstr "Táirge %PRODUCTNAME de chuid Sun Microsystems, Inc."
 
 #: resource.src#DLG_LICENSE.PB_PAGEDOWN.pushbutton.text
 msgid "Scroll Down"
@@ -15757,7 +15763,7 @@ msgstr "Tuilleadh..."
 #: resource.src#STR_SET_LANGUAGE_FOR_SELECTION.string.text
 #: olmenu.src#MN_SPELL_POPUP.MN_LANGUAGE_SELECTION.menuitem.text
 msgid "Set Language for Selection"
-msgstr ""
+msgstr "Socraigh Teanga an Roghnúcháin"
 
 #: resource.src#STR_SET_LANGUAGE_FOR_PARAGRAPH.string.text
 #: olmenu.src#MN_SPELL_POPUP.MN_LANGUAGE_PARAGRAPH.menuitem.text
@@ -16040,7 +16046,7 @@ msgstr "Aimsíodh feidhmchlár"
 
 #: ActionTe.ulf#OOO_ACTIONTEXT_24.LngText.text
 msgid "Generating script operations for action:"
-msgstr ""
+msgstr "Oibríochtaí scripte don ghníomh á nginiúint:"
 
 #: ActionTe.ulf#OOO_ACTIONTEXT_25.LngText.text
 msgctxt "ActionTe.ulf#OOO_ACTIONTEXT_25.LngText.text"
@@ -34510,7 +34516,7 @@ msgstr "Oscail Hipearnasc"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_OpenSmartTagMenuOnCursor.Label.value.text
 msgid "Open Smart Tag Menu"
-msgstr ""
+msgstr "Oscail Roghchlár na gClibeanna Cliste"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_StyleCatalog.Label.value.text
 msgctxt ""
@@ -36278,7 +36284,7 @@ msgstr "Scrios Gach Nóta"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_DeleteAuthor.Label.value.text
 msgid "Delete All Notes by This Author"
-msgstr ""
+msgstr "Scrios Gach Nóta Scríofa ag an Údarás seo"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_DeleteNote.Label.value.text
 msgctxt ""
@@ -79475,7 +79481,7 @@ msgstr "~Oscail Hipearnasc"
 
 #: globlmn_tmpl.hrc#ITEM_OPEN_SMARTTAGMENU.#define.text
 msgid "Open ~Smart Tag Menu"
-msgstr "Oscail Roghchlár ~Cliste"
+msgstr "Oscail Roghchlár na gClibeanna ~Cliste"
 
 #: accessibility.src#RID_SVXSTR_A11Y_3D_MATERIAL_COLOR.string.text
 msgid "3D material color"
@@ -104487,7 +104493,7 @@ msgstr "Roghnaigh colún tábla"
 
 #: docvw.src#STR_SMARTTAG_CLICK.string.text
 msgid "%s-click to open Smart Tag menu"
-msgstr "%s-cliceáil chun roghchlár Chlib Chliste a oscailt"
+msgstr "%s-cliceáil chun Roghchlár na gClibeanna Cliste a oscailt"
 
 #: docvw.src#STR_POSTIT_TODAY.string.text
 msgid "Today,"
