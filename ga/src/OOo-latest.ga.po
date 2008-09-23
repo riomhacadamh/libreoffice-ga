@@ -98693,6 +98693,14 @@ msgid ""
 "no JRE was activated, then activate a JRE 1.4 or later and restart StarOffice/"
 "OpenOffice.org."
 msgstr ""
+"Sula shuiteálfaidh tú an @WIKIEXTENSIONPRODUCTNAME@, cinntigh go bhfuil "
+"Timpeallacht Ama Rite Java (Java Runtime Environment, JRE) in úsáid ag "
+"StarOffice nó OpenOffice.org. Le stádas an JRE a sheiceáil, roghnaigh <item "
+"type=\"menuitem\">Uirlisí - Roghanna - StarOffice/OpenOffice.org - Java</"
+"item>. Cinntigh go bhfuil \"Úsáid timpeallacht ama rite Java\" marcáilte agus "
+"go bhfuil fillteán ama rite Java roghnaithe sa liosta mór. Muna bhfuil JRE "
+"gníomhachtaithe, gníomhachtaigh JRE 1.4 nó níos déanaí agus atosaigh "
+"StarOffice/OpenOffice.org."
 
 #: wiki.xhp#hd_id567339.help.text
 msgid "To Install the @WIKIEXTENSIONPRODUCTNAME@"
@@ -98752,7 +98760,7 @@ msgstr ""
 
 #: wiki.xhp#par_id9504379.help.text
 msgid "Click the plus sign (+) in front of My Extensions."
-msgstr ""
+msgstr "Cliceáil an tsín plus (+) roimh Mo Chuid Eisínteachtaí."
 
 #: wiki.xhp#par_id8431348.help.text
 msgid "Select the extension, click Remove, and then click Close."
@@ -98770,6 +98778,11 @@ msgid ""
 "password, choose <item type=\"menuitem\">Tools - Options - StarOffice/"
 "OpenOffice.org - Security</item>."
 msgstr ""
+"Nóta: is féidir leat d'ainm úsáideora agus d'fhocal faire le haghaidh gach "
+"dialóg a stóráil i StarOffice/OpenOffice.org. Beidh an focal faire stóráilte "
+"go slán agus é cosanta le príomhfhocal faire. Chun an príomhfhocal faire a "
+"chumasú, roghnaigh <item type=\"menuitem\">Uirlisí - Roghanna - StarOffice/"
+"OpenOffice.org - Slándáil</item>."
 
 #: wiki.xhp#par_id3751640.help.text
 msgid ""
@@ -98777,6 +98790,9 @@ msgid ""
 "information to <item type=\"menuitem\">Tools - Options - Internet - Proxy</"
 "item>, and restart the software."
 msgstr ""
+"Nóta: má cheanglaíonn tú leis an nGréasán trí sheachfhreastalaí, cuir isteach "
+"sonraí an tseachfhreastalaí ag <item type=\"menuitem\">Uirlisí - Roghanna - "
+"Idirlíon - Seachfhreastalaí</item>, agus atosaigh an bogearra."
 
 #: wiki.xhp#par_id9533677.help.text
 msgid ""
@@ -98799,30 +98815,42 @@ msgid ""
 "In the <link href=\"@WIKIEXTENSIONID@/wikiaccount.xhp\">MediaWiki</link> "
 "dialog, enter the account information for the Wiki."
 msgstr ""
+"Sa dialóg <link href=\"@WIKIEXTENSIONID@/wikiaccount.xhp\">MediaWiki</link>, "
+"cuir isteach an fhaisnéis chuntais le haghaidh an Vicí."
 
 #: wiki.xhp#par_id5328836.help.text
 msgid ""
 "In the URL textbox, enter the address of a Wiki that you want to connect to."
 msgstr ""
+"I mbosca téacs an URL, cuir isteach seoladh Vicí a theastaíonn uait ceangal "
+"leis."
 
 #: wiki.xhp#par_id389416.help.text
 msgid "You can copy the URL from a web browser and paste it into the textbox."
 msgstr ""
+"Is féidir leat an URL a chóipeáil ó bhrabhsálaí agus é a ghreamú sa bhosca "
+"téacs."
 
 #: wiki.xhp#par_id5906552.help.text
 msgid "In the Username box, enter your user ID for your Wiki account."
 msgstr ""
+"I mbosca an ainm úsáideora, cuir isteach aitheantas úsáideora do chuntais "
+"Vicí."
 
 #: wiki.xhp#par_id9297158.help.text
 msgid ""
 "If the Wiki allows anonymous write access, you can leave the Username and "
 "Password boxes empty."
 msgstr ""
+"Má tá rochtain scríofa gan ainm ceadaithe ag an Vicí, is féidir leat na "
+"boscaí Ainm Úsáideora agus Focal Faire a fhágáil glan."
 
 #: wiki.xhp#par_id8869594.help.text
 msgid ""
 "In the Password box, enter the password for your Wiki account, then click OK."
 msgstr ""
+"I mbosca an fhocail fhaire, cuir isteach focal faire do chuntais Vicí, agus "
+"cliceáil OK."
 
 #: wiki.xhp#par_id292062.help.text
 msgid ""
@@ -98832,6 +98860,12 @@ msgid ""
 "Security</item> to enable the master password. \"Save password\" is "
 "unavailable when the master password is not enabled."
 msgstr ""
+"Tá sé de rogha agat \"Sábháil an focal faire\" a chumasú chun an focal faire "
+"a shábháil ó sheisiún go seisiún. Úsáidtear príomhfhocal faire chun na focail "
+"fhaire shábháilte a rochtain. Roghnaigh <item type=\"menuitem\">Uirlisí - "
+"Roghanna - StarOffice/OpenOffice.org - Slándáil</item> chun an príomhfhocal "
+"faire a chumasú. Níl \"Sábháil an focal faire\" ar fáil mura bhfuil an "
+"príomhfhocal faire cumasaithe."
 
 #: wiki.xhp#hd_id7044892.help.text
 msgid "To Create a New Wiki Page"
@@ -98847,6 +98881,9 @@ msgid ""
 "headings, footnotes, and more. See the <link href=\"@WIKIEXTENSIONID@/"
 "wikiformats.xhp\">list of supported formats</link>."
 msgstr ""
+"Scríobh inneachar an leathanaigh Vicí. Is féidir leat formáidiú cosúil le "
+"formáidithe téacs, ceannteidil, fonótaí, srl a úsáid. Feic an <link href="
+"\"@WIKIEXTENSIONID@/wikiformats.xhp\">liosta d'fhormáidí inúsáidte</link>."
 
 #: wiki.xhp#par_id4566484.help.text
 msgid "Choose <item type=\"menuitem\">File - Send - To MediaWiki</item>."
@@ -98857,6 +98894,8 @@ msgid ""
 "In the <link href=\"@WIKIEXTENSIONID@/wikisend.xhp\">Send to MediaWiki</link> "
 "dialog, specify the settings for your entry."
 msgstr ""
+"Sa dialóg <link href=\"@WIKIEXTENSIONID@/wikisend.xhp\">Seol chuig MediaWiki</"
+"link>, sonraigh socruithe d'iontrála."
 
 #: wiki.xhp#par_id2564165.help.text
 msgid "<emph>MediaWiki server</emph>: Select the Wiki."
@@ -98868,22 +98907,33 @@ msgid ""
 "existing page to overwrite the page with your current text document. Type a "
 "new title to create a new page on the Wiki."
 msgstr ""
+"<emph>Teideal</emph>: Clóscríobh teideal do leathanaigh. Clóscríobh teideal "
+"leathanaigh atá ann cheana chun do cháipéis téacs reatha a chur in áit an "
+"leathanaigh sin. Clóscríobh teideal nua chun leathanach nua a chruthú ar an "
+"Vicí."
 
 #: wiki.xhp#par_id9688711.help.text
 msgid "<emph>Summary</emph>: Enter an optional short summary of your page."
 msgstr ""
+"<emph>Achoimre</emph>: Cuir isteach achoimre ghairid roghnach de do "
+"leathanach."
 
 #: wiki.xhp#par_id4123661.help.text
 msgid ""
 "<emph>This is a minor edit</emph>: Check this box to mark the uploaded page "
 "as a minor edit of the already existing page with the same title."
 msgstr ""
+"<emph>Is mioneagarthóireacht í seo</emph>: Roghnaigh an bosca seo chun an "
+"leathanach uasluchtaithe a mharcáil mar mhioneagarthóireacht den leathanach "
+"atá ann cheana agus an teideal céanna air."
 
 #: wiki.xhp#par_id452284.help.text
 msgid ""
 "<emph>Show in web browser</emph>: Check this box to open your system web "
 "browser and show the uploaded Wiki page."
 msgstr ""
+"<emph>Taispeáin i mbrabhsálaí</emph>: Roghnaigh an bosca seo chun brabhsálaí "
+"do chórais a oscailt agus an leathanach Vicí uasluchtaithe a thaispeáint."
 
 #: wiki.xhp#par_id8346812.help.text
 msgid "Click Send."
@@ -98902,24 +98952,32 @@ msgstr "MediaWiki"
 #: wikiaccount.xhp#par_id4571672.help.text
 msgid "Use the MediaWiki dialog to add or edit your MediaWiki account settings."
 msgstr ""
+"Úsáid an dialóg MediaWiki chun socruithe do chuntais MediaWiki a athrú nó "
+"chun cur leo. "
 
 #: wikiaccount.xhp#par_id7631458.help.text
 msgid ""
 "<ahelp hid=\".\" visibility=\"hidden\">Enter the URL of a MediaWiki server, "
 "starting with http://</ahelp>"
 msgstr ""
+"<ahelp hid=\".\" visibility=\"hidden\">Cuir isteach URL le haghaidh "
+"freastalaí MediaWiki, ag tosú le http://</ahelp>"
 
 #: wikiaccount.xhp#par_id7862483.help.text
 msgid ""
 "<ahelp hid=\".\" visibility=\"hidden\">Enter your user name on the MediaWiki "
 "server. Leave empty for anonymous access.</ahelp>"
 msgstr ""
+"<ahelp hid=\".\" visibility=\"hidden\">Cuir isteach d'ainm úsáideora ar an "
+"bhfreastalaí MediaWiki. Fág glan le haghaidh rochtain gan ainm.</ahelp>"
 
 #: wikiaccount.xhp#par_id1113010.help.text
 msgid ""
 "<ahelp hid=\".\" visibility=\"hidden\">Enter your password on the MediaWiki "
 "server. Leave empty for anonymous access.</ahelp>"
 msgstr ""
+"<ahelp hid=\".\" visibility=\"hidden\">Cuir isteach d'fhocal faire ar an "
+"bhfreastalaí MediaWiki. Fág glan le haghaidh rochtain gan ainm.</ahelp>"
 
 #: wikiaccount.xhp#par_id656758.help.text
 msgid ""
@@ -98927,18 +98985,27 @@ msgid ""
 "sessions. The master password must be enabled, see <item type=\"menuitem"
 "\">Tools - Options - StarOffice/OpenOffice.org - Security</item>.</ahelp>"
 msgstr ""
+"<ahelp hid=\".\" visibility=\"hidden\">Cumasaigh chun d'fhocal faire a "
+"stóráil ó sheisiún go seisiún. Caithfear an príomhfhocal faire a chumasú; "
+"feic <item type=\"menuitem\">Uirlisí - Roghanna - StarOffice/OpenOffice.org - "
+"Slándáil</item>.</ahelp>"
 
 #: wikiaccount.xhp#par_id3112582.help.text
 msgid ""
 "Enter the Internet address of a Wiki server in a format like http://wiki."
 "services.openoffice.org/wiki or copy the URL from a web browser."
 msgstr ""
+"Cuir isteach seoladh Idirlín fhreastalaí Vicí i bhformáid cosúil le http://"
+"wiki.services.openoffice.org/wiki nó cóipeáil an URL ó bhrabhsálaí."
 
 #: wikiaccount.xhp#par_id628070.help.text
 msgid ""
 "If the Wiki allows anonymous access, you can leave the account text boxes "
 "empty. Else enter your user name and password."
 msgstr ""
+"Má cheadaíonn an Vicí rochtain gan ainm, is féidir boscaí téacs an chuntais a "
+"fhágáil bán. Mura gceadaíonn, cuir isteach d'ainm úsáideora agus d'fhocal "
+"faire."
 
 #: wikiaccount.xhp#par_id9046601.help.text
 msgid ""
@@ -98947,6 +99014,11 @@ msgid ""
 "store your password and automatically insert the data where necessary. Enable "
 "the \"Save password\" checkbox to store your password."
 msgstr ""
+"Má tá an príomhfhocal faire cumasaithe agat ar an gcluaisín Slándáil den "
+"dialóg Uirlisí - Roghanna - StarOffice/OpenOffice.org, tá an bogearra in ann "
+"d'fhocal faire a stóráil agus na sonraí a chur isteach go huathoibríoch más "
+"gá. Cumasaigh an ticbhosca \"Sábháil an focal faire\" chun d'fhocal faire a "
+"stóráil."
 
 #: wikiformats.xhp#tit.help.text
 msgctxt "wikiformats.xhp#tit.help.text"
@@ -98963,6 +99035,8 @@ msgid ""
 "The following list gives an overview of the text formats that the "
 "@WIKIEXTENSIONPRODUCTNAME@ can upload to the Wiki server."
 msgstr ""
+"Sa liosta seo a leanas tá forbhreathnú ar na formáidí téacs atá an "
+"@WIKIEXTENSIONPRODUCTNAME@ in ann uasluchtú chuig an bhfreastalaí Vicí."
 
 #: wikiformats.xhp#par_id5630664.help.text
 msgid ""
@@ -98970,6 +99044,9 @@ msgid ""
 "different. Only a subset of all features can be transformed from one format "
 "to the other."
 msgstr ""
+"Tá difríochtaí suntasacha idir formáid OpenDocument a úsáideann Writer agus "
+"formáid WikiMedia. Ní féidir ach cuid de na gnéithe a aistriú ó fhormáid "
+"amháin go dtí an ceann eile."
 
 #: wikiformats.xhp#hd_id7178868.help.text
 #: fldref.src#TP_FLD_REF.STR_REFHEADING.string.text
@@ -98984,6 +99061,9 @@ msgid ""
 "Wiki will show the heading styles of the same outline level, formatted as "
 "defined by the Wiki engine."
 msgstr ""
+"Cuir stíl pharagraf cheannteidil i bhfeidhm ar na ceannteidil i do cháipéis "
+"Writer. Taispeánfaidh an Vicí na stíleanna ceannteidil ag an leibhéal imlíne "
+"céanna agus iad formáidithe mar a shainmhínítear iad ag an Vicí."
 
 #: wikiformats.xhp#hd_id7217627.help.text
 #: utlui.src#STR_CONTENT_TYPE_URLFIELD.string.text
@@ -98998,6 +99078,11 @@ msgid ""
 "Wiki links that point to other subjects of the same Wiki domain, use Wiki "
 "links."
 msgstr ""
+"Athraítear hípearnaisc OpenDocument go naisc \"eachtrachta\" Vicí. Mar sin, "
+"ní cheart saoráid insuite nasctha OpenDocument a úsáid ach chun naisc a "
+"chruthú a cheanglaíonn le suímh taobh amuigh den ghréasán Vicí. Chun naisc a "
+"chruthú a cheanglaíonn le rudaí eile san fhearann Vicí céanna, úsáid naisc "
+"Vicí."
 
 #: wikiformats.xhp#hd_id941190.help.text
 msgid "Lists"
@@ -99010,12 +99095,19 @@ msgid ""
 "need a list without numbering or bullets, use Format - Bullets and Numbering "
 "to define and apply the respective list style."
 msgstr ""
+"Is féidir liostaí a easpórtáil go hiontaofa má úsáideann an liosta iomlán "
+"stíl liosta chomhsheasmhach. Úsáid na deilbhíní Uimhriú nó Urchair chun "
+"liosta a chruthú i Writer. Má tá liosta uait gan uimhriú ná urchair, úsáid "
+"Formáid - Urchair agus Uimhriú leis an stíl atá uait a shainmhíniú agus a "
+"chur i bhfeidhm."
 
 #: wikiformats.xhp#par_id376598.help.text
 msgid ""
 "Explicit text alignment should not be used in Wiki articles. Nevertheless, "
 "text alignment is supported for left, centered, and right alignment of text."
 msgstr ""
+"Ní ceart léirailíniú téacs a úsáid in altanna Vicí. Mar sin féin, tacaítear "
+"le ailíniú téacs ar chlé, láraithe agus ar dheis."
 
 #: wikiformats.xhp#hd_id7486190.help.text
 msgid "Pre-formatted text"
@@ -99026,6 +99118,8 @@ msgid ""
 "A paragraph style with a fixed-width font is transformed as pre-formatted "
 "text. Pre-formatted text is shown on the Wiki with a border around the text."
 msgstr ""
+"Athraítear stíl ailt le cló aonleithid go téacs réamhfhormáidithe. "
+"Taispeántar téacs réamhfhormáidithe ar an Vicí le himlíne timpeall an téacs."
 
 #: wikiformats.xhp#hd_id4834131.help.text
 msgid "Character styles"
@@ -99038,6 +99132,9 @@ msgid ""
 "superscript. All fixed width fonts are transformed into the Wiki typewriter "
 "style."
 msgstr ""
+"Athraíonn stíleanna carachtair an cuma atá ar chuid d'alt. Tacaíonn an "
+"trasfhoirmiú le cló trom, cló iodálach, cló trom iodálach, foscripteanna agus "
+"forscripteanna. Athraítear gach cló aonleithid go cló aonleithid an Vicí."
 
 #: wikiformats.xhp#hd_id5152745.help.text
 #: swslots.src#FN_FORMAT_FOOTNOTE_DLG.sfxslotinfo.text
@@ -99067,6 +99164,10 @@ msgid ""
 "g. WikiMedia Commons), then the transformation produces a valid image tag "
 "that includes the image. Image captions are also supported."
 msgstr ""
+"Ní féidir íomhánna a easpórtáil le trasfhoirmiú a chruthaíonn comhad amháin "
+"de théacs Vicí. Má tá an íomhá uasluchtaithe cheana féin chuig an "
+"spriocfhearann Vicí (m.sh. WikiMedia Commons), áfach, cruthaítear clib bhailí "
+"íomhá leis an íomhá ann. Tacaítear freisin le teidil íomhá."
 
 #: wikiformats.xhp#par_id3037202.help.text
 msgid ""
@@ -99074,10 +99175,13 @@ msgid ""
 "corresponding Wiki style table headers. However, custom formatting of table "
 "borders, column sizes and background colors is ignored."
 msgstr ""
+"Tacaítear go maith le táblaí simplí. Athraítear ceanntásca tábla go "
+"ceanntásca tábla i stíl Vicí atá freagrach. Ní thugtar aon aird, áfach, ar "
+"shainfhormáidiú d'imlínte tábla, méid colúin agus dathanna cúlra."
 
 #: wikiformats.xhp#hd_id2954496.help.text
 msgid "Joined Cells"
-msgstr ""
+msgstr "Cealla Comhcheangailte"
 
 #: wikiformats.xhp#par_id8253730.help.text
 msgid ""
@@ -99085,12 +99189,18 @@ msgid ""
 "cells that span rows as tables with nested tables. In contrast, the wiki "
 "model of table is to declare column and row spans for such joined cells. "
 msgstr ""
+"Léiríonn OpenDocument, agus OpenOffice.org go háirithe, táblaí a bhfuil "
+"cealla comhcheangailte atá ag síneadh thar rónna iontu mar tháblaí le táblaí "
+"neadaithe. I gcontrárthacht leis sin, úsáidtear réisí colúin agus ró i Vicí "
+"le haghaidh cealla mar sin."
 
 #: wikiformats.xhp#par_id8163090.help.text
 msgid ""
 "If only columns of the same row are joined, the result of the transformation "
 "resembles the source document very well."
 msgstr ""
+"Má chomhcheanglaítear colúin in aon ró amháin, beidh torthaí an athraithe an-"
+"chosúil leis an mbuncháipéis."
 
 #: wikiformats.xhp#par_id1831110.help.text
 msgid ""
@@ -99098,6 +99208,9 @@ msgid ""
 "always exported as \"<emph>prettytable\"</emph>, which renders in the Wiki "
 "engine with simple borders and bold header."
 msgstr ""
+"Déantar easpórtáil i gcónaí ar thábla mar \"<emph>prettytable\"</emph> gan "
+"aird a thabhairt air shainstíleanna tábla le haghaidh imlíne agus cúlra. "
+"Taispeánann an Vicí an toradh le himlínte simplí agus ceannteideal trom."
 
 #: wikiformats.xhp#hd_id6255073.help.text
 msgid "Charset and special characters"
@@ -99114,6 +99227,14 @@ msgid ""
 "Now, you can cut and paste the transformation result to your program of "
 "choice."
 msgstr ""
+"Tá tacar carachtar thoradh an tiontaithe socruithe mar UTF-8. B'fhéidir nach "
+"é seo tacar carachtar réamhshocraithe do chórais, agus d'fhéadfadh cuma "
+"mhícheart a bheith ar \"carachtair speisialta\" agus tú ag amharc orthu leis "
+"na réamhshocruithe. Is féidir leat d'eagarthóir a athrú go dtí an t-ionchódú "
+"UTF-8 chun é seo a réiteach, áfach. Mura dtacaíonn d'eagarthóir le hathrú "
+"ionchódaithe, is féidir toradh an tiontaithe a thaispeáint sa bhrabhsálaí "
+"Firefox agus an t-ionchódú a athrú go UTF-8 ann. Ansin beidh tú in ann toradh "
+"an tiontaithe a ghearradh agus a ghreamú i do rogha feidhmchláir."
 
 #: wikisend.xhp#tit.help.text
 msgctxt "wikisend.xhp#tit.help.text"
@@ -99130,12 +99251,17 @@ msgid ""
 "In the Send to MediaWiki dialog, specify the settings for your current Wiki "
 "upload."
 msgstr ""
+"Sa dialóg Seol chuig MediaWiki, sonraigh na socruithe le haghaidh "
+"d'uasluchtaithe reatha Vicí."
 
 #: wikisend.xhp#par_id664082.help.text
 msgid ""
 "<ahelp hid=\".\">Select the MediaWiki server where you want to publish your "
 "document. Click Add to add a new server to the list.</ahelp>"
 msgstr ""
+"<ahelp hid=\".\">Roghnaigh an freastalaí MediaWiki ar a dteastaíonn uait do "
+"cháipéis a fhoilsiú. Cliceáil Cuir Leis chun freastalaí nua a chur leis an "
+"liosta.</ahelp>"
 
 #: wikisend.xhp#par_id2794885.help.text
 msgid ""
@@ -99144,6 +99270,10 @@ msgid ""
 "If you enter an existing title, your upload will overwrite the existing Wiki "
 "entry.</ahelp>"
 msgstr ""
+"<ahelp hid=\".\">Cuir isteach teideal d'iontrála Vicí. Is é seo barrtheideal "
+"d'iontrála Vicí. Más iontráil nua í, caithfidh an teideal a bheith uathúil ar "
+"an Vicí seo. Más teideal é atá ann cheana, cuirfear an t-uasluchtú in áit na "
+"hiontrála reatha.</ahelp>"
 
 #: wikisend.xhp#par_id2486342.help.text
 msgid ""
@@ -99151,6 +99281,9 @@ msgid ""
 "<link href=\"http://meta.wikimedia.org/wiki/Help:Edit_summary\">http://meta."
 "wikimedia.org/wiki/Help:Edit_summary</link>."
 msgstr ""
+"<ahelp hid=\".\">Cuir isteach go roghnach achoimre nó nóta gairid.</ahelp> "
+"Feic <link href=\"http://meta.wikimedia.org/wiki/Help:Edit_summary\">http://"
+"meta.wikimedia.org/wiki/Help:Edit_summary</link>."
 
 #: wikisend.xhp#par_id823999.help.text
 msgid ""
@@ -99158,12 +99291,19 @@ msgid ""
 "the uploaded page as a minor edit of the already existing page with the same "
 "title.</ahelp>"
 msgstr ""
+"<emph>Is mioneagarthóireacht í seo</emph>: <ahelp hid=\".\">Roghnaigh an "
+"bosca seo chun an leathanach uasluchtaithe a mharcáil mar "
+"mhioneagarthóireacht den leathanach atá ann cheana agus an teideal céanna air."
+"</ahelp>"
 
 #: wikisend.xhp#par_id6592913.help.text
 msgid ""
 "<emph>Show in web browser</emph>: <ahelp hid=\".\">Check this box to open "
 "your system web browser and show the uploaded Wiki page.</ahelp>"
 msgstr ""
+"<emph>Taispeáin i mbrabhsálaí</emph>: <ahelp hid=\".\">Roghnaigh an bosca seo "
+"chun brabhsálaí do chórais a oscailt agus an leathanach Vicí uasluchtaithe a "
+"thaispeáint.</ahelp>"
 
 #: wikisettings.xhp#tit.help.text
 msgctxt "wikisettings.xhp#tit.help.text"
@@ -99182,6 +99322,11 @@ msgid ""
 "choose <item type=\"menuitem\">Tools - Extension Manager</item>, select the "
 "@WIKIEXTENSIONPRODUCTNAME@, and click the Options button."
 msgstr ""
+"Is féidir leat freastalaithe MediaWiki a chur leis, a chur in eagar, agus a "
+"bhaint. Oscail an dialóg le <item type=\"menuitem\">Uirlisí - Roghanna - "
+"Idirlíon - MediaWiki</item>. Nó roghnaigh <item type=\"menuitem\">Uirlisí - "
+"Bainisteoir na nEisínteachtaí</item>,roghnaigh an @WIKIEXTENSIONPRODUCTNAME@, "
+"agus cliceáil Roghanna."
 
 #: wikisettings.xhp#par_id300607.help.text
 msgid ""
@@ -99189,50 +99334,68 @@ msgid ""
 "click Edit to edit the account settings.<br/>Select an entry and click Remove "
 "to remove the entry from the list.</ahelp>"
 msgstr ""
+"<ahelp hid=\".\">Cliceáil Cuir Leis chun freastalaí Vicí nua a chur leis.<br/"
+">Roghnaigh iontráil agus cliceáil Cuir in Eagar chun socruithe an chuntais a "
+"chur in eagar.<br/>Roghnaigh iontráil agus cliceáil Bain chun an iontráil a "
+"bhaint den liosta.</ahelp>"
 
 #: wikisettings.xhp#par_id9786065.help.text
 msgid ""
 "<ahelp hid=\".\" visibility=\"hidden\">Opens the MediaWiki dialog to add a "
 "new entry to the list.</ahelp>"
 msgstr ""
+"<ahelp hid=\".\" visibility=\"hidden\">Osclaíonn an dialóg MediaWiki chun cur "
+"leis an liosta.</ahelp>"
 
 #: wikisettings.xhp#par_id3386333.help.text
 msgid ""
 "<ahelp hid=\".\" visibility=\"hidden\">Opens the MediaWiki dialog to edit the "
 "selected entry.</ahelp>"
 msgstr ""
+"<ahelp hid=\".\" visibility=\"hidden\">Osclaíonn an dialóg MediaWiki chun an "
+"iontráil a chur in eagar.</ahelp>"
 
 #: wikisettings.xhp#par_id7285073.help.text
 msgid ""
 "<ahelp hid=\".\" visibility=\"hidden\">Removes the selected entry from the "
 "list.</ahelp>"
 msgstr ""
+"<ahelp hid=\".\" visibility=\"hidden\">Baineann an iontráil roghnaithe ón "
+"liosta.</ahelp>"
 
 #: wikisettings.xhp#par_id1029084.help.text
 msgid ""
 "When you click Add or Edit, the <link href=\"@WIKIEXTENSIONID@/wikiaccount.xhp"
 "\">MediaWiki</link> dialog opens."
 msgstr ""
+"Nuair a chliceálann tú Cuir Leis nó Cuir in Eagar, osclaíonn an dialóg <link "
+"ref=\"@WIKIEXTENSIONID@/wikiaccount.xhp\">MediaWiki</link>."
 
 #: WikiExtension.xcu#.WikiExtension.Strings.GeneralSendError.value.text
 msgid "The operation 'Send to MediaWiki' could not be completed successfully."
 msgstr ""
+"Níorbh fhéidir an gníomh \"Seol chuig MediaWiki\" a chríochnú go rathúil."
 
 #: WikiExtension.xcu#.WikiExtension.Strings.NoWikiFilter.value.text
 msgid ""
 "The MediaWiki export filter cannot be found. Choose 'Tools-XML Filter "
 "Settings' to install the filter, or use the setup to install the component."
 msgstr ""
+"Ní féidir an scagaire easpórtála MediaWiki a aimsiú. Roghnaigh \"Uirlisí-"
+"Socruithe Scagaire XML\" chun an scagaire a shuiteáil, nó úsáid an "
+"feidhmchlár cumraíochta chun an chomhpháirt a shuiteáil."
 
 #: WikiExtension.xcu#.WikiExtension.Strings.NoConnectionToURL.value.text
 msgid "A connection to the MediaWiki system at '$ARG1' could not be created."
-msgstr ""
+msgstr "Níorbh fhéidir ceangal leis an gcóras MediaWiki ag '$ARG1'."
 
 #: WikiExtension.xcu#.WikiExtension.Strings.WrongLogin.value.text
 msgid ""
 "User name or password is incorrect. Please try again, or leave the fields "
 "blank for an anonymous connection."
 msgstr ""
+"Tá an t-ainm úsáideora nó an focal faire mícheart. Déan iarracht eile, nó fág "
+"na réimsí bán le haghaidh ceangail gan ainm."
 
 #: WikiExtension.xcu#.WikiExtension.Strings.InvalidURL.value.text
 msgid "A connection could not be created, because the URL is invalid."
@@ -99240,13 +99403,13 @@ msgstr "Níorbh fhéidir ceangal a bhunú toisc go bhfuil an URL neamhbhailí."
 
 #: WikiExtension.xcu#.WikiExtension.Strings.NoURL.value.text
 msgid "Specify a MediaWiki server by providing a URL."
-msgstr ""
+msgstr "Sonraigh freastalaí MediaWiki trí URL a sholáthar."
 
 #: WikiExtension.xcu#.WikiExtension.Strings.CancelSending.value.text
 msgid ""
 "The transfer has been interrupted. Please check the integrity of the wiki "
 "article."
-msgstr ""
+msgstr "Stopadh an traschur. Seiceáil sláine an ailt Vicí."
 
 #: WikiExtension.xcu#.WikiExtension.Strings.Dlg_EditSetting_UrlLabel.value.text
 msgid "U~RL"
@@ -99273,6 +99436,8 @@ msgid ""
 "A wiki article with the title '$ARG1' does not exist yet. Do you want to "
 "create a new article with that name?"
 msgstr ""
+"Níl alt vicí dar teideal \"$ARG1\" ann fós. An mian leat alt nua a chruthú "
+"leis an ainm sin air?"
 
 #: WikiExtension.xcu#.WikiExtension.Strings.Dlg_SendToMediaWiki_Label1.value.text
 msgid "Media~Wiki Server"
@@ -99333,7 +99498,7 @@ msgstr "UathFhormáidigh le linn clóscríofa"
 
 #: swslots.src#FN_AUTOFORMAT_REDLINE_APPLY.sfxslotinfo.text
 msgid "Apply AutoFormat Options and confirm Changes"
-msgstr ""
+msgstr "Cuir Roghanna UathFhormáidiú i bhfeidhm agus dearbhaigh athruithe"
 
 #: swslots.src#FN_BACKSPACE.sfxslotinfo.text
 msgctxt "swslots.src#FN_BACKSPACE.sfxslotinfo.text"
@@ -99684,7 +99849,7 @@ msgstr "Ionsáigh Nóta"
 
 #: swslots.src#FN_REDLINE_ON.sfxslotinfo.text
 msgid "Switch on Review"
-msgstr ""
+msgstr "Cumasaigh Athbhreithniú"
 
 #: swslots.src#FN_REDLINE_PROTECT.sfxslotinfo.text
 msgid "Protect Record of Changes"
@@ -99919,7 +100084,7 @@ msgstr "Sórtáil"
 
 #: swslots.src#FN_TABLE_HEADLINE_REPEAT.sfxslotinfo.text
 msgid "Heading Rows Repeat"
-msgstr ""
+msgstr "Ataispeáint Rónna Ceannteidil"
 
 #: swslots.src#FN_XFORMS_DESIGN_MODE.sfxslotinfo.text
 msgid "Design Mode On/Off"
@@ -100302,7 +100467,7 @@ msgstr "->"
 
 #: undo.src#STR_OCCURRENCES_OF.string.text
 msgid "occurrences of"
-msgstr ""
+msgstr "tarlú de"
 
 #: undo.src#STR_UNDO_TABS.string.text
 msgid "$1 tab(s)"
@@ -101829,6 +101994,8 @@ msgstr "Cuimhnigh ar stíl timfhillte nuair atá tú ag suí réada"
 msgid ""
 "Expand word space on lines with manual line breaks in justified paragraphs"
 msgstr ""
+"Fairsingigh spás focail ar línte le bristeacha líne de láimh in altanna "
+"comhfhadaithe"
 
 #: optdlg.src#TP_CONTENT_OPT.FL_LINE.fixedline.text
 msgid "Guides"
@@ -102162,7 +102329,7 @@ msgstr "Aonad tomhais"
 
 #: optload.src#TP_OPTLOAD_PAGE.CB_USE_SQUARE_PAGE_MODE.checkbox.text
 msgid "Use square page mode for text grid"
-msgstr ""
+msgstr "Úsáid mód na leathanach cearnach le haghaidh na greille téacs"
 
 #: optload.src#TP_OPTCAPTION_PAGE.FT_OBJECTS.fixedtext.text
 msgid ""
@@ -102175,7 +102342,7 @@ msgstr ""
 #: optload.src#TP_OPTCAPTION_PAGE.FT_ORDER.fixedtext.text
 #: cption.src#DLG_SEQUENCE_OPTION.FT_ORDER.fixedtext.text
 msgid "Caption order"
-msgstr ""
+msgstr "Ord na gceannteideal"
 
 #: optload.src#TP_OPTCAPTION_PAGE.LB_ORDER.1.stringlist.text
 #: cption.src#DLG_SEQUENCE_OPTION.LB_ORDER.1.stringlist.text
@@ -102747,7 +102914,7 @@ msgstr "Seoladh %1 as %2 teachtaireacht ríomhphoist"
 
 #: mailmergechildwindow.src#FI_PAUSED.fixedtext.text
 msgid "Sending paused"
-msgstr ""
+msgstr "Seoladh curtha ar shos"
 
 #: mailmergechildwindow.src#FT_ERRORSTATUS.fixedtext.text
 msgid "E-mails not sent: %1"
@@ -110764,6 +110931,11 @@ msgid ""
 "carefully. Are you willing to accept this certificate for the purpose of "
 "identifying the Web site $(ARG1)?"
 msgstr ""
+"Ní féidir aitheantas an tsuímh $(ARG1) a fhíorú.\n"
+"\n"
+"Roimh ghlacadh leis an teastas seo, ba cheart duit teastas an tsuímh seo a "
+"scrúdú go cúramach. An bhfuil tú sásta glacadh leis an teastas seo chun an "
+"suíomh Gréasáin $(ARG1) a shainaithint?"
 
 #: ids.src#RID_UUI_ERRHDL._ERRCODE_UUI_SSLWARN_EXPIRED_1_.string.text
 msgid ""
@@ -110772,6 +110944,10 @@ msgid ""
 "\n"
 "You should check to make sure that your computer's time is correct."
 msgstr ""
+"Úsáideann an suíomh $(ARG1) teastas slándála chun sonraí a chriptiú le linn "
+"tarchuir ach d'imigh a theastas as feidhm ar $(ARG2).\n"
+"\n"
+"Ba cheart duit cinntiú go bhfuil an t-am ceart ar do ríomhaire."
 
 #: ids.src#RID_UUI_ERRHDL._ERRCODE_UUI_SSLWARN_DOMAINMISMATCH_1_.string.text
 msgid ""
@@ -110785,6 +110961,14 @@ msgid ""
 "\n"
 "Would you like to continue anyway?"
 msgstr ""
+"Rinne tú iarracht ceangal le $(ARG1). Is le $(ARG2) an teastas slándála a "
+"tíolacadh, áfach. Is féidir, cé nach dócha, go bhfuil duine éigin ag iarraidh "
+"do chuid cumarsáide leis an suíomh Gréasáin seo a idircheapadh.\n"
+"\n"
+"Má tá amhras ort gur le $(ARG1) an teastas a thaispeántar, cealaigh an "
+"ceangal agus cur fios ar riarthóir an tsuímh.\n"
+"\n"
+"An mian leat leanúint ar aghaidh pé scéal é?"
 
 #: ids.src#RID_UUI_ERRHDL._ERRCODE_UUI_SSLWARN_INVALID_1_.string.text
 msgid ""
@@ -110794,18 +110978,23 @@ msgid ""
 "If you suspect the certificate shown, please cancel the connection and notify "
 "the site administrator."
 msgstr ""
+"Níorbh fhéidir an teastas a fhíorú. Ba cheart duit teastas an tsuímh seo a "
+"scrúdú go cúramach.\n"
+"\n"
+"Má tá amhras ort faoin teastas a thaispeántar, cealaigh an ceangal le do "
+"thoil agus cuir fios ar riarthóir an tsuímh."
 
 #: ids.src#RID_UUI_ERRHDL._TITLE_UUI_SSLWARN_DOMAINMISMATCH_.string.text
 msgid "Security Warning: Domain Name Mismatch"
-msgstr ""
+msgstr "Rabhadh Slándála: Mí-oiriúnú Ainmneacha Fearainn"
 
 #: ids.src#RID_UUI_ERRHDL._TITLE_UUI_SSLWARN_EXPIRED_.string.text
 msgid "Security Warning: Server Certificate Expired"
-msgstr ""
+msgstr "Rogha Slándála: teastas freastalaí as feidhm"
 
 #: ids.src#RID_UUI_ERRHDL._TITLE_UUI_SSLWARN_INVALID_.string.text
 msgid "Security Warning: Server Certificate Invalid"
-msgstr ""
+msgstr "Rogha Slándála: teastas freastalaí neamhbhailí"
 
 #: logindlg.src#DLG_UUI_LOGIN.INFO_LOGIN_REQUEST.fixedtext.text
 msgid "Enter the user name and password for %1 here."
@@ -110844,7 +111033,7 @@ msgstr "Iontráil an Príomhfhocal Faire"
 
 #: openlocked.src#STR_OPENLOCKED_TITLE.string.text
 msgid "Document in Use"
-msgstr ""
+msgstr "Cáipéis in úsáid"
 
 #: openlocked.src#STR_OPENLOCKED_MSG.string.text
 msgid ""
@@ -110854,6 +111043,12 @@ msgid ""
 "\n"
 "Open document read-only or open a copy of the document for editing."
 msgstr ""
+"Tá an cháipéis '$(ARG1)' curtha faoi ghlas le haghaidh eagarthóireachta ag:\n"
+"\n"
+"$(ARG2)\n"
+"\n"
+"Oscail an cháipéis go hinléite amháin, nó oscail cóip di le haghaidh "
+"eagarthóireachta."
 
 #: openlocked.src#STR_OPENLOCKED_OPENREADONLY_BTN.string.text
 msgid "Open ~Read-Only"
@@ -110914,6 +111109,9 @@ msgid ""
 "If you disable macros you may lose functionality provided by the document "
 "macros."
 msgstr ""
+"D'fhéadfadh víris a bheith i macraí. Tá sé slán i gcónaí macraí a dhíchumasú "
+"i gcáipéis. Má dhéantar sin, b'fhéidir go gcaillfear feidhmiúlacht a "
+"chuireann macraí na cáipéise ar fáil."
 
 #: secmacrowarnings.src#RID_XMLSECDLG_MACROWARN.CB_ALWAYSTRUST.checkbox.text
 #: warnings.src#RID_XMLSECTP_MACROWARN.CB_ALWAYSTRUST.checkbox.text
@@ -110956,11 +111154,11 @@ msgstr "Scrúdaigh an Teastas..."
 
 #: unknownauthdlg.src#DLG_UUI_UNKNOWNAUTH.RB_ACCEPT_1.radiobutton.text
 msgid "Accept this certificate temporarily for this session"
-msgstr ""
+msgstr "Glac leis an teastas seo go sealadach le linn an tseisiúin seo"
 
 #: unknownauthdlg.src#DLG_UUI_UNKNOWNAUTH.RB_DONTACCEPT_2.radiobutton.text
 msgid "Do not accept this certificate and do not connect to this Web site"
-msgstr ""
+msgstr "Ná glac leis an teastas seo agus ná ceangal leis an suíomh Gréasáin seo"
 
 #: unknownauthdlg.src#DLG_UUI_UNKNOWNAUTH.FT_LABEL_1.fixedtext.text
 msgctxt "unknownauthdlg.src#DLG_UUI_UNKNOWNAUTH.FT_LABEL_1.fixedtext.text"
@@ -110969,7 +111167,7 @@ msgstr "Gan Téacs"
 
 #: unknownauthdlg.src#DLG_UUI_UNKNOWNAUTH.modaldialog.text
 msgid "Website Certified by an Unknown Authority"
-msgstr ""
+msgstr "Suíomh gréasáin arna dheimhniú ag údarás neamhaitheanta"
 
 #: btntext.src#SV_BUTTONTEXT_RETRY.string.text
 msgid "~Retry"
@@ -111165,6 +111363,8 @@ msgid ""
 "The inserted text exceeded the maximum length of this text field. The text "
 "was truncated."
 msgstr ""
+"Bhí an téac a cuireadh isteach níos faide ná uasmhéid an réimse téacs seo. "
+"Teascadh an téacs."
 
 #: stdtext.src#SV_MAC_SCREENNNAME.string.text
 msgid "Screen %d"
@@ -111248,6 +111448,8 @@ msgid ""
 "Note: Currency amounts from external links and currency conversion factors in "
 "formulas cannot be converted."
 msgstr ""
+"Nóta: ní féidir luachanna airgeadra ó naisc eachtracha, nó tosca sóinseála "
+"airgeadra i bhfoirmle, a thiontú."
 
 #: euro.src#STEP_ZERO___5.string.text
 msgid "First, unprotect all sheets."
@@ -111352,11 +111554,11 @@ msgstr "Iontráil na raonta atá le tiontú..."
 
 #: euro.src#STATUSLINE___4.string.text
 msgid "Sheet protection for each sheet will be restored..."
-msgstr ""
+msgstr "Cuirfear ar ais an chosaint bhileoige i gcomhair gach bileoige..."
 
 #: euro.src#STATUSLINE___5.string.text
 msgid "Conversion of the currency units in the cell templates..."
-msgstr ""
+msgstr "Tiontú na n-aonad airgeadra sna teimpléid ceall..."
 
 #: euro.src#MESSAGES___1.string.text
 msgid "Select directory"
@@ -111392,7 +111594,7 @@ msgstr "Bileog Chosanta"
 
 #: euro.src#MESSAGES___11.string.text
 msgid "Protection for the sheets will not be removed."
-msgstr ""
+msgstr "Ní bhainfear an chosaint de na bileoga."
 
 #: euro.src#MESSAGES___12.string.text
 msgid "Sheet cannot be unprotected"
@@ -111403,12 +111605,16 @@ msgid ""
 "The Wizard cannot edit this document as cell formats cannot be modified in "
 "documents containing protected spreadsheets."
 msgstr ""
+"Ní féidir leis an treoraí an cháipéis seo a chur in eagar toisc nach féidir "
+"formáidí ceall a athrú i gcáipéisí ina bhfuil scarbhileoga cosanta."
 
 #: euro.src#MESSAGES___14.string.text
 msgid ""
 "Please note that the Euro Converter will, otherwise, not be able to edit this "
 "document!"
 msgstr ""
+"Tabhair faoi deara nach mbeidh an Tiontaire Euro in ann an cháipéis seo a "
+"chur in eagar murach sin!"
 
 #: euro.src#MESSAGES___15.string.text
 msgid "Please choose a currency to be converted first!"
@@ -114214,6 +114420,8 @@ msgid ""
 "Please note that when converting Microsoft documents any attached VBA macros "
 "lose their functionality."
 msgstr ""
+"Tabhair faoi deara go gcailleann macraí VBA i gcáipéisí Microsoft a "
+"bhfeidhmiúlacht agus na cáipéisí sin á dtiontú."
 
 #: importwi.src#sWelcometextLabel3.string.text
 msgid "Select the document type for conversion:"
@@ -114673,7 +114881,7 @@ msgstr "Teimpléad Miontuairiscí"
 
 #: template.src#AgendaDlgNoCancel.string.text
 msgid "An option must be confirmed."
-msgstr ""
+msgstr "Caithfear rogha a dhearbhú."
 
 #: template.src#AgendaDlgFrame.string.text
 msgid "Minutes Type"
@@ -114769,7 +114977,7 @@ msgstr "URL an Fhéilire"
 
 #: template.src#TextField.string.text
 msgid "User data field is not defined!"
-msgstr ""
+msgstr "Níl réimse sonraí an úsáideora sainmhínithe!"
 
 #: template.src#Newsletter.string.text
 msgid "General layout"
@@ -114800,6 +115008,8 @@ msgid ""
 "Digital signatures functionality could not be used, because no Mozilla user "
 "profile was found. Please check the Mozilla installation."
 msgstr ""
+"Níorbh fhéidir síniú digiteach a úsáid toisc nár aimsíodh próifíl úsáideora "
+"Mozilla ar bith. Seiceáil suiteáil Mozilla le do thoil."
 
 #: certificatechooser.src#RID_XMLSECDLG_CERTCHOOSER.FT_HINT_SELECT.fixedtext.text
 msgid "Select the certificate you want to use for signing"
@@ -114809,7 +115019,7 @@ msgstr "Roghnaigh an teastas le do chuid teachtaireachtaí a shíniú"
 msgctxt ""
 "certificatechooser.src#RID_XMLSECDLG_CERTCHOOSER.STR_HEADERBAR.string.text"
 msgid "Issued to\tIssued by\tExpiration date"
-msgstr ""
+msgstr "Eisithe chuig\tEisithe ag\tAs feidhm"
 
 #: certificatechooser.src#RID_XMLSECDLG_CERTCHOOSER.BTN_VIEWCERT.pushbutton.text
 msgctxt ""
@@ -115010,6 +115220,13 @@ msgid ""
 "\n"
 "Save document in ODF 1.2 format and add all desired signatures again."
 msgstr ""
+"Tá sínithe i bhformáid ODF 1.1 (OpenOffice.org 2.x) sa cháipéis seo. Tá an "
+"fhormáid ODF 1.2 riachtanach chun cáipéisí a shíniú i %PRODUCTNAME %"
+"PRODUCTVERSION. Dá bhrí sin, ní féidir sínithe a chur leis an gcáipéis seo nó "
+"a bhaint di.\n"
+"\n"
+"Sábháil an cháipéis i bhformáid ODF 1.2 agus cuir léi arís na sínithe atá ag "
+"teastáil."
 
 #: macrosecurity.src#RID_XMLSECTP_MACROSEC.1.RID_XMLSECTP_SECLEVEL.pageitem.text
 msgid "Security Level"
@@ -115029,6 +115246,9 @@ msgid ""
 "Only macros from trusted file locations are allowed to run. All other macros, "
 "regardless whether signed or not, are disabled."
 msgstr ""
+"A~n-Ard.\n"
+"Níl cead rite ach ag macraí ó shuímh chomhad iontaofa. Tá gach macra eile "
+"díchumasaithe, is cuma iad a bheith sínithe nó gan síniú."
 
 #: macrosecurity.src#RID_XMLSECTP_SECLEVEL.RB_HIGH.radiobutton.text
 msgid ""
@@ -115036,12 +115256,17 @@ msgid ""
 "Only signed macros from trusted sources are allowed to run. Unsigned macros "
 "are disabled."
 msgstr ""
+"~Ard.\n"
+"Níl cead rite ach ag macraí sínithe ó fhoinsí iontaofa. Tá macraí "
+"neamhshínithe díchumasaithe."
 
 #: macrosecurity.src#RID_XMLSECTP_SECLEVEL.RB_MEDIUM.radiobutton.text
 msgid ""
 "~Medium.\n"
 "Confirmation required before executing macros from untrusted sources."
 msgstr ""
+"~Meánach.\n"
+"Tá deimhniú riachtanach sula ritear macraí ó fhoinsí neamhiontaofa."
 
 #: macrosecurity.src#RID_XMLSECTP_SECLEVEL.RB_LOW.radiobutton.text
 msgid ""
@@ -115049,6 +115274,9 @@ msgid ""
 "All macros will be executed without confirmation. Use this setting only if "
 "you are certain that all documents that will be opened are safe."
 msgstr ""
+"Ísea~l (ní mholtar é seo).\n"
+"Ritear gach macra gan deimhniú. Ná húsáid an rogha seo mura bhfuil tú cinnte "
+"go mbeidh gach cáipéis a osclófar slán."
 
 #: macrosecurity.src#RID_XMLSECTP_TRUSTSOURCES.FL_TRUSTCERT.fixedline.text
 msgid "Trusted certificates"
@@ -115057,7 +115285,7 @@ msgstr "Teastais iontaofa"
 #: macrosecurity.src#RID_XMLSECTP_TRUSTSOURCES.STR_HEADERBAR.string.text
 msgctxt "macrosecurity.src#RID_XMLSECTP_TRUSTSOURCES.STR_HEADERBAR.string.text"
 msgid "Issued to\tIssued by\tExpiration date"
-msgstr ""
+msgstr "Eisithe chuig\tEisithe ag\tAs feidhm"
 
 #: macrosecurity.src#RID_XMLSECTP_TRUSTSOURCES.PB_ADD_TRUSTCERT.pushbutton.text
 msgctxt ""
@@ -115085,6 +115313,8 @@ msgid ""
 "Document macros are always executed if they have been opened from one of the "
 "following locations."
 msgstr ""
+"Ritear macraí cáipéise i gcónaí má osclaítear iad ó cheann de na suímh seo a "
+"leanas."
 
 #: macrosecurity.src#RID_XMLSECTP_TRUSTSOURCES.FL_ADD_TRUSTFILELOC.pushbutton.text
 msgctxt ""
@@ -115106,6 +115336,9 @@ msgid ""
 "If you disable macros you may lose functionality provided by the document "
 "macros."
 msgstr ""
+"D'fhéadfadh víris a bheith i macraí. Tá sé slán i gcónaí macraí a dhíchumasú "
+"i gcáipéis. Má dhéantar sin, b'fhéidir go gcaillfear feidhmiúlacht a "
+"chuireann macraí na cáipéise ar fáil."
 
 #: warnings.src#RID_XMLSECTP_MACROWARN.PB_ENABLE.pushbutton.text
 msgid "Enable Macros"
