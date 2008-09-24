@@ -43172,15 +43172,15 @@ msgstr ""
 
 #: GroupsSorting.src#STR_RPT_HELP_HEADER.string.text
 msgid "Display a header for this group?"
-msgstr ""
+msgstr "Taispeáin ceanntásc le haghaidh an ghrúpa seo?"
 
 #: GroupsSorting.src#STR_RPT_HELP_FOOTER.string.text
 msgid "Display a footer for this group?"
-msgstr ""
+msgstr "Taispeáin buntásc le haghaidh an ghrúpa seo?"
 
 #: GroupsSorting.src#STR_RPT_HELP_GROUPON.string.text
 msgid "Select the value or range of values that starts a new group."
-msgstr ""
+msgstr "Roghnaigh luach nó raon luachanna a thosaíonn grúpa nua."
 
 #: GroupsSorting.src#STR_RPT_HELP_INTERVAL.string.text
 msgid "Interval or number of characters to group on."
@@ -43188,7 +43188,7 @@ msgstr ""
 
 #: GroupsSorting.src#STR_RPT_HELP_KEEP.string.text
 msgid "Keep group together on one page?"
-msgstr ""
+msgstr "Coinnigh an grúpa le chéile ar leathanach amháin?"
 
 #: GroupsSorting.src#STR_RPT_HELP_SORT.string.text
 msgid ""
@@ -43212,11 +43212,11 @@ msgstr "Sórtáil agus Grúpáil..."
 
 #: Navigator.src#RID_MENU_NAVIGATOR.SID_PAGEHEADERFOOTER.menuitem.text
 msgid "Page Header/Footer..."
-msgstr ""
+msgstr "Ceanntásc/Buntásc an Leathanaigh..."
 
 #: Navigator.src#RID_MENU_NAVIGATOR.SID_REPORTHEADERFOOTER.menuitem.text
 msgid "Report Header/Footer..."
-msgstr ""
+msgstr "Ceanntásc/Buntásc na Tuairisce..."
 
 #: Navigator.src#RID_MENU_NAVIGATOR.SID_RPT_NEW_FUNCTION.menuitem.text
 msgid "New Function"
@@ -43275,7 +43275,7 @@ msgstr " & \" as \" & #PAGECOUNT#"
 
 #: inspection.src#RID_STR_FORCENEWPAGE.string.text
 msgid "Force New Page"
-msgstr ""
+msgstr "Fórsáil Leathanach Nua"
 
 #: inspection.src#RID_STR_FORCENEWPAGE_CONST.string.text
 msgid "None;Before Section;After Section;Before & After Section"
@@ -43361,7 +43361,7 @@ msgstr ""
 
 #: inspection.src#RID_STR_DEEPTRAVERSING.string.text
 msgid "Deep traversing"
-msgstr ""
+msgstr "Trasnáil dhomhain"
 
 #: inspection.src#RID_STR_PREEVALUATED.string.text
 msgid "Pre evaluation"
@@ -43409,7 +43409,7 @@ msgstr ""
 
 #: inspection.src#RID_STR_ILLEGAL_POSITION.string.text
 msgid "This position can not be set. It is invalid."
-msgstr ""
+msgstr "Ní féidir an t-ionad seo a shocrú.  Tá sé neamhbhailí."
 
 # verb
 #: inspection.src#RID_STR_SCOPE_GROUP.string.text
@@ -43468,7 +43468,7 @@ msgstr "Grúpa"
 
 #: report.src#STR_SHOW_RULER.string.text
 msgid "Show ruler"
-msgstr ""
+msgstr "Taispeáin rialóir"
 
 #: report.src#STR_SHOW_GRID.string.text
 msgid "Show grid"
@@ -43476,47 +43476,47 @@ msgstr "Taispeáin greille"
 
 #: report.src#RID_STR_UNDO_CHANGEPOSITION.string.text
 msgid "Change Object"
-msgstr ""
+msgstr "Athraigh Réad"
 
 #: report.src#RID_STR_UNDO_MOVE_GROUP.string.text
 msgid "Move Group(s)"
-msgstr ""
+msgstr "Bog Grúpa(í)"
 
 #: report.src#RID_STR_UNDO_REMOVE_REPORTHEADERFOOTER.string.text
 msgid "Remove report header / report footer"
-msgstr ""
+msgstr "Bain ceanntásc/buntásc ón tuairisc"
 
 #: report.src#RID_STR_UNDO_ADD_REPORTHEADERFOOTER.string.text
 msgid "Add report header / report footer"
-msgstr ""
+msgstr "Cuir ceanntásc/buntásc leis an tuairisc"
 
 #: report.src#RID_STR_UNDO_REMOVE_PAGEHEADERFOOTER.string.text
 msgid "Remove page header / page footer"
-msgstr ""
+msgstr "Bain ceanntásc/buntásc ón leathanach"
 
 #: report.src#RID_STR_UNDO_ADD_PAGEHEADERFOOTER.string.text
 msgid "Add page header / page footer"
-msgstr ""
+msgstr "Cuir ceanntásc/buntásc leis an leathanach"
 
 #: report.src#RID_STR_UNDO_PROPERTY.string.text
 msgid "Change property '#'"
-msgstr ""
+msgstr "Athraigh airí '#'"
 
 #: report.src#RID_STR_UNDO_ADD_GROUP_HEADER.string.text
 msgid "Add group header "
-msgstr ""
+msgstr "Cuir ceanntásc leis an ngrúpa "
 
 #: report.src#RID_STR_UNDO_REMOVE_GROUP_HEADER.string.text
 msgid "Remove group header "
-msgstr ""
+msgstr "Bain ceanntásc ón ghrúpa "
 
 #: report.src#RID_STR_UNDO_ADD_GROUP_FOOTER.string.text
 msgid "Add group footer "
-msgstr ""
+msgstr "Cuir buntásc leis an ngrúpa "
 
 #: report.src#RID_STR_UNDO_REMOVE_GROUP_FOOTER.string.text
 msgid "Remove group footer "
-msgstr ""
+msgstr "Bain buntásc ón ghrúpa "
 
 #: report.src#RID_STR_UNDO_ADDFUNCTION.string.text
 msgid "Add function"
@@ -43623,7 +43623,7 @@ msgstr "~Oiriúnaigh don airde is mó"
 
 #: report.src#RID_MENU_REPORT.SID_OBJECT_RESIZING.menuitem.text
 msgid "~Object Resizing"
-msgstr ""
+msgstr "Athrú Méide ~Réada"
 
 #: report.src#RID_STR_FIELDSELECTION.string.text
 #: fmstring.src#RID_STR_FIELDSELECTION.string.text
@@ -43665,7 +43665,7 @@ msgstr "Athraigh an cló"
 
 #: report.src#RID_STR_UNDO_CHANGEPAGE.string.text
 msgid "Change page attributes"
-msgstr ""
+msgstr "Athraigh tréithe an leathanaigh"
 
 #: report.src#RID_STR_PAGEHEADERFOOTER_INSERT.string.text
 msgid "Insert Page Header/Footer"
@@ -43693,12 +43693,13 @@ msgstr "Scrios Ceanntásc/Buntásc Tuairisce"
 
 #: report.src#RID_ERR_NO_COMMAND.string.text
 msgid "The report can not be executed unless it is bound to content."
-msgstr ""
+msgstr "Ní féidir an tuairisc a rith mura bhfuil sí nasctha le hábhar."
 
 #: report.src#RID_ERR_NO_OBJECTS.string.text
 msgid ""
 "The report can not be executed unless at least one object has been inserted."
 msgstr ""
+"Ní féidir an tuairisc a rith go dtí go n-ionsáitear réad amháin ar a laghad."
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Workday.1.string.text
 msgid ""
@@ -48243,23 +48244,23 @@ msgstr "ROT13"
 
 #: solver.src#RID_SOLVER_COMPONENT.string.text
 msgid "%PRODUCTNAME Linear Solver"
-msgstr ""
+msgstr "Réiteoir Líneach %PRODUCTNAME"
 
 #: solver.src#RID_PROPERTY_NONNEGATIVE.string.text
 msgid "Assume variables as non-negative"
-msgstr ""
+msgstr "Glac leis go bhfuil na hathróga neamhdhiúltach"
 
 #: solver.src#RID_PROPERTY_INTEGER.string.text
 msgid "Assume variables as integer"
-msgstr ""
+msgstr "Glac leis gur slánuimhreacha iad na hathróga"
 
 #: solver.src#RID_PROPERTY_TIMEOUT.string.text
 msgid "Solving time limit (seconds)"
-msgstr ""
+msgstr "Teorainn ama don réiteach (soicindí)"
 
 #: solver.src#RID_PROPERTY_EPSILONLEVEL.string.text
 msgid "Epsilon level (0-3)"
-msgstr ""
+msgstr "Leibhéal eipsealón (0-3)"
 
 #: solver.src#RID_PROPERTY_LIMITBBDEPTH.string.text
 msgid "Limit branch-and-bound depth"
@@ -48267,11 +48268,11 @@ msgstr ""
 
 #: solver.src#RID_ERROR_NONLINEAR.string.text
 msgid "The model is not linear."
-msgstr ""
+msgstr "Ní samhail líneach á seo."
 
 #: solver.src#RID_ERROR_EPSILONLEVEL.string.text
 msgid "The epsilon level is invalid."
-msgstr ""
+msgstr "Tá an leibhéal eipsealón neamhbhailí."
 
 #: solver.src#RID_ERROR_INFEASIBLE.string.text
 msgid "The model is infeasible. Check limiting conditions."
@@ -48279,11 +48280,11 @@ msgstr ""
 
 #: solver.src#RID_ERROR_UNBOUNDED.string.text
 msgid "The model is unbounded."
-msgstr ""
+msgstr "Tá an tsamhail neamhtheoranta."
 
 #: solver.src#RID_ERROR_TIMEOUT.string.text
 msgid "The time limit was reached."
-msgstr ""
+msgstr "Sroicheadh an teorainn ama."
 
 #: module_activex.ulf#STR_NAME_MODULE_OPTIONAL_ACTIVEXCONTROL.LngText.text
 msgid "ActiveX Control"
@@ -48335,11 +48336,11 @@ msgstr "Maidir le %PRODUCTNAME Base"
 
 #: module_binfilter.ulf#STR_NAME_MODULE_OPTIONAL_BINFILTER.LngText.text
 msgid "Legacy Filters"
-msgstr ""
+msgstr "Scagairí Oidhreachta"
 
 #: module_binfilter.ulf#STR_DESC_MODULE_OPTIONAL_BINFILTER.LngText.text
 msgid "Legacy filters, e.g. StarOffice 5.2 binary file formats."
-msgstr ""
+msgstr "Scagairí Oidhreachta, m.sh. formáidí dénártha StarOffice 5.2."
 
 #: registryitem_binfilter.ulf#STR_REG_VAL_NEW.LngText.text
 #: registryitem_calc.ulf#STR_REG_VAL_NEW.LngText.text
@@ -48525,7 +48526,7 @@ msgstr "Comhtháthú GNOME"
 msgid ""
 "System integration of %PRODUCTNAME %PRODUCTVERSION into Gnome Desktop "
 "Environment."
-msgstr ""
+msgstr "Comhtháthú %PRODUCTNAME %PRODUCTVERSION le Gnome."
 
 #: module_graphicfilter.ulf#STR_NAME_MODULE_OPTIONAL_GRFFLT.LngText.text
 msgid "Graphics Filters"
@@ -48837,7 +48838,7 @@ msgstr "Comhtháthú KDE"
 
 #: module_kde.ulf#STR_DESC_MODULE_OPTIONAL_KDE.LngText.text
 msgid "System integration of %PRODUCTNAME %PRODUCTVERSION into KDE."
-msgstr ""
+msgstr "Comhtháthú %PRODUCTNAME %PRODUCTVERSION le KDE."
 
 #: folderitem_math.ulf#STR_FI_TOOLTIP_MATH.LngText.text
 #: launcher_comment.ulf#math.LngText.text
@@ -48935,6 +48936,8 @@ msgid ""
 "The office productivity suite compatible to the open and standardized ODF "
 "document format. Supported by Sun Microsystems."
 msgstr ""
+"Sraith feidhmchlár le haghaidh táirgiúlachta oifige atá comhoiriúnach don "
+"fhormáid oscailte chaighdeánach ODF. Tacaíonn Sun Microsystems leis."
 
 #: module_headless.ulf#STR_NAME_MODULE_OPTIONAL_HEADLESS.LngText.text
 msgid "Headless application support"
@@ -48942,7 +48945,7 @@ msgstr ""
 
 #: module_headless.ulf#STR_DESC_MODULE_OPTIONAL_HEADLESS.LngText.text
 msgid "Component for enabling use %PRODUCTNAME without a display"
-msgstr ""
+msgstr "Comhpháirt a cheadaíonn duit %PRODUCTNAME a úsáid gan scáileán"
 
 #: module_java.ulf#STR_NAME_MODULE_OPTIONAL_JAVA.LngText.text
 msgid "Java Runtime Environment (%JAVAVERSION)"
@@ -48950,7 +48953,7 @@ msgstr "Timpeallacht Amrite Java (%JAVAVERSION)"
 
 #: module_java.ulf#STR_DESC_MODULE_OPTIONAL_JAVA.LngText.text
 msgid "Component for setting up the Java Environment"
-msgstr ""
+msgstr "Comhpháirt chumraíocht na Timpeallachta Java"
 
 #: module_langpack.ulf#STR_NAME_MODULE_ROOT_LANGPACK.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_ROOT_LANGPACK.LngText.text"
@@ -49875,11 +49878,11 @@ msgstr ""
 
 #: module_systemint.ulf#STR_NAME_MODULE_OPTIONAL_SYSTEMINTEGRATION.LngText.text
 msgid "Desktop integration"
-msgstr ""
+msgstr "Comhtháthú deisce"
 
 #: module_systemint.ulf#STR_DESC_MODULE_OPTIONAL_SYSTEMINTEGRATION.LngText.text
 msgid "Desktop integration of %PRODUCTNAME %PRODUCTVERSION."
-msgstr ""
+msgstr "Comhtháthú deisce %PRODUCTNAME %PRODUCTVERSION."
 
 #: registryitem_ooo.ulf#STR_REG_VAL_INSTALL.LngText.text
 msgid "&Install"
@@ -49933,7 +49936,7 @@ msgstr ""
 
 #: module_sdkoo.ulf#STR_NAME_MODULE_OPTIONAL_SDKOO.LngText.text
 msgid "Software Development Kit (SDK)"
-msgstr ""
+msgstr "Software Development Kit (SDK)"
 
 #: module_sdkoo.ulf#STR_DESC_MODULE_OPTIONAL_SDKOO.LngText.text
 msgid ""
@@ -51151,7 +51154,7 @@ msgstr "#LUACH!"
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_ERROR_REF.string.text
 #: globstr.src#RID_GLOBSTR.STR_NO_REF_TABLE.string.text
 msgid "#REF!"
-msgstr ""
+msgstr "#REF!"
 
 #: compiler.src#RID_SC_FUNCTION_NAMES.SC_OPCODE_ERROR_NAME.string.text
 msgid "#NAME?"
@@ -79021,7 +79024,7 @@ msgstr "Hásais (Gána)"
 
 #: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_EWE_GHANA.pairedlist.text
 msgid "Éwé"
-msgstr ""
+msgstr "Éivéis"
 
 #: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_ENGLISH_GHANA.pairedlist.text
 msgid "English (Ghana)"
@@ -79050,11 +79053,12 @@ msgstr "Gearmáinis Íochtarach"
 
 #: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_HILIGAYNON.pairedlist.text
 msgid "Hiligaynon"
-msgstr ""
+msgstr "Hiligionóinis"
 
+# Soyapi preferred "Chichewa"
 #: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_NYANJA.pairedlist.text
 msgid "Nyanja"
-msgstr ""
+msgstr "Siseivis"
 
 #: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_KASHUBIAN.pairedlist.text
 msgid "Kashubian"
@@ -79066,7 +79070,7 @@ msgstr "Spáinnis (Cúba)"
 
 #: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_TETUN.pairedlist.text
 msgid "Tetun (Indonesia)"
-msgstr ""
+msgstr "Teitinis (An Indinéis)"
 
 #: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_QUECHUA_NORTH_BOLIVIA.pairedlist.text
 msgid "Quechua (Bolivia, North)"
@@ -79118,19 +79122,21 @@ msgstr "Sáimis Theas (An tSualainn)"
 
 #: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_SAMI_KILDIN_RUSSIA.pairedlist.text
 msgid "Sami, Kildin (Russia)"
-msgstr ""
+msgstr "Sáimis, Kildin (An Rúis)"
 
+# not "An Paragua", so this is better
 #: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_GUARANI_PARAGUAY.pairedlist.text
 msgid "Guaraní, Paraguayan"
-msgstr ""
+msgstr "Guaráinis Pharaguach"
 
+# pronounced "Boro"
 #: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_BODO_INDIA.pairedlist.text
 msgid "Bodo"
-msgstr ""
+msgstr "Boróis"
 
 #: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_DOGRI_INDIA.pairedlist.text
 msgid "Dogri"
-msgstr ""
+msgstr "Dóigris"
 
 #: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_MAITHILI_INDIA.pairedlist.text
 msgid "Maithili"
@@ -79138,11 +79144,11 @@ msgstr ""
 
 #: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_SANTALI_INDIA.pairedlist.text
 msgid "Santali"
-msgstr ""
+msgstr "Santáilis"
 
 #: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_TETUN_TIMOR_LESTE.pairedlist.text
 msgid "Tetun (Timor-Leste)"
-msgstr ""
+msgstr "Teitinis (Tíomór Thoir)"
 
 #: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_TURKMEN.pairedlist.text
 msgid "Turkmen"
@@ -79154,7 +79160,7 @@ msgstr "Taispeáin aitheantais"
 
 #: testtool.src#DisplayHidToolBox.TT_OUTPUT.toolboxitem.text
 msgid "This is the input window"
-msgstr "Is an fhuinneog ionchuir í seo"
+msgstr "Seo é an fhuinneog ionchuir"
 
 #: testtool.src#DisplayHidToolBox.TT_SEND_DATA.toolboxitem.text
 msgid "Transfer to TestTool"
@@ -114891,15 +114897,15 @@ msgstr "Caithfear rogha a dhearbhú."
 
 #: template.src#AgendaDlgFrame.string.text
 msgid "Minutes Type"
-msgstr ""
+msgstr "Cineál na Miontuairiscí"
 
 #: template.src#AgendaDlgButton1.string.text
 msgid "Results Minutes"
-msgstr ""
+msgstr "Miontuairiscí Torthaí"
 
 #: template.src#AgendaDlgButton2.string.text
 msgid "Evaluation Minutes"
-msgstr ""
+msgstr "Miontuairiscí Meastóireachta"
 
 #: template.src#CorrespondenceNoTextmark.string.text
 msgid "The bookmark 'Recipient' is missing."
