@@ -51485,6 +51485,9 @@ msgid ""
 "A valid source can only consist of a contiguous selection of rows and "
 "columns, or a formula that results in an area or array."
 msgstr ""
+"Ní féidir a bheith ann i bhfoinse bhailí, ach amháin rogha chomhtheagmhálach "
+"de shraitheanna agus colúin, nó foirmle atá limistéar nó eagar mar thoradh "
+"uirthi."
 
 #: validate.src#TP_VALIDATION_VALUES.tabpage.text
 #: srchdlg.src#RID_SVXDLG_SEARCH.LB_CALC_SEARCHIN.2.stringlist.text
@@ -52825,7 +52828,7 @@ msgstr "Taispeáin Athruithe"
 
 #: sharedocdlg.src#RID_SCDLG_SHAREDOCUMENT.CB_SHARE.checkbox.text
 msgid "Share this spreadsheet with other users"
-msgstr ""
+msgstr "Comhroinn an scarbhileog seo le húsáideoirí eile"
 
 #: sharedocdlg.src#RID_SCDLG_SHAREDOCUMENT.FT_WARNING.fixedtext.text
 msgid ""
@@ -52834,10 +52837,15 @@ msgid ""
 "drawing objects are not available in shared mode. Turn off shared mode to "
 "get exclusive access needed for those changes and functionalities."
 msgstr ""
+"Tabhair faoi deara: Ní shábhálfar athruithe ar thréithe formáidithe cosúil "
+"le clónna, dathanna nó formáidí uimhreacha, agus ní bhíonn roinnt "
+"feidhmiúlachtaí ar nós cairteacha eagarthóireachta nó réada líníochta ar "
+"fáil sa mhód comhroinnte. Múch an mód comhroinnte chun an rochtain eisiach "
+"atá riachtanach do na hathruithe agus feidhmiúlachtaí sin a fháil."
 
 #: sharedocdlg.src#RID_SCDLG_SHAREDOCUMENT.FT_USERS.fixedtext.text
 msgid "Users currently accessing this spreadsheet"
-msgstr ""
+msgstr "Úsáideoirí atá ag rochtain ar an scarbhileog seo faoi láthair"
 
 #: sharedocdlg.src#RID_SCDLG_SHAREDOCUMENT.STR_TITLE_ACCESSED.string.text
 msgid "Accessed"
@@ -52850,15 +52858,15 @@ msgstr ""
 #: sharedocdlg.src#RID_SCDLG_SHAREDOCUMENT.STR_UNKNOWN_USER.string.text
 msgctxt "sharedocdlg.src#RID_SCDLG_SHAREDOCUMENT.STR_UNKNOWN_USER.string.text"
 msgid "Unknown User"
-msgstr ""
+msgstr "Úsáideoir Anaithnid"
 
 #: sharedocdlg.src#RID_SCDLG_SHAREDOCUMENT.STR_EXCLUSIVE_ACCESS.string.text
 msgid "(exclusive access)"
-msgstr ""
+msgstr "(rochtain eisiach)"
 
 #: sharedocdlg.src#RID_SCDLG_SHAREDOCUMENT.modaldialog.text
 msgid "Share Document"
-msgstr ""
+msgstr "Comhroinn Cáipéis"
 
 #: acredlin.src#RID_SCDLG_CHANGES.RB_ASSIGN.imagebutton.text
 msgctxt "acredlin.src#RID_SCDLG_CHANGES.RB_ASSIGN.imagebutton.text"
@@ -52973,26 +52981,29 @@ msgid ""
 "There are conflicting changes in this shared spreadsheet. Conflicts must be "
 "resolved before saving the spreadsheet. Keep either own or other changes."
 msgstr ""
+"Tá athruithe ag teacht salach ar a chéile sa chomh-scarbhileog seo. "
+"Caithfear coinbhleachtaí a réiteach sula sábhálfar an scarbhileog. Coimeád "
+"ceachtar de d'athruithe féin nó athruithe eile."
 
 #: conflictsdlg.src#RID_SCDLG_CONFLICTS.BTN_KEEPMINE.pushbutton.text
 msgid "Keep ~Mine"
-msgstr ""
+msgstr "Coimeád ~Mo Chuid"
 
 #: conflictsdlg.src#RID_SCDLG_CONFLICTS.BTN_KEEPOTHER.pushbutton.text
 msgid "Keep ~Other"
-msgstr ""
+msgstr "Coimeád Na ~Cinn Eile"
 
 #: conflictsdlg.src#RID_SCDLG_CONFLICTS.BTN_KEEPALLMINE.pushbutton.text
 msgid "~Keep All Mine"
-msgstr ""
+msgstr "~Coimeád Mo Chuid Ar Fad"
 
 #: conflictsdlg.src#RID_SCDLG_CONFLICTS.BTN_KEEPALLOTHERS.pushbutton.text
 msgid "Keep ~All Others"
-msgstr ""
+msgstr "Coimeád ~An Chuid Eile Ar Fad"
 
 #: conflictsdlg.src#RID_SCDLG_CONFLICTS.STR_TITLE_CONFLICT.string.text
 msgid "Conflict"
-msgstr ""
+msgstr "Coinbhleacht"
 
 #: conflictsdlg.src#RID_SCDLG_CONFLICTS.STR_TITLE_AUTHOR.string.text
 msgctxt "conflictsdlg.src#RID_SCDLG_CONFLICTS.STR_TITLE_AUTHOR.string.text"
@@ -53007,11 +53018,11 @@ msgstr "Dáta"
 #: conflictsdlg.src#RID_SCDLG_CONFLICTS.STR_UNKNOWN_USER.string.text
 msgctxt "conflictsdlg.src#RID_SCDLG_CONFLICTS.STR_UNKNOWN_USER.string.text"
 msgid "Unknown User"
-msgstr ""
+msgstr "Úsáideoir Anaithnid"
 
 #: conflictsdlg.src#RID_SCDLG_CONFLICTS.modaldialog.text
 msgid "Resolve Conflicts"
-msgstr ""
+msgstr "Réitigh Coinbhleachtaí"
 
 #: instbdlg.src#RID_SCDLG_INSERT_TABLE.FL_POSITION.fixedline.text
 msgctxt "instbdlg.src#RID_SCDLG_INSERT_TABLE.FL_POSITION.fixedline.text"
@@ -63084,6 +63095,8 @@ msgid ""
 "The range does not contain column headers.\n"
 "Do you want the first line to be used as column header?"
 msgstr ""
+"Níl ceanntásca colúin le fáil sa raon.\n"
+"Ar mhaith leat an chéad líne a úsáid mar cheanntásc colúin?"
 
 #: globstr.src#RID_GLOBSTR.STR_MSSG_IMPORTDATA_0.string.text
 msgid "Error while importing data!"
@@ -63141,11 +63154,13 @@ msgstr "Ní féidir scriosadh i raonta cumaiscthe"
 
 #: globstr.src#RID_GLOBSTR.STR_MSSG_MERGECELLS_0.string.text
 msgid "Cell merge not possible if cells already merged"
-msgstr ""
+msgstr "Ní féidir cealla a chumasc má tá na cealla cumaiscthe cheana féin"
 
 #: globstr.src#RID_GLOBSTR.STR_SORT_ERR_MERGED.string.text
 msgid "Ranges containing merged cells can only be sorted without formats."
 msgstr ""
+"Ní féidir raonta a bhfuil cealla cumaiscthe iontu a shórtáil ach amháin gan "
+"formáidí."
 
 #: globstr.src#RID_GLOBSTR.STR_MSSG_SEARCHANDREPLACE_0.string.text
 #: view.src#MSG_NOT_FOUND.infobox.text
@@ -63482,7 +63497,7 @@ msgstr "Earr:"
 
 #: globstr.src#RID_GLOBSTR.STR_LONG_ERR_NULL.string.text
 msgid "Error: Ranges do not intersect"
-msgstr ""
+msgstr "Earráid: Ní thrasnaíonn na raonta"
 
 #: globstr.src#RID_GLOBSTR.STR_LONG_ERR_DIV_ZERO.string.text
 msgid "Error: Division by zero"
@@ -63490,7 +63505,7 @@ msgstr "Earráid: Roinnt le nialas"
 
 #: globstr.src#RID_GLOBSTR.STR_LONG_ERR_NO_VALUE.string.text
 msgid "Error: Wrong data type"
-msgstr ""
+msgstr "Earráid: Cineál sonraí mícheart"
 
 #: globstr.src#RID_GLOBSTR.STR_LONG_ERR_NO_REF.string.text
 msgid "Error: Not a valid reference"
@@ -63502,7 +63517,7 @@ msgstr "Earráid: Ainm neamhbhailí"
 
 #: globstr.src#RID_GLOBSTR.STR_LONG_ERR_ILL_FPO.string.text
 msgid "Error: Invalid numeric value"
-msgstr ""
+msgstr "Earráid: Luach uimhriúil neamhbhailí"
 
 #: globstr.src#RID_GLOBSTR.STR_LONG_ERR_NV.string.text
 msgid "Error: Value not available"
@@ -63827,7 +63842,7 @@ msgstr "Smeach an bhileog"
 
 #: globstr.src#RID_GLOBSTR.STR_UNDO_TAB_R1C1.string.text
 msgid "Toggle the use of R1C1 notation"
-msgstr ""
+msgstr "Scoránaigh úsáid na nodaireachta R1C1"
 
 #: globstr.src#RID_GLOBSTR.STR_CHART_XTITLE.string.text
 msgid "X axis title"
@@ -64142,6 +64157,8 @@ msgid ""
 "The maximum number of invalid cells has been exceeded.\n"
 "Not all invalid cells have been marked."
 msgstr ""
+"Sáraítear uasmhéid na gceall neamhbhailí.\n"
+"Ní mharcáilítear an uile chill neamhbhailí."
 
 #: globstr.src#RID_GLOBSTR.STR_QUICKHELP_DELETE.string.text
 msgid "Delete contents"
@@ -64197,7 +64214,7 @@ msgstr "Fo-Iomláin"
 
 #: globstr.src#RID_GLOBSTR.STR_IMPORT_REPLACE.string.text
 msgid "Do you want to replace the contents of #?"
-msgstr ""
+msgstr "Ar mhaith leat a bhfuil in # a ionadú?"
 
 #: globstr.src#RID_GLOBSTR.STR_TIP_WIDTH.string.text
 #: attrdesc.src#STR_FRM_WIDTH.string.text
@@ -64253,7 +64270,7 @@ msgstr "Ní féidir an cháipéis a dhúnadh agus nasc á nuashonrú."
 
 #: globstr.src#RID_GLOBSTR.STR_UNDO_RESIZEMATRIX.string.text
 msgid "Adapt array area"
-msgstr ""
+msgstr "Oiriúnaigh limistéar an eagair"
 
 #: globstr.src#RID_GLOBSTR.STR_TIP_RESIZEMATRIX.string.text
 msgid "Array formula  %1 R x %2 C"
@@ -64300,7 +64317,7 @@ msgstr "Roghnaigh Ainm ar an Raon"
 
 #: globstr.src#RID_GLOBSTR.STR_NAME_ERROR_SELECTION.string.text
 msgid "The selection needs to be rectangular in order to name it."
-msgstr ""
+msgstr "Caithfidh go bhfuil an rogha dronuilleach chun ainm a chur uirthi."
 
 #: globstr.src#RID_GLOBSTR.STR_NAME_ERROR_NAME.string.text
 msgid ""
@@ -64314,12 +64331,16 @@ msgid ""
 "WARNING: This action may have resulted in unintended changes to cell "
 "references in formulas."
 msgstr ""
+"RABHADH: Mar gheall ar an ngníomh seo b'fhéidir go ndearnadh athruithe "
+"neamhbheartaithe do thagairtí do chealla i bhfoirmlí."
 
 #: globstr.src#RID_GLOBSTR.STR_CHANGED_DELETE_REJECTION_WARNING.string.text
 msgid ""
 "WARNING: This action may have resulted in references to the deleted area not "
 "being restored."
 msgstr ""
+"RABHADH: Mar gheall ar an ngníomh seo b'fhéidir nach n-aischuireadh tagairtí "
+"don limistéar scriosta."
 
 #: globstr.src#RID_GLOBSTR.STR_HF_NONE_IN_BRACKETS.string.text
 #: app.src#STR_FMT_STD.string.text fmtui.src#STR_FMT_STD.string.text
@@ -64350,7 +64371,7 @@ msgstr "Aistriúchán na Sínise"
 
 #: globstr.src#RID_GLOBSTR.STR_ERR_DATAPILOT_INPUT.string.text
 msgid "You cannot change this part of the DataPilot table."
-msgstr ""
+msgstr "Ní féidir leat an chuid seo den tábla DataPilot a athrú."
 
 #: globstr.src#RID_GLOBSTR.STR_RECALC_MANUAL.string.text
 #: svuidlg.src#MD_UPDATE_BASELINKS.STR_MANUALLINK.string.text
@@ -64360,11 +64381,11 @@ msgstr "De Láimh"
 
 #: globstr.src#RID_GLOBSTR.STR_ERR_LONG_NESTED_ARRAY.string.text
 msgid "Nested arrays are not supported."
-msgstr ""
+msgstr "Ní thacaítear eagair neadaithe."
 
 #: globstr.src#RID_GLOBSTR.STR_DOC_UPDATED.string.text
 msgid "Your spreadsheet has been updated with changes saved by other users."
-msgstr ""
+msgstr "Nuashonraíodh do scarbhileog le hathruithe a shábháil úsáideoirí eile."
 
 #: globstr.src#RID_GLOBSTR.STR_DOC_WILLBESAVED.string.text
 msgid ""
@@ -64372,6 +64393,10 @@ msgid ""
 "\n"
 "Do you want to continue?"
 msgstr ""
+"Caithfear an scarbhileog a shábháil anois chun an mód comhroinnte a "
+"ghníomhachtú.\n"
+"\n"
+"Ar mhaith leat lean ar aghaidh?"
 
 #: globstr.src#RID_GLOBSTR.STR_DOC_WILLNOTBESAVED.string.text
 msgid ""
@@ -64380,6 +64405,10 @@ msgid ""
 "\n"
 "Do you want to continue?"
 msgstr ""
+"Caillfear coinbhleachtaí cumaisc a réitíodh cheana féin, agus ní shábhálfar "
+"do chuid athruithe don scarbhileog comhroinnte.\n"
+"\n"
+"Ar mhaith leat lean ar aghaidh?"
 
 #: globstr.src#RID_GLOBSTR.STR_DOC_DISABLESHARED.string.text
 msgid ""
@@ -64388,6 +64417,10 @@ msgid ""
 "\n"
 "Do you want to continue?"
 msgstr ""
+"Má dhíchumasaítear an mód comhroinnte do scarbhileog, cuirfear bac ar gach "
+"úsáideoir eile na scarbhileoga comhroinnte a chuid oibre a chumasc ar ais.\n"
+"\n"
+"Ar mhaith leat lean ar aghaidh"
 
 #: globstr.src#RID_GLOBSTR.STR_DOC_NOLONGERSHARED.string.text
 msgid ""
@@ -64396,6 +64429,10 @@ msgid ""
 "Save your spreadsheet to a separate file and merge your changes to the "
 "shared spreadsheet manually."
 msgstr ""
+"Níl an scarbhileog seo sa mhód comhroinnte a thuilleadh.\n"
+"\n"
+"Sábháil do scarbhileog mar chomhad ar leith agus cumaisc isteach de láimh do "
+"chuid athruithe sa scarbhileog chomhroinnte."
 
 #: globstr.src#RID_GLOBSTR.STR_SHARED_DOC_WARNING.string.text
 msgid ""
@@ -64407,6 +64444,15 @@ msgid ""
 "objects are not available in shared mode. Turn off shared mode to get "
 "exclusive access needed for those changes and functionalities."
 msgstr ""
+"Tá an scarbhileog seo sa mhód comhroinnte. Ceadaíonn sé seo do níos mó ná "
+"úsáideoir amháin rochtain ar an scarbhileog agus í a chur in eagar ag an am "
+"céanna.\n"
+"\n"
+"Ní shábhálfar athruithe ar thréithe formáidithe cosúil le clónna, dathanna "
+"nó formáidí uimhreacha, agus ní bhíonn roinnt feidhmiúlachtaí ar nós "
+"cairteacha eagarthóireachta nó réada líníochta ar fáil sa mhód comhroinnte. "
+"Cas as an mód comhroinnte chun an rochtain eisiach atá riachtanach do na "
+"hathruithe agus feidhmiúlachtaí sin a fháil."
 
 #: globstr.src#RID_GLOBSTR.STR_FILE_LOCKED_TRY_LATER.string.text
 msgid ""
@@ -64415,6 +64461,11 @@ msgid ""
 "\n"
 "Sharing mode of a locked file cannot be disabled. Try again later."
 msgstr ""
+"Tá an comhad scarbhileoga comhroinnte faoi ghlas mar gheall ar chumasc "
+"gníomhach a chuir an t-úsáideoir '%1' ar bun.\n"
+"\n"
+"Ní féidir an mód comhroinnte a dhíchumasú má tá comhad glasáilte i gceist. "
+"Déan athiarracht níos déanaí."
 
 #: globstr.src#RID_GLOBSTR.STR_FILE_LOCKED_SAVE_LATER.string.text
 msgid ""
@@ -64423,6 +64474,10 @@ msgid ""
 "\n"
 "Try again later to save your changes."
 msgstr ""
+"Tá an comhad scarbhileoga comhroinnte faoi ghlas mar gheall ar chumasc "
+"gníomhach a chuir an t-úsáideoir '%1' ar bun.\n"
+"\n"
+"Déan athiarracht níos déanaí chun do chuid athruithe a shábháil."
 
 #: globstr.src#RID_GLOBSTR.STR_UNKNOWN_USER.string.text
 #: openlocked.src#STR_OPENLOCKED_UNKNOWNUSER.string.text
