@@ -99828,7 +99828,7 @@ msgid ""
 "xhp\">MediaWiki</link> dialog opens."
 msgstr ""
 "Nuair a chliceálann tú Cuir Leis nó Cuir in Eagar, osclaíonn an dialóg <link "
-"ref=\"@WIKIEXTENSIONID@/wikiaccount.xhp\">MediaWiki</link>."
+"href=\"@WIKIEXTENSIONID@/wikiaccount.xhp\">MediaWiki</link>."
 
 #: wikiaccount.xhp#tit.help.text
 msgctxt "wikiaccount.xhp#tit.help.text"
