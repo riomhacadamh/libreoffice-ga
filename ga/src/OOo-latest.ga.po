@@ -19922,6 +19922,7 @@ msgstr "Ceanntásc Leathanaigh"
 msgid "Page Footer"
 msgstr "Buntásc Leathanaigh"
 
+# ok for GroupsSorting; see http://www.teacherclick.com/access2003/t_12_6.htm
 #: ExtendedColorScheme.xcu#..ExtendedColorScheme.EntryNames.SunReportBuilder.Entries.GroupHeader.DisplayName.value.text
 #: strings.src#RID_STR_GROUP_HEADER.string.text
 #: GroupsSorting.src#RID_GROUPS_SORTING.FT_HEADER.fixedtext.text
@@ -40972,7 +40973,7 @@ msgstr "Base: Dearadh Foirme"
 
 #: Setup.xcu#..Setup.Office.Factories.com.sun.star.sdb.TextReportDesign.ooSetupFactoryUIName.value.text
 msgid "Base: Report Design"
-msgstr ""
+msgstr "Base: Dearadh Tuairisce"
 
 #: Setup.xcu#..Setup.Office.Factories.com.sun.star.xforms.XMLFormDocument.ooSetupFactoryUIName.value.text
 #: swslots.src#FN_XFORMS_INIT.sfxslotinfo.text
@@ -42963,7 +42964,7 @@ msgctxt "GroupsSorting.src#RID_GROUPS_SORTING.LST_FOOTERLST.2.stringlist.text"
 msgid "Not present"
 msgstr "As láthair"
 
-# verb
+# verb; http://www.teacherclick.com/access2003/t_12_6.htm
 #: GroupsSorting.src#RID_GROUPS_SORTING.FT_GROUPON.fixedtext.text
 msgid "Group On"
 msgstr "Grúpáil De Réir"
@@ -42972,9 +42973,10 @@ msgstr "Grúpáil De Réir"
 msgid "Each Value"
 msgstr "Gach Luach"
 
+# http://www.teacherclick.com/access2003/t_12_6.htm
 #: GroupsSorting.src#RID_GROUPS_SORTING.FT_GROUPINTERVAL.fixedtext.text
 msgid "Group Interval"
-msgstr ""
+msgstr "Líon na gCarachtar"
 
 #: GroupsSorting.src#RID_GROUPS_SORTING.FT_KEEPTOGETHER.fixedtext.text
 #: inspection.src#RID_STR_KEEPTOGETHER.string.text
@@ -42985,9 +42987,10 @@ msgstr "Coinnigh Le Chéile"
 msgid "Whole Group"
 msgstr "An Grúpa Iomlán"
 
+# http://www.teacherclick.com/access2003/t_12_6.htm
 #: GroupsSorting.src#RID_GROUPS_SORTING.LST_KEEPTOGETHERLST.3.stringlist.text
 msgid "With First Detail"
-msgstr ""
+msgstr "Ceanntásc agus an Chéad Mhionsonra"
 
 #: GroupsSorting.src#RID_GROUPS_SORTING.floatingwindow.text
 msgid "Sorting and Grouping"
@@ -42999,11 +43002,12 @@ msgstr "Réimse/Slonn"
 
 #: GroupsSorting.src#STR_RPT_PREFIXCHARS.string.text
 msgid "Prefix Characters"
-msgstr ""
+msgstr "Carachtair Réimíre"
 
+# must be right - see next few
 #: GroupsSorting.src#STR_RPT_QUARTER.string.text
 msgid "Quarter"
-msgstr ""
+msgstr "Ráithe"
 
 #: GroupsSorting.src#STR_RPT_WEEK.string.text
 #: calendar.src#STR_SVT_CALENDAR_WEEK.string.text
@@ -43025,7 +43029,7 @@ msgstr "Eatramh"
 
 #: GroupsSorting.src#STR_RPT_HELP_FIELD.string.text
 msgid "Select a field or type an expression to sort or group on."
-msgstr ""
+msgstr "Roghnaigh réimse nó cuir slonn isteach agus chun é a úsáid agus sórtáil nó grúpáil."
 
 #: GroupsSorting.src#STR_RPT_HELP_HEADER.string.text
 msgid "Display a header for this group?"
@@ -43041,7 +43045,7 @@ msgstr "Roghnaigh luach nó raon luachanna a thosaíonn grúpa nua."
 
 #: GroupsSorting.src#STR_RPT_HELP_INTERVAL.string.text
 msgid "Interval or number of characters to group on."
-msgstr ""
+msgstr "Grúpáil de réir an líon seo carachtar."
 
 #: GroupsSorting.src#STR_RPT_HELP_KEEP.string.text
 msgid "Keep group together on one page?"
@@ -43052,6 +43056,7 @@ msgid ""
 "Select ascending or descending sort order. Ascending means from A to Z or 0 "
 "to 9"
 msgstr ""
+"Roghnaigh ord ardaitheach nó ord íslitheach.  Ciallaíonn \"ardaitheach\" ó A go Z nó ó 0 go 9"
 
 #: DateTime.src#RID_DATETIME_DLG.CB_DATE.checkbox.text
 msgid "Include Date"
@@ -43177,11 +43182,11 @@ msgstr "Líne"
 
 #: CondFormat.src#WIN_CONDITION.LB_COND_TYPE.1.stringlist.text
 msgid "Field Value Is"
-msgstr "Luach an Réimse"
+msgstr "Tá Luach an Réimse"
 
 #: CondFormat.src#WIN_CONDITION.LB_COND_TYPE.2.stringlist.text
 msgid "Expression Is"
-msgstr ""
+msgstr "Tá an Slonn"
 
 #: CondFormat.src#WIN_CONDITION.LB_OP.1.stringlist.text
 #: validate.src#TP_VALIDATION_VALUES.LB_VALUE.7.stringlist.text
@@ -43189,10 +43194,11 @@ msgstr ""
 msgid "between"
 msgstr "idir"
 
+# follows "Tá Luach an Réimse", etc. above presumably
 #: CondFormat.src#WIN_CONDITION.LB_OP.2.stringlist.text
 #: validate.src#TP_VALIDATION_VALUES.LB_VALUE.8.stringlist.text
 msgid "not between"
-msgstr "nach idir"
+msgstr "lasmuigh de"
 
 #: CondFormat.src#WIN_CONDITION.LB_OP.3.stringlist.text
 msgid "equal to"
@@ -43201,7 +43207,7 @@ msgstr "cothrom le"
 #: CondFormat.src#WIN_CONDITION.LB_OP.4.stringlist.text
 #: ctredlin.src#SID_REDLIN_FILTER_PAGE.LB_DATE.4.stringlist.text
 msgid "not equal to"
-msgstr "ní cothrom le"
+msgstr "neamhionann le"
 
 #: CondFormat.src#WIN_CONDITION.LB_OP.5.stringlist.text
 #: validate.src#TP_VALIDATION_VALUES.LB_VALUE.3.stringlist.text
@@ -43328,7 +43334,7 @@ msgstr " & \" as \" & #PAGECOUNT#"
 
 #: Navigator.src#RID_NAVIGATOR.floatingwindow.text
 msgid "Report navigator"
-msgstr ""
+msgstr "Nascleantóir tuairiscí"
 
 #: Navigator.src#RID_STR_GROUPS.string.text
 msgctxt "Navigator.src#RID_STR_GROUPS.string.text"
@@ -69105,27 +69111,27 @@ msgstr "~Oiriúnaigh Ionad go Réad"
 
 #: menuids_tmpl.src#MN_GLUE_HORZALIGN_LEFT.SID_GLUE_HORZALIGN_LEFT.menuitem.text
 msgid "Fixed ~Horizontal Left"
-msgstr ""
+msgstr "Taob~h Clé Suite"
 
 #: menuids_tmpl.src#MN_GLUE_HORZALIGN_CENTER.SID_GLUE_HORZALIGN_CENTER.menuitem.text
 msgid "Fixed Horizontal ~Center"
-msgstr ""
+msgstr "Lár ~Cothrománach Suite"
 
 #: menuids_tmpl.src#MN_GLUE_HORZALIGN_RIGHT.SID_GLUE_HORZALIGN_RIGHT.menuitem.text
 msgid "Fixed Hori~zontal Right"
-msgstr ""
+msgstr "Taobh Dea~s Suite"
 
 #: menuids_tmpl.src#MN_GLUE_VERTALIGN_TOP.SID_GLUE_VERTALIGN_TOP.menuitem.text
 msgid "Fixed ~Vertical Top"
-msgstr ""
+msgstr "Barr an ~Réada Suite"
 
 #: menuids_tmpl.src#MN_GLUE_VERTALIGN_CENTER.SID_GLUE_VERTALIGN_CENTER.menuitem.text
 msgid "Fixed V~ertical Center"
-msgstr ""
+msgstr "Lár Ing~earach Suite"
 
 #: menuids_tmpl.src#MN_GLUE_VERTALIGN_BOTTOM.SID_GLUE_VERTALIGN_BOTTOM.menuitem.text
 msgid "Fixed Ver~tical Bottom"
-msgstr ""
+msgstr "Bun an Réada Sui~te"
 
 #: menuids_tmpl.src#MN_GRID_VISIBLE.SID_GRID_VISIBLE.menuitem.text
 msgid "~Visible Grid"
@@ -94436,7 +94442,7 @@ msgstr "Nach bhfuil trédhearcach"
 
 #: svxitems.src#RID_SVXITEMS_BOXINF_TABLE_FALSE.string.text
 msgid "Not Table"
-msgstr ""
+msgstr "Ní Tábla É"
 
 #: svxitems.src#RID_SVXITEMS_BOXINF_DIST_TRUE.string.text
 msgid "Spacing enabled"
@@ -99022,7 +99028,7 @@ msgstr "Cuir Cruth Fontwork i bhFeidhm"
 
 #: fontworkbar.src#RID_SVXSTR_UNDO_APPLY_FONTWORK_SAME_LETTER_HEIGHT.string.text
 msgid "Apply Fontwork Same Letter Heights"
-msgstr ""
+msgstr "Cuir Comhairde Litreach Fontwork i bhFeidhm"
 
 #: fontworkbar.src#RID_SVXSTR_UNDO_APPLY_FONTWORK_ALIGNMENT.string.text
 msgid "Apply Fontwork Alignment"
