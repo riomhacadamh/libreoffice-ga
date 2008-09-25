@@ -2549,7 +2549,7 @@ msgstr "Fíor"
 #: format.src#STR_BASICKEY_FORMAT_FALSE.string.text
 #: svxitems.src#RID_SVXITEMS_FALSE.string.text
 msgid "False"
-msgstr "Falsa"
+msgstr "Bréagach"
 
 #: basic.src#IDD_EDIT_VAR.RID_ED_NEW_STRING.edit.text
 #: app.src#RID_MENU_APP_EDIT.SID_DB_APP_EDIT.menuitem.text
@@ -15398,7 +15398,7 @@ msgstr "Hipearnasc"
 
 #: xforms.src#RID_STR_DATATYPE_BOOLEAN.string.text
 msgid "True/False (Boolean)"
-msgstr "Fíor/Falsa (luach Boole)"
+msgstr "Fíor/Bréagach (luach Boole)"
 
 #: xforms.src#RID_STR_DATATYPE_DECIMAL.string.text
 #: validate.src#TP_VALIDATION_VALUES.LB_ALLOW.3.stringlist.text
@@ -48352,7 +48352,7 @@ msgstr ""
 msgid ""
 "Returns 1 (TRUE) if the date is a day of a leap year, otherwise 0 (FALSE)."
 msgstr ""
-"Aischuireann 1 (FÍOR) más lá i mbliain bhisigh é an dáta, agus 0 (FALSA) i "
+"Aischuireann 1 (FÍOR) más lá i mbliain bhisigh é an dáta, agus 0 (BRÉAGACH) i "
 "ngach cás eile."
 
 #: datefunc.src#RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_IsLeapYear.2.string.text
@@ -77219,7 +77219,7 @@ msgstr "Gan stóráil."
 
 #: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_FALSE_S_MAX.string.text
 msgid "False."
-msgstr "Falsa."
+msgstr "Bréagach."
 
 #: so3res.src#RID_SO_ERROR_HANDLER.ERRCODE_SO_MK_NEED_GENERIC_S_MAX.string.text
 msgid "Monikers must be composed generically."
