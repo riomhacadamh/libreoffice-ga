@@ -14647,9 +14647,10 @@ msgstr "~Ardtaifeach"
 msgid "Changes"
 msgstr "Athruithe"
 
+# follows previous string "Changes"; see adobe.com docs for all these
 #: impdialog.src#RID_PDF_TAB_SECURITY.RB_CHANGES_NONE.radiobutton.text
 msgid "No~t permitted"
-msgstr "Ní ~cheadaítear é seo"
+msgstr "Ní ~cheadaítear athruithe"
 
 #: impdialog.src#RID_PDF_TAB_SECURITY.RB_CHANGES_INSDEL.radiobutton.text
 msgid "~Inserting, deleting, and rotating pages"
@@ -14665,7 +14666,7 @@ msgstr "~Anótáil, líonadh isteach réimsí foirme"
 
 #: impdialog.src#RID_PDF_TAB_SECURITY.RB_CHANGES_ANY_NOCOPY.radiobutton.text
 msgid "~Any except extracting pages"
-msgstr ""
+msgstr "A~thrú ar bith, seachas leathanaigh a bhaint amach"
 
 #: impdialog.src#RID_PDF_TAB_SECURITY.CB_ENDAB_COPY.checkbox.text
 msgid "Ena~ble copying of content"
@@ -17646,7 +17647,7 @@ msgstr "Cealaigh"
 
 #: Control.ulf#OOO_CONTROL_19.LngText.text
 msgid "Specify a network location for the server image of the product."
-msgstr ""
+msgstr "Sonraigh ionad líonra an táirge ar fhreastalaí."
 
 #: Control.ulf#OOO_CONTROL_20.LngText.text
 msgid ""
@@ -40594,7 +40595,7 @@ msgstr "Dáileadh..."
 
 #: ReportCommands.xcu#..ReportCommands.UserInterface.Commands..uno_SelectAllInSection.Label.value.text
 msgid "~Select Objects in Section"
-msgstr ""
+msgstr "~Roghnaigh Réada sa Rannán"
 
 #: ReportCommands.xcu#..ReportCommands.UserInterface.Commands..uno_SectionAlignLeft.Label.value.text
 msgid "Left Align on Section"
@@ -42926,7 +42927,7 @@ msgstr "Rialtán íomhá"
 
 #: strings.src#RID_STR_FIXEDLINE.string.text
 msgid "Fixed line"
-msgstr ""
+msgstr "Líne shuite"
 
 #: GroupsSorting.src#RID_GROUPS_SORTING.FL_SEPARATOR2.fixedline.text
 msgctxt "GroupsSorting.src#RID_GROUPS_SORTING.FL_SEPARATOR2.fixedline.text"
@@ -43118,7 +43119,7 @@ msgstr "Cúlra"
 
 #: dlgpage.src#RID_PAGEDIALOG_BACKGROUND.tabdialog.text
 msgid "Section Setup"
-msgstr ""
+msgstr "Socrú Rannáin"
 
 #: dlgpage.src#RID_PAGEDIALOG_CHAR.1.RID_PAGE_POSITION.pageitem.text
 msgctxt "dlgpage.src#RID_PAGEDIALOG_CHAR.1.RID_PAGE_POSITION.pageitem.text"
@@ -43248,7 +43249,7 @@ msgstr "Formáidiú Coinníollach"
 
 #: CondFormat.src#STR_NUMBERED_CONDITION.string.text
 msgid "Condition $number$"
-msgstr ""
+msgstr "Coinníoll $number$"
 
 #: CondFormat.src#STR_COLOR_WHITE.string.text
 #: sdstring.src#RID_SVXSTR_WHITE.string.text
@@ -43509,7 +43510,7 @@ msgstr "Cineál Réimse Sonraí"
 
 #: inspection.src#RID_STR_TYPE_CONST.string.text
 msgid "Field or Formula;Function;Counter;User defined Function"
-msgstr ""
+msgstr "Réimse nó Foirmle;Feidhm;Áiritheoir;Feidhm sainithe ag an úsáideoir"
 
 #: inspection.src#RID_STR_EXPLANATION.string.text
 msgid ""
@@ -43735,7 +43736,7 @@ msgstr "Tharla earráid agus an tuairisc á chruthú."
 
 #: report.src#RID_STR_CAUGHT_FOREIGN_EXCEPTION.string.text
 msgid "An exception of type $type$ was caught."
-msgstr ""
+msgstr "Fuarthas eisceacht de chineál $type$."
 
 #: report.src#RID_STR_UNDO_CHANGEFONT.string.text
 msgid "Change font"
@@ -48250,6 +48251,8 @@ msgid ""
 "Type of calculation: Type=0 means the time interval, Type=1 means calendar "
 "weeks."
 msgstr ""
+"Cineál an áirimh: Ciallaíonn Cineál=0 an t-eatramh, agus ciallaíonn Cineál=1 "
+"seachtainí an fhéilire."
 
 #: datefunc.src#RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DiffMonths.1.string.text
 msgid "Determines the number of months in a specific period."
@@ -48289,6 +48292,8 @@ msgid ""
 "Type of calculation: Type=0 means the time interval, Type=1 means calendar "
 "months."
 msgstr ""
+"Cineál an áirimh: Ciallaíonn Cineál=0 an t-eatramh, agus ciallaíonn Cineál=1 "
+"míonna an fhéilire."
 
 #: datefunc.src#RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DiffYears.1.string.text
 msgid "Calculates the number of years in a specific period."
@@ -48334,11 +48339,15 @@ msgid ""
 "Type of calculation: Type=0 means the time interval, Type=1 means calendar "
 "years."
 msgstr ""
+"Cineál an áirimh: Ciallaíonn Cineál=0 an t-eatramh, agus ciallaíonn Cineál=1 "
+"blianta an fhéilire."
 
 #: datefunc.src#RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_IsLeapYear.1.string.text
 msgid ""
 "Returns 1 (TRUE) if the date is a day of a leap year, otherwise 0 (FALSE)."
 msgstr ""
+"Aischuireann 1 (FÍOR) más lá i mbliain bhisigh é an dáta, agus 0 (FALSA) i "
+"ngach cás eile."
 
 #: datefunc.src#RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_IsLeapYear.2.string.text
 msgctxt ""
@@ -51620,7 +51629,7 @@ msgstr "Cuir sc~agaire leis"
 
 #: pivot.src#RID_SCDLG_PIVOT_LAYOUT.BTN_DRILLDOWN.checkbox.text
 msgid "Ena~ble drill to details"
-msgstr ""
+msgstr "Cu~masaigh druileáil go dtí na mionsonraí"
 
 #: pivot.src#RID_SCDLG_PIVOT_LAYOUT.PIVOTSTR_SUM.string.text
 msgid "Sum - "
@@ -52359,7 +52368,7 @@ msgstr "Cumaisc ~teormharcóirí"
 #: asciiopt.src#RID_SCDLG_ASCII.STR_TEXTTOCOLUMNS.string.text
 #: globstr.src#RID_GLOBSTR.STR_UNDO_TEXTTOCOLUMNS.string.text
 msgid "Text to Columns"
-msgstr ""
+msgstr "Téacs go Colúin"
 
 #: asciiopt.src#RID_SCDLG_ASCII.modaldialog.text
 msgid "Text Import"
@@ -96977,27 +96986,27 @@ msgstr "Smeach %1 go hingearach"
 #: svdstr.src#STR_EditMirrorDiag.string.text
 msgctxt "svdstr.src#STR_EditMirrorDiag.string.text"
 msgid "Flip %1 diagonal"
-msgstr ""
+msgstr "Smeach %1 go trasnánach"
 
 #: svdstr.src#STR_EditMirrorFree.string.text
 msgctxt "svdstr.src#STR_EditMirrorFree.string.text"
 msgid "Flip %1 freehand"
-msgstr ""
+msgstr "Smeach %1 go saorlámhach"
 
 #: svdstr.src#STR_EditShear.string.text
 msgctxt "svdstr.src#STR_EditShear.string.text"
 msgid "Distort %1 (slant)"
-msgstr ""
+msgstr "Díchum %1 (claon)"
 
 #: svdstr.src#STR_EditCrook.string.text
 msgctxt "svdstr.src#STR_EditCrook.string.text"
 msgid "Arrange %1 in circle"
-msgstr ""
+msgstr "Leag %1 amach i gciorcal"
 
 #: svdstr.src#STR_EditCrookContortion.string.text
 msgctxt "svdstr.src#STR_EditCrookContortion.string.text"
 msgid "Curve %1 in circle"
-msgstr ""
+msgstr "Cuar %1 i gciorcal"
 
 #: svdstr.src#STR_EditDistort.string.text
 msgctxt "svdstr.src#STR_EditDistort.string.text"
@@ -97216,12 +97225,12 @@ msgstr "Smeach %1 go hingearach"
 #: svdstr.src#STR_DragMethMirrorDiag.string.text
 msgctxt "svdstr.src#STR_DragMethMirrorDiag.string.text"
 msgid "Flip %1 diagonal"
-msgstr ""
+msgstr "Smeach %1 go trasnánach"
 
 #: svdstr.src#STR_DragMethMirrorFree.string.text
 msgctxt "svdstr.src#STR_DragMethMirrorFree.string.text"
 msgid "Flip %1 freehand"
-msgstr ""
+msgstr "Smeach %1 go saorlámhach"
 
 #: svdstr.src#STR_DragMethGradient.string.text
 msgid "Interactive gradient for %1"
@@ -97234,17 +97243,17 @@ msgstr "Trédhearcacht idirghníomhach do %1"
 #: svdstr.src#STR_DragMethShear.string.text
 msgctxt "svdstr.src#STR_DragMethShear.string.text"
 msgid "Distort %1 (slant)"
-msgstr ""
+msgstr "Díchum %1 (claon)"
 
 #: svdstr.src#STR_DragMethCrook.string.text
 msgctxt "svdstr.src#STR_DragMethCrook.string.text"
 msgid "Arrange %1 in circle"
-msgstr ""
+msgstr "Leag %1 amach i gciorcal"
 
 #: svdstr.src#STR_DragMethCrookContortion.string.text
 msgctxt "svdstr.src#STR_DragMethCrookContortion.string.text"
 msgid "Curve %1 in circle"
-msgstr ""
+msgstr "Cuar %1 i gciorcal"
 
 #: svdstr.src#STR_DragMethDistort.string.text
 msgctxt "svdstr.src#STR_DragMethDistort.string.text"
@@ -98701,11 +98710,11 @@ msgstr "Formáidigh cill"
 
 #: svdstr.src#STR_TABLE_DISTRIBUTE_ROWS.string.text
 msgid "Distribute rows"
-msgstr ""
+msgstr "Scar rónna amach"
 
 #: svdstr.src#STR_TABLE_DISTRIBUTE_COLUMNS.string.text
 msgid "Distribute columns"
-msgstr ""
+msgstr "Scar colúin amach"
 
 #: svdstr.src#STR_TABLE_STYLE.string.text
 msgid "Table style"
@@ -98905,7 +98914,7 @@ msgstr "Comhfhadú ~Focal"
 
 #: fontworkgallery.src#RID_SVXFLOAT_FONTWORK_ALIGNMENT.STR_ALIGN_STRETCH.string.text
 msgid "S~tretch Justify"
-msgstr ""
+msgstr "~Sín agus Comhfhadaigh"
 
 #: fontworkgallery.src#RID_SVXFLOAT_FONTWORK_CHARSPACING.STR_CHARS_SPACING_VERY_TIGHT.string.text
 msgid "~Very Tight"
