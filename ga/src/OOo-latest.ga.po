@@ -249,7 +249,7 @@ msgstr "Aitheantas cabhrach"
 
 #: moptions.src#RID_MACROOPTIONS.RID_FT_HELPNAME.fixedtext.text
 msgid "Help file name"
-msgstr "Ainm an chomhaid cabhrach"
+msgstr "Ainm an chomhaid chabhrach"
 
 #: moptions.src#RID_MACROOPTIONS.modaldialog.text
 msgctxt "moptions.src#RID_MACROOPTIONS.modaldialog.text"
@@ -1205,7 +1205,7 @@ msgid ""
 "Do you want to delete the resources of the selected language(s)?"
 msgstr ""
 "Tá tú ar tí na hacmhainní do (na) teanga(cha) roghnaithe a scriosadh. "
-"Scriosfar gach teaghrán chomhéadain úsáideora don(a) teanga(cha) seo.\n"
+"Scriosfar gach teaghrán comhéadain úsáideora don(a) teanga(cha) seo.\n"
 "\n"
 "Ar mhaith leat i ndáiríre na hacmhainní seo a scriosadh?"
 
@@ -1242,7 +1242,7 @@ msgid ""
 "be copied to these new resources by default."
 msgstr ""
 "Togh na teangacha atá uait. Cruthófar acmhainní do na teangacha seo sa "
-"leabharlann. Cóipeálfar go huathoibreach teaghráin na teanga reatha den "
+"leabharlann. Cóipeálfar go huathoibríoch teaghráin na teanga reatha den "
 "chomhéadan úsáideora réamhshocraithe go dtí na hacmhainní nua seo."
 
 #: managelang.src#RID_DLG_SETDEF_LANGUAGE.modaldialog.text
@@ -1552,7 +1552,7 @@ msgstr "Gné Lochtach! Athraigh an script le do thoil."
 
 #: svtmsg.src#S_SIZE_BELOW_MINIMUM.string.text
 msgid "The Size is below the minimum. x=($Arg1) ,y=($Arg2)"
-msgstr "Níos lú ná an íosmhéid. x=($Arg1) ,y=($Arg2)"
+msgstr "Níos lú ná an t-íosmhéid. x=($Arg1) ,y=($Arg2)"
 
 #: svtmsg.src#S_CANNOT_FIND_FLOATING_WIN.string.text
 msgid "Cannot find FloatingWindow for floating DockingWindow at ($Arg1)."
@@ -2420,7 +2420,7 @@ msgstr "Cumarsáid"
 #: basic.src#RID_TP_MISC.FT_HOST.fixedtext.text
 msgctxt "basic.src#RID_TP_MISC.FT_HOST.fixedtext.text"
 msgid "Host"
-msgstr "Óstríomhiare"
+msgstr "Óstríomhaire"
 
 #: basic.src#RID_TP_MISC.FT_TTPORT.fixedtext.text
 msgid "Testtool Port"
@@ -3185,7 +3185,7 @@ msgstr "Amharc ~3T"
 
 #: tp_ChartType.src#TP_CHARTTYPE.CB_STACKED.checkbox.text
 msgid "~Stack series"
-msgstr "~Sraith cruaiche"
+msgstr "~Sraith chruaiche"
 
 #: tp_ChartType.src#TP_CHARTTYPE.RB_STACK_Y.radiobutton.text
 msgid "On top"
@@ -4349,7 +4349,7 @@ msgstr "Scrios Sraith"
 
 #: dlg_DataEditor.src#DLG_DIAGRAM_DATA.TBX_DATA.TBI_DATA_SWAP_COL.toolboxitem.text
 msgid "Move Series Right"
-msgstr "Bog an Sraith Faoi Dheis"
+msgstr "Bog an tSraith Faoi Dheis"
 
 #: dlg_DataEditor.src#DLG_DIAGRAM_DATA.TBX_DATA.TBI_DATA_SWAP_ROW.toolboxitem.text
 msgid "Move Row Down"
@@ -4734,7 +4734,7 @@ msgstr "Láith~riú"
 
 #: conn_error_message.src#256___2_100___0.string.text
 msgid "The record operation has been vetoed."
-msgstr "Crosáileadh oibríocht an taifid."
+msgstr "Crosáladh oibríocht an taifid."
 
 #: conn_error_message.src#256___2_200___0.string.text
 msgid "The statement contains a cyclic reference to one or more sub queries."
@@ -4754,7 +4754,7 @@ msgstr "Ní cheadaítear carachtair athfhriotail in ainm an iarratais."
 
 #: conn_error_message.src#256___2_303___0.string.text
 msgid "The name '$1$' is already in use in the database."
-msgstr "Tá an t-ainm '$1' in úsáid cheana sa bhunachar sonraí."
+msgstr "Tá an t-ainm '$1$' in úsáid cheana sa bhunachar sonraí."
 
 #: conn_shared_res.src#STR_NO_MOZIILA_ADDRESSBOOK.string.text
 msgid "No Mozilla Addressbook Directories Exist."
@@ -4839,7 +4839,7 @@ msgstr ""
 msgid ""
 "The string '$string$' cannot be converted using the encoding '$charset$'."
 msgstr ""
-"Ní féidir teaghrán '$string$' a thiontú go dtí an ionchódú '$charset$'."
+"Ní féidir teaghrán '$string$' a thiontú go dtí an t-ionchódú '$charset$'."
 
 #: conn_shared_res.src#STR_URI_SYNTAX_ERROR.string.text
 msgid "The connection URL is invalid."
@@ -5416,7 +5416,7 @@ msgstr ""
 
 #: strings.src#RID_STR_STATEMENT_WITHOUT_RESULT_SET.string.text
 msgid "The SQL command does not describe a result set."
-msgstr "Ní dhéanann an t-ordú SQL tagairt do thacar thoraidh."
+msgstr "Ní dhéanann an t-ordú SQL tagairt do thacar toraidh."
 
 #: strings.src#RID_STR_NAME_MUST_NOT_BE_EMPTY.string.text
 msgid "The name must not be empty."
@@ -5610,7 +5610,7 @@ msgid ""
 "access."
 msgstr ""
 "Níorbh fhéidir ainmneacha réamhshocraithe a shocrú i gcomhair chomhaid an "
-"bhunachair shonraí. Níl rochtain chun scríofa ann."
+"bhunachair shonraí. Níl rochtain chun scríobh ann."
 
 #: AdabasNewDb.src#STR_ADABAS_CANNOT_CONVERT.string.text
 msgid ""
@@ -6995,7 +6995,7 @@ msgstr "Iarcheangail ailias an tábla le ráitis SELECT"
 
 #: advancedsettings.src#AUTO_AS_BEFORE_CORR_NAME_AUTO_Y_.CB_AS_BEFORE_CORR_NAME.checkbox.text
 msgid "Use keyword AS before table alias names"
-msgstr "Úsáid an lorgfhocal AS roimh thabla na n-ailias."
+msgstr "Úsáid an lorgfhocal AS roimh thábla na n-ailiasanna."
 
 #: advancedsettings.src#AUTO_ENABLEOUTERJOIN_AUTO_Y_.CB_ENABLEOUTERJOIN.checkbox.text
 msgid "Use Outer Join syntax '{OJ }'"
@@ -7120,7 +7120,7 @@ msgstr "Socraigh ceangal JDBC"
 
 #: dbadminsetup.src#DLG_DATABASE_WIZARD.STR_PAGETITLE_ORACLE.string.text
 msgid "Set up Oracle database connection"
-msgstr "Socraigh ceangal le Oracle"
+msgstr "Socraigh ceangal le hOracle"
 
 #: dbadminsetup.src#DLG_DATABASE_WIZARD.STR_PAGETITLE_MYSQL.string.text
 msgid "Set up MySQL connection"
@@ -7189,7 +7189,7 @@ msgstr "Socraigh an fíordheimhniú úsáideora"
 #: dbadminsetup.src#PAGE_DBWIZARD_AUTHENTIFICATION.FT_AUTHENTIFICATIONHELPTEXT.fixedtext.text
 msgid "Some databases require you to enter a user name."
 msgstr ""
-"Teastaíonn uaidh cuid bunachar sonraí go gcuireadh tú ainm úsáideora isteach."
+"Teastaíonn ó bhunachair sonraí áirithe go gcuireann tú ainm úsáideora isteach."
 
 #: dbadminsetup.src#PAGE_DBWIZARD_AUTHENTIFICATION.FT_GENERALUSERNAME.fixedtext.text
 msgctxt ""
@@ -7209,7 +7209,7 @@ msgstr "Ceangal ~Tástála"
 #: dbadminsetup.src#PAGE_DBWIZARD_FINAL.FT_FINALHEADER.fixedtext.text
 msgid "Decide how to proceed after saving the database"
 msgstr ""
-"Réitigh ar cén chaoi a rachaidh tú ar aghaidh tar éis an bunachar sonraí a "
+"Réitigh ar cén chaoi a rachaidh tú ar aghaidh tar éis an bhunachair sonraí a "
 "shábháil"
 
 #: dbadminsetup.src#PAGE_DBWIZARD_FINAL.FT_FINALHELPTEXT.fixedtext.text
@@ -7718,7 +7718,7 @@ msgid ""
 "connect to the database."
 msgstr ""
 "Níl an cineál seo foinse sonraí ar eolas ag an ardán seo.\n"
-"Tá cead agat na socruithe a athrú, ach is mór an seans nach mbeadh tú ábalta "
+"Tá cead agat na socruithe a athrú, ach is mór an seans nach mbeifeá ábalta "
 "ceangal leis an mbunachar sonraí."
 
 #: dbadmin.src#PAGE_GENERAL.tabpage.text
@@ -7774,11 +7774,11 @@ msgstr "Riarachán"
 
 #: dbadmin.src#PAGE_ADABAS.FT_CTRLUSERNAME.fixedtext.text
 msgid "Control ~user name"
-msgstr "Srianaigh ~ainm an úsáideora"
+msgstr "Rialaigh ~ainm an úsáideora"
 
 #: dbadmin.src#PAGE_ADABAS.FT_CTRLPASSWORD.fixedtext.text
 msgid "Control ~password"
-msgstr "Srianaigh an ~focal faire"
+msgstr "Rialaigh an ~focal faire"
 
 #: dbadmin.src#PAGE_ADABAS.CB_SHUTDB.checkbox.text
 msgid "~Shut down service when closing %PRODUCTNAME"
@@ -8015,7 +8015,7 @@ msgstr "Conair go dtí an cháipéis scarbhileoige"
 
 #: AutoControls.src#STR_NAME_OF_ODBC_DATASOURCE.string.text
 msgid "Name of the ODBC data source on your system"
-msgstr "Ainm na foinse shonraí ODBC ar do chóras"
+msgstr "Ainm na foinse sonraí ODBC ar do chóras"
 
 #: AutoControls.src#STR_MYSQL_DATABASE_NAME.string.text
 msgid "Name of the MySQL database"
@@ -8400,7 +8400,7 @@ msgstr "Formáidiú cló"
 
 #: WizardPages.src#STR_WIZ_PKEY_ALREADY_DEFINED.string.text
 msgid "The following fields have already been set as primary keys:\n"
-msgstr "Tá na réimsí a leanas socraithe mar phríomheochracha:\n"
+msgstr "Tá na réimsí seo a leanas socraithe mar phríomheochracha:\n"
 
 #: WizardPages.src#STR_WIZ_NAME_MATCHING_TITEL.string.text
 msgid "Assign columns"
@@ -8746,7 +8746,7 @@ msgid ""
 "tables are identical."
 msgstr ""
 "Ní chuimsítear ach taifid a bhfuil le hábhar comhionann acu i réimsí "
-"gaolmhara an dá tábla."
+"gaolmhara an dá thábla."
 
 #: querydlg.src#STR_QUERY_LEFTRIGHT_JOIN.string.text
 msgid ""
@@ -8981,7 +8981,7 @@ msgstr "Ní thacaíonn an bunachar sonraí seo le hathrú amhairc tábla atá an
 
 #: query.src#STR_QUERYDESIGN_NO_VIEW_ASK.string.text
 msgid "Do you want to create a query instead?"
-msgstr "Ar mhaith leat iarratas a chruthú in áit sin?"
+msgstr "Ar mhaith leat iarratas a chruthú ina áit?"
 
 #: query.src#ERR_QRY_NOSTATEMENT.errorbox.text
 msgid "No query could be created."
@@ -9383,7 +9383,7 @@ msgstr ""
 
 #: table.src#STR_TABLEDESIGN_NO_PRIM_KEY_HEAD.string.text
 msgid "No primary key"
-msgstr "Gan príomheochair"
+msgstr "Gan phríomheochair"
 
 #: table.src#STR_TABLEDESIGN_NO_PRIM_KEY.string.text
 msgid ""
@@ -9397,7 +9397,7 @@ msgstr ""
 "Teastaíonn innéacs nó príomheochair uathúil le taifead sonraí a aithint sa "
 "bhunachar sonraí.\n"
 "Ní féidir sonraí a iontráil sa tábla seo ach amháin nuair atá ceann den dá "
-"choinníoll struchtúrtha seo comhlíonta.\n"
+"choinníoll struchtúraithe seo comhlíonta.\n"
 "\n"
 "An ceart príomheochair a chruthú anois?"
 
@@ -9485,7 +9485,7 @@ msgid ""
 "provide all necessary information"
 msgstr ""
 "Níor aimsíodh tuairisceoir rochtain sonraí, nó ní féidir leis an "
-"tuairisceoir rochtain sonraí an t-eolas go léir atá a dhíth a sholáthrú"
+"tuairisceoir rochtain sonraí an t-eolas go léir atá a dhíth a sholáthar"
 
 #: copytablewizard.src#STR_CTW_ONLY_TABLES_AND_QUERIES_SUPPORT.string.text
 msgid "Only tables and queries are supported at the moment."
@@ -9636,7 +9636,7 @@ msgstr ""
 
 #: desktop.src#STR_INTERNAL_ERRMSG.string.text
 msgid "The following internal error has occurred: "
-msgstr "Tharla an earráid inmheánach a leanas: "
+msgstr "Tharla an earráid inmheánach seo a leanas: "
 
 #: desktop.src#QBX_USERDATALOCKED.querybox.text
 msgid ""
@@ -9795,7 +9795,7 @@ msgid ""
 "No installable updates are available. To see all updates, mark the check box "
 "'Show all updates'."
 msgstr ""
-"Níl nuashonrú insuitithe ar fáil. Chun gach nuashonrú a fheiceáil, marcáil "
+"Níl nuashonrú insuiteáilte ar fáil. Chun gach nuashonrú a fheiceáil, marcáil "
 "an ticbhosca 'Taispeáin gach Nuashonrú'."
 
 #: dp_gui_updatedialog.src#RID_DLG_UPDATE.RID_DLG_UPDATE_FAILURE.string.text
@@ -9879,7 +9879,7 @@ msgid ""
 "Click \\'OK\\' to replace the installed extension.\n"
 "Click \\'Cancel\\' to stop the installation."
 msgstr ""
-"Tá tú ar tí leagan $NEW d'eisínteacht \\'$NAME\\' a shuiteáil. Tá an leagan "
+"Tá tú ar tí leagan $NEW d'eisínteacht \\'$NAME\\' a shuiteáil.\nTá an leagan "
 "níos nuaí $DEPLOYED suiteáilte cheana.\n"
 "Cliceáil \\'OK\\' chun an eisínteacht nua a chur in ionad na heisínteachta "
 "atá ann.\n"
@@ -9892,7 +9892,7 @@ msgid ""
 "Click \\'OK\\' to replace the installed extension.\n"
 "Click \\'Cancel\\' to stop the installation."
 msgstr ""
-"Tá tú ar tí leagan $NEW d'eisínteacht \\'$NAME\\' a shuiteáil. Tá an leagan "
+"Tá tú ar tí leagan $NEW d'eisínteacht \\'$NAME\\' a shuiteáil.\nTá an leagan "
 "níos nuaí $DEPLOYED, darb ainm \\'$OLDNAME\\', suiteáilte cheana.\n"
 "Cliceáil \\'OK\\' chun an eisínteacht nua a chur in ionad na heisínteachta "
 "atá ann.\n"
@@ -9905,7 +9905,7 @@ msgid ""
 "Click \\'OK\\' to replace the installed extension.\n"
 "Click \\'Cancel\\' to stop the installation."
 msgstr ""
-"Tá tú ar tí leagan $NEW d'eisínteacht \\'$NAME\\' a shuiteáil. Tá an leagan "
+"Tá tú ar tí leagan $NEW d'eisínteacht \\'$NAME\\' a shuiteáil.\nTá an leagan "
 "sin suiteáilte cheana.\n"
 "Cliceáil \\'OK\\' chun an eisínteacht a chur in ionad na heisínteachta atá "
 "ann.\n"
@@ -9918,7 +9918,7 @@ msgid ""
 "Click \\'OK\\' to replace the installed extension.\n"
 "Click \\'Cancel\\' to stop the installation."
 msgstr ""
-"Tá tú ar tí leagan $NEW d'eisínteacht \\'$NAME\\' a shuiteáil. Tá an leagan "
+"Tá tú ar tí leagan $NEW d'eisínteacht \\'$NAME\\' a shuiteáil.\nTá an leagan "
 "sin, darb ainm \\'$OLDNAME\\', suiteáilte cheana.\n"
 "Cliceáil \\'OK\\' chun an eisínteacht a chur in ionad na heisínteachta atá "
 "ann.\n"
@@ -9931,7 +9931,7 @@ msgid ""
 "Click \\'OK\\' to replace the installed extension.\n"
 "Click \\'Cancel\\' to stop the installation."
 msgstr ""
-"Tá tú ar tí leagan $NEW d'eisínteacht \\'$NAME\\' a shuiteáil. Tá an leagan "
+"Tá tú ar tí leagan $NEW d'eisínteacht \\'$NAME\\' a shuiteáil.\nTá an leagan "
 "níos sine $DEPLOYED suiteáilte cheana.\n"
 "Cliceáil \\'OK\\' chun an eisínteacht nua a chur in ionad na heisínteachta "
 "atá ann.\n"
@@ -9944,7 +9944,7 @@ msgid ""
 "Click \\'OK\\' to replace the installed extension.\n"
 "Click \\'Cancel\\' to stop the installation."
 msgstr ""
-"Tá tú ar tí leagan $NEW d'eisínteacht \\'$NAME\\' a shuiteáil. Tá an leagan "
+"Tá tú ar tí leagan $NEW d'eisínteacht \\'$NAME\\' a shuiteáil.\nTá an leagan "
 "níos sine $DEPLOYED, darb ainm \\'$OLDNAME\\', suiteáilte cheana.\n"
 "Cliceáil \\'OK\\' chun an eisínteacht nua a chur in ionad na heisínteachta "
 "atá ann.\n"
@@ -9990,7 +9990,7 @@ msgstr "Earráid agus eisínteacht %NAME á suiteáil. "
 
 #: dp_gui_updateinstalldialog.src#RID_DLG_UPDATEINSTALL.RID_DLG_UPDATE_INSTALL_ERROR_LIC_DECLINED.string.text
 msgid "The license agreement for extension %NAME was refused. "
-msgstr "Diúltaíodh don chomhaontú cheadúnais d'eisínteacht %NAME. "
+msgstr "Diúltaíodh don chomhaontú ceadúnais d'eisínteacht %NAME. "
 
 #: dp_gui_updateinstalldialog.src#RID_DLG_UPDATEINSTALL.RID_DLG_UPDATE_INSTALL_EXTENSION_NOINSTALL.string.text
 msgid "The extension will not be installed."
@@ -10250,7 +10250,7 @@ msgid ""
 "Click \\'OK\\' to proceed with the installation.\n"
 "Click \\'Cancel\\' to stop the installation."
 msgstr ""
-"Tá tú ar tí eisínteacht \\'$NAME\\' a shuiteáil.\n"
+"Tá tú ar tí eisínteacht \\'%NAME\\' a shuiteáil.\n"
 "Cliceáil \\'OK\\' chun dul ar aghaidh leis an tsuiteáil.\n"
 "Cliceáil \\'Cealaigh\\' chun an tsuiteáil a thobscor."
 
@@ -10491,7 +10491,7 @@ msgstr "N"
 #: unopkg.src#RID_STR_CONCURRENTINSTANCE.string.text
 msgid "You need to close the already opened Extension Manager to continue."
 msgstr ""
-"Ní mór duit Bainisteoir na nEisínteachta atá ar oscailt cheana féin a "
+"Ní mór duit Bainisteoir na nEisínteachtaí atá ar oscailt cheana féin a "
 "dhúnadh."
 
 #: wizard.src#DLG_FIRSTSTART_WIZARD.modaldialog.text
@@ -10819,7 +10819,7 @@ msgstr ""
 "Anois is féidir leat clárú mar úsáideoir %PRODUCTNAME. Níl sé éigeantach "
 "agus níl aon oibleagáid ort.\n"
 "\n"
-"Má chláraíonn tú, is féidir linn inseacht duit faoi fhorbairtí nua a "
+"Má chláraíonn tú, is féidir linn insint duit faoi fhorbairtí nua a "
 "bhaineann leis an táirge seo."
 
 #: wizard.src#TP_REGISTRATION.RB_REGISTRATION_NOW.radiobutton.text
@@ -11099,13 +11099,13 @@ msgid ""
 msgstr ""
 "Ligeann %PRODUCTNAME duit teacht ar shonraí seolta atá suite i do chóras "
 "cheana féin. Leis seo a dhéanamh, cruthófar foinse sonraí %PRODUCTNAME ina "
-"mbeidh do chuid sonraí seolta ar fáil i bhfoirm táblach.\n"
+"mbeidh do chuid sonraí seolta ar fáil i bhfoirm tháblach.\n"
 "\n"
 "Tabharfaidh an treoraí seo cúnamh duit an fhoinse sonraí a chruthú."
 
 #: abspilot.src#RID_PAGE_SELECTABTYPE.FL_TYPE.fixedline.text
 msgid "Please select the type of your external address book:"
-msgstr "Roghnaigh cineál do leabhair seachtraigh seoltaí:"
+msgstr "Roghnaigh cineál do leabhair sheachtraigh seoltaí:"
 
 #: abspilot.src#RID_PAGE_SELECTABTYPE.RB_MORK.radiobutton.text
 msgid "Mozilla / Netscape"
@@ -11757,8 +11757,7 @@ msgid ""
 "The contents of the selected field will be shown in the list box if the "
 "linked fields are identical."
 msgstr ""
-"Taispeánfar ábhar an réimse roghnaithe sa bhosca liosta má tá na réimsí "
-"nasctha ionann le chéile."
+"Taispeánfar ábhar an réimse roghnaithe sa bhosca liosta más ionann le chéile na réimsí nasctha."
 
 #: listcombopages.src#RID_PAGE_LCW_CONTENTSELECTION_FIELD.tabpage.text
 msgctxt "listcombopages.src#RID_PAGE_LCW_CONTENTSELECTION_FIELD.tabpage.text"
@@ -12052,7 +12051,7 @@ msgstr "Carachtar focail faire"
 
 #: formres.src#RID_STR_TRISTATE.string.text
 msgid "Tristate"
-msgstr "Tristate"
+msgstr "Trístaid"
 
 #: formres.src#RID_STR_EMPTY_IS_NULL.string.text
 msgid "Empty string is NULL"
@@ -12468,7 +12467,7 @@ msgstr "Maol"
 
 #: formres.src#RID_RSC_ENUM_LISTSOURCE_TYPE.1.string.text
 msgid "Valuelist"
-msgstr "Liosta na Méid"
+msgstr "Liosta luachanna"
 
 #: formres.src#RID_RSC_ENUM_LISTSOURCE_TYPE.2.string.text
 msgctxt "formres.src#RID_RSC_ENUM_LISTSOURCE_TYPE.2.string.text"
@@ -14780,7 +14779,7 @@ msgid ""
 "A form control contained an action not supported by the PDF/A standard. The "
 "action was skipped"
 msgstr ""
-"Bhí gníomh san fhoirm nár thacaigh an caighdeán PDF/A leis. Níor rinneadh an "
+"Bhí gníomh san fhoirm nár thacaigh an caighdeán PDF/A leis. Ní dhearnadh an "
 "gníomh"
 
 #: impdialog.src#RID_PDF_ERROR_DLG.modaldialog.text
@@ -15290,7 +15289,7 @@ msgid ""
 msgstr ""
 "Tá an rialú nasctha le ceangal seachtrach luacha, a fheidhmíonn ag an am "
 "céanna mar bhailíochtóir. Ní mór duit an ceangal luacha a chúlghairm, sular "
-"féidir leat bailíochtóír nua a shocrú."
+"féidir leat bailíochtóir nua a shocrú."
 
 #: strings.src#RID_STR_LABEL_OF.string.text
 #: globstr.src#RID_GLOBSTR.STR_HF_OF.string.text
@@ -16206,7 +16205,7 @@ msgstr "Seirbhís: [1]"
 
 #: ActionTe.ulf#OOO_ACTIONTEXT_19.LngText.text
 msgid "Creating duplicate files"
-msgstr "Comhaid mhacasamhlacha á gcruthú"
+msgstr "Comhaid mhacasamhla á gcruthú"
 
 #: ActionTe.ulf#OOO_ACTIONTEXT_20.LngText.text
 msgctxt "ActionTe.ulf#OOO_ACTIONTEXT_20.LngText.text"
@@ -17074,16 +17073,14 @@ msgid ""
 "Could not increase the available registry space. [2] KB of free registry "
 "space is required for the installation of this application."
 msgstr ""
-"Níorbh fhéidir an spás chlárlainne a mhéadú. Teastaíonn [2] kB de spás "
-"chlárlainne a bheidh ar fáil chun an feidhmchlár seo a shuiteáil."
+"Níorbh fhéidir spás le haghaidh na clárlainne a mhéadú. Teastaíonn [2] kB de spás a bheidh ar fáil chun an feidhmchlár seo a shuiteáil."
 
 #: Error.ulf#OOO_ERROR_64.LngText.text
 msgid ""
 "Another installation is in progress. You must complete that installation "
 "before continuing this one."
 msgstr ""
-"Tá suiteáil eile ar siúl. Beidh ort an tsuiteáil siúd a chríochnú sula "
-"bhféidfidh tú leanúint ort leis an gceann seo."
+"Tá suiteáil eile ar siúl. Beidh ort an tsuiteáil siúd a chríochnú sularbh fhéidir leat leanúint ar aghaidh leis an gceann seo."
 
 #: Error.ulf#OOO_ERROR_65.LngText.text
 msgid ""
@@ -17116,7 +17113,7 @@ msgid ""
 "Out of disk space -- Volume: '[2]'; required space: [3] KB; available space: "
 "[4] KB.  Free some disk space and retry."
 msgstr ""
-"Níl go leor spás dhiosca ann -- Imleabhar: '[2]'; spás riachtanach: [3] kB; "
+"Níl go leor spás diosca ann -- Imleabhar: '[2]'; spás riachtanach: [3] kB; "
 "spás ar fáil: [4] kB. Déan spás sa diosca agus bain triail eile as."
 
 #: Error.ulf#OOO_ERROR_69.LngText.text
@@ -17147,7 +17144,7 @@ msgid ""
 "quit, Retry to check available disk space again, or Ignore to continue "
 "without rollback."
 msgstr ""
-"Níl go leor spás dhiosca ann -- Imleabhar: [2]; spás riachtanach:[3] kB; "
+"Níl go leor spás diosca ann -- Imleabhar: [2]; spás riachtanach:[3] kB; "
 "spás ar fáil: [4] kB. Má tá stop curtha le rolladh siar, tá a dhóthain spás "
 "ar fáil. Cliceáil Cealaigh chun scor, Atriail chun an méid spáis a sheiceáil "
 "arís, nó Neamhaird le leanúint ort gan rolladh siar."
@@ -17191,7 +17188,7 @@ msgid ""
 "You must restart your system for the configuration changes made to [2] to "
 "take effect. Click Yes to restart now or No if you plan to restart later."
 msgstr ""
-"Tá ort do chóras a atosú chun na hathruithe cumraíochta a déanadh le [2] a "
+"Tá ort do chóras a atosú chun na hathruithe cumraíochta a rinneadh le [2] a "
 "chur i bhfeidhm. Cliceáil Tá chun atosú anois nó Níl má tá uait atosú níos "
 "déanaí."
 
@@ -17200,7 +17197,7 @@ msgid ""
 "An installation for [2] is currently suspended.  You must undo the changes "
 "made by that installation to continue.  Do you want to undo those changes?"
 msgstr ""
-"Tá suiteáil do [2] ar ceal faoi láthair. Beidh ort na hathruithe a rinne an "
+"Tá suiteáil do [2] ar fionraí faoi láthair. Beidh ort na hathruithe a rinne an "
 "tsuiteáil sin a chealú sular féidir leat dul ar aghaidh leis an tsuiteáil. "
 "An mian leat na hathruithe siúd a chealú?"
 
@@ -17210,7 +17207,7 @@ msgid ""
 "changes made by that installation to continue.  Do you want to undo those "
 "changes?"
 msgstr ""
-"Tá seansuiteáil don táirge seo ag obair faoi láthair. Beidh ort na "
+"Tá seansuiteáil don táirge seo ar siúl faoi láthair. Beidh ort na "
 "hathruithe a rinne an tsuiteáil sin a chealú sular féidir leat dul ar "
 "aghaidh leis an tsuiteáil nua seo. An mian leat na hathruithe siúd a chealú?"
 
@@ -17563,7 +17560,7 @@ msgid ""
 msgstr ""
 "Ní féidir le seirbhís Suiteála Windows comhad córais [2] a nuashonrú de bhrí "
 "go bhfuil sé cosanta ag Windows. Teastaíonn uait do chóras oibriúcháin a "
-"nuashonrú chun go mbeidh an clár seo ag obair i gceart. {{Leagan phacáiste: "
+"nuashonrú chun go mbeidh an clár seo ag obair i gceart. {{Leagan pacáiste: "
 "[3], CO Leagan cosanta: [4]}}"
 
 #: Error.ulf#OOO_ERROR_128.LngText.text
@@ -17572,7 +17569,7 @@ msgid ""
 "{{Package version: [3], OS Protected version: [4], SFP Error: [5]}}"
 msgstr ""
 "Ní féidir le seirbhís Suiteála Windows comhad cosanta Windows [2] a "
-"nuashonrú. {{Leagan phacáiste: [3], CO Leagan cosanta: [4], Earráid SFP: "
+"nuashonrú. {{Leagan pacáiste: [3], CO Leagan cosanta: [4], Earráid SFP: "
 "[5]}}"
 
 #: Error.ulf#OOO_ERROR_129.LngText.text
@@ -18955,7 +18952,7 @@ msgstr ""
 
 #: UIText.ulf#OOO_UITEXT_28.LngText.text
 msgid "This feature frees up [1] on your hard drive."
-msgstr "Saoraíonn an tsainghné seo [1] ar do dhiosca crua."
+msgstr "Osclaíonn an tsainghné seo [1] ar do dhiosca crua."
 
 #: UIText.ulf#OOO_UITEXT_29.LngText.text
 msgid "This feature requires [1] on your hard drive."
@@ -19029,8 +19026,8 @@ msgid ""
 "This feature frees up [1] on your hard drive. It has [2] of [3] subfeatures "
 "selected. The subfeatures free up [4] on your hard drive."
 msgstr ""
-"Saoraíonn an tsainghné seo [1] ar do dhiosca crua. Tá [2] do [3] fo-"
-"shainghnéithe roghnaigh ann. Saoraíonn na fo-shainghnéithe [4] ar do dhiosca "
+"Osclaíonn an tsainghné seo [1] ar do dhiosca crua. Tá [2] as [3] fo-"
+"shainghnéithe roghnaigh ann. Osclaíonn na fo-shainghnéithe [4] ar do dhiosca "
 "crua."
 
 #: UIText.ulf#OOO_UITEXT_41.LngText.text
@@ -19038,8 +19035,8 @@ msgid ""
 "This feature frees up [1] on your hard drive. It has [2] of [3] subfeatures "
 "selected. The subfeatures require [4] on your hard drive."
 msgstr ""
-"Saoraíonn an tsainghné seo [1] ar do dhiosca crua. Tá [2] do [3] fo-"
-"shainghnéithe roghnaigh ann. Saoraíonn na fo-shainghnéithe [4] ar do dhiosca "
+"Osclaíonn an tsainghné seo [1] ar do dhiosca crua. Tá [2] as [3] fo-"
+"shainghnéithe roghnaigh ann. Teastaíonn ó na fo-shainghnéithe [4] ar do dhiosca "
 "crua."
 
 #: UIText.ulf#OOO_UITEXT_42.LngText.text
@@ -19047,8 +19044,8 @@ msgid ""
 "This feature requires [1] on your hard drive. It has [2] of [3] subfeatures "
 "selected. The subfeatures free up [4] on your hard drive."
 msgstr ""
-"Saoraíonn an tsainghné seo [1] ar do dhiosca crua. Tá [2] do [3] fo-"
-"shainghnéithe roghnaigh ann. Saoraíonn na fo-shainghnéithe [4] ar do dhiosca "
+"Osclaíonn an tsainghné seo [1] ar do dhiosca crua. Tá [2] as [3] fo-"
+"shainghnéithe roghnaigh ann. Osclaíonn na fo-shainghnéithe [4] ar do dhiosca "
 "crua."
 
 #: UIText.ulf#OOO_UITEXT_43.LngText.text
@@ -19056,8 +19053,8 @@ msgid ""
 "This feature requires [1] on your hard drive. It has [2] of [3] subfeatures "
 "selected. The subfeatures require [4] on your hard drive."
 msgstr ""
-"Saoraíonn an tsainghné seo [1] ar do dhiosca crua. Tá [2] do [3] fo-"
-"shainghnéithe roghnaigh ann. Saoraíonn na fo-shainghnéithe [4] ar do dhiosca "
+"Teastaíonn ón tsainghné seo [1] ar do dhiosca crua. Tá [2] as [3] fo-"
+"shainghnéithe roghnaithe ann. Teastaíonn ó na fo-shainghnéithe [4] ar do dhiosca "
 "crua."
 
 #: UIText.ulf#OOO_UITEXT_44.LngText.text
@@ -19312,7 +19309,7 @@ msgid ""
 "Recommended for advanced users."
 msgstr ""
 "Roghnaíonn tú na comhpháirteanna is mian leat a shuiteáil agus cá "
-"shuiteálfar iad.Molta d'úsáideoirí oilte."
+"suiteálfar iad. Molta d'úsáideoirí oilte."
 
 #: setupstrings.ulf#STRING_CHOOSEINSTALLATIONTYPE6.LngText.text
 msgid "Typical"
@@ -19329,7 +19326,7 @@ msgstr "Réidh chun Nuashonrú"
 #: setupstrings.ulf#STRING_INSTALLATIONIMMINENT2.LngText.text
 msgid "The following ${PRODUCT_FULLNAME} components will be installed:"
 msgstr ""
-"Déanfar na comhpháirteanna seo ${PRODUCT_FULLNAME} a leanas a shuiteáil:"
+"Déanfar na comhpháirteanna ${PRODUCT_FULLNAME} seo a leanas a shuiteáil:"
 
 #: setupstrings.ulf#STRING_INSTALLATIONONGOING1.LngText.text
 msgid "Installing..."
@@ -19396,7 +19393,7 @@ msgid ""
 "information."
 msgstr ""
 "Tharla earráid. Dá bharr sin ní raibh an Treoraí Suiteála in ann "
-"${PRODUCT_NAME} a shuiteáil ar do ríomhaire go rathúíl. Cliceáil "
+"${PRODUCT_NAME} a shuiteáil ar do ríomhaire go rathúil. Cliceáil "
 "'Mionsonraí...' chun breis eolais a fháil."
 
 #: setupstrings.ulf#STRING_INSTALLATIONCOMPLETED3.LngText.text
@@ -19511,7 +19508,7 @@ msgid ""
 "The Uninstallation Wizard was aborted before completely removing "
 "${PRODUCT_NAME} from your computer."
 msgstr ""
-"Tobscoradh an Treoraí Díshuiteála sular baineadh ${PRODUCT_NAME} go hiomlán "
+"Tobscoireadh an Treoraí Díshuiteála sular baineadh ${PRODUCT_NAME} go hiomlán "
 "as do ríomhaire."
 
 #: setupstrings.ulf#STRING_UNINSTALLATIONCOMPLETED2_ERROR.LngText.text
@@ -19647,7 +19644,7 @@ msgid ""
 msgstr ""
 "Fáilte romhat chuig an Treoraí Díshuiteála.<p>Iarrann an Treoraí seo ort "
 "socruithe cumraíochta a sholáthar.<p>Ag bun gach leathanaigh tá cnaipí "
-"nascleanúna a chuireann ar do chumas gluaiseacht tríd an Treoraí Díshuiteála."
+"nascleanúna a chuireann ar do chumas gluaiseacht tríd an Treoraí Díshuiteála:"
 
 #: setupstrings.ulf#STRING_UNINSTALLATIONPROLOGUE_2.LngText.text
 msgctxt "setupstrings.ulf#STRING_UNINSTALLATIONPROLOGUE_2.LngText.text"
@@ -19739,8 +19736,8 @@ msgid ""
 "be selected for installation."
 msgstr ""
 "Suiteálfar na comhpháirteanna atá marcáilte le dath. Cliceáil ar dheilbhín "
-"chomhpháirte chun comhpháirt a mharcáil nó a dhímharcáil.<p>Ní féidir aon "
-"chomhpháirt atá suiteáile cheana a roghnú le suiteáil."
+"comhpháirte chun comhpháirt a mharcáil nó a dhímharcáil.<p>Ní féidir aon "
+"chomhpháirt atá suiteáilte cheana a roghnú le suiteáil."
 
 #: setupstrings.ulf#STRING_INSTALLATIONIMMINENT_1.LngText.text
 msgid ""
@@ -19804,7 +19801,7 @@ msgstr ""
 msgid ""
 "This package format is currently not supported for your operating system!"
 msgstr ""
-"Ní thugann do chóras oibriúcháin tacaíocht don bhformáid phacáiste seo faoi "
+"Ní thugann do chóras oibriúcháin tacaíocht don fhormáid phacáiste seo faoi "
 "láthair!"
 
 #: setupstrings.ulf#STRING_OPERATING_SYSTEM.LngText.text
@@ -19821,7 +19818,7 @@ msgstr "Faic le suiteáil"
 
 #: setupstrings.ulf#STRING_NO_COMPONENTS_SELECTED_1.LngText.text
 msgid "No components have been selected for installation."
-msgstr "Níl aon chomhpáirt roghnaithe le suiteáil."
+msgstr "Níl aon chomhpháirt roghnaithe le suiteáil."
 
 #: setupstrings.ulf#STRING_NO_COMPONENTS_SELECTED_2.LngText.text
 msgid ""
@@ -19868,12 +19865,12 @@ msgid ""
 "Click 'OK' to select one or more components for uninstallation or to exit "
 "the Uninstallation Wizard."
 msgstr ""
-"Cliceáil 'OK' chun comhpháirt amháin nó níos mó a roghnú le dishuiteáil nó "
+"Cliceáil 'OK' chun comhpháirt amháin nó níos mó a roghnú le díshuiteáil nó "
 "scoir an 'Treoraí Díshuiteála."
 
 #: setupstrings.ulf#STRING_ALL_LANGUAGECOMPONENTS_SELECTED_1.LngText.text
 msgid "All language components have been selected for uninstallation."
-msgstr "Tå gach comhpháirt teanga roghnaithe le díshuiteáil."
+msgstr "Tá gach comhpháirt teanga roghnaithe le díshuiteáil."
 
 #: setupstrings.ulf#STRING_ALL_LANGUAGECOMPONENTS_SELECTED_2.LngText.text
 msgid ""
@@ -19881,7 +19878,7 @@ msgid ""
 "or to exit the Uninstallation Wizard."
 msgstr ""
 "Cliceáil 'OK' chun comhpháirt teanga amháin nó níos mó a roghnú gan a bheith "
-"dishuiteáilte nó scoir an Treoraí Díshuiteála."
+"díshuiteáilte nó scoir an Treoraí Díshuiteála."
 
 #: setupstrings.ulf#STRING_ALL_APPLICATIONCOMPONENTS_SELECTED_1.LngText.text
 msgid "All application components have been selected for uninstallation."
@@ -19893,7 +19890,7 @@ msgid ""
 "uninstallation or to exit the Uninstallation Wizard."
 msgstr ""
 "Cliceáil 'OK' chun comhpháirt fheidhmchláir amháin nó níos mó a roghnú gan a "
-"bheith dishuiteáilte nó scoir an Treoraí Díshuiteála."
+"bheith díshuiteáilte nó scoir an Treoraí Díshuiteála."
 
 #: setupstrings.ulf#STRING_CHANGE_SELECTION.LngText.text
 msgid "Please change selection"
@@ -36791,7 +36788,7 @@ msgstr "Méadaigh Eang"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_Freeline.Label.value.text
 msgid "Freeform Line, Filled"
-msgstr "Líne Shaorfhoirm, Líonta"
+msgstr "Líne Shaorfhoirme, Líonta"
 
 #: GenericCommands.xcu#..GenericCommands.UserInterface.Commands..uno_Freeline_Unfilled.Label.value.text
 #: tbxdraw.src#RID_SVXTBX_DRAW.TBX_DRAW.SID_DRAW_FREELINE_NOFILL.toolboxitem.text
@@ -41599,7 +41596,7 @@ msgstr "An tiománaí ~réamhshocraithe"
 
 #: padialog.src#RID_ADDP_PAGE_PDFDRIVER.RID_ADDP_PDFDRV_BTN_DIST.radiobutton.text
 msgid "The Adobe D~istiller(tm) driver"
-msgstr "An tiománaí Adobe D~istiller(tm)"
+msgstr "An tiománaí Adobe D~istiller™"
 
 #: padialog.src#RID_ADDP_PAGE_PDFDRIVER.RID_ADDP_PDFDRV_BTN_SELECT.radiobutton.text
 msgid "A spec~ific driver, to adapt the format to another printer"
@@ -73968,11 +73965,11 @@ msgstr "Stíleanna Priontála"
 
 #: doc.src#MSG_PRINT_ERROR.errorbox.text
 msgid "The print job could not be started."
-msgstr "Ní féidir an jab priontála a thosú."
+msgstr "Níorbh fhéidir an jab priontála a thosú."
 
 #: doc.src#MSG_CANT_OPEN_TEMPLATE.infobox.text
 msgid "The template could not be opened."
-msgstr "Ní féidir an teimpléad a oscailt."
+msgstr "Níorbh fhéidir an teimpléad a oscailt."
 
 #: doc.src#MSG_VIEW_OPEN_CANT_SAVE.infobox.text
 msgid "Document already open for editing."
@@ -74107,7 +74104,7 @@ msgstr "Á Luchtú: $(TARGET) ó $(HOST). Luchtaithe: $(BYTE)"
 
 #: doc.src#RID_DLSTATUS.INET_CONNECTION_CLOSED.string.text
 msgid "Disconnected"
-msgstr "Dínasctha"
+msgstr "Dícheangailte"
 
 #: doc.src#MSG_OPEN_READONLY.querybox.text
 msgid ""
@@ -79262,11 +79259,11 @@ msgstr "An iomarca comhaid oscailte."
 
 #: errtxt.src#RID_ERRHDL.ERRCODE_IO_CANTREAD.string.text
 msgid "Data could not be read from the file."
-msgstr "Ní féidir sonraí a léamh ón chomhad."
+msgstr "Níorbh fhéidir sonraí a léamh ón chomhad."
 
 #: errtxt.src#RID_ERRHDL.ERRCODE_IO_CANTWRITE.string.text
 msgid "The file could not be written."
-msgstr "Ní féidir scríobh sa chomhad."
+msgstr "Níorbh fhéidir scríobh sa chomhad."
 
 #: errtxt.src#RID_ERRHDL.ERRCODE_IO_OUTOFMEMORY.string.text
 msgid "The operation could not be run due to insufficient memory."
@@ -79322,11 +79319,11 @@ msgstr "Ní féidir réad a chóipeáil air féin."
 
 #: errtxt.src#RID_ERRHDL.ERRCODE_SFX_NOSTDTEMPLATE.string.text
 msgid "The default template could not be opened."
-msgstr "Ní féidir an teimpléad réamhshocraithe a oscailt."
+msgstr "Níorbh fhéidir an teimpléad réamhshocraithe a oscailt."
 
 #: errtxt.src#RID_ERRHDL.ERRCODE_SFX_TEMPLATENOTFOUND.string.text
 msgid "The specified template could not be found."
-msgstr "Ní féidir an teimpléad sainithe a aimsiú."
+msgstr "Níorbh fhéidir an teimpléad sainithe a aimsiú."
 
 #: errtxt.src#RID_ERRHDL.ERRCODE_SFX_NOTATEMPLATE.string.text
 msgid "The file cannot be used as template."
@@ -79434,7 +79431,7 @@ msgstr "Ní féidir cumraíocht taispeána na ndeilbhíní a shábháil."
 
 #: errtxt.src#RID_ERRHDL.ERRCODE_SFX_CANTDELICONFILE.string.text
 msgid "The configuration of the icon display could not be deleted."
-msgstr "Ní féidir cumraíocht taispeána na ndeilbhíní a scriosadh."
+msgstr "Níorbh fhéidir cumraíocht taispeána na ndeilbhíní a scriosadh."
 
 #: errtxt.src#RID_ERRHDL.ERRCODE_SFX_CANTRENAMECONTENT.string.text
 msgid "Contents cannot be renamed."
@@ -79446,7 +79443,7 @@ msgstr "Fillteán neamhbhailí leabharmharcanna."
 
 #: errtxt.src#RID_ERRHDL.ERRCODE_SFX_CANTWRITEURLCFGFILE.string.text
 msgid "The configuration of the URLs to be saved locally could not be saved."
-msgstr "Ní féidir cumraíocht na URLanna le sábháil go logánta a shábháil."
+msgstr "Níorbh fhéidir cumraíocht na URLanna le sábháil go logánta a shábháil."
 
 #: errtxt.src#RID_ERRHDL.ERRCODE_SFX_WRONGURLCFGFORMAT.string.text
 msgid "The configuration format of the URLs to be saved locally is invalid."
@@ -79467,7 +79464,7 @@ msgstr "Tá conair an Bhosca Athchúrsála neamhbhailí."
 
 #: errtxt.src#RID_ERRHDL.ERRCODE_SFX_NOTRESTORABLE.string.text
 msgid "The entry could not be restored."
-msgstr "Ní féidir an iontráil a athchóiriú."
+msgstr "Níorbh fhéidir an iontráil a athchóiriú."
 
 #: errtxt.src#RID_ERRHDL.ERRCODE_IO_NAMETOOLONG.string.text
 msgid "The file name is too long for the target file system."
@@ -79535,7 +79532,7 @@ msgstr ""
 
 #: errtxt.src#RID_ERRHDL.ERRCODE_SFX_CANTCREATEBACKUP.string.text
 msgid "Could not create backup copy."
-msgstr "Ní féidir cóip chúltaca a chruthú."
+msgstr "Níorbh fhéidir cóip chúltaca a chruthú."
 
 #: errtxt.src#RID_ERRHDL.ERRCODE_SFX_MACROS_SUPPORT_DISABLED.string.text
 msgid ""
@@ -86647,7 +86644,7 @@ msgstr ""
 "bhformáid HTML. Mar shampla, tig leat a chinntiú cad é an t-ábhar a "
 "thaispeántar ar an scáileán nó a phriontáiltear, conas a dhéantar "
 "leathanaigh a scrollú ar an scáileán, cén dath a úsáidtear chun béim a chur "
-"ar eochairfhocail sa téacs foinseach agus tuilleadh."
+"ar lorgfhocail sa téacs foinseach agus tuilleadh."
 
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE.STR_HELPTEXTS.6.itemlist.text
 msgid ""
@@ -111117,7 +111114,7 @@ msgstr ""
 "Ba mhaith leis an bhfreastalaí '${HOST}' fianán nó fianáin a shocrú.\n"
 "Tá tagairt ag an eolas sna fianáin d'aicmí URL áirithe. Má luchtaíonn %"
 "PRODUCTNAME cáipéis a fhreagraíonn d'aicmí fianáin a faighte cheana,"
-"seolfaidh %PRODUCTNAME an t-eolas seo don bhfreastalaí. Ligeann sé seo don "
+"seolfaidh %PRODUCTNAME an t-eolas seo don fhreastalaí. Ligeann sé seo don "
 "bhfreastalaí cuntas a choimeád ar stádas feidhmchláir WWW, m.sh, "
 "siopadóireacht ar an Idirlíon\n"
 "\n"
@@ -111148,13 +111145,13 @@ msgid ""
 "The following Cookies should be set:\n"
 "\n"
 msgstr ""
-"Tá %PRODUCTNAME tar éis fianáin  a shábháil don bhfreastalaí '${HOST}', "
+"Tá %PRODUCTNAME tar éis fianáin  a shábháil don fhreastalaí '${HOST}', "
 "sheolfar iad le iarraidh don cháipéis ${PATH}.\n"
 "Tá tagairt ag an eolas sna fianáin d'aicmí URL áirithe. Seolfar iad ó roinnt "
 "bhfreastalaí chuig %PRODUCTNAME, agus sábháiltear iad nuair a dhéantar "
 "rochtain ar cháipéisí áirithe. Má luchtaíonn %PRODUCTNAME cáipéis a (dar "
 "leis an URL) fhreagraíonn d'aicmí fianáin a faighte cheana, seolfaidh %"
-"PRODUCTNAME an t-eolas seo don bhfreastalaí. Ligeann sé seo don bhfreastalaí "
+"PRODUCTNAME an t-eolas seo don fhreastalaí. Ligeann sé seo don fhreastalaí "
 "cuntas a choimeád ar stádais feidhmchláir WWW, m.sh, siopadóireacht ar an "
 "Idirlíon\n"
 "\n"
