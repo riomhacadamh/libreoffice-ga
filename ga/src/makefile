@@ -13,11 +13,11 @@
 #    and give current translation counts, version number in log entry
 # $ make   (rebuilds GSI and copies it to obair for Pavel's system)
 
-VERSION=OOO300_m2
+VERSION=DEV300_m60
 PO2OO=po2oo
 
 all : OOo-$(VERSION)-ga-GSI.sdf
-	${HOME}/seal/gsicheck/gsicheck -c -l ga OOo-$(VERSION)-ga-GSI.sdf
+	${HOME}/seal/installed-local/gsicheck/gsicheck -c -l ga OOo-$(VERSION)-ga-GSI.sdf
 	bzip2 OOo-$(VERSION)-ga-GSI.sdf
 	cp -f OOo-$(VERSION)-ga-GSI.sdf.bz2 ${HOME}/public_html/obair/GSI_ga.sdf.bz2
 	bunzip2 OOo-$(VERSION)-ga-GSI.sdf.bz2
@@ -32,11 +32,13 @@ all : OOo-$(VERSION)-ga-GSI.sdf
 #     on top of a clean English binary install of this snapshot
 #   tools->options->language, choose "ga" and restart
 OOo-$(VERSION)-ga-GSI.sdf : OOo-latest.ga.po
-	bash oonua
-	(. ~/seal/translate/translate/setpath; $(PO2OO) --version)
-	(. ~/seal/translate/translate/setpath; $(PO2OO) -l ga -t en-US.sdf -i po -o $@)
+	# bash oonua
+	$(PO2OO) --version
+	$(PO2OO) -l ga -t en-US.sdf -i po -o $@
 	sed -i '/en-US\t\t/{s/.*/&\n&/; s/\(\n.*\)en-US\t\t/\1ga\t\t/}' $@  # deals with empty msgids in en-US.sdf, which don't make it into POT files even
 	sed -i '/ga\tNóta: /{s/\\</</g; s/\\>/>/g}' $@
+	sed -i '/Invalid Document Signature/d' $@
+	sed -i '$$!N; /Non-Encrypted Streams.*\n.*Non-Encrypted Streams/!P; D' $@
 
 #  Defunct now that Transl toolkit is using msgctxt 
 propogate : FORCE
