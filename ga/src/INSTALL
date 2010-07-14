@@ -1,0 +1,34 @@
+
+RPM install:
+
+cd ~/seal
+mv ooo oooprev
+mkdir oootemp ooo
+cd oootemp
+wget *LinuxX86_install_ga_rpm.tar.gz   [from Pavel's site - don't get x64!]
+gunzip *.gz
+tar xvf *.tar
+./install ./RPMS ../ooo
+
+then fire up swriter, etc. and test, if ok, then
+
+cd ..
+rm -Rf oooprev oootemp
+
+
+DEB install:
+cd ~/seal
+mkdir oootemp
+cd oootemp
+wget *LinuxX86_install_ga_deb.tar.gz   [don't get x64!]
+gunzip *.gz
+tar xvf *.tar
+cd OOO*
+sudo dpkg --install --recursive DEBS/
+
+installs in /opt/openoffice.org3
+
+then fire up swriter, etc. (from KDE toolbar e.g.) and test, if ok, then
+
+cd ..
+rm -Rf oootemp

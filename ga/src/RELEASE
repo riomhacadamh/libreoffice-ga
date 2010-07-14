@@ -1,0 +1,43 @@
+
+File a bug to have SUN create builds (in addition to Pavel's):
+instructions on how to submit this bug under "Submit your translation"
+on this page:
+http://wiki.services.openoffice.org/wiki/NLC:ReleaseChecklist
+Component l10n
+Sub-comp  "code"
+Issue type  "Enhancement"
+version number
+
+Summary:  
+[GA] GUI Translation for 3.1
+
+
+or/also Get builds from Pavel
+
+Test with TCM (release-sanity at least) and testtool
+
+
+http://qatrack.services.openoffice.org/
+Login
+Add candidate builds we're doing testing on
+Set qatrack status to APPROVED
+
+
+File an issue to have the approved build distributed to mirrors.
+Use link here as a template, or find this link directly at bottom of this page:
+http://wiki.services.openoffice.org/wiki/Release_Action_List_for_QA
+'This should be filed as "Task" for Componente "qa", subcomponent "www". Assign it to the default owner'
+
+http://qa.openoffice.org/issues/enter_bug.cgi?comment=following%20builds%20of%20%3Cversion%3ERC%3Cnr%3E%20%3Clocalization%3E%20have%20passed%20QA%20and%20should%20be%0D%0Adistributed%20to%20the%20mirror%20network%20as%20stable%20builds%3A%0D%0A%3Curl1%3E%0D%0A%3Curl2%3E%20%0D%0A%0D%0A...;issue_type=TASK;rep_platform=All;op_sys=All;priority=P3;subcomponent=www;component=qa;version=OOo%202.0;short_desc=Distribute%20%3Cversion%3ERC%3Cnr%3E%20-%20%3Clang%3E%20localization%20as%20final;form_name=enter_issue
+
+Summary of this part from
+http://wiki.services.openoffice.org/wiki/NLC:ReleaseChecklist
+
+New issue
+Component qa
+subcomponent www
+type ENHANCEMENT
+
+give links to builds and state that they've passed QA.
+
+
