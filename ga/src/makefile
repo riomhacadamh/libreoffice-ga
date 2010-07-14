@@ -1,19 +1,30 @@
 #    Instructions upon new OOo release
 # (1) Update the VERSION variable below to the new milestone number.
-# (2)  Then
-# $ make distclean
+# (2)  Then $ make distclean
+# (3) Generate POT files; either download directly from Pavel's site:
 # $ wget ftp://ftp.linux.cz/pub/localization/OpenOffice.org/devel/POT/OpenOffice.org-SRC680_m79-POT.tar.gz
 # $ gunzip -c Op*.tar.gz | tar -xf -
 # $ rm -f Open*
+#
+#       ...  OR ...
+#
+#    Get the latest SDF from OOo and convert to POT:
+#  $ wget http://download.services.openoffice.org/files/extended/ooomisc/sdf/full_DEV300_m84_2010-06-30_12-37-52.sdf.bz2
+#  $ bunzip2 full*
+#  $ mv full* en-US.sdf
+#  $ oo2po -P -i en-US.sdf -o pot
+#
+#
 # $ make OOo.po-update
 # Then update the
 # "CURRENT VERSION" at the top of OOo-SRC680_m79.ga.po, mv -f it to OOo-latest
+#   run "mt OOo-latest.ga.po" to translate new strings + minimize CVS diff!
 # $ tunnel  (in another window)
 # $ cvs commit OOo-latest.ga.po
 #    and give current translation counts, version number in log entry
 # $ make   (rebuilds GSI and copies it to obair for Pavel's system)
 
-VERSION=DEV300_m60
+VERSION=DEV300_m84
 PO2OO=po2oo
 
 all : OOo-$(VERSION)-ga-GSI.sdf
@@ -32,13 +43,13 @@ all : OOo-$(VERSION)-ga-GSI.sdf
 #     on top of a clean English binary install of this snapshot
 #   tools->options->language, choose "ga" and restart
 OOo-$(VERSION)-ga-GSI.sdf : OOo-latest.ga.po
-	# bash oonua
+	bash oonua
 	$(PO2OO) --version
 	$(PO2OO) -l ga -t en-US.sdf -i po -o $@
 	sed -i '/en-US\t\t/{s/.*/&\n&/; s/\(\n.*\)en-US\t\t/\1ga\t\t/}' $@  # deals with empty msgids in en-US.sdf, which don't make it into POT files even
-	sed -i '/ga\tNóta: /{s/\\</</g; s/\\>/>/g}' $@
-	sed -i '/Invalid Document Signature/d' $@
-	sed -i '$$!N; /Non-Encrypted Streams.*\n.*Non-Encrypted Streams/!P; D' $@
+#	sed -i '/ga\tNóta: /{s/\\</</g; s/\\>/>/g}' $@
+#	sed -i '/Invalid Document Signature/d' $@
+#	sed -i '$$!N; /Non-Encrypted Streams.*\n.*Non-Encrypted Streams/!P; D' $@
 
 #  Defunct now that Transl toolkit is using msgctxt 
 propogate : FORCE
