@@ -6516,7 +6516,7 @@ msgstr "Sann:"
 #: macropg.src#RID_SVXPAGE_MACROASSIGN.PB_ASSIGN.pushbutton.text
 msgctxt "macropg.src#RID_SVXPAGE_MACROASSIGN.PB_ASSIGN.pushbutton.text"
 msgid "M~acro..."
-msgstr "S~ann..."
+msgstr "M~acra..."
 
 #: macropg.src#RID_SVXPAGE_MACROASSIGN.PB_ASSIGN_COMPONENT.pushbutton.text
 msgid "Com~ponent..."
@@ -98833,7 +98833,7 @@ msgid ""
 msgstr ""
 "Copyright © 2000, 2010 Oracle agus/nó a chleamhnaithe. Gach ceart ar "
 "cosaint.\n"
-"Chruthaigh %OOO_VENDOR an táirge seo, bunaithe ar OpenOffice.org.\n"
+"Chruthaigh %OOOVENDOR an táirge seo, bunaithe ar OpenOffice.org.\n"
 "Aithníonn OpenOffice.org an comhphobal ar fad, go háirithe na daoine atá "
 "luaite ag\n"
 " http://www.openoffice.org/welcome/credits.html."
