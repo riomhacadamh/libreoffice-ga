@@ -10186,7 +10186,7 @@ msgstr "Socraíonn ~priontáil an stádas \"cáipéis athraithe\""
 
 #: optgdlg.src#OFA_TP_MISC.FL_TWOFIGURE.fixedline.text
 msgid "Year (two digits)"
-msgstr "Bliain (2 digit)"
+msgstr "Bliain (dhá dhigit)"
 
 #: optgdlg.src#OFA_TP_MISC.FT_INTERPRET.fixedtext.text
 msgid "Interpret as years between"
@@ -10248,7 +10248,7 @@ msgstr "Galaxy (réamhshocraithe)"
 
 #: optgdlg.src#OFA_TP_VIEW.LB_ICONSTYLE.3.stringlist.text
 msgid "High Contrast"
-msgstr "Ardc~hodarsnacht"
+msgstr "Ardchodarsnacht"
 
 #: optgdlg.src#OFA_TP_VIEW.LB_ICONSTYLE.4.stringlist.text
 msgid "Industrial"
