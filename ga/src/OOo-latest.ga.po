@@ -1,5 +1,5 @@
 # OOo pot file for Irish.
-# CURRENT VERSION = DEV300_m84
+# CURRENT VERSION = OOO330_m19 (2011-01-07)
 # First version produced Sept. 2004 by Kevin Scannell using the oo2po
 # scripts by David Fraser et al
 msgid ""
@@ -64769,11 +64769,11 @@ msgstr "Suiteáil tacaíocht don Choirdis i %PRODUCTNAME %PRODUCTVERSION"
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_DZ.LngText.text
 #: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_DZONGKHA.pairedlist.text
 msgid "Dzongkha"
-msgstr "Dzongkha"
+msgstr "Seoinicis"
 
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_DZ.LngText.text
 msgid "Installs Dzongkha support in %PRODUCTNAME %PRODUCTVERSION"
-msgstr "Suiteáil tacaíocht don Dzongkha i %PRODUCTNAME %PRODUCTVERSION"
+msgstr "Suiteáil tacaíocht don tSeoinicis i %PRODUCTNAME %PRODUCTVERSION"
 
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_KA.LngText.text
 #: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_GEORGIAN.pairedlist.text
