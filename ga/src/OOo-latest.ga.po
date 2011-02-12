@@ -14381,7 +14381,7 @@ msgstr "Clibeanna Cliste"
 
 #: textanim.src#RID_SVXPAGE_TEXTANIMATION.FL_EFFECT.fixedline.text
 msgid "Text animation effects"
-msgstr "maisíocht bheochana"
+msgstr "Maisíochtaí beochana téacs"
 
 #: textanim.src#RID_SVXPAGE_TEXTANIMATION.FT_EFFECTS.fixedtext.text
 msgid "E~ffect"
