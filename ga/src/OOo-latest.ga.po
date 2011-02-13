@@ -60082,14 +60082,14 @@ msgctxt ""
 "analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc.4.string."
 "text"
 msgid "Date purchased"
-msgstr "Dáta a ceannaíodh"
+msgstr "Dáta ar a ceannaíodh é"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc.5.string.text
 msgctxt ""
 "analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc.5.string."
 "text"
 msgid "Purchase date of the asset"
-msgstr "Dáta a ceannaíodh an tsócmhainn"
+msgstr "Dáta ar a ceannaíodh an tsócmhainn"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc.6.string.text
 msgctxt ""
@@ -60100,7 +60100,7 @@ msgstr "An chéad tréimhse"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc.7.string.text
 msgid "Date the first period ends"
-msgstr "Dáta a chríochnaíonn an chéad tréimhse"
+msgstr "Dáta ar a gcríochnaíonn an chéad tréimhse"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc.8.string.text
 msgctxt ""
@@ -60185,14 +60185,14 @@ msgctxt ""
 "analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc.4.string."
 "text"
 msgid "Date purchased"
-msgstr "Dáta a ceannaíodh"
+msgstr "Dáta ar a ceannaíodh é"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc.5.string.text
 msgctxt ""
 "analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc.5.string."
 "text"
 msgid "Purchase date of the asset"
-msgstr "Dáta a ceannaíodh an tsócmhainn"
+msgstr "Dáta ar a ceannaíodh an tsócmhainn"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc.6.string.text
 msgctxt ""
@@ -60203,7 +60203,7 @@ msgstr "An chéad tréimhse"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc.7.string.text
 msgid "The date the first period ends"
-msgstr "Dáta a chríochnaíonn an chéad tréimhse"
+msgstr "Dáta ar a gcríochnaíonn an chéad tréimhse"
 
 #: analysis.src#RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc.8.string.text
 msgctxt ""
@@ -117445,7 +117445,7 @@ msgstr "~Leaganacha Amach: "
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__52.string.text
 msgid "Cr~eation date"
-msgstr "~Dáta a cruthaíodh"
+msgstr "~Dáta ar a cruthaíodh é"
 
 #: dbwizres.src#RID_WEBWIZARDDIALOG_START__53.string.text
 msgid "~Last change date"
