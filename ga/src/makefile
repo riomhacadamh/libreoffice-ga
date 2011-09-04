@@ -1,7 +1,13 @@
+# LibreOffice
+# Browse to http://ftp.fsf.hu/LibreOffice/latest-POT/
+# grab latest UI zip file e.g.
+# wget http://ftp.fsf.hu/LibreOffice/latest-POT/libreoffice-3-4-en-US-2011-07-28-UI.pot.zip
+
 #    Instructions upon new OOo release
 # (1) Update the VERSION variable below to the new milestone number.
 # (2)  Then $ make distclean
 # (3) Generate POT files; either download directly from Pavel's site:
+#  DON'T BOTHER AS OF 2011 - Pavel's files all out of date...
 # $ wget ftp://ftp.linux.cz/pub/localization/OpenOffice.org/devel/POT/OpenOffice.org-SRC680_m79-POT.tar.gz
 # $ gunzip -c Op*.tar.gz | tar -xf -
 # $ rm -f Open*
@@ -9,9 +15,9 @@
 #       ...  OR ...
 #
 #    Get the latest SDF from OOo and convert to POT:
-#  $ wget http://download.services.openoffice.org/files/extended/ooomisc/sdf/full_DEV300_m84_2010-06-30_12-37-52.sdf.bz2
-#  $ bunzip2 full*
-#  $ mv full* en-US.sdf
+#  $ wget http://download.services.openoffice.org/files/extended/ooomisc/sdf/DEV300_m104.sdf.bz2
+#  $ bunzip2 *.bz2
+#  $ mv DEV*.sdf en-US.sdf
 #  $ oo2po -P -i en-US.sdf -o pot
 #
 #
@@ -19,12 +25,11 @@
 # Then update the
 # "CURRENT VERSION" at the top of OOo-SRC680_m79.ga.po, mv -f it to OOo-latest
 #   run "mt OOo-latest.ga.po" to translate new strings + minimize CVS diff!
-# $ tunnel  (in another window)
 # $ cvs commit OOo-latest.ga.po
 #    and give current translation counts, version number in log entry
 # $ make   (rebuilds GSI and copies it to obair for Pavel's system)
 
-VERSION=DEV300_m84
+VERSION=DEV300_m104
 PO2OO=po2oo
 
 all : OOo-$(VERSION)-ga-GSI.sdf

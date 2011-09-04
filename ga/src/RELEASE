@@ -12,7 +12,11 @@ Summary:
 [GA] GUI Translation for 3.1
 
 
-or/also Get builds from Pavel
+or/also Get builds from Pavel (not up-to-date as of OOo 3.3.0, Jan. 2011)
+
+
+
+-----------------------------------------------------
 
 Test with TCM (release-sanity at least) and testtool
 
@@ -22,6 +26,7 @@ Login
 Add candidate builds we're doing testing on
 Set qatrack status to APPROVED
 
+-----------------------------------------------------
 
 File an issue to have the approved build distributed to mirrors.
 Use link here as a template, or find this link directly at bottom of this page:
@@ -39,5 +44,3 @@ subcomponent www
 type ENHANCEMENT
 
 give links to builds and state that they've passed QA.
-
-
