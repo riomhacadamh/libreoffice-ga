@@ -2,7 +2,16 @@
 # Browse to http://ftp.fsf.hu/LibreOffice/latest-POT/
 # grab latest UI zip file e.g.
 # wget http://ftp.fsf.hu/LibreOffice/latest-POT/libreoffice-3-4-en-US-2011-07-28-UI.pot.zip
+# mv *.zip zipbomb
+# cd zipbomb
+# unzip *.zip
+# rm -f *.zip
+# Update the VERSION variable below to the new version number.
+# $ make OOo.po-update
+# mv -f OOo-3.4.po OOo-latest.ga.po
+# git commit OOo-latest.ga.po
 
+############################################################
 #    Instructions upon new OOo release
 # (1) Update the VERSION variable below to the new milestone number.
 # (2)  Then $ make distclean
@@ -29,25 +38,24 @@
 #    and give current translation counts, version number in log entry
 # $ make   (rebuilds GSI and copies it to obair for Pavel's system)
 
-VERSION=DEV300_m104
+VERSION=3.4
 PO2OO=po2oo
 
-all : OOo-$(VERSION)-ga-GSI.sdf
-	${HOME}/seal/installed-local/gsicheck/gsicheck -c -l ga OOo-$(VERSION)-ga-GSI.sdf
-	bzip2 OOo-$(VERSION)-ga-GSI.sdf
-	cp -f OOo-$(VERSION)-ga-GSI.sdf.bz2 ${HOME}/public_html/obair/GSI_ga.sdf.bz2
-	bunzip2 OOo-$(VERSION)-ga-GSI.sdf.bz2
+all: libreoffice-$(VERSION)-ga.zip
 
-# murf: 18 Feb 2005 on dev mailing list:
-# create GA locale file and put it in with other locale defs
-# configure with --with-lang="es ga"
-# 'localize -m -f OOo-$(VERSION)-ga-GSI.sdf -l ga'
-# (cd instsetoo_native/util; dmake ooolanguagepack)
-#    -- "with the epm patch in place"
-#     to create a sh script "language pack" that should be installable
-#     on top of a clean English binary install of this snapshot
-#   tools->options->language, choose "ga" and restart
-OOo-$(VERSION)-ga-GSI.sdf : OOo-latest.ga.po
+libreoffice-$(VERSION)-ga.zip: OOo-latest.ga.po
+	bash oonua
+	zip -r libreoffice-$(VERSION)-ga.zip po/
+
+# defunct now
+oldall : libreoffice-$(VERSION)-ga-GSI.sdf
+	${HOME}/seal/installed-local/gsicheck/gsicheck -c -l ga libreoffice-$(VERSION)-ga-GSI.sdf
+	bzip2 libreoffice-$(VERSION)-ga-GSI.sdf
+	cp -f libreoffice-$(VERSION)-ga-GSI.sdf.bz2 ${HOME}/public_html/obair/GSI_ga.sdf.bz2
+	bunzip2 libreoffice-$(VERSION)-ga-GSI.sdf.bz2
+
+# defunct now
+libreoffice-$(VERSION)-ga-GSI.sdf : OOo-latest.ga.po
 	bash oonua
 	$(PO2OO) --version
 	$(PO2OO) -l ga -t en-US.sdf -i po -o $@
@@ -65,7 +73,7 @@ propogate : FORCE
 
 # once per version bump -- see instructions at the top
 OOo.po-update : FORCE
-	find pot -name '*.pot' | egrep -v '^pot/helpcontent2' | sort | xargs msgcat -t utf-8 > bigole.pot
+	find zipbomb -name '*.pot' | sort | xargs msgcat -t utf-8 > bigole.pot
 	msgmerge -C OOo-latest.ga.po -o TEMP.po /dev/null bigole.pot
 	msgcat TEMP.po > OOo-$(VERSION).ga.po
 	rm -f bigole.pot TEMP.po
@@ -75,7 +83,7 @@ OOo.po-update : FORCE
 	msgfmt --statistics -o /dev/null OOo-$(VERSION).ga.po
 
 clean :
-	rm -f OOo-*-ga-GSI.sdf OOo-latest.po messages.mo OOo-temp.ga.po
+	rm -f *-ga-GSI.sdf OOo-latest.po messages.mo OOo-temp.ga.po
 	rm -fR po
 
 distclean :

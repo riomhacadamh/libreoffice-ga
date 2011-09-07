@@ -1,9 +1,9 @@
 #!/bin/bash
 UTFCOMP="./OOo-latest.ga.po"
 rm -f aistriuchan.log
-find pot -name '*.po' | xargs rm -f
+find zipbomb -name '*.po' | xargs rm -f
 rm -Rf po
-find pot -name '*.pot' |
+find zipbomb -name '*.pot' |
 while read pofile
 do
 	TARGET=`echo "${pofile}" | sed 's/t$//'`
@@ -27,6 +27,6 @@ do
 #	sed -i '/charset=ISO-8859-1/s/.*/"Content-Type: text\/plain; charset=UTF-8\\n"/' ${TARGET}
 #	rm -f ${TEMPPOT} # ${pofile}
 done
-cp -Rf pot po
+cp -Rf zipbomb po
 find po -name '*.pot' | xargs rm -f
-find pot -name '*.po' | xargs rm -f
+find zipbomb -name '*.po' | xargs rm -f
