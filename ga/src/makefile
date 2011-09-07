@@ -8,8 +8,15 @@
 # rm -f *.zip
 # Update the VERSION variable below to the new version number.
 # $ make OOo.po-update
-# mv -f OOo-3.4.po OOo-latest.ga.po
+# mv -f OOo-x.x.po OOo-latest.ga.po
+# Translate!
 # git commit OOo-latest.ga.po
+# make (generates libreoffice-x.x-ga.zip file)
+# Then log into Pootle server
+# https://translations.documentfoundation.org/accounts/login/
+# click LibreOffice x.x - UI, takes you to Overview/Forbhreathnú page
+# at bottom of that page there's an upload option
+# upload the libreoffice-x.x-ga.zip, selecting "Forscríobh..." option
 
 ############################################################
 #    Instructions upon new OOo release
@@ -45,7 +52,8 @@ all: libreoffice-$(VERSION)-ga.zip
 
 libreoffice-$(VERSION)-ga.zip: OOo-latest.ga.po
 	bash oonua
-	zip -r libreoffice-$(VERSION)-ga.zip po/
+	(cd po; find . -name '*.po' | xargs zip $@)
+	mv po/$@ .
 
 # defunct now
 oldall : libreoffice-$(VERSION)-ga-GSI.sdf
