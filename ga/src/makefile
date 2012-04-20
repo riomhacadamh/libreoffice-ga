@@ -1,16 +1,20 @@
 # LibreOffice
-# Browse to http://ftp.fsf.hu/LibreOffice/latest-POT/
+# Browse to http://dev-www.libreoffice.org/l10n/latest-pot/
+# (was http://ftp.fsf.hu/LibreOffice/latest-POT/)
 # grab latest UI zip file e.g.
-# wget http://ftp.fsf.hu/LibreOffice/latest-POT/libreoffice-3-4-en-US-2011-07-28-UI.pot.zip
-# mv *.zip zipbomb
+# wget http://dev-www.libreoffice.org/l10n/latest-pot/libreoffice-3-5-en-US-2011-12-15-UI.pot.zip
+# make clean
+# mv *.pot.zip zipbomb
 # cd zipbomb
 # unzip *.zip
 # rm -f *.zip
+# cd ..
 # Update the VERSION variable below to the new version number.
 # $ make OOo.po-update
 # mv -f OOo-x.x.po OOo-latest.ga.po
-# Translate!
-# git commit OOo-latest.ga.po
+# Clean up PO header comments
+# Translate (at least run mt on it to shrink the diff)
+# git commit OOo-latest.ga.po && git push
 # make (generates libreoffice-x.x-ga.zip file)
 # Then log into Pootle server
 # https://translations.documentfoundation.org/accounts/login/
@@ -45,7 +49,7 @@
 #    and give current translation counts, version number in log entry
 # $ make   (rebuilds GSI and copies it to obair for Pavel's system)
 
-VERSION=3.4
+VERSION=3.5
 PO2OO=po2oo
 
 all: libreoffice-$(VERSION)-ga.zip
@@ -93,6 +97,7 @@ OOo.po-update : FORCE
 clean :
 	rm -f *-ga-GSI.sdf OOo-latest.po messages.mo OOo-temp.ga.po
 	rm -fR po
+	rm -fR zipbomb/*
 
 distclean :
 	$(MAKE) clean
