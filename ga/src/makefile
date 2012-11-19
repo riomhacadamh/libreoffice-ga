@@ -7,7 +7,7 @@
 # mv *.pot.zip zipbomb
 # cd zipbomb
 # unzip *.zip
-# rm -f *.zip
+# rm -Rf *.zip helpcontent2
 # cd ..
 # Update the VERSION variable below to the new version number.
 # $ make OOo.po-update
