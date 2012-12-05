@@ -21,6 +21,8 @@
 # click LibreOffice x.x - UI, takes you to Overview/Forbhreathnú page
 # at bottom of that page there's an upload option
 # upload the libreoffice-x.x-ga.zip, selecting "Forscríobh..." option
+# After upload, go through quality checks (black down arrow on
+# the "Forbhreathrú" page reveals them)
 
 ############################################################
 #    Instructions upon new OOo release
