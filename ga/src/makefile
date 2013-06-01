@@ -51,7 +51,7 @@
 #    and give current translation counts, version number in log entry
 # $ make   (rebuilds GSI and copies it to obair for Pavel's system)
 
-VERSION=4.0
+VERSION=4.1
 PO2OO=po2oo
 
 all: libreoffice-$(VERSION)-ga.zip
