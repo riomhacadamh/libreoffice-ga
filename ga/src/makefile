@@ -11,6 +11,10 @@
 # cd ..
 # Update the VERSION variable below to the new version number.
 # $ make OOo.po-update
+# if there's a huge number of fuzzies caused by introduction or change of
+# msgctxt only, then you can try this:
+# $ perl hardmerge OOo-4.4.ga.po OOo-latest.ga.po > temp.po
+# and if it looks good, mv temp.po OOo-x.x.po
 # mv -f OOo-x.x.po OOo-latest.ga.po
 # Clean up PO header comments
 # Translate (at least run mt on it to shrink the diff)
@@ -51,7 +55,7 @@
 #    and give current translation counts, version number in log entry
 # $ make   (rebuilds GSI and copies it to obair for Pavel's system)
 
-VERSION=4.1
+VERSION=4.4
 PO2OO=po2oo
 
 all: libreoffice-$(VERSION)-ga.zip

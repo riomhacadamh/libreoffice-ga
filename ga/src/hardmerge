@@ -1,0 +1,83 @@
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+use Locale::PO;
+use HTML::Entities;
+use Encode qw(decode encode);
+
+#binmode STDOUT, ":utf8";
+#binmode STDERR, ":utf8";
+
+if (@ARGV != 2) {
+	die "Usage: $0 newwithfuzzies.po oldwithoutfuzzies.po\n";
+}
+
+my %translations;
+
+sub loadfile {
+(my $filename) = @_;
+# load old PO file into a hash
+my $aref = Locale::PO->load_file_asarray($filename);
+foreach my $msg (@$aref) {
+	#my $id = decode("utf8", $msg->msgid());
+	#my $str = decode("utf8", $msg->msgstr());
+	my $id = $msg->msgid();
+	my $str = $msg->msgstr();
+	# for plural form strings, msgstr won't be defined, so it
+	# ignores plurals for now since they don't always line up
+	if (defined($id) and defined($str) and !$msg->fuzzy()) {
+		if ($str and $id and $id ne '""' and $str ne '""') {
+			my $temp1 = $msg->dequote($id);
+			my $temp2 = $msg->dequote($str);
+			# old versions of Locale::PO don't handle obsolete
+			# messages correctly when they span multiple lines
+			unless ($temp1 =~ /^#~/ or $temp2 =~ /^#~/ or length($temp2)==1) {
+				$translations{$temp1} = $temp2;
+				if ($temp1 =~ m/~/ and $temp2 =~ m/~/) {
+					$temp1 =~ s/~/_/;
+					$temp2 =~ s/~/_/;
+					$translations{$temp1} = $temp2;
+				}
+				if ($temp1 =~ m/[^:]$/) {
+					$temp1 =~ s/$/:/;
+					$temp2 =~ s/$/:/;
+					$translations{$temp1} = $temp2;
+				}
+			}
+		}
+	}
+}
+}
+
+loadfile($ARGV[0]);
+loadfile($ARGV[1]);
+
+my $bref = Locale::PO->load_file_asarray($ARGV[0]);
+foreach my $msg (@$bref) {
+	if ($msg->fuzzy()) {
+		#my $id = decode("utf8", $msg->msgid());
+		#my $str = decode("utf8", $msg->msgstr());
+		my $id = $msg->msgid();
+		my $str = $msg->msgstr();
+		# for plural form strings, msgstr won't be defined, so it
+		# ignores plurals for now since they don't always line up
+		if (defined($id) and defined($str)) {
+			if ($str and $id and $id ne '""' and $str ne '""') {
+				my $temp1 = $msg->dequote($id);
+				my $temp2 = $msg->dequote($str);
+				# old versions of Locale::PO don't handle obsolete
+				# messages correctly when they span multiple lines
+				unless ($temp1 =~ /^#~/ or $temp2 =~ /^#~/) {
+					if (exists($translations{$temp1})) {
+						$msg->msgstr($translations{$temp1});
+						$msg->fuzzy(0);
+					}
+				}
+			}
+		}
+	}
+	print $msg->dump;
+}
+
+exit 0;
